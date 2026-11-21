@@ -841,4 +841,3 @@ These are real corpus records selected without changing the vocabulary. Addition
 **Rival:** terminal classifier or name element predicts recurrent formula without household identity; seal series or office class can predict size without a specific rank word
 
 **Result:** Same sequence, recurrence and metadata remain true under opaque bijective labels. No independent semantic ground truth available for a per-inscription success score.
-

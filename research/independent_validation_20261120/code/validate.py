@@ -257,7 +257,7 @@ def inscriptions(rows,corpora):
     lines=['# Sixty additional frozen-mapping inscription tests','', 'These are real corpus records selected without changing the vocabulary. Additional means outside dedicated showcase CSVs, not unseen by the original researchers. No row is claimed as an independently verified translation. Exact IDs, joins, raw contexts, alternatives and prediction/control results are in `../results/inscription_tests_60.csv`.','']
     for r in selected:
         lines+=['## '+r['test_id']+' — '+r['catalogue']+' '+r['catalogue_id']+' / '+r['reference'],'',r['exact_sequence']+' — '+r['site']+', '+r['object_type']+'. Findspot: '+r['findspot_raw']+'; house/level: '+r['house_or_level_raw']+'.','', '**Frozen roots:** '+r['literal_frozen_roots'],'','**Conditional grammar:** '+r['conditional_grammar'],'','**Prediction:** '+r['prediction'],'','**Rival:** '+r['alternative_prediction'],'','**Result:** '+r['control_result'],'']
-    (BASE/'reports/inscription_tests.md').write_text('\n'.join(lines)+'\n')
+    (BASE/'reports/inscription_tests.md').write_text('\n'.join(lines).rstrip()+'\n')
 
 def main():
     OUT.mkdir(exist_ok=True)
