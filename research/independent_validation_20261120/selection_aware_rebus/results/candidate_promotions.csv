@@ -1,0 +1,652 @@
+language,sign,success,chosen_case_index,chosen_panel,normalizer,chosen_title,in_original48,promoted_at_cap48
+Dravidian,060,True,114,key4b30,phon_exact,"slant, slope, bend, bent, curve, crooked, lean → inside, inner, within, join, unite, quarter, belong",False,True
+Dravidian,070,True,165,key6a24,ascii_exact,"post, pillar, column, arm, statue → audit, account, witness, chief, judge",False,True
+Dravidian,090,True,13,fixed48,phon_exact,man → manager / ruler,True,True
+Dravidian,095,True,54,auto51,phon_exact,man <-> copper_tablet_vs_all,False,True
+Dravidian,100,True,82,auto51,phon_exact,man <-> tag_all,False,True
+Dravidian,104,True,47,fixed48,phon_exact,leap → collect / levy,True,True
+Dravidian,125,False,80,auto51,phon_exact,bow <-> md_HR_elite,False,False
+Dravidian,140,True,27,fixed48,phon_exact,mother / lady ↔ goddess,True,True
+Dravidian,142,True,29,fixed48,phon_exact,staff → smith,True,True
+Dravidian,151,True,136,key4b30,phon_exact,"carry, burden, load, porter, pole, shoulder → guard, protect, watch, shelter, defence, preserve",False,True
+Dravidian,154,True,28,fixed48,phon_exact,carrying pole → guard,True,True
+Dravidian,156,True,128,key4b30,phon_exact,"carry, burden, porter, shoulder, pole, yoke → bale, pack, sack, bundle, ration, measure, weight",False,True
+Dravidian,165,True,46,fixed48,phon_exact,bend / snail → cauldron,True,True
+Dravidian,171,True,44,fixed48,phon_exact,hang ↔ weigh,True,True
+Dravidian,176,True,12,fixed48,ascii_exact,sit / remain → tribute,True,True
+Dravidian,220,True,101,legacy12,phon_exact,fish <-> star/constellation/shine,True,True
+Dravidian,222,False,84,auto51,phon_exact,fish <-> ctab_rhinoceros,False,False
+Dravidian,231,True,139,key4b30,phon_exact,"pierce, stab, plant, stick, line, stroke → star, bright, shine, country, district, estate, bull",False,True
+Dravidian,233,True,14,fixed48,phon_exact,split → dawn / light,True,True
+Dravidian,235,False,86,auto51,phon_exact,fish <-> ctab_rhinoceros,False,False
+Dravidian,236,False,83,auto51,phon_exact,bow <-> circuit_maritime_coastal,False,False
+Dravidian,240,True,59,auto51,phon_exact,fish <-> mtab_all,False,True
+Dravidian,255,True,20,fixed48,phon_stem,crocodile → first / principal,True,True
+Dravidian,297,True,174,key6a24,phon_exact,"lustre, splendour, sun, ray, spark → weight, share, tax, quarter, gold, price",False,True
+Dravidian,320,True,8,fixed48,phon_exact,step / ladder → ration / measure,True,True
+Dravidian,335,True,41,fixed48,phon_stem,frame → pot,True,True
+Dravidian,350,True,37,fixed48,phon_exact,fence → watchman,True,True
+Dravidian,354,False,98,auto51,phon_exact,rake <-> har_mound_AB,False,False
+Dravidian,368,True,23,fixed48,phon_exact,flag → give / grant,True,True
+Dravidian,374,True,74,auto51,phon_stem,leaf <-> md_HR_elite,False,True
+Dravidian,384,True,160,key6a24,phon_exact,"banyan, pipal, fig, leaf, foliage → estate, allot, copper, clan, lineage",False,True
+Dravidian,388,True,159,key6a24,ascii_exact,"banyan, pipal, fig, leaf, foliage → king, royal, tax, cloth, commodity",False,True
+Dravidian,390,True,5,fixed48,phon_exact,tree → sew / weave,True,True
+Dravidian,391,True,57,auto51,phon_stem,fork <-> copper_tool_vs_all,False,True
+Dravidian,400,True,2,fixed48,phon_exact,comb → small / junior,True,True
+Dravidian,405,True,122,key4b30,phon_exact,"tree, branch, bough, twig, shrub → thread, yarn, cord, string, weave, knit, spin",False,True
+Dravidian,407,True,17,fixed48,phon_stem,branch → cloth,True,True
+Dravidian,413,True,36,fixed48,phon_exact,grain → tax / cut,True,True
+Dravidian,415,True,15,fixed48,phon_exact,fork / branch → seize,True,True
+Dravidian,416,True,153,key5a13,phon_exact,"fork, branch, prong, tine, rake → seaport, harbor, port, ford, seize, grasp",False,True
+Dravidian,422,True,88,auto51,phon_stem,comb <-> copper_tablet_vs_all,False,True
+Dravidian,435,True,32,fixed48,phon_exact,hook → attendant,True,True
+Dravidian,440,True,31,fixed48,phon_exact,corner → vessel,True,True
+Dravidian,455,False,162,key6a24,phon_exact,"wing, tail, feather, butterfly, plume → star, bright, seal, gold, trade",False,False
+Dravidian,460,True,38,fixed48,phon_exact,shoot → garland,True,True
+Dravidian,480,True,40,fixed48,phon_stem,point → vessel,True,True
+Dravidian,482,True,39,fixed48,phon_exact,mountain → king,True,True
+Dravidian,500,False,66,auto51,phon_exact,tent <-> tag_all,False,False
+Dravidian,503,True,30,fixed48,phon_exact,mountain → garland,True,True
+Dravidian,520,True,92,auto51,phon_stem,arrow <-> copper_tablet_vs_all,True,True
+Dravidian,527,True,152,key5a13,phon_exact,"crossbar, bolt, latch, plank, panel, hinge → door, gate, portal, entrance, threshold, enclosure",False,True
+Dravidian,540,True,65,auto51,phon_exact,hourglass <-> pot_all,True,True
+Dravidian,550,True,25,fixed48,phon_exact,waist / middle → district,True,True
+Dravidian,585,True,68,auto51,phon_exact,tent <-> har_mound_AB,False,True
+Dravidian,590,True,9,fixed48,phon_exact,basket / plait → bale / load,True,True
+Dravidian,595,True,157,key6a24,phon_exact,"stripe, line, streak, hatch, draw → tax, impost, duty, toll, levy, copper",False,False
+Dravidian,615,True,10,fixed48,phon_exact,loom frame → field plot,True,False
+Dravidian,621,True,170,key6a24,phon_stem,"room, chamber, apartment, window, shutter → seal, title, chief, ruler, office, guard",False,False
+Dravidian,630,True,43,fixed48,phon_exact,cage → assemble / store,True,False
+Dravidian,645,True,169,key6a24,phon_stem,"cross, intersect, scissors, diagonal → weight, gold, coin, balance, bronze, axe",False,False
+Dravidian,690,True,24,fixed48,phon_exact,tie ↔ bundle / building,True,False
+Dravidian,692,False,147,key5a13,phon_exact,"cross, intersect, transverse, criss → assembly, council, guild, office, citadel, precinct",False,False
+Dravidian,700,True,1,fixed48,phon_exact,bowl / hollow → measure,True,False
+Dravidian,705,True,11,fixed48,phon_exact,threshing floor → vessel / ship,True,False
+Dravidian,706,True,140,key4b30,phon_exact,"cup, bowl, vessel, pot, jar, hollow → measure, bushel, capacity, grain, ivory, elephant",False,False
+Dravidian,717,True,35,fixed48,phon_exact,foot ↔ servant,True,False
+Dravidian,740,True,0,fixed48,phon_stem,jar → house,True,False
+Dravidian,741,True,116,key4b30,phon_stem,"jar, pot, waterpot, pitcher, vessel → house, ward, family, abode, lineage, tenant",False,False
+Dravidian,742,True,78,auto51,phon_stem,jar <-> md_HR_elite,False,False
+Dravidian,752,True,53,auto51,phon_stem,cup <-> copper_tablet_vs_all,False,False
+Dravidian,760,True,22,fixed48,phon_exact,sprout ↔ young / child,True,False
+Dravidian,790,False,97,auto51,phon_exact,leaf <-> har_mound_AB,False,False
+Dravidian,798,True,19,fixed48,phon_exact,shell → bind / build house,True,False
+Dravidian,803,True,127,key4b30,phon_stem,"leaf, leaves, foliage, petal → house, abode, home, family, dwelling, lineage",False,False
+Dravidian,806,True,18,fixed48,phon_exact,stalk → millet,True,False
+Dravidian,817,True,118,key4b30,phon_stem,"eye, seed, kernel, bud, lozenge, sight → box, chest, crate, cargo, freight, weight, share",False,False
+Dravidian,820,True,7,fixed48,phon_exact,wheel → quarter / leg,True,False
+Dravidian,831,True,45,fixed48,phon_exact,blade → grain,True,False
+Dravidian,838,True,94,auto51,phon_exact,leaf <-> ivory_bone_rod,False,False
+Dravidian,840,True,21,fixed48,phon_exact,pair ↔ join,True,False
+Dravidian,845,True,33,fixed48,phon_exact,line → tax,True,False
+Dravidian,850,True,109,legacy12,phon_stem,eye/sight/pupil <-> copper/bronze/metal/blade,True,False
+Dravidian,861,True,6,fixed48,phon_exact,eye / sight → weight / property,True,False
+Dravidian,868,False,93,auto51,phon_exact,book <-> mtab_all,False,False
+Dravidian,877,True,172,key6a24,phon_exact,"bloom, flower, blossom, petal, diamond → jewel, bead, gold, weight, share",False,False
+Dravidian,880,True,77,auto51,phon_stem,wheel <-> tag_all,False,False
+Dravidian,890,False,61,auto51,phon_exact,bow <-> circuit_eastern_headwaters,False,False
+Dravidian,892,True,26,fixed48,phon_exact,bow → sell,True,False
+Dravidian,900,False,79,auto51,phon_exact,bow <-> md_citadel,False,False
+Dravidian,906,False,73,auto51,phon_exact,bow <-> tag_all,False,False
+Dravidian,920,True,16,fixed48,phon_exact,moon ↔ month,True,False
+Dravidian,923,False,85,auto51,phon_exact,bow <-> ctab_elephant,False,False
+Dravidian,924,False,62,auto51,phon_exact,bow <-> circuit_overland_west_north,False,False
+Munda,060,False,114,key4b30,phon_exact,"slant, slope, bend, bent, curve, crooked, lean → inside, inner, within, join, unite, quarter, belong",False,False
+Munda,070,False,165,key6a24,phon_exact,"post, pillar, column, arm, statue → audit, account, witness, chief, judge",False,False
+Munda,090,False,13,fixed48,phon_exact,man → manager / ruler,True,False
+Munda,095,False,54,auto51,phon_exact,man <-> copper_tablet_vs_all,False,False
+Munda,100,False,82,auto51,phon_exact,man <-> tag_all,False,False
+Munda,104,False,47,fixed48,phon_exact,leap → collect / levy,True,False
+Munda,125,False,80,auto51,phon_exact,bow <-> md_HR_elite,False,False
+Munda,140,False,27,fixed48,phon_exact,mother / lady ↔ goddess,True,False
+Munda,142,False,29,fixed48,phon_exact,staff → smith,True,False
+Munda,151,False,136,key4b30,phon_exact,"carry, burden, load, porter, pole, shoulder → guard, protect, watch, shelter, defence, preserve",False,False
+Munda,154,False,28,fixed48,phon_exact,carrying pole → guard,True,False
+Munda,156,False,128,key4b30,phon_exact,"carry, burden, porter, shoulder, pole, yoke → bale, pack, sack, bundle, ration, measure, weight",False,False
+Munda,165,False,46,fixed48,phon_exact,bend / snail → cauldron,True,False
+Munda,171,True,173,key6a24,phon_stem,"hang, suspend, swing, yoke, pendulum → weight, standard, balance, scale, stone, equal",True,True
+Munda,176,False,12,fixed48,phon_exact,sit / remain → tribute,True,False
+Munda,220,False,3,fixed48,phon_exact,fish → star,True,False
+Munda,222,False,84,auto51,phon_exact,fish <-> ctab_rhinoceros,False,False
+Munda,231,False,139,key4b30,phon_exact,"pierce, stab, plant, stick, line, stroke → star, bright, shine, country, district, estate, bull",False,False
+Munda,233,False,14,fixed48,phon_exact,split → dawn / light,True,False
+Munda,235,False,86,auto51,phon_exact,fish <-> ctab_rhinoceros,False,False
+Munda,236,False,83,auto51,phon_exact,bow <-> circuit_maritime_coastal,False,False
+Munda,240,False,59,auto51,phon_exact,fish <-> mtab_all,False,False
+Munda,255,True,126,key4b30,phon_exact,"animal, beast, fish, bird, fowl, fin → ration, allowance, grain, granary, chief, king, issue",True,True
+Munda,297,False,174,key6a24,phon_exact,"lustre, splendour, sun, ray, spark → weight, share, tax, quarter, gold, price",False,False
+Munda,320,False,8,fixed48,phon_exact,step / ladder → ration / measure,True,False
+Munda,335,False,41,fixed48,phon_exact,frame → pot,True,False
+Munda,350,False,37,fixed48,phon_exact,fence → watchman,True,False
+Munda,354,False,98,auto51,phon_exact,rake <-> har_mound_AB,False,False
+Munda,368,False,23,fixed48,phon_exact,flag → give / grant,True,False
+Munda,374,False,74,auto51,phon_exact,leaf <-> md_HR_elite,False,False
+Munda,384,False,96,auto51,phon_exact,leaf <-> copper_tablet_vs_all,False,False
+Munda,388,True,159,key6a24,phon_exact,"banyan, pipal, fig, leaf, foliage → king, royal, tax, cloth, commodity",False,True
+Munda,390,True,110,legacy12,phon_stem,tree/branch/bough <-> cotton/thread/cloth/yarn,True,True
+Munda,391,False,57,auto51,phon_exact,fork <-> copper_tool_vs_all,False,False
+Munda,400,False,2,fixed48,phon_exact,comb → small / junior,True,False
+Munda,405,True,122,key4b30,phon_stem,"tree, branch, bough, twig, shrub → thread, yarn, cord, string, weave, knit, spin",False,True
+Munda,407,False,17,fixed48,phon_exact,branch → cloth,True,False
+Munda,413,False,36,fixed48,phon_exact,grain → tax / cut,True,False
+Munda,415,True,120,key4b30,phon_exact,"fork, branch, prong, rake, bifurcate, tine → seize, grasp, control, share, rent, chief, lord",True,True
+Munda,416,False,72,auto51,phon_exact,comb <-> circuit_maritime_coastal,False,False
+Munda,422,False,88,auto51,phon_exact,comb <-> copper_tablet_vs_all,False,False
+Munda,435,False,32,fixed48,phon_exact,hook → attendant,True,False
+Munda,440,False,31,fixed48,phon_exact,corner → vessel,True,False
+Munda,455,False,162,key6a24,phon_exact,"wing, tail, feather, butterfly, plume → star, bright, seal, gold, trade",False,False
+Munda,460,True,163,key6a24,phon_stem,"shoot, sprout, thorn, shrub, spike → garland, wreath, necklace, offering, sacred",True,True
+Munda,480,False,40,fixed48,phon_exact,point → vessel,True,False
+Munda,482,False,39,fixed48,phon_exact,mountain → king,True,False
+Munda,500,False,66,auto51,phon_exact,tent <-> tag_all,False,False
+Munda,503,False,30,fixed48,phon_exact,mountain → garland,True,False
+Munda,520,False,4,fixed48,phon_exact,spear → chief,True,False
+Munda,527,False,152,key5a13,phon_exact,"crossbar, bolt, latch, plank, panel, hinge → door, gate, portal, entrance, threshold, enclosure",False,False
+Munda,540,False,42,fixed48,phon_exact,drum ↔ capacity measure,True,False
+Munda,550,False,25,fixed48,phon_exact,waist / middle → district,True,False
+Munda,585,False,68,auto51,phon_exact,tent <-> har_mound_AB,False,False
+Munda,590,False,9,fixed48,phon_exact,basket / plait → bale / load,True,False
+Munda,595,False,48,auto51,phon_exact,box <-> ctab_bull_gaur_unicorn,False,False
+Munda,615,False,10,fixed48,phon_exact,loom frame → field plot,True,False
+Munda,621,False,170,key6a24,phon_exact,"room, chamber, apartment, window, shutter → seal, title, chief, ruler, office, guard",False,False
+Munda,630,False,43,fixed48,phon_exact,cage → assemble / store,True,False
+Munda,645,False,169,key6a24,phon_exact,"cross, intersect, scissors, diagonal → weight, gold, coin, balance, bronze, axe",False,False
+Munda,690,False,24,fixed48,phon_exact,tie ↔ bundle / building,True,False
+Munda,692,False,147,key5a13,phon_exact,"cross, intersect, transverse, criss → assembly, council, guild, office, citadel, precinct",False,False
+Munda,700,False,1,fixed48,phon_exact,bowl / hollow → measure,True,False
+Munda,705,False,11,fixed48,phon_exact,threshing floor → vessel / ship,True,False
+Munda,706,False,140,key4b30,phon_exact,"cup, bowl, vessel, pot, jar, hollow → measure, bushel, capacity, grain, ivory, elephant",False,False
+Munda,717,False,35,fixed48,phon_exact,foot ↔ servant,True,False
+Munda,740,False,0,fixed48,phon_exact,jar → house,True,False
+Munda,741,False,116,key4b30,phon_exact,"jar, pot, waterpot, pitcher, vessel → house, ward, family, abode, lineage, tenant",False,False
+Munda,742,False,78,auto51,phon_exact,jar <-> md_HR_elite,False,False
+Munda,752,False,53,auto51,phon_exact,cup <-> copper_tablet_vs_all,False,False
+Munda,760,False,22,fixed48,phon_exact,sprout ↔ young / child,True,False
+Munda,790,False,97,auto51,phon_exact,leaf <-> har_mound_AB,False,False
+Munda,798,False,19,fixed48,phon_exact,shell → bind / build house,True,False
+Munda,803,False,127,key4b30,phon_exact,"leaf, leaves, foliage, petal → house, abode, home, family, dwelling, lineage",False,False
+Munda,806,False,18,fixed48,phon_exact,stalk → millet,True,False
+Munda,817,False,118,key4b30,phon_exact,"eye, seed, kernel, bud, lozenge, sight → box, chest, crate, cargo, freight, weight, share",False,False
+Munda,820,False,7,fixed48,phon_exact,wheel → quarter / leg,True,False
+Munda,831,False,45,fixed48,phon_exact,blade → grain,True,False
+Munda,838,True,94,auto51,phon_exact,leaf <-> ivory_bone_rod,False,True
+Munda,840,True,21,fixed48,phon_stem,pair ↔ join,True,True
+Munda,845,True,151,key5a13,phon_exact,"line, streak, stripe, hatch, draw, furrow → tax, impost, duty, toll, levy, rent",True,True
+Munda,850,False,34,fixed48,phon_exact,eye → copper,True,False
+Munda,861,False,6,fixed48,phon_exact,eye / sight → weight / property,True,False
+Munda,868,False,93,auto51,phon_exact,book <-> mtab_all,False,False
+Munda,877,False,172,key6a24,phon_exact,"bloom, flower, blossom, petal, diamond → jewel, bead, gold, weight, share",False,False
+Munda,880,False,77,auto51,phon_exact,wheel <-> tag_all,False,False
+Munda,890,False,61,auto51,phon_exact,bow <-> circuit_eastern_headwaters,False,False
+Munda,892,False,26,fixed48,phon_exact,bow → sell,True,False
+Munda,900,False,79,auto51,phon_exact,bow <-> md_citadel,False,False
+Munda,906,False,73,auto51,phon_exact,bow <-> tag_all,False,False
+Munda,920,False,16,fixed48,phon_exact,moon ↔ month,True,False
+Munda,923,False,85,auto51,phon_exact,bow <-> ctab_elephant,False,False
+Munda,924,False,62,auto51,phon_exact,bow <-> circuit_overland_west_north,False,False
+Indo-Aryan,060,False,114,key4b30,phon_exact,"slant, slope, bend, bent, curve, crooked, lean → inside, inner, within, join, unite, quarter, belong",False,False
+Indo-Aryan,070,False,165,key6a24,phon_exact,"post, pillar, column, arm, statue → audit, account, witness, chief, judge",False,False
+Indo-Aryan,090,False,13,fixed48,phon_exact,man → manager / ruler,True,False
+Indo-Aryan,095,False,54,auto51,phon_exact,man <-> copper_tablet_vs_all,False,False
+Indo-Aryan,100,False,82,auto51,phon_exact,man <-> tag_all,False,False
+Indo-Aryan,104,False,47,fixed48,phon_exact,leap → collect / levy,True,False
+Indo-Aryan,125,False,80,auto51,phon_exact,bow <-> md_HR_elite,False,False
+Indo-Aryan,140,False,27,fixed48,phon_exact,mother / lady ↔ goddess,True,False
+Indo-Aryan,142,False,29,fixed48,phon_exact,staff → smith,True,False
+Indo-Aryan,151,False,136,key4b30,phon_exact,"carry, burden, load, porter, pole, shoulder → guard, protect, watch, shelter, defence, preserve",False,False
+Indo-Aryan,154,False,28,fixed48,phon_exact,carrying pole → guard,True,False
+Indo-Aryan,156,False,128,key4b30,phon_exact,"carry, burden, porter, shoulder, pole, yoke → bale, pack, sack, bundle, ration, measure, weight",False,False
+Indo-Aryan,165,True,176,key6a24,phon_stem,"bend, curve, hump, snail, spiral → cauldron, copper, vessel, pot, month",True,True
+Indo-Aryan,171,False,44,fixed48,phon_exact,hang ↔ weigh,True,False
+Indo-Aryan,176,False,12,fixed48,phon_exact,sit / remain → tribute,True,False
+Indo-Aryan,220,False,3,fixed48,phon_exact,fish → star,True,False
+Indo-Aryan,222,False,84,auto51,phon_exact,fish <-> ctab_rhinoceros,False,False
+Indo-Aryan,231,False,139,key4b30,phon_exact,"pierce, stab, plant, stick, line, stroke → star, bright, shine, country, district, estate, bull",False,False
+Indo-Aryan,233,False,14,fixed48,phon_exact,split → dawn / light,True,False
+Indo-Aryan,235,False,86,auto51,phon_exact,fish <-> ctab_rhinoceros,False,False
+Indo-Aryan,236,False,83,auto51,phon_exact,bow <-> circuit_maritime_coastal,False,False
+Indo-Aryan,240,False,59,auto51,phon_exact,fish <-> mtab_all,False,False
+Indo-Aryan,255,True,126,key4b30,phon_exact,"animal, beast, fish, bird, fowl, fin → ration, allowance, grain, granary, chief, king, issue",True,True
+Indo-Aryan,297,False,174,key6a24,phon_exact,"lustre, splendour, sun, ray, spark → weight, share, tax, quarter, gold, price",False,False
+Indo-Aryan,320,False,8,fixed48,phon_exact,step / ladder → ration / measure,True,False
+Indo-Aryan,335,False,41,fixed48,phon_exact,frame → pot,True,False
+Indo-Aryan,350,False,37,fixed48,phon_exact,fence → watchman,True,False
+Indo-Aryan,354,False,98,auto51,phon_exact,rake <-> har_mound_AB,False,False
+Indo-Aryan,368,False,23,fixed48,phon_exact,flag → give / grant,True,False
+Indo-Aryan,374,False,74,auto51,phon_exact,leaf <-> md_HR_elite,False,False
+Indo-Aryan,384,False,96,auto51,phon_exact,leaf <-> copper_tablet_vs_all,False,False
+Indo-Aryan,388,False,159,key6a24,phon_exact,"banyan, pipal, fig, leaf, foliage → king, royal, tax, cloth, commodity",False,False
+Indo-Aryan,390,False,5,fixed48,phon_exact,tree → sew / weave,True,False
+Indo-Aryan,391,False,57,auto51,phon_exact,fork <-> copper_tool_vs_all,False,False
+Indo-Aryan,400,False,2,fixed48,phon_exact,comb → small / junior,True,False
+Indo-Aryan,405,False,122,key4b30,phon_exact,"tree, branch, bough, twig, shrub → thread, yarn, cord, string, weave, knit, spin",False,False
+Indo-Aryan,407,False,17,fixed48,phon_exact,branch → cloth,True,False
+Indo-Aryan,413,False,36,fixed48,phon_exact,grain → tax / cut,True,False
+Indo-Aryan,415,False,15,fixed48,phon_exact,fork / branch → seize,True,False
+Indo-Aryan,416,False,72,auto51,phon_exact,comb <-> circuit_maritime_coastal,False,False
+Indo-Aryan,422,False,88,auto51,phon_exact,comb <-> copper_tablet_vs_all,False,False
+Indo-Aryan,435,False,32,fixed48,phon_exact,hook → attendant,True,False
+Indo-Aryan,440,False,31,fixed48,phon_exact,corner → vessel,True,False
+Indo-Aryan,455,False,162,key6a24,phon_exact,"wing, tail, feather, butterfly, plume → star, bright, seal, gold, trade",False,False
+Indo-Aryan,460,True,163,key6a24,phon_exact,"shoot, sprout, thorn, shrub, spike → garland, wreath, necklace, offering, sacred",True,True
+Indo-Aryan,480,False,40,fixed48,phon_exact,point → vessel,True,False
+Indo-Aryan,482,False,39,fixed48,phon_exact,mountain → king,True,False
+Indo-Aryan,500,False,66,auto51,phon_exact,tent <-> tag_all,False,False
+Indo-Aryan,503,False,30,fixed48,phon_exact,mountain → garland,True,False
+Indo-Aryan,520,False,4,fixed48,phon_exact,spear → chief,True,False
+Indo-Aryan,527,False,152,key5a13,phon_exact,"crossbar, bolt, latch, plank, panel, hinge → door, gate, portal, entrance, threshold, enclosure",False,False
+Indo-Aryan,540,False,42,fixed48,phon_exact,drum ↔ capacity measure,True,False
+Indo-Aryan,550,False,25,fixed48,phon_exact,waist / middle → district,True,False
+Indo-Aryan,585,False,68,auto51,phon_exact,tent <-> har_mound_AB,False,False
+Indo-Aryan,590,False,9,fixed48,phon_exact,basket / plait → bale / load,True,False
+Indo-Aryan,595,False,48,auto51,phon_exact,box <-> ctab_bull_gaur_unicorn,False,False
+Indo-Aryan,615,False,10,fixed48,phon_exact,loom frame → field plot,True,False
+Indo-Aryan,621,False,170,key6a24,phon_exact,"room, chamber, apartment, window, shutter → seal, title, chief, ruler, office, guard",False,False
+Indo-Aryan,630,False,43,fixed48,phon_exact,cage → assemble / store,True,False
+Indo-Aryan,645,False,169,key6a24,phon_exact,"cross, intersect, scissors, diagonal → weight, gold, coin, balance, bronze, axe",False,False
+Indo-Aryan,690,False,24,fixed48,phon_exact,tie ↔ bundle / building,True,False
+Indo-Aryan,692,False,147,key5a13,phon_exact,"cross, intersect, transverse, criss → assembly, council, guild, office, citadel, precinct",False,False
+Indo-Aryan,700,False,1,fixed48,phon_exact,bowl / hollow → measure,True,False
+Indo-Aryan,705,False,11,fixed48,phon_exact,threshing floor → vessel / ship,True,False
+Indo-Aryan,706,False,140,key4b30,phon_exact,"cup, bowl, vessel, pot, jar, hollow → measure, bushel, capacity, grain, ivory, elephant",False,False
+Indo-Aryan,717,False,35,fixed48,phon_exact,foot ↔ servant,True,False
+Indo-Aryan,740,False,0,fixed48,phon_exact,jar → house,True,False
+Indo-Aryan,741,False,116,key4b30,phon_exact,"jar, pot, waterpot, pitcher, vessel → house, ward, family, abode, lineage, tenant",False,False
+Indo-Aryan,742,False,78,auto51,phon_exact,jar <-> md_HR_elite,False,False
+Indo-Aryan,752,False,53,auto51,phon_exact,cup <-> copper_tablet_vs_all,False,False
+Indo-Aryan,760,False,22,fixed48,phon_exact,sprout ↔ young / child,True,False
+Indo-Aryan,790,False,97,auto51,phon_exact,leaf <-> har_mound_AB,False,False
+Indo-Aryan,798,False,19,fixed48,phon_exact,shell → bind / build house,True,False
+Indo-Aryan,803,False,127,key4b30,phon_exact,"leaf, leaves, foliage, petal → house, abode, home, family, dwelling, lineage",False,False
+Indo-Aryan,806,False,18,fixed48,phon_exact,stalk → millet,True,False
+Indo-Aryan,817,False,118,key4b30,phon_exact,"eye, seed, kernel, bud, lozenge, sight → box, chest, crate, cargo, freight, weight, share",False,False
+Indo-Aryan,820,False,7,fixed48,phon_exact,wheel → quarter / leg,True,False
+Indo-Aryan,831,False,45,fixed48,phon_exact,blade → grain,True,False
+Indo-Aryan,838,False,94,auto51,phon_exact,leaf <-> ivory_bone_rod,False,False
+Indo-Aryan,840,False,21,fixed48,phon_exact,pair ↔ join,True,False
+Indo-Aryan,845,False,33,fixed48,phon_exact,line → tax,True,False
+Indo-Aryan,850,False,34,fixed48,phon_exact,eye → copper,True,False
+Indo-Aryan,861,False,6,fixed48,phon_exact,eye / sight → weight / property,True,False
+Indo-Aryan,868,False,93,auto51,phon_exact,book <-> mtab_all,False,False
+Indo-Aryan,877,False,172,key6a24,phon_exact,"bloom, flower, blossom, petal, diamond → jewel, bead, gold, weight, share",False,False
+Indo-Aryan,880,False,77,auto51,phon_exact,wheel <-> tag_all,False,False
+Indo-Aryan,890,False,61,auto51,phon_exact,bow <-> circuit_eastern_headwaters,False,False
+Indo-Aryan,892,False,26,fixed48,phon_exact,bow → sell,True,False
+Indo-Aryan,900,False,79,auto51,phon_exact,bow <-> md_citadel,False,False
+Indo-Aryan,906,False,73,auto51,phon_exact,bow <-> tag_all,False,False
+Indo-Aryan,920,True,16,fixed48,phon_exact,moon ↔ month,True,True
+Indo-Aryan,923,False,85,auto51,phon_exact,bow <-> ctab_elephant,False,False
+Indo-Aryan,924,False,62,auto51,phon_exact,bow <-> circuit_overland_west_north,False,False
+Elamite,060,False,114,key4b30,phon_exact,"slant, slope, bend, bent, curve, crooked, lean → inside, inner, within, join, unite, quarter, belong",False,False
+Elamite,070,False,165,key6a24,phon_exact,"post, pillar, column, arm, statue → audit, account, witness, chief, judge",False,False
+Elamite,090,False,13,fixed48,phon_exact,man → manager / ruler,True,False
+Elamite,095,False,54,auto51,phon_exact,man <-> copper_tablet_vs_all,False,False
+Elamite,100,False,82,auto51,phon_exact,man <-> tag_all,False,False
+Elamite,104,False,47,fixed48,phon_exact,leap → collect / levy,True,False
+Elamite,125,False,80,auto51,phon_exact,bow <-> md_HR_elite,False,False
+Elamite,140,False,27,fixed48,phon_exact,mother / lady ↔ goddess,True,False
+Elamite,142,False,29,fixed48,phon_exact,staff → smith,True,False
+Elamite,151,False,136,key4b30,phon_exact,"carry, burden, load, porter, pole, shoulder → guard, protect, watch, shelter, defence, preserve",False,False
+Elamite,154,False,28,fixed48,phon_exact,carrying pole → guard,True,False
+Elamite,156,False,128,key4b30,phon_exact,"carry, burden, porter, shoulder, pole, yoke → bale, pack, sack, bundle, ration, measure, weight",False,False
+Elamite,165,False,46,fixed48,phon_exact,bend / snail → cauldron,True,False
+Elamite,171,False,44,fixed48,phon_exact,hang ↔ weigh,True,False
+Elamite,176,False,12,fixed48,phon_exact,sit / remain → tribute,True,False
+Elamite,220,False,3,fixed48,phon_exact,fish → star,True,False
+Elamite,222,False,84,auto51,phon_exact,fish <-> ctab_rhinoceros,False,False
+Elamite,231,False,139,key4b30,phon_exact,"pierce, stab, plant, stick, line, stroke → star, bright, shine, country, district, estate, bull",False,False
+Elamite,233,False,14,fixed48,phon_exact,split → dawn / light,True,False
+Elamite,235,False,86,auto51,phon_exact,fish <-> ctab_rhinoceros,False,False
+Elamite,236,False,83,auto51,phon_exact,bow <-> circuit_maritime_coastal,False,False
+Elamite,240,False,59,auto51,phon_exact,fish <-> mtab_all,False,False
+Elamite,255,False,20,fixed48,phon_exact,crocodile → first / principal,True,False
+Elamite,297,False,174,key6a24,phon_exact,"lustre, splendour, sun, ray, spark → weight, share, tax, quarter, gold, price",False,False
+Elamite,320,False,8,fixed48,phon_exact,step / ladder → ration / measure,True,False
+Elamite,335,False,41,fixed48,phon_exact,frame → pot,True,False
+Elamite,350,False,37,fixed48,phon_exact,fence → watchman,True,False
+Elamite,354,False,98,auto51,phon_exact,rake <-> har_mound_AB,False,False
+Elamite,368,False,23,fixed48,phon_exact,flag → give / grant,True,False
+Elamite,374,False,74,auto51,phon_exact,leaf <-> md_HR_elite,False,False
+Elamite,384,False,96,auto51,phon_exact,leaf <-> copper_tablet_vs_all,False,False
+Elamite,388,False,159,key6a24,phon_exact,"banyan, pipal, fig, leaf, foliage → king, royal, tax, cloth, commodity",False,False
+Elamite,390,False,5,fixed48,phon_exact,tree → sew / weave,True,False
+Elamite,391,False,57,auto51,phon_exact,fork <-> copper_tool_vs_all,False,False
+Elamite,400,False,2,fixed48,phon_exact,comb → small / junior,True,False
+Elamite,405,False,122,key4b30,phon_exact,"tree, branch, bough, twig, shrub → thread, yarn, cord, string, weave, knit, spin",False,False
+Elamite,407,False,17,fixed48,phon_exact,branch → cloth,True,False
+Elamite,413,False,36,fixed48,phon_exact,grain → tax / cut,True,False
+Elamite,415,False,15,fixed48,phon_exact,fork / branch → seize,True,False
+Elamite,416,False,72,auto51,phon_exact,comb <-> circuit_maritime_coastal,False,False
+Elamite,422,False,88,auto51,phon_exact,comb <-> copper_tablet_vs_all,False,False
+Elamite,435,False,32,fixed48,phon_exact,hook → attendant,True,False
+Elamite,440,False,31,fixed48,phon_exact,corner → vessel,True,False
+Elamite,455,False,162,key6a24,phon_exact,"wing, tail, feather, butterfly, plume → star, bright, seal, gold, trade",False,False
+Elamite,460,False,38,fixed48,phon_exact,shoot → garland,True,False
+Elamite,480,False,40,fixed48,phon_exact,point → vessel,True,False
+Elamite,482,False,39,fixed48,phon_exact,mountain → king,True,False
+Elamite,500,False,66,auto51,phon_exact,tent <-> tag_all,False,False
+Elamite,503,False,30,fixed48,phon_exact,mountain → garland,True,False
+Elamite,520,False,4,fixed48,phon_exact,spear → chief,True,False
+Elamite,527,False,152,key5a13,phon_exact,"crossbar, bolt, latch, plank, panel, hinge → door, gate, portal, entrance, threshold, enclosure",False,False
+Elamite,540,False,42,fixed48,phon_exact,drum ↔ capacity measure,True,False
+Elamite,550,False,25,fixed48,phon_exact,waist / middle → district,True,False
+Elamite,585,False,68,auto51,phon_exact,tent <-> har_mound_AB,False,False
+Elamite,590,False,9,fixed48,phon_exact,basket / plait → bale / load,True,False
+Elamite,595,False,48,auto51,phon_exact,box <-> ctab_bull_gaur_unicorn,False,False
+Elamite,615,False,10,fixed48,phon_exact,loom frame → field plot,True,False
+Elamite,621,False,170,key6a24,phon_exact,"room, chamber, apartment, window, shutter → seal, title, chief, ruler, office, guard",False,False
+Elamite,630,False,43,fixed48,phon_exact,cage → assemble / store,True,False
+Elamite,645,False,169,key6a24,phon_exact,"cross, intersect, scissors, diagonal → weight, gold, coin, balance, bronze, axe",False,False
+Elamite,690,False,24,fixed48,phon_exact,tie ↔ bundle / building,True,False
+Elamite,692,False,147,key5a13,phon_exact,"cross, intersect, transverse, criss → assembly, council, guild, office, citadel, precinct",False,False
+Elamite,700,False,1,fixed48,phon_exact,bowl / hollow → measure,True,False
+Elamite,705,False,11,fixed48,phon_exact,threshing floor → vessel / ship,True,False
+Elamite,706,False,140,key4b30,phon_exact,"cup, bowl, vessel, pot, jar, hollow → measure, bushel, capacity, grain, ivory, elephant",False,False
+Elamite,717,False,35,fixed48,phon_exact,foot ↔ servant,True,False
+Elamite,740,False,0,fixed48,phon_exact,jar → house,True,False
+Elamite,741,False,116,key4b30,phon_exact,"jar, pot, waterpot, pitcher, vessel → house, ward, family, abode, lineage, tenant",False,False
+Elamite,742,False,78,auto51,phon_exact,jar <-> md_HR_elite,False,False
+Elamite,752,False,53,auto51,phon_exact,cup <-> copper_tablet_vs_all,False,False
+Elamite,760,False,22,fixed48,phon_exact,sprout ↔ young / child,True,False
+Elamite,790,False,97,auto51,phon_exact,leaf <-> har_mound_AB,False,False
+Elamite,798,False,19,fixed48,phon_exact,shell → bind / build house,True,False
+Elamite,803,False,127,key4b30,phon_exact,"leaf, leaves, foliage, petal → house, abode, home, family, dwelling, lineage",False,False
+Elamite,806,False,18,fixed48,phon_exact,stalk → millet,True,False
+Elamite,817,False,118,key4b30,phon_exact,"eye, seed, kernel, bud, lozenge, sight → box, chest, crate, cargo, freight, weight, share",False,False
+Elamite,820,False,7,fixed48,phon_exact,wheel → quarter / leg,True,False
+Elamite,831,False,45,fixed48,phon_exact,blade → grain,True,False
+Elamite,838,False,94,auto51,phon_exact,leaf <-> ivory_bone_rod,False,False
+Elamite,840,False,21,fixed48,phon_exact,pair ↔ join,True,False
+Elamite,845,False,33,fixed48,phon_exact,line → tax,True,False
+Elamite,850,False,34,fixed48,phon_exact,eye → copper,True,False
+Elamite,861,False,6,fixed48,phon_exact,eye / sight → weight / property,True,False
+Elamite,868,False,93,auto51,phon_exact,book <-> mtab_all,False,False
+Elamite,877,False,172,key6a24,phon_exact,"bloom, flower, blossom, petal, diamond → jewel, bead, gold, weight, share",False,False
+Elamite,880,False,77,auto51,phon_exact,wheel <-> tag_all,False,False
+Elamite,890,False,61,auto51,phon_exact,bow <-> circuit_eastern_headwaters,False,False
+Elamite,892,False,26,fixed48,phon_exact,bow → sell,True,False
+Elamite,900,False,79,auto51,phon_exact,bow <-> md_citadel,False,False
+Elamite,906,False,73,auto51,phon_exact,bow <-> tag_all,False,False
+Elamite,920,False,16,fixed48,phon_exact,moon ↔ month,True,False
+Elamite,923,False,85,auto51,phon_exact,bow <-> ctab_elephant,False,False
+Elamite,924,False,62,auto51,phon_exact,bow <-> circuit_overland_west_north,False,False
+Sumerian,060,False,114,key4b30,phon_exact,"slant, slope, bend, bent, curve, crooked, lean → inside, inner, within, join, unite, quarter, belong",False,False
+Sumerian,070,False,165,key6a24,phon_exact,"post, pillar, column, arm, statue → audit, account, witness, chief, judge",False,False
+Sumerian,090,True,107,legacy12,phon_exact,man/male/husband <-> servant/agent/governor/rule,True,True
+Sumerian,095,True,54,auto51,phon_exact,man <-> copper_tablet_vs_all,False,True
+Sumerian,100,False,82,auto51,phon_exact,man <-> tag_all,False,False
+Sumerian,104,False,47,fixed48,phon_exact,leap → collect / levy,True,False
+Sumerian,125,True,80,auto51,phon_exact,bow <-> md_HR_elite,False,True
+Sumerian,140,True,135,key4b30,phon_exact,"woman, female, breast, mother, matron, girl → goddess, queen, ruler, chief, sacred, temple, citadel",True,True
+Sumerian,142,True,58,auto51,phon_exact,man <-> copper_tablet_vs_all,True,True
+Sumerian,151,True,136,key4b30,phon_stem,"carry, burden, load, porter, pole, shoulder → guard, protect, watch, shelter, defence, preserve",False,True
+Sumerian,154,True,28,fixed48,phon_exact,carrying pole → guard,True,True
+Sumerian,156,True,128,key4b30,phon_exact,"carry, burden, porter, shoulder, pole, yoke → bale, pack, sack, bundle, ration, measure, weight",False,True
+Sumerian,165,False,46,fixed48,phon_exact,bend / snail → cauldron,True,False
+Sumerian,171,False,44,fixed48,phon_exact,hang ↔ weigh,True,False
+Sumerian,176,False,12,fixed48,phon_exact,sit / remain → tribute,True,False
+Sumerian,220,True,101,legacy12,phon_exact,fish <-> star/constellation/shine,True,True
+Sumerian,222,True,84,auto51,phon_exact,fish <-> ctab_rhinoceros,False,True
+Sumerian,231,True,139,key4b30,phon_exact,"pierce, stab, plant, stick, line, stroke → star, bright, shine, country, district, estate, bull",False,True
+Sumerian,233,True,119,key4b30,phon_exact,"split, halve, divide, cut, slice, cleave, crack → star, bright, shine, dawn, light, luster, sun",True,True
+Sumerian,235,True,86,auto51,phon_exact,fish <-> ctab_rhinoceros,False,True
+Sumerian,236,True,83,auto51,phon_exact,bow <-> circuit_maritime_coastal,False,True
+Sumerian,240,True,112,key4b30,phon_exact,"whisker, fin, wing, feather, cheek, bristle → star, bright, shine, glitter, chief, lord, bead",False,True
+Sumerian,255,True,126,key4b30,phon_exact,"animal, beast, fish, bird, fowl, fin → ration, allowance, grain, granary, chief, king, issue",True,True
+Sumerian,297,False,174,key6a24,phon_exact,"lustre, splendour, sun, ray, spark → weight, share, tax, quarter, gold, price",False,False
+Sumerian,320,False,8,fixed48,phon_exact,step / ladder → ration / measure,True,False
+Sumerian,335,True,167,key6a24,phon_exact,"trough, basin, frame, double, rack → vessel, basket, grain, ration, measure, granary",True,True
+Sumerian,350,True,161,key6a24,phon_exact,"stall, manger, fence, harrow, rake → village, plough, herd, cattle, pasture, farm",True,True
+Sumerian,354,False,98,auto51,phon_exact,rake <-> har_mound_AB,False,False
+Sumerian,368,False,23,fixed48,phon_exact,flag → give / grant,True,False
+Sumerian,374,False,74,auto51,phon_exact,leaf <-> md_HR_elite,False,False
+Sumerian,384,False,96,auto51,phon_exact,leaf <-> copper_tablet_vs_all,False,False
+Sumerian,388,False,159,key6a24,phon_exact,"banyan, pipal, fig, leaf, foliage → king, royal, tax, cloth, commodity",False,False
+Sumerian,390,False,5,fixed48,phon_exact,tree → sew / weave,True,False
+Sumerian,391,False,57,auto51,phon_exact,fork <-> copper_tool_vs_all,False,False
+Sumerian,400,False,2,fixed48,phon_exact,comb → small / junior,True,False
+Sumerian,405,False,122,key4b30,phon_exact,"tree, branch, bough, twig, shrub → thread, yarn, cord, string, weave, knit, spin",False,False
+Sumerian,407,False,17,fixed48,phon_exact,branch → cloth,True,False
+Sumerian,413,True,36,fixed48,phon_exact,grain → tax / cut,True,True
+Sumerian,415,False,15,fixed48,phon_exact,fork / branch → seize,True,False
+Sumerian,416,False,72,auto51,phon_exact,comb <-> circuit_maritime_coastal,False,False
+Sumerian,422,False,88,auto51,phon_exact,comb <-> copper_tablet_vs_all,False,False
+Sumerian,435,False,32,fixed48,phon_exact,hook → attendant,True,False
+Sumerian,440,False,31,fixed48,phon_exact,corner → vessel,True,False
+Sumerian,455,False,162,key6a24,phon_exact,"wing, tail, feather, butterfly, plume → star, bright, seal, gold, trade",False,False
+Sumerian,460,False,38,fixed48,phon_exact,shoot → garland,True,False
+Sumerian,480,True,40,fixed48,phon_exact,point → vessel,True,True
+Sumerian,482,False,39,fixed48,phon_exact,mountain → king,True,False
+Sumerian,500,False,66,auto51,phon_exact,tent <-> tag_all,False,False
+Sumerian,503,True,55,auto51,phon_exact,hill <-> copper_tablet_vs_all,True,True
+Sumerian,520,False,4,fixed48,phon_exact,spear → chief,True,False
+Sumerian,527,False,152,key5a13,phon_exact,"crossbar, bolt, latch, plank, panel, hinge → door, gate, portal, entrance, threshold, enclosure",False,False
+Sumerian,540,False,42,fixed48,phon_exact,drum ↔ capacity measure,True,False
+Sumerian,550,True,133,key4b30,phon_exact,"mouth, jaw, pincer, beak, claw, tongs → gate, portal, door, entrance, citadel, fort, precinct",True,True
+Sumerian,585,False,68,auto51,phon_exact,tent <-> har_mound_AB,False,False
+Sumerian,590,True,115,key4b30,phon_exact,"box, chest, crate, basket, plait, braid → sack, pack, bale, bundle, granary, store, treasury",True,True
+Sumerian,595,False,48,auto51,phon_exact,box <-> ctab_bull_gaur_unicorn,False,False
+Sumerian,615,True,10,fixed48,phon_exact,loom frame → field plot,True,True
+Sumerian,621,False,170,key6a24,phon_exact,"room, chamber, apartment, window, shutter → seal, title, chief, ruler, office, guard",False,False
+Sumerian,630,False,43,fixed48,phon_exact,cage → assemble / store,True,False
+Sumerian,645,False,169,key6a24,phon_exact,"cross, intersect, scissors, diagonal → weight, gold, coin, balance, bronze, axe",False,False
+Sumerian,690,True,24,fixed48,phon_exact,tie ↔ bundle / building,True,True
+Sumerian,692,True,147,key5a13,phon_exact,"cross, intersect, transverse, criss → assembly, council, guild, office, citadel, precinct",False,True
+Sumerian,700,True,1,fixed48,phon_exact,bowl / hollow → measure,True,True
+Sumerian,705,True,99,legacy12,phon_stem,measure/threshing/grain <-> ship/boat,True,True
+Sumerian,706,True,140,key4b30,phon_exact,"cup, bowl, vessel, pot, jar, hollow → measure, bushel, capacity, grain, ivory, elephant",False,True
+Sumerian,717,False,35,fixed48,phon_exact,foot ↔ servant,True,False
+Sumerian,740,True,0,fixed48,phon_exact,jar → house,True,True
+Sumerian,741,True,116,key4b30,phon_exact,"jar, pot, waterpot, pitcher, vessel → house, ward, family, abode, lineage, tenant",False,True
+Sumerian,742,True,78,auto51,phon_exact,jar <-> md_HR_elite,False,True
+Sumerian,752,False,53,auto51,phon_exact,cup <-> copper_tablet_vs_all,False,False
+Sumerian,760,True,22,fixed48,phon_exact,sprout ↔ young / child,True,True
+Sumerian,790,False,97,auto51,phon_exact,leaf <-> har_mound_AB,False,False
+Sumerian,798,False,19,fixed48,phon_exact,shell → bind / build house,True,False
+Sumerian,803,False,127,key4b30,phon_exact,"leaf, leaves, foliage, petal → house, abode, home, family, dwelling, lineage",False,False
+Sumerian,806,False,18,fixed48,phon_exact,stalk → millet,True,False
+Sumerian,817,False,118,key4b30,phon_exact,"eye, seed, kernel, bud, lozenge, sight → box, chest, crate, cargo, freight, weight, share",False,False
+Sumerian,820,True,7,fixed48,phon_exact,wheel → quarter / leg,True,True
+Sumerian,831,False,45,fixed48,phon_exact,blade → grain,True,False
+Sumerian,838,False,94,auto51,phon_exact,leaf <-> ivory_bone_rod,False,False
+Sumerian,840,True,21,fixed48,phon_exact,pair ↔ join,True,True
+Sumerian,845,False,33,fixed48,phon_exact,line → tax,True,False
+Sumerian,850,True,109,legacy12,phon_exact,eye/sight/pupil <-> copper/bronze/metal/blade,True,True
+Sumerian,861,True,105,legacy12,phon_exact,enclosure/field/court <-> share/portion/weight/property,True,True
+Sumerian,868,True,93,auto51,phon_exact,book <-> mtab_all,False,True
+Sumerian,877,False,172,key6a24,phon_exact,"bloom, flower, blossom, petal, diamond → jewel, bead, gold, weight, share",False,False
+Sumerian,880,False,77,auto51,phon_exact,wheel <-> tag_all,False,False
+Sumerian,890,True,61,auto51,phon_exact,bow <-> circuit_eastern_headwaters,False,True
+Sumerian,892,True,75,auto51,phon_exact,bow <-> pot_all,True,True
+Sumerian,900,True,79,auto51,phon_exact,bow <-> md_citadel,False,True
+Sumerian,906,True,73,auto51,phon_exact,bow <-> tag_all,False,True
+Sumerian,920,True,16,fixed48,phon_exact,moon ↔ month,True,True
+Sumerian,923,False,85,auto51,phon_exact,bow <-> ctab_elephant,False,False
+Sumerian,924,False,62,auto51,phon_exact,bow <-> circuit_overland_west_north,False,False
+Akkadian,060,False,114,key4b30,phon_exact,"slant, slope, bend, bent, curve, crooked, lean → inside, inner, within, join, unite, quarter, belong",False,False
+Akkadian,070,False,165,key6a24,phon_exact,"post, pillar, column, arm, statue → audit, account, witness, chief, judge",False,False
+Akkadian,090,True,107,legacy12,phon_exact,man/male/husband <-> servant/agent/governor/rule,True,True
+Akkadian,095,False,54,auto51,phon_exact,man <-> copper_tablet_vs_all,False,False
+Akkadian,100,False,82,auto51,phon_exact,man <-> tag_all,False,False
+Akkadian,104,False,47,fixed48,phon_exact,leap → collect / levy,True,False
+Akkadian,125,False,80,auto51,phon_exact,bow <-> md_HR_elite,False,False
+Akkadian,140,True,27,fixed48,phon_exact,mother / lady ↔ goddess,True,True
+Akkadian,142,False,29,fixed48,phon_exact,staff → smith,True,False
+Akkadian,151,False,136,key4b30,phon_exact,"carry, burden, load, porter, pole, shoulder → guard, protect, watch, shelter, defence, preserve",False,False
+Akkadian,154,False,28,fixed48,phon_exact,carrying pole → guard,True,False
+Akkadian,156,False,128,key4b30,phon_exact,"carry, burden, porter, shoulder, pole, yoke → bale, pack, sack, bundle, ration, measure, weight",False,False
+Akkadian,165,False,46,fixed48,phon_exact,bend / snail → cauldron,True,False
+Akkadian,171,False,44,fixed48,phon_exact,hang ↔ weigh,True,False
+Akkadian,176,False,12,fixed48,phon_exact,sit / remain → tribute,True,False
+Akkadian,220,True,3,fixed48,phon_exact,fish → star,True,True
+Akkadian,222,True,84,auto51,phon_exact,fish <-> ctab_rhinoceros,False,True
+Akkadian,231,False,139,key4b30,phon_exact,"pierce, stab, plant, stick, line, stroke → star, bright, shine, country, district, estate, bull",False,False
+Akkadian,233,False,14,fixed48,phon_exact,split → dawn / light,True,False
+Akkadian,235,True,86,auto51,phon_exact,fish <-> ctab_rhinoceros,False,True
+Akkadian,236,False,83,auto51,phon_exact,bow <-> circuit_maritime_coastal,False,False
+Akkadian,240,False,59,auto51,phon_exact,fish <-> mtab_all,False,False
+Akkadian,255,False,20,fixed48,phon_exact,crocodile → first / principal,True,False
+Akkadian,297,False,174,key6a24,phon_exact,"lustre, splendour, sun, ray, spark → weight, share, tax, quarter, gold, price",False,False
+Akkadian,320,False,8,fixed48,phon_exact,step / ladder → ration / measure,True,False
+Akkadian,335,False,41,fixed48,phon_exact,frame → pot,True,False
+Akkadian,350,False,37,fixed48,phon_exact,fence → watchman,True,False
+Akkadian,354,False,98,auto51,phon_exact,rake <-> har_mound_AB,False,False
+Akkadian,368,False,23,fixed48,phon_exact,flag → give / grant,True,False
+Akkadian,374,False,74,auto51,phon_exact,leaf <-> md_HR_elite,False,False
+Akkadian,384,False,96,auto51,phon_exact,leaf <-> copper_tablet_vs_all,False,False
+Akkadian,388,False,159,key6a24,phon_exact,"banyan, pipal, fig, leaf, foliage → king, royal, tax, cloth, commodity",False,False
+Akkadian,390,False,5,fixed48,phon_exact,tree → sew / weave,True,False
+Akkadian,391,False,57,auto51,phon_exact,fork <-> copper_tool_vs_all,False,False
+Akkadian,400,False,2,fixed48,phon_exact,comb → small / junior,True,False
+Akkadian,405,False,122,key4b30,phon_exact,"tree, branch, bough, twig, shrub → thread, yarn, cord, string, weave, knit, spin",False,False
+Akkadian,407,False,17,fixed48,phon_exact,branch → cloth,True,False
+Akkadian,413,False,36,fixed48,phon_exact,grain → tax / cut,True,False
+Akkadian,415,False,15,fixed48,phon_exact,fork / branch → seize,True,False
+Akkadian,416,False,72,auto51,phon_exact,comb <-> circuit_maritime_coastal,False,False
+Akkadian,422,False,88,auto51,phon_exact,comb <-> copper_tablet_vs_all,False,False
+Akkadian,435,False,32,fixed48,phon_exact,hook → attendant,True,False
+Akkadian,440,False,31,fixed48,phon_exact,corner → vessel,True,False
+Akkadian,455,True,162,key6a24,phon_exact,"wing, tail, feather, butterfly, plume → star, bright, seal, gold, trade",False,True
+Akkadian,460,False,38,fixed48,phon_exact,shoot → garland,True,False
+Akkadian,480,False,40,fixed48,phon_exact,point → vessel,True,False
+Akkadian,482,False,39,fixed48,phon_exact,mountain → king,True,False
+Akkadian,500,False,66,auto51,phon_exact,tent <-> tag_all,False,False
+Akkadian,503,False,30,fixed48,phon_exact,mountain → garland,True,False
+Akkadian,520,False,4,fixed48,phon_exact,spear → chief,True,False
+Akkadian,527,False,152,key5a13,phon_exact,"crossbar, bolt, latch, plank, panel, hinge → door, gate, portal, entrance, threshold, enclosure",False,False
+Akkadian,540,False,42,fixed48,phon_exact,drum ↔ capacity measure,True,False
+Akkadian,550,False,25,fixed48,phon_exact,waist / middle → district,True,False
+Akkadian,585,False,68,auto51,phon_exact,tent <-> har_mound_AB,False,False
+Akkadian,590,False,9,fixed48,phon_exact,basket / plait → bale / load,True,False
+Akkadian,595,False,48,auto51,phon_exact,box <-> ctab_bull_gaur_unicorn,False,False
+Akkadian,615,False,10,fixed48,phon_exact,loom frame → field plot,True,False
+Akkadian,621,False,170,key6a24,phon_exact,"room, chamber, apartment, window, shutter → seal, title, chief, ruler, office, guard",False,False
+Akkadian,630,False,43,fixed48,phon_exact,cage → assemble / store,True,False
+Akkadian,645,False,169,key6a24,phon_exact,"cross, intersect, scissors, diagonal → weight, gold, coin, balance, bronze, axe",False,False
+Akkadian,690,False,24,fixed48,phon_exact,tie ↔ bundle / building,True,False
+Akkadian,692,False,147,key5a13,phon_exact,"cross, intersect, transverse, criss → assembly, council, guild, office, citadel, precinct",False,False
+Akkadian,700,False,1,fixed48,phon_exact,bowl / hollow → measure,True,False
+Akkadian,705,False,11,fixed48,phon_exact,threshing floor → vessel / ship,True,False
+Akkadian,706,False,140,key4b30,phon_exact,"cup, bowl, vessel, pot, jar, hollow → measure, bushel, capacity, grain, ivory, elephant",False,False
+Akkadian,717,False,35,fixed48,phon_exact,foot ↔ servant,True,False
+Akkadian,740,False,0,fixed48,phon_exact,jar → house,True,False
+Akkadian,741,False,116,key4b30,phon_exact,"jar, pot, waterpot, pitcher, vessel → house, ward, family, abode, lineage, tenant",False,False
+Akkadian,742,False,78,auto51,phon_exact,jar <-> md_HR_elite,False,False
+Akkadian,752,False,53,auto51,phon_exact,cup <-> copper_tablet_vs_all,False,False
+Akkadian,760,False,22,fixed48,phon_exact,sprout ↔ young / child,True,False
+Akkadian,790,False,97,auto51,phon_exact,leaf <-> har_mound_AB,False,False
+Akkadian,798,False,19,fixed48,phon_exact,shell → bind / build house,True,False
+Akkadian,803,False,127,key4b30,phon_exact,"leaf, leaves, foliage, petal → house, abode, home, family, dwelling, lineage",False,False
+Akkadian,806,False,18,fixed48,phon_exact,stalk → millet,True,False
+Akkadian,817,False,118,key4b30,phon_exact,"eye, seed, kernel, bud, lozenge, sight → box, chest, crate, cargo, freight, weight, share",False,False
+Akkadian,820,False,7,fixed48,phon_exact,wheel → quarter / leg,True,False
+Akkadian,831,False,45,fixed48,phon_exact,blade → grain,True,False
+Akkadian,838,True,94,auto51,phon_exact,leaf <-> ivory_bone_rod,False,True
+Akkadian,840,True,129,key4b30,phon_exact,"pair, twin, couple, double, leaf, leaves → equal, match, agree, join, unite, bangle, ring, audit",True,True
+Akkadian,845,False,33,fixed48,phon_exact,line → tax,True,False
+Akkadian,850,False,34,fixed48,phon_exact,eye → copper,True,False
+Akkadian,861,False,6,fixed48,phon_exact,eye / sight → weight / property,True,False
+Akkadian,868,False,93,auto51,phon_exact,book <-> mtab_all,False,False
+Akkadian,877,False,172,key6a24,phon_exact,"bloom, flower, blossom, petal, diamond → jewel, bead, gold, weight, share",False,False
+Akkadian,880,False,77,auto51,phon_exact,wheel <-> tag_all,False,False
+Akkadian,890,False,61,auto51,phon_exact,bow <-> circuit_eastern_headwaters,False,False
+Akkadian,892,False,26,fixed48,phon_exact,bow → sell,True,False
+Akkadian,900,False,79,auto51,phon_exact,bow <-> md_citadel,False,False
+Akkadian,906,False,73,auto51,phon_exact,bow <-> tag_all,False,False
+Akkadian,920,True,16,fixed48,phon_exact,moon ↔ month,True,True
+Akkadian,923,False,85,auto51,phon_exact,bow <-> ctab_elephant,False,False
+Akkadian,924,False,62,auto51,phon_exact,bow <-> circuit_overland_west_north,False,False
+Burushaski,060,False,114,key4b30,phon_exact,"slant, slope, bend, bent, curve, crooked, lean → inside, inner, within, join, unite, quarter, belong",False,False
+Burushaski,070,False,165,key6a24,phon_exact,"post, pillar, column, arm, statue → audit, account, witness, chief, judge",False,False
+Burushaski,090,False,13,fixed48,phon_exact,man → manager / ruler,True,False
+Burushaski,095,True,54,auto51,phon_exact,man <-> copper_tablet_vs_all,False,True
+Burushaski,100,False,82,auto51,phon_exact,man <-> tag_all,False,False
+Burushaski,104,False,47,fixed48,phon_exact,leap → collect / levy,True,False
+Burushaski,125,False,80,auto51,phon_exact,bow <-> md_HR_elite,False,False
+Burushaski,140,False,27,fixed48,phon_exact,mother / lady ↔ goddess,True,False
+Burushaski,142,True,58,auto51,phon_exact,man <-> copper_tablet_vs_all,True,True
+Burushaski,151,False,136,key4b30,phon_exact,"carry, burden, load, porter, pole, shoulder → guard, protect, watch, shelter, defence, preserve",False,False
+Burushaski,154,False,28,fixed48,phon_exact,carrying pole → guard,True,False
+Burushaski,156,False,128,key4b30,phon_exact,"carry, burden, porter, shoulder, pole, yoke → bale, pack, sack, bundle, ration, measure, weight",False,False
+Burushaski,165,False,46,fixed48,phon_exact,bend / snail → cauldron,True,False
+Burushaski,171,False,44,fixed48,phon_exact,hang ↔ weigh,True,False
+Burushaski,176,False,12,fixed48,phon_exact,sit / remain → tribute,True,False
+Burushaski,220,False,3,fixed48,phon_exact,fish → star,True,False
+Burushaski,222,False,84,auto51,phon_exact,fish <-> ctab_rhinoceros,False,False
+Burushaski,231,False,139,key4b30,phon_exact,"pierce, stab, plant, stick, line, stroke → star, bright, shine, country, district, estate, bull",False,False
+Burushaski,233,False,14,fixed48,phon_exact,split → dawn / light,True,False
+Burushaski,235,False,86,auto51,phon_exact,fish <-> ctab_rhinoceros,False,False
+Burushaski,236,False,83,auto51,phon_exact,bow <-> circuit_maritime_coastal,False,False
+Burushaski,240,False,59,auto51,phon_exact,fish <-> mtab_all,False,False
+Burushaski,255,False,20,fixed48,phon_exact,crocodile → first / principal,True,False
+Burushaski,297,False,174,key6a24,phon_exact,"lustre, splendour, sun, ray, spark → weight, share, tax, quarter, gold, price",False,False
+Burushaski,320,False,8,fixed48,phon_exact,step / ladder → ration / measure,True,False
+Burushaski,335,False,41,fixed48,phon_exact,frame → pot,True,False
+Burushaski,350,False,37,fixed48,phon_exact,fence → watchman,True,False
+Burushaski,354,False,98,auto51,phon_exact,rake <-> har_mound_AB,False,False
+Burushaski,368,False,23,fixed48,phon_exact,flag → give / grant,True,False
+Burushaski,374,False,74,auto51,phon_exact,leaf <-> md_HR_elite,False,False
+Burushaski,384,False,96,auto51,phon_exact,leaf <-> copper_tablet_vs_all,False,False
+Burushaski,388,False,159,key6a24,phon_exact,"banyan, pipal, fig, leaf, foliage → king, royal, tax, cloth, commodity",False,False
+Burushaski,390,False,5,fixed48,phon_exact,tree → sew / weave,True,False
+Burushaski,391,False,57,auto51,phon_exact,fork <-> copper_tool_vs_all,False,False
+Burushaski,400,False,2,fixed48,phon_exact,comb → small / junior,True,False
+Burushaski,405,False,122,key4b30,phon_exact,"tree, branch, bough, twig, shrub → thread, yarn, cord, string, weave, knit, spin",False,False
+Burushaski,407,False,17,fixed48,phon_exact,branch → cloth,True,False
+Burushaski,413,False,36,fixed48,phon_exact,grain → tax / cut,True,False
+Burushaski,415,False,15,fixed48,phon_exact,fork / branch → seize,True,False
+Burushaski,416,False,72,auto51,phon_exact,comb <-> circuit_maritime_coastal,False,False
+Burushaski,422,False,88,auto51,phon_exact,comb <-> copper_tablet_vs_all,False,False
+Burushaski,435,False,32,fixed48,phon_exact,hook → attendant,True,False
+Burushaski,440,False,31,fixed48,phon_exact,corner → vessel,True,False
+Burushaski,455,False,162,key6a24,phon_exact,"wing, tail, feather, butterfly, plume → star, bright, seal, gold, trade",False,False
+Burushaski,460,False,38,fixed48,phon_exact,shoot → garland,True,False
+Burushaski,480,False,40,fixed48,phon_exact,point → vessel,True,False
+Burushaski,482,False,39,fixed48,phon_exact,mountain → king,True,False
+Burushaski,500,False,66,auto51,phon_exact,tent <-> tag_all,False,False
+Burushaski,503,False,30,fixed48,phon_exact,mountain → garland,True,False
+Burushaski,520,False,4,fixed48,phon_exact,spear → chief,True,False
+Burushaski,527,False,152,key5a13,phon_exact,"crossbar, bolt, latch, plank, panel, hinge → door, gate, portal, entrance, threshold, enclosure",False,False
+Burushaski,540,False,42,fixed48,phon_exact,drum ↔ capacity measure,True,False
+Burushaski,550,False,25,fixed48,phon_exact,waist / middle → district,True,False
+Burushaski,585,False,68,auto51,phon_exact,tent <-> har_mound_AB,False,False
+Burushaski,590,False,9,fixed48,phon_exact,basket / plait → bale / load,True,False
+Burushaski,595,False,48,auto51,phon_exact,box <-> ctab_bull_gaur_unicorn,False,False
+Burushaski,615,False,10,fixed48,phon_exact,loom frame → field plot,True,False
+Burushaski,621,False,170,key6a24,phon_exact,"room, chamber, apartment, window, shutter → seal, title, chief, ruler, office, guard",False,False
+Burushaski,630,False,43,fixed48,phon_exact,cage → assemble / store,True,False
+Burushaski,645,False,169,key6a24,phon_exact,"cross, intersect, scissors, diagonal → weight, gold, coin, balance, bronze, axe",False,False
+Burushaski,690,False,24,fixed48,phon_exact,tie ↔ bundle / building,True,False
+Burushaski,692,False,147,key5a13,phon_exact,"cross, intersect, transverse, criss → assembly, council, guild, office, citadel, precinct",False,False
+Burushaski,700,False,1,fixed48,phon_exact,bowl / hollow → measure,True,False
+Burushaski,705,False,11,fixed48,phon_exact,threshing floor → vessel / ship,True,False
+Burushaski,706,False,140,key4b30,phon_exact,"cup, bowl, vessel, pot, jar, hollow → measure, bushel, capacity, grain, ivory, elephant",False,False
+Burushaski,717,False,35,fixed48,phon_exact,foot ↔ servant,True,False
+Burushaski,740,False,0,fixed48,phon_exact,jar → house,True,False
+Burushaski,741,False,116,key4b30,phon_exact,"jar, pot, waterpot, pitcher, vessel → house, ward, family, abode, lineage, tenant",False,False
+Burushaski,742,False,78,auto51,phon_exact,jar <-> md_HR_elite,False,False
+Burushaski,752,False,53,auto51,phon_exact,cup <-> copper_tablet_vs_all,False,False
+Burushaski,760,False,22,fixed48,phon_exact,sprout ↔ young / child,True,False
+Burushaski,790,False,97,auto51,phon_exact,leaf <-> har_mound_AB,False,False
+Burushaski,798,False,19,fixed48,phon_exact,shell → bind / build house,True,False
+Burushaski,803,False,127,key4b30,phon_exact,"leaf, leaves, foliage, petal → house, abode, home, family, dwelling, lineage",False,False
+Burushaski,806,False,18,fixed48,phon_exact,stalk → millet,True,False
+Burushaski,817,False,118,key4b30,phon_exact,"eye, seed, kernel, bud, lozenge, sight → box, chest, crate, cargo, freight, weight, share",False,False
+Burushaski,820,False,7,fixed48,phon_exact,wheel → quarter / leg,True,False
+Burushaski,831,False,45,fixed48,phon_exact,blade → grain,True,False
+Burushaski,838,False,94,auto51,phon_exact,leaf <-> ivory_bone_rod,False,False
+Burushaski,840,False,21,fixed48,phon_exact,pair ↔ join,True,False
+Burushaski,845,False,33,fixed48,phon_exact,line → tax,True,False
+Burushaski,850,False,34,fixed48,phon_exact,eye → copper,True,False
+Burushaski,861,True,105,legacy12,phon_exact,enclosure/field/court <-> share/portion/weight/property,True,True
+Burushaski,868,False,93,auto51,phon_exact,book <-> mtab_all,False,False
+Burushaski,877,False,172,key6a24,phon_exact,"bloom, flower, blossom, petal, diamond → jewel, bead, gold, weight, share",False,False
+Burushaski,880,False,77,auto51,phon_exact,wheel <-> tag_all,False,False
+Burushaski,890,False,61,auto51,phon_exact,bow <-> circuit_eastern_headwaters,False,False
+Burushaski,892,False,26,fixed48,phon_exact,bow → sell,True,False
+Burushaski,900,False,79,auto51,phon_exact,bow <-> md_citadel,False,False
+Burushaski,906,False,73,auto51,phon_exact,bow <-> tag_all,False,False
+Burushaski,920,False,16,fixed48,phon_exact,moon ↔ month,True,False
+Burushaski,923,False,85,auto51,phon_exact,bow <-> ctab_elephant,False,False
+Burushaski,924,False,62,auto51,phon_exact,bow <-> circuit_overland_west_north,False,False

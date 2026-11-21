@@ -6,6 +6,8 @@ Update: a limited [known-Sumerian rebus component pilot](../rebus_positive_contr
 
 The subsequent [six-panel filter comparison](../expanded_rebus_test/README.md) expands the Indus-side diagnostic to 48 frozen meaning pairs, 51 automatic pairs and all 67 candidates from three later source tables, with recalculated domain and sound controls. It preserves a strong conditional Dravidian fit on selected meanings but finds no above-both-nulls result on the automatic panel. This remains a retrospective lexical sensitivity, not independent semantic assignment or completion of the archaeological protocol.
 
+A [bounded selection-aware lexical replay](../selection_aware_rebus/README.md) has also run: every randomized dictionary reselects recorded meaning rows, sound rules and candidate promotions. It sharply raises chance match totals while preserving a residual real-dictionary excess on the fixed 48 targets; it exposes perfect retained scores after choosing 48 successes from 93 candidate IDs as fully reproducible by the sampled nulls. This does not reconstruct unrecorded human choices or complete the independent semantic protocol below.
+
 ## The decisive experiment
 
 Ask whether **semantics assigned without knowledge of any candidate language permit the frozen Dravidian key to make specific correct predictions on independently collected evidence, outperforming equally flexible rival keys and language-free models**.

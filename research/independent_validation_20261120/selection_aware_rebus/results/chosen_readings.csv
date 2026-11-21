@@ -1,0 +1,337 @@
+language,sign,success,chosen_panel,chosen_case_index,normalizer,chosen_title,original_title,recorded_candidate_rows,pure_polysemy,phonetic_match,a_en,b_en
+Dravidian,740,True,fixed48,0,phon_stem,jar → house,jar → house,3,False,True,\b(?:jar|pot|vessel)\b,\b(?:house|home|abode|family|lineage)\b
+Dravidian,700,True,fixed48,1,phon_exact,bowl / hollow → measure,bowl / hollow → measure,2,True,True,\b(?:bowl|earthen\ pot|hollow)\b,\b(?:measure|capacity)\b
+Dravidian,400,True,fixed48,2,phon_exact,comb → small / junior,comb → small / junior,3,True,False,\b(?:comb|disentangle)\b,\b(?:small|little|young)\b
+Dravidian,220,True,legacy12,101,phon_exact,fish <-> star/constellation/shine,fish → star,2,False,True,\b(fish|fishes|carp)\b,\b(star|stars|constellation|planet|asterism|shine|glitter|flash)\b
+Dravidian,520,True,auto51,92,phon_stem,arrow <-> copper_tablet_vs_all,spear → chief,3,False,True,\b(arrow|dart|spear|lance)\b,\b(field|allotment|share|portion|estate)\b
+Dravidian,390,True,fixed48,5,phon_exact,tree → sew / weave,tree → sew / weave,3,False,True,\b(?:tree|plant|shrub)\b,\b(?:sew|stitch|weave|plait)\b
+Dravidian,861,True,fixed48,6,phon_exact,eye / sight → weight / property,eye / sight → weight / property,3,False,True,\b(?:eye|sight|see)\b,\b(?:weight|fraction|property|possession)\b
+Dravidian,820,True,fixed48,7,phon_exact,wheel → quarter / leg,wheel → quarter / leg,3,False,True,\b(?:wheel|cart)\b,\b(?:quarter|leg|foot)\b
+Dravidian,320,True,fixed48,8,phon_exact,step / ladder → ration / measure,step / ladder → ration / measure,2,False,True,\b(?:step|stair|ladder)\b,\b(?:ration|measure|allowance|capacity|weight)\b
+Dravidian,590,True,fixed48,9,phon_exact,basket / plait → bale / load,basket / plait → bale / load,2,False,True,\b(?:basket|plait|braid)\b,\b(?:sack|load|bale|bundle)\b
+Dravidian,615,True,fixed48,10,phon_exact,loom frame → field plot,loom frame → field plot,3,False,True,\b(?:weaver|loom|reed)\b,\b(?:field|ridge|land|beds)\b
+Dravidian,705,True,fixed48,11,phon_exact,threshing floor → vessel / ship,threshing floor → vessel / ship,3,True,False,\b(?:threshing|field|floor)\b,\b(?:ship|vessel|boat)\b
+Dravidian,176,True,fixed48,12,ascii_exact,sit / remain → tribute,sit / remain → tribute,2,False,True,\b(?:sit|remain|abide)\b,\b(?:tax|tribute|duty|payment)\b
+Dravidian,090,True,fixed48,13,phon_exact,man → manager / ruler,man → manager / ruler,2,False,True,\b(?:man|male|husband|servant)\b,\b(?:rule|manage|control)\b
+Dravidian,233,True,fixed48,14,phon_exact,split → dawn / light,split → dawn / light,3,False,True,\b(?:crack|split|burst)\b,\b(?:dawn|daybreak|dawning|day)\b
+Dravidian,415,True,fixed48,15,phon_exact,fork / branch → seize,fork / branch → seize,3,False,True,\b(?:fork|prong|branch)\b,\b(?:seize|grasp|catch|control)\b
+Dravidian,920,True,fixed48,16,phon_exact,moon ↔ month,moon ↔ month,2,True,False,\b(?:moon)\b,\b(?:month)\b
+Dravidian,407,True,fixed48,17,phon_stem,branch → cloth,branch → cloth,2,False,True,\b(?:branch)\b,\b(?:cloth|weaver)\b
+Dravidian,806,True,fixed48,18,phon_exact,stalk → millet,stalk → millet,3,True,True,\b(?:stalk|stem)\b,\b(?:millet|grain)\b
+Dravidian,798,True,fixed48,19,phon_exact,shell → bind / build house,shell → bind / build house,4,False,True,\b(?:shell)\b,\b(?:bind|tie|build|house)\b
+Dravidian,255,True,fixed48,20,phon_stem,crocodile → first / principal,crocodile → first / principal,3,False,True,\b(?:crocodile)\b,\b(?:first|beginning|principal|capital)\b
+Dravidian,840,True,fixed48,21,phon_exact,pair ↔ join,pair ↔ join,3,True,False,\b(?:pair|couple)\b,\b(?:join|unite|union|agree)\b
+Dravidian,760,True,fixed48,22,phon_exact,sprout ↔ young / child,sprout ↔ young / child,2,True,True,\b(?:sprout|shoot|tendril)\b,\b(?:young|child|infant)\b
+Dravidian,368,True,fixed48,23,phon_exact,flag → give / grant,flag → give / grant,2,False,True,\b(?:flag|banner)\b,\b(?:give|grant)\b
+Dravidian,690,True,fixed48,24,phon_exact,tie ↔ bundle / building,tie ↔ bundle / building,2,True,True,\b(?:tie|bind|fasten)\b,\b(?:bundle|packet|building|store)\b
+Dravidian,550,True,fixed48,25,phon_exact,waist / middle → district,waist / middle → district,3,False,True,\b(?:waist|middle|centre|center)\b,\b(?:district|country|province|locality)\b
+Dravidian,892,True,fixed48,26,phon_exact,bow → sell,bow → sell,3,False,True,\b(?:bow)\b,\b(?:sell|sale|price)\b
+Dravidian,140,True,fixed48,27,phon_exact,mother / lady ↔ goddess,mother / lady ↔ goddess,3,True,False,\b(?:mother|lady|matron)\b,\b(?:goddess)\b
+Dravidian,154,True,fixed48,28,phon_exact,carrying pole → guard,carrying pole → guard,2,False,True,\b(?:carrying\ pole|pole|yoke)\b,\b(?:guard|watch|preserve|protect|shelter)\b
+Dravidian,142,True,fixed48,29,phon_exact,staff → smith,staff → smith,5,True,True,\b(?:staff|stick|rod)\b,\b(?:smith|iron)\b
+Dravidian,503,True,fixed48,30,phon_exact,mountain → garland,mountain → garland,3,False,True,\b(?:mountain|hill)\b,\b(?:garland|necklace)\b
+Dravidian,440,True,fixed48,31,phon_exact,corner → vessel,corner → vessel,2,False,True,\b(?:corner|nook|lane)\b,\b(?:vessel|pot|pan|cup)\b
+Dravidian,435,True,fixed48,32,phon_exact,hook → attendant,hook → attendant,2,False,True,\b(?:hook|goad)\b,\b(?:servant|watchman|attendant|messenger)\b
+Dravidian,845,True,fixed48,33,phon_exact,line → tax,line → tax,3,False,True,\b(?:line|stripe|streak|draw|write)\b,\b(?:tax|impost|duty|toll|levy)\b
+Dravidian,850,True,legacy12,109,phon_stem,eye/sight/pupil <-> copper/bronze/metal/blade,eye → copper,2,False,True,\b(eye|eyes|sight|pupil|vision)\b,\b(copper|bronze|metal|brass|ore|blade|axe|chisel)\b
+Dravidian,717,True,fixed48,35,phon_exact,foot ↔ servant,foot ↔ servant,2,True,False,\b(?:foot|footprint)\b,\b(?:servant|slave|servitude)\b
+Dravidian,413,True,fixed48,36,phon_exact,grain → tax / cut,grain → tax / cut,2,True,True,\b(?:grain|paddy|rice|ear)\b,\b(?:tax|duty|cut|reap)\b
+Dravidian,350,True,fixed48,37,phon_exact,fence → watchman,fence → watchman,3,False,True,\b(?:fence|yard|pound|enclosure)\b,\b(?:watchman|servant|messenger)\b
+Dravidian,460,True,fixed48,38,phon_exact,shoot → garland,shoot → garland,2,True,True,\b(?:shoot|branch)\b,\b(?:garland|wreath|neckrope)\b
+Dravidian,482,True,fixed48,39,phon_exact,mountain → king,mountain → king,2,False,True,\b(?:mountain|hill)\b,\b(?:king|emperor|chief|leadership)\b
+Dravidian,480,True,fixed48,40,phon_stem,point → vessel,point → vessel,3,False,True,\b(?:point|sharp|tip)\b,\b(?:vessel|capacity|measure)\b
+Dravidian,335,True,fixed48,41,phon_stem,frame → pot,frame → pot,2,False,True,\b(?:frame)\b,\b(?:pot|vessel|pan)\b
+Dravidian,540,True,auto51,65,phon_exact,hourglass <-> pot_all,drum ↔ capacity measure,3,False,True,\b(drum|waist|cone)\b,\b(measure|capacity|bushel|oil|ration)\b
+Dravidian,630,True,fixed48,43,phon_exact,cage → assemble / store,cage → assemble / store,2,False,True,\b(?:cage|coop|nest|pen|hive)\b,\b(?:assemble|join|store|stored|together)\b
+Dravidian,171,True,fixed48,44,phon_exact,hang ↔ weigh,hang ↔ weigh,2,True,False,\b(?:hang|suspend|suspended)\b,\b(?:weigh|weight|balance|scales)\b
+Dravidian,831,True,fixed48,45,phon_exact,blade → grain,blade → grain,2,False,True,\b(?:blade|weapon|arrow|weaver)\b,\b(?:grain|paddy)\b
+Dravidian,165,True,fixed48,46,phon_exact,bend / snail → cauldron,bend / snail → cauldron,2,False,True,\b(?:bend|curve|hump|snail)\b,\b(?:cauldron)\b
+Dravidian,104,True,fixed48,47,phon_exact,leap → collect / levy,leap → collect / levy,2,False,True,\b(?:leap|skip|jump|stride|dance)\b,\b(?:collect|levy|recover)\b
+Munda,740,False,fixed48,0,phon_exact,jar → house,jar → house,3,False,False,\b(?:jar|pot|vessel)\b,\b(?:house|home|abode|family|lineage)\b
+Munda,700,False,fixed48,1,phon_exact,bowl / hollow → measure,bowl / hollow → measure,2,False,False,\b(?:bowl|earthen\ pot|hollow)\b,\b(?:measure|capacity)\b
+Munda,400,False,fixed48,2,phon_exact,comb → small / junior,comb → small / junior,3,False,False,\b(?:comb|disentangle)\b,\b(?:small|little|young)\b
+Munda,220,False,fixed48,3,phon_exact,fish → star,fish → star,2,False,False,\b(?:fish)\b,\b(?:star|constellation|asterism)\b
+Munda,520,False,fixed48,4,phon_exact,spear → chief,spear → chief,3,False,False,\b(?:spear|lance|dart|javelin)\b,\b(?:chief|ruler|king|hero)\b
+Munda,390,True,legacy12,110,phon_stem,tree/branch/bough <-> cotton/thread/cloth/yarn,tree → sew / weave,3,False,True,\b(tree|shrub|bush|bough|branch|timber)\b,\b(cotton|thread|yarn|cloth|fibre|fiber|linen|textile)\b
+Munda,861,False,fixed48,6,phon_exact,eye / sight → weight / property,eye / sight → weight / property,3,False,False,\b(?:eye|sight|see)\b,\b(?:weight|fraction|property|possession)\b
+Munda,820,False,fixed48,7,phon_exact,wheel → quarter / leg,wheel → quarter / leg,3,False,False,\b(?:wheel|cart)\b,\b(?:quarter|leg|foot)\b
+Munda,320,False,fixed48,8,phon_exact,step / ladder → ration / measure,step / ladder → ration / measure,2,False,False,\b(?:step|stair|ladder)\b,\b(?:ration|measure|allowance|capacity|weight)\b
+Munda,590,False,fixed48,9,phon_exact,basket / plait → bale / load,basket / plait → bale / load,2,False,False,\b(?:basket|plait|braid)\b,\b(?:sack|load|bale|bundle)\b
+Munda,615,False,fixed48,10,phon_exact,loom frame → field plot,loom frame → field plot,3,False,False,\b(?:weaver|loom|reed)\b,\b(?:field|ridge|land|beds)\b
+Munda,705,False,fixed48,11,phon_exact,threshing floor → vessel / ship,threshing floor → vessel / ship,3,False,False,\b(?:threshing|field|floor)\b,\b(?:ship|vessel|boat)\b
+Munda,176,False,fixed48,12,phon_exact,sit / remain → tribute,sit / remain → tribute,2,False,False,\b(?:sit|remain|abide)\b,\b(?:tax|tribute|duty|payment)\b
+Munda,090,False,fixed48,13,phon_exact,man → manager / ruler,man → manager / ruler,2,False,False,\b(?:man|male|husband|servant)\b,\b(?:rule|manage|control)\b
+Munda,233,False,fixed48,14,phon_exact,split → dawn / light,split → dawn / light,3,False,False,\b(?:crack|split|burst)\b,\b(?:dawn|daybreak|dawning|day)\b
+Munda,415,True,key4b30,120,phon_exact,"fork, branch, prong, rake, bifurcate, tine → seize, grasp, control, share, rent, chief, lord",fork / branch → seize,3,False,True,\b(?:fork|branch|prong|rake|bifurcate|tine)\b,\b(?:seize|grasp|control|share|rent|chief|lord)\b
+Munda,920,False,fixed48,16,phon_exact,moon ↔ month,moon ↔ month,2,False,False,\b(?:moon)\b,\b(?:month)\b
+Munda,407,False,fixed48,17,phon_exact,branch → cloth,branch → cloth,2,False,False,\b(?:branch)\b,\b(?:cloth|weaver)\b
+Munda,806,False,fixed48,18,phon_exact,stalk → millet,stalk → millet,3,False,False,\b(?:stalk|stem)\b,\b(?:millet|grain)\b
+Munda,798,False,fixed48,19,phon_exact,shell → bind / build house,shell → bind / build house,4,False,False,\b(?:shell)\b,\b(?:bind|tie|build|house)\b
+Munda,255,True,key4b30,126,phon_exact,"animal, beast, fish, bird, fowl, fin → ration, allowance, grain, granary, chief, king, issue",crocodile → first / principal,3,False,True,\b(?:animal|beast|fish|bird|fowl|fin)\b,\b(?:ration|allowance|grain|granary|chief|king|issue)\b
+Munda,840,True,fixed48,21,phon_stem,pair ↔ join,pair ↔ join,3,False,True,\b(?:pair|couple)\b,\b(?:join|unite|union|agree)\b
+Munda,760,False,fixed48,22,phon_exact,sprout ↔ young / child,sprout ↔ young / child,2,False,False,\b(?:sprout|shoot|tendril)\b,\b(?:young|child|infant)\b
+Munda,368,False,fixed48,23,phon_exact,flag → give / grant,flag → give / grant,2,False,False,\b(?:flag|banner)\b,\b(?:give|grant)\b
+Munda,690,False,fixed48,24,phon_exact,tie ↔ bundle / building,tie ↔ bundle / building,2,False,False,\b(?:tie|bind|fasten)\b,\b(?:bundle|packet|building|store)\b
+Munda,550,False,fixed48,25,phon_exact,waist / middle → district,waist / middle → district,3,False,False,\b(?:waist|middle|centre|center)\b,\b(?:district|country|province|locality)\b
+Munda,892,False,fixed48,26,phon_exact,bow → sell,bow → sell,3,False,False,\b(?:bow)\b,\b(?:sell|sale|price)\b
+Munda,140,False,fixed48,27,phon_exact,mother / lady ↔ goddess,mother / lady ↔ goddess,3,False,False,\b(?:mother|lady|matron)\b,\b(?:goddess)\b
+Munda,154,False,fixed48,28,phon_exact,carrying pole → guard,carrying pole → guard,2,False,False,\b(?:carrying\ pole|pole|yoke)\b,\b(?:guard|watch|preserve|protect|shelter)\b
+Munda,142,False,fixed48,29,phon_exact,staff → smith,staff → smith,5,False,False,\b(?:staff|stick|rod)\b,\b(?:smith|iron)\b
+Munda,503,False,fixed48,30,phon_exact,mountain → garland,mountain → garland,3,False,False,\b(?:mountain|hill)\b,\b(?:garland|necklace)\b
+Munda,440,False,fixed48,31,phon_exact,corner → vessel,corner → vessel,2,False,False,\b(?:corner|nook|lane)\b,\b(?:vessel|pot|pan|cup)\b
+Munda,435,False,fixed48,32,phon_exact,hook → attendant,hook → attendant,2,False,False,\b(?:hook|goad)\b,\b(?:servant|watchman|attendant|messenger)\b
+Munda,845,True,key5a13,151,phon_exact,"line, streak, stripe, hatch, draw, furrow → tax, impost, duty, toll, levy, rent",line → tax,3,True,False,\b(?:line|streak|stripe|hatch|draw|furrow)\b,\b(?:tax|impost|duty|toll|levy|rent)\b
+Munda,850,False,fixed48,34,phon_exact,eye → copper,eye → copper,2,False,False,\b(?:eye|sight)\b,\b(?:copper|bronze|brazier)\b
+Munda,717,False,fixed48,35,phon_exact,foot ↔ servant,foot ↔ servant,2,False,False,\b(?:foot|footprint)\b,\b(?:servant|slave|servitude)\b
+Munda,413,False,fixed48,36,phon_exact,grain → tax / cut,grain → tax / cut,2,False,False,\b(?:grain|paddy|rice|ear)\b,\b(?:tax|duty|cut|reap)\b
+Munda,350,False,fixed48,37,phon_exact,fence → watchman,fence → watchman,3,False,False,\b(?:fence|yard|pound|enclosure)\b,\b(?:watchman|servant|messenger)\b
+Munda,460,True,key6a24,163,phon_stem,"shoot, sprout, thorn, shrub, spike → garland, wreath, necklace, offering, sacred",shoot → garland,2,False,True,\b(?:shoot|sprout|thorn|shrub|spike)\b,\b(?:garland|wreath|necklace|offering|sacred)\b
+Munda,482,False,fixed48,39,phon_exact,mountain → king,mountain → king,2,False,False,\b(?:mountain|hill)\b,\b(?:king|emperor|chief|leadership)\b
+Munda,480,False,fixed48,40,phon_exact,point → vessel,point → vessel,3,False,False,\b(?:point|sharp|tip)\b,\b(?:vessel|capacity|measure)\b
+Munda,335,False,fixed48,41,phon_exact,frame → pot,frame → pot,2,False,False,\b(?:frame)\b,\b(?:pot|vessel|pan)\b
+Munda,540,False,fixed48,42,phon_exact,drum ↔ capacity measure,drum ↔ capacity measure,3,False,False,\b(?:drum)\b,\b(?:measure|capacity)\b
+Munda,630,False,fixed48,43,phon_exact,cage → assemble / store,cage → assemble / store,2,False,False,\b(?:cage|coop|nest|pen|hive)\b,\b(?:assemble|join|store|stored|together)\b
+Munda,171,True,key6a24,173,phon_stem,"hang, suspend, swing, yoke, pendulum → weight, standard, balance, scale, stone, equal",hang ↔ weigh,2,False,True,\b(?:hang|suspend|swing|yoke|pendulum)\b,\b(?:weight|standard|balance|scale|stone|equal)\b
+Munda,831,False,fixed48,45,phon_exact,blade → grain,blade → grain,2,False,False,\b(?:blade|weapon|arrow|weaver)\b,\b(?:grain|paddy)\b
+Munda,165,False,fixed48,46,phon_exact,bend / snail → cauldron,bend / snail → cauldron,2,False,False,\b(?:bend|curve|hump|snail)\b,\b(?:cauldron)\b
+Munda,104,False,fixed48,47,phon_exact,leap → collect / levy,leap → collect / levy,2,False,False,\b(?:leap|skip|jump|stride|dance)\b,\b(?:collect|levy|recover)\b
+Indo-Aryan,740,False,fixed48,0,phon_exact,jar → house,jar → house,3,False,False,\b(?:jar|pot|vessel)\b,\b(?:house|home|abode|family|lineage)\b
+Indo-Aryan,700,False,fixed48,1,phon_exact,bowl / hollow → measure,bowl / hollow → measure,2,False,False,\b(?:bowl|earthen\ pot|hollow)\b,\b(?:measure|capacity)\b
+Indo-Aryan,400,False,fixed48,2,phon_exact,comb → small / junior,comb → small / junior,3,False,False,\b(?:comb|disentangle)\b,\b(?:small|little|young)\b
+Indo-Aryan,220,False,fixed48,3,phon_exact,fish → star,fish → star,2,False,False,\b(?:fish)\b,\b(?:star|constellation|asterism)\b
+Indo-Aryan,520,False,fixed48,4,phon_exact,spear → chief,spear → chief,3,False,False,\b(?:spear|lance|dart|javelin)\b,\b(?:chief|ruler|king|hero)\b
+Indo-Aryan,390,False,fixed48,5,phon_exact,tree → sew / weave,tree → sew / weave,3,False,False,\b(?:tree|plant|shrub)\b,\b(?:sew|stitch|weave|plait)\b
+Indo-Aryan,861,False,fixed48,6,phon_exact,eye / sight → weight / property,eye / sight → weight / property,3,False,False,\b(?:eye|sight|see)\b,\b(?:weight|fraction|property|possession)\b
+Indo-Aryan,820,False,fixed48,7,phon_exact,wheel → quarter / leg,wheel → quarter / leg,3,False,False,\b(?:wheel|cart)\b,\b(?:quarter|leg|foot)\b
+Indo-Aryan,320,False,fixed48,8,phon_exact,step / ladder → ration / measure,step / ladder → ration / measure,2,False,False,\b(?:step|stair|ladder)\b,\b(?:ration|measure|allowance|capacity|weight)\b
+Indo-Aryan,590,False,fixed48,9,phon_exact,basket / plait → bale / load,basket / plait → bale / load,2,False,False,\b(?:basket|plait|braid)\b,\b(?:sack|load|bale|bundle)\b
+Indo-Aryan,615,False,fixed48,10,phon_exact,loom frame → field plot,loom frame → field plot,3,False,False,\b(?:weaver|loom|reed)\b,\b(?:field|ridge|land|beds)\b
+Indo-Aryan,705,False,fixed48,11,phon_exact,threshing floor → vessel / ship,threshing floor → vessel / ship,3,False,False,\b(?:threshing|field|floor)\b,\b(?:ship|vessel|boat)\b
+Indo-Aryan,176,False,fixed48,12,phon_exact,sit / remain → tribute,sit / remain → tribute,2,False,False,\b(?:sit|remain|abide)\b,\b(?:tax|tribute|duty|payment)\b
+Indo-Aryan,090,False,fixed48,13,phon_exact,man → manager / ruler,man → manager / ruler,2,False,False,\b(?:man|male|husband|servant)\b,\b(?:rule|manage|control)\b
+Indo-Aryan,233,False,fixed48,14,phon_exact,split → dawn / light,split → dawn / light,3,False,False,\b(?:crack|split|burst)\b,\b(?:dawn|daybreak|dawning|day)\b
+Indo-Aryan,415,False,fixed48,15,phon_exact,fork / branch → seize,fork / branch → seize,3,False,False,\b(?:fork|prong|branch)\b,\b(?:seize|grasp|catch|control)\b
+Indo-Aryan,920,True,fixed48,16,phon_exact,moon ↔ month,moon ↔ month,2,True,False,\b(?:moon)\b,\b(?:month)\b
+Indo-Aryan,407,False,fixed48,17,phon_exact,branch → cloth,branch → cloth,2,False,False,\b(?:branch)\b,\b(?:cloth|weaver)\b
+Indo-Aryan,806,False,fixed48,18,phon_exact,stalk → millet,stalk → millet,3,False,False,\b(?:stalk|stem)\b,\b(?:millet|grain)\b
+Indo-Aryan,798,False,fixed48,19,phon_exact,shell → bind / build house,shell → bind / build house,4,False,False,\b(?:shell)\b,\b(?:bind|tie|build|house)\b
+Indo-Aryan,255,True,key4b30,126,phon_exact,"animal, beast, fish, bird, fowl, fin → ration, allowance, grain, granary, chief, king, issue",crocodile → first / principal,3,False,True,\b(?:animal|beast|fish|bird|fowl|fin)\b,\b(?:ration|allowance|grain|granary|chief|king|issue)\b
+Indo-Aryan,840,False,fixed48,21,phon_exact,pair ↔ join,pair ↔ join,3,False,False,\b(?:pair|couple)\b,\b(?:join|unite|union|agree)\b
+Indo-Aryan,760,False,fixed48,22,phon_exact,sprout ↔ young / child,sprout ↔ young / child,2,False,False,\b(?:sprout|shoot|tendril)\b,\b(?:young|child|infant)\b
+Indo-Aryan,368,False,fixed48,23,phon_exact,flag → give / grant,flag → give / grant,2,False,False,\b(?:flag|banner)\b,\b(?:give|grant)\b
+Indo-Aryan,690,False,fixed48,24,phon_exact,tie ↔ bundle / building,tie ↔ bundle / building,2,False,False,\b(?:tie|bind|fasten)\b,\b(?:bundle|packet|building|store)\b
+Indo-Aryan,550,False,fixed48,25,phon_exact,waist / middle → district,waist / middle → district,3,False,False,\b(?:waist|middle|centre|center)\b,\b(?:district|country|province|locality)\b
+Indo-Aryan,892,False,fixed48,26,phon_exact,bow → sell,bow → sell,3,False,False,\b(?:bow)\b,\b(?:sell|sale|price)\b
+Indo-Aryan,140,False,fixed48,27,phon_exact,mother / lady ↔ goddess,mother / lady ↔ goddess,3,False,False,\b(?:mother|lady|matron)\b,\b(?:goddess)\b
+Indo-Aryan,154,False,fixed48,28,phon_exact,carrying pole → guard,carrying pole → guard,2,False,False,\b(?:carrying\ pole|pole|yoke)\b,\b(?:guard|watch|preserve|protect|shelter)\b
+Indo-Aryan,142,False,fixed48,29,phon_exact,staff → smith,staff → smith,5,False,False,\b(?:staff|stick|rod)\b,\b(?:smith|iron)\b
+Indo-Aryan,503,False,fixed48,30,phon_exact,mountain → garland,mountain → garland,3,False,False,\b(?:mountain|hill)\b,\b(?:garland|necklace)\b
+Indo-Aryan,440,False,fixed48,31,phon_exact,corner → vessel,corner → vessel,2,False,False,\b(?:corner|nook|lane)\b,\b(?:vessel|pot|pan|cup)\b
+Indo-Aryan,435,False,fixed48,32,phon_exact,hook → attendant,hook → attendant,2,False,False,\b(?:hook|goad)\b,\b(?:servant|watchman|attendant|messenger)\b
+Indo-Aryan,845,False,fixed48,33,phon_exact,line → tax,line → tax,3,False,False,\b(?:line|stripe|streak|draw|write)\b,\b(?:tax|impost|duty|toll|levy)\b
+Indo-Aryan,850,False,fixed48,34,phon_exact,eye → copper,eye → copper,2,False,False,\b(?:eye|sight)\b,\b(?:copper|bronze|brazier)\b
+Indo-Aryan,717,False,fixed48,35,phon_exact,foot ↔ servant,foot ↔ servant,2,False,False,\b(?:foot|footprint)\b,\b(?:servant|slave|servitude)\b
+Indo-Aryan,413,False,fixed48,36,phon_exact,grain → tax / cut,grain → tax / cut,2,False,False,\b(?:grain|paddy|rice|ear)\b,\b(?:tax|duty|cut|reap)\b
+Indo-Aryan,350,False,fixed48,37,phon_exact,fence → watchman,fence → watchman,3,False,False,\b(?:fence|yard|pound|enclosure)\b,\b(?:watchman|servant|messenger)\b
+Indo-Aryan,460,True,key6a24,163,phon_exact,"shoot, sprout, thorn, shrub, spike → garland, wreath, necklace, offering, sacred",shoot → garland,2,False,True,\b(?:shoot|sprout|thorn|shrub|spike)\b,\b(?:garland|wreath|necklace|offering|sacred)\b
+Indo-Aryan,482,False,fixed48,39,phon_exact,mountain → king,mountain → king,2,False,False,\b(?:mountain|hill)\b,\b(?:king|emperor|chief|leadership)\b
+Indo-Aryan,480,False,fixed48,40,phon_exact,point → vessel,point → vessel,3,False,False,\b(?:point|sharp|tip)\b,\b(?:vessel|capacity|measure)\b
+Indo-Aryan,335,False,fixed48,41,phon_exact,frame → pot,frame → pot,2,False,False,\b(?:frame)\b,\b(?:pot|vessel|pan)\b
+Indo-Aryan,540,False,fixed48,42,phon_exact,drum ↔ capacity measure,drum ↔ capacity measure,3,False,False,\b(?:drum)\b,\b(?:measure|capacity)\b
+Indo-Aryan,630,False,fixed48,43,phon_exact,cage → assemble / store,cage → assemble / store,2,False,False,\b(?:cage|coop|nest|pen|hive)\b,\b(?:assemble|join|store|stored|together)\b
+Indo-Aryan,171,False,fixed48,44,phon_exact,hang ↔ weigh,hang ↔ weigh,2,False,False,\b(?:hang|suspend|suspended)\b,\b(?:weigh|weight|balance|scales)\b
+Indo-Aryan,831,False,fixed48,45,phon_exact,blade → grain,blade → grain,2,False,False,\b(?:blade|weapon|arrow|weaver)\b,\b(?:grain|paddy)\b
+Indo-Aryan,165,True,key6a24,176,phon_stem,"bend, curve, hump, snail, spiral → cauldron, copper, vessel, pot, month",bend / snail → cauldron,2,False,True,\b(?:bend|curve|hump|snail|spiral)\b,\b(?:cauldron|copper|vessel|pot|month)\b
+Indo-Aryan,104,False,fixed48,47,phon_exact,leap → collect / levy,leap → collect / levy,2,False,False,\b(?:leap|skip|jump|stride|dance)\b,\b(?:collect|levy|recover)\b
+Elamite,740,False,fixed48,0,phon_exact,jar → house,jar → house,3,False,False,\b(?:jar|pot|vessel)\b,\b(?:house|home|abode|family|lineage)\b
+Elamite,700,False,fixed48,1,phon_exact,bowl / hollow → measure,bowl / hollow → measure,2,False,False,\b(?:bowl|earthen\ pot|hollow)\b,\b(?:measure|capacity)\b
+Elamite,400,False,fixed48,2,phon_exact,comb → small / junior,comb → small / junior,3,False,False,\b(?:comb|disentangle)\b,\b(?:small|little|young)\b
+Elamite,220,False,fixed48,3,phon_exact,fish → star,fish → star,2,False,False,\b(?:fish)\b,\b(?:star|constellation|asterism)\b
+Elamite,520,False,fixed48,4,phon_exact,spear → chief,spear → chief,3,False,False,\b(?:spear|lance|dart|javelin)\b,\b(?:chief|ruler|king|hero)\b
+Elamite,390,False,fixed48,5,phon_exact,tree → sew / weave,tree → sew / weave,3,False,False,\b(?:tree|plant|shrub)\b,\b(?:sew|stitch|weave|plait)\b
+Elamite,861,False,fixed48,6,phon_exact,eye / sight → weight / property,eye / sight → weight / property,3,False,False,\b(?:eye|sight|see)\b,\b(?:weight|fraction|property|possession)\b
+Elamite,820,False,fixed48,7,phon_exact,wheel → quarter / leg,wheel → quarter / leg,3,False,False,\b(?:wheel|cart)\b,\b(?:quarter|leg|foot)\b
+Elamite,320,False,fixed48,8,phon_exact,step / ladder → ration / measure,step / ladder → ration / measure,2,False,False,\b(?:step|stair|ladder)\b,\b(?:ration|measure|allowance|capacity|weight)\b
+Elamite,590,False,fixed48,9,phon_exact,basket / plait → bale / load,basket / plait → bale / load,2,False,False,\b(?:basket|plait|braid)\b,\b(?:sack|load|bale|bundle)\b
+Elamite,615,False,fixed48,10,phon_exact,loom frame → field plot,loom frame → field plot,3,False,False,\b(?:weaver|loom|reed)\b,\b(?:field|ridge|land|beds)\b
+Elamite,705,False,fixed48,11,phon_exact,threshing floor → vessel / ship,threshing floor → vessel / ship,3,False,False,\b(?:threshing|field|floor)\b,\b(?:ship|vessel|boat)\b
+Elamite,176,False,fixed48,12,phon_exact,sit / remain → tribute,sit / remain → tribute,2,False,False,\b(?:sit|remain|abide)\b,\b(?:tax|tribute|duty|payment)\b
+Elamite,090,False,fixed48,13,phon_exact,man → manager / ruler,man → manager / ruler,2,False,False,\b(?:man|male|husband|servant)\b,\b(?:rule|manage|control)\b
+Elamite,233,False,fixed48,14,phon_exact,split → dawn / light,split → dawn / light,3,False,False,\b(?:crack|split|burst)\b,\b(?:dawn|daybreak|dawning|day)\b
+Elamite,415,False,fixed48,15,phon_exact,fork / branch → seize,fork / branch → seize,3,False,False,\b(?:fork|prong|branch)\b,\b(?:seize|grasp|catch|control)\b
+Elamite,920,False,fixed48,16,phon_exact,moon ↔ month,moon ↔ month,2,False,False,\b(?:moon)\b,\b(?:month)\b
+Elamite,407,False,fixed48,17,phon_exact,branch → cloth,branch → cloth,2,False,False,\b(?:branch)\b,\b(?:cloth|weaver)\b
+Elamite,806,False,fixed48,18,phon_exact,stalk → millet,stalk → millet,3,False,False,\b(?:stalk|stem)\b,\b(?:millet|grain)\b
+Elamite,798,False,fixed48,19,phon_exact,shell → bind / build house,shell → bind / build house,4,False,False,\b(?:shell)\b,\b(?:bind|tie|build|house)\b
+Elamite,255,False,fixed48,20,phon_exact,crocodile → first / principal,crocodile → first / principal,3,False,False,\b(?:crocodile)\b,\b(?:first|beginning|principal|capital)\b
+Elamite,840,False,fixed48,21,phon_exact,pair ↔ join,pair ↔ join,3,False,False,\b(?:pair|couple)\b,\b(?:join|unite|union|agree)\b
+Elamite,760,False,fixed48,22,phon_exact,sprout ↔ young / child,sprout ↔ young / child,2,False,False,\b(?:sprout|shoot|tendril)\b,\b(?:young|child|infant)\b
+Elamite,368,False,fixed48,23,phon_exact,flag → give / grant,flag → give / grant,2,False,False,\b(?:flag|banner)\b,\b(?:give|grant)\b
+Elamite,690,False,fixed48,24,phon_exact,tie ↔ bundle / building,tie ↔ bundle / building,2,False,False,\b(?:tie|bind|fasten)\b,\b(?:bundle|packet|building|store)\b
+Elamite,550,False,fixed48,25,phon_exact,waist / middle → district,waist / middle → district,3,False,False,\b(?:waist|middle|centre|center)\b,\b(?:district|country|province|locality)\b
+Elamite,892,False,fixed48,26,phon_exact,bow → sell,bow → sell,3,False,False,\b(?:bow)\b,\b(?:sell|sale|price)\b
+Elamite,140,False,fixed48,27,phon_exact,mother / lady ↔ goddess,mother / lady ↔ goddess,3,False,False,\b(?:mother|lady|matron)\b,\b(?:goddess)\b
+Elamite,154,False,fixed48,28,phon_exact,carrying pole → guard,carrying pole → guard,2,False,False,\b(?:carrying\ pole|pole|yoke)\b,\b(?:guard|watch|preserve|protect|shelter)\b
+Elamite,142,False,fixed48,29,phon_exact,staff → smith,staff → smith,5,False,False,\b(?:staff|stick|rod)\b,\b(?:smith|iron)\b
+Elamite,503,False,fixed48,30,phon_exact,mountain → garland,mountain → garland,3,False,False,\b(?:mountain|hill)\b,\b(?:garland|necklace)\b
+Elamite,440,False,fixed48,31,phon_exact,corner → vessel,corner → vessel,2,False,False,\b(?:corner|nook|lane)\b,\b(?:vessel|pot|pan|cup)\b
+Elamite,435,False,fixed48,32,phon_exact,hook → attendant,hook → attendant,2,False,False,\b(?:hook|goad)\b,\b(?:servant|watchman|attendant|messenger)\b
+Elamite,845,False,fixed48,33,phon_exact,line → tax,line → tax,3,False,False,\b(?:line|stripe|streak|draw|write)\b,\b(?:tax|impost|duty|toll|levy)\b
+Elamite,850,False,fixed48,34,phon_exact,eye → copper,eye → copper,2,False,False,\b(?:eye|sight)\b,\b(?:copper|bronze|brazier)\b
+Elamite,717,False,fixed48,35,phon_exact,foot ↔ servant,foot ↔ servant,2,False,False,\b(?:foot|footprint)\b,\b(?:servant|slave|servitude)\b
+Elamite,413,False,fixed48,36,phon_exact,grain → tax / cut,grain → tax / cut,2,False,False,\b(?:grain|paddy|rice|ear)\b,\b(?:tax|duty|cut|reap)\b
+Elamite,350,False,fixed48,37,phon_exact,fence → watchman,fence → watchman,3,False,False,\b(?:fence|yard|pound|enclosure)\b,\b(?:watchman|servant|messenger)\b
+Elamite,460,False,fixed48,38,phon_exact,shoot → garland,shoot → garland,2,False,False,\b(?:shoot|branch)\b,\b(?:garland|wreath|neckrope)\b
+Elamite,482,False,fixed48,39,phon_exact,mountain → king,mountain → king,2,False,False,\b(?:mountain|hill)\b,\b(?:king|emperor|chief|leadership)\b
+Elamite,480,False,fixed48,40,phon_exact,point → vessel,point → vessel,3,False,False,\b(?:point|sharp|tip)\b,\b(?:vessel|capacity|measure)\b
+Elamite,335,False,fixed48,41,phon_exact,frame → pot,frame → pot,2,False,False,\b(?:frame)\b,\b(?:pot|vessel|pan)\b
+Elamite,540,False,fixed48,42,phon_exact,drum ↔ capacity measure,drum ↔ capacity measure,3,False,False,\b(?:drum)\b,\b(?:measure|capacity)\b
+Elamite,630,False,fixed48,43,phon_exact,cage → assemble / store,cage → assemble / store,2,False,False,\b(?:cage|coop|nest|pen|hive)\b,\b(?:assemble|join|store|stored|together)\b
+Elamite,171,False,fixed48,44,phon_exact,hang ↔ weigh,hang ↔ weigh,2,False,False,\b(?:hang|suspend|suspended)\b,\b(?:weigh|weight|balance|scales)\b
+Elamite,831,False,fixed48,45,phon_exact,blade → grain,blade → grain,2,False,False,\b(?:blade|weapon|arrow|weaver)\b,\b(?:grain|paddy)\b
+Elamite,165,False,fixed48,46,phon_exact,bend / snail → cauldron,bend / snail → cauldron,2,False,False,\b(?:bend|curve|hump|snail)\b,\b(?:cauldron)\b
+Elamite,104,False,fixed48,47,phon_exact,leap → collect / levy,leap → collect / levy,2,False,False,\b(?:leap|skip|jump|stride|dance)\b,\b(?:collect|levy|recover)\b
+Sumerian,740,True,fixed48,0,phon_exact,jar → house,jar → house,3,False,True,\b(?:jar|pot|vessel)\b,\b(?:house|home|abode|family|lineage)\b
+Sumerian,700,True,fixed48,1,phon_exact,bowl / hollow → measure,bowl / hollow → measure,2,False,True,\b(?:bowl|earthen\ pot|hollow)\b,\b(?:measure|capacity)\b
+Sumerian,400,False,fixed48,2,phon_exact,comb → small / junior,comb → small / junior,3,False,False,\b(?:comb|disentangle)\b,\b(?:small|little|young)\b
+Sumerian,220,True,legacy12,101,phon_exact,fish <-> star/constellation/shine,fish → star,2,False,True,\b(fish|fishes|carp)\b,\b(star|stars|constellation|planet|asterism|shine|glitter|flash)\b
+Sumerian,520,False,fixed48,4,phon_exact,spear → chief,spear → chief,3,False,False,\b(?:spear|lance|dart|javelin)\b,\b(?:chief|ruler|king|hero)\b
+Sumerian,390,False,fixed48,5,phon_exact,tree → sew / weave,tree → sew / weave,3,False,False,\b(?:tree|plant|shrub)\b,\b(?:sew|stitch|weave|plait)\b
+Sumerian,861,True,legacy12,105,phon_exact,enclosure/field/court <-> share/portion/weight/property,eye / sight → weight / property,3,False,True,\b(enclosure|courtyard|court|plot|land|field)\b,\b(share|portion|allotment|property|fraction|weight)\b
+Sumerian,820,True,fixed48,7,phon_exact,wheel → quarter / leg,wheel → quarter / leg,3,False,True,\b(?:wheel|cart)\b,\b(?:quarter|leg|foot)\b
+Sumerian,320,False,fixed48,8,phon_exact,step / ladder → ration / measure,step / ladder → ration / measure,2,False,False,\b(?:step|stair|ladder)\b,\b(?:ration|measure|allowance|capacity|weight)\b
+Sumerian,590,True,key4b30,115,phon_exact,"box, chest, crate, basket, plait, braid → sack, pack, bale, bundle, granary, store, treasury",basket / plait → bale / load,2,False,True,\b(?:box|chest|crate|basket|plait|braid)\b,\b(?:sack|pack|bale|bundle|granary|store|treasury)\b
+Sumerian,615,True,fixed48,10,phon_exact,loom frame → field plot,loom frame → field plot,3,False,True,\b(?:weaver|loom|reed)\b,\b(?:field|ridge|land|beds)\b
+Sumerian,705,True,legacy12,99,phon_stem,measure/threshing/grain <-> ship/boat,threshing floor → vessel / ship,3,False,True,\b(measure|bushel|threshing|grain|barley)\b,\b(ship|boat|canoe|raft|sailor|navigator)\b
+Sumerian,176,False,fixed48,12,phon_exact,sit / remain → tribute,sit / remain → tribute,2,False,False,\b(?:sit|remain|abide)\b,\b(?:tax|tribute|duty|payment)\b
+Sumerian,090,True,legacy12,107,phon_exact,man/male/husband <-> servant/agent/governor/rule,man → manager / ruler,2,False,True,\b(man|male|husband|warrior)\b,\b(servant|slave|labourer|agent|manage|rule|governor|officer)\b
+Sumerian,233,True,key4b30,119,phon_exact,"split, halve, divide, cut, slice, cleave, crack → star, bright, shine, dawn, light, luster, sun",split → dawn / light,3,False,True,\b(?:split|halve|divide|cut|slice|cleave|crack)\b,\b(?:star|bright|shine|dawn|light|luster|sun)\b
+Sumerian,415,False,fixed48,15,phon_exact,fork / branch → seize,fork / branch → seize,3,False,False,\b(?:fork|prong|branch)\b,\b(?:seize|grasp|catch|control)\b
+Sumerian,920,True,fixed48,16,phon_exact,moon ↔ month,moon ↔ month,2,True,True,\b(?:moon)\b,\b(?:month)\b
+Sumerian,407,False,fixed48,17,phon_exact,branch → cloth,branch → cloth,2,False,False,\b(?:branch)\b,\b(?:cloth|weaver)\b
+Sumerian,806,False,fixed48,18,phon_exact,stalk → millet,stalk → millet,3,False,False,\b(?:stalk|stem)\b,\b(?:millet|grain)\b
+Sumerian,798,False,fixed48,19,phon_exact,shell → bind / build house,shell → bind / build house,4,False,False,\b(?:shell)\b,\b(?:bind|tie|build|house)\b
+Sumerian,255,True,key4b30,126,phon_exact,"animal, beast, fish, bird, fowl, fin → ration, allowance, grain, granary, chief, king, issue",crocodile → first / principal,3,False,True,\b(?:animal|beast|fish|bird|fowl|fin)\b,\b(?:ration|allowance|grain|granary|chief|king|issue)\b
+Sumerian,840,True,fixed48,21,phon_exact,pair ↔ join,pair ↔ join,3,True,False,\b(?:pair|couple)\b,\b(?:join|unite|union|agree)\b
+Sumerian,760,True,fixed48,22,phon_exact,sprout ↔ young / child,sprout ↔ young / child,2,False,True,\b(?:sprout|shoot|tendril)\b,\b(?:young|child|infant)\b
+Sumerian,368,False,fixed48,23,phon_exact,flag → give / grant,flag → give / grant,2,False,False,\b(?:flag|banner)\b,\b(?:give|grant)\b
+Sumerian,690,True,fixed48,24,phon_exact,tie ↔ bundle / building,tie ↔ bundle / building,2,False,True,\b(?:tie|bind|fasten)\b,\b(?:bundle|packet|building|store)\b
+Sumerian,550,True,key4b30,133,phon_exact,"mouth, jaw, pincer, beak, claw, tongs → gate, portal, door, entrance, citadel, fort, precinct",waist / middle → district,3,False,True,\b(?:mouth|jaw|pincer|beak|claw|tongs)\b,\b(?:gate|portal|door|entrance|citadel|fort|precinct)\b
+Sumerian,892,True,auto51,75,phon_exact,bow <-> pot_all,bow → sell,3,False,True,\b(bow|arc)\b,\b(measure|capacity|bushel|oil|ration)\b
+Sumerian,140,True,key4b30,135,phon_exact,"woman, female, breast, mother, matron, girl → goddess, queen, ruler, chief, sacred, temple, citadel",mother / lady ↔ goddess,3,False,True,\b(?:woman|female|breast|mother|matron|girl)\b,\b(?:goddess|queen|ruler|chief|sacred|temple|citadel)\b
+Sumerian,154,True,fixed48,28,phon_exact,carrying pole → guard,carrying pole → guard,2,False,True,\b(?:carrying\ pole|pole|yoke)\b,\b(?:guard|watch|preserve|protect|shelter)\b
+Sumerian,142,True,auto51,58,phon_exact,man <-> copper_tablet_vs_all,staff → smith,5,False,True,\b(man|male|husband|warrior)\b,\b(field|allotment|share|portion|estate)\b
+Sumerian,503,True,auto51,55,phon_exact,hill <-> copper_tablet_vs_all,mountain → garland,3,False,True,\b(hill|mountain|peak|mound)\b,\b(field|allotment|share|portion|estate)\b
+Sumerian,440,False,fixed48,31,phon_exact,corner → vessel,corner → vessel,2,False,False,\b(?:corner|nook|lane)\b,\b(?:vessel|pot|pan|cup)\b
+Sumerian,435,False,fixed48,32,phon_exact,hook → attendant,hook → attendant,2,False,False,\b(?:hook|goad)\b,\b(?:servant|watchman|attendant|messenger)\b
+Sumerian,845,False,fixed48,33,phon_exact,line → tax,line → tax,3,False,False,\b(?:line|stripe|streak|draw|write)\b,\b(?:tax|impost|duty|toll|levy)\b
+Sumerian,850,True,legacy12,109,phon_exact,eye/sight/pupil <-> copper/bronze/metal/blade,eye → copper,2,False,True,\b(eye|eyes|sight|pupil|vision)\b,\b(copper|bronze|metal|brass|ore|blade|axe|chisel)\b
+Sumerian,717,False,fixed48,35,phon_exact,foot ↔ servant,foot ↔ servant,2,False,False,\b(?:foot|footprint)\b,\b(?:servant|slave|servitude)\b
+Sumerian,413,True,fixed48,36,phon_exact,grain → tax / cut,grain → tax / cut,2,False,True,\b(?:grain|paddy|rice|ear)\b,\b(?:tax|duty|cut|reap)\b
+Sumerian,350,True,key6a24,161,phon_exact,"stall, manger, fence, harrow, rake → village, plough, herd, cattle, pasture, farm",fence → watchman,3,False,True,\b(?:stall|manger|fence|harrow|rake)\b,\b(?:village|plough|herd|cattle|pasture|farm)\b
+Sumerian,460,False,fixed48,38,phon_exact,shoot → garland,shoot → garland,2,False,False,\b(?:shoot|branch)\b,\b(?:garland|wreath|neckrope)\b
+Sumerian,482,False,fixed48,39,phon_exact,mountain → king,mountain → king,2,False,False,\b(?:mountain|hill)\b,\b(?:king|emperor|chief|leadership)\b
+Sumerian,480,True,fixed48,40,phon_exact,point → vessel,point → vessel,3,False,True,\b(?:point|sharp|tip)\b,\b(?:vessel|capacity|measure)\b
+Sumerian,335,True,key6a24,167,phon_exact,"trough, basin, frame, double, rack → vessel, basket, grain, ration, measure, granary",frame → pot,2,False,True,\b(?:trough|basin|frame|double|rack)\b,\b(?:vessel|basket|grain|ration|measure|granary)\b
+Sumerian,540,False,fixed48,42,phon_exact,drum ↔ capacity measure,drum ↔ capacity measure,3,False,False,\b(?:drum)\b,\b(?:measure|capacity)\b
+Sumerian,630,False,fixed48,43,phon_exact,cage → assemble / store,cage → assemble / store,2,False,False,\b(?:cage|coop|nest|pen|hive)\b,\b(?:assemble|join|store|stored|together)\b
+Sumerian,171,False,fixed48,44,phon_exact,hang ↔ weigh,hang ↔ weigh,2,False,False,\b(?:hang|suspend|suspended)\b,\b(?:weigh|weight|balance|scales)\b
+Sumerian,831,False,fixed48,45,phon_exact,blade → grain,blade → grain,2,False,False,\b(?:blade|weapon|arrow|weaver)\b,\b(?:grain|paddy)\b
+Sumerian,165,False,fixed48,46,phon_exact,bend / snail → cauldron,bend / snail → cauldron,2,False,False,\b(?:bend|curve|hump|snail)\b,\b(?:cauldron)\b
+Sumerian,104,False,fixed48,47,phon_exact,leap → collect / levy,leap → collect / levy,2,False,False,\b(?:leap|skip|jump|stride|dance)\b,\b(?:collect|levy|recover)\b
+Akkadian,740,False,fixed48,0,phon_exact,jar → house,jar → house,3,False,False,\b(?:jar|pot|vessel)\b,\b(?:house|home|abode|family|lineage)\b
+Akkadian,700,False,fixed48,1,phon_exact,bowl / hollow → measure,bowl / hollow → measure,2,False,False,\b(?:bowl|earthen\ pot|hollow)\b,\b(?:measure|capacity)\b
+Akkadian,400,False,fixed48,2,phon_exact,comb → small / junior,comb → small / junior,3,False,False,\b(?:comb|disentangle)\b,\b(?:small|little|young)\b
+Akkadian,220,True,fixed48,3,phon_exact,fish → star,fish → star,2,True,False,\b(?:fish)\b,\b(?:star|constellation|asterism)\b
+Akkadian,520,False,fixed48,4,phon_exact,spear → chief,spear → chief,3,False,False,\b(?:spear|lance|dart|javelin)\b,\b(?:chief|ruler|king|hero)\b
+Akkadian,390,False,fixed48,5,phon_exact,tree → sew / weave,tree → sew / weave,3,False,False,\b(?:tree|plant|shrub)\b,\b(?:sew|stitch|weave|plait)\b
+Akkadian,861,False,fixed48,6,phon_exact,eye / sight → weight / property,eye / sight → weight / property,3,False,False,\b(?:eye|sight|see)\b,\b(?:weight|fraction|property|possession)\b
+Akkadian,820,False,fixed48,7,phon_exact,wheel → quarter / leg,wheel → quarter / leg,3,False,False,\b(?:wheel|cart)\b,\b(?:quarter|leg|foot)\b
+Akkadian,320,False,fixed48,8,phon_exact,step / ladder → ration / measure,step / ladder → ration / measure,2,False,False,\b(?:step|stair|ladder)\b,\b(?:ration|measure|allowance|capacity|weight)\b
+Akkadian,590,False,fixed48,9,phon_exact,basket / plait → bale / load,basket / plait → bale / load,2,False,False,\b(?:basket|plait|braid)\b,\b(?:sack|load|bale|bundle)\b
+Akkadian,615,False,fixed48,10,phon_exact,loom frame → field plot,loom frame → field plot,3,False,False,\b(?:weaver|loom|reed)\b,\b(?:field|ridge|land|beds)\b
+Akkadian,705,False,fixed48,11,phon_exact,threshing floor → vessel / ship,threshing floor → vessel / ship,3,False,False,\b(?:threshing|field|floor)\b,\b(?:ship|vessel|boat)\b
+Akkadian,176,False,fixed48,12,phon_exact,sit / remain → tribute,sit / remain → tribute,2,False,False,\b(?:sit|remain|abide)\b,\b(?:tax|tribute|duty|payment)\b
+Akkadian,090,True,legacy12,107,phon_exact,man/male/husband <-> servant/agent/governor/rule,man → manager / ruler,2,True,False,\b(man|male|husband|warrior)\b,\b(servant|slave|labourer|agent|manage|rule|governor|officer)\b
+Akkadian,233,False,fixed48,14,phon_exact,split → dawn / light,split → dawn / light,3,False,False,\b(?:crack|split|burst)\b,\b(?:dawn|daybreak|dawning|day)\b
+Akkadian,415,False,fixed48,15,phon_exact,fork / branch → seize,fork / branch → seize,3,False,False,\b(?:fork|prong|branch)\b,\b(?:seize|grasp|catch|control)\b
+Akkadian,920,True,fixed48,16,phon_exact,moon ↔ month,moon ↔ month,2,True,False,\b(?:moon)\b,\b(?:month)\b
+Akkadian,407,False,fixed48,17,phon_exact,branch → cloth,branch → cloth,2,False,False,\b(?:branch)\b,\b(?:cloth|weaver)\b
+Akkadian,806,False,fixed48,18,phon_exact,stalk → millet,stalk → millet,3,False,False,\b(?:stalk|stem)\b,\b(?:millet|grain)\b
+Akkadian,798,False,fixed48,19,phon_exact,shell → bind / build house,shell → bind / build house,4,False,False,\b(?:shell)\b,\b(?:bind|tie|build|house)\b
+Akkadian,255,False,fixed48,20,phon_exact,crocodile → first / principal,crocodile → first / principal,3,False,False,\b(?:crocodile)\b,\b(?:first|beginning|principal|capital)\b
+Akkadian,840,True,key4b30,129,phon_exact,"pair, twin, couple, double, leaf, leaves → equal, match, agree, join, unite, bangle, ring, audit",pair ↔ join,3,False,True,\b(?:pair|twin|couple|double|leaf|leaves)\b,\b(?:equal|match|agree|join|unite|bangle|ring|audit)\b
+Akkadian,760,False,fixed48,22,phon_exact,sprout ↔ young / child,sprout ↔ young / child,2,False,False,\b(?:sprout|shoot|tendril)\b,\b(?:young|child|infant)\b
+Akkadian,368,False,fixed48,23,phon_exact,flag → give / grant,flag → give / grant,2,False,False,\b(?:flag|banner)\b,\b(?:give|grant)\b
+Akkadian,690,False,fixed48,24,phon_exact,tie ↔ bundle / building,tie ↔ bundle / building,2,False,False,\b(?:tie|bind|fasten)\b,\b(?:bundle|packet|building|store)\b
+Akkadian,550,False,fixed48,25,phon_exact,waist / middle → district,waist / middle → district,3,False,False,\b(?:waist|middle|centre|center)\b,\b(?:district|country|province|locality)\b
+Akkadian,892,False,fixed48,26,phon_exact,bow → sell,bow → sell,3,False,False,\b(?:bow)\b,\b(?:sell|sale|price)\b
+Akkadian,140,True,fixed48,27,phon_exact,mother / lady ↔ goddess,mother / lady ↔ goddess,3,True,False,\b(?:mother|lady|matron)\b,\b(?:goddess)\b
+Akkadian,154,False,fixed48,28,phon_exact,carrying pole → guard,carrying pole → guard,2,False,False,\b(?:carrying\ pole|pole|yoke)\b,\b(?:guard|watch|preserve|protect|shelter)\b
+Akkadian,142,False,fixed48,29,phon_exact,staff → smith,staff → smith,5,False,False,\b(?:staff|stick|rod)\b,\b(?:smith|iron)\b
+Akkadian,503,False,fixed48,30,phon_exact,mountain → garland,mountain → garland,3,False,False,\b(?:mountain|hill)\b,\b(?:garland|necklace)\b
+Akkadian,440,False,fixed48,31,phon_exact,corner → vessel,corner → vessel,2,False,False,\b(?:corner|nook|lane)\b,\b(?:vessel|pot|pan|cup)\b
+Akkadian,435,False,fixed48,32,phon_exact,hook → attendant,hook → attendant,2,False,False,\b(?:hook|goad)\b,\b(?:servant|watchman|attendant|messenger)\b
+Akkadian,845,False,fixed48,33,phon_exact,line → tax,line → tax,3,False,False,\b(?:line|stripe|streak|draw|write)\b,\b(?:tax|impost|duty|toll|levy)\b
+Akkadian,850,False,fixed48,34,phon_exact,eye → copper,eye → copper,2,False,False,\b(?:eye|sight)\b,\b(?:copper|bronze|brazier)\b
+Akkadian,717,False,fixed48,35,phon_exact,foot ↔ servant,foot ↔ servant,2,False,False,\b(?:foot|footprint)\b,\b(?:servant|slave|servitude)\b
+Akkadian,413,False,fixed48,36,phon_exact,grain → tax / cut,grain → tax / cut,2,False,False,\b(?:grain|paddy|rice|ear)\b,\b(?:tax|duty|cut|reap)\b
+Akkadian,350,False,fixed48,37,phon_exact,fence → watchman,fence → watchman,3,False,False,\b(?:fence|yard|pound|enclosure)\b,\b(?:watchman|servant|messenger)\b
+Akkadian,460,False,fixed48,38,phon_exact,shoot → garland,shoot → garland,2,False,False,\b(?:shoot|branch)\b,\b(?:garland|wreath|neckrope)\b
+Akkadian,482,False,fixed48,39,phon_exact,mountain → king,mountain → king,2,False,False,\b(?:mountain|hill)\b,\b(?:king|emperor|chief|leadership)\b
+Akkadian,480,False,fixed48,40,phon_exact,point → vessel,point → vessel,3,False,False,\b(?:point|sharp|tip)\b,\b(?:vessel|capacity|measure)\b
+Akkadian,335,False,fixed48,41,phon_exact,frame → pot,frame → pot,2,False,False,\b(?:frame)\b,\b(?:pot|vessel|pan)\b
+Akkadian,540,False,fixed48,42,phon_exact,drum ↔ capacity measure,drum ↔ capacity measure,3,False,False,\b(?:drum)\b,\b(?:measure|capacity)\b
+Akkadian,630,False,fixed48,43,phon_exact,cage → assemble / store,cage → assemble / store,2,False,False,\b(?:cage|coop|nest|pen|hive)\b,\b(?:assemble|join|store|stored|together)\b
+Akkadian,171,False,fixed48,44,phon_exact,hang ↔ weigh,hang ↔ weigh,2,False,False,\b(?:hang|suspend|suspended)\b,\b(?:weigh|weight|balance|scales)\b
+Akkadian,831,False,fixed48,45,phon_exact,blade → grain,blade → grain,2,False,False,\b(?:blade|weapon|arrow|weaver)\b,\b(?:grain|paddy)\b
+Akkadian,165,False,fixed48,46,phon_exact,bend / snail → cauldron,bend / snail → cauldron,2,False,False,\b(?:bend|curve|hump|snail)\b,\b(?:cauldron)\b
+Akkadian,104,False,fixed48,47,phon_exact,leap → collect / levy,leap → collect / levy,2,False,False,\b(?:leap|skip|jump|stride|dance)\b,\b(?:collect|levy|recover)\b
+Burushaski,740,False,fixed48,0,phon_exact,jar → house,jar → house,3,False,False,\b(?:jar|pot|vessel)\b,\b(?:house|home|abode|family|lineage)\b
+Burushaski,700,False,fixed48,1,phon_exact,bowl / hollow → measure,bowl / hollow → measure,2,False,False,\b(?:bowl|earthen\ pot|hollow)\b,\b(?:measure|capacity)\b
+Burushaski,400,False,fixed48,2,phon_exact,comb → small / junior,comb → small / junior,3,False,False,\b(?:comb|disentangle)\b,\b(?:small|little|young)\b
+Burushaski,220,False,fixed48,3,phon_exact,fish → star,fish → star,2,False,False,\b(?:fish)\b,\b(?:star|constellation|asterism)\b
+Burushaski,520,False,fixed48,4,phon_exact,spear → chief,spear → chief,3,False,False,\b(?:spear|lance|dart|javelin)\b,\b(?:chief|ruler|king|hero)\b
+Burushaski,390,False,fixed48,5,phon_exact,tree → sew / weave,tree → sew / weave,3,False,False,\b(?:tree|plant|shrub)\b,\b(?:sew|stitch|weave|plait)\b
+Burushaski,861,True,legacy12,105,phon_exact,enclosure/field/court <-> share/portion/weight/property,eye / sight → weight / property,3,False,True,\b(enclosure|courtyard|court|plot|land|field)\b,\b(share|portion|allotment|property|fraction|weight)\b
+Burushaski,820,False,fixed48,7,phon_exact,wheel → quarter / leg,wheel → quarter / leg,3,False,False,\b(?:wheel|cart)\b,\b(?:quarter|leg|foot)\b
+Burushaski,320,False,fixed48,8,phon_exact,step / ladder → ration / measure,step / ladder → ration / measure,2,False,False,\b(?:step|stair|ladder)\b,\b(?:ration|measure|allowance|capacity|weight)\b
+Burushaski,590,False,fixed48,9,phon_exact,basket / plait → bale / load,basket / plait → bale / load,2,False,False,\b(?:basket|plait|braid)\b,\b(?:sack|load|bale|bundle)\b
+Burushaski,615,False,fixed48,10,phon_exact,loom frame → field plot,loom frame → field plot,3,False,False,\b(?:weaver|loom|reed)\b,\b(?:field|ridge|land|beds)\b
+Burushaski,705,False,fixed48,11,phon_exact,threshing floor → vessel / ship,threshing floor → vessel / ship,3,False,False,\b(?:threshing|field|floor)\b,\b(?:ship|vessel|boat)\b
+Burushaski,176,False,fixed48,12,phon_exact,sit / remain → tribute,sit / remain → tribute,2,False,False,\b(?:sit|remain|abide)\b,\b(?:tax|tribute|duty|payment)\b
+Burushaski,090,False,fixed48,13,phon_exact,man → manager / ruler,man → manager / ruler,2,False,False,\b(?:man|male|husband|servant)\b,\b(?:rule|manage|control)\b
+Burushaski,233,False,fixed48,14,phon_exact,split → dawn / light,split → dawn / light,3,False,False,\b(?:crack|split|burst)\b,\b(?:dawn|daybreak|dawning|day)\b
+Burushaski,415,False,fixed48,15,phon_exact,fork / branch → seize,fork / branch → seize,3,False,False,\b(?:fork|prong|branch)\b,\b(?:seize|grasp|catch|control)\b
+Burushaski,920,False,fixed48,16,phon_exact,moon ↔ month,moon ↔ month,2,False,False,\b(?:moon)\b,\b(?:month)\b
+Burushaski,407,False,fixed48,17,phon_exact,branch → cloth,branch → cloth,2,False,False,\b(?:branch)\b,\b(?:cloth|weaver)\b
+Burushaski,806,False,fixed48,18,phon_exact,stalk → millet,stalk → millet,3,False,False,\b(?:stalk|stem)\b,\b(?:millet|grain)\b
+Burushaski,798,False,fixed48,19,phon_exact,shell → bind / build house,shell → bind / build house,4,False,False,\b(?:shell)\b,\b(?:bind|tie|build|house)\b
+Burushaski,255,False,fixed48,20,phon_exact,crocodile → first / principal,crocodile → first / principal,3,False,False,\b(?:crocodile)\b,\b(?:first|beginning|principal|capital)\b
+Burushaski,840,False,fixed48,21,phon_exact,pair ↔ join,pair ↔ join,3,False,False,\b(?:pair|couple)\b,\b(?:join|unite|union|agree)\b
+Burushaski,760,False,fixed48,22,phon_exact,sprout ↔ young / child,sprout ↔ young / child,2,False,False,\b(?:sprout|shoot|tendril)\b,\b(?:young|child|infant)\b
+Burushaski,368,False,fixed48,23,phon_exact,flag → give / grant,flag → give / grant,2,False,False,\b(?:flag|banner)\b,\b(?:give|grant)\b
+Burushaski,690,False,fixed48,24,phon_exact,tie ↔ bundle / building,tie ↔ bundle / building,2,False,False,\b(?:tie|bind|fasten)\b,\b(?:bundle|packet|building|store)\b
+Burushaski,550,False,fixed48,25,phon_exact,waist / middle → district,waist / middle → district,3,False,False,\b(?:waist|middle|centre|center)\b,\b(?:district|country|province|locality)\b
+Burushaski,892,False,fixed48,26,phon_exact,bow → sell,bow → sell,3,False,False,\b(?:bow)\b,\b(?:sell|sale|price)\b
+Burushaski,140,False,fixed48,27,phon_exact,mother / lady ↔ goddess,mother / lady ↔ goddess,3,False,False,\b(?:mother|lady|matron)\b,\b(?:goddess)\b
+Burushaski,154,False,fixed48,28,phon_exact,carrying pole → guard,carrying pole → guard,2,False,False,\b(?:carrying\ pole|pole|yoke)\b,\b(?:guard|watch|preserve|protect|shelter)\b
+Burushaski,142,True,auto51,58,phon_exact,man <-> copper_tablet_vs_all,staff → smith,5,False,True,\b(man|male|husband|warrior)\b,\b(field|allotment|share|portion|estate)\b
+Burushaski,503,False,fixed48,30,phon_exact,mountain → garland,mountain → garland,3,False,False,\b(?:mountain|hill)\b,\b(?:garland|necklace)\b
+Burushaski,440,False,fixed48,31,phon_exact,corner → vessel,corner → vessel,2,False,False,\b(?:corner|nook|lane)\b,\b(?:vessel|pot|pan|cup)\b
+Burushaski,435,False,fixed48,32,phon_exact,hook → attendant,hook → attendant,2,False,False,\b(?:hook|goad)\b,\b(?:servant|watchman|attendant|messenger)\b
+Burushaski,845,False,fixed48,33,phon_exact,line → tax,line → tax,3,False,False,\b(?:line|stripe|streak|draw|write)\b,\b(?:tax|impost|duty|toll|levy)\b
+Burushaski,850,False,fixed48,34,phon_exact,eye → copper,eye → copper,2,False,False,\b(?:eye|sight)\b,\b(?:copper|bronze|brazier)\b
+Burushaski,717,False,fixed48,35,phon_exact,foot ↔ servant,foot ↔ servant,2,False,False,\b(?:foot|footprint)\b,\b(?:servant|slave|servitude)\b
+Burushaski,413,False,fixed48,36,phon_exact,grain → tax / cut,grain → tax / cut,2,False,False,\b(?:grain|paddy|rice|ear)\b,\b(?:tax|duty|cut|reap)\b
+Burushaski,350,False,fixed48,37,phon_exact,fence → watchman,fence → watchman,3,False,False,\b(?:fence|yard|pound|enclosure)\b,\b(?:watchman|servant|messenger)\b
+Burushaski,460,False,fixed48,38,phon_exact,shoot → garland,shoot → garland,2,False,False,\b(?:shoot|branch)\b,\b(?:garland|wreath|neckrope)\b
+Burushaski,482,False,fixed48,39,phon_exact,mountain → king,mountain → king,2,False,False,\b(?:mountain|hill)\b,\b(?:king|emperor|chief|leadership)\b
+Burushaski,480,False,fixed48,40,phon_exact,point → vessel,point → vessel,3,False,False,\b(?:point|sharp|tip)\b,\b(?:vessel|capacity|measure)\b
+Burushaski,335,False,fixed48,41,phon_exact,frame → pot,frame → pot,2,False,False,\b(?:frame)\b,\b(?:pot|vessel|pan)\b
+Burushaski,540,False,fixed48,42,phon_exact,drum ↔ capacity measure,drum ↔ capacity measure,3,False,False,\b(?:drum)\b,\b(?:measure|capacity)\b
+Burushaski,630,False,fixed48,43,phon_exact,cage → assemble / store,cage → assemble / store,2,False,False,\b(?:cage|coop|nest|pen|hive)\b,\b(?:assemble|join|store|stored|together)\b
+Burushaski,171,False,fixed48,44,phon_exact,hang ↔ weigh,hang ↔ weigh,2,False,False,\b(?:hang|suspend|suspended)\b,\b(?:weigh|weight|balance|scales)\b
+Burushaski,831,False,fixed48,45,phon_exact,blade → grain,blade → grain,2,False,False,\b(?:blade|weapon|arrow|weaver)\b,\b(?:grain|paddy)\b
+Burushaski,165,False,fixed48,46,phon_exact,bend / snail → cauldron,bend / snail → cauldron,2,False,False,\b(?:bend|curve|hump|snail)\b,\b(?:cauldron)\b
+Burushaski,104,False,fixed48,47,phon_exact,leap → collect / levy,leap → collect / levy,2,False,False,\b(?:leap|skip|jump|stride|dance)\b,\b(?:collect|levy|recover)\b
