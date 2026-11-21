@@ -1,0 +1,20 @@
+{
+  "excluded_showcase_sequences": 469,
+  "selection_rule": "Fully assigned intact 3–9 sign faces, exclude dedicated upstream showcase CSVs and two prompt examples, unique sequence and object, recurrence/cross-site priority, capped diversity pass then fill",
+  "selected_n": 60,
+  "by_site": {
+    "Allahdino": 1,
+    "Mohenjo-daro": 21,
+    "Nausharo": 1,
+    "Harappa": 27,
+    "Lothal": 6,
+    "Dholavira": 2,
+    "Surkotada": 1,
+    "Chanhu-daro": 1
+  },
+  "by_catalogue": {
+    "Lipi": 58,
+    "Mahadevan": 2
+  },
+  "all_have_independent_semantic_truth": false
+}

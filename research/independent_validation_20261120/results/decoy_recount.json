@@ -1,0 +1,30 @@
+{
+  "blind": {
+    "real_hits": 9,
+    "real_eligible": 58,
+    "decoy_hits": 10,
+    "decoy_eligible": 60,
+    "real_minus_decoy_pass_rate": -0.011494252873563204,
+    "p_real_better_item_stratified": 0.41631673665266944,
+    "null_mean": -0.024523409312293007,
+    "null_95pct_interval": [
+      -0.15254237288135594,
+      0.09022988505747126
+    ],
+    "interpretation": "Reanalysis of existing testers, not a new blind experiment. Item is kept intact across testers; labels permuted within job/frequency cells. Original matching and exchangeability assumptions remain."
+  },
+  "replay": {
+    "real_hits": 28,
+    "real_eligible": 57,
+    "decoy_hits": 36,
+    "decoy_eligible": 58,
+    "real_minus_decoy_pass_rate": -0.12946158499697524,
+    "p_real_better_item_stratified": 0.9208158368326335,
+    "null_mean": -0.005819685711409389,
+    "null_95pct_interval": [
+      -0.18360556563823355,
+      0.16828087167070221
+    ],
+    "interpretation": "Reanalysis of existing testers, not a new blind experiment. Item is kept intact across testers; labels permuted within job/frequency cells. Original matching and exchangeability assumptions remain."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "base_commit": "727dfd411a4faa44d193d204757540d45c7b139b",
+  "corpus_rows": 9252,
+  "analysis_rows_without_partner_duplicates": 6862,
+  "events": {
+    "Lipi": 4476,
+    "Mahadevan": 990
+  },
+  "event_kind_counts": {
+    "Lipi": {
+      "pot": 569,
+      "tag": 207,
+      "seal": 2227,
+      "other": 79,
+      "bangle": 48,
+      "mtab": 1138,
+      "rod": 40,
+      "tool": 17,
+      "ctab": 151
+    },
+    "Mahadevan": {
+      "seal": 580,
+      "other": 10,
+      "tag": 185,
+      "ctab": 38,
+      "tool": 6,
+      "pot": 77,
+      "rod": 9,
+      "mtab": 85
+    }
+  },
+  "independent_semantic_truth_fields": [],
+  "python": "3.9.6 (default, Nov 11 2024, 03:15:38) \n[Clang 16.0.0 (clang-1600.0.26.6)]",
+  "numpy": "1.26.4"
+}

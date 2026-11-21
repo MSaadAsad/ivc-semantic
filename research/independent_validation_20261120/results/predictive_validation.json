@@ -1,0 +1,163 @@
+{
+  "context": {
+    "lipi_grouped_cv": {
+      "log_loss_nats": 0.840984901953766,
+      "accuracy": 0.7039767649687221
+    },
+    "mah_all_retrospective": {
+      "log_loss_nats": 1.388738835317169,
+      "accuracy": 0.5707070707070707
+    },
+    "mah_novel_full_text": {
+      "log_loss_nats": 1.432122359188231,
+      "accuracy": 0.5650557620817844
+    },
+    "mah_novel_n": 807
+  },
+  "roles": {
+    "lipi_grouped_cv": {
+      "log_loss_nats": 0.7674642378746659,
+      "accuracy": 0.7327971403038427
+    },
+    "mah_all_retrospective": {
+      "log_loss_nats": 1.3775788318425797,
+      "accuracy": 0.592929292929293
+    },
+    "mah_novel_full_text": {
+      "log_loss_nats": 1.4177663403151333,
+      "accuracy": 0.5885997521685254
+    },
+    "mah_novel_n": 807
+  },
+  "semantic": {
+    "lipi_grouped_cv": {
+      "log_loss_nats": 0.7988697552178654,
+      "accuracy": 0.7207327971403038
+    },
+    "mah_all_retrospective": {
+      "log_loss_nats": 1.4252463889761304,
+      "accuracy": 0.5676767676767677
+    },
+    "mah_novel_full_text": {
+      "log_loss_nats": 1.4765980533949195,
+      "accuracy": 0.5576208178438662
+    },
+    "mah_novel_n": 807
+  },
+  "identity": {
+    "lipi_grouped_cv": {
+      "log_loss_nats": 0.7486424946257689,
+      "accuracy": 0.7529043789097408
+    },
+    "mah_all_retrospective": {
+      "log_loss_nats": 1.3111791261649295,
+      "accuracy": 0.6181818181818182
+    },
+    "mah_novel_full_text": {
+      "log_loss_nats": 1.3497237217472653,
+      "accuracy": 0.6084262701363073
+    },
+    "mah_novel_n": 807
+  },
+  "identity_roles": {
+    "lipi_grouped_cv": {
+      "log_loss_nats": 0.7530465655274645,
+      "accuracy": 0.7529043789097408
+    },
+    "mah_all_retrospective": {
+      "log_loss_nats": 1.3292698533310994,
+      "accuracy": 0.6323232323232323
+    },
+    "mah_novel_full_text": {
+      "log_loss_nats": 1.3650113437907678,
+      "accuracy": 0.6220570012391574
+    },
+    "mah_novel_n": 807
+  },
+  "identity_semantic": {
+    "lipi_grouped_cv": {
+      "log_loss_nats": 0.7520674950281324,
+      "accuracy": 0.7537980339588919
+    },
+    "mah_all_retrospective": {
+      "log_loss_nats": 1.3232189812963806,
+      "accuracy": 0.6171717171717171
+    },
+    "mah_novel_full_text": {
+      "log_loss_nats": 1.362831685038464,
+      "accuracy": 0.6047087980173482
+    },
+    "mah_novel_n": 807
+  },
+  "opaque_bijective_renaming": {
+    "max_absolute_probability_difference": 1.1932467623987364e-05,
+    "score": {
+      "log_loss_nats": 0.7486425012488681,
+      "accuracy": 0.7529043789097408
+    },
+    "interpretation": "Any unique word labels are a recoding of signs. This is an information-equivalence control, not a false-language experiment."
+  },
+  "matched_rival_semantic_compression": {
+    "n": 199,
+    "observed_log_loss": 0.7988697552178654,
+    "null_mean": 0.8032270107449166,
+    "null_sd": 0.0034405518825559025,
+    "null_95pct_interval": [
+      0.7967703970968071,
+      0.8105359007089148
+    ],
+    "p_one_sided_lower_is_better": 0.105,
+    "nontrivial_strata": 37,
+    "movable_signs": 101,
+    "mean_moved_signs": 64.04020100502512,
+    "mean_changed_domains": 39.11557788944724,
+    "matching": "Exact structure class, log2 frequency octave, slash count and hyphen count; semantic category counts and complete lexical entries preserved by permutation. Weighted category token mass is not exactly preserved."
+  },
+  "paired_comparisons": {
+    "semantic_minus_context": {
+      "mean_log_loss_difference_nats": -0.04211514673590063,
+      "cluster_bootstrap_95pct_CI": [
+        -0.05955625923918055,
+        -0.02672534549399317
+      ],
+      "negative_favors": "semantic",
+      "scope": "Conditional on fitted CV models, not uncertainty over discovery, tuning, or excavation sampling."
+    },
+    "semantic_minus_roles": {
+      "mean_log_loss_difference_nats": 0.031405517343199484,
+      "cluster_bootstrap_95pct_CI": [
+        0.015872391307440125,
+        0.0483121443327628
+      ],
+      "negative_favors": "semantic",
+      "scope": "Conditional on fitted CV models, not uncertainty over discovery, tuning, or excavation sampling."
+    },
+    "semantic_minus_identity": {
+      "mean_log_loss_difference_nats": 0.05022726059209652,
+      "cluster_bootstrap_95pct_CI": [
+        0.024267167356549747,
+        0.07225227402919275
+      ],
+      "negative_favors": "semantic",
+      "scope": "Conditional on fitted CV models, not uncertainty over discovery, tuning, or excavation sampling."
+    },
+    "identity_semantic_minus_identity": {
+      "mean_log_loss_difference_nats": 0.0034250004023636893,
+      "cluster_bootstrap_95pct_CI": [
+        -0.0017874479761530297,
+        0.007871056874514958
+      ],
+      "negative_favors": "identity_semantic",
+      "scope": "Conditional on fitted CV models, not uncertainty over discovery, tuning, or excavation sampling."
+    },
+    "identity_roles_minus_identity": {
+      "mean_log_loss_difference_nats": 0.004404070901695681,
+      "cluster_bootstrap_95pct_CI": [
+        -0.008068174371407638,
+        0.01608674660898431
+      ],
+      "negative_favors": "identity_roles",
+      "scope": "Conditional on fitted CV models, not uncertainty over discovery, tuning, or excavation sampling."
+    }
+  }
+}

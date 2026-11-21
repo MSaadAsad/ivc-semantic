@@ -1,0 +1,771 @@
+{
+  "sign_key": {
+    "G001": "550",
+    "G002": "700",
+    "G003": "482",
+    "G004": "415",
+    "G005": "350",
+    "G006": "233",
+    "G007": "033",
+    "G008": "220",
+    "G009": "405",
+    "G010": "740",
+    "G011": "002",
+    "G012": "034",
+    "G013": "741",
+    "G014": "480",
+    "G015": "798",
+    "G016": "171",
+    "G017": "176",
+    "G018": "920",
+    "G019": "845",
+    "G020": "390",
+    "G021": "235",
+    "G022": "240",
+    "G023": "520",
+    "G024": "001",
+    "G025": "400",
+    "G026": "060",
+    "G027": "335",
+    "G028": "032",
+    "G029": "615",
+    "G030": "590",
+    "G031": "031",
+    "G032": "407",
+    "G033": "540",
+    "G034": "806",
+    "G035": "090",
+    "G036": "820",
+    "G037": "003",
+    "G038": "861",
+    "G039": "100",
+    "G040": "705",
+    "G041": "255",
+    "G042": "803",
+    "G043": "595",
+    "G044": "817",
+    "G045": "142"
+  },
+  "reading_key": [
+    {
+      "candidate_id": "B001",
+      "test_id": "S052",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B002",
+      "test_id": "S022",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B003",
+      "test_id": "S009",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B004",
+      "test_id": "S038",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B005",
+      "test_id": "S031",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B006",
+      "test_id": "S046",
+      "proposed_mapping": false,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B007",
+      "test_id": "S043",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B008",
+      "test_id": "S042",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B009",
+      "test_id": "S002",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B010",
+      "test_id": "S058",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B011",
+      "test_id": "S052",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B012",
+      "test_id": "S019",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B013",
+      "test_id": "S015",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B014",
+      "test_id": "S047",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B015",
+      "test_id": "S060",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B016",
+      "test_id": "S001",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B017",
+      "test_id": "S008",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B018",
+      "test_id": "S033",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B019",
+      "test_id": "S056",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B020",
+      "test_id": "S057",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B021",
+      "test_id": "S049",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B022",
+      "test_id": "S032",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B023",
+      "test_id": "S012",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B024",
+      "test_id": "S025",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B025",
+      "test_id": "S017",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B026",
+      "test_id": "S038",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B027",
+      "test_id": "S050",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B028",
+      "test_id": "S010",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B029",
+      "test_id": "S044",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B030",
+      "test_id": "S013",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B031",
+      "test_id": "S053",
+      "proposed_mapping": false,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B032",
+      "test_id": "S028",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B033",
+      "test_id": "S007",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B034",
+      "test_id": "S022",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B035",
+      "test_id": "S016",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B036",
+      "test_id": "S029",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B037",
+      "test_id": "S023",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B038",
+      "test_id": "S026",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B039",
+      "test_id": "S029",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B040",
+      "test_id": "S037",
+      "proposed_mapping": false,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B041",
+      "test_id": "S048",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B042",
+      "test_id": "S057",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B043",
+      "test_id": "S012",
+      "proposed_mapping": false,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B044",
+      "test_id": "S045",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B045",
+      "test_id": "S053",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B046",
+      "test_id": "S059",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B047",
+      "test_id": "S056",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B048",
+      "test_id": "S049",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B049",
+      "test_id": "S033",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B050",
+      "test_id": "S041",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B051",
+      "test_id": "S014",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B052",
+      "test_id": "S046",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B053",
+      "test_id": "S010",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B054",
+      "test_id": "S028",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B055",
+      "test_id": "S050",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B056",
+      "test_id": "S020",
+      "proposed_mapping": false,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B057",
+      "test_id": "S015",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B058",
+      "test_id": "S019",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B059",
+      "test_id": "S023",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B060",
+      "test_id": "S021",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B061",
+      "test_id": "S008",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B062",
+      "test_id": "S036",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B063",
+      "test_id": "S017",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B064",
+      "test_id": "S034",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B065",
+      "test_id": "S014",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B066",
+      "test_id": "S048",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B067",
+      "test_id": "S043",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B068",
+      "test_id": "S024",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B069",
+      "test_id": "S011",
+      "proposed_mapping": false,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B070",
+      "test_id": "S003",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B071",
+      "test_id": "S006",
+      "proposed_mapping": false,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B072",
+      "test_id": "S007",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B073",
+      "test_id": "S027",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B074",
+      "test_id": "S016",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B075",
+      "test_id": "S054",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B076",
+      "test_id": "S032",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B077",
+      "test_id": "S051",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B078",
+      "test_id": "S040",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B079",
+      "test_id": "S018",
+      "proposed_mapping": false,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B080",
+      "test_id": "S009",
+      "proposed_mapping": false,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B081",
+      "test_id": "S055",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B082",
+      "test_id": "S025",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B083",
+      "test_id": "S047",
+      "proposed_mapping": false,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B084",
+      "test_id": "S026",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B085",
+      "test_id": "S020",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B086",
+      "test_id": "S031",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B087",
+      "test_id": "S004",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B088",
+      "test_id": "S013",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B089",
+      "test_id": "S027",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B090",
+      "test_id": "S004",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B091",
+      "test_id": "S005",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B092",
+      "test_id": "S039",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B093",
+      "test_id": "S055",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B094",
+      "test_id": "S002",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B095",
+      "test_id": "S041",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B096",
+      "test_id": "S003",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B097",
+      "test_id": "S045",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B098",
+      "test_id": "S005",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B099",
+      "test_id": "S058",
+      "proposed_mapping": false,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B100",
+      "test_id": "S035",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B101",
+      "test_id": "S011",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B102",
+      "test_id": "S001",
+      "proposed_mapping": false,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B103",
+      "test_id": "S051",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B104",
+      "test_id": "S030",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B105",
+      "test_id": "S024",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B106",
+      "test_id": "S044",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B107",
+      "test_id": "S039",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B108",
+      "test_id": "S035",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B109",
+      "test_id": "S054",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B110",
+      "test_id": "S042",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B111",
+      "test_id": "S037",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B112",
+      "test_id": "S060",
+      "proposed_mapping": false,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B113",
+      "test_id": "S034",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B114",
+      "test_id": "S040",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B115",
+      "test_id": "S018",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B116",
+      "test_id": "S059",
+      "proposed_mapping": false,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B117",
+      "test_id": "S030",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B118",
+      "test_id": "S006",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    },
+    {
+      "candidate_id": "B119",
+      "test_id": "S036",
+      "proposed_mapping": false,
+      "identical_to_proposal": false
+    },
+    {
+      "candidate_id": "B120",
+      "test_id": "S021",
+      "proposed_mapping": true,
+      "identical_to_proposal": true
+    }
+  ]
+}

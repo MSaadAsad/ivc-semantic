@@ -1,0 +1,288 @@
+{
+  "commit": "8259c47fdf4a076f04029254f97c83f04abb139e",
+  "python": "3.11.13 (main, Jun  3 2025, 18:38:25) [Clang 16.0.0 (clang-1600.0.26.6)]",
+  "coverage": {
+    "lipi": {
+      "all_signs_retained": {
+        "faces": 3600,
+        "total_tokens": 13209,
+        "covered_tokens": 9777,
+        "token_pct": 74.01771519418578,
+        "fully_covered_faces": 1532,
+        "fully_covered_pct": 42.55555555555556,
+        "fully_covered_len3plus": 612
+      },
+      "master_numeric_filter": {
+        "faces": 3600,
+        "total_tokens": 13209,
+        "covered_tokens": 9777,
+        "token_pct": 74.01771519418578,
+        "fully_covered_faces": 1532,
+        "fully_covered_pct": 42.55555555555556,
+        "fully_covered_len3plus": 612
+      }
+    },
+    "unpartnered_new": {
+      "all_signs_retained": {
+        "faces": 627,
+        "total_tokens": 2161,
+        "covered_tokens": 1507,
+        "token_pct": 69.73623322535863,
+        "fully_covered_faces": 204,
+        "fully_covered_pct": 32.535885167464116,
+        "fully_covered_len3plus": 93
+      },
+      "master_numeric_filter": {
+        "faces": 563,
+        "total_tokens": 1994,
+        "covered_tokens": 1507,
+        "token_pct": 75.57673019057171,
+        "fully_covered_faces": 244,
+        "fully_covered_pct": 43.3392539964476,
+        "fully_covered_len3plus": 113
+      }
+    },
+    "combined": {
+      "all_signs_retained": {
+        "faces": 4227,
+        "total_tokens": 15370,
+        "covered_tokens": 11284,
+        "token_pct": 73.41574495770982,
+        "fully_covered_faces": 1736,
+        "fully_covered_pct": 41.06931629997634,
+        "fully_covered_len3plus": 705
+      },
+      "master_numeric_filter": {
+        "faces": 4163,
+        "total_tokens": 15203,
+        "covered_tokens": 11284,
+        "token_pct": 74.22219298822601,
+        "fully_covered_faces": 1776,
+        "fully_covered_pct": 42.661542157098246,
+        "fully_covered_len3plus": 725
+      }
+    }
+  },
+  "false_fully_covered_new_faces": [
+    {
+      "id": "3",
+      "signs": "031-X55-861-002-055-233-705-033-520"
+    },
+    {
+      "id": "16",
+      "signs": "615-615-745-235-X158-405"
+    },
+    {
+      "id": "34",
+      "signs": "861-002-X153-X153-415-220-520"
+    },
+    {
+      "id": "94",
+      "signs": "740-X82-740"
+    },
+    {
+      "id": "257",
+      "signs": "033-615-615-X132"
+    },
+    {
+      "id": "322",
+      "signs": "004-X39-X229-X404"
+    },
+    {
+      "id": "675",
+      "signs": "003-X36-615-615"
+    },
+    {
+      "id": "721",
+      "signs": "X208-001-031-097-151"
+    },
+    {
+      "id": "781",
+      "signs": "X153-X153-740"
+    },
+    {
+      "id": "948",
+      "signs": "X334-740"
+    },
+    {
+      "id": "1106",
+      "signs": "X184-590-745-001"
+    },
+    {
+      "id": "1210",
+      "signs": "X153-X153-740"
+    },
+    {
+      "id": "1234",
+      "signs": "861-002-X153-X153-740"
+    },
+    {
+      "id": "1290",
+      "signs": "X55-740-861"
+    },
+    {
+      "id": "1306",
+      "signs": "032-220-233-X334-740"
+    },
+    {
+      "id": "1332",
+      "signs": "X45-034-700-097-400"
+    },
+    {
+      "id": "1360",
+      "signs": "X383-717"
+    },
+    {
+      "id": "1447",
+      "signs": "X384-X384-892-740-400"
+    },
+    {
+      "id": "1533",
+      "signs": "X218-741-032-226"
+    },
+    {
+      "id": "1580",
+      "signs": "X45-034-700-097-400"
+    },
+    {
+      "id": "1585",
+      "signs": "X45-034-700-097-400"
+    },
+    {
+      "id": "1603",
+      "signs": "220-X35-400"
+    },
+    {
+      "id": "1774",
+      "signs": "220-500-520-002-X273-032"
+    },
+    {
+      "id": "1845",
+      "signs": "X77-740"
+    },
+    {
+      "id": "1896",
+      "signs": "X416-740"
+    },
+    {
+      "id": "2051",
+      "signs": "X340-X94-741-806-740"
+    },
+    {
+      "id": "2128",
+      "signs": "X138-400"
+    },
+    {
+      "id": "2235",
+      "signs": "X416-742"
+    },
+    {
+      "id": "2306",
+      "signs": "X335-904-740"
+    },
+    {
+      "id": "2440",
+      "signs": "X333-740"
+    },
+    {
+      "id": "2560",
+      "signs": "X311-156-400"
+    },
+    {
+      "id": "2581",
+      "signs": "X311-156-400"
+    },
+    {
+      "id": "2612",
+      "signs": "X312-003"
+    },
+    {
+      "id": "3001",
+      "signs": "X138-400"
+    },
+    {
+      "id": "3032",
+      "signs": "004-X369-740"
+    },
+    {
+      "id": "3115",
+      "signs": "235-904-400-520-X93"
+    },
+    {
+      "id": "3269",
+      "signs": "X153-X153-415-220-520"
+    },
+    {
+      "id": "3427",
+      "signs": "415-002-X278"
+    },
+    {
+      "id": "3491",
+      "signs": "590-X167-740-400"
+    },
+    {
+      "id": "3522",
+      "signs": "140-920-590-X24"
+    }
+  ],
+  "new_faces_with_no_numeric_sign": 64,
+  "new_faces_with_sequence_already_in_lipi": 107,
+  "new_unique_sequences": 456,
+  "coverage_tokens_by_source": {
+    "Key2A": 3483,
+    "Num": 2602,
+    "Key4B_Wave2": 2755,
+    "Key3A": 780,
+    "Key4D_PureAllo": 267,
+    "Key4A_Allograph": 368,
+    "Key4A_DEDR Rebus Lock": 161,
+    "Key4D_WorkshopAllo": 166,
+    "Key4A_Operator: internal_vert_stroke": 85,
+    "Num_Ext": 145,
+    "Meas_Ext": 77,
+    "Key2A_Loan": 67,
+    "Key4A_DEDR Ligature Lock": 53,
+    "Key4A_Operator: dual_crescent": 59,
+    "Key4A_Operator: multi_stroke_inside": 89,
+    "Key4A_Operator: cage_4corners": 77,
+    "Key4A_Operator: side_brackets": 47,
+    "Key4D_AlloNum": 3
+  },
+  "promoted_wave2": {
+    "n": 18,
+    "stem_p_below_0.05": 1,
+    "exact_p_below_0.05": 2,
+    "stem_p_below_0.05_div_30": 0
+  },
+  "cup_divisor_compatibility": {
+    "12": 0.997716894977169,
+    "24": 0.997716894977169,
+    "36": 0.997716894977169,
+    "60": 0.997716894977169
+  },
+  "assigned_likelihood_score_sensitivity_pct": {
+    "original": 92.96705091416766,
+    "drop_G7": 80.92670604751204,
+    "drop_G5_G7": 52.76556308439545,
+    "halfway_to_0.5": 60.20328758616122
+  },
+  "syntax_checked_scripts": 575,
+  "syntax_errors": [
+    {
+      "file": "work_scripts/abroad3_05_seals.py",
+      "line": 33,
+      "message": "f-string expression part cannot include a backslash"
+    },
+    {
+      "file": "work_scripts/counted_report_tables.py",
+      "line": 19,
+      "message": "f-string: expecting '}'"
+    },
+    {
+      "file": "work_scripts/odd_3c_rescue.py",
+      "line": 52,
+      "message": "f-string: unmatched '('"
+    }
+  ],
+  "stored_T5_counts_reproduced": true
+}

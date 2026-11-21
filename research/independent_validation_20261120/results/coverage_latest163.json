@@ -1,0 +1,304 @@
+{
+  "lipi_intact": {
+    "all_tokens_retained": {
+      "faces": 3600,
+      "tokens": 13209,
+      "assigned_tokens": 11301,
+      "assigned_pct": 85.55530320236203,
+      "fully_assigned": 2166,
+      "fully_assigned_pct": 60.166666666666664,
+      "fully_assigned_length3plus": 1126
+    },
+    "upstream_numeric_filter": {
+      "faces": 3600,
+      "tokens": 13209,
+      "assigned_tokens": 11301,
+      "assigned_pct": 85.55530320236203,
+      "fully_assigned": 2166,
+      "fully_assigned_pct": 60.166666666666664,
+      "fully_assigned_length3plus": 1126
+    }
+  },
+  "mah_unpartnered_intact": {
+    "all_tokens_retained": {
+      "faces": 627,
+      "tokens": 2161,
+      "assigned_tokens": 1761,
+      "assigned_pct": 81.49005090236003,
+      "fully_assigned": 325,
+      "fully_assigned_pct": 51.834130781499205,
+      "fully_assigned_length3plus": 178
+    },
+    "upstream_numeric_filter": {
+      "faces": 563,
+      "tokens": 1994,
+      "assigned_tokens": 1761,
+      "assigned_pct": 88.3149448345035,
+      "fully_assigned": 380,
+      "fully_assigned_pct": 67.49555950266429,
+      "fully_assigned_length3plus": 206
+    }
+  },
+  "combined_intact": {
+    "all_tokens_retained": {
+      "faces": 4227,
+      "tokens": 15370,
+      "assigned_tokens": 13062,
+      "assigned_pct": 84.98373454782043,
+      "fully_assigned": 2491,
+      "fully_assigned_pct": 58.93068370002366,
+      "fully_assigned_length3plus": 1304
+    },
+    "upstream_numeric_filter": {
+      "faces": 4163,
+      "tokens": 15203,
+      "assigned_tokens": 13062,
+      "assigned_pct": 85.91725317371571,
+      "fully_assigned": 2546,
+      "fully_assigned_pct": 61.15781888061494,
+      "fully_assigned_length3plus": 1332
+    }
+  },
+  "all_faces": {
+    "all_tokens_retained": {
+      "faces": 6862,
+      "tokens": 24040,
+      "assigned_tokens": 18265,
+      "assigned_pct": 75.977537437604,
+      "fully_assigned": 2965,
+      "fully_assigned_pct": 43.20897697464296,
+      "fully_assigned_length3plus": 1426
+    },
+    "upstream_numeric_filter": {
+      "faces": 6790,
+      "tokens": 23710,
+      "assigned_tokens": 18265,
+      "assigned_pct": 77.03500632644455,
+      "fully_assigned": 3046,
+      "fully_assigned_pct": 44.860088365243,
+      "fully_assigned_length3plus": 1475
+    }
+  },
+  "falsely_full_faces": [
+    {
+      "catalogue_id": "3",
+      "signs": "031-X55-861-002-055-233-705-033-520"
+    },
+    {
+      "catalogue_id": "16",
+      "signs": "615-615-745-235-X158-405"
+    },
+    {
+      "catalogue_id": "34",
+      "signs": "861-002-X153-X153-415-220-520"
+    },
+    {
+      "catalogue_id": "94",
+      "signs": "740-X82-740"
+    },
+    {
+      "catalogue_id": "118",
+      "signs": "X94-060-061-017-575-740"
+    },
+    {
+      "catalogue_id": "145",
+      "signs": "632-740-X282"
+    },
+    {
+      "catalogue_id": "257",
+      "signs": "033-615-615-X132"
+    },
+    {
+      "catalogue_id": "322",
+      "signs": "004-X39-X229-X404"
+    },
+    {
+      "catalogue_id": "333",
+      "signs": "350-540-X282"
+    },
+    {
+      "catalogue_id": "428",
+      "signs": "861-002-798-415-220-705-033-X360-590-405-740"
+    },
+    {
+      "catalogue_id": "675",
+      "signs": "003-X36-615-615"
+    },
+    {
+      "catalogue_id": "721",
+      "signs": "X208-001-031-097-151"
+    },
+    {
+      "catalogue_id": "781",
+      "signs": "X153-X153-740"
+    },
+    {
+      "catalogue_id": "802",
+      "signs": "861-002-240-X153-X153-760-740"
+    },
+    {
+      "catalogue_id": "948",
+      "signs": "X334-740"
+    },
+    {
+      "catalogue_id": "1009",
+      "signs": "093-550-X229-742-220-740"
+    },
+    {
+      "catalogue_id": "1106",
+      "signs": "X184-590-745-001"
+    },
+    {
+      "catalogue_id": "1194",
+      "signs": "X196-060-032-X30"
+    },
+    {
+      "catalogue_id": "1203",
+      "signs": "X153-440"
+    },
+    {
+      "catalogue_id": "1210",
+      "signs": "X153-X153-740"
+    },
+    {
+      "catalogue_id": "1223",
+      "signs": "745-171-X94"
+    },
+    {
+      "catalogue_id": "1234",
+      "signs": "861-002-X153-X153-740"
+    },
+    {
+      "catalogue_id": "1267",
+      "signs": "X237-703-001-061-740"
+    },
+    {
+      "catalogue_id": "1290",
+      "signs": "X55-740-861"
+    },
+    {
+      "catalogue_id": "1306",
+      "signs": "032-220-233-X334-740"
+    },
+    {
+      "catalogue_id": "1332",
+      "signs": "X45-034-700-097-400"
+    },
+    {
+      "catalogue_id": "1359",
+      "signs": "X225-060-803-740-101-X45"
+    },
+    {
+      "catalogue_id": "1360",
+      "signs": "X383-717"
+    },
+    {
+      "catalogue_id": "1447",
+      "signs": "X384-X384-892-740-400"
+    },
+    {
+      "catalogue_id": "1527",
+      "signs": "717-X309-861-002-806-233-003-900-790-900-740-X145-845-405"
+    },
+    {
+      "catalogue_id": "1533",
+      "signs": "X218-741-032-226"
+    },
+    {
+      "catalogue_id": "1580",
+      "signs": "X45-034-700-097-400"
+    },
+    {
+      "catalogue_id": "1585",
+      "signs": "X45-034-700-097-400"
+    },
+    {
+      "catalogue_id": "1603",
+      "signs": "220-X35-400"
+    },
+    {
+      "catalogue_id": "1774",
+      "signs": "220-500-520-002-X273-032"
+    },
+    {
+      "catalogue_id": "1845",
+      "signs": "X77-740"
+    },
+    {
+      "catalogue_id": "1896",
+      "signs": "X416-740"
+    },
+    {
+      "catalogue_id": "1912",
+      "signs": "595-X382-820"
+    },
+    {
+      "catalogue_id": "2051",
+      "signs": "X340-X94-741-806-740"
+    },
+    {
+      "catalogue_id": "2128",
+      "signs": "X138-400"
+    },
+    {
+      "catalogue_id": "2235",
+      "signs": "X416-742"
+    },
+    {
+      "catalogue_id": "2285",
+      "signs": "416-X148-033"
+    },
+    {
+      "catalogue_id": "2306",
+      "signs": "X335-904-740"
+    },
+    {
+      "catalogue_id": "2440",
+      "signs": "X333-740"
+    },
+    {
+      "catalogue_id": "2450",
+      "signs": "550-X33-032-595-820"
+    },
+    {
+      "catalogue_id": "2560",
+      "signs": "X311-156-400"
+    },
+    {
+      "catalogue_id": "2581",
+      "signs": "X311-156-400"
+    },
+    {
+      "catalogue_id": "2612",
+      "signs": "X312-003"
+    },
+    {
+      "catalogue_id": "3001",
+      "signs": "X138-400"
+    },
+    {
+      "catalogue_id": "3032",
+      "signs": "004-X369-740"
+    },
+    {
+      "catalogue_id": "3115",
+      "signs": "235-904-400-520-X93"
+    },
+    {
+      "catalogue_id": "3269",
+      "signs": "X153-X153-415-220-520"
+    },
+    {
+      "catalogue_id": "3427",
+      "signs": "415-002-X278"
+    },
+    {
+      "catalogue_id": "3491",
+      "signs": "590-X167-740-400"
+    },
+    {
+      "catalogue_id": "3522",
+      "signs": "140-920-590-X24"
+    }
+  ]
+}

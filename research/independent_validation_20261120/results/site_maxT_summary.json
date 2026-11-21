@@ -1,0 +1,6 @@
+{
+  "n_permutations": 5000,
+  "n_tests": 540,
+  "FWER_below_0_05": 22,
+  "interpretation": "Sign-artifact association after site control; not semantic identification. Exchangeability inside site remains an assumption; text-family dependence beyond known copy batches remains."
+}

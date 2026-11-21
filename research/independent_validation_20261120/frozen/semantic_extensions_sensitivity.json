@@ -1,0 +1,98 @@
+{
+  "status": "Exploratory taxonomy extension after initial predictive result; not preregistered",
+  "source": "Key6A frozen roots and promotions_wave4.csv",
+  "mapping": {
+    "142": [
+      "Textile/Trade",
+      "blacksmith/metal craft"
+    ],
+    "595": [
+      "Tax/Levy",
+      "tax-marked bale"
+    ],
+    "350": [
+      "Civic/House",
+      "settlement/enclosure"
+    ],
+    "460": [
+      "Textile/Trade",
+      "garland"
+    ],
+    "482": [
+      "Title/Rank",
+      "king/chief"
+    ],
+    "480": [
+      "Granary/Measure",
+      "metal/vessel unit"
+    ],
+    "335": [
+      "Granary/Measure",
+      "grain-bin unit"
+    ],
+    "540": [
+      "Vessel/Pot",
+      "capacity vessel/drum"
+    ],
+    "630": [
+      "Granary/Measure",
+      "granary/store-enclosure"
+    ],
+    "171": [
+      "Granary/Measure",
+      "weight standard"
+    ],
+    "632": [
+      "Granary/Measure",
+      "same proposed value as 630"
+    ],
+    "831": [
+      "Granary/Measure",
+      "paddy grain"
+    ],
+    "165": [
+      "Vessel/Pot",
+      "cauldron"
+    ],
+    "104": [
+      "Tax/Levy",
+      "collect/levy"
+    ],
+    "495": [
+      "Textile/Trade",
+      "same proposed value as 503"
+    ],
+    "175": [
+      "Tax/Levy",
+      "same proposed tribute value as 176"
+    ],
+    "555": [
+      "Grammar/Civic",
+      "same proposed district value as 550"
+    ],
+    "491": [
+      "Textile/Trade",
+      "same proposed value as 495"
+    ],
+    "463": [
+      "Textile/Trade",
+      "same proposed value as 460"
+    ],
+    "637": [
+      "Granary/Measure",
+      "same proposed value as 630"
+    ],
+    "634": [
+      "Granary/Measure",
+      "same proposed value as 630"
+    ],
+    "635": [
+      "Granary/Measure",
+      "same proposed value as 630"
+    ],
+    "833": [
+      "Granary/Measure",
+      "same proposed value as 831"
+    ]
+  }
+}

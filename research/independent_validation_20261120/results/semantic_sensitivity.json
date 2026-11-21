@@ -1,0 +1,79 @@
+{
+  "0.1": {
+    "context": {
+      "log_loss_nats": 0.8621093286498138,
+      "accuracy": 0.6952636282394995
+    },
+    "roles": {
+      "log_loss_nats": 0.7823973477676202,
+      "accuracy": 0.7368185880250223
+    },
+    "semantic": {
+      "log_loss_nats": 0.8175780550263924,
+      "accuracy": 0.7142537980339589
+    },
+    "identity": {
+      "log_loss_nats": 0.7644852457230678,
+      "accuracy": 0.7432975871313673
+    },
+    "identity_semantic": {
+      "log_loss_nats": 0.7584261551765005,
+      "accuracy": 0.7453083109919572
+    }
+  },
+  "1.0": {
+    "context": {
+      "log_loss_nats": 0.840984901953766,
+      "accuracy": 0.7039767649687221
+    },
+    "roles": {
+      "log_loss_nats": 0.7674642378746659,
+      "accuracy": 0.7327971403038427
+    },
+    "semantic": {
+      "log_loss_nats": 0.7985144980530964,
+      "accuracy": 0.7200625558534406
+    },
+    "identity": {
+      "log_loss_nats": 0.7486424946257689,
+      "accuracy": 0.7529043789097408
+    },
+    "identity_semantic": {
+      "log_loss_nats": 0.7524361572248066,
+      "accuracy": 0.7549151027703307
+    }
+  },
+  "10.0": {
+    "context": {
+      "log_loss_nats": 0.8481693491362935,
+      "accuracy": 0.7048704200178731
+    },
+    "roles": {
+      "log_loss_nats": 0.800371837805872,
+      "accuracy": 0.7294459338695264
+    },
+    "semantic": {
+      "log_loss_nats": 0.8074022585420589,
+      "accuracy": 0.716041108132261
+    },
+    "identity": {
+      "log_loss_nats": 0.8779762444819174,
+      "accuracy": 0.7339142091152815
+    },
+    "identity_semantic": {
+      "log_loss_nats": 0.8879688094857453,
+      "accuracy": 0.735254691689008
+    }
+  },
+  "matched_rivals_full163": {
+    "n": 199,
+    "observed_log_loss": 0.7985144980530964,
+    "null_mean": 0.806751789833616,
+    "null_sd": 0.0031952152697617433,
+    "p": 0.005,
+    "null_95pct_interval": [
+      0.8002541192031687,
+      0.8121732156578515
+    ]
+  }
+}

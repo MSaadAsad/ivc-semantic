@@ -1,0 +1,4817 @@
+[
+  {
+    "blind_sign": "G001",
+    "geometry_description": "The 'pincer' motif. Right-pointing isocoles triangle on left, left-pointing isosceles triangle on right, with small part of right line removed in middle",
+    "intact_tokens": 97,
+    "initial_tokens": 41,
+    "final_tokens": 11,
+    "possible_stroke_adjacent_tokens": 24,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "67",
+        "b": "53",
+        "c": "2160",
+        "d": "2196"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "32",
+        "b": "88",
+        "c": "1106",
+        "d": "3250"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "0",
+        "b": "120",
+        "c": "151",
+        "d": "4205"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "4",
+        "b": "116",
+        "c": "203",
+        "d": "4153"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "10",
+        "b": "110",
+        "c": "559",
+        "d": "3797"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "3",
+        "b": "117",
+        "c": "37",
+        "d": "4319"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "19",
+        "b": "8",
+        "c": "561",
+        "d": "402"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "0",
+        "b": "27",
+        "c": "85",
+        "d": "878"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "0",
+        "b": "27",
+        "c": "38",
+        "d": "925"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "2",
+        "b": "25",
+        "c": "183",
+        "d": "780"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "4",
+        "b": "23",
+        "c": "73",
+        "d": "890"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "1",
+        "b": "26",
+        "c": "8",
+        "d": "955"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G002",
+    "geometry_description": "Simple U with no other decoration",
+    "intact_tokens": 498,
+    "initial_tokens": 95,
+    "final_tokens": 382,
+    "possible_stroke_adjacent_tokens": 446,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "19",
+        "b": "505",
+        "c": "2208",
+        "d": "1744"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "471",
+        "b": "53",
+        "c": "667",
+        "d": "3285"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "2",
+        "b": "522",
+        "c": "149",
+        "d": "3803"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "7",
+        "b": "517",
+        "c": "200",
+        "d": "3752"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "20",
+        "b": "504",
+        "c": "549",
+        "d": "3403"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "2",
+        "b": "522",
+        "c": "38",
+        "d": "3914"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "6",
+        "b": "17",
+        "c": "574",
+        "d": "393"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "8",
+        "b": "15",
+        "c": "77",
+        "d": "890"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "0",
+        "b": "23",
+        "c": "38",
+        "d": "929"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "9",
+        "b": "14",
+        "c": "176",
+        "d": "791"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "0",
+        "b": "23",
+        "c": "77",
+        "d": "890"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "0",
+        "b": "23",
+        "c": "9",
+        "d": "958"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G003",
+    "geometry_description": "Tall caret drawn in outline, with diamond inscribed at the point",
+    "intact_tokens": 35,
+    "initial_tokens": 2,
+    "final_tokens": 2,
+    "possible_stroke_adjacent_tokens": 6,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "17",
+        "b": "23",
+        "c": "2210",
+        "d": "2226"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "19",
+        "b": "21",
+        "c": "1119",
+        "d": "3317"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "0",
+        "b": "40",
+        "c": "151",
+        "d": "4285"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "1",
+        "b": "39",
+        "c": "206",
+        "d": "4230"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "2",
+        "b": "38",
+        "c": "567",
+        "d": "3869"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "1",
+        "b": "39",
+        "c": "39",
+        "d": "4397"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "6",
+        "b": "7",
+        "c": "574",
+        "d": "403"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "0",
+        "b": "13",
+        "c": "85",
+        "d": "892"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "0",
+        "b": "13",
+        "c": "38",
+        "d": "939"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "5",
+        "b": "8",
+        "c": "180",
+        "d": "797"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "2",
+        "b": "11",
+        "c": "75",
+        "d": "902"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "0",
+        "b": "13",
+        "c": "9",
+        "d": "968"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G004",
+    "geometry_description": "Pitchfork with tines",
+    "intact_tokens": 141,
+    "initial_tokens": 50,
+    "final_tokens": 6,
+    "possible_stroke_adjacent_tokens": 22,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "90",
+        "b": "80",
+        "c": "2137",
+        "d": "2169"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "65",
+        "b": "105",
+        "c": "1073",
+        "d": "3233"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "3",
+        "b": "167",
+        "c": "148",
+        "d": "4158"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "5",
+        "b": "165",
+        "c": "202",
+        "d": "4104"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "3",
+        "b": "167",
+        "c": "566",
+        "d": "3740"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "3",
+        "b": "167",
+        "c": "37",
+        "d": "4269"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "25",
+        "b": "5",
+        "c": "555",
+        "d": "405"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "0",
+        "b": "30",
+        "c": "85",
+        "d": "875"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "0",
+        "b": "30",
+        "c": "38",
+        "d": "922"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "5",
+        "b": "25",
+        "c": "180",
+        "d": "780"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "0",
+        "b": "30",
+        "c": "77",
+        "d": "883"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "0",
+        "b": "30",
+        "c": "9",
+        "d": "951"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G005",
+    "geometry_description": "Horizontal line with multiple lines out the top, lines or U out the bottom",
+    "intact_tokens": 41,
+    "initial_tokens": 11,
+    "final_tokens": 3,
+    "possible_stroke_adjacent_tokens": 11,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "39",
+        "b": "8",
+        "c": "2188",
+        "d": "2241"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "5",
+        "b": "42",
+        "c": "1133",
+        "d": "3296"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "0",
+        "b": "47",
+        "c": "151",
+        "d": "4278"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "2",
+        "b": "45",
+        "c": "205",
+        "d": "4224"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "1",
+        "b": "46",
+        "c": "568",
+        "d": "3861"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "0",
+        "b": "47",
+        "c": "40",
+        "d": "4389"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "14",
+        "b": "2",
+        "c": "566",
+        "d": "408"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "1",
+        "b": "15",
+        "c": "84",
+        "d": "890"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "0",
+        "b": "16",
+        "c": "38",
+        "d": "936"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "1",
+        "b": "15",
+        "c": "184",
+        "d": "790"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "0",
+        "b": "16",
+        "c": "77",
+        "d": "897"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "0",
+        "b": "16",
+        "c": "9",
+        "d": "965"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G006",
+    "geometry_description": "Fish with a horizontal line through body",
+    "intact_tokens": 160,
+    "initial_tokens": 37,
+    "final_tokens": 3,
+    "possible_stroke_adjacent_tokens": 35,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "136",
+        "b": "52",
+        "c": "2091",
+        "d": "2197"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "27",
+        "b": "161",
+        "c": "1111",
+        "d": "3177"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "19",
+        "b": "169",
+        "c": "132",
+        "d": "4156"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "4",
+        "b": "184",
+        "c": "203",
+        "d": "4085"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "1",
+        "b": "187",
+        "c": "568",
+        "d": "3720"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "0",
+        "b": "188",
+        "c": "40",
+        "d": "4248"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "31",
+        "b": "7",
+        "c": "549",
+        "d": "403"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "0",
+        "b": "38",
+        "c": "85",
+        "d": "867"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "0",
+        "b": "38",
+        "c": "38",
+        "d": "914"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "7",
+        "b": "31",
+        "c": "178",
+        "d": "774"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "0",
+        "b": "38",
+        "c": "77",
+        "d": "875"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "0",
+        "b": "38",
+        "c": "9",
+        "d": "943"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G007",
+    "geometry_description": "Three adjacent full-height vertical strokes",
+    "intact_tokens": 435,
+    "initial_tokens": 196,
+    "final_tokens": 81,
+    "possible_stroke_adjacent_tokens": 50,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "138",
+        "b": "318",
+        "c": "2089",
+        "d": "1931"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "224",
+        "b": "232",
+        "c": "914",
+        "d": "3106"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "21",
+        "b": "435",
+        "c": "130",
+        "d": "3890"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "9",
+        "b": "447",
+        "c": "198",
+        "d": "3822"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "56",
+        "b": "400",
+        "c": "513",
+        "d": "3507"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "2",
+        "b": "454",
+        "c": "38",
+        "d": "3982"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "36",
+        "b": "18",
+        "c": "544",
+        "d": "392"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "7",
+        "b": "47",
+        "c": "78",
+        "d": "858"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "4",
+        "b": "50",
+        "c": "34",
+        "d": "902"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "6",
+        "b": "48",
+        "c": "179",
+        "d": "757"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "1",
+        "b": "53",
+        "c": "76",
+        "d": "860"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "0",
+        "b": "54",
+        "c": "9",
+        "d": "927"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G008",
+    "geometry_description": "Fish with no other decoration",
+    "intact_tokens": 382,
+    "initial_tokens": 82,
+    "final_tokens": 52,
+    "possible_stroke_adjacent_tokens": 153,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "257",
+        "b": "186",
+        "c": "1970",
+        "d": "2063"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "107",
+        "b": "336",
+        "c": "1031",
+        "d": "3002"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "12",
+        "b": "431",
+        "c": "139",
+        "d": "3894"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "27",
+        "b": "416",
+        "c": "180",
+        "d": "3853"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "31",
+        "b": "412",
+        "c": "538",
+        "d": "3495"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "2",
+        "b": "441",
+        "c": "38",
+        "d": "3995"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "78",
+        "b": "39",
+        "c": "502",
+        "d": "371"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "10",
+        "b": "107",
+        "c": "75",
+        "d": "798"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "1",
+        "b": "116",
+        "c": "37",
+        "d": "836"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "20",
+        "b": "97",
+        "c": "165",
+        "d": "708"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "8",
+        "b": "109",
+        "c": "69",
+        "d": "804"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "0",
+        "b": "117",
+        "c": "9",
+        "d": "864"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G009",
+    "geometry_description": "Simple tree with branches at the top",
+    "intact_tokens": 124,
+    "initial_tokens": 5,
+    "final_tokens": 51,
+    "possible_stroke_adjacent_tokens": 63,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "54",
+        "b": "40",
+        "c": "2173",
+        "d": "2209"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "23",
+        "b": "71",
+        "c": "1115",
+        "d": "3267"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "3",
+        "b": "91",
+        "c": "148",
+        "d": "4234"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "3",
+        "b": "91",
+        "c": "204",
+        "d": "4178"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "7",
+        "b": "87",
+        "c": "562",
+        "d": "3820"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "1",
+        "b": "93",
+        "c": "39",
+        "d": "4343"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "30",
+        "b": "16",
+        "c": "550",
+        "d": "394"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "0",
+        "b": "46",
+        "c": "85",
+        "d": "859"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "3",
+        "b": "43",
+        "c": "35",
+        "d": "909"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "7",
+        "b": "39",
+        "c": "178",
+        "d": "766"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "6",
+        "b": "40",
+        "c": "71",
+        "d": "873"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "0",
+        "b": "46",
+        "c": "9",
+        "d": "935"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G010",
+    "geometry_description": "Classic jar symbol with two horizontal handles at the top of each arm pointed outward",
+    "intact_tokens": 1499,
+    "initial_tokens": 18,
+    "final_tokens": 1041,
+    "possible_stroke_adjacent_tokens": 127,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "898",
+        "b": "848",
+        "c": "1329",
+        "d": "1401"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "565",
+        "b": "1181",
+        "c": "573",
+        "d": "2157"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "90",
+        "b": "1656",
+        "c": "61",
+        "d": "2669"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "67",
+        "b": "1679",
+        "c": "140",
+        "d": "2590"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "101",
+        "b": "1645",
+        "c": "468",
+        "d": "2262"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "13",
+        "b": "1733",
+        "c": "27",
+        "d": "2703"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "171",
+        "b": "112",
+        "c": "409",
+        "d": "298"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "24",
+        "b": "259",
+        "c": "61",
+        "d": "646"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "10",
+        "b": "273",
+        "c": "28",
+        "d": "679"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "59",
+        "b": "224",
+        "c": "126",
+        "d": "581"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "15",
+        "b": "268",
+        "c": "62",
+        "d": "645"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "3",
+        "b": "280",
+        "c": "6",
+        "d": "701"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G011",
+    "geometry_description": "Two adjacent half-height simple vertical strokes",
+    "intact_tokens": 684,
+    "initial_tokens": 27,
+    "final_tokens": 44,
+    "possible_stroke_adjacent_tokens": 176,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "599",
+        "b": "201",
+        "c": "1628",
+        "d": "2048"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "80",
+        "b": "720",
+        "c": "1058",
+        "d": "2618"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "4",
+        "b": "796",
+        "c": "147",
+        "d": "3529"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "64",
+        "b": "736",
+        "c": "143",
+        "d": "3533"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "36",
+        "b": "764",
+        "c": "533",
+        "d": "3143"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "6",
+        "b": "794",
+        "c": "34",
+        "d": "3642"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "120",
+        "b": "37",
+        "c": "460",
+        "d": "373"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "2",
+        "b": "155",
+        "c": "83",
+        "d": "750"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "1",
+        "b": "156",
+        "c": "37",
+        "d": "796"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "28",
+        "b": "129",
+        "c": "157",
+        "d": "676"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "5",
+        "b": "152",
+        "c": "72",
+        "d": "761"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "0",
+        "b": "157",
+        "c": "9",
+        "d": "824"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G012",
+    "geometry_description": "Four adjacent full-height vertical strokes",
+    "intact_tokens": 156,
+    "initial_tokens": 129,
+    "final_tokens": 31,
+    "possible_stroke_adjacent_tokens": 5,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "6",
+        "b": "148",
+        "c": "2221",
+        "d": "2101"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "117",
+        "b": "37",
+        "c": "1021",
+        "d": "3301"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "0",
+        "b": "154",
+        "c": "151",
+        "d": "4171"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "1",
+        "b": "153",
+        "c": "206",
+        "d": "4116"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "27",
+        "b": "127",
+        "c": "542",
+        "d": "3780"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "2",
+        "b": "152",
+        "c": "38",
+        "d": "4284"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "1",
+        "b": "2",
+        "c": "579",
+        "d": "408"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "0",
+        "b": "3",
+        "c": "85",
+        "d": "902"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "0",
+        "b": "3",
+        "c": "38",
+        "d": "949"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "2",
+        "b": "1",
+        "c": "183",
+        "d": "804"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "0",
+        "b": "3",
+        "c": "77",
+        "d": "910"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "0",
+        "b": "3",
+        "c": "9",
+        "d": "978"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G013",
+    "geometry_description": "Classic jar symbol with two horizontal handles at the top of each arm pointed outward, single small vertical stroke inside mouth of jar",
+    "intact_tokens": 190,
+    "initial_tokens": 20,
+    "final_tokens": 6,
+    "possible_stroke_adjacent_tokens": 56,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "158",
+        "b": "49",
+        "c": "2069",
+        "d": "2200"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "27",
+        "b": "180",
+        "c": "1111",
+        "d": "3158"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "0",
+        "b": "207",
+        "c": "151",
+        "d": "4118"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "12",
+        "b": "195",
+        "c": "195",
+        "d": "4074"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "9",
+        "b": "198",
+        "c": "560",
+        "d": "3709"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "0",
+        "b": "207",
+        "c": "40",
+        "d": "4229"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "31",
+        "b": "14",
+        "c": "549",
+        "d": "396"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "0",
+        "b": "45",
+        "c": "85",
+        "d": "860"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "0",
+        "b": "45",
+        "c": "38",
+        "d": "907"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "10",
+        "b": "35",
+        "c": "175",
+        "d": "770"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "4",
+        "b": "41",
+        "c": "73",
+        "d": "872"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "0",
+        "b": "45",
+        "c": "9",
+        "d": "936"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G014",
+    "geometry_description": "Tall, slightly narrow caret (mountain motif)",
+    "intact_tokens": 30,
+    "initial_tokens": 13,
+    "final_tokens": 7,
+    "possible_stroke_adjacent_tokens": 21,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "9",
+        "b": "33",
+        "c": "2218",
+        "d": "2216"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "6",
+        "b": "36",
+        "c": "1132",
+        "d": "3302"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "0",
+        "b": "42",
+        "c": "151",
+        "d": "4283"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "2",
+        "b": "40",
+        "c": "205",
+        "d": "4229"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "17",
+        "b": "25",
+        "c": "552",
+        "d": "3882"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "0",
+        "b": "42",
+        "c": "40",
+        "d": "4394"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "1",
+        "b": "5",
+        "c": "579",
+        "d": "405"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "0",
+        "b": "6",
+        "c": "85",
+        "d": "899"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "0",
+        "b": "6",
+        "c": "38",
+        "d": "946"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "1",
+        "b": "5",
+        "c": "184",
+        "d": "800"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "2",
+        "b": "4",
+        "c": "75",
+        "d": "909"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "0",
+        "b": "6",
+        "c": "9",
+        "d": "975"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G015",
+    "geometry_description": "Leaf with 'pincers' coming off the right, possibly with small stroke legs off top and bottom of leaf",
+    "intact_tokens": 121,
+    "initial_tokens": 30,
+    "final_tokens": 3,
+    "possible_stroke_adjacent_tokens": 28,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "98",
+        "b": "49",
+        "c": "2129",
+        "d": "2200"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "28",
+        "b": "119",
+        "c": "1110",
+        "d": "3219"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "9",
+        "b": "138",
+        "c": "142",
+        "d": "4187"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "5",
+        "b": "142",
+        "c": "202",
+        "d": "4127"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "4",
+        "b": "143",
+        "c": "565",
+        "d": "3764"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "1",
+        "b": "146",
+        "c": "39",
+        "d": "4290"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "19",
+        "b": "15",
+        "c": "561",
+        "d": "395"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "2",
+        "b": "32",
+        "c": "83",
+        "d": "873"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "0",
+        "b": "34",
+        "c": "38",
+        "d": "918"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "10",
+        "b": "24",
+        "c": "175",
+        "d": "781"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "3",
+        "b": "31",
+        "c": "74",
+        "d": "882"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "0",
+        "b": "34",
+        "c": "9",
+        "d": "947"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G016",
+    "geometry_description": "Capital 'T' with a small leaf oriented vertically attached to both sides of the top bar",
+    "intact_tokens": 23,
+    "initial_tokens": 13,
+    "final_tokens": 1,
+    "possible_stroke_adjacent_tokens": 20,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "14",
+        "b": "14",
+        "c": "2213",
+        "d": "2235"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "11",
+        "b": "17",
+        "c": "1127",
+        "d": "3321"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "0",
+        "b": "28",
+        "c": "151",
+        "d": "4297"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "2",
+        "b": "26",
+        "c": "205",
+        "d": "4243"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "1",
+        "b": "27",
+        "c": "568",
+        "d": "3880"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "0",
+        "b": "28",
+        "c": "40",
+        "d": "4408"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "5",
+        "b": "2",
+        "c": "575",
+        "d": "408"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "2",
+        "b": "5",
+        "c": "83",
+        "d": "900"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "0",
+        "b": "7",
+        "c": "38",
+        "d": "945"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "0",
+        "b": "7",
+        "c": "185",
+        "d": "798"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "0",
+        "b": "7",
+        "c": "77",
+        "d": "906"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "0",
+        "b": "7",
+        "c": "9",
+        "d": "974"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G017",
+    "geometry_description": "Person sitting with bent knees, four small tangent lines coming off the back",
+    "intact_tokens": 180,
+    "initial_tokens": 73,
+    "final_tokens": 1,
+    "possible_stroke_adjacent_tokens": 24,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "74",
+        "b": "120",
+        "c": "2153",
+        "d": "2129"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "98",
+        "b": "96",
+        "c": "1040",
+        "d": "3242"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "13",
+        "b": "181",
+        "c": "138",
+        "d": "4144"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "1",
+        "b": "193",
+        "c": "206",
+        "d": "4076"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "6",
+        "b": "188",
+        "c": "563",
+        "d": "3719"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "2",
+        "b": "192",
+        "c": "38",
+        "d": "4244"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "15",
+        "b": "16",
+        "c": "565",
+        "d": "394"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "6",
+        "b": "25",
+        "c": "79",
+        "d": "880"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "0",
+        "b": "31",
+        "c": "38",
+        "d": "921"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "10",
+        "b": "21",
+        "c": "175",
+        "d": "784"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "0",
+        "b": "31",
+        "c": "77",
+        "d": "882"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "0",
+        "b": "31",
+        "c": "9",
+        "d": "950"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G018",
+    "geometry_description": "Right parenthesis with small leaf at middle",
+    "intact_tokens": 140,
+    "initial_tokens": 78,
+    "final_tokens": 5,
+    "possible_stroke_adjacent_tokens": 15,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "103",
+        "b": "44",
+        "c": "2124",
+        "d": "2205"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "27",
+        "b": "120",
+        "c": "1111",
+        "d": "3218"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "0",
+        "b": "147",
+        "c": "151",
+        "d": "4178"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "6",
+        "b": "141",
+        "c": "201",
+        "d": "4128"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "5",
+        "b": "142",
+        "c": "564",
+        "d": "3765"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "0",
+        "b": "147",
+        "c": "40",
+        "d": "4289"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "30",
+        "b": "9",
+        "c": "550",
+        "d": "401"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "0",
+        "b": "39",
+        "c": "85",
+        "d": "866"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "0",
+        "b": "39",
+        "c": "38",
+        "d": "913"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "7",
+        "b": "32",
+        "c": "178",
+        "d": "773"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "1",
+        "b": "38",
+        "c": "76",
+        "d": "875"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "0",
+        "b": "39",
+        "c": "9",
+        "d": "942"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G019",
+    "geometry_description": "Two overlapping leaves with diagonal hatches across the three midsections, possibly with a cage of small vertical strokes",
+    "intact_tokens": 51,
+    "initial_tokens": 0,
+    "final_tokens": 1,
+    "possible_stroke_adjacent_tokens": 16,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "13",
+        "b": "30",
+        "c": "2214",
+        "d": "2219"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "0",
+        "b": "43",
+        "c": "1138",
+        "d": "3295"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "29",
+        "b": "14",
+        "c": "122",
+        "d": "4311"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "0",
+        "b": "43",
+        "c": "207",
+        "d": "4226"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "0",
+        "b": "43",
+        "c": "569",
+        "d": "3864"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "0",
+        "b": "43",
+        "c": "40",
+        "d": "4393"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "6",
+        "b": "3",
+        "c": "574",
+        "d": "407"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "0",
+        "b": "9",
+        "c": "85",
+        "d": "896"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "3",
+        "b": "6",
+        "c": "35",
+        "d": "946"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "0",
+        "b": "9",
+        "c": "185",
+        "d": "796"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "0",
+        "b": "9",
+        "c": "77",
+        "d": "904"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "0",
+        "b": "9",
+        "c": "9",
+        "d": "972"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G020",
+    "geometry_description": "Simple tree with branches at the top",
+    "intact_tokens": 254,
+    "initial_tokens": 22,
+    "final_tokens": 131,
+    "possible_stroke_adjacent_tokens": 101,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "190",
+        "b": "85",
+        "c": "2037",
+        "d": "2164"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "46",
+        "b": "229",
+        "c": "1092",
+        "d": "3109"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "0",
+        "b": "275",
+        "c": "151",
+        "d": "4050"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "11",
+        "b": "264",
+        "c": "196",
+        "d": "4005"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "18",
+        "b": "257",
+        "c": "551",
+        "d": "3650"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "2",
+        "b": "273",
+        "c": "38",
+        "d": "4163"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "28",
+        "b": "10",
+        "c": "552",
+        "d": "400"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "0",
+        "b": "38",
+        "c": "85",
+        "d": "867"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "0",
+        "b": "38",
+        "c": "38",
+        "d": "914"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "8",
+        "b": "30",
+        "c": "177",
+        "d": "775"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "1",
+        "b": "37",
+        "c": "76",
+        "d": "876"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "1",
+        "b": "37",
+        "c": "8",
+        "d": "944"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G021",
+    "geometry_description": "Fish with a caret shaped hat",
+    "intact_tokens": 209,
+    "initial_tokens": 90,
+    "final_tokens": 4,
+    "possible_stroke_adjacent_tokens": 45,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "157",
+        "b": "76",
+        "c": "2070",
+        "d": "2173"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "47",
+        "b": "186",
+        "c": "1091",
+        "d": "3152"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "15",
+        "b": "218",
+        "c": "136",
+        "d": "4107"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "5",
+        "b": "228",
+        "c": "202",
+        "d": "4041"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "7",
+        "b": "226",
+        "c": "562",
+        "d": "3681"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "0",
+        "b": "233",
+        "c": "40",
+        "d": "4203"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "38",
+        "b": "14",
+        "c": "542",
+        "d": "396"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "0",
+        "b": "52",
+        "c": "85",
+        "d": "853"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "0",
+        "b": "52",
+        "c": "38",
+        "d": "900"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "9",
+        "b": "43",
+        "c": "176",
+        "d": "762"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "4",
+        "b": "48",
+        "c": "73",
+        "d": "865"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "1",
+        "b": "51",
+        "c": "8",
+        "d": "930"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G022",
+    "geometry_description": "Fish with extra whiskers on cheeks",
+    "intact_tokens": 297,
+    "initial_tokens": 79,
+    "final_tokens": 5,
+    "possible_stroke_adjacent_tokens": 105,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "180",
+        "b": "136",
+        "c": "2047",
+        "d": "2113"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "111",
+        "b": "205",
+        "c": "1027",
+        "d": "3133"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "6",
+        "b": "310",
+        "c": "145",
+        "d": "4015"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "9",
+        "b": "307",
+        "c": "198",
+        "d": "3962"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "4",
+        "b": "312",
+        "c": "565",
+        "d": "3595"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "5",
+        "b": "311",
+        "c": "35",
+        "d": "4125"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "39",
+        "b": "18",
+        "c": "541",
+        "d": "392"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "4",
+        "b": "53",
+        "c": "81",
+        "d": "852"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "1",
+        "b": "56",
+        "c": "37",
+        "d": "896"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "12",
+        "b": "45",
+        "c": "173",
+        "d": "760"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "1",
+        "b": "56",
+        "c": "76",
+        "d": "857"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "0",
+        "b": "57",
+        "c": "9",
+        "d": "924"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G023",
+    "geometry_description": "Isocolese triangle on top of vertical line (arrow? spear?)",
+    "intact_tokens": 276,
+    "initial_tokens": 3,
+    "final_tokens": 231,
+    "possible_stroke_adjacent_tokens": 74,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "189",
+        "b": "102",
+        "c": "2038",
+        "d": "2147"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "70",
+        "b": "221",
+        "c": "1068",
+        "d": "3117"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "10",
+        "b": "281",
+        "c": "141",
+        "d": "4044"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "13",
+        "b": "278",
+        "c": "194",
+        "d": "3991"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "8",
+        "b": "283",
+        "c": "561",
+        "d": "3624"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "0",
+        "b": "291",
+        "c": "40",
+        "d": "4145"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "28",
+        "b": "8",
+        "c": "552",
+        "d": "402"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "2",
+        "b": "34",
+        "c": "83",
+        "d": "871"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "1",
+        "b": "35",
+        "c": "37",
+        "d": "917"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "4",
+        "b": "32",
+        "c": "181",
+        "d": "773"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "0",
+        "b": "36",
+        "c": "77",
+        "d": "877"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "0",
+        "b": "36",
+        "c": "9",
+        "d": "945"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G024",
+    "geometry_description": "Simple, half-height vertical stroke",
+    "intact_tokens": 210,
+    "initial_tokens": 15,
+    "final_tokens": 21,
+    "possible_stroke_adjacent_tokens": 75,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "145",
+        "b": "59",
+        "c": "2082",
+        "d": "2190"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "15",
+        "b": "189",
+        "c": "1123",
+        "d": "3149"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "14",
+        "b": "190",
+        "c": "137",
+        "d": "4135"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "11",
+        "b": "193",
+        "c": "196",
+        "d": "4076"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "14",
+        "b": "190",
+        "c": "555",
+        "d": "3717"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "1",
+        "b": "203",
+        "c": "39",
+        "d": "4233"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "53",
+        "b": "22",
+        "c": "527",
+        "d": "388"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "0",
+        "b": "75",
+        "c": "85",
+        "d": "830"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "11",
+        "b": "64",
+        "c": "27",
+        "d": "888"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "4",
+        "b": "71",
+        "c": "181",
+        "d": "734"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "2",
+        "b": "73",
+        "c": "75",
+        "d": "840"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "1",
+        "b": "74",
+        "c": "8",
+        "d": "907"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G025",
+    "geometry_description": "Vertical line with small horizontal lines coming off one side across the entire height",
+    "intact_tokens": 410,
+    "initial_tokens": 2,
+    "final_tokens": 366,
+    "possible_stroke_adjacent_tokens": 6,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "79",
+        "b": "395",
+        "c": "2148",
+        "d": "1854"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "361",
+        "b": "113",
+        "c": "777",
+        "d": "3225"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "0",
+        "b": "474",
+        "c": "151",
+        "d": "3851"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "2",
+        "b": "472",
+        "c": "205",
+        "d": "3797"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "18",
+        "b": "456",
+        "c": "551",
+        "d": "3451"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "12",
+        "b": "462",
+        "c": "28",
+        "d": "3974"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "17",
+        "b": "51",
+        "c": "563",
+        "d": "359"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "16",
+        "b": "52",
+        "c": "69",
+        "d": "853"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "0",
+        "b": "68",
+        "c": "38",
+        "d": "884"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "27",
+        "b": "41",
+        "c": "158",
+        "d": "764"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "5",
+        "b": "63",
+        "c": "72",
+        "d": "850"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "3",
+        "b": "65",
+        "c": "6",
+        "d": "916"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G026",
+    "geometry_description": "A single small vertical line, then another vertical line with the bottom half slanting under the first line (like a Japanese 'ri' character).",
+    "intact_tokens": 196,
+    "initial_tokens": 2,
+    "final_tokens": 6,
+    "possible_stroke_adjacent_tokens": 36,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "172",
+        "b": "45",
+        "c": "2055",
+        "d": "2204"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "33",
+        "b": "184",
+        "c": "1105",
+        "d": "3154"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "0",
+        "b": "217",
+        "c": "151",
+        "d": "4108"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "6",
+        "b": "211",
+        "c": "201",
+        "d": "4058"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "3",
+        "b": "214",
+        "c": "566",
+        "d": "3693"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "1",
+        "b": "216",
+        "c": "39",
+        "d": "4220"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "35",
+        "b": "10",
+        "c": "545",
+        "d": "400"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "2",
+        "b": "43",
+        "c": "83",
+        "d": "862"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "0",
+        "b": "45",
+        "c": "38",
+        "d": "907"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "7",
+        "b": "38",
+        "c": "178",
+        "d": "767"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "1",
+        "b": "44",
+        "c": "76",
+        "d": "869"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "0",
+        "b": "45",
+        "c": "9",
+        "d": "936"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G027",
+    "geometry_description": "M with the bottom of the legs connected by a horizontal line, and vertical lines connected at midpoint by horizontal line",
+    "intact_tokens": 29,
+    "initial_tokens": 1,
+    "final_tokens": 1,
+    "possible_stroke_adjacent_tokens": 3,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "11",
+        "b": "27",
+        "c": "2216",
+        "d": "2222"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "24",
+        "b": "14",
+        "c": "1114",
+        "d": "3324"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "0",
+        "b": "38",
+        "c": "151",
+        "d": "4287"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "1",
+        "b": "37",
+        "c": "206",
+        "d": "4232"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "2",
+        "b": "36",
+        "c": "567",
+        "d": "3871"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "0",
+        "b": "38",
+        "c": "40",
+        "d": "4398"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "4",
+        "b": "2",
+        "c": "576",
+        "d": "408"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "1",
+        "b": "5",
+        "c": "84",
+        "d": "900"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "0",
+        "b": "6",
+        "c": "38",
+        "d": "946"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "1",
+        "b": "5",
+        "c": "184",
+        "d": "800"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "0",
+        "b": "6",
+        "c": "77",
+        "d": "907"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "0",
+        "b": "6",
+        "c": "9",
+        "d": "975"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G028",
+    "geometry_description": "Two adjacent full-height vertical strokes",
+    "intact_tokens": 489,
+    "initial_tokens": 217,
+    "final_tokens": 94,
+    "possible_stroke_adjacent_tokens": 89,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "200",
+        "b": "311",
+        "c": "2027",
+        "d": "1938"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "206",
+        "b": "305",
+        "c": "932",
+        "d": "3033"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "23",
+        "b": "488",
+        "c": "128",
+        "d": "3837"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "28",
+        "b": "483",
+        "c": "179",
+        "d": "3786"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "43",
+        "b": "468",
+        "c": "526",
+        "d": "3439"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "4",
+        "b": "507",
+        "c": "36",
+        "d": "3929"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "42",
+        "b": "32",
+        "c": "538",
+        "d": "378"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "10",
+        "b": "64",
+        "c": "75",
+        "d": "841"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "7",
+        "b": "67",
+        "c": "31",
+        "d": "885"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "10",
+        "b": "64",
+        "c": "175",
+        "d": "741"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "4",
+        "b": "70",
+        "c": "73",
+        "d": "843"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "0",
+        "b": "74",
+        "c": "9",
+        "d": "907"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G029",
+    "geometry_description": "A grid of x by y cells",
+    "intact_tokens": 184,
+    "initial_tokens": 23,
+    "final_tokens": 37,
+    "possible_stroke_adjacent_tokens": 17,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "30",
+        "b": "29",
+        "c": "2197",
+        "d": "2220"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "5",
+        "b": "54",
+        "c": "1133",
+        "d": "3284"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "20",
+        "b": "39",
+        "c": "131",
+        "d": "4286"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "1",
+        "b": "58",
+        "c": "206",
+        "d": "4211"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "3",
+        "b": "56",
+        "c": "566",
+        "d": "3851"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "0",
+        "b": "59",
+        "c": "40",
+        "d": "4377"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "45",
+        "b": "36",
+        "c": "535",
+        "d": "374"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "4",
+        "b": "77",
+        "c": "81",
+        "d": "828"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "15",
+        "b": "66",
+        "c": "23",
+        "d": "886"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "14",
+        "b": "67",
+        "c": "171",
+        "d": "738"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "3",
+        "b": "78",
+        "c": "74",
+        "d": "835"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "0",
+        "b": "81",
+        "c": "9",
+        "d": "900"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G030",
+    "geometry_description": "Square at bottom with vertical bar coming off top middle",
+    "intact_tokens": 194,
+    "initial_tokens": 46,
+    "final_tokens": 16,
+    "possible_stroke_adjacent_tokens": 42,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "116",
+        "b": "101",
+        "c": "2111",
+        "d": "2148"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "79",
+        "b": "138",
+        "c": "1059",
+        "d": "3200"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "4",
+        "b": "213",
+        "c": "147",
+        "d": "4112"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "8",
+        "b": "209",
+        "c": "199",
+        "d": "4060"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "8",
+        "b": "209",
+        "c": "561",
+        "d": "3698"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "0",
+        "b": "217",
+        "c": "40",
+        "d": "4219"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "21",
+        "b": "21",
+        "c": "559",
+        "d": "389"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "4",
+        "b": "38",
+        "c": "81",
+        "d": "867"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "0",
+        "b": "42",
+        "c": "38",
+        "d": "910"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "14",
+        "b": "28",
+        "c": "171",
+        "d": "777"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "3",
+        "b": "39",
+        "c": "74",
+        "d": "874"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "0",
+        "b": "42",
+        "c": "9",
+        "d": "939"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G031",
+    "geometry_description": "One full-height vertical stroke",
+    "intact_tokens": 201,
+    "initial_tokens": 84,
+    "final_tokens": 38,
+    "possible_stroke_adjacent_tokens": 58,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "138",
+        "b": "98",
+        "c": "2089",
+        "d": "2151"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "43",
+        "b": "193",
+        "c": "1095",
+        "d": "3145"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "0",
+        "b": "236",
+        "c": "151",
+        "d": "4089"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "6",
+        "b": "230",
+        "c": "201",
+        "d": "4039"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "36",
+        "b": "200",
+        "c": "533",
+        "d": "3707"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "3",
+        "b": "233",
+        "c": "37",
+        "d": "4203"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "22",
+        "b": "11",
+        "c": "558",
+        "d": "399"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "3",
+        "b": "30",
+        "c": "82",
+        "d": "875"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "0",
+        "b": "33",
+        "c": "38",
+        "d": "919"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "5",
+        "b": "28",
+        "c": "180",
+        "d": "777"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "2",
+        "b": "31",
+        "c": "75",
+        "d": "882"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "1",
+        "b": "32",
+        "c": "8",
+        "d": "949"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G032",
+    "geometry_description": "Simple tree with branches at the top",
+    "intact_tokens": 123,
+    "initial_tokens": 0,
+    "final_tokens": 68,
+    "possible_stroke_adjacent_tokens": 29,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "45",
+        "b": "65",
+        "c": "2182",
+        "d": "2184"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "11",
+        "b": "99",
+        "c": "1127",
+        "d": "3239"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "50",
+        "b": "60",
+        "c": "101",
+        "d": "4265"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "1",
+        "b": "109",
+        "c": "206",
+        "d": "4160"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "2",
+        "b": "108",
+        "c": "567",
+        "d": "3799"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "0",
+        "b": "110",
+        "c": "40",
+        "d": "4326"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "0",
+        "b": "0",
+        "c": "580",
+        "d": "410"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "0",
+        "b": "0",
+        "c": "85",
+        "d": "905"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "0",
+        "b": "0",
+        "c": "38",
+        "d": "952"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "0",
+        "b": "0",
+        "c": "185",
+        "d": "805"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "0",
+        "b": "0",
+        "c": "77",
+        "d": "913"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "0",
+        "b": "0",
+        "c": "9",
+        "d": "981"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G033",
+    "geometry_description": "A 'Bowtie' motif. Or, an 'X' with vertical line connecting the left points, and same on right",
+    "intact_tokens": 27,
+    "initial_tokens": 17,
+    "final_tokens": 14,
+    "possible_stroke_adjacent_tokens": 4,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "5",
+        "b": "13",
+        "c": "2222",
+        "d": "2236"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "4",
+        "b": "14",
+        "c": "1134",
+        "d": "3324"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "0",
+        "b": "18",
+        "c": "151",
+        "d": "4307"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "0",
+        "b": "18",
+        "c": "207",
+        "d": "4251"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "6",
+        "b": "12",
+        "c": "563",
+        "d": "3895"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "1",
+        "b": "17",
+        "c": "39",
+        "d": "4419"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "3",
+        "b": "3",
+        "c": "577",
+        "d": "407"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "0",
+        "b": "6",
+        "c": "85",
+        "d": "899"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "0",
+        "b": "6",
+        "c": "38",
+        "d": "946"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "1",
+        "b": "5",
+        "c": "184",
+        "d": "800"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "2",
+        "b": "4",
+        "c": "75",
+        "d": "909"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "0",
+        "b": "6",
+        "c": "9",
+        "d": "975"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G034",
+    "geometry_description": "Leaf with tree at bottom",
+    "intact_tokens": 123,
+    "initial_tokens": 57,
+    "final_tokens": 1,
+    "possible_stroke_adjacent_tokens": 24,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "74",
+        "b": "54",
+        "c": "2153",
+        "d": "2195"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "29",
+        "b": "99",
+        "c": "1109",
+        "d": "3239"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "20",
+        "b": "108",
+        "c": "131",
+        "d": "4217"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "2",
+        "b": "126",
+        "c": "205",
+        "d": "4143"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "2",
+        "b": "126",
+        "c": "567",
+        "d": "3781"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "1",
+        "b": "127",
+        "c": "39",
+        "d": "4309"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "16",
+        "b": "7",
+        "c": "564",
+        "d": "403"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "0",
+        "b": "23",
+        "c": "85",
+        "d": "882"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "2",
+        "b": "21",
+        "c": "36",
+        "d": "931"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "4",
+        "b": "19",
+        "c": "181",
+        "d": "786"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "0",
+        "b": "23",
+        "c": "77",
+        "d": "890"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "1",
+        "b": "22",
+        "c": "8",
+        "d": "959"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G035",
+    "geometry_description": "Person with two arms and two legs, ",
+    "intact_tokens": 163,
+    "initial_tokens": 26,
+    "final_tokens": 113,
+    "possible_stroke_adjacent_tokens": 10,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "92",
+        "b": "76",
+        "c": "2135",
+        "d": "2173"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "47",
+        "b": "121",
+        "c": "1091",
+        "d": "3217"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "1",
+        "b": "167",
+        "c": "150",
+        "d": "4158"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "14",
+        "b": "154",
+        "c": "193",
+        "d": "4115"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "10",
+        "b": "158",
+        "c": "559",
+        "d": "3749"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "2",
+        "b": "166",
+        "c": "38",
+        "d": "4270"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "28",
+        "b": "11",
+        "c": "552",
+        "d": "399"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "0",
+        "b": "39",
+        "c": "85",
+        "d": "866"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "0",
+        "b": "39",
+        "c": "38",
+        "d": "913"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "8",
+        "b": "31",
+        "c": "177",
+        "d": "774"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "2",
+        "b": "37",
+        "c": "75",
+        "d": "876"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "0",
+        "b": "39",
+        "c": "9",
+        "d": "942"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G036",
+    "geometry_description": "Wheel with 6 spokes with even angles",
+    "intact_tokens": 210,
+    "initial_tokens": 151,
+    "final_tokens": 26,
+    "possible_stroke_adjacent_tokens": 127,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "172",
+        "b": "61",
+        "c": "2055",
+        "d": "2188"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "30",
+        "b": "203",
+        "c": "1108",
+        "d": "3135"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "0",
+        "b": "233",
+        "c": "151",
+        "d": "4092"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "11",
+        "b": "222",
+        "c": "196",
+        "d": "4047"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "13",
+        "b": "220",
+        "c": "556",
+        "d": "3687"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "1",
+        "b": "232",
+        "c": "39",
+        "d": "4204"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "43",
+        "b": "11",
+        "c": "537",
+        "d": "399"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "1",
+        "b": "53",
+        "c": "84",
+        "d": "852"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "0",
+        "b": "54",
+        "c": "38",
+        "d": "898"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "4",
+        "b": "50",
+        "c": "181",
+        "d": "755"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "3",
+        "b": "51",
+        "c": "74",
+        "d": "862"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "0",
+        "b": "54",
+        "c": "9",
+        "d": "927"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G037",
+    "geometry_description": "Three adjacent half-height simple vertical strokes",
+    "intact_tokens": 237,
+    "initial_tokens": 148,
+    "final_tokens": 19,
+    "possible_stroke_adjacent_tokens": 46,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "121",
+        "b": "83",
+        "c": "2106",
+        "d": "2166"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "31",
+        "b": "173",
+        "c": "1107",
+        "d": "3165"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "17",
+        "b": "187",
+        "c": "134",
+        "d": "4138"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "6",
+        "b": "198",
+        "c": "201",
+        "d": "4071"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "23",
+        "b": "181",
+        "c": "546",
+        "d": "3726"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "2",
+        "b": "202",
+        "c": "38",
+        "d": "4234"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "18",
+        "b": "15",
+        "c": "562",
+        "d": "395"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "0",
+        "b": "33",
+        "c": "85",
+        "d": "872"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "0",
+        "b": "33",
+        "c": "38",
+        "d": "919"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "5",
+        "b": "28",
+        "c": "180",
+        "d": "777"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "8",
+        "b": "25",
+        "c": "69",
+        "d": "888"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "0",
+        "b": "33",
+        "c": "9",
+        "d": "948"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G038",
+    "geometry_description": "Diamond or leaf shape with a small diamond attached to the top",
+    "intact_tokens": 254,
+    "initial_tokens": 156,
+    "final_tokens": 44,
+    "possible_stroke_adjacent_tokens": 200,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "169",
+        "b": "81",
+        "c": "2058",
+        "d": "2168"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "45",
+        "b": "205",
+        "c": "1093",
+        "d": "3133"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "2",
+        "b": "248",
+        "c": "149",
+        "d": "4077"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "14",
+        "b": "236",
+        "c": "193",
+        "d": "4033"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "14",
+        "b": "236",
+        "c": "555",
+        "d": "3671"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "3",
+        "b": "247",
+        "c": "37",
+        "d": "4189"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "63",
+        "b": "23",
+        "c": "517",
+        "d": "387"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "8",
+        "b": "78",
+        "c": "77",
+        "d": "827"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "3",
+        "b": "83",
+        "c": "35",
+        "d": "869"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "9",
+        "b": "77",
+        "c": "176",
+        "d": "728"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "2",
+        "b": "84",
+        "c": "75",
+        "d": "829"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "0",
+        "b": "86",
+        "c": "9",
+        "d": "895"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G039",
+    "geometry_description": "Person with three heads",
+    "intact_tokens": 108,
+    "initial_tokens": 3,
+    "final_tokens": 2,
+    "possible_stroke_adjacent_tokens": 7,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "76",
+        "b": "56",
+        "c": "2151",
+        "d": "2193"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "37",
+        "b": "95",
+        "c": "1101",
+        "d": "3243"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "8",
+        "b": "124",
+        "c": "143",
+        "d": "4201"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "7",
+        "b": "125",
+        "c": "200",
+        "d": "4144"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "2",
+        "b": "130",
+        "c": "567",
+        "d": "3777"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "0",
+        "b": "132",
+        "c": "40",
+        "d": "4304"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "17",
+        "b": "8",
+        "c": "563",
+        "d": "402"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "0",
+        "b": "25",
+        "c": "85",
+        "d": "880"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "0",
+        "b": "25",
+        "c": "38",
+        "d": "927"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "8",
+        "b": "17",
+        "c": "177",
+        "d": "788"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "0",
+        "b": "25",
+        "c": "77",
+        "d": "888"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "0",
+        "b": "25",
+        "c": "9",
+        "d": "956"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G040",
+    "geometry_description": "U with a long vertical stroke inserted into the gap of U",
+    "intact_tokens": 183,
+    "initial_tokens": 48,
+    "final_tokens": 5,
+    "possible_stroke_adjacent_tokens": 111,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "102",
+        "b": "95",
+        "c": "2125",
+        "d": "2154"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "48",
+        "b": "149",
+        "c": "1090",
+        "d": "3189"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "14",
+        "b": "183",
+        "c": "137",
+        "d": "4142"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "17",
+        "b": "180",
+        "c": "190",
+        "d": "4089"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "9",
+        "b": "188",
+        "c": "560",
+        "d": "3719"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "1",
+        "b": "196",
+        "c": "39",
+        "d": "4240"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "44",
+        "b": "21",
+        "c": "536",
+        "d": "389"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "1",
+        "b": "64",
+        "c": "84",
+        "d": "841"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "4",
+        "b": "61",
+        "c": "34",
+        "d": "891"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "16",
+        "b": "49",
+        "c": "169",
+        "d": "756"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "0",
+        "b": "65",
+        "c": "77",
+        "d": "848"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "0",
+        "b": "65",
+        "c": "9",
+        "d": "916"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G041",
+    "geometry_description": "Unknown asymmetric animal? Perhaps a fish with asymmetric fins and legs?",
+    "intact_tokens": 114,
+    "initial_tokens": 40,
+    "final_tokens": 7,
+    "possible_stroke_adjacent_tokens": 15,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "62",
+        "b": "71",
+        "c": "2165",
+        "d": "2178"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "56",
+        "b": "77",
+        "c": "1082",
+        "d": "3261"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "9",
+        "b": "124",
+        "c": "142",
+        "d": "4201"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "2",
+        "b": "131",
+        "c": "205",
+        "d": "4138"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "3",
+        "b": "130",
+        "c": "566",
+        "d": "3777"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "0",
+        "b": "133",
+        "c": "40",
+        "d": "4303"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "17",
+        "b": "13",
+        "c": "563",
+        "d": "397"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "1",
+        "b": "29",
+        "c": "84",
+        "d": "876"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "2",
+        "b": "28",
+        "c": "36",
+        "d": "924"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "9",
+        "b": "21",
+        "c": "176",
+        "d": "784"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "1",
+        "b": "29",
+        "c": "76",
+        "d": "884"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "0",
+        "b": "30",
+        "c": "9",
+        "d": "951"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G042",
+    "geometry_description": "Leaf with tree at bottom",
+    "intact_tokens": 111,
+    "initial_tokens": 45,
+    "final_tokens": 0,
+    "possible_stroke_adjacent_tokens": 39,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "96",
+        "b": "34",
+        "c": "2131",
+        "d": "2215"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "27",
+        "b": "103",
+        "c": "1111",
+        "d": "3235"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "0",
+        "b": "130",
+        "c": "151",
+        "d": "4195"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "4",
+        "b": "126",
+        "c": "203",
+        "d": "4143"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "2",
+        "b": "128",
+        "c": "567",
+        "d": "3779"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "0",
+        "b": "130",
+        "c": "40",
+        "d": "4306"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "16",
+        "b": "6",
+        "c": "564",
+        "d": "404"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "0",
+        "b": "22",
+        "c": "85",
+        "d": "883"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "0",
+        "b": "22",
+        "c": "38",
+        "d": "930"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "4",
+        "b": "18",
+        "c": "181",
+        "d": "787"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "1",
+        "b": "21",
+        "c": "76",
+        "d": "892"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "1",
+        "b": "21",
+        "c": "8",
+        "d": "960"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G043",
+    "geometry_description": "Box with vertical stroke off top center, horizontal striping",
+    "intact_tokens": 51,
+    "initial_tokens": 4,
+    "final_tokens": 13,
+    "possible_stroke_adjacent_tokens": 21,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "32",
+        "b": "15",
+        "c": "2195",
+        "d": "2234"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "1",
+        "b": "46",
+        "c": "1137",
+        "d": "3292"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "6",
+        "b": "41",
+        "c": "145",
+        "d": "4284"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "3",
+        "b": "44",
+        "c": "204",
+        "d": "4225"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "0",
+        "b": "47",
+        "c": "569",
+        "d": "3860"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "0",
+        "b": "47",
+        "c": "40",
+        "d": "4389"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "10",
+        "b": "15",
+        "c": "570",
+        "d": "395"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "0",
+        "b": "25",
+        "c": "85",
+        "d": "880"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "9",
+        "b": "16",
+        "c": "29",
+        "d": "936"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "3",
+        "b": "22",
+        "c": "182",
+        "d": "783"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "0",
+        "b": "25",
+        "c": "77",
+        "d": "888"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "0",
+        "b": "25",
+        "c": "9",
+        "d": "956"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G044",
+    "geometry_description": "Diamond or leaf shape with a small diamond attached to the top",
+    "intact_tokens": 165,
+    "initial_tokens": 147,
+    "final_tokens": 4,
+    "possible_stroke_adjacent_tokens": 131,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "148",
+        "b": "69",
+        "c": "2079",
+        "d": "2180"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "45",
+        "b": "172",
+        "c": "1093",
+        "d": "3166"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "0",
+        "b": "217",
+        "c": "151",
+        "d": "4108"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "16",
+        "b": "201",
+        "c": "191",
+        "d": "4068"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "6",
+        "b": "211",
+        "c": "563",
+        "d": "3696"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "0",
+        "b": "217",
+        "c": "40",
+        "d": "4219"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "0",
+        "b": "0",
+        "c": "580",
+        "d": "410"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "0",
+        "b": "0",
+        "c": "85",
+        "d": "905"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "0",
+        "b": "0",
+        "c": "38",
+        "d": "952"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "0",
+        "b": "0",
+        "c": "185",
+        "d": "805"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "0",
+        "b": "0",
+        "c": "77",
+        "d": "913"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "0",
+        "b": "0",
+        "c": "9",
+        "d": "981"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  },
+  {
+    "blind_sign": "G045",
+    "geometry_description": "Person with staff",
+    "intact_tokens": 83,
+    "initial_tokens": 21,
+    "final_tokens": 7,
+    "possible_stroke_adjacent_tokens": 34,
+    "artifact_count_tables": [
+      {
+        "catalogue": "Lipi",
+        "target": "seal",
+        "a": "43",
+        "b": "36",
+        "c": "2184",
+        "d": "2213"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "mtab",
+        "a": "15",
+        "b": "64",
+        "c": "1123",
+        "d": "3274"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "ctab",
+        "a": "15",
+        "b": "64",
+        "c": "136",
+        "d": "4261"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "tag",
+        "a": "2",
+        "b": "77",
+        "c": "205",
+        "d": "4192"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "pot",
+        "a": "4",
+        "b": "75",
+        "c": "565",
+        "d": "3832"
+      },
+      {
+        "catalogue": "Lipi",
+        "target": "rod",
+        "a": "0",
+        "b": "79",
+        "c": "40",
+        "d": "4357"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "seal",
+        "a": "14",
+        "b": "14",
+        "c": "566",
+        "d": "396"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "mtab",
+        "a": "0",
+        "b": "28",
+        "c": "85",
+        "d": "877"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "ctab",
+        "a": "11",
+        "b": "17",
+        "c": "27",
+        "d": "935"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "tag",
+        "a": "3",
+        "b": "25",
+        "c": "182",
+        "d": "780"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "pot",
+        "a": "0",
+        "b": "28",
+        "c": "77",
+        "d": "885"
+      },
+      {
+        "catalogue": "Mahadevan",
+        "target": "rod",
+        "a": "0",
+        "b": "28",
+        "c": "9",
+        "d": "953"
+      }
+    ],
+    "instructions": "Assign at most a broad function from archaeological/distributional evidence. Give multiple alternatives. Do not use language dictionaries or proposed readings. Record which observation could distinguish alternatives. Do not equate administrative object association with tax or title."
+  }
+]

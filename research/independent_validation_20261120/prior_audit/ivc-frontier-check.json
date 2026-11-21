@@ -1,0 +1,106 @@
+{
+  "bmac_per_seal": [
+    [
+      "FR-CA01",
+      1,
+      1
+    ],
+    [
+      "FR-CA02",
+      1,
+      1
+    ],
+    [
+      "FR-CA03",
+      6,
+      7
+    ]
+  ],
+  "gulf_per_seal": [
+    [
+      "G3-B01",
+      0,
+      0
+    ],
+    [
+      "G3-B02",
+      1,
+      4
+    ],
+    [
+      "G3-B03",
+      3,
+      3
+    ],
+    [
+      "G3-B04",
+      1,
+      5
+    ],
+    [
+      "G3-B05",
+      0,
+      5
+    ],
+    [
+      "G3-B06",
+      2,
+      2
+    ],
+    [
+      "G3-B07",
+      1,
+      1
+    ],
+    [
+      "G3-F01",
+      1,
+      3
+    ],
+    [
+      "G3-F02",
+      0,
+      6
+    ],
+    [
+      "G3-F03",
+      1,
+      3
+    ],
+    [
+      "G3-M01",
+      0,
+      4
+    ],
+    [
+      "G3-M02",
+      1,
+      4
+    ],
+    [
+      "G3-M03",
+      1,
+      1
+    ],
+    [
+      "G3-M04",
+      0,
+      0
+    ],
+    [
+      "G3-M05",
+      0,
+      2
+    ],
+    [
+      "G3-M06",
+      0,
+      5
+    ]
+  ],
+  "observed_rate_gap": 0.6388888888888888,
+  "whole_seal_exact_two_sided_permutation_p": 0.07739938080495357,
+  "extreme": 75,
+  "valid_label_allocations": 969,
+  "method": "Reassign 3 of 19 whole seals; statistic absolute difference in pooled transition hit rates. Observational exchangeability and genre confounding remain assumptions."
+}
