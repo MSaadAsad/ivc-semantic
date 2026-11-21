@@ -1,0 +1,250 @@
+{
+  "claims": 67,
+  "connections": 48,
+  "languages": 22,
+  "source_counts": {
+    "dedr_new.csv": 75589,
+    "20260813-ali-kobayashi-brahui.csv": 3483,
+    "20260813-kurux-nepal.csv": 1984,
+    "20260819-emeneau-brahui-1997.csv": 19,
+    "20260826-sil-kurux.csv": 1365,
+    "20260911-lindgren.csv": 2904,
+    "20260927-kurux-nepal-grammar.csv": 186,
+    "20260927-kurux-nepal-native.csv": 286,
+    "TGM2017.pdf": 2433,
+    "TGM2017_unquoted_entries": 194
+  },
+  "candidate_headword_links_unscored": 764,
+  "unique_source_records": 88249,
+  "caveats": [
+    "Not independently assigned Indus meanings.",
+    "Unattested does not mean absent from a language.",
+    "Strict exact form is a conservative spelling criterion, not a reconstruction of Harappan phonology.",
+    "One-edit is exploratory and does not establish a sound law.",
+    "Unmarked origin does not establish inheritance.",
+    "Supplement exact-headword links are candidates only and are excluded from the primary score.",
+    "Naiki and Naikri are kept separate as in the source; dialects are collapsed into their source language."
+  ],
+  "inventory": [
+    {
+      "language": "Tamil",
+      "source_records": 12196,
+      "distinct_headword_strings": 9611,
+      "dedr_families": 3516,
+      "target_meanings": 64,
+      "two_sided_meanings": 44,
+      "strict_complete": 24,
+      "one_edit_complete": 40
+    },
+    {
+      "language": "Malayalam",
+      "source_records": 8210,
+      "distinct_headword_strings": 7164,
+      "dedr_families": 2749,
+      "target_meanings": 50,
+      "two_sided_meanings": 30,
+      "strict_complete": 8,
+      "one_edit_complete": 17
+    },
+    {
+      "language": "Kannada",
+      "source_records": 11268,
+      "distinct_headword_strings": 9455,
+      "dedr_families": 3062,
+      "target_meanings": 43,
+      "two_sided_meanings": 25,
+      "strict_complete": 7,
+      "one_edit_complete": 17
+    },
+    {
+      "language": "Telugu",
+      "source_records": 8305,
+      "distinct_headword_strings": 7309,
+      "dedr_families": 2726,
+      "target_meanings": 37,
+      "two_sided_meanings": 18,
+      "strict_complete": 1,
+      "one_edit_complete": 8
+    },
+    {
+      "language": "Tulu",
+      "source_records": 8385,
+      "distinct_headword_strings": 7156,
+      "dedr_families": 2336,
+      "target_meanings": 34,
+      "two_sided_meanings": 14,
+      "strict_complete": 3,
+      "one_edit_complete": 6
+    },
+    {
+      "language": "Kota",
+      "source_records": 2657,
+      "distinct_headword_strings": 2206,
+      "dedr_families": 1287,
+      "target_meanings": 30,
+      "two_sided_meanings": 13,
+      "strict_complete": 3,
+      "one_edit_complete": 8
+    },
+    {
+      "language": "Toda",
+      "source_records": 2264,
+      "distinct_headword_strings": 1863,
+      "dedr_families": 1134,
+      "target_meanings": 25,
+      "two_sided_meanings": 8,
+      "strict_complete": 3,
+      "one_edit_complete": 4
+    },
+    {
+      "language": "Kodagu",
+      "source_records": 1693,
+      "distinct_headword_strings": 1563,
+      "dedr_families": 979,
+      "target_meanings": 26,
+      "two_sided_meanings": 8,
+      "strict_complete": 1,
+      "one_edit_complete": 5
+    },
+    {
+      "language": "Kolami",
+      "source_records": 1361,
+      "distinct_headword_strings": 1298,
+      "dedr_families": 776,
+      "target_meanings": 11,
+      "two_sided_meanings": 1,
+      "strict_complete": 0,
+      "one_edit_complete": 0
+    },
+    {
+      "language": "Naikri",
+      "source_records": 667,
+      "distinct_headword_strings": 645,
+      "dedr_families": 501,
+      "target_meanings": 6,
+      "two_sided_meanings": 0,
+      "strict_complete": 0,
+      "one_edit_complete": 0
+    },
+    {
+      "language": "Naiki",
+      "source_records": 496,
+      "distinct_headword_strings": 481,
+      "dedr_families": 302,
+      "target_meanings": 8,
+      "two_sided_meanings": 0,
+      "strict_complete": 0,
+      "one_edit_complete": 0
+    },
+    {
+      "language": "Parji",
+      "source_records": 1404,
+      "distinct_headword_strings": 1326,
+      "dedr_families": 894,
+      "target_meanings": 8,
+      "two_sided_meanings": 1,
+      "strict_complete": 0,
+      "one_edit_complete": 0
+    },
+    {
+      "language": "Gadaba",
+      "source_records": 1307,
+      "distinct_headword_strings": 1170,
+      "dedr_families": 706,
+      "target_meanings": 8,
+      "two_sided_meanings": 1,
+      "strict_complete": 0,
+      "one_edit_complete": 1
+    },
+    {
+      "language": "Gondi",
+      "source_records": 6773,
+      "distinct_headword_strings": 4899,
+      "dedr_families": 1362,
+      "target_meanings": 18,
+      "two_sided_meanings": 3,
+      "strict_complete": 0,
+      "one_edit_complete": 1
+    },
+    {
+      "language": "Konda",
+      "source_records": 1497,
+      "distinct_headword_strings": 1430,
+      "dedr_families": 929,
+      "target_meanings": 15,
+      "two_sided_meanings": 0,
+      "strict_complete": 0,
+      "one_edit_complete": 0
+    },
+    {
+      "language": "Pengo",
+      "source_records": 993,
+      "distinct_headword_strings": 956,
+      "dedr_families": 655,
+      "target_meanings": 8,
+      "two_sided_meanings": 2,
+      "strict_complete": 0,
+      "one_edit_complete": 0
+    },
+    {
+      "language": "Manda",
+      "source_records": 537,
+      "distinct_headword_strings": 519,
+      "dedr_families": 451,
+      "target_meanings": 5,
+      "two_sided_meanings": 1,
+      "strict_complete": 0,
+      "one_edit_complete": 0
+    },
+    {
+      "language": "Kui",
+      "source_records": 1861,
+      "distinct_headword_strings": 1773,
+      "dedr_families": 963,
+      "target_meanings": 15,
+      "two_sided_meanings": 0,
+      "strict_complete": 0,
+      "one_edit_complete": 0
+    },
+    {
+      "language": "Kuwi",
+      "source_records": 3446,
+      "distinct_headword_strings": 3096,
+      "dedr_families": 1138,
+      "target_meanings": 12,
+      "two_sided_meanings": 3,
+      "strict_complete": 1,
+      "one_edit_complete": 1
+    },
+    {
+      "language": "Kurukh",
+      "source_records": 5305,
+      "distinct_headword_strings": 3651,
+      "dedr_families": 789,
+      "target_meanings": 13,
+      "two_sided_meanings": 0,
+      "strict_complete": 0,
+      "one_edit_complete": 0
+    },
+    {
+      "language": "Malto",
+      "source_records": 3637,
+      "distinct_headword_strings": 3510,
+      "dedr_families": 721,
+      "target_meanings": 7,
+      "two_sided_meanings": 2,
+      "strict_complete": 0,
+      "one_edit_complete": 0
+    },
+    {
+      "language": "Brahui",
+      "source_records": 3987,
+      "distinct_headword_strings": 3751,
+      "dedr_families": 280,
+      "target_meanings": 5,
+      "two_sided_meanings": 0,
+      "strict_complete": 0,
+      "one_edit_complete": 0
+    }
+  ]
+}

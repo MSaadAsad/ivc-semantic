@@ -1,0 +1,1475 @@
+claim,sign,title,kind,language,family_a,family_b,meaning_a,meaning_b,target_meaning,both_meanings,target_without_questioned,strict_complete,one_edit_complete,unmarked_strict
+S740,740,jar → house,bridge,Tamil,True,True,True,True,True,True,True,False,False,False
+S740,740,jar → house,bridge,Malayalam,True,True,True,True,True,True,True,False,False,False
+S740,740,jar → house,bridge,Kannada,True,True,True,True,True,True,True,False,False,False
+S740,740,jar → house,bridge,Telugu,True,True,True,False,False,False,False,False,False,False
+S740,740,jar → house,bridge,Tulu,True,True,True,False,False,False,False,False,False,False
+S740,740,jar → house,bridge,Kota,True,True,True,True,True,True,True,False,False,False
+S740,740,jar → house,bridge,Toda,True,True,True,True,True,True,True,False,False,False
+S740,740,jar → house,bridge,Kodagu,True,True,True,True,True,True,True,False,False,False
+S740,740,jar → house,bridge,Kolami,False,True,False,False,False,False,False,False,False,False
+S740,740,jar → house,bridge,Naikri,False,False,False,False,False,False,False,False,False,False
+S740,740,jar → house,bridge,Naiki,False,False,False,False,False,False,False,False,False,False
+S740,740,jar → house,bridge,Parji,False,True,False,False,False,False,False,False,False,False
+S740,740,jar → house,bridge,Gadaba,False,True,False,False,False,False,False,False,False,False
+S740,740,jar → house,bridge,Gondi,False,True,False,False,False,False,False,False,False,False
+S740,740,jar → house,bridge,Konda,False,False,False,False,False,False,False,False,False,False
+S740,740,jar → house,bridge,Pengo,False,False,False,False,False,False,False,False,False,False
+S740,740,jar → house,bridge,Manda,False,False,False,False,False,False,False,False,False,False
+S740,740,jar → house,bridge,Kui,False,True,False,True,True,False,True,False,False,False
+S740,740,jar → house,bridge,Kuwi,True,False,True,False,False,False,False,False,False,False
+S740,740,jar → house,bridge,Kurukh,False,False,False,False,False,False,False,False,False,False
+S740,740,jar → house,bridge,Malto,False,False,False,False,False,False,False,False,False,False
+S740,740,jar → house,bridge,Brahui,False,False,False,False,False,False,False,False,False,False
+S700,700,bowl / hollow → measure,bridge,Tamil,True,True,True,True,True,True,True,True,True,True
+S700,700,bowl / hollow → measure,bridge,Malayalam,True,True,True,True,True,True,True,False,False,False
+S700,700,bowl / hollow → measure,bridge,Kannada,True,True,False,True,True,False,True,False,False,False
+S700,700,bowl / hollow → measure,bridge,Telugu,True,True,False,True,True,False,True,False,False,False
+S700,700,bowl / hollow → measure,bridge,Tulu,True,True,False,True,True,False,True,False,False,False
+S700,700,bowl / hollow → measure,bridge,Kota,True,True,False,True,True,False,True,False,False,False
+S700,700,bowl / hollow → measure,bridge,Toda,True,True,False,True,True,False,True,False,False,False
+S700,700,bowl / hollow → measure,bridge,Kodagu,False,True,False,True,True,False,True,False,False,False
+S700,700,bowl / hollow → measure,bridge,Kolami,False,False,False,False,False,False,False,False,False,False
+S700,700,bowl / hollow → measure,bridge,Naikri,False,False,False,False,False,False,False,False,False,False
+S700,700,bowl / hollow → measure,bridge,Naiki,False,False,False,False,False,False,False,False,False,False
+S700,700,bowl / hollow → measure,bridge,Parji,False,False,False,False,False,False,False,False,False,False
+S700,700,bowl / hollow → measure,bridge,Gadaba,True,True,False,False,False,False,False,False,False,False
+S700,700,bowl / hollow → measure,bridge,Gondi,False,False,False,False,False,False,False,False,False,False
+S700,700,bowl / hollow → measure,bridge,Konda,False,False,False,False,False,False,False,False,False,False
+S700,700,bowl / hollow → measure,bridge,Pengo,False,True,False,True,True,False,True,False,False,False
+S700,700,bowl / hollow → measure,bridge,Manda,False,True,False,True,True,False,True,False,False,False
+S700,700,bowl / hollow → measure,bridge,Kui,False,True,False,True,True,False,True,False,False,False
+S700,700,bowl / hollow → measure,bridge,Kuwi,False,True,False,True,True,False,True,False,False,False
+S700,700,bowl / hollow → measure,bridge,Kurukh,True,False,True,False,False,False,False,False,False,False
+S700,700,bowl / hollow → measure,bridge,Malto,False,False,False,False,False,False,False,False,False,False
+S700,700,bowl / hollow → measure,bridge,Brahui,False,False,False,False,False,False,False,False,False,False
+S400,400,comb → small / junior,bridge,Tamil,True,True,True,False,False,False,False,False,False,False
+S400,400,comb → small / junior,bridge,Malayalam,True,True,True,True,True,True,True,False,False,False
+S400,400,comb → small / junior,bridge,Kannada,True,True,True,True,True,True,True,False,False,False
+S400,400,comb → small / junior,bridge,Telugu,True,True,True,True,True,True,True,False,False,False
+S400,400,comb → small / junior,bridge,Tulu,False,True,False,True,True,False,True,False,False,False
+S400,400,comb → small / junior,bridge,Kota,False,True,False,False,False,False,False,False,False,False
+S400,400,comb → small / junior,bridge,Toda,False,False,False,False,False,False,False,False,False,False
+S400,400,comb → small / junior,bridge,Kodagu,False,True,False,True,True,False,True,False,False,False
+S400,400,comb → small / junior,bridge,Kolami,False,False,False,False,False,False,False,False,False,False
+S400,400,comb → small / junior,bridge,Naikri,False,False,False,False,False,False,False,False,False,False
+S400,400,comb → small / junior,bridge,Naiki,False,False,False,False,False,False,False,False,False,False
+S400,400,comb → small / junior,bridge,Parji,False,False,False,False,False,False,False,False,False,False
+S400,400,comb → small / junior,bridge,Gadaba,False,False,False,False,False,False,False,False,False,False
+S400,400,comb → small / junior,bridge,Gondi,False,True,False,False,False,False,False,False,False,False
+S400,400,comb → small / junior,bridge,Konda,False,False,False,False,False,False,False,False,False,False
+S400,400,comb → small / junior,bridge,Pengo,False,False,False,False,False,False,False,False,False,False
+S400,400,comb → small / junior,bridge,Manda,False,False,False,False,False,False,False,False,False,False
+S400,400,comb → small / junior,bridge,Kui,False,False,False,False,False,False,False,False,False,False
+S400,400,comb → small / junior,bridge,Kuwi,False,False,False,False,False,False,False,False,False,False
+S400,400,comb → small / junior,bridge,Kurukh,False,False,False,False,False,False,False,False,False,False
+S400,400,comb → small / junior,bridge,Malto,False,False,False,False,False,False,False,False,False,False
+S400,400,comb → small / junior,bridge,Brahui,False,False,False,False,False,False,False,False,False,False
+S220,220,fish → star,bridge,Tamil,True,True,True,True,True,True,True,True,True,True
+S220,220,fish → star,bridge,Malayalam,True,True,True,True,True,True,True,True,True,True
+S220,220,fish → star,bridge,Kannada,True,True,True,True,True,True,True,True,True,True
+S220,220,fish → star,bridge,Telugu,True,True,True,False,False,False,False,False,False,False
+S220,220,fish → star,bridge,Tulu,True,True,True,False,False,False,False,False,False,False
+S220,220,fish → star,bridge,Kota,True,True,True,True,True,True,True,True,True,True
+S220,220,fish → star,bridge,Toda,True,True,True,True,True,True,True,True,True,True
+S220,220,fish → star,bridge,Kodagu,True,True,True,False,False,False,False,False,False,False
+S220,220,fish → star,bridge,Kolami,False,False,False,False,False,False,False,False,False,False
+S220,220,fish → star,bridge,Naikri,False,False,False,False,False,False,False,False,False,False
+S220,220,fish → star,bridge,Naiki,False,False,False,False,False,False,False,False,False,False
+S220,220,fish → star,bridge,Parji,True,True,True,False,False,False,False,False,False,False
+S220,220,fish → star,bridge,Gadaba,False,True,False,False,False,False,False,False,False,False
+S220,220,fish → star,bridge,Gondi,False,True,False,True,True,False,True,False,False,False
+S220,220,fish → star,bridge,Konda,False,True,False,False,False,False,False,False,False,False
+S220,220,fish → star,bridge,Pengo,True,False,True,False,False,False,False,False,False,False
+S220,220,fish → star,bridge,Manda,True,False,True,False,False,False,False,False,False,False
+S220,220,fish → star,bridge,Kui,True,False,True,False,False,False,False,False,False,False
+S220,220,fish → star,bridge,Kuwi,True,True,False,False,False,False,False,False,False,False
+S220,220,fish → star,bridge,Kurukh,False,True,False,True,True,False,True,False,False,False
+S220,220,fish → star,bridge,Malto,True,True,True,True,True,True,True,False,False,False
+S220,220,fish → star,bridge,Brahui,False,False,False,False,False,False,False,False,False,False
+S520,520,spear → chief,bridge,Tamil,True,True,True,True,True,True,True,False,True,False
+S520,520,spear → chief,bridge,Malayalam,True,False,True,False,False,False,False,False,False,False
+S520,520,spear → chief,bridge,Kannada,False,False,False,False,False,False,False,False,False,False
+S520,520,spear → chief,bridge,Telugu,False,False,False,False,False,False,False,False,False,False
+S520,520,spear → chief,bridge,Tulu,False,False,False,False,False,False,False,False,False,False
+S520,520,spear → chief,bridge,Kota,False,False,False,False,False,False,False,False,False,False
+S520,520,spear → chief,bridge,Toda,False,False,False,False,False,False,False,False,False,False
+S520,520,spear → chief,bridge,Kodagu,False,False,False,False,False,False,False,False,False,False
+S520,520,spear → chief,bridge,Kolami,False,False,False,False,False,False,False,False,False,False
+S520,520,spear → chief,bridge,Naikri,False,False,False,False,False,False,False,False,False,False
+S520,520,spear → chief,bridge,Naiki,False,False,False,False,False,False,False,False,False,False
+S520,520,spear → chief,bridge,Parji,False,False,False,False,False,False,False,False,False,False
+S520,520,spear → chief,bridge,Gadaba,False,False,False,False,False,False,False,False,False,False
+S520,520,spear → chief,bridge,Gondi,False,False,False,False,False,False,False,False,False,False
+S520,520,spear → chief,bridge,Konda,False,False,False,False,False,False,False,False,False,False
+S520,520,spear → chief,bridge,Pengo,False,False,False,False,False,False,False,False,False,False
+S520,520,spear → chief,bridge,Manda,False,False,False,False,False,False,False,False,False,False
+S520,520,spear → chief,bridge,Kui,False,False,False,False,False,False,False,False,False,False
+S520,520,spear → chief,bridge,Kuwi,False,False,False,False,False,False,False,False,False,False
+S520,520,spear → chief,bridge,Kurukh,False,True,False,True,True,False,True,False,False,False
+S520,520,spear → chief,bridge,Malto,False,False,False,False,False,False,False,False,False,False
+S520,520,spear → chief,bridge,Brahui,False,False,False,False,False,False,False,False,False,False
+S390,390,tree → sew / weave,bridge,Tamil,True,True,True,True,True,True,True,True,True,True
+S390,390,tree → sew / weave,bridge,Malayalam,True,True,True,True,True,True,True,False,False,False
+S390,390,tree → sew / weave,bridge,Kannada,True,True,True,False,False,False,False,False,False,False
+S390,390,tree → sew / weave,bridge,Telugu,True,False,False,False,False,False,False,False,False,False
+S390,390,tree → sew / weave,bridge,Tulu,True,False,True,False,False,False,False,False,False,False
+S390,390,tree → sew / weave,bridge,Kota,False,False,False,False,False,False,False,False,False,False
+S390,390,tree → sew / weave,bridge,Toda,False,False,False,False,False,False,False,False,False,False
+S390,390,tree → sew / weave,bridge,Kodagu,False,False,False,False,False,False,False,False,False,False
+S390,390,tree → sew / weave,bridge,Kolami,False,False,False,False,False,False,False,False,False,False
+S390,390,tree → sew / weave,bridge,Naikri,False,False,False,False,False,False,False,False,False,False
+S390,390,tree → sew / weave,bridge,Naiki,False,False,False,False,False,False,False,False,False,False
+S390,390,tree → sew / weave,bridge,Parji,False,False,False,False,False,False,False,False,False,False
+S390,390,tree → sew / weave,bridge,Gadaba,False,False,False,False,False,False,False,False,False,False
+S390,390,tree → sew / weave,bridge,Gondi,False,False,False,False,False,False,False,False,False,False
+S390,390,tree → sew / weave,bridge,Konda,False,False,False,False,False,False,False,False,False,False
+S390,390,tree → sew / weave,bridge,Pengo,False,False,False,False,False,False,False,False,False,False
+S390,390,tree → sew / weave,bridge,Manda,False,False,False,False,False,False,False,False,False,False
+S390,390,tree → sew / weave,bridge,Kui,False,False,False,False,False,False,False,False,False,False
+S390,390,tree → sew / weave,bridge,Kuwi,False,True,False,True,True,False,True,False,False,False
+S390,390,tree → sew / weave,bridge,Kurukh,False,False,False,False,False,False,False,False,False,False
+S390,390,tree → sew / weave,bridge,Malto,False,False,False,False,False,False,False,False,False,False
+S390,390,tree → sew / weave,bridge,Brahui,False,False,False,False,False,False,False,False,False,False
+S861,861,eye / sight → weight / property,bridge,Tamil,True,True,True,True,True,True,True,False,True,False
+S861,861,eye / sight → weight / property,bridge,Malayalam,True,True,True,True,True,True,True,False,False,False
+S861,861,eye / sight → weight / property,bridge,Kannada,True,True,True,True,True,True,True,False,True,False
+S861,861,eye / sight → weight / property,bridge,Telugu,True,True,True,False,False,False,False,False,False,False
+S861,861,eye / sight → weight / property,bridge,Tulu,True,True,True,True,True,True,True,False,False,False
+S861,861,eye / sight → weight / property,bridge,Kota,True,False,True,False,False,False,False,False,False,False
+S861,861,eye / sight → weight / property,bridge,Toda,True,True,True,False,False,False,False,False,False,False
+S861,861,eye / sight → weight / property,bridge,Kodagu,True,False,True,False,False,False,False,False,False,False
+S861,861,eye / sight → weight / property,bridge,Kolami,True,False,True,False,False,False,False,False,False,False
+S861,861,eye / sight → weight / property,bridge,Naikri,True,False,True,False,False,False,False,False,False,False
+S861,861,eye / sight → weight / property,bridge,Naiki,True,False,True,False,False,False,False,False,False,False
+S861,861,eye / sight → weight / property,bridge,Parji,True,False,True,False,False,False,False,False,False,False
+S861,861,eye / sight → weight / property,bridge,Gadaba,True,False,True,False,False,False,False,False,False,False
+S861,861,eye / sight → weight / property,bridge,Gondi,True,False,True,False,False,False,False,False,False,False
+S861,861,eye / sight → weight / property,bridge,Konda,True,False,True,False,False,False,False,False,False,False
+S861,861,eye / sight → weight / property,bridge,Pengo,True,False,True,False,False,False,False,False,False,False
+S861,861,eye / sight → weight / property,bridge,Manda,True,False,True,False,False,False,False,False,False,False
+S861,861,eye / sight → weight / property,bridge,Kui,True,False,True,False,False,False,False,False,False,False
+S861,861,eye / sight → weight / property,bridge,Kuwi,True,False,True,False,False,False,False,False,False,False
+S861,861,eye / sight → weight / property,bridge,Kurukh,True,False,True,False,False,False,False,False,False,False
+S861,861,eye / sight → weight / property,bridge,Malto,True,False,True,False,False,False,False,False,False,False
+S861,861,eye / sight → weight / property,bridge,Brahui,True,False,True,False,False,False,False,False,False,False
+S820,820,wheel → quarter / leg,bridge,Tamil,True,True,True,True,True,True,True,True,True,True
+S820,820,wheel → quarter / leg,bridge,Malayalam,False,True,False,True,True,False,True,False,False,False
+S820,820,wheel → quarter / leg,bridge,Kannada,True,True,True,True,True,True,True,False,False,False
+S820,820,wheel → quarter / leg,bridge,Telugu,True,True,True,True,True,True,True,False,True,False
+S820,820,wheel → quarter / leg,bridge,Tulu,True,True,True,True,True,True,True,False,False,False
+S820,820,wheel → quarter / leg,bridge,Kota,False,True,False,True,True,False,True,False,False,False
+S820,820,wheel → quarter / leg,bridge,Toda,False,True,False,True,True,False,True,False,False,False
+S820,820,wheel → quarter / leg,bridge,Kodagu,False,True,False,True,True,False,True,False,False,False
+S820,820,wheel → quarter / leg,bridge,Kolami,False,True,False,True,True,False,True,False,False,False
+S820,820,wheel → quarter / leg,bridge,Naikri,False,False,False,False,False,False,False,False,False,False
+S820,820,wheel → quarter / leg,bridge,Naiki,False,False,False,False,False,False,False,False,False,False
+S820,820,wheel → quarter / leg,bridge,Parji,False,True,False,True,True,False,True,False,False,False
+S820,820,wheel → quarter / leg,bridge,Gadaba,False,True,False,True,True,False,True,False,False,False
+S820,820,wheel → quarter / leg,bridge,Gondi,False,True,False,True,True,False,True,False,False,False
+S820,820,wheel → quarter / leg,bridge,Konda,False,True,False,True,True,False,True,False,False,False
+S820,820,wheel → quarter / leg,bridge,Pengo,False,True,False,True,True,False,True,False,False,False
+S820,820,wheel → quarter / leg,bridge,Manda,False,True,False,True,True,False,True,False,False,False
+S820,820,wheel → quarter / leg,bridge,Kui,False,True,False,True,True,False,True,False,False,False
+S820,820,wheel → quarter / leg,bridge,Kuwi,False,True,False,True,True,False,True,False,False,False
+S820,820,wheel → quarter / leg,bridge,Kurukh,False,False,False,False,False,False,False,False,False,False
+S820,820,wheel → quarter / leg,bridge,Malto,False,False,False,False,False,False,False,False,False,False
+S820,820,wheel → quarter / leg,bridge,Brahui,False,True,False,False,False,False,False,False,False,False
+S320,320,step / ladder → ration / measure,bridge,Tamil,True,True,True,True,True,True,True,True,True,True
+S320,320,step / ladder → ration / measure,bridge,Malayalam,True,True,True,True,True,True,True,True,True,True
+S320,320,step / ladder → ration / measure,bridge,Kannada,True,True,False,True,True,False,True,False,False,False
+S320,320,step / ladder → ration / measure,bridge,Telugu,True,True,True,True,True,True,True,False,False,False
+S320,320,step / ladder → ration / measure,bridge,Tulu,False,True,False,True,True,False,True,False,False,False
+S320,320,step / ladder → ration / measure,bridge,Kota,True,True,True,True,True,True,True,False,False,False
+S320,320,step / ladder → ration / measure,bridge,Toda,False,True,False,False,False,False,False,False,False,False
+S320,320,step / ladder → ration / measure,bridge,Kodagu,False,False,False,False,False,False,False,False,False,False
+S320,320,step / ladder → ration / measure,bridge,Kolami,False,False,False,False,False,False,False,False,False,False
+S320,320,step / ladder → ration / measure,bridge,Naikri,False,False,False,False,False,False,False,False,False,False
+S320,320,step / ladder → ration / measure,bridge,Naiki,False,False,False,False,False,False,False,False,False,False
+S320,320,step / ladder → ration / measure,bridge,Parji,False,False,False,False,False,False,False,False,False,False
+S320,320,step / ladder → ration / measure,bridge,Gadaba,False,False,False,False,False,False,False,False,False,False
+S320,320,step / ladder → ration / measure,bridge,Gondi,False,False,False,False,False,False,False,False,False,False
+S320,320,step / ladder → ration / measure,bridge,Konda,False,False,False,False,False,False,False,False,False,False
+S320,320,step / ladder → ration / measure,bridge,Pengo,False,False,False,False,False,False,False,False,False,False
+S320,320,step / ladder → ration / measure,bridge,Manda,False,False,False,False,False,False,False,False,False,False
+S320,320,step / ladder → ration / measure,bridge,Kui,False,False,False,False,False,False,False,False,False,False
+S320,320,step / ladder → ration / measure,bridge,Kuwi,False,False,False,False,False,False,False,False,False,False
+S320,320,step / ladder → ration / measure,bridge,Kurukh,False,False,False,False,False,False,False,False,False,False
+S320,320,step / ladder → ration / measure,bridge,Malto,False,False,False,False,False,False,False,False,False,False
+S320,320,step / ladder → ration / measure,bridge,Brahui,False,False,False,False,False,False,False,False,False,False
+S590,590,basket / plait → bale / load,bridge,Tamil,True,True,True,True,True,True,True,False,True,False
+S590,590,basket / plait → bale / load,bridge,Malayalam,False,True,False,True,True,False,True,False,False,False
+S590,590,basket / plait → bale / load,bridge,Kannada,False,True,False,True,True,False,True,False,False,False
+S590,590,basket / plait → bale / load,bridge,Telugu,True,True,True,True,True,True,True,False,False,False
+S590,590,basket / plait → bale / load,bridge,Tulu,True,True,True,True,True,True,True,False,False,False
+S590,590,basket / plait → bale / load,bridge,Kota,False,True,False,True,True,False,True,False,False,False
+S590,590,basket / plait → bale / load,bridge,Toda,False,True,False,False,False,False,False,False,False,False
+S590,590,basket / plait → bale / load,bridge,Kodagu,False,False,False,False,False,False,False,False,False,False
+S590,590,basket / plait → bale / load,bridge,Kolami,False,False,False,False,False,False,False,False,False,False
+S590,590,basket / plait → bale / load,bridge,Naikri,False,False,False,False,False,False,False,False,False,False
+S590,590,basket / plait → bale / load,bridge,Naiki,False,False,False,False,False,False,False,False,False,False
+S590,590,basket / plait → bale / load,bridge,Parji,False,True,False,False,False,False,False,False,False,False
+S590,590,basket / plait → bale / load,bridge,Gadaba,False,False,False,False,False,False,False,False,False,False
+S590,590,basket / plait → bale / load,bridge,Gondi,False,True,False,True,True,False,True,False,False,False
+S590,590,basket / plait → bale / load,bridge,Konda,False,True,False,True,True,False,True,False,False,False
+S590,590,basket / plait → bale / load,bridge,Pengo,False,False,False,False,False,False,False,False,False,False
+S590,590,basket / plait → bale / load,bridge,Manda,False,False,False,False,False,False,False,False,False,False
+S590,590,basket / plait → bale / load,bridge,Kui,False,False,False,False,False,False,False,False,False,False
+S590,590,basket / plait → bale / load,bridge,Kuwi,False,True,False,True,True,False,True,False,False,False
+S590,590,basket / plait → bale / load,bridge,Kurukh,False,True,False,True,True,False,True,False,False,False
+S590,590,basket / plait → bale / load,bridge,Malto,False,False,False,False,False,False,False,False,False,False
+S590,590,basket / plait → bale / load,bridge,Brahui,False,False,False,False,False,False,False,False,False,False
+S615,615,loom frame → field plot,bridge,Tamil,True,True,True,True,True,True,True,True,True,True
+S615,615,loom frame → field plot,bridge,Malayalam,True,False,True,False,False,False,False,False,False,False
+S615,615,loom frame → field plot,bridge,Kannada,True,False,True,False,False,False,False,False,False,False
+S615,615,loom frame → field plot,bridge,Telugu,True,True,True,False,False,False,False,False,False,False
+S615,615,loom frame → field plot,bridge,Tulu,True,False,True,False,False,False,False,False,False,False
+S615,615,loom frame → field plot,bridge,Kota,False,False,False,False,False,False,False,False,False,False
+S615,615,loom frame → field plot,bridge,Toda,False,False,False,False,False,False,False,False,False,False
+S615,615,loom frame → field plot,bridge,Kodagu,False,False,False,False,False,False,False,False,False,False
+S615,615,loom frame → field plot,bridge,Kolami,False,False,False,False,False,False,False,False,False,False
+S615,615,loom frame → field plot,bridge,Naikri,False,False,False,False,False,False,False,False,False,False
+S615,615,loom frame → field plot,bridge,Naiki,False,False,False,False,False,False,False,False,False,False
+S615,615,loom frame → field plot,bridge,Parji,False,False,False,False,False,False,False,False,False,False
+S615,615,loom frame → field plot,bridge,Gadaba,False,False,False,False,False,False,False,False,False,False
+S615,615,loom frame → field plot,bridge,Gondi,False,False,False,False,False,False,False,False,False,False
+S615,615,loom frame → field plot,bridge,Konda,False,False,False,False,False,False,False,False,False,False
+S615,615,loom frame → field plot,bridge,Pengo,False,False,False,False,False,False,False,False,False,False
+S615,615,loom frame → field plot,bridge,Manda,False,False,False,False,False,False,False,False,False,False
+S615,615,loom frame → field plot,bridge,Kui,False,False,False,False,False,False,False,False,False,False
+S615,615,loom frame → field plot,bridge,Kuwi,False,False,False,False,False,False,False,False,False,False
+S615,615,loom frame → field plot,bridge,Kurukh,False,False,False,False,False,False,False,False,False,False
+S615,615,loom frame → field plot,bridge,Malto,False,False,False,False,False,False,False,False,False,False
+S615,615,loom frame → field plot,bridge,Brahui,False,False,False,False,False,False,False,False,False,False
+S705,705,threshing floor → vessel / ship,bridge,Tamil,True,True,True,True,True,True,True,False,True,False
+S705,705,threshing floor → vessel / ship,bridge,Malayalam,True,True,True,True,True,True,True,False,True,False
+S705,705,threshing floor → vessel / ship,bridge,Kannada,True,True,True,True,True,True,True,False,True,False
+S705,705,threshing floor → vessel / ship,bridge,Telugu,True,True,True,True,True,True,True,False,True,False
+S705,705,threshing floor → vessel / ship,bridge,Tulu,True,True,False,True,True,False,True,False,False,False
+S705,705,threshing floor → vessel / ship,bridge,Kota,True,True,True,False,False,False,False,False,False,False
+S705,705,threshing floor → vessel / ship,bridge,Toda,True,False,True,False,False,False,False,False,False,False
+S705,705,threshing floor → vessel / ship,bridge,Kodagu,True,True,True,False,False,False,False,False,False,False
+S705,705,threshing floor → vessel / ship,bridge,Kolami,True,False,True,False,False,False,False,False,False,False
+S705,705,threshing floor → vessel / ship,bridge,Naikri,True,False,True,False,False,False,False,False,False,False
+S705,705,threshing floor → vessel / ship,bridge,Naiki,True,False,True,False,False,False,False,False,False,False
+S705,705,threshing floor → vessel / ship,bridge,Parji,True,False,True,False,False,False,False,False,False,False
+S705,705,threshing floor → vessel / ship,bridge,Gadaba,True,False,True,False,False,False,False,False,False,False
+S705,705,threshing floor → vessel / ship,bridge,Gondi,True,False,True,False,False,False,False,False,False,False
+S705,705,threshing floor → vessel / ship,bridge,Konda,True,False,True,False,False,False,False,False,False,False
+S705,705,threshing floor → vessel / ship,bridge,Pengo,False,False,False,False,False,False,False,False,False,False
+S705,705,threshing floor → vessel / ship,bridge,Manda,True,False,True,False,False,False,False,False,False,False
+S705,705,threshing floor → vessel / ship,bridge,Kui,True,False,True,False,False,False,False,False,False,False
+S705,705,threshing floor → vessel / ship,bridge,Kuwi,True,False,True,False,False,False,False,False,False,False
+S705,705,threshing floor → vessel / ship,bridge,Kurukh,True,False,True,False,False,False,False,False,False,False
+S705,705,threshing floor → vessel / ship,bridge,Malto,True,False,True,False,False,False,False,False,False,False
+S705,705,threshing floor → vessel / ship,bridge,Brahui,False,True,False,False,False,False,False,False,False,False
+S176,176,sit / remain → tribute,bridge,Tamil,True,True,True,True,True,True,True,False,True,False
+S176,176,sit / remain → tribute,bridge,Malayalam,True,True,True,True,True,True,True,False,False,False
+S176,176,sit / remain → tribute,bridge,Kannada,True,False,True,False,False,False,False,False,False,False
+S176,176,sit / remain → tribute,bridge,Telugu,True,False,False,False,False,False,False,False,False,False
+S176,176,sit / remain → tribute,bridge,Tulu,True,False,False,False,False,False,False,False,False,False
+S176,176,sit / remain → tribute,bridge,Kota,True,False,False,False,False,False,False,False,False,False
+S176,176,sit / remain → tribute,bridge,Toda,True,False,True,False,False,False,False,False,False,False
+S176,176,sit / remain → tribute,bridge,Kodagu,True,False,False,False,False,False,False,False,False,False
+S176,176,sit / remain → tribute,bridge,Kolami,False,False,False,False,False,False,False,False,False,False
+S176,176,sit / remain → tribute,bridge,Naikri,False,False,False,False,False,False,False,False,False,False
+S176,176,sit / remain → tribute,bridge,Naiki,False,False,False,False,False,False,False,False,False,False
+S176,176,sit / remain → tribute,bridge,Parji,False,False,False,False,False,False,False,False,False,False
+S176,176,sit / remain → tribute,bridge,Gadaba,False,False,False,False,False,False,False,False,False,False
+S176,176,sit / remain → tribute,bridge,Gondi,False,False,False,False,False,False,False,False,False,False
+S176,176,sit / remain → tribute,bridge,Konda,False,False,False,False,False,False,False,False,False,False
+S176,176,sit / remain → tribute,bridge,Pengo,False,False,False,False,False,False,False,False,False,False
+S176,176,sit / remain → tribute,bridge,Manda,False,False,False,False,False,False,False,False,False,False
+S176,176,sit / remain → tribute,bridge,Kui,True,False,False,False,False,False,False,False,False,False
+S176,176,sit / remain → tribute,bridge,Kuwi,True,True,True,False,False,False,False,False,False,False
+S176,176,sit / remain → tribute,bridge,Kurukh,False,True,False,False,False,False,False,False,False,False
+S176,176,sit / remain → tribute,bridge,Malto,False,True,False,False,False,False,False,False,False,False
+S176,176,sit / remain → tribute,bridge,Brahui,False,False,False,False,False,False,False,False,False,False
+S090,090,man → manager / ruler,bridge,Tamil,True,True,True,True,True,True,True,True,True,True
+S090,090,man → manager / ruler,bridge,Malayalam,True,True,True,True,True,True,True,False,False,False
+S090,090,man → manager / ruler,bridge,Kannada,True,True,True,True,True,True,True,True,True,True
+S090,090,man → manager / ruler,bridge,Telugu,False,True,False,True,True,False,True,False,False,False
+S090,090,man → manager / ruler,bridge,Tulu,True,True,True,True,True,True,True,False,False,False
+S090,090,man → manager / ruler,bridge,Kota,True,True,True,True,True,True,True,False,True,False
+S090,090,man → manager / ruler,bridge,Toda,True,True,True,True,True,True,True,True,True,True
+S090,090,man → manager / ruler,bridge,Kodagu,True,True,True,True,True,True,True,False,True,False
+S090,090,man → manager / ruler,bridge,Kolami,False,False,False,False,False,False,False,False,False,False
+S090,090,man → manager / ruler,bridge,Naikri,False,False,False,False,False,False,False,False,False,False
+S090,090,man → manager / ruler,bridge,Naiki,False,False,False,False,False,False,False,False,False,False
+S090,090,man → manager / ruler,bridge,Parji,False,False,False,False,False,False,False,False,False,False
+S090,090,man → manager / ruler,bridge,Gadaba,False,False,False,False,False,False,False,False,False,False
+S090,090,man → manager / ruler,bridge,Gondi,False,False,False,False,False,False,False,False,False,False
+S090,090,man → manager / ruler,bridge,Konda,False,False,False,False,False,False,False,False,False,False
+S090,090,man → manager / ruler,bridge,Pengo,False,False,False,False,False,False,False,False,False,False
+S090,090,man → manager / ruler,bridge,Manda,False,False,False,False,False,False,False,False,False,False
+S090,090,man → manager / ruler,bridge,Kui,False,False,False,False,False,False,False,False,False,False
+S090,090,man → manager / ruler,bridge,Kuwi,False,False,False,False,False,False,False,False,False,False
+S090,090,man → manager / ruler,bridge,Kurukh,True,False,True,False,False,False,False,False,False,False
+S090,090,man → manager / ruler,bridge,Malto,True,False,False,False,False,False,False,False,False,False
+S090,090,man → manager / ruler,bridge,Brahui,False,False,False,False,False,False,False,False,False,False
+S233,233,split → dawn / light,bridge,Tamil,True,True,True,True,True,True,True,True,True,True
+S233,233,split → dawn / light,bridge,Malayalam,True,True,True,False,False,False,False,False,False,False
+S233,233,split → dawn / light,bridge,Kannada,True,False,True,False,False,False,False,False,False,False
+S233,233,split → dawn / light,bridge,Telugu,True,True,True,False,False,False,False,False,False,False
+S233,233,split → dawn / light,bridge,Tulu,True,False,False,False,False,False,False,False,False,False
+S233,233,split → dawn / light,bridge,Kota,True,True,False,True,True,False,True,False,False,False
+S233,233,split → dawn / light,bridge,Toda,False,True,False,True,True,False,True,False,False,False
+S233,233,split → dawn / light,bridge,Kodagu,True,False,False,False,False,False,False,False,False,False
+S233,233,split → dawn / light,bridge,Kolami,False,False,False,False,False,False,False,False,False,False
+S233,233,split → dawn / light,bridge,Naikri,False,False,False,False,False,False,False,False,False,False
+S233,233,split → dawn / light,bridge,Naiki,False,False,False,False,False,False,False,False,False,False
+S233,233,split → dawn / light,bridge,Parji,False,False,False,False,False,False,False,False,False,False
+S233,233,split → dawn / light,bridge,Gadaba,False,False,False,False,False,False,False,False,False,False
+S233,233,split → dawn / light,bridge,Gondi,False,False,False,False,False,False,False,False,False,False
+S233,233,split → dawn / light,bridge,Konda,False,False,False,False,False,False,False,False,False,False
+S233,233,split → dawn / light,bridge,Pengo,False,False,False,False,False,False,False,False,False,False
+S233,233,split → dawn / light,bridge,Manda,True,False,True,False,False,False,False,False,False,False
+S233,233,split → dawn / light,bridge,Kui,False,False,False,False,False,False,False,False,False,False
+S233,233,split → dawn / light,bridge,Kuwi,False,False,False,False,False,False,False,False,False,False
+S233,233,split → dawn / light,bridge,Kurukh,False,False,False,False,False,False,False,False,False,False
+S233,233,split → dawn / light,bridge,Malto,False,True,False,False,False,False,False,False,False,False
+S233,233,split → dawn / light,bridge,Brahui,False,False,False,False,False,False,False,False,False,False
+S415,415,fork / branch → seize,bridge,Tamil,True,True,True,True,True,True,True,True,True,True
+S415,415,fork / branch → seize,bridge,Malayalam,True,True,True,False,False,False,False,False,False,False
+S415,415,fork / branch → seize,bridge,Kannada,True,True,True,True,True,True,True,False,True,False
+S415,415,fork / branch → seize,bridge,Telugu,True,True,False,True,True,False,True,False,False,False
+S415,415,fork / branch → seize,bridge,Tulu,True,False,True,False,False,False,False,False,False,False
+S415,415,fork / branch → seize,bridge,Kota,True,False,True,False,False,False,False,False,False,False
+S415,415,fork / branch → seize,bridge,Toda,True,False,True,False,False,False,False,False,False,False
+S415,415,fork / branch → seize,bridge,Kodagu,False,False,False,False,False,False,False,False,False,False
+S415,415,fork / branch → seize,bridge,Kolami,False,False,False,False,False,False,False,False,False,False
+S415,415,fork / branch → seize,bridge,Naikri,False,False,False,False,False,False,False,False,False,False
+S415,415,fork / branch → seize,bridge,Naiki,False,False,False,False,False,False,False,False,False,False
+S415,415,fork / branch → seize,bridge,Parji,False,False,False,False,False,False,False,False,False,False
+S415,415,fork / branch → seize,bridge,Gadaba,False,False,False,False,False,False,False,False,False,False
+S415,415,fork / branch → seize,bridge,Gondi,True,False,False,False,False,False,False,False,False,False
+S415,415,fork / branch → seize,bridge,Konda,False,False,False,False,False,False,False,False,False,False
+S415,415,fork / branch → seize,bridge,Pengo,False,False,False,False,False,False,False,False,False,False
+S415,415,fork / branch → seize,bridge,Manda,False,False,False,False,False,False,False,False,False,False
+S415,415,fork / branch → seize,bridge,Kui,False,False,False,False,False,False,False,False,False,False
+S415,415,fork / branch → seize,bridge,Kuwi,False,False,False,False,False,False,False,False,False,False
+S415,415,fork / branch → seize,bridge,Kurukh,False,False,False,False,False,False,False,False,False,False
+S415,415,fork / branch → seize,bridge,Malto,True,False,False,False,False,False,False,False,False,False
+S415,415,fork / branch → seize,bridge,Brahui,False,False,False,False,False,False,False,False,False,False
+S920,920,moon ↔ month,polysemy,Tamil,True,True,True,True,True,True,True,True,True,True
+S920,920,moon ↔ month,polysemy,Malayalam,True,True,True,True,True,True,True,False,True,False
+S920,920,moon ↔ month,polysemy,Kannada,True,True,True,True,True,True,True,True,True,True
+S920,920,moon ↔ month,polysemy,Telugu,False,False,False,False,False,False,False,False,False,False
+S920,920,moon ↔ month,polysemy,Tulu,True,True,True,True,True,True,True,True,True,True
+S920,920,moon ↔ month,polysemy,Kota,True,True,True,True,True,True,True,False,True,False
+S920,920,moon ↔ month,polysemy,Toda,True,True,True,True,True,True,True,False,False,False
+S920,920,moon ↔ month,polysemy,Kodagu,True,True,False,True,True,False,True,False,False,False
+S920,920,moon ↔ month,polysemy,Kolami,False,False,False,False,False,False,False,False,False,False
+S920,920,moon ↔ month,polysemy,Naikri,False,False,False,False,False,False,False,False,False,False
+S920,920,moon ↔ month,polysemy,Naiki,False,False,False,False,False,False,False,False,False,False
+S920,920,moon ↔ month,polysemy,Parji,False,False,False,False,False,False,False,False,False,False
+S920,920,moon ↔ month,polysemy,Gadaba,False,False,False,False,False,False,False,False,False,False
+S920,920,moon ↔ month,polysemy,Gondi,False,False,False,False,False,False,False,False,False,False
+S920,920,moon ↔ month,polysemy,Konda,False,False,False,False,False,False,False,False,False,False
+S920,920,moon ↔ month,polysemy,Pengo,False,False,False,False,False,False,False,False,False,False
+S920,920,moon ↔ month,polysemy,Manda,False,False,False,False,False,False,False,False,False,False
+S920,920,moon ↔ month,polysemy,Kui,True,True,True,False,False,False,False,False,False,False
+S920,920,moon ↔ month,polysemy,Kuwi,False,False,False,False,False,False,False,False,False,False
+S920,920,moon ↔ month,polysemy,Kurukh,False,False,False,False,False,False,False,False,False,False
+S920,920,moon ↔ month,polysemy,Malto,False,False,False,False,False,False,False,False,False,False
+S920,920,moon ↔ month,polysemy,Brahui,False,False,False,False,False,False,False,False,False,False
+S407,407,branch → cloth,bridge,Tamil,True,True,True,True,True,True,True,False,True,False
+S407,407,branch → cloth,bridge,Malayalam,False,True,False,True,True,False,True,False,False,False
+S407,407,branch → cloth,bridge,Kannada,True,False,True,False,False,False,False,False,False,False
+S407,407,branch → cloth,bridge,Telugu,True,False,True,False,False,False,False,False,False,False
+S407,407,branch → cloth,bridge,Tulu,True,False,False,False,False,False,False,False,False,False
+S407,407,branch → cloth,bridge,Kota,True,False,False,False,False,False,False,False,False,False
+S407,407,branch → cloth,bridge,Toda,True,False,True,False,False,False,False,False,False,False
+S407,407,branch → cloth,bridge,Kodagu,False,False,False,False,False,False,False,False,False,False
+S407,407,branch → cloth,bridge,Kolami,False,False,False,False,False,False,False,False,False,False
+S407,407,branch → cloth,bridge,Naikri,False,False,False,False,False,False,False,False,False,False
+S407,407,branch → cloth,bridge,Naiki,False,False,False,False,False,False,False,False,False,False
+S407,407,branch → cloth,bridge,Parji,True,False,False,False,False,False,False,False,False,False
+S407,407,branch → cloth,bridge,Gadaba,True,False,False,False,False,False,False,False,False,False
+S407,407,branch → cloth,bridge,Gondi,True,False,True,False,False,False,False,False,False,False
+S407,407,branch → cloth,bridge,Konda,False,False,False,False,False,False,False,False,False,False
+S407,407,branch → cloth,bridge,Pengo,False,False,False,False,False,False,False,False,False,False
+S407,407,branch → cloth,bridge,Manda,False,False,False,False,False,False,False,False,False,False
+S407,407,branch → cloth,bridge,Kui,True,False,False,False,False,False,False,False,False,False
+S407,407,branch → cloth,bridge,Kuwi,False,True,False,False,False,False,False,False,False,False
+S407,407,branch → cloth,bridge,Kurukh,False,False,False,False,False,False,False,False,False,False
+S407,407,branch → cloth,bridge,Malto,False,False,False,False,False,False,False,False,False,False
+S407,407,branch → cloth,bridge,Brahui,False,False,False,False,False,False,False,False,False,False
+S806,806,stalk → millet,bridge,Tamil,True,True,True,True,True,True,True,False,True,False
+S806,806,stalk → millet,bridge,Malayalam,True,True,True,True,True,True,True,False,True,False
+S806,806,stalk → millet,bridge,Kannada,True,True,True,False,False,False,False,False,False,False
+S806,806,stalk → millet,bridge,Telugu,True,True,True,False,False,False,False,False,False,False
+S806,806,stalk → millet,bridge,Tulu,False,False,False,False,False,False,False,False,False,False
+S806,806,stalk → millet,bridge,Kota,True,False,False,False,False,False,False,False,False,False
+S806,806,stalk → millet,bridge,Toda,True,False,True,False,False,False,False,False,False,False
+S806,806,stalk → millet,bridge,Kodagu,False,False,False,False,False,False,False,False,False,False
+S806,806,stalk → millet,bridge,Kolami,False,False,False,False,False,False,False,False,False,False
+S806,806,stalk → millet,bridge,Naikri,False,False,False,False,False,False,False,False,False,False
+S806,806,stalk → millet,bridge,Naiki,False,False,False,False,False,False,False,False,False,False
+S806,806,stalk → millet,bridge,Parji,False,False,False,False,False,False,False,False,False,False
+S806,806,stalk → millet,bridge,Gadaba,True,False,False,False,False,False,False,False,False,False
+S806,806,stalk → millet,bridge,Gondi,True,False,True,False,False,False,False,False,False,False
+S806,806,stalk → millet,bridge,Konda,False,False,False,False,False,False,False,False,False,False
+S806,806,stalk → millet,bridge,Pengo,False,False,False,False,False,False,False,False,False,False
+S806,806,stalk → millet,bridge,Manda,False,False,False,False,False,False,False,False,False,False
+S806,806,stalk → millet,bridge,Kui,False,False,False,False,False,False,False,False,False,False
+S806,806,stalk → millet,bridge,Kuwi,True,False,False,False,False,False,False,False,False,False
+S806,806,stalk → millet,bridge,Kurukh,False,False,False,False,False,False,False,False,False,False
+S806,806,stalk → millet,bridge,Malto,False,False,False,False,False,False,False,False,False,False
+S806,806,stalk → millet,bridge,Brahui,False,False,False,False,False,False,False,False,False,False
+S798,798,shell → bind / build house,bridge,Tamil,True,False,True,False,False,False,False,False,False,False
+S798,798,shell → bind / build house,bridge,Malayalam,True,False,True,False,False,False,False,False,False,False
+S798,798,shell → bind / build house,bridge,Kannada,True,False,False,False,False,False,False,False,False,False
+S798,798,shell → bind / build house,bridge,Telugu,False,False,False,False,False,False,False,False,False,False
+S798,798,shell → bind / build house,bridge,Tulu,False,False,False,False,False,False,False,False,False,False
+S798,798,shell → bind / build house,bridge,Kota,False,False,False,False,False,False,False,False,False,False
+S798,798,shell → bind / build house,bridge,Toda,False,False,False,False,False,False,False,False,False,False
+S798,798,shell → bind / build house,bridge,Kodagu,False,False,False,False,False,False,False,False,False,False
+S798,798,shell → bind / build house,bridge,Kolami,False,False,False,False,False,False,False,False,False,False
+S798,798,shell → bind / build house,bridge,Naikri,False,False,False,False,False,False,False,False,False,False
+S798,798,shell → bind / build house,bridge,Naiki,False,False,False,False,False,False,False,False,False,False
+S798,798,shell → bind / build house,bridge,Parji,False,False,False,False,False,False,False,False,False,False
+S798,798,shell → bind / build house,bridge,Gadaba,False,False,False,False,False,False,False,False,False,False
+S798,798,shell → bind / build house,bridge,Gondi,True,True,False,True,True,False,True,False,False,False
+S798,798,shell → bind / build house,bridge,Konda,False,True,False,True,True,False,True,False,False,False
+S798,798,shell → bind / build house,bridge,Pengo,False,False,False,False,False,False,False,False,False,False
+S798,798,shell → bind / build house,bridge,Manda,False,False,False,False,False,False,False,False,False,False
+S798,798,shell → bind / build house,bridge,Kui,False,True,False,True,True,False,True,False,False,False
+S798,798,shell → bind / build house,bridge,Kuwi,False,True,False,True,True,False,True,False,False,False
+S798,798,shell → bind / build house,bridge,Kurukh,False,False,False,False,False,False,False,False,False,False
+S798,798,shell → bind / build house,bridge,Malto,False,False,False,False,False,False,False,False,False,False
+S798,798,shell → bind / build house,bridge,Brahui,False,False,False,False,False,False,False,False,False,False
+S255,255,crocodile → first / principal,bridge,Tamil,True,True,True,True,True,True,True,False,True,False
+S255,255,crocodile → first / principal,bridge,Malayalam,True,True,True,True,True,True,True,False,True,False
+S255,255,crocodile → first / principal,bridge,Kannada,True,True,True,True,True,True,True,False,False,False
+S255,255,crocodile → first / principal,bridge,Telugu,True,True,True,True,True,True,True,False,False,False
+S255,255,crocodile → first / principal,bridge,Tulu,True,True,True,True,True,True,True,False,False,False
+S255,255,crocodile → first / principal,bridge,Kota,True,False,True,False,False,False,False,False,False,False
+S255,255,crocodile → first / principal,bridge,Toda,False,True,False,False,False,False,False,False,False,False
+S255,255,crocodile → first / principal,bridge,Kodagu,True,True,True,False,False,False,False,False,False,False
+S255,255,crocodile → first / principal,bridge,Kolami,False,False,False,False,False,False,False,False,False,False
+S255,255,crocodile → first / principal,bridge,Naikri,False,False,False,False,False,False,False,False,False,False
+S255,255,crocodile → first / principal,bridge,Naiki,False,False,False,False,False,False,False,False,False,False
+S255,255,crocodile → first / principal,bridge,Parji,True,False,True,False,False,False,False,False,False,False
+S255,255,crocodile → first / principal,bridge,Gadaba,False,True,False,True,True,False,True,False,False,False
+S255,255,crocodile → first / principal,bridge,Gondi,False,True,False,True,True,False,True,False,False,False
+S255,255,crocodile → first / principal,bridge,Konda,False,True,False,True,True,False,True,False,False,False
+S255,255,crocodile → first / principal,bridge,Pengo,False,False,False,False,False,False,False,False,False,False
+S255,255,crocodile → first / principal,bridge,Manda,False,False,False,False,False,False,False,False,False,False
+S255,255,crocodile → first / principal,bridge,Kui,False,True,False,False,False,False,False,False,False,False
+S255,255,crocodile → first / principal,bridge,Kuwi,False,False,False,False,False,False,False,False,False,False
+S255,255,crocodile → first / principal,bridge,Kurukh,False,False,False,False,False,False,False,False,False,False
+S255,255,crocodile → first / principal,bridge,Malto,False,False,False,False,False,False,False,False,False,False
+S255,255,crocodile → first / principal,bridge,Brahui,False,False,False,False,False,False,False,False,False,False
+S840,840,pair ↔ join,polysemy,Tamil,True,True,True,True,True,True,True,True,True,True
+S840,840,pair ↔ join,polysemy,Malayalam,True,True,True,True,True,True,True,True,True,True
+S840,840,pair ↔ join,polysemy,Kannada,True,True,True,False,False,False,False,False,False,False
+S840,840,pair ↔ join,polysemy,Telugu,True,True,False,True,True,False,True,False,False,False
+S840,840,pair ↔ join,polysemy,Tulu,True,True,True,False,False,False,False,False,False,False
+S840,840,pair ↔ join,polysemy,Kota,False,False,False,False,False,False,False,False,False,False
+S840,840,pair ↔ join,polysemy,Toda,False,False,False,False,False,False,False,False,False,False
+S840,840,pair ↔ join,polysemy,Kodagu,True,True,False,False,False,False,False,False,False,False
+S840,840,pair ↔ join,polysemy,Kolami,False,False,False,False,False,False,False,False,False,False
+S840,840,pair ↔ join,polysemy,Naikri,False,False,False,False,False,False,False,False,False,False
+S840,840,pair ↔ join,polysemy,Naiki,False,False,False,False,False,False,False,False,False,False
+S840,840,pair ↔ join,polysemy,Parji,False,False,False,False,False,False,False,False,False,False
+S840,840,pair ↔ join,polysemy,Gadaba,False,False,False,False,False,False,False,False,False,False
+S840,840,pair ↔ join,polysemy,Gondi,False,False,False,False,False,False,False,False,False,False
+S840,840,pair ↔ join,polysemy,Konda,False,False,False,False,False,False,False,False,False,False
+S840,840,pair ↔ join,polysemy,Pengo,False,False,False,False,False,False,False,False,False,False
+S840,840,pair ↔ join,polysemy,Manda,False,False,False,False,False,False,False,False,False,False
+S840,840,pair ↔ join,polysemy,Kui,False,False,False,False,False,False,False,False,False,False
+S840,840,pair ↔ join,polysemy,Kuwi,False,False,False,False,False,False,False,False,False,False
+S840,840,pair ↔ join,polysemy,Kurukh,False,False,False,False,False,False,False,False,False,False
+S840,840,pair ↔ join,polysemy,Malto,False,False,False,False,False,False,False,False,False,False
+S840,840,pair ↔ join,polysemy,Brahui,False,False,False,False,False,False,False,False,False,False
+S760,760,sprout ↔ young / child,polysemy,Tamil,True,True,True,True,True,True,True,True,True,True
+S760,760,sprout ↔ young / child,polysemy,Malayalam,True,True,True,False,False,False,False,False,False,False
+S760,760,sprout ↔ young / child,polysemy,Kannada,True,True,True,False,False,False,False,False,False,False
+S760,760,sprout ↔ young / child,polysemy,Telugu,True,True,False,True,True,False,True,False,False,False
+S760,760,sprout ↔ young / child,polysemy,Tulu,True,True,True,False,False,False,False,False,False,False
+S760,760,sprout ↔ young / child,polysemy,Kota,True,True,False,False,False,False,False,False,False,False
+S760,760,sprout ↔ young / child,polysemy,Toda,True,True,False,False,False,False,False,False,False,False
+S760,760,sprout ↔ young / child,polysemy,Kodagu,False,False,False,False,False,False,False,False,False,False
+S760,760,sprout ↔ young / child,polysemy,Kolami,True,True,False,False,False,False,False,False,False,False
+S760,760,sprout ↔ young / child,polysemy,Naikri,True,True,False,False,False,False,False,False,False,False
+S760,760,sprout ↔ young / child,polysemy,Naiki,True,True,False,False,False,False,False,False,False,False
+S760,760,sprout ↔ young / child,polysemy,Parji,True,True,True,False,False,False,False,False,False,False
+S760,760,sprout ↔ young / child,polysemy,Gadaba,True,True,True,False,False,False,False,False,False,False
+S760,760,sprout ↔ young / child,polysemy,Gondi,True,True,True,False,False,False,False,False,False,False
+S760,760,sprout ↔ young / child,polysemy,Konda,True,True,False,True,True,False,True,False,False,False
+S760,760,sprout ↔ young / child,polysemy,Pengo,True,True,False,True,True,False,True,False,False,False
+S760,760,sprout ↔ young / child,polysemy,Manda,True,True,False,False,False,False,False,False,False,False
+S760,760,sprout ↔ young / child,polysemy,Kui,True,True,True,False,False,False,False,False,False,False
+S760,760,sprout ↔ young / child,polysemy,Kuwi,True,True,False,False,False,False,False,False,False,False
+S760,760,sprout ↔ young / child,polysemy,Kurukh,True,True,True,False,False,False,False,False,False,False
+S760,760,sprout ↔ young / child,polysemy,Malto,True,True,True,True,True,True,True,False,False,False
+S760,760,sprout ↔ young / child,polysemy,Brahui,True,True,True,False,False,False,False,False,False,False
+S368,368,flag → give / grant,bridge,Tamil,True,True,True,True,True,True,True,False,True,False
+S368,368,flag → give / grant,bridge,Malayalam,True,True,True,True,True,True,True,False,False,False
+S368,368,flag → give / grant,bridge,Kannada,True,True,True,True,True,True,True,False,True,False
+S368,368,flag → give / grant,bridge,Telugu,True,False,False,False,False,False,False,False,False,False
+S368,368,flag → give / grant,bridge,Tulu,True,True,True,True,True,True,True,False,False,False
+S368,368,flag → give / grant,bridge,Kota,True,True,True,True,True,True,True,False,True,False
+S368,368,flag → give / grant,bridge,Toda,True,True,False,True,True,False,True,False,False,False
+S368,368,flag → give / grant,bridge,Kodagu,True,True,True,True,True,True,True,False,True,False
+S368,368,flag → give / grant,bridge,Kolami,True,False,False,False,False,False,False,False,False,False
+S368,368,flag → give / grant,bridge,Naikri,False,False,False,False,False,False,False,False,False,False
+S368,368,flag → give / grant,bridge,Naiki,False,False,False,False,False,False,False,False,False,False
+S368,368,flag → give / grant,bridge,Parji,True,False,False,False,False,False,False,False,False,False
+S368,368,flag → give / grant,bridge,Gadaba,False,False,False,False,False,False,False,False,False,False
+S368,368,flag → give / grant,bridge,Gondi,True,False,False,False,False,False,False,False,False,False
+S368,368,flag → give / grant,bridge,Konda,False,False,False,False,False,False,False,False,False,False
+S368,368,flag → give / grant,bridge,Pengo,False,False,False,False,False,False,False,False,False,False
+S368,368,flag → give / grant,bridge,Manda,False,False,False,False,False,False,False,False,False,False
+S368,368,flag → give / grant,bridge,Kui,False,False,False,False,False,False,False,False,False,False
+S368,368,flag → give / grant,bridge,Kuwi,False,False,False,False,False,False,False,False,False,False
+S368,368,flag → give / grant,bridge,Kurukh,False,True,False,False,False,False,False,False,False,False
+S368,368,flag → give / grant,bridge,Malto,True,False,False,False,False,False,False,False,False,False
+S368,368,flag → give / grant,bridge,Brahui,False,False,False,False,False,False,False,False,False,False
+S690,690,tie ↔ bundle / building,polysemy,Tamil,True,True,True,True,True,True,True,True,True,True
+S690,690,tie ↔ bundle / building,polysemy,Malayalam,True,True,True,True,True,True,True,True,True,True
+S690,690,tie ↔ bundle / building,polysemy,Kannada,True,True,True,True,True,True,True,True,True,True
+S690,690,tie ↔ bundle / building,polysemy,Telugu,True,True,True,True,True,True,True,False,True,False
+S690,690,tie ↔ bundle / building,polysemy,Tulu,True,True,True,True,True,True,True,True,True,True
+S690,690,tie ↔ bundle / building,polysemy,Kota,True,True,True,False,False,False,False,False,False,False
+S690,690,tie ↔ bundle / building,polysemy,Toda,True,True,True,True,True,True,True,True,True,True
+S690,690,tie ↔ bundle / building,polysemy,Kodagu,True,True,True,True,True,True,True,False,True,False
+S690,690,tie ↔ bundle / building,polysemy,Kolami,True,True,True,False,False,False,False,False,False,False
+S690,690,tie ↔ bundle / building,polysemy,Naikri,True,True,True,False,False,False,False,False,False,False
+S690,690,tie ↔ bundle / building,polysemy,Naiki,True,True,True,False,False,False,False,False,False,False
+S690,690,tie ↔ bundle / building,polysemy,Parji,True,True,True,False,False,False,False,False,False,False
+S690,690,tie ↔ bundle / building,polysemy,Gadaba,True,True,True,False,False,False,False,False,False,False
+S690,690,tie ↔ bundle / building,polysemy,Gondi,True,True,False,False,False,False,False,False,False,False
+S690,690,tie ↔ bundle / building,polysemy,Konda,True,True,False,True,True,False,True,False,False,False
+S690,690,tie ↔ bundle / building,polysemy,Pengo,True,True,False,False,False,False,False,False,False,False
+S690,690,tie ↔ bundle / building,polysemy,Manda,False,False,False,False,False,False,False,False,False,False
+S690,690,tie ↔ bundle / building,polysemy,Kui,True,True,True,False,False,False,False,False,False,False
+S690,690,tie ↔ bundle / building,polysemy,Kuwi,True,True,True,False,False,False,False,False,False,False
+S690,690,tie ↔ bundle / building,polysemy,Kurukh,False,False,False,False,False,False,False,False,False,False
+S690,690,tie ↔ bundle / building,polysemy,Malto,True,True,False,False,False,False,False,False,False,False
+S690,690,tie ↔ bundle / building,polysemy,Brahui,False,False,False,False,False,False,False,False,False,False
+S550,550,waist / middle → district,bridge,Tamil,True,True,True,True,True,True,True,False,True,False
+S550,550,waist / middle → district,bridge,Malayalam,True,True,True,True,True,True,True,False,True,False
+S550,550,waist / middle → district,bridge,Kannada,True,True,True,True,True,True,True,False,True,False
+S550,550,waist / middle → district,bridge,Telugu,True,True,True,True,True,True,True,False,True,False
+S550,550,waist / middle → district,bridge,Tulu,True,True,True,True,True,True,True,False,True,False
+S550,550,waist / middle → district,bridge,Kota,True,True,True,True,True,True,True,False,False,False
+S550,550,waist / middle → district,bridge,Toda,True,True,True,False,False,False,False,False,False,False
+S550,550,waist / middle → district,bridge,Kodagu,True,True,True,True,True,True,True,False,False,False
+S550,550,waist / middle → district,bridge,Kolami,True,False,True,False,False,False,False,False,False,False
+S550,550,waist / middle → district,bridge,Naikri,True,False,True,False,False,False,False,False,False,False
+S550,550,waist / middle → district,bridge,Naiki,True,False,True,False,False,False,False,False,False,False
+S550,550,waist / middle → district,bridge,Parji,True,False,True,False,False,False,False,False,False,False
+S550,550,waist / middle → district,bridge,Gadaba,True,False,True,False,False,False,False,False,False,False
+S550,550,waist / middle → district,bridge,Gondi,True,True,True,True,True,True,True,False,False,False
+S550,550,waist / middle → district,bridge,Konda,True,True,True,False,False,False,False,False,False,False
+S550,550,waist / middle → district,bridge,Pengo,False,True,False,False,False,False,False,False,False,False
+S550,550,waist / middle → district,bridge,Manda,False,True,False,False,False,False,False,False,False,False
+S550,550,waist / middle → district,bridge,Kui,False,True,False,True,True,False,True,False,False,False
+S550,550,waist / middle → district,bridge,Kuwi,False,True,False,True,True,False,True,False,False,False
+S550,550,waist / middle → district,bridge,Kurukh,False,False,False,False,False,False,False,False,False,False
+S550,550,waist / middle → district,bridge,Malto,False,False,False,False,False,False,False,False,False,False
+S550,550,waist / middle → district,bridge,Brahui,False,False,False,False,False,False,False,False,False,False
+S892,892,bow → sell,bridge,Tamil,True,True,True,True,True,True,True,True,True,True
+S892,892,bow → sell,bridge,Malayalam,True,True,True,True,True,True,True,False,True,False
+S892,892,bow → sell,bridge,Kannada,True,True,True,True,True,True,True,True,True,True
+S892,892,bow → sell,bridge,Telugu,True,True,True,True,True,True,True,False,True,False
+S892,892,bow → sell,bridge,Tulu,True,True,True,True,True,True,True,False,False,False
+S892,892,bow → sell,bridge,Kota,True,True,True,True,True,True,True,False,False,False
+S892,892,bow → sell,bridge,Toda,True,True,True,True,True,True,True,False,False,False
+S892,892,bow → sell,bridge,Kodagu,True,True,True,False,False,False,False,False,False,False
+S892,892,bow → sell,bridge,Kolami,True,False,True,False,False,False,False,False,False,False
+S892,892,bow → sell,bridge,Naikri,False,False,False,False,False,False,False,False,False,False
+S892,892,bow → sell,bridge,Naiki,False,False,False,False,False,False,False,False,False,False
+S892,892,bow → sell,bridge,Parji,True,False,True,False,False,False,False,False,False,False
+S892,892,bow → sell,bridge,Gadaba,True,False,True,False,False,False,False,False,False,False
+S892,892,bow → sell,bridge,Gondi,True,False,True,False,False,False,False,False,False,False
+S892,892,bow → sell,bridge,Konda,True,False,True,False,False,False,False,False,False,False
+S892,892,bow → sell,bridge,Pengo,True,False,True,False,False,False,False,False,False,False
+S892,892,bow → sell,bridge,Manda,True,False,True,False,False,False,False,False,False,False
+S892,892,bow → sell,bridge,Kui,True,False,True,False,False,False,False,False,False,False
+S892,892,bow → sell,bridge,Kuwi,True,False,True,False,False,False,False,False,False,False
+S892,892,bow → sell,bridge,Kurukh,False,False,False,False,False,False,False,False,False,False
+S892,892,bow → sell,bridge,Malto,False,False,False,False,False,False,False,False,False,False
+S892,892,bow → sell,bridge,Brahui,True,False,True,False,False,False,False,False,False,False
+S140,140,mother / lady ↔ goddess,polysemy,Tamil,True,True,True,True,True,True,True,False,True,False
+S140,140,mother / lady ↔ goddess,polysemy,Malayalam,True,True,True,True,True,True,True,True,True,True
+S140,140,mother / lady ↔ goddess,polysemy,Kannada,True,True,True,True,True,True,True,True,True,True
+S140,140,mother / lady ↔ goddess,polysemy,Telugu,True,True,True,False,False,False,False,False,False,False
+S140,140,mother / lady ↔ goddess,polysemy,Tulu,True,True,True,False,False,False,False,False,False,False
+S140,140,mother / lady ↔ goddess,polysemy,Kota,True,True,True,True,True,True,True,True,True,True
+S140,140,mother / lady ↔ goddess,polysemy,Toda,False,False,False,False,False,False,False,False,False,False
+S140,140,mother / lady ↔ goddess,polysemy,Kodagu,True,True,True,False,False,False,False,False,False,False
+S140,140,mother / lady ↔ goddess,polysemy,Kolami,True,True,True,False,False,False,False,False,False,False
+S140,140,mother / lady ↔ goddess,polysemy,Naikri,True,True,True,False,False,False,False,False,False,False
+S140,140,mother / lady ↔ goddess,polysemy,Naiki,True,True,False,False,False,False,False,False,False,False
+S140,140,mother / lady ↔ goddess,polysemy,Parji,False,False,False,False,False,False,False,False,False,False
+S140,140,mother / lady ↔ goddess,polysemy,Gadaba,True,True,False,False,False,False,False,False,False,False
+S140,140,mother / lady ↔ goddess,polysemy,Gondi,True,True,True,False,False,False,False,False,False,False
+S140,140,mother / lady ↔ goddess,polysemy,Konda,True,True,False,False,False,False,False,False,False,False
+S140,140,mother / lady ↔ goddess,polysemy,Pengo,True,True,False,False,False,False,False,False,False,False
+S140,140,mother / lady ↔ goddess,polysemy,Manda,True,True,False,False,False,False,False,False,False,False
+S140,140,mother / lady ↔ goddess,polysemy,Kui,True,True,True,False,False,False,False,False,False,False
+S140,140,mother / lady ↔ goddess,polysemy,Kuwi,True,True,True,False,False,False,False,False,False,False
+S140,140,mother / lady ↔ goddess,polysemy,Kurukh,False,False,False,False,False,False,False,False,False,False
+S140,140,mother / lady ↔ goddess,polysemy,Malto,False,False,False,False,False,False,False,False,False,False
+S140,140,mother / lady ↔ goddess,polysemy,Brahui,True,True,True,False,False,False,False,False,False,False
+S154,154,carrying pole → guard,bridge,Tamil,True,True,True,True,True,True,True,True,True,True
+S154,154,carrying pole → guard,bridge,Malayalam,True,True,True,True,True,True,True,False,False,False
+S154,154,carrying pole → guard,bridge,Kannada,True,True,True,True,True,True,True,False,True,False
+S154,154,carrying pole → guard,bridge,Telugu,True,True,True,True,True,True,True,False,True,False
+S154,154,carrying pole → guard,bridge,Tulu,True,True,False,True,True,False,True,False,False,False
+S154,154,carrying pole → guard,bridge,Kota,False,True,False,True,True,False,True,False,False,False
+S154,154,carrying pole → guard,bridge,Toda,False,True,False,True,True,False,True,False,False,False
+S154,154,carrying pole → guard,bridge,Kodagu,False,True,False,True,True,False,True,False,False,False
+S154,154,carrying pole → guard,bridge,Kolami,True,True,True,True,True,True,True,False,False,False
+S154,154,carrying pole → guard,bridge,Naikri,False,True,False,False,False,False,False,False,False,False
+S154,154,carrying pole → guard,bridge,Naiki,False,False,False,False,False,False,False,False,False,False
+S154,154,carrying pole → guard,bridge,Parji,True,True,True,False,False,False,False,False,False,False
+S154,154,carrying pole → guard,bridge,Gadaba,True,True,True,True,True,True,True,False,True,False
+S154,154,carrying pole → guard,bridge,Gondi,True,True,True,True,True,True,True,False,False,False
+S154,154,carrying pole → guard,bridge,Konda,True,True,True,False,False,False,False,False,False,False
+S154,154,carrying pole → guard,bridge,Pengo,True,True,True,True,True,True,True,False,False,False
+S154,154,carrying pole → guard,bridge,Manda,True,True,True,True,True,True,True,False,False,False
+S154,154,carrying pole → guard,bridge,Kui,True,True,True,False,False,False,False,False,False,False
+S154,154,carrying pole → guard,bridge,Kuwi,True,True,True,True,True,True,True,False,False,False
+S154,154,carrying pole → guard,bridge,Kurukh,True,True,False,True,True,False,True,False,False,False
+S154,154,carrying pole → guard,bridge,Malto,True,True,False,True,True,False,True,False,False,False
+S154,154,carrying pole → guard,bridge,Brahui,False,True,False,False,False,False,False,False,False,False
+S142,142,staff → smith,bridge,Tamil,True,True,True,True,True,True,True,False,True,False
+S142,142,staff → smith,bridge,Malayalam,True,True,True,False,False,False,False,False,False,False
+S142,142,staff → smith,bridge,Kannada,True,True,True,False,False,False,False,False,False,False
+S142,142,staff → smith,bridge,Telugu,True,True,True,False,False,False,False,False,False,False
+S142,142,staff → smith,bridge,Tulu,True,False,True,False,False,False,False,False,False,False
+S142,142,staff → smith,bridge,Kota,True,True,True,False,False,False,False,False,False,False
+S142,142,staff → smith,bridge,Toda,True,True,True,False,False,False,False,False,False,False
+S142,142,staff → smith,bridge,Kodagu,True,True,True,False,False,False,False,False,False,False
+S142,142,staff → smith,bridge,Kolami,True,False,True,False,False,False,False,False,False,False
+S142,142,staff → smith,bridge,Naikri,False,False,False,False,False,False,False,False,False,False
+S142,142,staff → smith,bridge,Naiki,True,False,False,False,False,False,False,False,False,False
+S142,142,staff → smith,bridge,Parji,True,False,False,False,False,False,False,False,False,False
+S142,142,staff → smith,bridge,Gadaba,False,False,False,False,False,False,False,False,False,False
+S142,142,staff → smith,bridge,Gondi,True,True,True,False,False,False,False,False,False,False
+S142,142,staff → smith,bridge,Konda,True,False,False,False,False,False,False,False,False,False
+S142,142,staff → smith,bridge,Pengo,True,False,False,False,False,False,False,False,False,False
+S142,142,staff → smith,bridge,Manda,True,False,False,False,False,False,False,False,False,False
+S142,142,staff → smith,bridge,Kui,True,False,False,False,False,False,False,False,False,False
+S142,142,staff → smith,bridge,Kuwi,True,True,False,False,False,False,False,False,False,False
+S142,142,staff → smith,bridge,Kurukh,False,False,False,False,False,False,False,False,False,False
+S142,142,staff → smith,bridge,Malto,False,False,False,False,False,False,False,False,False,False
+S142,142,staff → smith,bridge,Brahui,False,False,False,False,False,False,False,False,False,False
+S503,503,mountain → garland,bridge,Tamil,True,True,True,True,True,True,True,False,True,False
+S503,503,mountain → garland,bridge,Malayalam,True,True,True,True,True,True,True,False,True,False
+S503,503,mountain → garland,bridge,Kannada,True,True,True,True,True,True,True,False,True,False
+S503,503,mountain → garland,bridge,Telugu,True,True,True,True,True,True,True,False,True,False
+S503,503,mountain → garland,bridge,Tulu,True,True,True,True,True,True,True,False,True,False
+S503,503,mountain → garland,bridge,Kota,True,False,True,False,False,False,False,False,False,False
+S503,503,mountain → garland,bridge,Toda,True,False,True,False,False,False,False,False,False,False
+S503,503,mountain → garland,bridge,Kodagu,True,True,True,True,True,True,True,False,True,False
+S503,503,mountain → garland,bridge,Kolami,True,False,True,False,False,False,False,False,False,False
+S503,503,mountain → garland,bridge,Naikri,False,False,False,False,False,False,False,False,False,False
+S503,503,mountain → garland,bridge,Naiki,False,False,False,False,False,False,False,False,False,False
+S503,503,mountain → garland,bridge,Parji,True,False,False,False,False,False,False,False,False,False
+S503,503,mountain → garland,bridge,Gadaba,True,False,True,False,False,False,False,False,False,False
+S503,503,mountain → garland,bridge,Gondi,False,False,False,False,False,False,False,False,False,False
+S503,503,mountain → garland,bridge,Konda,False,False,False,False,False,False,False,False,False,False
+S503,503,mountain → garland,bridge,Pengo,False,False,False,False,False,False,False,False,False,False
+S503,503,mountain → garland,bridge,Manda,False,False,False,False,False,False,False,False,False,False
+S503,503,mountain → garland,bridge,Kui,False,False,False,False,False,False,False,False,False,False
+S503,503,mountain → garland,bridge,Kuwi,False,False,False,False,False,False,False,False,False,False
+S503,503,mountain → garland,bridge,Kurukh,False,False,False,False,False,False,False,False,False,False
+S503,503,mountain → garland,bridge,Malto,False,False,False,False,False,False,False,False,False,False
+S503,503,mountain → garland,bridge,Brahui,True,False,True,False,False,False,False,False,False,False
+S440,440,corner → vessel,bridge,Tamil,True,False,True,False,False,False,False,False,False,False
+S440,440,corner → vessel,bridge,Malayalam,True,False,True,False,False,False,False,False,False,False
+S440,440,corner → vessel,bridge,Kannada,False,True,False,True,True,False,True,False,False,False
+S440,440,corner → vessel,bridge,Telugu,False,True,False,True,True,False,True,False,False,False
+S440,440,corner → vessel,bridge,Tulu,True,False,True,False,False,False,False,False,False,False
+S440,440,corner → vessel,bridge,Kota,False,False,False,False,False,False,False,False,False,False
+S440,440,corner → vessel,bridge,Toda,True,False,True,False,False,False,False,False,False,False
+S440,440,corner → vessel,bridge,Kodagu,False,False,False,False,False,False,False,False,False,False
+S440,440,corner → vessel,bridge,Kolami,False,False,False,False,False,False,False,False,False,False
+S440,440,corner → vessel,bridge,Naikri,False,False,False,False,False,False,False,False,False,False
+S440,440,corner → vessel,bridge,Naiki,False,False,False,False,False,False,False,False,False,False
+S440,440,corner → vessel,bridge,Parji,False,False,False,False,False,False,False,False,False,False
+S440,440,corner → vessel,bridge,Gadaba,False,False,False,False,False,False,False,False,False,False
+S440,440,corner → vessel,bridge,Gondi,False,False,False,False,False,False,False,False,False,False
+S440,440,corner → vessel,bridge,Konda,False,False,False,False,False,False,False,False,False,False
+S440,440,corner → vessel,bridge,Pengo,False,False,False,False,False,False,False,False,False,False
+S440,440,corner → vessel,bridge,Manda,False,False,False,False,False,False,False,False,False,False
+S440,440,corner → vessel,bridge,Kui,True,False,True,False,False,False,False,False,False,False
+S440,440,corner → vessel,bridge,Kuwi,False,False,False,False,False,False,False,False,False,False
+S440,440,corner → vessel,bridge,Kurukh,True,False,False,False,False,False,False,False,False,False
+S440,440,corner → vessel,bridge,Malto,False,False,False,False,False,False,False,False,False,False
+S440,440,corner → vessel,bridge,Brahui,False,False,False,False,False,False,False,False,False,False
+S435,435,hook → attendant,bridge,Tamil,True,True,True,True,True,True,True,True,True,True
+S435,435,hook → attendant,bridge,Malayalam,True,True,True,False,False,False,False,False,False,False
+S435,435,hook → attendant,bridge,Kannada,True,True,True,True,True,True,True,False,True,False
+S435,435,hook → attendant,bridge,Telugu,True,True,True,False,False,False,False,False,False,False
+S435,435,hook → attendant,bridge,Tulu,True,True,True,False,False,False,False,False,False,False
+S435,435,hook → attendant,bridge,Kota,False,False,False,False,False,False,False,False,False,False
+S435,435,hook → attendant,bridge,Toda,False,False,False,False,False,False,False,False,False,False
+S435,435,hook → attendant,bridge,Kodagu,False,False,False,False,False,False,False,False,False,False
+S435,435,hook → attendant,bridge,Kolami,False,False,False,False,False,False,False,False,False,False
+S435,435,hook → attendant,bridge,Naikri,False,False,False,False,False,False,False,False,False,False
+S435,435,hook → attendant,bridge,Naiki,False,False,False,False,False,False,False,False,False,False
+S435,435,hook → attendant,bridge,Parji,True,True,False,False,False,False,False,False,False,False
+S435,435,hook → attendant,bridge,Gadaba,False,False,False,False,False,False,False,False,False,False
+S435,435,hook → attendant,bridge,Gondi,False,False,False,False,False,False,False,False,False,False
+S435,435,hook → attendant,bridge,Konda,False,False,False,False,False,False,False,False,False,False
+S435,435,hook → attendant,bridge,Pengo,False,False,False,False,False,False,False,False,False,False
+S435,435,hook → attendant,bridge,Manda,False,False,False,False,False,False,False,False,False,False
+S435,435,hook → attendant,bridge,Kui,False,False,False,False,False,False,False,False,False,False
+S435,435,hook → attendant,bridge,Kuwi,False,False,False,False,False,False,False,False,False,False
+S435,435,hook → attendant,bridge,Kurukh,True,False,True,False,False,False,False,False,False,False
+S435,435,hook → attendant,bridge,Malto,False,False,False,False,False,False,False,False,False,False
+S435,435,hook → attendant,bridge,Brahui,False,False,False,False,False,False,False,False,False,False
+S845,845,line → tax,bridge,Tamil,True,True,True,True,True,True,True,True,True,True
+S845,845,line → tax,bridge,Malayalam,True,True,True,True,True,True,True,True,True,True
+S845,845,line → tax,bridge,Kannada,True,False,True,False,False,False,False,False,False,False
+S845,845,line → tax,bridge,Telugu,True,True,True,True,True,True,True,False,False,False
+S845,845,line → tax,bridge,Tulu,True,False,True,False,False,False,False,False,False,False
+S845,845,line → tax,bridge,Kota,True,True,True,True,True,True,True,False,True,False
+S845,845,line → tax,bridge,Toda,True,False,True,False,False,False,False,False,False,False
+S845,845,line → tax,bridge,Kodagu,True,False,True,False,False,False,False,False,False,False
+S845,845,line → tax,bridge,Kolami,False,False,False,False,False,False,False,False,False,False
+S845,845,line → tax,bridge,Naikri,False,False,False,False,False,False,False,False,False,False
+S845,845,line → tax,bridge,Naiki,False,False,False,False,False,False,False,False,False,False
+S845,845,line → tax,bridge,Parji,True,False,False,False,False,False,False,False,False,False
+S845,845,line → tax,bridge,Gadaba,True,False,True,False,False,False,False,False,False,False
+S845,845,line → tax,bridge,Gondi,True,False,True,False,False,False,False,False,False,False
+S845,845,line → tax,bridge,Konda,True,False,True,False,False,False,False,False,False,False
+S845,845,line → tax,bridge,Pengo,False,False,False,False,False,False,False,False,False,False
+S845,845,line → tax,bridge,Manda,False,False,False,False,False,False,False,False,False,False
+S845,845,line → tax,bridge,Kui,True,False,True,False,False,False,False,False,False,False
+S845,845,line → tax,bridge,Kuwi,True,False,True,False,False,False,False,False,False,False
+S845,845,line → tax,bridge,Kurukh,False,False,False,False,False,False,False,False,False,False
+S845,845,line → tax,bridge,Malto,False,False,False,False,False,False,False,False,False,False
+S845,845,line → tax,bridge,Brahui,False,False,False,False,False,False,False,False,False,False
+S850,850,eye → copper,bridge,Tamil,True,True,True,True,True,True,True,False,True,False
+S850,850,eye → copper,bridge,Malayalam,True,True,True,True,True,True,True,False,False,False
+S850,850,eye → copper,bridge,Kannada,True,False,True,False,False,False,False,False,False,False
+S850,850,eye → copper,bridge,Telugu,True,False,True,False,False,False,False,False,False,False
+S850,850,eye → copper,bridge,Tulu,True,False,True,False,False,False,False,False,False,False
+S850,850,eye → copper,bridge,Kota,True,False,True,False,False,False,False,False,False,False
+S850,850,eye → copper,bridge,Toda,True,False,True,False,False,False,False,False,False,False
+S850,850,eye → copper,bridge,Kodagu,True,False,True,False,False,False,False,False,False,False
+S850,850,eye → copper,bridge,Kolami,True,False,True,False,False,False,False,False,False,False
+S850,850,eye → copper,bridge,Naikri,True,False,True,False,False,False,False,False,False,False
+S850,850,eye → copper,bridge,Naiki,True,False,True,False,False,False,False,False,False,False
+S850,850,eye → copper,bridge,Parji,True,False,True,False,False,False,False,False,False,False
+S850,850,eye → copper,bridge,Gadaba,True,False,True,False,False,False,False,False,False,False
+S850,850,eye → copper,bridge,Gondi,True,False,True,False,False,False,False,False,False,False
+S850,850,eye → copper,bridge,Konda,True,False,True,False,False,False,False,False,False,False
+S850,850,eye → copper,bridge,Pengo,True,False,True,False,False,False,False,False,False,False
+S850,850,eye → copper,bridge,Manda,True,False,True,False,False,False,False,False,False,False
+S850,850,eye → copper,bridge,Kui,True,False,True,False,False,False,False,False,False,False
+S850,850,eye → copper,bridge,Kuwi,True,False,True,False,False,False,False,False,False,False
+S850,850,eye → copper,bridge,Kurukh,True,False,True,False,False,False,False,False,False,False
+S850,850,eye → copper,bridge,Malto,True,False,True,False,False,False,False,False,False,False
+S850,850,eye → copper,bridge,Brahui,True,False,True,False,False,False,False,False,False,False
+S717,717,foot ↔ servant,polysemy,Tamil,True,True,True,True,True,True,True,False,False,False
+S717,717,foot ↔ servant,polysemy,Malayalam,True,True,True,True,True,True,True,False,False,False
+S717,717,foot ↔ servant,polysemy,Kannada,True,True,True,True,True,True,True,False,False,False
+S717,717,foot ↔ servant,polysemy,Telugu,True,True,True,True,True,True,True,False,False,False
+S717,717,foot ↔ servant,polysemy,Tulu,True,True,False,False,False,False,False,False,False,False
+S717,717,foot ↔ servant,polysemy,Kota,True,True,True,False,False,False,False,False,False,False
+S717,717,foot ↔ servant,polysemy,Toda,True,True,True,False,False,False,False,False,False,False
+S717,717,foot ↔ servant,polysemy,Kodagu,True,True,False,False,False,False,False,False,False,False
+S717,717,foot ↔ servant,polysemy,Kolami,False,False,False,False,False,False,False,False,False,False
+S717,717,foot ↔ servant,polysemy,Naikri,False,False,False,False,False,False,False,False,False,False
+S717,717,foot ↔ servant,polysemy,Naiki,False,False,False,False,False,False,False,False,False,False
+S717,717,foot ↔ servant,polysemy,Parji,False,False,False,False,False,False,False,False,False,False
+S717,717,foot ↔ servant,polysemy,Gadaba,True,True,False,False,False,False,False,False,False,False
+S717,717,foot ↔ servant,polysemy,Gondi,True,True,False,False,False,False,False,False,False,False
+S717,717,foot ↔ servant,polysemy,Konda,True,True,False,False,False,False,False,False,False,False
+S717,717,foot ↔ servant,polysemy,Pengo,False,False,False,False,False,False,False,False,False,False
+S717,717,foot ↔ servant,polysemy,Manda,False,False,False,False,False,False,False,False,False,False
+S717,717,foot ↔ servant,polysemy,Kui,False,False,False,False,False,False,False,False,False,False
+S717,717,foot ↔ servant,polysemy,Kuwi,False,False,False,False,False,False,False,False,False,False
+S717,717,foot ↔ servant,polysemy,Kurukh,False,False,False,False,False,False,False,False,False,False
+S717,717,foot ↔ servant,polysemy,Malto,False,False,False,False,False,False,False,False,False,False
+S717,717,foot ↔ servant,polysemy,Brahui,False,False,False,False,False,False,False,False,False,False
+S413,413,grain → tax / cut,bridge,Tamil,True,True,True,True,True,True,True,True,True,True
+S413,413,grain → tax / cut,bridge,Malayalam,True,True,True,True,True,True,True,False,False,False
+S413,413,grain → tax / cut,bridge,Kannada,True,True,True,True,True,True,True,False,False,False
+S413,413,grain → tax / cut,bridge,Telugu,True,True,True,True,True,True,True,False,False,False
+S413,413,grain → tax / cut,bridge,Tulu,True,False,True,False,False,False,False,False,False,False
+S413,413,grain → tax / cut,bridge,Kota,True,True,True,True,True,True,True,False,False,False
+S413,413,grain → tax / cut,bridge,Toda,True,True,True,True,True,True,True,False,False,False
+S413,413,grain → tax / cut,bridge,Kodagu,True,False,True,False,False,False,False,False,False,False
+S413,413,grain → tax / cut,bridge,Kolami,False,True,False,False,False,False,False,False,False,False
+S413,413,grain → tax / cut,bridge,Naikri,False,True,False,True,True,False,True,False,False,False
+S413,413,grain → tax / cut,bridge,Naiki,False,True,False,True,True,False,True,False,False,False
+S413,413,grain → tax / cut,bridge,Parji,False,False,False,False,False,False,False,False,False,False
+S413,413,grain → tax / cut,bridge,Gadaba,False,False,False,False,False,False,False,False,False,False
+S413,413,grain → tax / cut,bridge,Gondi,False,False,False,False,False,False,False,False,False,False
+S413,413,grain → tax / cut,bridge,Konda,False,False,False,False,False,False,False,False,False,False
+S413,413,grain → tax / cut,bridge,Pengo,False,True,False,True,True,False,True,False,False,False
+S413,413,grain → tax / cut,bridge,Manda,False,False,False,False,False,False,False,False,False,False
+S413,413,grain → tax / cut,bridge,Kui,False,True,False,True,True,False,True,False,False,False
+S413,413,grain → tax / cut,bridge,Kuwi,False,True,False,True,True,False,True,False,False,False
+S413,413,grain → tax / cut,bridge,Kurukh,False,False,False,False,False,False,False,False,False,False
+S413,413,grain → tax / cut,bridge,Malto,False,False,False,False,False,False,False,False,False,False
+S413,413,grain → tax / cut,bridge,Brahui,False,False,False,False,False,False,False,False,False,False
+S350,350,fence → watchman,bridge,Tamil,True,True,True,True,True,True,True,False,True,False
+S350,350,fence → watchman,bridge,Malayalam,True,True,True,False,False,False,False,False,False,False
+S350,350,fence → watchman,bridge,Kannada,True,True,True,True,True,True,True,False,False,False
+S350,350,fence → watchman,bridge,Telugu,True,True,False,False,False,False,False,False,False,False
+S350,350,fence → watchman,bridge,Tulu,True,True,True,False,False,False,False,False,False,False
+S350,350,fence → watchman,bridge,Kota,False,False,False,False,False,False,False,False,False,False
+S350,350,fence → watchman,bridge,Toda,True,False,False,False,False,False,False,False,False,False
+S350,350,fence → watchman,bridge,Kodagu,True,False,False,False,False,False,False,False,False,False
+S350,350,fence → watchman,bridge,Kolami,False,False,False,False,False,False,False,False,False,False
+S350,350,fence → watchman,bridge,Naikri,False,False,False,False,False,False,False,False,False,False
+S350,350,fence → watchman,bridge,Naiki,False,False,False,False,False,False,False,False,False,False
+S350,350,fence → watchman,bridge,Parji,False,True,False,False,False,False,False,False,False,False
+S350,350,fence → watchman,bridge,Gadaba,False,False,False,False,False,False,False,False,False,False
+S350,350,fence → watchman,bridge,Gondi,True,False,False,False,False,False,False,False,False,False
+S350,350,fence → watchman,bridge,Konda,True,False,False,False,False,False,False,False,False,False
+S350,350,fence → watchman,bridge,Pengo,False,False,False,False,False,False,False,False,False,False
+S350,350,fence → watchman,bridge,Manda,False,False,False,False,False,False,False,False,False,False
+S350,350,fence → watchman,bridge,Kui,False,False,False,False,False,False,False,False,False,False
+S350,350,fence → watchman,bridge,Kuwi,True,False,False,False,False,False,False,False,False,False
+S350,350,fence → watchman,bridge,Kurukh,False,False,False,False,False,False,False,False,False,False
+S350,350,fence → watchman,bridge,Malto,False,False,False,False,False,False,False,False,False,False
+S350,350,fence → watchman,bridge,Brahui,False,False,False,False,False,False,False,False,False,False
+S460,460,shoot → garland,bridge,Tamil,False,True,False,True,True,False,True,False,False,False
+S460,460,shoot → garland,bridge,Malayalam,True,False,True,False,False,False,False,False,False,False
+S460,460,shoot → garland,bridge,Kannada,True,True,True,True,True,True,True,False,False,False
+S460,460,shoot → garland,bridge,Telugu,False,True,False,False,False,False,False,False,False,False
+S460,460,shoot → garland,bridge,Tulu,True,True,True,False,False,False,False,False,False,False
+S460,460,shoot → garland,bridge,Kota,False,True,False,False,False,False,False,False,False,False
+S460,460,shoot → garland,bridge,Toda,True,False,False,False,False,False,False,False,False,False
+S460,460,shoot → garland,bridge,Kodagu,False,False,False,False,False,False,False,False,False,False
+S460,460,shoot → garland,bridge,Kolami,False,False,False,False,False,False,False,False,False,False
+S460,460,shoot → garland,bridge,Naikri,False,False,False,False,False,False,False,False,False,False
+S460,460,shoot → garland,bridge,Naiki,True,False,False,False,False,False,False,False,False,False
+S460,460,shoot → garland,bridge,Parji,True,False,True,False,False,False,False,False,False,False
+S460,460,shoot → garland,bridge,Gadaba,False,False,False,False,False,False,False,False,False,False
+S460,460,shoot → garland,bridge,Gondi,True,False,True,False,False,False,False,False,False,False
+S460,460,shoot → garland,bridge,Konda,False,True,False,False,False,False,False,False,False,False
+S460,460,shoot → garland,bridge,Pengo,False,False,False,False,False,False,False,False,False,False
+S460,460,shoot → garland,bridge,Manda,False,False,False,False,False,False,False,False,False,False
+S460,460,shoot → garland,bridge,Kui,False,False,False,False,False,False,False,False,False,False
+S460,460,shoot → garland,bridge,Kuwi,False,False,False,False,False,False,False,False,False,False
+S460,460,shoot → garland,bridge,Kurukh,True,False,False,False,False,False,False,False,False,False
+S460,460,shoot → garland,bridge,Malto,False,False,False,False,False,False,False,False,False,False
+S460,460,shoot → garland,bridge,Brahui,False,False,False,False,False,False,False,False,False,False
+S482,482,mountain → king,bridge,Tamil,True,True,True,True,True,True,True,True,True,True
+S482,482,mountain → king,bridge,Malayalam,False,True,False,True,True,False,True,False,False,False
+S482,482,mountain → king,bridge,Kannada,False,False,False,False,False,False,False,False,False,False
+S482,482,mountain → king,bridge,Telugu,True,True,False,False,False,False,False,False,False,False
+S482,482,mountain → king,bridge,Tulu,False,False,False,False,False,False,False,False,False,False
+S482,482,mountain → king,bridge,Kota,False,True,False,False,False,False,False,False,False,False
+S482,482,mountain → king,bridge,Toda,False,False,False,False,False,False,False,False,False,False
+S482,482,mountain → king,bridge,Kodagu,False,False,False,False,False,False,False,False,False,False
+S482,482,mountain → king,bridge,Kolami,False,False,False,False,False,False,False,False,False,False
+S482,482,mountain → king,bridge,Naikri,False,False,False,False,False,False,False,False,False,False
+S482,482,mountain → king,bridge,Naiki,False,False,False,False,False,False,False,False,False,False
+S482,482,mountain → king,bridge,Parji,False,True,False,True,True,False,True,False,False,False
+S482,482,mountain → king,bridge,Gadaba,False,True,False,True,True,False,True,False,False,False
+S482,482,mountain → king,bridge,Gondi,True,False,False,False,False,False,False,False,False,False
+S482,482,mountain → king,bridge,Konda,True,False,False,False,False,False,False,False,False,False
+S482,482,mountain → king,bridge,Pengo,False,False,False,False,False,False,False,False,False,False
+S482,482,mountain → king,bridge,Manda,False,False,False,False,False,False,False,False,False,False
+S482,482,mountain → king,bridge,Kui,True,False,False,False,False,False,False,False,False,False
+S482,482,mountain → king,bridge,Kuwi,True,False,False,False,False,False,False,False,False,False
+S482,482,mountain → king,bridge,Kurukh,False,True,False,True,True,False,True,False,False,False
+S482,482,mountain → king,bridge,Malto,False,False,False,False,False,False,False,False,False,False
+S482,482,mountain → king,bridge,Brahui,False,False,False,False,False,False,False,False,False,False
+S480,480,point → vessel,bridge,Tamil,True,True,True,True,True,True,True,False,False,False
+S480,480,point → vessel,bridge,Malayalam,False,True,False,False,False,False,False,False,False,False
+S480,480,point → vessel,bridge,Kannada,True,False,True,False,False,False,False,False,False,False
+S480,480,point → vessel,bridge,Telugu,True,True,True,False,False,False,False,False,False,False
+S480,480,point → vessel,bridge,Tulu,True,False,True,False,False,False,False,False,False,False
+S480,480,point → vessel,bridge,Kota,False,False,False,False,False,False,False,False,False,False
+S480,480,point → vessel,bridge,Toda,False,False,False,False,False,False,False,False,False,False
+S480,480,point → vessel,bridge,Kodagu,False,False,False,False,False,False,False,False,False,False
+S480,480,point → vessel,bridge,Kolami,False,True,False,False,False,False,False,False,False,False
+S480,480,point → vessel,bridge,Naikri,False,False,False,False,False,False,False,False,False,False
+S480,480,point → vessel,bridge,Naiki,False,False,False,False,False,False,False,False,False,False
+S480,480,point → vessel,bridge,Parji,False,False,False,False,False,False,False,False,False,False
+S480,480,point → vessel,bridge,Gadaba,False,False,False,False,False,False,False,False,False,False
+S480,480,point → vessel,bridge,Gondi,False,False,False,False,False,False,False,False,False,False
+S480,480,point → vessel,bridge,Konda,False,False,False,False,False,False,False,False,False,False
+S480,480,point → vessel,bridge,Pengo,False,False,False,False,False,False,False,False,False,False
+S480,480,point → vessel,bridge,Manda,False,False,False,False,False,False,False,False,False,False
+S480,480,point → vessel,bridge,Kui,False,False,False,False,False,False,False,False,False,False
+S480,480,point → vessel,bridge,Kuwi,False,False,False,False,False,False,False,False,False,False
+S480,480,point → vessel,bridge,Kurukh,False,False,False,False,False,False,False,False,False,False
+S480,480,point → vessel,bridge,Malto,True,False,True,False,False,False,False,False,False,False
+S480,480,point → vessel,bridge,Brahui,False,False,False,False,False,False,False,False,False,False
+S335,335,frame → pot,bridge,Tamil,True,True,True,True,True,True,True,False,False,False
+S335,335,frame → pot,bridge,Malayalam,True,True,True,True,True,True,True,False,False,False
+S335,335,frame → pot,bridge,Kannada,True,True,True,True,True,True,True,False,True,False
+S335,335,frame → pot,bridge,Telugu,True,True,True,True,True,True,True,False,False,False
+S335,335,frame → pot,bridge,Tulu,True,True,True,True,True,True,True,False,True,False
+S335,335,frame → pot,bridge,Kota,True,False,False,False,False,False,False,False,False,False
+S335,335,frame → pot,bridge,Toda,False,False,False,False,False,False,False,False,False,False
+S335,335,frame → pot,bridge,Kodagu,False,False,False,False,False,False,False,False,False,False
+S335,335,frame → pot,bridge,Kolami,False,False,False,False,False,False,False,False,False,False
+S335,335,frame → pot,bridge,Naikri,False,False,False,False,False,False,False,False,False,False
+S335,335,frame → pot,bridge,Naiki,False,False,False,False,False,False,False,False,False,False
+S335,335,frame → pot,bridge,Parji,False,False,False,False,False,False,False,False,False,False
+S335,335,frame → pot,bridge,Gadaba,False,False,False,False,False,False,False,False,False,False
+S335,335,frame → pot,bridge,Gondi,False,False,False,False,False,False,False,False,False,False
+S335,335,frame → pot,bridge,Konda,False,True,False,True,True,False,True,False,False,False
+S335,335,frame → pot,bridge,Pengo,False,False,False,False,False,False,False,False,False,False
+S335,335,frame → pot,bridge,Manda,False,False,False,False,False,False,False,False,False,False
+S335,335,frame → pot,bridge,Kui,False,False,False,False,False,False,False,False,False,False
+S335,335,frame → pot,bridge,Kuwi,False,False,False,False,False,False,False,False,False,False
+S335,335,frame → pot,bridge,Kurukh,False,False,False,False,False,False,False,False,False,False
+S335,335,frame → pot,bridge,Malto,False,False,False,False,False,False,False,False,False,False
+S335,335,frame → pot,bridge,Brahui,False,False,False,False,False,False,False,False,False,False
+S540,540,drum ↔ capacity measure,polysemy,Tamil,True,True,True,True,True,True,True,True,True,True
+S540,540,drum ↔ capacity measure,polysemy,Malayalam,True,True,True,True,True,True,True,True,True,True
+S540,540,drum ↔ capacity measure,polysemy,Kannada,True,True,True,False,False,False,False,False,False,False
+S540,540,drum ↔ capacity measure,polysemy,Telugu,True,True,False,True,True,False,True,False,False,False
+S540,540,drum ↔ capacity measure,polysemy,Tulu,False,False,False,False,False,False,False,False,False,False
+S540,540,drum ↔ capacity measure,polysemy,Kota,True,True,True,False,False,False,False,False,False,False
+S540,540,drum ↔ capacity measure,polysemy,Toda,True,True,True,False,False,False,False,False,False,False
+S540,540,drum ↔ capacity measure,polysemy,Kodagu,True,True,True,False,False,False,False,False,False,False
+S540,540,drum ↔ capacity measure,polysemy,Kolami,False,False,False,False,False,False,False,False,False,False
+S540,540,drum ↔ capacity measure,polysemy,Naikri,False,False,False,False,False,False,False,False,False,False
+S540,540,drum ↔ capacity measure,polysemy,Naiki,False,False,False,False,False,False,False,False,False,False
+S540,540,drum ↔ capacity measure,polysemy,Parji,False,False,False,False,False,False,False,False,False,False
+S540,540,drum ↔ capacity measure,polysemy,Gadaba,False,False,False,False,False,False,False,False,False,False
+S540,540,drum ↔ capacity measure,polysemy,Gondi,True,True,True,False,False,False,False,False,False,False
+S540,540,drum ↔ capacity measure,polysemy,Konda,False,False,False,False,False,False,False,False,False,False
+S540,540,drum ↔ capacity measure,polysemy,Pengo,False,False,False,False,False,False,False,False,False,False
+S540,540,drum ↔ capacity measure,polysemy,Manda,False,False,False,False,False,False,False,False,False,False
+S540,540,drum ↔ capacity measure,polysemy,Kui,False,False,False,False,False,False,False,False,False,False
+S540,540,drum ↔ capacity measure,polysemy,Kuwi,False,False,False,False,False,False,False,False,False,False
+S540,540,drum ↔ capacity measure,polysemy,Kurukh,False,False,False,False,False,False,False,False,False,False
+S540,540,drum ↔ capacity measure,polysemy,Malto,False,False,False,False,False,False,False,False,False,False
+S540,540,drum ↔ capacity measure,polysemy,Brahui,False,False,False,False,False,False,False,False,False,False
+S630,630,cage → assemble / store,bridge,Tamil,True,True,True,True,True,True,True,True,True,True
+S630,630,cage → assemble / store,bridge,Malayalam,True,True,True,True,True,True,True,False,True,False
+S630,630,cage → assemble / store,bridge,Kannada,True,True,True,True,True,True,True,False,True,False
+S630,630,cage → assemble / store,bridge,Telugu,True,True,True,True,True,True,True,False,False,False
+S630,630,cage → assemble / store,bridge,Tulu,True,True,True,True,True,True,True,False,False,False
+S630,630,cage → assemble / store,bridge,Kota,True,True,True,True,True,True,True,False,True,False
+S630,630,cage → assemble / store,bridge,Toda,True,True,True,True,True,True,True,False,True,False
+S630,630,cage → assemble / store,bridge,Kodagu,True,True,True,True,True,True,True,False,False,False
+S630,630,cage → assemble / store,bridge,Kolami,False,True,False,False,False,False,False,False,False,False
+S630,630,cage → assemble / store,bridge,Naikri,False,False,False,False,False,False,False,False,False,False
+S630,630,cage → assemble / store,bridge,Naiki,False,False,False,False,False,False,False,False,False,False
+S630,630,cage → assemble / store,bridge,Parji,True,True,True,True,True,True,True,False,False,False
+S630,630,cage → assemble / store,bridge,Gadaba,True,False,True,False,False,False,False,False,False,False
+S630,630,cage → assemble / store,bridge,Gondi,True,True,True,True,True,True,True,False,True,False
+S630,630,cage → assemble / store,bridge,Konda,True,True,False,True,True,False,True,False,False,False
+S630,630,cage → assemble / store,bridge,Pengo,True,True,True,True,True,True,True,False,False,False
+S630,630,cage → assemble / store,bridge,Manda,False,False,False,False,False,False,False,False,False,False
+S630,630,cage → assemble / store,bridge,Kui,True,False,True,False,False,False,False,False,False,False
+S630,630,cage → assemble / store,bridge,Kuwi,True,True,True,True,True,True,True,False,False,False
+S630,630,cage → assemble / store,bridge,Kurukh,False,True,False,True,True,False,True,False,False,False
+S630,630,cage → assemble / store,bridge,Malto,True,False,False,False,False,False,False,False,False,False
+S630,630,cage → assemble / store,bridge,Brahui,False,False,False,False,False,False,False,False,False,False
+S171,171,hang ↔ weigh,polysemy,Tamil,True,True,True,True,True,True,True,True,True,True
+S171,171,hang ↔ weigh,polysemy,Malayalam,True,True,True,True,True,True,True,True,True,True
+S171,171,hang ↔ weigh,polysemy,Kannada,True,True,True,True,True,True,True,True,True,True
+S171,171,hang ↔ weigh,polysemy,Telugu,True,True,True,True,True,True,True,True,True,True
+S171,171,hang ↔ weigh,polysemy,Tulu,True,True,True,True,True,True,True,True,True,True
+S171,171,hang ↔ weigh,polysemy,Kota,True,True,True,True,True,True,True,True,True,True
+S171,171,hang ↔ weigh,polysemy,Toda,True,True,True,False,False,False,False,False,False,False
+S171,171,hang ↔ weigh,polysemy,Kodagu,True,True,True,True,True,True,True,True,True,True
+S171,171,hang ↔ weigh,polysemy,Kolami,False,False,False,False,False,False,False,False,False,False
+S171,171,hang ↔ weigh,polysemy,Naikri,False,False,False,False,False,False,False,False,False,False
+S171,171,hang ↔ weigh,polysemy,Naiki,False,False,False,False,False,False,False,False,False,False
+S171,171,hang ↔ weigh,polysemy,Parji,False,False,False,False,False,False,False,False,False,False
+S171,171,hang ↔ weigh,polysemy,Gadaba,True,True,False,False,False,False,False,False,False,False
+S171,171,hang ↔ weigh,polysemy,Gondi,False,False,False,False,False,False,False,False,False,False
+S171,171,hang ↔ weigh,polysemy,Konda,True,True,True,False,False,False,False,False,False,False
+S171,171,hang ↔ weigh,polysemy,Pengo,True,True,True,False,False,False,False,False,False,False
+S171,171,hang ↔ weigh,polysemy,Manda,True,True,False,False,False,False,False,False,False,False
+S171,171,hang ↔ weigh,polysemy,Kui,True,True,True,False,False,False,False,False,False,False
+S171,171,hang ↔ weigh,polysemy,Kuwi,True,True,True,True,True,True,True,True,True,True
+S171,171,hang ↔ weigh,polysemy,Kurukh,True,True,False,False,False,False,False,False,False,False
+S171,171,hang ↔ weigh,polysemy,Malto,True,True,False,False,False,False,False,False,False,False
+S171,171,hang ↔ weigh,polysemy,Brahui,True,True,False,False,False,False,False,False,False,False
+S831,831,blade → grain,bridge,Tamil,True,True,True,True,True,True,True,True,True,True
+S831,831,blade → grain,bridge,Malayalam,True,False,True,False,False,False,False,False,False,False
+S831,831,blade → grain,bridge,Kannada,True,False,True,False,False,False,False,False,False,False
+S831,831,blade → grain,bridge,Telugu,True,False,True,False,False,False,False,False,False,False
+S831,831,blade → grain,bridge,Tulu,False,False,False,False,False,False,False,False,False,False
+S831,831,blade → grain,bridge,Kota,False,False,False,False,False,False,False,False,False,False
+S831,831,blade → grain,bridge,Toda,False,False,False,False,False,False,False,False,False,False
+S831,831,blade → grain,bridge,Kodagu,False,False,False,False,False,False,False,False,False,False
+S831,831,blade → grain,bridge,Kolami,False,False,False,False,False,False,False,False,False,False
+S831,831,blade → grain,bridge,Naikri,False,False,False,False,False,False,False,False,False,False
+S831,831,blade → grain,bridge,Naiki,False,False,False,False,False,False,False,False,False,False
+S831,831,blade → grain,bridge,Parji,False,False,False,False,False,False,False,False,False,False
+S831,831,blade → grain,bridge,Gadaba,False,False,False,False,False,False,False,False,False,False
+S831,831,blade → grain,bridge,Gondi,False,False,False,False,False,False,False,False,False,False
+S831,831,blade → grain,bridge,Konda,False,False,False,False,False,False,False,False,False,False
+S831,831,blade → grain,bridge,Pengo,False,False,False,False,False,False,False,False,False,False
+S831,831,blade → grain,bridge,Manda,False,False,False,False,False,False,False,False,False,False
+S831,831,blade → grain,bridge,Kui,False,True,False,True,True,False,True,False,False,False
+S831,831,blade → grain,bridge,Kuwi,False,False,False,False,False,False,False,False,False,False
+S831,831,blade → grain,bridge,Kurukh,False,True,False,True,True,False,True,False,False,False
+S831,831,blade → grain,bridge,Malto,False,False,False,False,False,False,False,False,False,False
+S831,831,blade → grain,bridge,Brahui,False,False,False,False,False,False,False,False,False,False
+S165,165,bend / snail → cauldron,bridge,Tamil,True,True,True,True,True,True,True,True,True,True
+S165,165,bend / snail → cauldron,bridge,Malayalam,True,True,True,False,False,False,False,False,False,False
+S165,165,bend / snail → cauldron,bridge,Kannada,True,True,True,False,False,False,False,False,False,False
+S165,165,bend / snail → cauldron,bridge,Telugu,True,True,True,False,False,False,False,False,False,False
+S165,165,bend / snail → cauldron,bridge,Tulu,True,False,True,False,False,False,False,False,False,False
+S165,165,bend / snail → cauldron,bridge,Kota,True,False,False,False,False,False,False,False,False,False
+S165,165,bend / snail → cauldron,bridge,Toda,True,False,False,False,False,False,False,False,False,False
+S165,165,bend / snail → cauldron,bridge,Kodagu,True,False,False,False,False,False,False,False,False,False
+S165,165,bend / snail → cauldron,bridge,Kolami,False,False,False,False,False,False,False,False,False,False
+S165,165,bend / snail → cauldron,bridge,Naikri,False,False,False,False,False,False,False,False,False,False
+S165,165,bend / snail → cauldron,bridge,Naiki,False,False,False,False,False,False,False,False,False,False
+S165,165,bend / snail → cauldron,bridge,Parji,False,False,False,False,False,False,False,False,False,False
+S165,165,bend / snail → cauldron,bridge,Gadaba,False,False,False,False,False,False,False,False,False,False
+S165,165,bend / snail → cauldron,bridge,Gondi,True,False,True,False,False,False,False,False,False,False
+S165,165,bend / snail → cauldron,bridge,Konda,False,False,False,False,False,False,False,False,False,False
+S165,165,bend / snail → cauldron,bridge,Pengo,False,False,False,False,False,False,False,False,False,False
+S165,165,bend / snail → cauldron,bridge,Manda,False,False,False,False,False,False,False,False,False,False
+S165,165,bend / snail → cauldron,bridge,Kui,False,False,False,False,False,False,False,False,False,False
+S165,165,bend / snail → cauldron,bridge,Kuwi,True,True,True,False,False,False,False,False,False,False
+S165,165,bend / snail → cauldron,bridge,Kurukh,False,False,False,False,False,False,False,False,False,False
+S165,165,bend / snail → cauldron,bridge,Malto,False,False,False,False,False,False,False,False,False,False
+S165,165,bend / snail → cauldron,bridge,Brahui,False,False,False,False,False,False,False,False,False,False
+S104,104,leap → collect / levy,bridge,Tamil,True,True,True,True,True,True,True,False,True,False
+S104,104,leap → collect / levy,bridge,Malayalam,True,True,True,True,True,True,True,False,True,False
+S104,104,leap → collect / levy,bridge,Kannada,True,True,True,False,False,False,False,False,False,False
+S104,104,leap → collect / levy,bridge,Telugu,True,True,True,True,True,True,True,False,False,False
+S104,104,leap → collect / levy,bridge,Tulu,True,True,False,False,False,False,False,False,False,False
+S104,104,leap → collect / levy,bridge,Kota,True,True,False,False,False,False,False,False,False,False
+S104,104,leap → collect / levy,bridge,Toda,True,True,False,False,False,False,False,False,False,False
+S104,104,leap → collect / levy,bridge,Kodagu,True,False,False,False,False,False,False,False,False,False
+S104,104,leap → collect / levy,bridge,Kolami,True,False,False,False,False,False,False,False,False,False
+S104,104,leap → collect / levy,bridge,Naikri,False,False,False,False,False,False,False,False,False,False
+S104,104,leap → collect / levy,bridge,Naiki,False,False,False,False,False,False,False,False,False,False
+S104,104,leap → collect / levy,bridge,Parji,False,False,False,False,False,False,False,False,False,False
+S104,104,leap → collect / levy,bridge,Gadaba,False,False,False,False,False,False,False,False,False,False
+S104,104,leap → collect / levy,bridge,Gondi,False,False,False,False,False,False,False,False,False,False
+S104,104,leap → collect / levy,bridge,Konda,True,False,True,False,False,False,False,False,False,False
+S104,104,leap → collect / levy,bridge,Pengo,False,False,False,False,False,False,False,False,False,False
+S104,104,leap → collect / levy,bridge,Manda,False,False,False,False,False,False,False,False,False,False
+S104,104,leap → collect / levy,bridge,Kui,False,False,False,False,False,False,False,False,False,False
+S104,104,leap → collect / levy,bridge,Kuwi,False,False,False,False,False,False,False,False,False,False
+S104,104,leap → collect / levy,bridge,Kurukh,False,False,False,False,False,False,False,False,False,False
+S104,104,leap → collect / levy,bridge,Malto,False,False,False,False,False,False,False,False,False,False
+S104,104,leap → collect / levy,bridge,Brahui,True,False,True,False,False,False,False,False,False,False
+S923,923,horn / tusk,literal,Tamil,True,False,True,False,True,False,True,False,False,False
+S923,923,horn / tusk,literal,Malayalam,False,False,False,False,False,False,False,False,False,False
+S923,923,horn / tusk,literal,Kannada,False,False,False,False,False,False,False,False,False,False
+S923,923,horn / tusk,literal,Telugu,False,False,False,False,False,False,False,False,False,False
+S923,923,horn / tusk,literal,Tulu,False,False,False,False,False,False,False,False,False,False
+S923,923,horn / tusk,literal,Kota,False,False,False,False,False,False,False,False,False,False
+S923,923,horn / tusk,literal,Toda,False,False,False,False,False,False,False,False,False,False
+S923,923,horn / tusk,literal,Kodagu,False,False,False,False,False,False,False,False,False,False
+S923,923,horn / tusk,literal,Kolami,False,False,False,False,False,False,False,False,False,False
+S923,923,horn / tusk,literal,Naikri,False,False,False,False,False,False,False,False,False,False
+S923,923,horn / tusk,literal,Naiki,False,False,False,False,False,False,False,False,False,False
+S923,923,horn / tusk,literal,Parji,False,False,False,False,False,False,False,False,False,False
+S923,923,horn / tusk,literal,Gadaba,False,False,False,False,False,False,False,False,False,False
+S923,923,horn / tusk,literal,Gondi,False,False,False,False,False,False,False,False,False,False
+S923,923,horn / tusk,literal,Konda,False,False,False,False,False,False,False,False,False,False
+S923,923,horn / tusk,literal,Pengo,False,False,False,False,False,False,False,False,False,False
+S923,923,horn / tusk,literal,Manda,False,False,False,False,False,False,False,False,False,False
+S923,923,horn / tusk,literal,Kui,False,False,False,False,False,False,False,False,False,False
+S923,923,horn / tusk,literal,Kuwi,False,False,False,False,False,False,False,False,False,False
+S923,923,horn / tusk,literal,Kurukh,True,False,True,False,True,False,True,False,False,False
+S923,923,horn / tusk,literal,Malto,True,False,True,False,True,False,True,False,False,False
+S923,923,horn / tusk,literal,Brahui,True,False,True,False,True,False,True,False,False,False
+S500,500,sail,literal,Tamil,True,False,True,False,True,False,True,False,False,False
+S500,500,sail,literal,Malayalam,True,False,True,False,True,False,True,False,False,False
+S500,500,sail,literal,Kannada,True,False,True,False,True,False,True,False,False,False
+S500,500,sail,literal,Telugu,True,False,False,False,False,False,False,False,False,False
+S500,500,sail,literal,Tulu,True,False,True,False,True,False,True,False,False,False
+S500,500,sail,literal,Kota,True,False,False,False,False,False,False,False,False,False
+S500,500,sail,literal,Toda,True,False,False,False,False,False,False,False,False,False
+S500,500,sail,literal,Kodagu,False,False,False,False,False,False,False,False,False,False
+S500,500,sail,literal,Kolami,False,False,False,False,False,False,False,False,False,False
+S500,500,sail,literal,Naikri,False,False,False,False,False,False,False,False,False,False
+S500,500,sail,literal,Naiki,False,False,False,False,False,False,False,False,False,False
+S500,500,sail,literal,Parji,False,False,False,False,False,False,False,False,False,False
+S500,500,sail,literal,Gadaba,False,False,False,False,False,False,False,False,False,False
+S500,500,sail,literal,Gondi,False,False,False,False,False,False,False,False,False,False
+S500,500,sail,literal,Konda,True,False,False,False,False,False,False,False,False,False
+S500,500,sail,literal,Pengo,True,False,False,False,False,False,False,False,False,False
+S500,500,sail,literal,Manda,True,False,False,False,False,False,False,False,False,False
+S500,500,sail,literal,Kui,True,False,False,False,False,False,False,False,False,False
+S500,500,sail,literal,Kuwi,True,False,False,False,False,False,False,False,False,False
+S500,500,sail,literal,Kurukh,False,False,False,False,False,False,False,False,False,False
+S500,500,sail,literal,Malto,False,False,False,False,False,False,False,False,False,False
+S500,500,sail,literal,Brahui,False,False,False,False,False,False,False,False,False,False
+S790,790,circle / bangle,literal,Tamil,True,False,True,False,True,False,True,False,False,False
+S790,790,circle / bangle,literal,Malayalam,True,False,True,False,True,False,True,False,False,False
+S790,790,circle / bangle,literal,Kannada,True,False,True,False,True,False,True,False,False,False
+S790,790,circle / bangle,literal,Telugu,True,False,False,False,False,False,False,False,False,False
+S790,790,circle / bangle,literal,Tulu,True,False,True,False,True,False,True,False,False,False
+S790,790,circle / bangle,literal,Kota,True,False,True,False,True,False,True,False,False,False
+S790,790,circle / bangle,literal,Toda,True,False,True,False,True,False,True,False,False,False
+S790,790,circle / bangle,literal,Kodagu,True,False,True,False,True,False,True,False,False,False
+S790,790,circle / bangle,literal,Kolami,False,False,False,False,False,False,False,False,False,False
+S790,790,circle / bangle,literal,Naikri,False,False,False,False,False,False,False,False,False,False
+S790,790,circle / bangle,literal,Naiki,False,False,False,False,False,False,False,False,False,False
+S790,790,circle / bangle,literal,Parji,False,False,False,False,False,False,False,False,False,False
+S790,790,circle / bangle,literal,Gadaba,False,False,False,False,False,False,False,False,False,False
+S790,790,circle / bangle,literal,Gondi,False,False,False,False,False,False,False,False,False,False
+S790,790,circle / bangle,literal,Konda,False,False,False,False,False,False,False,False,False,False
+S790,790,circle / bangle,literal,Pengo,False,False,False,False,False,False,False,False,False,False
+S790,790,circle / bangle,literal,Manda,False,False,False,False,False,False,False,False,False,False
+S790,790,circle / bangle,literal,Kui,False,False,False,False,False,False,False,False,False,False
+S790,790,circle / bangle,literal,Kuwi,False,False,False,False,False,False,False,False,False,False
+S790,790,circle / bangle,literal,Kurukh,False,False,False,False,False,False,False,False,False,False
+S790,790,circle / bangle,literal,Malto,False,False,False,False,False,False,False,False,False,False
+S790,790,circle / bangle,literal,Brahui,False,False,False,False,False,False,False,False,False,False
+S215,215,rice,literal,Tamil,True,False,True,False,True,False,True,False,False,False
+S215,215,rice,literal,Malayalam,True,False,True,False,True,False,True,False,False,False
+S215,215,rice,literal,Kannada,True,False,True,False,True,False,True,False,False,False
+S215,215,rice,literal,Telugu,True,False,True,False,True,False,True,False,False,False
+S215,215,rice,literal,Tulu,True,False,True,False,True,False,True,False,False,False
+S215,215,rice,literal,Kota,True,False,False,False,False,False,False,False,False,False
+S215,215,rice,literal,Toda,True,False,True,False,True,False,True,False,False,False
+S215,215,rice,literal,Kodagu,True,False,True,False,True,False,True,False,False,False
+S215,215,rice,literal,Kolami,False,False,False,False,False,False,False,False,False,False
+S215,215,rice,literal,Naikri,False,False,False,False,False,False,False,False,False,False
+S215,215,rice,literal,Naiki,False,False,False,False,False,False,False,False,False,False
+S215,215,rice,literal,Parji,False,False,False,False,False,False,False,False,False,False
+S215,215,rice,literal,Gadaba,False,False,False,False,False,False,False,False,False,False
+S215,215,rice,literal,Gondi,False,False,False,False,False,False,False,False,False,False
+S215,215,rice,literal,Konda,False,False,False,False,False,False,False,False,False,False
+S215,215,rice,literal,Pengo,False,False,False,False,False,False,False,False,False,False
+S215,215,rice,literal,Manda,False,False,False,False,False,False,False,False,False,False
+S215,215,rice,literal,Kui,False,False,False,False,False,False,False,False,False,False
+S215,215,rice,literal,Kuwi,False,False,False,False,False,False,False,False,False,False
+S215,215,rice,literal,Kurukh,False,False,False,False,False,False,False,False,False,False
+S215,215,rice,literal,Malto,False,False,False,False,False,False,False,False,False,False
+S215,215,rice,literal,Brahui,False,False,False,False,False,False,False,False,False,False
+S854,854,sesame,literal,Tamil,True,False,True,False,True,False,True,False,False,False
+S854,854,sesame,literal,Malayalam,True,False,True,False,True,False,True,False,False,False
+S854,854,sesame,literal,Kannada,True,False,False,False,False,False,False,False,False,False
+S854,854,sesame,literal,Telugu,False,False,False,False,False,False,False,False,False,False
+S854,854,sesame,literal,Tulu,True,False,False,False,False,False,False,False,False,False
+S854,854,sesame,literal,Kota,True,False,False,False,False,False,False,False,False,False
+S854,854,sesame,literal,Toda,False,False,False,False,False,False,False,False,False,False
+S854,854,sesame,literal,Kodagu,True,False,False,False,False,False,False,False,False,False
+S854,854,sesame,literal,Kolami,False,False,False,False,False,False,False,False,False,False
+S854,854,sesame,literal,Naikri,False,False,False,False,False,False,False,False,False,False
+S854,854,sesame,literal,Naiki,False,False,False,False,False,False,False,False,False,False
+S854,854,sesame,literal,Parji,False,False,False,False,False,False,False,False,False,False
+S854,854,sesame,literal,Gadaba,False,False,False,False,False,False,False,False,False,False
+S854,854,sesame,literal,Gondi,False,False,False,False,False,False,False,False,False,False
+S854,854,sesame,literal,Konda,False,False,False,False,False,False,False,False,False,False
+S854,854,sesame,literal,Pengo,False,False,False,False,False,False,False,False,False,False
+S854,854,sesame,literal,Manda,False,False,False,False,False,False,False,False,False,False
+S854,854,sesame,literal,Kui,False,False,False,False,False,False,False,False,False,False
+S854,854,sesame,literal,Kuwi,False,False,False,False,False,False,False,False,False,False
+S854,854,sesame,literal,Kurukh,False,False,False,False,False,False,False,False,False,False
+S854,854,sesame,literal,Malto,False,False,False,False,False,False,False,False,False,False
+S854,854,sesame,literal,Brahui,False,False,False,False,False,False,False,False,False,False
+S711,711,vessel / capacity measure,literal,Tamil,True,False,True,False,True,False,True,False,False,False
+S711,711,vessel / capacity measure,literal,Malayalam,True,False,True,False,True,False,True,False,False,False
+S711,711,vessel / capacity measure,literal,Kannada,True,False,True,False,True,False,True,False,False,False
+S711,711,vessel / capacity measure,literal,Telugu,True,False,True,False,True,False,True,False,False,False
+S711,711,vessel / capacity measure,literal,Tulu,True,False,True,False,True,False,True,False,False,False
+S711,711,vessel / capacity measure,literal,Kota,True,False,True,False,True,False,True,False,False,False
+S711,711,vessel / capacity measure,literal,Toda,True,False,False,False,False,False,False,False,False,False
+S711,711,vessel / capacity measure,literal,Kodagu,False,False,False,False,False,False,False,False,False,False
+S711,711,vessel / capacity measure,literal,Kolami,False,False,False,False,False,False,False,False,False,False
+S711,711,vessel / capacity measure,literal,Naikri,False,False,False,False,False,False,False,False,False,False
+S711,711,vessel / capacity measure,literal,Naiki,False,False,False,False,False,False,False,False,False,False
+S711,711,vessel / capacity measure,literal,Parji,False,False,False,False,False,False,False,False,False,False
+S711,711,vessel / capacity measure,literal,Gadaba,False,False,False,False,False,False,False,False,False,False
+S711,711,vessel / capacity measure,literal,Gondi,False,False,False,False,False,False,False,False,False,False
+S711,711,vessel / capacity measure,literal,Konda,False,False,False,False,False,False,False,False,False,False
+S711,711,vessel / capacity measure,literal,Pengo,False,False,False,False,False,False,False,False,False,False
+S711,711,vessel / capacity measure,literal,Manda,False,False,False,False,False,False,False,False,False,False
+S711,711,vessel / capacity measure,literal,Kui,False,False,False,False,False,False,False,False,False,False
+S711,711,vessel / capacity measure,literal,Kuwi,False,False,False,False,False,False,False,False,False,False
+S711,711,vessel / capacity measure,literal,Kurukh,False,False,False,False,False,False,False,False,False,False
+S711,711,vessel / capacity measure,literal,Malto,False,False,False,False,False,False,False,False,False,False
+S711,711,vessel / capacity measure,literal,Brahui,False,False,False,False,False,False,False,False,False,False
+S575,575,capacity measure kōṭṭai,literal,Tamil,True,False,True,False,True,False,True,False,False,False
+S575,575,capacity measure kōṭṭai,literal,Malayalam,True,False,False,False,False,False,False,False,False,False
+S575,575,capacity measure kōṭṭai,literal,Kannada,False,False,False,False,False,False,False,False,False,False
+S575,575,capacity measure kōṭṭai,literal,Telugu,False,False,False,False,False,False,False,False,False,False
+S575,575,capacity measure kōṭṭai,literal,Tulu,False,False,False,False,False,False,False,False,False,False
+S575,575,capacity measure kōṭṭai,literal,Kota,False,False,False,False,False,False,False,False,False,False
+S575,575,capacity measure kōṭṭai,literal,Toda,False,False,False,False,False,False,False,False,False,False
+S575,575,capacity measure kōṭṭai,literal,Kodagu,False,False,False,False,False,False,False,False,False,False
+S575,575,capacity measure kōṭṭai,literal,Kolami,False,False,False,False,False,False,False,False,False,False
+S575,575,capacity measure kōṭṭai,literal,Naikri,False,False,False,False,False,False,False,False,False,False
+S575,575,capacity measure kōṭṭai,literal,Naiki,False,False,False,False,False,False,False,False,False,False
+S575,575,capacity measure kōṭṭai,literal,Parji,False,False,False,False,False,False,False,False,False,False
+S575,575,capacity measure kōṭṭai,literal,Gadaba,False,False,False,False,False,False,False,False,False,False
+S575,575,capacity measure kōṭṭai,literal,Gondi,False,False,False,False,False,False,False,False,False,False
+S575,575,capacity measure kōṭṭai,literal,Konda,False,False,False,False,False,False,False,False,False,False
+S575,575,capacity measure kōṭṭai,literal,Pengo,False,False,False,False,False,False,False,False,False,False
+S575,575,capacity measure kōṭṭai,literal,Manda,False,False,False,False,False,False,False,False,False,False
+S575,575,capacity measure kōṭṭai,literal,Kui,False,False,False,False,False,False,False,False,False,False
+S575,575,capacity measure kōṭṭai,literal,Kuwi,False,False,False,False,False,False,False,False,False,False
+S575,575,capacity measure kōṭṭai,literal,Kurukh,False,False,False,False,False,False,False,False,False,False
+S575,575,capacity measure kōṭṭai,literal,Malto,False,False,False,False,False,False,False,False,False,False
+S575,575,capacity measure kōṭṭai,literal,Brahui,False,False,False,False,False,False,False,False,False,False
+S235,235,light component of roofed fish,literal,Tamil,True,False,True,False,True,False,True,False,False,False
+S235,235,light component of roofed fish,literal,Malayalam,True,False,True,False,True,False,True,False,False,False
+S235,235,light component of roofed fish,literal,Kannada,True,False,False,False,False,False,False,False,False,False
+S235,235,light component of roofed fish,literal,Telugu,False,False,False,False,False,False,False,False,False,False
+S235,235,light component of roofed fish,literal,Tulu,True,False,True,False,True,False,True,False,False,False
+S235,235,light component of roofed fish,literal,Kota,False,False,False,False,False,False,False,False,False,False
+S235,235,light component of roofed fish,literal,Toda,False,False,False,False,False,False,False,False,False,False
+S235,235,light component of roofed fish,literal,Kodagu,False,False,False,False,False,False,False,False,False,False
+S235,235,light component of roofed fish,literal,Kolami,False,False,False,False,False,False,False,False,False,False
+S235,235,light component of roofed fish,literal,Naikri,False,False,False,False,False,False,False,False,False,False
+S235,235,light component of roofed fish,literal,Naiki,False,False,False,False,False,False,False,False,False,False
+S235,235,light component of roofed fish,literal,Parji,False,False,False,False,False,False,False,False,False,False
+S235,235,light component of roofed fish,literal,Gadaba,False,False,False,False,False,False,False,False,False,False
+S235,235,light component of roofed fish,literal,Gondi,False,False,False,False,False,False,False,False,False,False
+S235,235,light component of roofed fish,literal,Konda,True,False,True,False,True,False,True,False,False,False
+S235,235,light component of roofed fish,literal,Pengo,False,False,False,False,False,False,False,False,False,False
+S235,235,light component of roofed fish,literal,Manda,False,False,False,False,False,False,False,False,False,False
+S235,235,light component of roofed fish,literal,Kui,False,False,False,False,False,False,False,False,False,False
+S235,235,light component of roofed fish,literal,Kuwi,False,False,False,False,False,False,False,False,False,False
+S235,235,light component of roofed fish,literal,Kurukh,False,False,False,False,False,False,False,False,False,False
+S235,235,light component of roofed fish,literal,Malto,False,False,False,False,False,False,False,False,False,False
+S235,235,light component of roofed fish,literal,Brahui,False,False,False,False,False,False,False,False,False,False
+S060,060,inside component / locative,literal,Tamil,True,False,True,False,True,False,True,False,False,False
+S060,060,inside component / locative,literal,Malayalam,True,False,True,False,True,False,True,False,False,False
+S060,060,inside component / locative,literal,Kannada,True,False,True,False,True,False,True,False,False,False
+S060,060,inside component / locative,literal,Telugu,True,False,True,False,True,False,True,False,False,False
+S060,060,inside component / locative,literal,Tulu,True,False,True,False,True,False,True,False,False,False
+S060,060,inside component / locative,literal,Kota,True,False,True,False,True,False,True,False,False,False
+S060,060,inside component / locative,literal,Toda,True,False,True,False,True,False,True,False,False,False
+S060,060,inside component / locative,literal,Kodagu,True,False,True,False,True,False,True,False,False,False
+S060,060,inside component / locative,literal,Kolami,True,False,True,False,True,False,True,False,False,False
+S060,060,inside component / locative,literal,Naikri,True,False,True,False,True,False,True,False,False,False
+S060,060,inside component / locative,literal,Naiki,True,False,True,False,True,False,True,False,False,False
+S060,060,inside component / locative,literal,Parji,True,False,False,False,False,False,False,False,False,False
+S060,060,inside component / locative,literal,Gadaba,True,False,False,False,False,False,False,False,False,False
+S060,060,inside component / locative,literal,Gondi,True,False,True,False,True,False,True,False,False,False
+S060,060,inside component / locative,literal,Konda,True,False,True,False,True,False,True,False,False,False
+S060,060,inside component / locative,literal,Pengo,False,False,False,False,False,False,False,False,False,False
+S060,060,inside component / locative,literal,Manda,False,False,False,False,False,False,False,False,False,False
+S060,060,inside component / locative,literal,Kui,True,False,True,False,True,False,True,False,False,False
+S060,060,inside component / locative,literal,Kuwi,True,False,False,False,False,False,False,False,False,False
+S060,060,inside component / locative,literal,Kurukh,True,False,True,False,True,False,True,False,False,False
+S060,060,inside component / locative,literal,Malto,True,False,True,False,True,False,True,False,False,False
+S060,060,inside component / locative,literal,Brahui,True,False,True,False,True,False,False,False,False,False
+S001,001,numeral one,numeral,Tamil,True,False,True,False,True,False,True,False,False,False
+S001,001,numeral one,numeral,Malayalam,True,False,True,False,True,False,True,False,False,False
+S001,001,numeral one,numeral,Kannada,True,False,True,False,True,False,True,False,False,False
+S001,001,numeral one,numeral,Telugu,True,False,True,False,True,False,True,False,False,False
+S001,001,numeral one,numeral,Tulu,True,False,True,False,True,False,True,False,False,False
+S001,001,numeral one,numeral,Kota,True,False,True,False,True,False,True,False,False,False
+S001,001,numeral one,numeral,Toda,True,False,True,False,True,False,True,False,False,False
+S001,001,numeral one,numeral,Kodagu,True,False,True,False,True,False,True,False,False,False
+S001,001,numeral one,numeral,Kolami,True,False,True,False,True,False,True,False,False,False
+S001,001,numeral one,numeral,Naikri,True,False,True,False,True,False,True,False,False,False
+S001,001,numeral one,numeral,Naiki,True,False,True,False,True,False,True,False,False,False
+S001,001,numeral one,numeral,Parji,True,False,True,False,True,False,True,False,False,False
+S001,001,numeral one,numeral,Gadaba,True,False,True,False,True,False,True,False,False,False
+S001,001,numeral one,numeral,Gondi,True,False,True,False,True,False,True,False,False,False
+S001,001,numeral one,numeral,Konda,True,False,True,False,True,False,True,False,False,False
+S001,001,numeral one,numeral,Pengo,True,False,True,False,True,False,True,False,False,False
+S001,001,numeral one,numeral,Manda,True,False,True,False,True,False,True,False,False,False
+S001,001,numeral one,numeral,Kui,True,False,True,False,True,False,True,False,False,False
+S001,001,numeral one,numeral,Kuwi,True,False,True,False,True,False,True,False,False,False
+S001,001,numeral one,numeral,Kurukh,True,False,True,False,True,False,True,False,False,False
+S001,001,numeral one,numeral,Malto,True,False,True,False,True,False,True,False,False,False
+S001,001,numeral one,numeral,Brahui,True,False,True,False,True,False,True,False,False,False
+S002,002,numeral two,numeral,Tamil,True,False,True,False,True,False,True,False,False,False
+S002,002,numeral two,numeral,Malayalam,True,False,True,False,True,False,True,False,False,False
+S002,002,numeral two,numeral,Kannada,True,False,True,False,True,False,True,False,False,False
+S002,002,numeral two,numeral,Telugu,True,False,True,False,True,False,True,False,False,False
+S002,002,numeral two,numeral,Tulu,True,False,True,False,True,False,True,False,False,False
+S002,002,numeral two,numeral,Kota,True,False,True,False,True,False,True,False,False,False
+S002,002,numeral two,numeral,Toda,True,False,True,False,True,False,True,False,False,False
+S002,002,numeral two,numeral,Kodagu,True,False,True,False,True,False,True,False,False,False
+S002,002,numeral two,numeral,Kolami,True,False,True,False,True,False,True,False,False,False
+S002,002,numeral two,numeral,Naikri,True,False,True,False,True,False,True,False,False,False
+S002,002,numeral two,numeral,Naiki,True,False,True,False,True,False,True,False,False,False
+S002,002,numeral two,numeral,Parji,True,False,True,False,True,False,True,False,False,False
+S002,002,numeral two,numeral,Gadaba,True,False,True,False,True,False,True,False,False,False
+S002,002,numeral two,numeral,Gondi,True,False,True,False,True,False,True,False,False,False
+S002,002,numeral two,numeral,Konda,True,False,True,False,True,False,True,False,False,False
+S002,002,numeral two,numeral,Pengo,True,False,True,False,True,False,True,False,False,False
+S002,002,numeral two,numeral,Manda,True,False,True,False,True,False,True,False,False,False
+S002,002,numeral two,numeral,Kui,True,False,True,False,True,False,True,False,False,False
+S002,002,numeral two,numeral,Kuwi,True,False,True,False,True,False,True,False,False,False
+S002,002,numeral two,numeral,Kurukh,True,False,True,False,True,False,True,False,False,False
+S002,002,numeral two,numeral,Malto,True,False,True,False,True,False,True,False,False,False
+S002,002,numeral two,numeral,Brahui,True,False,True,False,True,False,True,False,False,False
+S003,003,numeral three,numeral,Tamil,True,False,True,False,True,False,True,False,False,False
+S003,003,numeral three,numeral,Malayalam,True,False,True,False,True,False,True,False,False,False
+S003,003,numeral three,numeral,Kannada,True,False,True,False,True,False,True,False,False,False
+S003,003,numeral three,numeral,Telugu,True,False,True,False,True,False,True,False,False,False
+S003,003,numeral three,numeral,Tulu,True,False,True,False,True,False,True,False,False,False
+S003,003,numeral three,numeral,Kota,True,False,True,False,True,False,True,False,False,False
+S003,003,numeral three,numeral,Toda,True,False,True,False,True,False,True,False,False,False
+S003,003,numeral three,numeral,Kodagu,True,False,True,False,True,False,True,False,False,False
+S003,003,numeral three,numeral,Kolami,True,False,True,False,True,False,True,False,False,False
+S003,003,numeral three,numeral,Naikri,True,False,True,False,True,False,True,False,False,False
+S003,003,numeral three,numeral,Naiki,True,False,True,False,True,False,True,False,False,False
+S003,003,numeral three,numeral,Parji,True,False,True,False,True,False,True,False,False,False
+S003,003,numeral three,numeral,Gadaba,True,False,True,False,True,False,True,False,False,False
+S003,003,numeral three,numeral,Gondi,True,False,True,False,True,False,True,False,False,False
+S003,003,numeral three,numeral,Konda,True,False,True,False,True,False,True,False,False,False
+S003,003,numeral three,numeral,Pengo,False,False,False,False,False,False,False,False,False,False
+S003,003,numeral three,numeral,Manda,False,False,False,False,False,False,False,False,False,False
+S003,003,numeral three,numeral,Kui,True,False,True,False,True,False,True,False,False,False
+S003,003,numeral three,numeral,Kuwi,False,False,False,False,False,False,False,False,False,False
+S003,003,numeral three,numeral,Kurukh,True,False,True,False,True,False,True,False,False,False
+S003,003,numeral three,numeral,Malto,False,False,False,False,False,False,False,False,False,False
+S003,003,numeral three,numeral,Brahui,True,False,True,False,True,False,True,False,False,False
+S004,004,numeral four,numeral,Tamil,True,False,True,False,True,False,True,False,False,False
+S004,004,numeral four,numeral,Malayalam,True,False,True,False,True,False,True,False,False,False
+S004,004,numeral four,numeral,Kannada,True,False,True,False,True,False,True,False,False,False
+S004,004,numeral four,numeral,Telugu,True,False,True,False,True,False,True,False,False,False
+S004,004,numeral four,numeral,Tulu,True,False,True,False,True,False,True,False,False,False
+S004,004,numeral four,numeral,Kota,True,False,True,False,True,False,True,False,False,False
+S004,004,numeral four,numeral,Toda,True,False,True,False,True,False,True,False,False,False
+S004,004,numeral four,numeral,Kodagu,True,False,True,False,True,False,True,False,False,False
+S004,004,numeral four,numeral,Kolami,True,False,True,False,True,False,True,False,False,False
+S004,004,numeral four,numeral,Naikri,True,False,True,False,True,False,True,False,False,False
+S004,004,numeral four,numeral,Naiki,True,False,True,False,True,False,True,False,False,False
+S004,004,numeral four,numeral,Parji,True,False,True,False,True,False,True,False,False,False
+S004,004,numeral four,numeral,Gadaba,True,False,True,False,True,False,True,False,False,False
+S004,004,numeral four,numeral,Gondi,True,False,True,False,True,False,True,False,False,False
+S004,004,numeral four,numeral,Konda,True,False,True,False,True,False,True,False,False,False
+S004,004,numeral four,numeral,Pengo,False,False,False,False,False,False,False,False,False,False
+S004,004,numeral four,numeral,Manda,False,False,False,False,False,False,False,False,False,False
+S004,004,numeral four,numeral,Kui,True,False,True,False,True,False,True,False,False,False
+S004,004,numeral four,numeral,Kuwi,False,False,False,False,False,False,False,False,False,False
+S004,004,numeral four,numeral,Kurukh,True,False,True,False,True,False,True,False,False,False
+S004,004,numeral four,numeral,Malto,False,False,False,False,False,False,False,False,False,False
+S004,004,numeral four,numeral,Brahui,False,False,False,False,False,False,False,False,False,False
+S005,005,numeral five,numeral,Tamil,True,False,True,False,True,False,True,False,False,False
+S005,005,numeral five,numeral,Malayalam,True,False,True,False,True,False,True,False,False,False
+S005,005,numeral five,numeral,Kannada,True,False,True,False,True,False,True,False,False,False
+S005,005,numeral five,numeral,Telugu,True,False,True,False,True,False,True,False,False,False
+S005,005,numeral five,numeral,Tulu,True,False,True,False,True,False,True,False,False,False
+S005,005,numeral five,numeral,Kota,True,False,True,False,True,False,True,False,False,False
+S005,005,numeral five,numeral,Toda,True,False,True,False,True,False,True,False,False,False
+S005,005,numeral five,numeral,Kodagu,True,False,True,False,True,False,True,False,False,False
+S005,005,numeral five,numeral,Kolami,True,False,True,False,True,False,True,False,False,False
+S005,005,numeral five,numeral,Naikri,False,False,False,False,False,False,False,False,False,False
+S005,005,numeral five,numeral,Naiki,True,False,True,False,True,False,True,False,False,False
+S005,005,numeral five,numeral,Parji,True,False,True,False,True,False,True,False,False,False
+S005,005,numeral five,numeral,Gadaba,False,False,False,False,False,False,False,False,False,False
+S005,005,numeral five,numeral,Gondi,True,False,True,False,True,False,True,False,False,False
+S005,005,numeral five,numeral,Konda,False,False,False,False,False,False,False,False,False,False
+S005,005,numeral five,numeral,Pengo,False,False,False,False,False,False,False,False,False,False
+S005,005,numeral five,numeral,Manda,False,False,False,False,False,False,False,False,False,False
+S005,005,numeral five,numeral,Kui,True,False,True,False,True,False,True,False,False,False
+S005,005,numeral five,numeral,Kuwi,False,False,False,False,False,False,False,False,False,False
+S005,005,numeral five,numeral,Kurukh,False,False,False,False,False,False,False,False,False,False
+S005,005,numeral five,numeral,Malto,False,False,False,False,False,False,False,False,False,False
+S005,005,numeral five,numeral,Brahui,False,False,False,False,False,False,False,False,False,False
+S006,006,numeral six,numeral,Tamil,True,False,True,False,True,False,True,False,False,False
+S006,006,numeral six,numeral,Malayalam,True,False,True,False,True,False,True,False,False,False
+S006,006,numeral six,numeral,Kannada,True,False,True,False,True,False,True,False,False,False
+S006,006,numeral six,numeral,Telugu,True,False,True,False,True,False,True,False,False,False
+S006,006,numeral six,numeral,Tulu,True,False,True,False,True,False,True,False,False,False
+S006,006,numeral six,numeral,Kota,True,False,True,False,True,False,True,False,False,False
+S006,006,numeral six,numeral,Toda,True,False,True,False,True,False,True,False,False,False
+S006,006,numeral six,numeral,Kodagu,True,False,True,False,True,False,True,False,False,False
+S006,006,numeral six,numeral,Kolami,True,False,True,False,True,False,True,False,False,False
+S006,006,numeral six,numeral,Naikri,False,False,False,False,False,False,False,False,False,False
+S006,006,numeral six,numeral,Naiki,True,False,True,False,True,False,True,False,False,False
+S006,006,numeral six,numeral,Parji,False,False,False,False,False,False,False,False,False,False
+S006,006,numeral six,numeral,Gadaba,False,False,False,False,False,False,False,False,False,False
+S006,006,numeral six,numeral,Gondi,True,False,True,False,True,False,True,False,False,False
+S006,006,numeral six,numeral,Konda,False,False,False,False,False,False,False,False,False,False
+S006,006,numeral six,numeral,Pengo,False,False,False,False,False,False,False,False,False,False
+S006,006,numeral six,numeral,Manda,False,False,False,False,False,False,False,False,False,False
+S006,006,numeral six,numeral,Kui,True,False,True,False,True,False,True,False,False,False
+S006,006,numeral six,numeral,Kuwi,False,False,False,False,False,False,False,False,False,False
+S006,006,numeral six,numeral,Kurukh,False,False,False,False,False,False,False,False,False,False
+S006,006,numeral six,numeral,Malto,False,False,False,False,False,False,False,False,False,False
+S006,006,numeral six,numeral,Brahui,False,False,False,False,False,False,False,False,False,False
+S007,007,numeral seven,numeral,Tamil,True,False,True,False,True,False,True,False,False,False
+S007,007,numeral seven,numeral,Malayalam,True,False,True,False,True,False,True,False,False,False
+S007,007,numeral seven,numeral,Kannada,True,False,True,False,True,False,True,False,False,False
+S007,007,numeral seven,numeral,Telugu,True,False,True,False,True,False,True,False,False,False
+S007,007,numeral seven,numeral,Tulu,True,False,True,False,True,False,True,False,False,False
+S007,007,numeral seven,numeral,Kota,True,False,True,False,True,False,True,False,False,False
+S007,007,numeral seven,numeral,Toda,True,False,True,False,True,False,True,False,False,False
+S007,007,numeral seven,numeral,Kodagu,True,False,True,False,True,False,True,False,False,False
+S007,007,numeral seven,numeral,Kolami,True,False,True,False,True,False,True,False,False,False
+S007,007,numeral seven,numeral,Naikri,False,False,False,False,False,False,False,False,False,False
+S007,007,numeral seven,numeral,Naiki,False,False,False,False,False,False,False,False,False,False
+S007,007,numeral seven,numeral,Parji,False,False,False,False,False,False,False,False,False,False
+S007,007,numeral seven,numeral,Gadaba,False,False,False,False,False,False,False,False,False,False
+S007,007,numeral seven,numeral,Gondi,True,False,True,False,True,False,True,False,False,False
+S007,007,numeral seven,numeral,Konda,True,False,True,False,True,False,True,False,False,False
+S007,007,numeral seven,numeral,Pengo,False,False,False,False,False,False,False,False,False,False
+S007,007,numeral seven,numeral,Manda,False,False,False,False,False,False,False,False,False,False
+S007,007,numeral seven,numeral,Kui,True,False,True,False,True,False,True,False,False,False
+S007,007,numeral seven,numeral,Kuwi,False,False,False,False,False,False,False,False,False,False
+S007,007,numeral seven,numeral,Kurukh,False,False,False,False,False,False,False,False,False,False
+S007,007,numeral seven,numeral,Malto,False,False,False,False,False,False,False,False,False,False
+S007,007,numeral seven,numeral,Brahui,False,False,False,False,False,False,False,False,False,False
+S025,025,numeral nine,numeral,Tamil,True,False,True,False,True,False,True,False,False,False
+S025,025,numeral nine,numeral,Malayalam,True,False,True,False,True,False,True,False,False,False
+S025,025,numeral nine,numeral,Kannada,True,False,True,False,True,False,True,False,False,False
+S025,025,numeral nine,numeral,Telugu,False,False,False,False,False,False,False,False,False,False
+S025,025,numeral nine,numeral,Tulu,True,False,True,False,True,False,True,False,False,False
+S025,025,numeral nine,numeral,Kota,True,False,True,False,True,False,True,False,False,False
+S025,025,numeral nine,numeral,Toda,True,False,True,False,True,False,True,False,False,False
+S025,025,numeral nine,numeral,Kodagu,True,False,True,False,True,False,True,False,False,False
+S025,025,numeral nine,numeral,Kolami,False,False,False,False,False,False,False,False,False,False
+S025,025,numeral nine,numeral,Naikri,False,False,False,False,False,False,False,False,False,False
+S025,025,numeral nine,numeral,Naiki,False,False,False,False,False,False,False,False,False,False
+S025,025,numeral nine,numeral,Parji,False,False,False,False,False,False,False,False,False,False
+S025,025,numeral nine,numeral,Gadaba,False,False,False,False,False,False,False,False,False,False
+S025,025,numeral nine,numeral,Gondi,True,False,True,False,True,False,True,False,False,False
+S025,025,numeral nine,numeral,Konda,False,False,False,False,False,False,False,False,False,False
+S025,025,numeral nine,numeral,Pengo,False,False,False,False,False,False,False,False,False,False
+S025,025,numeral nine,numeral,Manda,False,False,False,False,False,False,False,False,False,False
+S025,025,numeral nine,numeral,Kui,False,False,False,False,False,False,False,False,False,False
+S025,025,numeral nine,numeral,Kuwi,False,False,False,False,False,False,False,False,False,False
+S025,025,numeral nine,numeral,Kurukh,False,False,False,False,False,False,False,False,False,False
+S025,025,numeral nine,numeral,Malto,False,False,False,False,False,False,False,False,False,False
+S025,025,numeral nine,numeral,Brahui,False,False,False,False,False,False,False,False,False,False
+S028,028,numeral ten,numeral,Tamil,True,False,True,False,True,False,True,False,False,False
+S028,028,numeral ten,numeral,Malayalam,True,False,True,False,True,False,True,False,False,False
+S028,028,numeral ten,numeral,Kannada,True,False,True,False,True,False,True,False,False,False
+S028,028,numeral ten,numeral,Telugu,True,False,True,False,True,False,True,False,False,False
+S028,028,numeral ten,numeral,Tulu,True,False,True,False,True,False,True,False,False,False
+S028,028,numeral ten,numeral,Kota,True,False,True,False,True,False,True,False,False,False
+S028,028,numeral ten,numeral,Toda,True,False,True,False,True,False,True,False,False,False
+S028,028,numeral ten,numeral,Kodagu,True,False,True,False,True,False,True,False,False,False
+S028,028,numeral ten,numeral,Kolami,True,False,True,False,True,False,True,False,False,False
+S028,028,numeral ten,numeral,Naikri,False,False,False,False,False,False,False,False,False,False
+S028,028,numeral ten,numeral,Naiki,False,False,False,False,False,False,False,False,False,False
+S028,028,numeral ten,numeral,Parji,False,False,False,False,False,False,False,False,False,False
+S028,028,numeral ten,numeral,Gadaba,False,False,False,False,False,False,False,False,False,False
+S028,028,numeral ten,numeral,Gondi,True,False,True,False,True,False,True,False,False,False
+S028,028,numeral ten,numeral,Konda,False,False,False,False,False,False,False,False,False,False
+S028,028,numeral ten,numeral,Pengo,False,False,False,False,False,False,False,False,False,False
+S028,028,numeral ten,numeral,Manda,False,False,False,False,False,False,False,False,False,False
+S028,028,numeral ten,numeral,Kui,False,False,False,False,False,False,False,False,False,False
+S028,028,numeral ten,numeral,Kuwi,False,False,False,False,False,False,False,False,False,False
+S028,028,numeral ten,numeral,Kurukh,False,False,False,False,False,False,False,False,False,False
+S028,028,numeral ten,numeral,Malto,False,False,False,False,False,False,False,False,False,False
+S028,028,numeral ten,numeral,Brahui,False,False,False,False,False,False,False,False,False,False
+S055,055,numeral twelve,numeral,Tamil,True,False,True,False,True,False,True,False,False,False
+S055,055,numeral twelve,numeral,Malayalam,True,False,False,False,False,False,False,False,False,False
+S055,055,numeral twelve,numeral,Kannada,True,False,False,False,False,False,False,False,False,False
+S055,055,numeral twelve,numeral,Telugu,True,False,True,False,True,False,True,False,False,False
+S055,055,numeral twelve,numeral,Tulu,True,False,False,False,False,False,False,False,False,False
+S055,055,numeral twelve,numeral,Kota,True,False,False,False,False,False,False,False,False,False
+S055,055,numeral twelve,numeral,Toda,True,False,False,False,False,False,False,False,False,False
+S055,055,numeral twelve,numeral,Kodagu,True,False,True,False,True,False,True,False,False,False
+S055,055,numeral twelve,numeral,Kolami,True,False,False,False,False,False,False,False,False,False
+S055,055,numeral twelve,numeral,Naikri,False,False,False,False,False,False,False,False,False,False
+S055,055,numeral twelve,numeral,Naiki,False,False,False,False,False,False,False,False,False,False
+S055,055,numeral twelve,numeral,Parji,False,False,False,False,False,False,False,False,False,False
+S055,055,numeral twelve,numeral,Gadaba,False,False,False,False,False,False,False,False,False,False
+S055,055,numeral twelve,numeral,Gondi,True,False,False,False,False,False,False,False,False,False
+S055,055,numeral twelve,numeral,Konda,False,False,False,False,False,False,False,False,False,False
+S055,055,numeral twelve,numeral,Pengo,False,False,False,False,False,False,False,False,False,False
+S055,055,numeral twelve,numeral,Manda,False,False,False,False,False,False,False,False,False,False
+S055,055,numeral twelve,numeral,Kui,False,False,False,False,False,False,False,False,False,False
+S055,055,numeral twelve,numeral,Kuwi,False,False,False,False,False,False,False,False,False,False
+S055,055,numeral twelve,numeral,Kurukh,False,False,False,False,False,False,False,False,False,False
+S055,055,numeral twelve,numeral,Malto,False,False,False,False,False,False,False,False,False,False
+S055,055,numeral twelve,numeral,Brahui,False,False,False,False,False,False,False,False,False,False

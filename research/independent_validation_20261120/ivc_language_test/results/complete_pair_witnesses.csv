@@ -1,0 +1,175 @@
+claim,language,level,a_form,b_form,a_entry,b_entry,a_gloss,b_gloss,a_source,b_source,flags
+S700,Tamil,exact,akal,akal,9,9,"small earthen pot having a wide mouth, hollow earthen lamp, a measure of capacity","small earthen pot having a wide mouth, hollow earthen lamp, a measure of capacity",dedr,dedr,unmarked / unmarked
+S700,Tamil,one_edit_only,aḷai,aḷa,308,295,"anthill, hole in the ground, hollow in tree, cave","to measure, limit, define",dedr,dedr,unmarked / unmarked
+S220,Tamil,exact,mīṉ,mīṉ,4885,4876,fish,star,dedr,dedr,unmarked / unmarked
+S220,Malayalam,exact,mīn,mīn,4885,4876,fish,star,dedr,dedr,unmarked / unmarked
+S220,Kannada,exact,mīn,mīn,4885,4876,fish,star,dedr,dedr,unmarked / unmarked
+S220,Kota,exact,mi·n,mi·n,4885,4876,fish,star,dedr,dedr,unmarked / unmarked
+S220,Toda,exact,mi·n,mi·n,4885,4876,fish,star,dedr,dedr,unmarked / unmarked
+S520,Tamil,one_edit_only,vēl,vēḷ,5536,5545,"dart, spear, lance, javelin, trident, weapon","petty ruler, chief, Cāḷukya king, illustrious or great man, hero; ? title given by ancient Tamil kings to Vēḷāḷas",dedr,dedr,unmarked / unmarked
+S390,Tamil,exact,tai,tai,3474,3473,young plant or tree,"to sew, stitch, nail, fasten beams with nails, spikes, or pegs, pin, plait or stitch as leaves into a plate, join, pierce, penetrate, prick as a thorn or arrow, tie, weave as a wreath, string as beads, adorn, decorate, set, enchase, wear, put on, paint; sewing, decoration, embellishment",dedr,dedr,unmarked / unmarked
+S861,Tamil,one_edit_only,kāṇ,kāṇi,1443,1444,"to see, consider, investigate, appear, become visible; sight, beauty","the fraction 1/80; a land measure; landed property, possession, hereditary right; a weight (1/40 of a mañcāṭi)",dedr,dedr,unmarked / unmarked
+S861,Kannada,one_edit_only,kāṇ,kāṇi,1443,1444,"to see, appear; seeing, appearing","property, possession, hereditary right; 1/64 of any coin; a cawney of land",dedr,dedr,unmarked / unmarked
+S861,Kannada,one_edit_only,kaṇi,kāṇi,1443,1444,"sight, spectacle, ominous sight, divination","property, possession, hereditary right; 1/64 of any coin; a cawney of land",dedr,dedr,unmarked / unmarked
+S820,Tamil,exact,kāl,kāl,1483,1479,"wheel, cart","leg, foot, base (of tree), quarter, family, relationship",dedr,dedr,unmarked / unmarked
+S820,Telugu,one_edit_only,kalu,kālu,1483,1479,a carriage wheel,"leg, foot, quarter",dedr,dedr,unmarked / unmarked
+S820,Telugu,one_edit_only,gālu,kālu,1483,1479,wheel. DED(S) 1242,"leg, foot, quarter",dedr,dedr,unmarked / unmarked
+S320,Tamil,exact,paṭi,paṭi,3850,3849,"step, stair, rung of a ladder, stirrup, grade, rank, sill","a weight (= 100 palam), the ordinary measure of capacity (= 8 ollocks); fixed daily allowance for food",dedr,dedr,unmarked / unmarked
+S320,Malayalam,exact,paṭi,paṭi,3850,3849,"step, stair, threshold, bench, sill","measure (esp. of rice), regular allowance; at the rate of",dedr,dedr,unmarked / unmarked
+S590,Tamil,one_edit_only,muṭai,mūṭai,4927,5037,"to braid, plait, wattle; ola basket, umbrella of palm-leaves","sack, sack-load, pack, packed bundle as of paddy, large receptacle for grains",dedr,dedr,unmarked / unmarked
+S615,Tamil,exact,accu,accu,48,49,weaver's reed instrument for pressing down the threads of the woof; comb-like frame in a loom through which the warp threads are passed and by which they are pressed or battened together,ridge in a field,dedr,dedr,unmarked / unmarked
+S705,Tamil,one_edit_only,kaḷam,kalam,1376,1305,"place, open space, threshing floor, battlefield","vessel, plate, utensil, earthenware, ship",dedr,dedr,unmarked / unmarked
+S705,Malayalam,one_edit_only,kaḷam,kalam,1376,1305,"threshing floor, level place for spreading grains for drying, battlefield","pot, vessel, ship",dedr,dedr,unmarked / unmarked
+S705,Kannada,one_edit_only,kaḷa,kala,1376,1305,"(koł̣t-) threshing floor, battlefield","pot, vessel",dedr,dedr,unmarked / unmarked
+S705,Kannada,one_edit_only,kaṇa,kala,1376,1305,"(koł̣t-) threshing floor, battlefield","pot, vessel",dedr,dedr,unmarked / unmarked
+S705,Telugu,one_edit_only,kalanu,kalamu,1376,1305,"war, battle, combat, (B.) threshing floor",ship,dedr,dedr,unmarked / unmarked
+S176,Tamil,one_edit_only,iru,iṟu,480,521,"to exist, remain, sit down, live, belong to (dative of person); auxiliary","to pay (as a tax, a debt)",dedr,dedr,unmarked / unmarked
+S090,Tamil,exact,āḷ,āḷ,399,5157,"man, husband, servant, labourer, adult","to rule, reign over, control or manage (as a household), cherish, maintain, keep or maintain in use",dedr,dedr,unmarked / unmarked
+S090,Tamil,exact,āḷaṉ,āḷaṉ,399,5157,husband,one who rules,dedr,dedr,unmarked / unmarked
+S090,Kannada,exact,āḷ,āḷ,399,5157,"servant, soldier, messenger, a grown person in general","to get, have, possess, govern, rule, manage",dedr,dedr,unmarked / unmarked
+S090,Kannada,exact,āḷ,āḷ,399,5157,"male; manliness, bravery","to get, have, possess, govern, rule, manage",dedr,dedr,unmarked / unmarked
+S090,Kota,one_edit_only,a·ḷ,a·ṇ,399,5157,"man, servant, husband","to possess, rule, keep, own",dedr,dedr,unmarked / unmarked
+S090,Toda,exact,o·ḷ,o·ḷ,399,5157,"man, Toda","to own (buffaloes), rule",dedr,dedr,unmarked / unmarked
+S090,Kodagu,one_edit_only,a·ḷï,a·ḷ,399,5157,servant,to rule,dedr,dedr,unmarked / unmarked
+S233,Tamil,exact,veṭi,veṭi,5473,5475,"to crack, break, split, break open, burst, explode, blossom, shoot forth; fissure, crevice, split, explosion, gun, retort","to dawn, break as day",dedr,dedr,unmarked / unmarked
+S233,Tamil,one_edit_only,veṭi,viṭi,5473,5475,"to crack, break, split, break open, burst, explode, blossom, shoot forth; fissure, crevice, split, explosion, gun, retort","to dawn, break as day",dedr,dedr,unmarked / unmarked
+S233,Tamil,one_edit_only,veṭi,viṭi,5473,5475,"to crack, break, split, break open, burst, explode, blossom, shoot forth; fissure, crevice, split, explosion, gun, retort","break of day, dawn",dedr,dedr,unmarked / unmarked
+S233,Tamil,one_edit_only,viṭu,viṭi,5473,5475,"to be split, broken, cracked; (-pp-, -tt-) to split","to dawn, break as day",dedr,dedr,unmarked / unmarked
+S233,Tamil,one_edit_only,viṭu,viṭi,5473,5475,"to be split, broken, cracked; (-pp-, -tt-) to split","break of day, dawn",dedr,dedr,unmarked / unmarked
+S415,Tamil,exact,kavar,kavar,1325,1326,"to separate into various channels, deviate, depart from instructions; churn (or with 1340); (-pp-, -tt-) to branch off (as roads), fork, bifurcate; bifurcated branch (as of tree or river), prong","to seize, grasp, catch, steal, get control of, receive, experience, desire, have sexual connexion with",dedr,dedr,unmarked / unmarked
+S415,Tamil,one_edit_only,kavai,kavar,1325,1326,"to fork (as a branch); division, cleavage (as of hoof, a crab's claws), branch of a tree, forked stick, crossroads","to seize, grasp, catch, steal, get control of, receive, experience, desire, have sexual connexion with",dedr,dedr,unmarked / unmarked
+S415,Kannada,one_edit_only,kaval,kavar,1325,1326,"to become bifurcated or forked, branch off; bifurcation, forked or lateral branch, forked stick, divided state, couple, pair","to take away by force, seize, strip, plunder",dedr,dedr,unmarked / unmarked
+S920,Tamil,exact,tiṅkaḷ,tiṅkaḷ,3213,3213,"moon, month","moon, month",dedr,dedr,unmarked / unmarked
+S920,Malayalam,one_edit_only,tiṅkaḷ,tiṅṅaḷ,3213,3213,moon,month,dedr,dedr,unmarked / unmarked
+S920,Kannada,exact,tiṅgaḷ,tiṅgaḷ,3213,3213,"moon, month","moon, month",dedr,dedr,unmarked / unmarked
+S920,Tulu,exact,tiṅgoḷu,tiṅgoḷu,3213,3213,"moon, month","moon, month",dedr,dedr,unmarked / unmarked
+S920,Kota,one_edit_only,tigḷ,tiṅgḷ,3213,3213,moon,month,dedr,dedr,unmarked / unmarked
+S407,Tamil,one_edit_only,kōṭu,kōṭi,2200,2198,"horn, tusk, branch of tree, cluster, bunch, coil of hair, line, diagram, bank of stream or pool",newly purchased cloth,dedr,dedr,unmarked / unmarked
+S806,Tamil,one_edit_only,kāmpu,kampu,1454,1242,"flower-stalk, flowering branch, handle, shaft, haft","bulrush millet, Italian millet",dedr,dedr,unmarked / unmarked
+S806,Malayalam,one_edit_only,kāmpu,kampu,1454,1242,"stem, stalk, stick of umbrella","bulrush millet, Italian millet",dedr,dedr,unmarked / unmarked
+S255,Tamil,one_edit_only,mutalai,mutalvi,4952,4950,crocodile,lady of first rank,dedr,dedr,unmarked / unmarked
+S255,Malayalam,one_edit_only,mutala,mutal,4952,4950,crocodile,"beginning; blossom or catkin of Artocarpus, considered as the first fruit (mīttu) and superstitiously plucked off; principal or capital, stock in trade, property, money",dedr,dedr,unmarked / unmarked
+S840,Tamil,exact,iṇai,iṇai,457,457,"to join, unite , agree, be suited, be like, resemble; (-pp-, -tt-) to join , tie (as a garland); union, likeness, pair, couple","to join, unite , agree, be suited, be like, resemble; (-pp-, -tt-) to join , tie (as a garland); union, likeness, pair, couple",dedr,dedr,unmarked / unmarked
+S840,Malayalam,exact,iṇa,iṇa,457,457,"pair, couple, mate, companion, union","pair, couple, mate, companion, union",dedr,dedr,unmarked / unmarked
+S840,Malayalam,exact,iṇekka,iṇekka,457,457,"to unite, couple, be equal","to unite, couple, be equal",dedr,dedr,unmarked / unmarked
+S760,Tamil,exact,kor̤untu,kor̤untu,2149,2149,"tender twig, tendril, tender leaf, shoot, anything young, tenderness","tender twig, tendril, tender leaf, shoot, anything young, tenderness",dedr,dedr,unmarked / unmarked
+S760,Tamil,one_edit_only,kur̤ai,kur̤avi,2149,2149,"to cause to sprout or shoot forth; tender leaf, sprout, shoot","infant, young of certain animals, young of the vegetable kingdom",dedr,dedr,unmarked / unmarked
+S368,Tamil,one_edit_only,koṭi,koṭu,2049,2053,"banner, flag, streamer","to give (to 3rd person; <i>Tolk. Coll.</i> 30), bring forth, allow",dedr,dedr,unmarked / unmarked
+S368,Kannada,one_edit_only,kuḍi,kuḍu,2049,2053,"pointed end, point, extreme tip of a creeper, sprout, end, top, flag, banner","to give, allow, emit (as a sound)",dedr,dedr,unmarked / unmarked
+S368,Kota,one_edit_only,koṛy,koṛ,2049,2053,flag on temple,to give to 3rd person,dedr,dedr,unmarked / unmarked
+S368,Kodagu,one_edit_only,koḍi,koḍï,2049,2053,"top (of mountain, tree, rock, table), rim of pit or tank, flag",to give to 3rd person,dedr,dedr,unmarked / unmarked
+S690,Tamil,exact,kaṭṭu,kaṭṭu,1147,1147,"to tie, fasten, build, wear, put on, bind by spells, marry, shut up, store, hug, compare with, be equal; tie, band, fastening, regulations, custom, building, marriage, bundle, packet, dam, causeway","to tie, fasten, build, wear, put on, bind by spells, marry, shut up, store, hug, compare with, be equal; tie, band, fastening, regulations, custom, building, marriage, bundle, packet, dam, causeway",dedr,dedr,unmarked / unmarked
+S690,Tamil,exact,kaṭṭaṭam,kaṭṭaṭam,1147,1147,"building, binding of a book, setting of a jewel","building, binding of a book, setting of a jewel",dedr,dedr,unmarked / unmarked
+S690,Tamil,one_edit_only,kaṭṭaṭam,kaṭṭaṇam,1147,1147,"building, binding of a book, setting of a jewel",building,dedr,dedr,unmarked / unmarked
+S690,Malayalam,exact,keṭṭuka,keṭṭuka,1147,1147,"to tie, build, clasp, yoke, dress, marry, make into a bundle, stop, restrain, build, become entangled, clot","to tie, build, clasp, yoke, dress, marry, make into a bundle, stop, restrain, build, become entangled, clot",dedr,dedr,unmarked / unmarked
+S690,Malayalam,exact,keṭṭu,keṭṭu,1147,1147,"tie, bundle, band, connexion (as of marriage), restraint, dam, bank, building","tie, bundle, band, connexion (as of marriage), restraint, dam, bank, building",dedr,dedr,unmarked / unmarked
+S690,Malayalam,exact,kaṭṭu,kaṭṭu,1147,1147,"tie, bundle","tie, bundle",dedr,dedr,unmarked / unmarked
+S690,Malayalam,one_edit_only,keṭṭu,kaṭṭu,1147,1147,"tie, bundle, band, connexion (as of marriage), restraint, dam, bank, building","tie, bundle",dedr,dedr,unmarked / unmarked
+S690,Malayalam,one_edit_only,kaṭṭu,keṭṭu,1147,1147,"tie, bundle","tie, bundle, band, connexion (as of marriage), restraint, dam, bank, building",dedr,dedr,unmarked / unmarked
+S690,Kannada,exact,kaṭṭu,kaṭṭu,1147,1147,"to bind, tie, yoke, build, shut up, stop by magic, bewitch, amass (wealth), obstruct, shut, dam, be bound, stopped; binding, tying, checking, restraint, band, tie, bundle, something built, regulation, rule, bewitching","to bind, tie, yoke, build, shut up, stop by magic, bewitch, amass (wealth), obstruct, shut, dam, be bound, stopped; binding, tying, checking, restraint, band, tie, bundle, something built, regulation, rule, bewitching",dedr,dedr,unmarked / unmarked
+S690,Telugu,one_edit_only,kaṭṭu,kaṭṭa,1147,1147,"to tie, bind, wear (clothes), build, bewitch, obstruct; tie, bond, knot, band, wearing of a garment, restraint, rule or regulation","dam, embankment; bundle (or this meaning with 1400 Ta.kaṟṟai); kaṭṭaḍa, kaṭṭaḍirule, law, fashion, manner",dedr,dedr,unmarked / unmarked
+S690,Telugu,one_edit_only,kaṭṭanamu,kaṭṭaḍamu,1147,1147,a tie,building,dedr,dedr,unmarked / unmarked
+S690,Tulu,exact,kaṭṭů,kaṭṭů,1147,1147,"band, tie, bundle, regulation, bond","band, tie, bundle, regulation, bond",dedr,dedr,unmarked / unmarked
+S690,Toda,exact,koṭ,koṭ,1147,1147,"to tie, build, kill by witchcraft, obstruct, hug, manage (a house)","knot, bundle, amulet",dedr,dedr,unmarked / unmarked
+S690,Toda,one_edit_only,koṭy,koṭ,1147,1147,"a tie, in:","knot, bundle, amulet",dedr,dedr,unmarked / unmarked
+S690,Kodagu,one_edit_only,këṭṭ,këṭṭï,1147,1147,"to tie, build","knot, bundle",dedr,dedr,unmarked / unmarked
+S550,Tamil,one_edit_only,naṭu,nāṭu,3584,3638,"middle, centre, waist, equity","(nāṭṭu-) country, district, province, locality, situation, earth, land, world, kingdom, state, rural tracts (opposite tonakaram), open place, side, agricultural tract",dedr,dedr,unmarked / unmarked
+S550,Malayalam,one_edit_only,naṭu,nāṭu,3584,3638,"middle, centre, waist, equity","cultivated land (opposite tokāṭu), the country (opposite to town), kingdom, province, smaller district",dedr,dedr,unmarked / unmarked
+S550,Kannada,one_edit_only,naḍu,nāḍu,3584,3638,"middle, centre, waist","(cultivated, planted) country (in opposition tokāḍu), province, district, country (in opposition to the town)",dedr,dedr,unmarked / unmarked
+S550,Telugu,one_edit_only,naḍu,nāḍu,3584,3638,"middle, waist",a country,dedr,dedr,unmarked / unmarked
+S550,Tulu,one_edit_only,naḍu,nāḍu,3584,3638,"middle, centre, waist, loins","district, village",dedr,dedr,unmarked / unmarked
+S892,Tamil,exact,vil,vil,5422,5421,bow,"to sell, put on sale, be sold",dedr,dedr,unmarked / unmarked
+S892,Malayalam,one_edit_only,vil,vila,5422,5421,bow,"sale, price, value",dedr,dedr,unmarked / unmarked
+S892,Kannada,exact,bil,bil,5422,5421,bow,"to sell, buy",dedr,dedr,unmarked / unmarked
+S892,Kannada,one_edit_only,bil,bili,5422,5421,bow,"to sell, buy",dedr,dedr,unmarked / unmarked
+S892,Kannada,one_edit_only,bil,bili,5422,5421,bow,"price, cost",dedr,dedr,unmarked / unmarked
+S892,Telugu,one_edit_only,vilu,vil,5422,5421,bow,"to sell, buy",dedr,dedr,unmarked / unmarked
+S140,Tamil,one_edit_only,ammai,ammaṉ,183,183,"mother, name of various goddesses, grandmother",goddess,dedr,dedr,unmarked / unmarked
+S140,Malayalam,exact,amma,amma,183,183,"mother, goddess (esp.Kāḷi); <i>interj.</i>(alsoammē, ammammā); ammammamother's mother","mother, goddess (esp.Kāḷi); <i>interj.</i>(alsoammē, ammammā); ammammamother's mother",dedr,dedr,unmarked / unmarked
+S140,Kannada,exact,amma,amma,183,183,"mother, respectable woman, grandmother, village goddess; <i> interj","mother, respectable woman, grandmother, village goddess; <i> interj",dedr,dedr,unmarked / unmarked
+S140,Kannada,exact,ama,ama,183,183,"mother, respectable woman, grandmother, village goddess; <i> interj","mother, respectable woman, grandmother, village goddess; <i> interj",dedr,dedr,unmarked / unmarked
+S140,Kannada,one_edit_only,amma,ama,183,183,"mother, respectable woman, grandmother, village goddess; <i> interj","mother, respectable woman, grandmother, village goddess; <i> interj",dedr,dedr,unmarked / unmarked
+S140,Kannada,one_edit_only,ama,amma,183,183,"mother, respectable woman, grandmother, village goddess; <i> interj","mother, respectable woman, grandmother, village goddess; <i> interj",dedr,dedr,unmarked / unmarked
+S140,Kannada,one_edit_only,amama,amma,183,183,mother,"mother, respectable woman, grandmother, village goddess; <i> interj",dedr,dedr,unmarked / unmarked
+S140,Kannada,one_edit_only,amba,amma,183,183,mother,"mother, respectable woman, grandmother, village goddess; <i> interj",dedr,dedr,unmarked / unmarked
+S140,Kannada,one_edit_only,amba,ama,183,183,mother,"mother, respectable woman, grandmother, village goddess; <i> interj",dedr,dedr,unmarked / unmarked
+S140,Kota,exact,amn,amn,183,183,mother goddess of the Kota trinity,mother goddess of the Kota trinity,dedr,dedr,unmarked / unmarked
+S140,Kota,exact,amno·r,amno·r,183,183,mother goddess of the Kota trinity,mother goddess of the Kota trinity,dedr,dedr,unmarked / unmarked
+S140,Kota,exact,amna·c,amna·c,183,183,mother goddess of the Kota trinity,mother goddess of the Kota trinity,dedr,dedr,unmarked / unmarked
+S154,Tamil,exact,kā,kā,1417,1416,"pole with ropes hung on each end, used to carry loads on the shoulder; lever or beam for a well-sweep, lever of a steelyard","to preserve, shelter, watch, guard, ward off, rescue, wait for; preservation, protection",dedr,dedr,unmarked / unmarked
+S154,Kannada,one_edit_only,kāvaḍi,kāvali,1417,1416,"bamboo lath or pole provided with slings at each end for the conveyance of pitchers, etc","guarding, protecting, watching, a guard, custody, place where anything is guarded",dedr,dedr,unmarked / unmarked
+S154,Telugu,one_edit_only,kāvaṭi,kāvali,1417,1416,"yoke or pole with a sling attached to each end, placed upon the shoulder for carrying burdens","guard, guarding, protection, watch, custody",dedr,dedr,unmarked / unmarked
+S154,Telugu,one_edit_only,kāvaḍi,kāvali,1417,1416,"yoke or pole with a sling attached to each end, placed upon the shoulder for carrying burdens","guard, guarding, protection, watch, custody",dedr,dedr,unmarked / unmarked
+S154,Telugu,one_edit_only,kāvaḍi,kāvali,1417,1416,"yoke of plough, etc","guard, guarding, protection, watch, custody",dedr;VPK-Telugu,dedr,unmarked / unmarked
+S154,Gadaba,one_edit_only,kāñ,kāp,1417,1416,to carry with carrying yoke,"to wait, watch, keep awake",dedr;Oll-Gadaba,dedr;Oll-Gadaba,unmarked / unmarked
+S142,Tamil,one_edit_only,kōl,kol,2237,2133,"stick, staff, branch, arrow","working in iron, blacksmith",dedr,dedr,unmarked / unmarked
+S503,Tamil,one_edit_only,malai,mālai,4742,4827,"hill, mountain","garland, wreath, necklace, anything strung together, line, row",dedr,dedr,unmarked / unmarked
+S503,Malayalam,one_edit_only,mala,māla,4742,4827,"mountain, raised land, hill-land","garland, wreath, necklace, dewlap",dedr,dedr,unmarked / unmarked
+S503,Kannada,one_edit_only,male,māle,4742,4827,"mountain, forest","wreath, garland, necklace, row, line, series (one of the tatsamas)",dedr,dedr,unmarked / unmarked
+S503,Telugu,one_edit_only,mala,māla,4742,4827,mountain,"garland, wreath, necklace",dedr,dedr,unmarked / unmarked
+S503,Tulu,one_edit_only,malè,mālè,4742,4827,"forest, hill overgrown with forest","garland, wreath, necklace",dedr,dedr,unmarked / unmarked
+S503,Kodagu,one_edit_only,male,ma·le,4742,4827,"thick jungle land, cardamom plantation in jungle on mountain-side","necklace, dewlap, jungle cock's ruff of neck-feathers",dedr,dedr,unmarked / unmarked
+S435,Tamil,exact,tōṭṭi,tōṭṭi,3547,3546,"elephant hook or goad, hook, clasp, sharp weapon planted in the ground to keep off enemies","menial servant of a village, scavenger",dedr,dedr,unmarked / unmarked
+S435,Kannada,one_edit_only,dōṭi,tōṭi,3547,3546,"pole with a hook for plucking fruit, gathering flowers","an inferior village servant, esp. one who performs the lowest offices, a sweeper, scavenger",dedr,dedr,unmarked / unmarked
+S435,Kannada,one_edit_only,lōṭi,tōṭi,3547,3546,"pole with a hook for plucking fruit, gathering flowers","an inferior village servant, esp. one who performs the lowest offices, a sweeper, scavenger",dedr,dedr,unmarked / unmarked
+S845,Tamil,exact,vari,vari,5263,5266,"to write, paint, draw; (-pp-, -tt-) id., adorn, decorate; line, streak, stripe, course (as of bricks), line (as of writing), row","tax, impost, duty, toll, contribution",dedr,dedr,unmarked / unmarked
+S845,Tamil,one_edit_only,varai,vari,5263,5266,"to write, inscribe, paint, draw; line, wrinkle","tax, impost, duty, toll, contribution",dedr,dedr,unmarked / unmarked
+S845,Malayalam,exact,vari,vari,5263,5266,"line, rule, row","tax, levy, contribution",dedr,dedr,unmarked / unmarked
+S845,Malayalam,one_edit_only,vara,vari,5263,5266,"line, streak, furrow, wrinkle","tax, levy, contribution",dedr,dedr,unmarked / unmarked
+S845,Kota,one_edit_only,varv,vary,5263,5266,to write,"tax paid to government or to Kurumbas, tax paid by Badaga to Kota",dedr,dedr,unmarked / unmarked
+S850,Tamil,one_edit_only,kaṇ,kaṉ,1159,1402,"eye, aperture, orifice, star of a peacock's tail","copper work, copper, workmanship",dedr,dedr,unmarked / unmarked
+S413,Tamil,exact,ari,ari,215,216,"rice, paddy, ear of paddy","tax, duty",dedr,dedr,unmarked / unmarked
+S413,Tamil,exact,ari,ari,215,212,"rice, paddy, ear of paddy","to cut off, nip off; (-pp-, -tt-) to gnaw as white ants; cutting",dedr,dedr,unmarked / unmarked
+S413,Tamil,one_edit_only,arici,arivi,215,212,"rice without husk, any husked grain","reaped corn, handful of reaped grain",dedr,dedr,unmarked / unmarked
+S350,Tamil,one_edit_only,toṭṭi,tōṭṭi,3485,3546,"fence, yard, pound, enclosure for selling timber or firewood, small village","menial servant of a village, scavenger",dedr,dedr,unmarked / unmarked
+S482,Tamil,exact,kō,kō,2178,2177,mountain,"emperor, king, great man, leadership",dedr,dedr,unmarked / unmarked
+S335,Kannada,one_edit_only,caṭṭa,caṭṭi,2304,2306,"frame of a cart, bedstead, chair, or picture, bottom or platform of a cart, bier; plan, order, regulation, neatness, fineness",earthen pot or pan,dedr,dedr,unmarked / unmarked
+S335,Tulu,one_edit_only,caṭṭa,caṭṭi,2304,2306,"a litter, sort of palanquin, bier, window frame","broad-mouthed spittoon, chamber pot",dedr,dedr,unmarked / unmarked
+S540,Tamil,exact,paṟai,paṟai,4032,4032,"drum, a measure of capacity, Paṟaiya caste","drum, a measure of capacity, Paṟaiya caste",dedr,dedr,unmarked / unmarked
+S540,Malayalam,exact,paṟa,paṟa,4032,4032,"drum, a rice measure, disk, circle","drum, a rice measure, disk, circle",dedr,dedr,unmarked / unmarked
+S630,Tamil,exact,kūṭu,kūṭu,1883,1882,"nest, birdcage, coop, hive, pen, sty, kennel, receptacle for grain, dome, cupola, quiver, sheath, envelope","to come together, join, meet, assemble, combine, become conciliated, be stored up, happen, associate, cohabit, arrive at, be possible, be fit, proper, be achieved",dedr,dedr,unmarked / unmarked
+S630,Tamil,one_edit_only,kūṭu,kūṭa,1883,1882,"nest, birdcage, coop, hive, pen, sty, kennel, receptacle for grain, dome, cupola, quiver, sheath, envelope","together with, in addition to",dedr,dedr,unmarked / unmarked
+S630,Tamil,one_edit_only,kūṭu,kūṭṭu,1883,1882,"nest, birdcage, coop, hive, pen, sty, kennel, receptacle for grain, dome, cupola, quiver, sheath, envelope","to unite , join, combine, mingle, add, convoke (an assembly); fellowship, assistance, relationship, throng, illicit intercourse, mixture",dedr,dedr,unmarked / unmarked
+S630,Tamil,one_edit_only,kūṇṭu,kūṭu,1883,1882,hen-coop,"to come together, join, meet, assemble, combine, become conciliated, be stored up, happen, associate, cohabit, arrive at, be possible, be fit, proper, be achieved",dedr;Koll-Tam,dedr,unmarked / unmarked
+S630,Tamil,one_edit_only,kūṇṭu,kūṭṭu,1883,1882,hen-coop,"to unite , join, combine, mingle, add, convoke (an assembly); fellowship, assistance, relationship, throng, illicit intercourse, mixture",dedr;Koll-Tam,dedr,unmarked / unmarked
+S630,Tamil,one_edit_only,kūṇṭu,kūṭu,1883,1882,cage,"to come together, join, meet, assemble, combine, become conciliated, be stored up, happen, associate, cohabit, arrive at, be possible, be fit, proper, be achieved",dedr;PPTI-Tam,dedr,unmarked / unmarked
+S630,Tamil,one_edit_only,kūṇṭu,kūṭṭu,1883,1882,cage,"to unite , join, combine, mingle, add, convoke (an assembly); fellowship, assistance, relationship, throng, illicit intercourse, mixture",dedr;PPTI-Tam,dedr,unmarked / unmarked
+S630,Malayalam,one_edit_only,kūṭu,kūṭṭu,1883,1882,"receptacle, nest, cage","joining, fellowship, mixture, agreement",dedr,dedr,unmarked / unmarked
+S630,Kannada,one_edit_only,gūḍu,kūḍu,1883,1882,"nest, dove-cot, fowl-house, lodging, trap for catching wild animals, cage, pit of the stomach, hollow in bones","to join , unite, come together, be endowed with, be possible, be fit, take place, have sexual intercourse, add; joining, association, company",dedr,dedr,unmarked / unmarked
+S630,Kota,one_edit_only,gu·ṛ,ku·ṛ,1883,1882,"nest, large hollow, belly (of man or animal), cupboard, shelf","to join , gather, meet, assemble, (cows) enter shed, (day) comes close at hand, (wound) heals",dedr,dedr,unmarked / unmarked
+S630,Toda,one_edit_only,ku·ḍ,ku·ṛ,1883,1882,nest,"to join , have intercourse with, finish (doing so-and-so)",dedr,dedr,unmarked / unmarked
+S630,Toda,one_edit_only,ku·ḍ,ku·ṭ,1883,1882,nest,"to join , close (eye)",dedr,dedr,unmarked / unmarked
+S630,Gondi,one_edit_only,gūḍā,gūḍ,1883,1882,bird's nest,to assemble (<i>Voc.</i> 833),dedr;Tr-Gondi,dedr,unmarked / unmarked
+S630,Gondi,one_edit_only,gūḍa,gūḍ,1883,1882,"nest, (Mu. also) pigsty (<i>Voc.</i> 1171)",to assemble (<i>Voc.</i> 833),dedr;A-Gondi,dedr,unmarked / unmarked
+S171,Tamil,exact,tūṅkal,tūṅkal,3376,3376,"pendant, anything suspended, drowsiness, light sleep, dullness, depression, balance, scales, dancing, a tune of slow measure","pendant, anything suspended, drowsiness, light sleep, dullness, depression, balance, scales, dancing, a tune of slow measure",dedr,dedr,unmarked / unmarked
+S171,Tamil,exact,tūkku,tūkku,3376,3376,"to lift up, raise, hoist, weigh, balance, consider, compare, hang, suspend, shake, agitate; pendant, anything suspended, balance, weight, plumb-line, height, perpendicularity, steepness, comparison, similitude, deliberation, pondering, dancing","to lift up, raise, hoist, weigh, balance, consider, compare, hang, suspend, shake, agitate; pendant, anything suspended, balance, weight, plumb-line, height, perpendicularity, steepness, comparison, similitude, deliberation, pondering, dancing",dedr,dedr,unmarked / unmarked
+S171,Tamil,exact,tūkkam,tūkkam,3376,3376,"sleep, drowsiness, fatigue, weariness, laziness, drooping, delay, pendants in jewels, a kind of garland, ornamental hanging, a kind of ear-ornament, weighing, height, rise in price","sleep, drowsiness, fatigue, weariness, laziness, drooping, delay, pendants in jewels, a kind of garland, ornamental hanging, a kind of ear-ornament, weighing, height, rise in price",dedr,dedr,unmarked / unmarked
+S171,Tamil,one_edit_only,tūṅku,tūkku,3376,3376,"to hang, be suspended, swing, sway from side to side as an elephant, dance, sleep, slumber, die, spin as a top, droop as a plant, be sluggish, slow; delay, procrastinate, walk or trudge slowly, rest profoundly","to lift up, raise, hoist, weigh, balance, consider, compare, hang, suspend, shake, agitate; pendant, anything suspended, balance, weight, plumb-line, height, perpendicularity, steepness, comparison, similitude, deliberation, pondering, dancing",dedr,dedr,unmarked / unmarked
+S171,Malayalam,exact,tūṅṅuka,tūṅṅuka,3376,3376,"to hang, be suspended, dangle, be weighed, be drowsy, sleep","to hang, be suspended, dangle, be weighed, be drowsy, sleep",dedr,dedr,unmarked / unmarked
+S171,Malayalam,exact,tūkkuka,tūkkuka,3376,3376,"to suspend, hang up, weigh, take up, nod, be drowsy","to suspend, hang up, weigh, take up, nod, be drowsy",dedr,dedr,unmarked / unmarked
+S171,Malayalam,exact,tūkkam,tūkkam,3376,3376,"hanging, esp. the ceremony of swinging suspended by hooks in honour of Kāḷi, weighing, weight, precipice, perpendicular, sleepiness, a cradle of cloth suspended by the four corners","hanging, esp. the ceremony of swinging suspended by hooks in honour of Kāḷi, weighing, weight, precipice, perpendicular, sleepiness, a cradle of cloth suspended by the four corners",dedr,dedr,unmarked / unmarked
+S171,Malayalam,exact,tūkkikka,tūkkikka,3376,3376,"to have hanged, get weighed","to have hanged, get weighed",dedr,dedr,unmarked / unmarked
+S171,Kannada,exact,tūgu,tūgu,3376,3376,"to weigh, swing or rock as a cradle, wag or move the head from side to side, hold or lift up and wave, swing, nod as in sleep or be drowsy, hang, be suspended, dangle, wave; weighing, swinging about, oscillation, waving, wagging","to weigh, swing or rock as a cradle, wag or move the head from side to side, hold or lift up and wave, swing, nod as in sleep or be drowsy, hang, be suspended, dangle, wave; weighing, swinging about, oscillation, waving, wagging",dedr,dedr,unmarked / unmarked
+S171,Kannada,exact,tūṅku,tūṅku,3376,3376,"to weigh, swing or rock as a cradle, wag or move the head from side to side, hold or lift up and wave, swing, nod as in sleep or be drowsy, hang, be suspended, dangle, wave; weighing, swinging about, oscillation, waving, wagging","to weigh, swing or rock as a cradle, wag or move the head from side to side, hold or lift up and wave, swing, nod as in sleep or be drowsy, hang, be suspended, dangle, wave; weighing, swinging about, oscillation, waving, wagging",dedr,dedr,unmarked / unmarked
+S171,Kannada,one_edit_only,tūgu,tūku,3376,3376,"to weigh, swing or rock as a cradle, wag or move the head from side to side, hold or lift up and wave, swing, nod as in sleep or be drowsy, hang, be suspended, dangle, wave; weighing, swinging about, oscillation, waving, wagging","weight, moving up and down or backwards and forwards, nodding",dedr,dedr,unmarked / unmarked
+S171,Kannada,one_edit_only,tūṅku,tūku,3376,3376,"to weigh, swing or rock as a cradle, wag or move the head from side to side, hold or lift up and wave, swing, nod as in sleep or be drowsy, hang, be suspended, dangle, wave; weighing, swinging about, oscillation, waving, wagging","weight, moving up and down or backwards and forwards, nodding",dedr,dedr,unmarked / unmarked
+S171,Telugu,exact,tū̃gu,tū̃gu,3376,3376,"to hang, swing, rock, reel, doze, slumber, weigh","to hang, swing, rock, reel, doze, slumber, weigh",dedr,dedr,unmarked / unmarked
+S171,Telugu,one_edit_only,tū̃gu,tū̃cu,3376,3376,"to hang, swing, rock, reel, doze, slumber, weigh","to weigh, find the weight of",dedr,dedr,unmarked / unmarked
+S171,Tulu,exact,tūkuni,tūkuni,3376,3376,"to weigh, hang, suspend, swing, rock (as a cradle)","to weigh, hang, suspend, swing, rock (as a cradle)",dedr,dedr,unmarked / unmarked
+S171,Tulu,exact,tūguni,tūguni,3376,3376,"to weigh, hang, suspend, swing, rock (as a cradle)","to weigh, hang, suspend, swing, rock (as a cradle)",dedr,dedr,unmarked / unmarked
+S171,Tulu,exact,tūkāvuni,tūkāvuni,3376,3376,"to cause to weigh, hang up","to cause to weigh, hang up",dedr,dedr,unmarked / unmarked
+S171,Tulu,one_edit_only,tūkuni,tūguni,3376,3376,"to weigh, hang, suspend, swing, rock (as a cradle)","to weigh, hang, suspend, swing, rock (as a cradle)",dedr,dedr,unmarked / unmarked
+S171,Tulu,one_edit_only,tūguni,tūkuni,3376,3376,"to weigh, hang, suspend, swing, rock (as a cradle)","to weigh, hang, suspend, swing, rock (as a cradle)",dedr,dedr,unmarked / unmarked
+S171,Tulu,one_edit_only,tūku,tūka,3376,3376,hanging,"weight, weighing",dedr,dedr,unmarked / unmarked
+S171,Kota,exact,tu·g,tu·g,3376,3376,"to hang, weigh","to hang, weigh",dedr,dedr,unmarked / unmarked
+S171,Kota,one_edit_only,tu·g,tu·k,3376,3376,"to hang, weigh","to carry on shoulder, weigh",dedr,dedr,unmarked / unmarked
+S171,Kota,one_edit_only,tu·g,tu·gm,3376,3376,"to hang, weigh",weight,dedr,dedr,unmarked / unmarked
+S171,Kodagu,exact,tu·k,tu·k,3376,3376,"to hang, weigh","to hang, weigh",dedr,dedr,unmarked / unmarked
+S171,Kuwi,exact,tūk,tūk,3376,3376,"to hang, hang up, weigh","to hang, hang up, weigh",dedr,dedr,unmarked / unmarked
+S831,Tamil,exact,alaku,alaku,237,255,"blade of a weapon, or instrument, head of an arrow, weaver's stay or staff to adjust a warp","grains of paddy, ear of paddy or other grain",dedr,dedr,unmarked / unmarked
+S165,Tamil,exact,kūṉ,kūṉ,1927,1928,"bend, curve, hump on the back, humpback, snail",cauldron,dedr,dedr,unmarked / unmarked
+S165,Tamil,one_edit_only,kūṉu,kūṉ,1927,1928,"to curve, become crooked, bend down, become hunchbacked",cauldron,dedr,dedr,unmarked / unmarked
+S165,Tamil,one_edit_only,kūṉi,kūṉ,1927,1928,"to bend (as a bow), bow, stoop",cauldron,dedr,dedr,unmarked / unmarked
+S165,Tamil,one_edit_only,kūṉi,kūṉ,1927,1928,"to bend , curve; curvature, bow (weapon)",cauldron,dedr,dedr,unmarked / unmarked
+S104,Tamil,one_edit_only,tāṇṭu,taṇṭu,3158,3054,"to dance, skip, jump, leap across, jump over, cross, step over, transgress, surpass, excel; a leap, jump","to collect, levy, recover (as debts, rents, taxes, etc.)",dedr,dedr,unmarked / unmarked
+S104,Malayalam,one_edit_only,tāṇṭuka,taṇṭuka,3158,3054,to jump across; put into another place,to collect,dedr,dedr;Kauṭ-Mal,unmarked / unmarked

@@ -1,0 +1,203 @@
+{
+  "source": "Grignard 1924, An Oraon-English Dictionary, complete public scan OCR",
+  "bytes": 2379163,
+  "characters": 2360435,
+  "paragraph_blocks": 12142,
+  "candidate_claim_block_pairs": 136,
+  "distinct_candidate_blocks": 126,
+  "interpretation": "Full-text search only. Paragraph blocks are NOT headwords. No OCR candidate is added to fixed-family scores without etymological identification.",
+  "by_claim": [
+    {
+      "claim": "S740",
+      "candidate_blocks": 16
+    },
+    {
+      "claim": "S700",
+      "candidate_blocks": 0
+    },
+    {
+      "claim": "S400",
+      "candidate_blocks": 2
+    },
+    {
+      "claim": "S220",
+      "candidate_blocks": 0
+    },
+    {
+      "claim": "S520",
+      "candidate_blocks": 0
+    },
+    {
+      "claim": "S390",
+      "candidate_blocks": 5
+    },
+    {
+      "claim": "S861",
+      "candidate_blocks": 3
+    },
+    {
+      "claim": "S820",
+      "candidate_blocks": 2
+    },
+    {
+      "claim": "S320",
+      "candidate_blocks": 0
+    },
+    {
+      "claim": "S590",
+      "candidate_blocks": 11
+    },
+    {
+      "claim": "S615",
+      "candidate_blocks": 1
+    },
+    {
+      "claim": "S705",
+      "candidate_blocks": 9
+    },
+    {
+      "claim": "S176",
+      "candidate_blocks": 1
+    },
+    {
+      "claim": "S090",
+      "candidate_blocks": 7
+    },
+    {
+      "claim": "S233",
+      "candidate_blocks": 1
+    },
+    {
+      "claim": "S415",
+      "candidate_blocks": 0
+    },
+    {
+      "claim": "S920",
+      "candidate_blocks": 3
+    },
+    {
+      "claim": "S407",
+      "candidate_blocks": 0
+    },
+    {
+      "claim": "S806",
+      "candidate_blocks": 2
+    },
+    {
+      "claim": "S798",
+      "candidate_blocks": 0
+    },
+    {
+      "claim": "S255",
+      "candidate_blocks": 0
+    },
+    {
+      "claim": "S840",
+      "candidate_blocks": 4
+    },
+    {
+      "claim": "S760",
+      "candidate_blocks": 13
+    },
+    {
+      "claim": "S368",
+      "candidate_blocks": 0
+    },
+    {
+      "claim": "S690",
+      "candidate_blocks": 7
+    },
+    {
+      "claim": "S550",
+      "candidate_blocks": 0
+    },
+    {
+      "claim": "S892",
+      "candidate_blocks": 0
+    },
+    {
+      "claim": "S140",
+      "candidate_blocks": 1
+    },
+    {
+      "claim": "S154",
+      "candidate_blocks": 1
+    },
+    {
+      "claim": "S142",
+      "candidate_blocks": 6
+    },
+    {
+      "claim": "S503",
+      "candidate_blocks": 0
+    },
+    {
+      "claim": "S440",
+      "candidate_blocks": 0
+    },
+    {
+      "claim": "S435",
+      "candidate_blocks": 0
+    },
+    {
+      "claim": "S845",
+      "candidate_blocks": 2
+    },
+    {
+      "claim": "S850",
+      "candidate_blocks": 0
+    },
+    {
+      "claim": "S717",
+      "candidate_blocks": 0
+    },
+    {
+      "claim": "S413",
+      "candidate_blocks": 26
+    },
+    {
+      "claim": "S350",
+      "candidate_blocks": 0
+    },
+    {
+      "claim": "S460",
+      "candidate_blocks": 0
+    },
+    {
+      "claim": "S482",
+      "candidate_blocks": 1
+    },
+    {
+      "claim": "S480",
+      "candidate_blocks": 2
+    },
+    {
+      "claim": "S335",
+      "candidate_blocks": 0
+    },
+    {
+      "claim": "S540",
+      "candidate_blocks": 0
+    },
+    {
+      "claim": "S630",
+      "candidate_blocks": 0
+    },
+    {
+      "claim": "S171",
+      "candidate_blocks": 3
+    },
+    {
+      "claim": "S831",
+      "candidate_blocks": 5
+    },
+    {
+      "claim": "S165",
+      "candidate_blocks": 0
+    },
+    {
+      "claim": "S104",
+      "candidate_blocks": 2
+    }
+  ]
+}

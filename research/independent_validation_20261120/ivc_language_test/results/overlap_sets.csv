@@ -1,0 +1,202 @@
+claim,title,measure,count,languages,unattested
+S740,jar → house,target_meaning,7,Tamil; Malayalam; Kannada; Kota; Toda; Kodagu; Kui,Telugu; Tulu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kuwi; Kurukh; Malto; Brahui
+S740,jar → house,both_meanings,6,Tamil; Malayalam; Kannada; Kota; Toda; Kodagu,Telugu; Tulu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S740,jar → house,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S700,bowl / hollow → measure,target_meaning,12,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Pengo; Manda; Kui; Kuwi,Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Kurukh; Malto; Brahui
+S700,bowl / hollow → measure,both_meanings,2,Tamil; Malayalam,Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S700,bowl / hollow → measure,strict_complete,1,Tamil,Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S400,comb → small / junior,target_meaning,5,Malayalam; Kannada; Telugu; Tulu; Kodagu,Tamil; Kota; Toda; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S400,comb → small / junior,both_meanings,3,Malayalam; Kannada; Telugu,Tamil; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S400,comb → small / junior,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S220,fish → star,target_meaning,8,Tamil; Malayalam; Kannada; Kota; Toda; Gondi; Kurukh; Malto,Telugu; Tulu; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Konda; Pengo; Manda; Kui; Kuwi; Brahui
+S220,fish → star,both_meanings,6,Tamil; Malayalam; Kannada; Kota; Toda; Malto,Telugu; Tulu; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Brahui
+S220,fish → star,strict_complete,5,Tamil; Malayalam; Kannada; Kota; Toda,Telugu; Tulu; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S520,spear → chief,target_meaning,2,Tamil; Kurukh,Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Malto; Brahui
+S520,spear → chief,both_meanings,1,Tamil,Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S520,spear → chief,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S390,tree → sew / weave,target_meaning,3,Tamil; Malayalam; Kuwi,Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kurukh; Malto; Brahui
+S390,tree → sew / weave,both_meanings,2,Tamil; Malayalam,Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S390,tree → sew / weave,strict_complete,1,Tamil,Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S861,eye / sight → weight / property,target_meaning,4,Tamil; Malayalam; Kannada; Tulu,Telugu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S861,eye / sight → weight / property,both_meanings,4,Tamil; Malayalam; Kannada; Tulu,Telugu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S861,eye / sight → weight / property,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S820,wheel → quarter / leg,target_meaning,17,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi,Naikri; Naiki; Kurukh; Malto; Brahui
+S820,wheel → quarter / leg,both_meanings,4,Tamil; Kannada; Telugu; Tulu,Malayalam; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S820,wheel → quarter / leg,strict_complete,1,Tamil,Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S320,step / ladder → ration / measure,target_meaning,6,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota,Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S320,step / ladder → ration / measure,both_meanings,4,Tamil; Malayalam; Telugu; Kota,Kannada; Tulu; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S320,step / ladder → ration / measure,strict_complete,2,Tamil; Malayalam,Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S590,basket / plait → bale / load,target_meaning,10,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Gondi; Konda; Kuwi; Kurukh,Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Pengo; Manda; Kui; Malto; Brahui
+S590,basket / plait → bale / load,both_meanings,3,Tamil; Telugu; Tulu,Malayalam; Kannada; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S590,basket / plait → bale / load,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S615,loom frame → field plot,target_meaning,1,Tamil,Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S615,loom frame → field plot,both_meanings,1,Tamil,Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S615,loom frame → field plot,strict_complete,1,Tamil,Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S705,threshing floor → vessel / ship,target_meaning,5,Tamil; Malayalam; Kannada; Telugu; Tulu,Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S705,threshing floor → vessel / ship,both_meanings,4,Tamil; Malayalam; Kannada; Telugu,Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S705,threshing floor → vessel / ship,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S176,sit / remain → tribute,target_meaning,2,Tamil; Malayalam,Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S176,sit / remain → tribute,both_meanings,2,Tamil; Malayalam,Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S176,sit / remain → tribute,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S090,man → manager / ruler,target_meaning,8,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu,Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S090,man → manager / ruler,both_meanings,7,Tamil; Malayalam; Kannada; Tulu; Kota; Toda; Kodagu,Telugu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S090,man → manager / ruler,strict_complete,3,Tamil; Kannada; Toda,Malayalam; Telugu; Tulu; Kota; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S233,split → dawn / light,target_meaning,3,Tamil; Kota; Toda,Malayalam; Kannada; Telugu; Tulu; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S233,split → dawn / light,both_meanings,1,Tamil,Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S233,split → dawn / light,strict_complete,1,Tamil,Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S415,fork / branch → seize,target_meaning,3,Tamil; Kannada; Telugu,Malayalam; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S415,fork / branch → seize,both_meanings,2,Tamil; Kannada,Malayalam; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S415,fork / branch → seize,strict_complete,1,Tamil,Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S920,moon ↔ month,target_meaning,7,Tamil; Malayalam; Kannada; Tulu; Kota; Toda; Kodagu,Telugu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S920,moon ↔ month,both_meanings,6,Tamil; Malayalam; Kannada; Tulu; Kota; Toda,Telugu; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S920,moon ↔ month,strict_complete,3,Tamil; Kannada; Tulu,Malayalam; Telugu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S407,branch → cloth,target_meaning,2,Tamil; Malayalam,Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S407,branch → cloth,both_meanings,1,Tamil,Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S407,branch → cloth,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S806,stalk → millet,target_meaning,2,Tamil; Malayalam,Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S806,stalk → millet,both_meanings,2,Tamil; Malayalam,Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S806,stalk → millet,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S798,shell → bind / build house,target_meaning,4,Gondi; Konda; Kui; Kuwi,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Pengo; Manda; Kurukh; Malto; Brahui
+S798,shell → bind / build house,both_meanings,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S798,shell → bind / build house,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S255,crocodile → first / principal,target_meaning,8,Tamil; Malayalam; Kannada; Telugu; Tulu; Gadaba; Gondi; Konda,Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S255,crocodile → first / principal,both_meanings,5,Tamil; Malayalam; Kannada; Telugu; Tulu,Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S255,crocodile → first / principal,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S840,pair ↔ join,target_meaning,3,Tamil; Malayalam; Telugu,Kannada; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S840,pair ↔ join,both_meanings,2,Tamil; Malayalam,Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S840,pair ↔ join,strict_complete,2,Tamil; Malayalam,Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S760,sprout ↔ young / child,target_meaning,5,Tamil; Telugu; Konda; Pengo; Malto,Malayalam; Kannada; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Manda; Kui; Kuwi; Kurukh; Brahui
+S760,sprout ↔ young / child,both_meanings,2,Tamil; Malto,Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Brahui
+S760,sprout ↔ young / child,strict_complete,1,Tamil,Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S368,flag → give / grant,target_meaning,7,Tamil; Malayalam; Kannada; Tulu; Kota; Toda; Kodagu,Telugu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S368,flag → give / grant,both_meanings,6,Tamil; Malayalam; Kannada; Tulu; Kota; Kodagu,Telugu; Toda; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S368,flag → give / grant,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S690,tie ↔ bundle / building,target_meaning,8,Tamil; Malayalam; Kannada; Telugu; Tulu; Toda; Kodagu; Konda,Kota; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S690,tie ↔ bundle / building,both_meanings,7,Tamil; Malayalam; Kannada; Telugu; Tulu; Toda; Kodagu,Kota; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S690,tie ↔ bundle / building,strict_complete,5,Tamil; Malayalam; Kannada; Tulu; Toda,Telugu; Kota; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S550,waist / middle → district,target_meaning,10,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Kodagu; Gondi; Kui; Kuwi,Toda; Kolami; Naikri; Naiki; Parji; Gadaba; Konda; Pengo; Manda; Kurukh; Malto; Brahui
+S550,waist / middle → district,both_meanings,8,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Kodagu; Gondi,Toda; Kolami; Naikri; Naiki; Parji; Gadaba; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S550,waist / middle → district,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S892,bow → sell,target_meaning,7,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda,Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S892,bow → sell,both_meanings,7,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda,Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S892,bow → sell,strict_complete,2,Tamil; Kannada,Malayalam; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S140,mother / lady ↔ goddess,target_meaning,4,Tamil; Malayalam; Kannada; Kota,Telugu; Tulu; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S140,mother / lady ↔ goddess,both_meanings,4,Tamil; Malayalam; Kannada; Kota,Telugu; Tulu; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S140,mother / lady ↔ goddess,strict_complete,3,Malayalam; Kannada; Kota,Tamil; Telugu; Tulu; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S154,carrying pole → guard,target_meaning,16,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Gadaba; Gondi; Pengo; Manda; Kuwi; Kurukh; Malto,Naikri; Naiki; Parji; Konda; Kui; Brahui
+S154,carrying pole → guard,both_meanings,10,Tamil; Malayalam; Kannada; Telugu; Kolami; Gadaba; Gondi; Pengo; Manda; Kuwi,Tulu; Kota; Toda; Kodagu; Naikri; Naiki; Parji; Konda; Kui; Kurukh; Malto; Brahui
+S154,carrying pole → guard,strict_complete,1,Tamil,Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S142,staff → smith,target_meaning,1,Tamil,Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S142,staff → smith,both_meanings,1,Tamil,Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S142,staff → smith,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S503,mountain → garland,target_meaning,6,Tamil; Malayalam; Kannada; Telugu; Tulu; Kodagu,Kota; Toda; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S503,mountain → garland,both_meanings,6,Tamil; Malayalam; Kannada; Telugu; Tulu; Kodagu,Kota; Toda; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S503,mountain → garland,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S440,corner → vessel,target_meaning,2,Kannada; Telugu,Tamil; Malayalam; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S440,corner → vessel,both_meanings,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S440,corner → vessel,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S435,hook → attendant,target_meaning,2,Tamil; Kannada,Malayalam; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S435,hook → attendant,both_meanings,2,Tamil; Kannada,Malayalam; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S435,hook → attendant,strict_complete,1,Tamil,Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S845,line → tax,target_meaning,4,Tamil; Malayalam; Telugu; Kota,Kannada; Tulu; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S845,line → tax,both_meanings,4,Tamil; Malayalam; Telugu; Kota,Kannada; Tulu; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S845,line → tax,strict_complete,2,Tamil; Malayalam,Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S850,eye → copper,target_meaning,2,Tamil; Malayalam,Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S850,eye → copper,both_meanings,2,Tamil; Malayalam,Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S850,eye → copper,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S717,foot ↔ servant,target_meaning,4,Tamil; Malayalam; Kannada; Telugu,Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S717,foot ↔ servant,both_meanings,4,Tamil; Malayalam; Kannada; Telugu,Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S717,foot ↔ servant,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S413,grain → tax / cut,target_meaning,11,Tamil; Malayalam; Kannada; Telugu; Kota; Toda; Naikri; Naiki; Pengo; Kui; Kuwi,Tulu; Kodagu; Kolami; Parji; Gadaba; Gondi; Konda; Manda; Kurukh; Malto; Brahui
+S413,grain → tax / cut,both_meanings,6,Tamil; Malayalam; Kannada; Telugu; Kota; Toda,Tulu; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S413,grain → tax / cut,strict_complete,1,Tamil,Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S350,fence → watchman,target_meaning,2,Tamil; Kannada,Malayalam; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S350,fence → watchman,both_meanings,2,Tamil; Kannada,Malayalam; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S350,fence → watchman,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S460,shoot → garland,target_meaning,2,Tamil; Kannada,Malayalam; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S460,shoot → garland,both_meanings,1,Kannada,Tamil; Malayalam; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S460,shoot → garland,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S482,mountain → king,target_meaning,5,Tamil; Malayalam; Parji; Gadaba; Kurukh,Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Malto; Brahui
+S482,mountain → king,both_meanings,1,Tamil,Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S482,mountain → king,strict_complete,1,Tamil,Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S480,point → vessel,target_meaning,1,Tamil,Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S480,point → vessel,both_meanings,1,Tamil,Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S480,point → vessel,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S335,frame → pot,target_meaning,6,Tamil; Malayalam; Kannada; Telugu; Tulu; Konda,Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S335,frame → pot,both_meanings,5,Tamil; Malayalam; Kannada; Telugu; Tulu,Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S335,frame → pot,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S540,drum ↔ capacity measure,target_meaning,3,Tamil; Malayalam; Telugu,Kannada; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S540,drum ↔ capacity measure,both_meanings,2,Tamil; Malayalam,Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S540,drum ↔ capacity measure,strict_complete,2,Tamil; Malayalam,Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S630,cage → assemble / store,target_meaning,14,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Parji; Gondi; Konda; Pengo; Kuwi; Kurukh,Kolami; Naikri; Naiki; Gadaba; Manda; Kui; Malto; Brahui
+S630,cage → assemble / store,both_meanings,12,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Parji; Gondi; Pengo; Kuwi,Kolami; Naikri; Naiki; Gadaba; Konda; Manda; Kui; Kurukh; Malto; Brahui
+S630,cage → assemble / store,strict_complete,1,Tamil,Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S171,hang ↔ weigh,target_meaning,8,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Kodagu; Kuwi,Toda; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kurukh; Malto; Brahui
+S171,hang ↔ weigh,both_meanings,8,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Kodagu; Kuwi,Toda; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kurukh; Malto; Brahui
+S171,hang ↔ weigh,strict_complete,8,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Kodagu; Kuwi,Toda; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kurukh; Malto; Brahui
+S831,blade → grain,target_meaning,3,Tamil; Kui; Kurukh,Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kuwi; Malto; Brahui
+S831,blade → grain,both_meanings,1,Tamil,Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S831,blade → grain,strict_complete,1,Tamil,Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S165,bend / snail → cauldron,target_meaning,1,Tamil,Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S165,bend / snail → cauldron,both_meanings,1,Tamil,Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S165,bend / snail → cauldron,strict_complete,1,Tamil,Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S104,leap → collect / levy,target_meaning,3,Tamil; Malayalam; Telugu,Kannada; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S104,leap → collect / levy,both_meanings,3,Tamil; Malayalam; Telugu,Kannada; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S104,leap → collect / levy,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S923,horn / tusk,target_meaning,4,Tamil; Kurukh; Malto; Brahui,Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi
+S923,horn / tusk,both_meanings,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S923,horn / tusk,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S500,sail,target_meaning,4,Tamil; Malayalam; Kannada; Tulu,Telugu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S500,sail,both_meanings,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S500,sail,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S790,circle / bangle,target_meaning,7,Tamil; Malayalam; Kannada; Tulu; Kota; Toda; Kodagu,Telugu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S790,circle / bangle,both_meanings,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S790,circle / bangle,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S215,rice,target_meaning,7,Tamil; Malayalam; Kannada; Telugu; Tulu; Toda; Kodagu,Kota; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S215,rice,both_meanings,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S215,rice,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S854,sesame,target_meaning,2,Tamil; Malayalam,Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S854,sesame,both_meanings,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S854,sesame,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S711,vessel / capacity measure,target_meaning,6,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota,Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S711,vessel / capacity measure,both_meanings,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S711,vessel / capacity measure,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S575,capacity measure kōṭṭai,target_meaning,1,Tamil,Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S575,capacity measure kōṭṭai,both_meanings,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S575,capacity measure kōṭṭai,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S235,light component of roofed fish,target_meaning,4,Tamil; Malayalam; Tulu; Konda,Kannada; Telugu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S235,light component of roofed fish,both_meanings,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S235,light component of roofed fish,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S060,inside component / locative,target_meaning,17,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Gondi; Konda; Kui; Kurukh; Malto; Brahui,Parji; Gadaba; Pengo; Manda; Kuwi
+S060,inside component / locative,both_meanings,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S060,inside component / locative,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S001,numeral one,target_meaning,22,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui,
+S001,numeral one,both_meanings,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S001,numeral one,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S002,numeral two,target_meaning,22,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui,
+S002,numeral two,both_meanings,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S002,numeral two,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S003,numeral three,target_meaning,18,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Kui; Kurukh; Brahui,Pengo; Manda; Kuwi; Malto
+S003,numeral three,both_meanings,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S003,numeral three,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S004,numeral four,target_meaning,17,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Kui; Kurukh,Pengo; Manda; Kuwi; Malto; Brahui
+S004,numeral four,both_meanings,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S004,numeral four,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S005,numeral five,target_meaning,13,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naiki; Parji; Gondi; Kui,Naikri; Gadaba; Konda; Pengo; Manda; Kuwi; Kurukh; Malto; Brahui
+S005,numeral five,both_meanings,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S005,numeral five,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S006,numeral six,target_meaning,12,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naiki; Gondi; Kui,Naikri; Parji; Gadaba; Konda; Pengo; Manda; Kuwi; Kurukh; Malto; Brahui
+S006,numeral six,both_meanings,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S006,numeral six,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S007,numeral seven,target_meaning,12,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Gondi; Konda; Kui,Naikri; Naiki; Parji; Gadaba; Pengo; Manda; Kuwi; Kurukh; Malto; Brahui
+S007,numeral seven,both_meanings,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S007,numeral seven,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S025,numeral nine,target_meaning,8,Tamil; Malayalam; Kannada; Tulu; Kota; Toda; Kodagu; Gondi,Telugu; Kolami; Naikri; Naiki; Parji; Gadaba; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S025,numeral nine,both_meanings,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S025,numeral nine,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S028,numeral ten,target_meaning,10,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Gondi,Naikri; Naiki; Parji; Gadaba; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S028,numeral ten,both_meanings,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S028,numeral ten,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S055,numeral twelve,target_meaning,3,Tamil; Telugu; Kodagu,Malayalam; Kannada; Tulu; Kota; Toda; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S055,numeral twelve,both_meanings,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S055,numeral twelve,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui

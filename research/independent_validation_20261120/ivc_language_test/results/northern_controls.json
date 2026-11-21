@@ -1,0 +1,52 @@
+{
+  "unique_fixed_etyma": 107,
+  "numeric_dictionary_groups": 5544,
+  "draws": 4999,
+  "seed": 20261120,
+  "matching": "Exact number of the 22 documented varieties AND Tamil presence; distinct root groups sampled without replacement within stratum.",
+  "interpretation": "Exploratory etymological documentation control only. Not a semantic or archaeological validation, nor a language-identification probability.",
+  "endpoints": [
+    {
+      "name": "Brahui",
+      "observed": 16,
+      "expected": 15.019803960792158,
+      "p_enrichment": 0.4248,
+      "holm_p": 1.0
+    },
+    {
+      "name": "Kurukh",
+      "observed": 27,
+      "expected": 26.79775955191038,
+      "p_enrichment": 0.5258,
+      "holm_p": 1.0
+    },
+    {
+      "name": "Malto",
+      "observed": 20,
+      "expected": 24.806961392278456,
+      "p_enrichment": 0.9356,
+      "holm_p": 1.0
+    },
+    {
+      "name": "any_northern",
+      "observed": 40,
+      "expected": 38.73534706941388,
+      "p_enrichment": 0.4138,
+      "holm_p": 1.0
+    },
+    {
+      "name": "Kurukh_and_Malto",
+      "observed": 13,
+      "expected": 18.29245849169834,
+      "p_enrichment": 0.981,
+      "holm_p": 1.0
+    },
+    {
+      "name": "all_three_northern",
+      "observed": 8,
+      "expected": 7.2244448889777955,
+      "p_enrichment": 0.4124,
+      "holm_p": 1.0
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "repository": "https://github.com/moli-mandala/data",
+  "commit": "4e9cc2fec595946387a6e6e56691ba05ff15e159",
+  "files": [
+    {
+      "path": "data/dedr/dedr_new.csv",
+      "bytes": 5507989,
+      "sha256": "e3fc89a657233f1639e3b3bd5c548e26c3a24ab5485385917660c8d4d53ca77d",
+      "url": "https://raw.githubusercontent.com/moli-mandala/data/4e9cc2fec595946387a6e6e56691ba05ff15e159/data/dedr/dedr_new.csv"
+    },
+    {
+      "path": "data/dedr/params.csv",
+      "bytes": 82802,
+      "sha256": "6b9049af82b82a3b8c42dcd637341ac1a48978d46de2c287c7f1316140c2ed71",
+      "url": "https://raw.githubusercontent.com/moli-mandala/data/4e9cc2fec595946387a6e6e56691ba05ff15e159/data/dedr/params.csv"
+    },
+    {
+      "path": "data/dedr/abbrevs.py",
+      "bytes": 19381,
+      "sha256": "978924b1be223539aa0920f5431c2ba3698aa1bd3b3a15ffee3c23b31a7f003d",
+      "url": "https://raw.githubusercontent.com/moli-mandala/data/4e9cc2fec595946387a6e6e56691ba05ff15e159/data/dedr/abbrevs.py"
+    },
+    {
+      "path": "cldf/languages.csv",
+      "bytes": 58297,
+      "sha256": "1a96f4fb5411024b136822cb61563fef45e37abb59abf32dcc21985da79aa855",
+      "url": "https://raw.githubusercontent.com/moli-mandala/data/4e9cc2fec595946387a6e6e56691ba05ff15e159/cldf/languages.csv"
+    },
+    {
+      "path": "cldf/sources.bib",
+      "bytes": 517959,
+      "sha256": "da8fa97f4476397012d8d6c0e33d4dab5b19aad494804b4a75b49939732a5f76",
+      "url": "https://raw.githubusercontent.com/moli-mandala/data/4e9cc2fec595946387a6e6e56691ba05ff15e159/cldf/sources.bib"
+    },
+    {
+      "path": "cldf/Wordlist-metadata.json",
+      "bytes": 9518,
+      "sha256": "7b2616e1ca1c0f541d95ecab39c3b4ce01687abf9d503cd106e005193db6104b",
+      "url": "https://raw.githubusercontent.com/moli-mandala/data/4e9cc2fec595946387a6e6e56691ba05ff15e159/cldf/Wordlist-metadata.json"
+    },
+    {
+      "path": "data/other/forms/20230416-northern.csv",
+      "bytes": 632563,
+      "sha256": "94dc9925355b2174a708fdbe23ffe45442d9ab0e72cd94e9b3c447c9da24a471",
+      "url": "https://raw.githubusercontent.com/moli-mandala/data/4e9cc2fec595946387a6e6e56691ba05ff15e159/data/other/forms/20230416-northern.csv"
+    },
+    {
+      "path": "data/other/forms/etymologies/20230416-northern.csv",
+      "bytes": 345021,
+      "sha256": "dfabe462b02b682b5509406aa5e5314cc81f5b8390e9dee33b66d150ba004e60",
+      "url": "https://raw.githubusercontent.com/moli-mandala/data/4e9cc2fec595946387a6e6e56691ba05ff15e159/data/other/forms/etymologies/20230416-northern.csv"
+    },
+    {
+      "path": "data/other/forms/20260813-ali-kobayashi-brahui.csv",
+      "bytes": 434842,
+      "sha256": "7325ba0f8ebcd392bf5b28b480c16ed1d80dc47d5a26adbea8b5a57152612fec",
+      "url": "https://raw.githubusercontent.com/moli-mandala/data/4e9cc2fec595946387a6e6e56691ba05ff15e159/data/other/forms/20260813-ali-kobayashi-brahui.csv"
+    },
+    {
+      "path": "data/other/forms/20260813-ali-kobayashi-brahui.yaml",
+      "bytes": 158,
+      "sha256": "eb15a8be55a78164c1be0f503c8663369f96ff2b1ebafd43fc0b95e2eeec7591",
+      "url": "https://raw.githubusercontent.com/moli-mandala/data/4e9cc2fec595946387a6e6e56691ba05ff15e159/data/other/forms/20260813-ali-kobayashi-brahui.yaml"
+    },
+    {
+      "path": "data/other/forms/20260819-emeneau-brahui-1997.csv",
+      "bytes": 4294,
+      "sha256": "4d4b456820fddd8a89b4cdb78ad116d4cd08f29ac28fdd536c97aa472bff629d",
+      "url": "https://raw.githubusercontent.com/moli-mandala/data/4e9cc2fec595946387a6e6e56691ba05ff15e159/data/other/forms/20260819-emeneau-brahui-1997.csv"
+    },
+    {
+      "path": "data/other/forms/etymologies/20260819-emeneau-brahui-1997.csv",
+      "bytes": 1094,
+      "sha256": "9dc2d6aba846f890a046ed914997eb7038d4f073d6d5c21d278e5f3defd11fe9",
+      "url": "https://raw.githubusercontent.com/moli-mandala/data/4e9cc2fec595946387a6e6e56691ba05ff15e159/data/other/forms/etymologies/20260819-emeneau-brahui-1997.csv"
+    },
+    {
+      "path": "data/other/forms/20260813-kurux-nepal.csv",
+      "bytes": 857567,
+      "sha256": "56638ca9d62620239fcbc162ae4a94cd85c26ef3f86c68ba937b43aeace9a655",
+      "url": "https://raw.githubusercontent.com/moli-mandala/data/4e9cc2fec595946387a6e6e56691ba05ff15e159/data/other/forms/20260813-kurux-nepal.csv"
+    },
+    {
+      "path": "data/other/forms/20260826-sil-kurux.csv",
+      "bytes": 329348,
+      "sha256": "1b970fe2e4f873dc9cb4806c104b727b6099b9d57b7e813d46a9f89f1c4531cb",
+      "url": "https://raw.githubusercontent.com/moli-mandala/data/4e9cc2fec595946387a6e6e56691ba05ff15e159/data/other/forms/20260826-sil-kurux.csv"
+    },
+    {
+      "path": "data/other/forms/20260927-kurux-nepal-grammar.csv",
+      "bytes": 93428,
+      "sha256": "87555b70917eed88cac784138949a945dcd2bc93a5882ed776894ca8e7f39fb7",
+      "url": "https://raw.githubusercontent.com/moli-mandala/data/4e9cc2fec595946387a6e6e56691ba05ff15e159/data/other/forms/20260927-kurux-nepal-grammar.csv"
+    },
+    {
+      "path": "data/other/forms/20260927-kurux-nepal-native.csv",
+      "bytes": 128269,
+      "sha256": "ecbb826fbcebd97971375017005012cfbed6094980aec865a9a2fe5c3c534a91",
+      "url": "https://raw.githubusercontent.com/moli-mandala/data/4e9cc2fec595946387a6e6e56691ba05ff15e159/data/other/forms/20260927-kurux-nepal-native.csv"
+    },
+    {
+      "path": "data/other/forms/20260911-lindgren.csv",
+      "bytes": 465454,
+      "sha256": "610761c10c62613e5c1fe4120c2ac3572b902227b355f5d6bc60d3f30c71e823",
+      "url": "https://raw.githubusercontent.com/moli-mandala/data/4e9cc2fec595946387a6e6e56691ba05ff15e159/data/other/forms/20260911-lindgren.csv"
+    }
+  ],
+  "additional_sources": [
+    {
+      "path": "TGM2017.pdf",
+      "url": "https://bkm.aa-ken.jp/malto/TGM2017.pdf",
+      "sha256": "fbe294248a9d0844a477fab96795d966accbbc694bcffc91a945e997fae9c309",
+      "bytes": 4982963
+    },
+    {
+      "path": "BrahuiTexts.pdf",
+      "url": "https://bkm.aa-ken.jp/brahui/BrahuiTexts.pdf",
+      "sha256": "48d8b607c2f983eed86f6e51b0b72c03cb71ac2a32336c1b54c2aefb5d7933e7",
+      "bytes": 2889159
+    },
+    {
+      "path": "Grignard1924_djvu.txt",
+      "url": "https://archive.org/download/in.ernet.dli.2015.211105/2015.211105.Tome-Ii_djvu.txt",
+      "sha256": "93db3cf1f2e4e558c90213a49a4a0ae0592e8cdf6ea3a99a1bdc046b2d26a978",
+      "bytes": 2379163
+    },
+    {
+      "path": "Grignard1924_text.pdf",
+      "url": "https://archive.org/download/in.ernet.dli.2015.211105/2015.211105.Tome-Ii_text.pdf",
+      "sha256": "0dfb8af6b963e1a4766ad2ac9860ebfeec29b4882241fb7cbb335df683223061",
+      "bytes": 85792911
+    }
+  ],
+  "font": {
+    "repository": "https://github.com/Cuuper22/ivc",
+    "commit": "727dfd411a4faa44d193d204757540d45c7b139b",
+    "path": "evidence/tmp/002390x_3335_yajnadevam_repo_trace_20260531/repo/src/assets/fonts/indus-font.woff2",
+    "sha256": "b27580325b446a6a51129b565452164137b53fbfb8ba414596c012869c1356bf"
+  }
+}

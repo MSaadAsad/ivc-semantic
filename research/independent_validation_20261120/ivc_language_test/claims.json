@@ -1,0 +1,1733 @@
+{
+  "source_commit": "727dfd411a4faa44d193d204757540d45c7b139b",
+  "input_sha256": {
+    "work_data/key6a/master_lexicon_after_key6a.csv": "0dcf56b8f2d177d5a33ad38d76b3acab2d1f37d2e48b58ac7daccaddc4ca53bd",
+    "jobs/out/key2a_rebus_lock.md": "65a172f901e7c3c3581133212f9777c0390eebd225c4bfb48114ef464783b5f9",
+    "work_data/key4b/test4b1_top30_sign_table.csv": "e3838c3b7dc0adcde87089130be0a2957181241fe055be96e2042d9fcf268fdf",
+    "work_data/key5a/trackA_per_sign_bridges.csv": "723e338da9dee4fd09db43789834b045c6af6878ad105032fa12a0286d0db563",
+    "work_data/key6a/trackA_per_sign_bridges.csv": "d92d8d38924c5a9d2775ea26d8371904208fedc2af3d62273c76ccdad773e61e"
+  },
+  "design": "Retrospective IVC-specific portability analysis. Primary inventory fixes the source meaning pairs and etyma. No language is credited for a generic same-meaning replacement from a different family.",
+  "excluded": [
+    {
+      "sign": "008",
+      "proposal_root": "*eṇ",
+      "reason": "Zero intact tokens and no glyph in the source font. Ordinary eight eṭṭu (784) does not verify the proposed eṇ stem; excluded rather than credited through a replacement."
+    }
+  ],
+  "claims": [
+    {
+      "id": "S740",
+      "sign": "740",
+      "title": "jar → house",
+      "a": [
+        "jar",
+        "pot",
+        "vessel"
+      ],
+      "b": [
+        "house",
+        "home",
+        "abode",
+        "family",
+        "lineage"
+      ],
+      "a_entries": [
+        "1651"
+      ],
+      "b_entries": [
+        "1655"
+      ],
+      "kind": "bridge",
+      "note": "",
+      "proposal_root": "*kuṭi/*kuṭam",
+      "source_note": "pot/house",
+      "source_intact_tokens": 1499,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S700",
+      "sign": "700",
+      "title": "bowl / hollow → measure",
+      "a": [
+        "bowl",
+        "earthen pot",
+        "hollow"
+      ],
+      "b": [
+        "measure",
+        "capacity"
+      ],
+      "a_entries": [
+        "9",
+        "308"
+      ],
+      "b_entries": [
+        "9",
+        "295"
+      ],
+      "kind": "bridge",
+      "note": "",
+      "proposal_root": "*aḷa / *akal",
+      "source_note": "PhonSt DEDR 308 aḷai ('hollow') <-> 295 aḷa ('measure, capacity') + DIRECT 9 akal ('earthen bowl, measure of capacity'); mtab 3.5x L / 4.1x N, 410 1-blank faces",
+      "source_intact_tokens": 498,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S400",
+      "sign": "400",
+      "title": "comb → small / junior",
+      "a": [
+        "comb",
+        "disentangle"
+      ],
+      "b": [
+        "small",
+        "little",
+        "young"
+      ],
+      "a_entries": [
+        "2497"
+      ],
+      "b_entries": [
+        "2495"
+      ],
+      "kind": "bridge",
+      "note": "",
+      "proposal_root": "*cikka/*cikkam",
+      "source_note": "comb/junior",
+      "source_intact_tokens": 410,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S220",
+      "sign": "220",
+      "title": "fish → star",
+      "a": [
+        "fish"
+      ],
+      "b": [
+        "star",
+        "constellation",
+        "asterism"
+      ],
+      "a_entries": [
+        "4885"
+      ],
+      "b_entries": [
+        "4876"
+      ],
+      "kind": "bridge",
+      "note": "",
+      "proposal_root": "*mīṉ",
+      "source_note": "fish/star",
+      "source_intact_tokens": 382,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S520",
+      "sign": "520",
+      "title": "spear → chief",
+      "a": [
+        "spear",
+        "lance",
+        "dart",
+        "javelin"
+      ],
+      "b": [
+        "chief",
+        "ruler",
+        "king",
+        "hero"
+      ],
+      "a_entries": [
+        "5536"
+      ],
+      "b_entries": [
+        "5545"
+      ],
+      "kind": "bridge",
+      "note": "",
+      "proposal_root": "*vēḷ/*vēl",
+      "source_note": "spear/chief",
+      "source_intact_tokens": 276,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S390",
+      "sign": "390",
+      "title": "tree → sew / weave",
+      "a": [
+        "tree",
+        "plant",
+        "shrub"
+      ],
+      "b": [
+        "sew",
+        "stitch",
+        "weave",
+        "plait"
+      ],
+      "a_entries": [
+        "3474"
+      ],
+      "b_entries": [
+        "3473"
+      ],
+      "kind": "bridge",
+      "note": "",
+      "proposal_root": "*tai",
+      "source_note": "tree/weave",
+      "source_intact_tokens": 254,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S861",
+      "sign": "861",
+      "title": "eye / sight → weight / property",
+      "a": [
+        "eye",
+        "sight",
+        "see"
+      ],
+      "b": [
+        "weight",
+        "fraction",
+        "property",
+        "possession"
+      ],
+      "a_entries": [
+        "1159",
+        "1443"
+      ],
+      "b_entries": [
+        "1444"
+      ],
+      "kind": "bridge",
+      "note": "",
+      "proposal_root": "*kāṇam / *kaṇ",
+      "source_note": "PhonSt DEDR 1159 kaṇ ('eye') / 1443 kāṇ ('sight') <-> 1444 kāṇam ('ancient weight, 1/80 fraction, hereditary property'); 003-861 29x, 861-002 136L/28N",
+      "source_intact_tokens": 254,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S820",
+      "sign": "820",
+      "title": "wheel → quarter / leg",
+      "a": [
+        "wheel",
+        "cart"
+      ],
+      "b": [
+        "quarter",
+        "leg",
+        "foot"
+      ],
+      "a_entries": [
+        "1483"
+      ],
+      "b_entries": [
+        "1479"
+      ],
+      "kind": "bridge",
+      "note": "",
+      "proposal_root": "*kāl",
+      "source_note": "wheel/quarter",
+      "source_intact_tokens": 210,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S320",
+      "sign": "320",
+      "title": "step / ladder → ration / measure",
+      "a": [
+        "step",
+        "stair",
+        "ladder"
+      ],
+      "b": [
+        "ration",
+        "measure",
+        "allowance",
+        "capacity",
+        "weight"
+      ],
+      "a_entries": [
+        "3850"
+      ],
+      "b_entries": [
+        "3849"
+      ],
+      "kind": "bridge",
+      "note": "",
+      "proposal_root": "*paṭi",
+      "source_note": "step/ration",
+      "source_intact_tokens": 19,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S590",
+      "sign": "590",
+      "title": "basket / plait → bale / load",
+      "a": [
+        "basket",
+        "plait",
+        "braid"
+      ],
+      "b": [
+        "sack",
+        "load",
+        "bale",
+        "bundle"
+      ],
+      "a_entries": [
+        "4927"
+      ],
+      "b_entries": [
+        "5037"
+      ],
+      "kind": "bridge",
+      "note": "",
+      "proposal_root": "*mūṭai",
+      "source_note": "PhonEx DEDR 4927 muṭai ('plait/basket') <-> 5037 mūṭai ('sack-load, bale, packed bundle'); 590-390 73x cotton-bale house, har_F_granary 3.1x, tag 1.8x N",
+      "source_intact_tokens": 194,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S615",
+      "sign": "615",
+      "title": "loom frame → field plot",
+      "a": [
+        "weaver",
+        "loom",
+        "reed"
+      ],
+      "b": [
+        "field",
+        "ridge",
+        "land",
+        "beds"
+      ],
+      "a_entries": [
+        "48"
+      ],
+      "b_entries": [
+        "49"
+      ],
+      "kind": "bridge",
+      "note": "",
+      "proposal_root": "*accu",
+      "source_note": "PhonEx DEDR 48 accu ('weaver's reed/frame') <-> 49 accu ('field ridge, land divided') [p_shuf=0.030]; ctab 10.0x L / 4.8x N, MD VS craft 4.6x L / 2.5x N",
+      "source_intact_tokens": 184,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S705",
+      "sign": "705",
+      "title": "threshing floor → vessel / ship",
+      "a": [
+        "threshing",
+        "field",
+        "floor"
+      ],
+      "b": [
+        "ship",
+        "vessel",
+        "boat"
+      ],
+      "a_entries": [
+        "1376"
+      ],
+      "b_entries": [
+        "1305"
+      ],
+      "kind": "bridge",
+      "note": "",
+      "proposal_root": "*kalam/*kaḷam",
+      "source_note": "threshing/ship",
+      "source_intact_tokens": 183,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S176",
+      "sign": "176",
+      "title": "sit / remain → tribute",
+      "a": [
+        "sit",
+        "remain",
+        "abide"
+      ],
+      "b": [
+        "tax",
+        "tribute",
+        "duty",
+        "payment"
+      ],
+      "a_entries": [
+        "480"
+      ],
+      "b_entries": [
+        "521"
+      ],
+      "kind": "bridge",
+      "note": "",
+      "proposal_root": "*iṟai/*iru",
+      "source_note": "seated/tribute-house",
+      "source_intact_tokens": 180,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S090",
+      "sign": "090",
+      "title": "man → manager / ruler",
+      "a": [
+        "man",
+        "male",
+        "husband",
+        "servant"
+      ],
+      "b": [
+        "rule",
+        "manage",
+        "control"
+      ],
+      "a_entries": [
+        "399"
+      ],
+      "b_entries": [
+        "5157"
+      ],
+      "kind": "bridge",
+      "note": "",
+      "proposal_root": "*āḷ",
+      "source_note": "man/manager",
+      "source_intact_tokens": 163,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S233",
+      "sign": "233",
+      "title": "split → dawn / light",
+      "a": [
+        "crack",
+        "split",
+        "burst"
+      ],
+      "b": [
+        "dawn",
+        "daybreak",
+        "dawning",
+        "day"
+      ],
+      "a_entries": [
+        "5473"
+      ],
+      "b_entries": [
+        "5475"
+      ],
+      "kind": "bridge",
+      "note": "",
+      "proposal_root": "*veṭi-mīṉ",
+      "source_note": "PhonEx DEDR 5473 veṭi ('crack, split') <-> 5475 veṭi ('dawn, break of day, light') + fish; 233-520 22L/1N, 235-233-705 7L/1N, ctab 3.0x",
+      "source_intact_tokens": 160,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S415",
+      "sign": "415",
+      "title": "fork / branch → seize",
+      "a": [
+        "fork",
+        "prong",
+        "branch"
+      ],
+      "b": [
+        "seize",
+        "grasp",
+        "catch",
+        "control"
+      ],
+      "a_entries": [
+        "1325"
+      ],
+      "b_entries": [
+        "1326"
+      ],
+      "kind": "bridge",
+      "note": "",
+      "proposal_root": "*kavar",
+      "source_note": "PhonEx DEDR 1325 kavar ('fork, branch, prong') <-> 1326 kavar ('seize, grasp, control'); 415-220 87:0 L / 15:0 N, 415-100 43:0, 415-220-520 17x",
+      "source_intact_tokens": 141,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S920",
+      "sign": "920",
+      "title": "moon ↔ month",
+      "a": [
+        "moon"
+      ],
+      "b": [
+        "month"
+      ],
+      "a_entries": [
+        "3213"
+      ],
+      "b_entries": [
+        "3213"
+      ],
+      "kind": "polysemy",
+      "note": "",
+      "proposal_root": "*tiṅkaḷ",
+      "source_note": "DIRECT DEDR 3213 tiṅkaḷ ('moon' <-> 'month'); graphic variant of 900 with medial leaf, 320-920 10L/3N (5/5 New tags/seals), 920-740 13L/4N",
+      "source_intact_tokens": 140,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S407",
+      "sign": "407",
+      "title": "branch → cloth",
+      "a": [
+        "branch"
+      ],
+      "b": [
+        "cloth",
+        "weaver"
+      ],
+      "a_entries": [
+        "2200"
+      ],
+      "b_entries": [
+        "2198"
+      ],
+      "kind": "bridge",
+      "note": "",
+      "proposal_root": "*kōṭi",
+      "source_note": "PhonSt DEDR 2200 kōṭu ('branch of tree') <-> 2198 kōṭi ('newly purchased cloth, weaver'); ctab 13.5x, MD VS dyers 2.9x, 061-407-850 14x",
+      "source_intact_tokens": 123,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S806",
+      "sign": "806",
+      "title": "stalk → millet",
+      "a": [
+        "stalk",
+        "stem"
+      ],
+      "b": [
+        "millet",
+        "grain"
+      ],
+      "a_entries": [
+        "1454"
+      ],
+      "b_entries": [
+        "1242"
+      ],
+      "kind": "bridge",
+      "note": "",
+      "proposal_root": "*kampu ~ *kāmpu",
+      "source_note": "PhonEx DEDR 1454 kāmpu ('flower-stalk, stem') <-> 1242 kampu ('bulrush/pearl millet, grain'); ctab 4.6x, bar-seal produce anchor",
+      "source_intact_tokens": 123,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S798",
+      "sign": "798",
+      "title": "shell → bind / build house",
+      "a": [
+        "shell"
+      ],
+      "b": [
+        "bind",
+        "tie",
+        "build",
+        "house"
+      ],
+      "a_entries": [
+        "3544"
+      ],
+      "b_entries": [
+        "3536"
+      ],
+      "kind": "bridge",
+      "note": "The separately cited claw/grasp entry 444 is recorded as an alternative lexical anchor, not silently combined with shell.",
+      "proposal_root": "*toṭu / *iṭukku",
+      "source_note": "Bound/grasped house-guild (M53 pincered shell/crab): PhonEx DEDR 3544 tōṭu ('shell') <-> 3536 toṭu ('bind, tie, build house') + DIRECT 444 iṭukku ('grasp w/ pincers'); MD HR elite rep (L OR=1.70, N OR=3.17); 798-740 (39x), 798-415 (20x); triggers Pure 4D cluster (193,797,195)",
+      "source_intact_tokens": 121,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S255",
+      "sign": "255",
+      "title": "crocodile → first / principal",
+      "a": [
+        "crocodile"
+      ],
+      "b": [
+        "first",
+        "beginning",
+        "principal",
+        "capital"
+      ],
+      "a_entries": [
+        "4952"
+      ],
+      "b_entries": [
+        "4950"
+      ],
+      "kind": "bridge",
+      "note": "",
+      "proposal_root": "*mutal [crocodile->first/principal, DEDR 4952/4950, 2-br PhonSt]",
+      "source_note": "*mutal [crocodile->first/principal, DEDR 4952/4950, 2-br PhonSt]",
+      "source_intact_tokens": 114,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S840",
+      "sign": "840",
+      "title": "pair ↔ join",
+      "a": [
+        "pair",
+        "couple"
+      ],
+      "b": [
+        "join",
+        "unite",
+        "union",
+        "agree"
+      ],
+      "a_entries": [
+        "457"
+      ],
+      "b_entries": [
+        "457"
+      ],
+      "kind": "polysemy",
+      "note": "",
+      "proposal_root": "*iṇai",
+      "source_note": "DIRECT DEDR 457 iṇai ('pair, couple' <-> 'join, unite, agree, equality'); bangle 5.9x, multi-party audit prisms, 840-032 35L/4N",
+      "source_intact_tokens": 104,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S760",
+      "sign": "760",
+      "title": "sprout ↔ young / child",
+      "a": [
+        "sprout",
+        "shoot",
+        "tendril"
+      ],
+      "b": [
+        "young",
+        "child",
+        "infant"
+      ],
+      "a_entries": [
+        "1791",
+        "2149"
+      ],
+      "b_entries": [
+        "1791",
+        "2149"
+      ],
+      "kind": "polysemy",
+      "note": "",
+      "proposal_root": "*kuruku / *koḻuntu",
+      "source_note": "DIRECT DEDR 1791 kuruku ('sprout, shoot' <-> 'young, child') & 2149 koḻuntu ('tendril, shoot' <-> 'young'); 760-740 79L/16N, rod 2.6x L / 15.2x N",
+      "source_intact_tokens": 102,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S368",
+      "sign": "368",
+      "title": "flag → give / grant",
+      "a": [
+        "flag",
+        "banner"
+      ],
+      "b": [
+        "give",
+        "grant"
+      ],
+      "a_entries": [
+        "2049"
+      ],
+      "b_entries": [
+        "2053"
+      ],
+      "kind": "bridge",
+      "note": "",
+      "proposal_root": "*koṭi ~ *koṭu",
+      "source_note": "PhonSt DEDR 2049 koṭi ('banner, flag') <-> 2053 koṭu ('give, grant, allow') + DIRECT 5414 virutu ('title, banner, pedigree'); har_F_granary 2.3x, 900-368 5x",
+      "source_intact_tokens": 101,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S690",
+      "sign": "690",
+      "title": "tie ↔ bundle / building",
+      "a": [
+        "tie",
+        "bind",
+        "fasten"
+      ],
+      "b": [
+        "bundle",
+        "packet",
+        "building",
+        "store"
+      ],
+      "a_entries": [
+        "1147"
+      ],
+      "b_entries": [
+        "1147"
+      ],
+      "kind": "polysemy",
+      "note": "",
+      "proposal_root": "*kaṭṭu / *piṇai",
+      "source_note": "DIRECT DEDR 1147 kaṭṭu ('tie, fasten, bind' <-> 'bundle, packet, store, building'); 690-740 42L/3N, mtab 2.1x, har_F_granary 3.3x",
+      "source_intact_tokens": 99,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S550",
+      "sign": "550",
+      "title": "waist / middle → district",
+      "a": [
+        "waist",
+        "middle",
+        "centre",
+        "center"
+      ],
+      "b": [
+        "district",
+        "country",
+        "province",
+        "locality"
+      ],
+      "a_entries": [
+        "3584"
+      ],
+      "b_entries": [
+        "3638"
+      ],
+      "kind": "bridge",
+      "note": "",
+      "proposal_root": "*nāṭu",
+      "source_note": "Civic precinct / district (M216 pinched hourglass/waist ><): exact 2-br PhonEx DEDR 3584 naṭu ('middle, centre, waist') <-> 3638 nāṭu ('country, district, province, locality'); MD SD Citadel rep (L OR=25.3, N OR=4.19); opens BOS-550-060 (26x = *nāṭu-uḷ)",
+      "source_intact_tokens": 97,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S892",
+      "sign": "892",
+      "title": "bow → sell",
+      "a": [
+        "bow"
+      ],
+      "b": [
+        "sell",
+        "sale",
+        "price"
+      ],
+      "a_entries": [
+        "5422"
+      ],
+      "b_entries": [
+        "5421"
+      ],
+      "kind": "bridge",
+      "note": "",
+      "proposal_root": "*vil",
+      "source_note": "PhonEx DEDR 5422 vil ('bow') <-> 5421 vil ('to sell, sale, price') [p_shuf=0.015]; tag 2.7x, mtab 1.7x",
+      "source_intact_tokens": 90,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S140",
+      "sign": "140",
+      "title": "mother / lady ↔ goddess",
+      "a": [
+        "mother",
+        "lady",
+        "matron"
+      ],
+      "b": [
+        "goddess"
+      ],
+      "a_entries": [
+        "183"
+      ],
+      "b_entries": [
+        "183"
+      ],
+      "kind": "polysemy",
+      "note": "",
+      "proposal_root": "*ammā",
+      "source_note": "DIRECT DEDR 183 ammā ('mother, matron, lady' <-> 'goddess'); md_citadel 3.5x N, Chanhu-daro 4.0x N, 003-140-100 5x",
+      "source_intact_tokens": 90,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S154",
+      "sign": "154",
+      "title": "carrying pole → guard",
+      "a": [
+        "carrying pole",
+        "pole",
+        "yoke"
+      ],
+      "b": [
+        "guard",
+        "watch",
+        "preserve",
+        "protect",
+        "shelter"
+      ],
+      "a_entries": [
+        "1417"
+      ],
+      "b_entries": [
+        "1416"
+      ],
+      "kind": "bridge",
+      "note": "",
+      "proposal_root": "*kā",
+      "source_note": "pole/guard",
+      "source_intact_tokens": 38,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S142",
+      "sign": "142",
+      "title": "staff → smith",
+      "a": [
+        "staff",
+        "stick",
+        "rod"
+      ],
+      "b": [
+        "smith",
+        "iron"
+      ],
+      "a_entries": [
+        "2237"
+      ],
+      "b_entries": [
+        "2133"
+      ],
+      "kind": "bridge",
+      "note": "",
+      "proposal_root": "*kōl / *kol",
+      "source_note": "HOLDOUT RESCUED: Person w/ vertical staff (M25): exact 2-br PhonEx (Fixed & Raw) DEDR 2237 kōl ('stick, staff') <-> 2133 kol ('working in iron, blacksmith') + DIRECT 4660 maṭṭam ('measure, rule, gauging rod'); MD copper tablets L OR=7.34x, N OR=22.41x; 46/76 (60.5% non-final, 55.4% all 83) precede 615/617 *accu (OR=101.6x, Fisher P=2.43e-61)",
+      "source_intact_tokens": 83,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S503",
+      "sign": "503",
+      "title": "mountain → garland",
+      "a": [
+        "mountain",
+        "hill"
+      ],
+      "b": [
+        "garland",
+        "necklace"
+      ],
+      "a_entries": [
+        "4742"
+      ],
+      "b_entries": [
+        "4827"
+      ],
+      "kind": "bridge",
+      "note": "",
+      "proposal_root": "*malai ~ *mālai",
+      "source_note": "PhonEx DEDR 4742 malai ('hill, mountain') <-> 4827 mālai ('garland, necklace, strung beads') + 2178/2176 kō; MD VS bead/dye 5.2x L / 4.9x N, ctab 8.6x L / 4.3x N",
+      "source_intact_tokens": 79,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S440",
+      "sign": "440",
+      "title": "corner → vessel",
+      "a": [
+        "corner",
+        "nook",
+        "lane"
+      ],
+      "b": [
+        "vessel",
+        "pot",
+        "pan",
+        "cup"
+      ],
+      "a_entries": [
+        "4898"
+      ],
+      "b_entries": [
+        "4899"
+      ],
+      "kind": "bridge",
+      "note": "",
+      "proposal_root": "*mukku",
+      "source_note": "Corner-mark / earthen goblet (M127 sharp corner/nook): exact 2-br PhonEx DEDR 4898 mukku ('corner, lane, nook') <-> 4899 mukku ('earthen vessel, pot, pan, cup'); stamped standalone pre-firing on pointed-base goblets (L OR=121.5x) & Harappa F Granary (L 5.69x, N 7.88x)",
+      "source_intact_tokens": 63,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S435",
+      "sign": "435",
+      "title": "hook → attendant",
+      "a": [
+        "hook",
+        "goad"
+      ],
+      "b": [
+        "servant",
+        "watchman",
+        "attendant",
+        "messenger"
+      ],
+      "a_entries": [
+        "3547"
+      ],
+      "b_entries": [
+        "3546"
+      ],
+      "kind": "bridge",
+      "note": "",
+      "proposal_root": "*tōṭṭi",
+      "source_note": "Hooked stave / attendant-watchman (M130): exact 2-br PhonEx DEDR 3547 tōṭṭi ('elephant hook, goad') <-> 3546 tōṭṭi ('village watchman, attendant, servant'); 87.1% bound after 255 *mutal (54/62 = *mutal-tōṭṭi, 255-435-690 32x, 255-435-156 12x); triggers 4D cluster (436)",
+      "source_intact_tokens": 62,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S845",
+      "sign": "845",
+      "title": "line → tax",
+      "a": [
+        "line",
+        "stripe",
+        "streak",
+        "draw",
+        "write"
+      ],
+      "b": [
+        "tax",
+        "impost",
+        "duty",
+        "toll",
+        "levy"
+      ],
+      "a_entries": [
+        "5263"
+      ],
+      "b_entries": [
+        "5266"
+      ],
+      "kind": "bridge",
+      "note": "",
+      "proposal_root": "*vari (hatched 840)",
+      "source_note": "Tax / levy / impost (M376 hatched double-leaf): exact 2-br PhonEx DEDR 5263 vari ('line, streak, stripe, draw') <-> 5266 vari ('tax, impost, duty, toll, levy') + PhonSt 5359 vāram ('land-share'); ctab 67.4% L / 33.3% N vs 0% for unhatched 840; cracks 806-845-061-407-850-900-740 (14x)",
+      "source_intact_tokens": 51,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S850",
+      "sign": "850",
+      "title": "eye → copper",
+      "a": [
+        "eye",
+        "sight"
+      ],
+      "b": [
+        "copper",
+        "bronze",
+        "brazier"
+      ],
+      "a_entries": [
+        "1159"
+      ],
+      "b_entries": [
+        "1402"
+      ],
+      "kind": "bridge",
+      "note": "The proposal used ASCII equivalence; strict normalization retains ṇ versus ṉ.",
+      "proposal_root": "*kaṇ/*kaṉ",
+      "source_note": "eye/copper",
+      "source_intact_tokens": 49,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S717",
+      "sign": "717",
+      "title": "foot ↔ servant",
+      "a": [
+        "foot",
+        "footprint"
+      ],
+      "b": [
+        "servant",
+        "slave",
+        "servitude"
+      ],
+      "a_entries": [
+        "72"
+      ],
+      "b_entries": [
+        "72"
+      ],
+      "kind": "polysemy",
+      "note": "",
+      "proposal_root": "*aṭi",
+      "source_note": "footprint/servant",
+      "source_intact_tokens": 49,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S413",
+      "sign": "413",
+      "title": "grain → tax / cut",
+      "a": [
+        "grain",
+        "paddy",
+        "rice",
+        "ear"
+      ],
+      "b": [
+        "tax",
+        "duty",
+        "cut",
+        "reap"
+      ],
+      "a_entries": [
+        "215"
+      ],
+      "b_entries": [
+        "216",
+        "212"
+      ],
+      "kind": "bridge",
+      "note": "",
+      "proposal_root": "*ari [ear-of-grain->tax/cut, DEDR 215/216/212, 2-br PhonEx]",
+      "source_note": "*ari [ear-of-grain->tax/cut, DEDR 215/216/212, 2-br PhonEx]",
+      "source_intact_tokens": 47,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S350",
+      "sign": "350",
+      "title": "fence → watchman",
+      "a": [
+        "fence",
+        "yard",
+        "pound",
+        "enclosure"
+      ],
+      "b": [
+        "watchman",
+        "servant",
+        "messenger"
+      ],
+      "a_entries": [
+        "3485"
+      ],
+      "b_entries": [
+        "3546"
+      ],
+      "kind": "bridge",
+      "note": "",
+      "proposal_root": "*toṭṭi / *koṭṭakai",
+      "source_note": "Fence/cattle-yard (M175): exact 2-br PhonEx (Fixed & Raw) DEDR 3485 toṭṭi ('fence, yard, pound, enclosure, small village') <-> 3546 tōṭṭi ('village watchman') + DIRECT 3485 & 2058 koṭṭakai ('cattle-shed'); TIER-1 unseen-replicated Ghaggar-Hakra Agro-Pastoral Headwaters (L OR=4.99x, N OR=5.05x)",
+      "source_intact_tokens": 41,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S460",
+      "sign": "460",
+      "title": "shoot → garland",
+      "a": [
+        "shoot",
+        "branch"
+      ],
+      "b": [
+        "garland",
+        "wreath",
+        "neckrope"
+      ],
+      "a_entries": [
+        "1353"
+      ],
+      "b_entries": [
+        "1184"
+      ],
+      "kind": "bridge",
+      "note": "",
+      "proposal_root": "*kaṇṇi",
+      "source_note": "Three triangular shoots (M230): exact 2-br PhonEx DEDR 1353 kaṇṇi ('shoot or branch growing') <-> 1184 kaṇṇi ('wreath, garland, neckrope') + DIRECT 3119 taḻai; 11/99 of locked 503/495 *mālai immediately precede 460 (OR=56.9x, Fisher P=5.96e-15); triggers Key 4D WorkshopAllo 463",
+      "source_intact_tokens": 38,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S482",
+      "sign": "482",
+      "title": "mountain → king",
+      "a": [
+        "mountain",
+        "hill"
+      ],
+      "b": [
+        "king",
+        "emperor",
+        "chief",
+        "leadership"
+      ],
+      "a_entries": [
+        "2178"
+      ],
+      "b_entries": [
+        "2177"
+      ],
+      "kind": "bridge",
+      "note": "",
+      "proposal_root": "*kō",
+      "source_note": "Crowned mountain caret w/ diamond at apex (M135): exact 2-br PhonEx (Fixed & Raw) DEDR 2178 kō ('mountain') <-> 2177 kō ('emperor, king, great man, leadership') + PhonEx 5552/5549 vai ('point <-> store'); Sangam TAM23 kōṉ; 19/497 of 240/235 *mīṉ precede 482 (OR=29.9x, P=8.46e-18), 31/33 (93.9%) precede 740/752 *kuṭi (OR=98.9x, P=6.43e-25)",
+      "source_intact_tokens": 35,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S480",
+      "sign": "480",
+      "title": "point → vessel",
+      "a": [
+        "point",
+        "sharp",
+        "tip"
+      ],
+      "b": [
+        "vessel",
+        "capacity",
+        "measure"
+      ],
+      "a_entries": [
+        "3314"
+      ],
+      "b_entries": [
+        "3385"
+      ],
+      "kind": "bridge",
+      "note": "",
+      "proposal_root": "*tūtai (metal/vessel unit)",
+      "source_note": "Tall narrow caret/point (M134): Track B metrology lock — 19/23 (82.6%) non-final tokens immediately precede numerals {001,031,032,003} vs 5.9% bg (OR=75.5x, Fisher P=4.30e-20); TIER-1 unseen-replicated Copper-Tool Weight & Vessel Capacity Unit + PhonSt DEDR 3314 tuti ('point') <-> 3385 tūtai ('small vessel, measure')",
+      "source_intact_tokens": 30,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S335",
+      "sign": "335",
+      "title": "frame → pot",
+      "a": [
+        "frame"
+      ],
+      "b": [
+        "pot",
+        "vessel",
+        "pan"
+      ],
+      "a_entries": [
+        "2304"
+      ],
+      "b_entries": [
+        "2306"
+      ],
+      "kind": "bridge",
+      "note": "The source also offers double-basket koḍame, entry 2047, as a literal alternative.",
+      "proposal_root": "*koḍame / *caṭṭi (grain-bin rung)",
+      "source_note": "Double-chamber M-bin (M192): Track B metrology ladder lock — 13/28 (46.4%) precede 711 *vaḷḷam vs 0/11,012 bg (Fisher P=6.49e-36, 100% of all 711 occurrences!), 16/60 of 575 *kōṭṭai precede 335 (OR=332.4x, P=1.89e-30); DIRECT 2047 koḍame ('double basket') + PhonSt 2304/2306; unlocks 413-575-335-711-033-700 (10x)",
+      "source_intact_tokens": 29,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S540",
+      "sign": "540",
+      "title": "drum ↔ capacity measure",
+      "a": [
+        "drum"
+      ],
+      "b": [
+        "measure",
+        "capacity"
+      ],
+      "a_entries": [
+        "4032"
+      ],
+      "b_entries": [
+        "4032"
+      ],
+      "kind": "polysemy",
+      "note": "",
+      "proposal_root": "*paṟai",
+      "source_note": "Bowtie / hourglass drum (M214): exact 2-br DIRECT (Fixed & Raw) DEDR 4032 paṟai ('drum; a measure of capacity') + Sangam TAM77 paṟai; TIER-1 unseen-replicated Bulk Ceramic Vessel / Dry-Measure Container Mark (Pottery, L OR=3.46x, N OR=6.06x); 41% standalone (540 11x, 540-540 2x); cosL=0.92, cosR=0.92 w/ locked goblet-stamp 440 *mukku",
+      "source_intact_tokens": 27,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S630",
+      "sign": "630",
+      "title": "cage → assemble / store",
+      "a": [
+        "cage",
+        "coop",
+        "nest",
+        "pen",
+        "hive"
+      ],
+      "b": [
+        "assemble",
+        "join",
+        "store",
+        "stored",
+        "together"
+      ],
+      "a_entries": [
+        "1883"
+      ],
+      "b_entries": [
+        "1882"
+      ],
+      "kind": "bridge",
+      "note": "",
+      "proposal_root": "*kūṭu",
+      "source_note": "Tall rectangle w/ top+bottom teeth / cage-coop (M244/P270): exact 2-br PhonEx (Fixed & Raw) DEDR 1883 kūṭu ('birdcage, coop, pen, receptacle') <-> 1882 kūṭu ('assemble, join, be stored up') + PhonSt 1883/1655 kuṭi + Sangam TAM55 kūṭu ('granary, store-enclosure'); 630-740 (13/25), Harappa Depot Ration; cascades Key 4D cluster 630|632|637|634|635",
+      "source_intact_tokens": 25,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S171",
+      "sign": "171",
+      "title": "hang ↔ weigh",
+      "a": [
+        "hang",
+        "suspend",
+        "suspended"
+      ],
+      "b": [
+        "weigh",
+        "weight",
+        "balance",
+        "scales"
+      ],
+      "a_entries": [
+        "3376"
+      ],
+      "b_entries": [
+        "3376"
+      ],
+      "kind": "polysemy",
+      "note": "",
+      "proposal_root": "*tūṅku / *niṟai (weight std)",
+      "source_note": "Balance-beam T w/ two hanging pans (M409): Track B metrology lock — 20/21 (95.2%) non-final tokens immediately precede tall numerals {035,032,033} (5 or 3) vs 4.6% bg (OR=415.5x, Fisher P=5.15e-26); DIRECT DEDR 3376 tūṅku ('hang, suspend, weigh') + Sangam TAM85 niṟai ('weight standard, balance')",
+      "source_intact_tokens": 23,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S831",
+      "sign": "831",
+      "title": "blade → grain",
+      "a": [
+        "blade",
+        "weapon",
+        "arrow",
+        "weaver"
+      ],
+      "b": [
+        "grain",
+        "paddy"
+      ],
+      "a_entries": [
+        "237"
+      ],
+      "b_entries": [
+        "255"
+      ],
+      "kind": "bridge",
+      "note": "",
+      "proposal_root": "*alaku",
+      "source_note": "Leaf w/ diagonal central rib / blade-feather (M379): exact 2-br PhonEx (Fixed & Raw) DEDR 237 alaku ('blade, weaver's stay') <-> 255 alaku ('grains of paddy, ear of paddy'); 831-892 (*vil sale, 4x), 831-615 (*accu field-plot, 4x), Foreign Export Circuit (Luristan); triggers Key 4D PureAllo 833",
+      "source_intact_tokens": 22,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S165",
+      "sign": "165",
+      "title": "bend / snail → cauldron",
+      "a": [
+        "bend",
+        "curve",
+        "hump",
+        "snail"
+      ],
+      "b": [
+        "cauldron"
+      ],
+      "a_entries": [
+        "1927"
+      ],
+      "b_entries": [
+        "1928"
+      ],
+      "kind": "bridge",
+      "note": "",
+      "proposal_root": "*kūṉ",
+      "source_note": "Curved dome w/ inward spiral curl / snail (M319): exact 2-br PhonEx (Fixed & Raw) DEDR 1927 kūṉ ('bend, curve, hump, snail') <-> 1928 kūṉ ('cauldron'); 900 *tiṅkaḷ precedes 165 8/92x (OR=148.9x, Fisher P=1.05e-13), MD copper tablets (5x)",
+      "source_intact_tokens": 22,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S104",
+      "sign": "104",
+      "title": "leap → collect / levy",
+      "a": [
+        "leap",
+        "skip",
+        "jump",
+        "stride",
+        "dance"
+      ],
+      "b": [
+        "collect",
+        "levy",
+        "recover"
+      ],
+      "a_entries": [
+        "3158"
+      ],
+      "b_entries": [
+        "3054"
+      ],
+      "kind": "bridge",
+      "note": "",
+      "proposal_root": "*taṇṭu",
+      "source_note": "Person w/ half-height caret at right foot / striding man (M41): exact 2-br PhonEx (Fixed & Raw) DEDR 3158 tāṇṭu ('step over, leap across, stride') <-> 3054 taṇṭu ('collect, levy, recover'); 104 precedes 645 7/19 non-final (36.8%, OR=428.0x, Fisher P=2.14e-15), Bar-Seal Commodity/Allotment anchor",
+      "source_intact_tokens": 22,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S923",
+      "sign": "923",
+      "title": "horn / tusk",
+      "a": [
+        "horn",
+        "tusk"
+      ],
+      "b": [
+        ""
+      ],
+      "a_entries": [
+        "4720"
+      ],
+      "b_entries": [],
+      "kind": "literal",
+      "note": "",
+      "proposal_root": "*maruppu",
+      "source_note": "tusk/ivory",
+      "source_intact_tokens": 37,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S500",
+      "sign": "500",
+      "title": "sail",
+      "a": [
+        "sail"
+      ],
+      "b": [
+        ""
+      ],
+      "a_entries": [
+        "4088"
+      ],
+      "b_entries": [],
+      "kind": "literal",
+      "note": "",
+      "proposal_root": "*pāy",
+      "source_note": "sail/sea-trip",
+      "source_intact_tokens": 21,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S790",
+      "sign": "790",
+      "title": "circle / bangle",
+      "a": [
+        "circle",
+        "bangle",
+        "bracelet"
+      ],
+      "b": [
+        ""
+      ],
+      "a_entries": [
+        "5313"
+      ],
+      "b_entries": [],
+      "kind": "literal",
+      "note": "",
+      "proposal_root": "*vaḷai",
+      "source_note": "bangle (Skt. valaya)",
+      "source_intact_tokens": 57,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S215",
+      "sign": "215",
+      "title": "rice",
+      "a": [
+        "rice"
+      ],
+      "b": [
+        ""
+      ],
+      "a_entries": [
+        "215"
+      ],
+      "b_entries": [],
+      "kind": "literal",
+      "note": "",
+      "proposal_root": "*arici",
+      "source_note": "rice (Gk. oryza)",
+      "source_intact_tokens": 9,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S854",
+      "sign": "854",
+      "title": "sesame",
+      "a": [
+        "sesamum",
+        "sesame"
+      ],
+      "b": [
+        ""
+      ],
+      "a_entries": [
+        "854"
+      ],
+      "b_entries": [],
+      "kind": "literal",
+      "note": "",
+      "proposal_root": "*eḷ",
+      "source_note": "sesame (Akk. ellu)",
+      "source_intact_tokens": 1,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S711",
+      "sign": "711",
+      "title": "vessel / capacity measure",
+      "a": [
+        "measure",
+        "capacity",
+        "dish",
+        "boat"
+      ],
+      "b": [
+        ""
+      ],
+      "a_entries": [
+        "5315"
+      ],
+      "b_entries": [],
+      "kind": "literal",
+      "note": "",
+      "proposal_root": "*vaḷḷam",
+      "source_note": "4-cup measure (37 L)",
+      "source_intact_tokens": 13,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S575",
+      "sign": "575",
+      "title": "capacity measure kōṭṭai",
+      "a": [
+        "measure",
+        "capacity"
+      ],
+      "b": [
+        ""
+      ],
+      "a_entries": [
+        "2208"
+      ],
+      "b_entries": [],
+      "kind": "literal",
+      "note": "",
+      "proposal_root": "*kōṭṭai",
+      "source_note": "72-cup measure (665 L)",
+      "source_intact_tokens": 64,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S235",
+      "sign": "235",
+      "title": "light component of roofed fish",
+      "a": [
+        "light",
+        "bright",
+        "brightness"
+      ],
+      "b": [
+        ""
+      ],
+      "a_entries": [
+        "1016"
+      ],
+      "b_entries": [],
+      "kind": "literal",
+      "note": "",
+      "proposal_root": "*oḷi-mīṉ",
+      "source_note": "roofed-fish/bright-star",
+      "source_intact_tokens": 209,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S060",
+      "sign": "060",
+      "title": "inside component / locative",
+      "a": [
+        "inside",
+        "interior",
+        "within"
+      ],
+      "b": [
+        ""
+      ],
+      "a_entries": [
+        "698"
+      ],
+      "b_entries": [],
+      "kind": "literal",
+      "note": "Lexical inside is tested; -iṉ genitive and an actual locative suffix require a grammatical test and are not inferred from this word.",
+      "proposal_root": "*-uḷ / *-iṉ (loc.-obl.)",
+      "source_note": "Grammatical locative-oblique postposition ('in/within/of'): 94.4% medial, dH=+1.68 bits (twin of 002), 0.0% doubling; zero-exception unseen split vs 002 on place vs weight headers (16:0 vs 0:29, Fisher P=1.65e-12); + DIRECT 2460 cār; unlocks 920-060-741 (34x)",
+      "source_intact_tokens": 196,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S001",
+      "sign": "001",
+      "title": "numeral one",
+      "a": [
+        "one"
+      ],
+      "b": [
+        ""
+      ],
+      "a_entries": [
+        "990"
+      ],
+      "b_entries": [],
+      "kind": "numeral",
+      "note": "",
+      "proposal_root": "*oru",
+      "source_note": "1 (short)",
+      "source_intact_tokens": 210,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S002",
+      "sign": "002",
+      "title": "numeral two",
+      "a": [
+        "two"
+      ],
+      "b": [
+        ""
+      ],
+      "a_entries": [
+        "474"
+      ],
+      "b_entries": [],
+      "kind": "numeral",
+      "note": "",
+      "proposal_root": "*iru",
+      "source_note": "2 (short)",
+      "source_intact_tokens": 684,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S003",
+      "sign": "003",
+      "title": "numeral three",
+      "a": [
+        "three"
+      ],
+      "b": [
+        ""
+      ],
+      "a_entries": [
+        "5052"
+      ],
+      "b_entries": [],
+      "kind": "numeral",
+      "note": "",
+      "proposal_root": "*mū",
+      "source_note": "3 (short)",
+      "source_intact_tokens": 237,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S004",
+      "sign": "004",
+      "title": "numeral four",
+      "a": [
+        "four"
+      ],
+      "b": [
+        ""
+      ],
+      "a_entries": [
+        "3655"
+      ],
+      "b_entries": [],
+      "kind": "numeral",
+      "note": "",
+      "proposal_root": "*nāl",
+      "source_note": "4 (short)",
+      "source_intact_tokens": 85,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S005",
+      "sign": "005",
+      "title": "numeral five",
+      "a": [
+        "five"
+      ],
+      "b": [
+        ""
+      ],
+      "a_entries": [
+        "2826"
+      ],
+      "b_entries": [],
+      "kind": "numeral",
+      "note": "",
+      "proposal_root": "*ai",
+      "source_note": "Verified Pure allograph of 015 (*ai)",
+      "source_intact_tokens": 49,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S006",
+      "sign": "006",
+      "title": "numeral six",
+      "a": [
+        "six"
+      ],
+      "b": [
+        ""
+      ],
+      "a_entries": [
+        "2485"
+      ],
+      "b_entries": [],
+      "kind": "numeral",
+      "note": "",
+      "proposal_root": "*aṟu",
+      "source_note": "6 (short)",
+      "source_intact_tokens": 6,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S007",
+      "sign": "007",
+      "title": "numeral seven",
+      "a": [
+        "seven"
+      ],
+      "b": [
+        ""
+      ],
+      "a_entries": [
+        "910"
+      ],
+      "b_entries": [],
+      "kind": "numeral",
+      "note": "",
+      "proposal_root": "*ēḻ",
+      "source_note": "7 (short)",
+      "source_intact_tokens": 6,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S025",
+      "sign": "025",
+      "title": "numeral nine",
+      "a": [
+        "nine"
+      ],
+      "b": [
+        ""
+      ],
+      "a_entries": [
+        "1025"
+      ],
+      "b_entries": [],
+      "kind": "numeral",
+      "note": "",
+      "proposal_root": "*oṉpatu",
+      "source_note": "Allograph of 027",
+      "source_intact_tokens": 3,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S028",
+      "sign": "028",
+      "title": "numeral ten",
+      "a": [
+        "ten"
+      ],
+      "b": [
+        ""
+      ],
+      "a_entries": [
+        "3918"
+      ],
+      "b_entries": [],
+      "kind": "numeral",
+      "note": "",
+      "proposal_root": "*pattu",
+      "source_note": "10 (photo)",
+      "source_intact_tokens": 4,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    },
+    {
+      "id": "S055",
+      "sign": "055",
+      "title": "numeral twelve",
+      "a": [
+        "twelve"
+      ],
+      "b": [
+        ""
+      ],
+      "a_entries": [
+        "3918"
+      ],
+      "b_entries": [],
+      "kind": "numeral",
+      "note": "",
+      "proposal_root": "*paṉṉiru",
+      "source_note": "12 (dozen)",
+      "source_intact_tokens": 75,
+      "scope": "fixed original concept/etymon claim, not independently established sign meaning"
+    }
+  ]
+}
