@@ -2,6 +2,8 @@
 
 Status: **prepared, not run**. Freezing the current proposal after its development does not retroactively turn existing objects into a blind holdout. No independent archaeological panel has supplied labels, no experts have been contacted, and no new laboratory measurements have been made.
 
+Update: a limited [known-Sumerian rebus component pilot](../rebus_positive_control/README.md) has now run. It is not completion of the full-method or archaeological protocol below. It finds correct original-order language ranking but unequal cluster filtering and an order-sensitive strict score.
+
 ## The decisive experiment
 
 Ask whether **semantics assigned without knowledge of any candidate language permit the frozen Dravidian key to make specific correct predictions on independently collected evidence, outperforming equally flexible rival keys and language-free models**.

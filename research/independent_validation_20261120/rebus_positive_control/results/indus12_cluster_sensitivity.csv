@@ -1,0 +1,22 @@
+language,mode,n_cases,original_hits,distinct_entry_hits,original_signs,distinct_entry_signs
+Dravidian,phon_exact,12,7,7,820; 220; 861; 320; 090; 154; 390,820; 220; 861; 320; 090; 154; 390
+Dravidian,phon_stem,12,10,10,820; 220; 740; 400; 861; 320; 090; 154; 850; 390,820; 220; 740; 400; 861; 320; 090; 154; 850; 390
+Dravidian,ascii_exact,12,8,8,705; 820; 220; 861; 320; 090; 154; 390,705; 820; 220; 861; 320; 090; 154; 390
+Munda,phon_exact,12,0,0,,
+Munda,phon_stem,12,0,1,,390
+Munda,ascii_exact,12,0,0,,
+Indo-Aryan,phon_exact,12,0,0,,
+Indo-Aryan,phon_stem,12,0,0,,
+Indo-Aryan,ascii_exact,12,0,0,,
+Elamite,phon_exact,12,0,0,,
+Elamite,phon_stem,12,0,0,,
+Elamite,ascii_exact,12,0,0,,
+Sumerian,phon_exact,12,5,7,220; 740; 861; 090; 154,820; 220; 740; 861; 090; 154; 850
+Sumerian,phon_stem,12,6,8,705; 220; 740; 861; 090; 154,705; 820; 220; 740; 861; 090; 154; 850
+Sumerian,ascii_exact,12,5,7,220; 740; 861; 090; 154,820; 220; 740; 861; 090; 154; 850
+Akkadian,phon_exact,12,0,0,,
+Akkadian,phon_stem,12,0,0,,
+Akkadian,ascii_exact,12,0,0,,
+Burushaski,phon_exact,12,0,1,,861
+Burushaski,phon_stem,12,0,1,,861
+Burushaski,ascii_exact,12,0,1,,861

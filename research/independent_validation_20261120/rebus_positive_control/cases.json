@@ -1,0 +1,19 @@
+{
+  "status": "Pre-run pilot specification; source examples are familiar and the analyst has inspected the code and some dictionary rows. This is an automated answer-withholding test, not a human-blinded decipherment or a preregistered study.",
+  "primary_cases": [
+    {"id":"TI_life","sign_group":"TI","a":"arrow","b":"life","a_en":"\\barrow\\b","b_en":"\\b(life|live|alive)\\b","a_de":"\\bpfeil\\b","b_de":"\\b(leben|lebendig)\\b","source":"Parpola 2010, A Dravidian solution, printed p.13; Woods 2010/2015, Visible Language, phonetization discussion"},
+    {"id":"GI_return","sign_group":"GI","a":"reed","b":"return / reimburse","a_en":"\\b(reed|cane)\\b","b_en":"\\b(return|reimburse)\\b","a_de":"\\b(rohr|schilf)\\b","b_de":"\\b(zuruckkehren|zuruckgeben|zuruckerstatten|erstatten)\\b","source":"Parpola 2008, Is the Indus script indeed not a writing system?, printed p.127; ORACC gi[turn]"},
+    {"id":"SAR_write","sign_group":"SAR","a":"garden / vegetable plot","b":"write","a_en":"\\b(garden|vegetable plot|kitchen garden)\\b","b_en":"\\b(write|writing|inscribe)\\b","a_de":"\\b(garten|gemusegarten)\\b","b_de":"\\b(schreiben|schrift)\\b","source":"Woods 2010/2015, Visible Language, phonetization discussion: sar garden → write"}
+  ],
+  "secondary_cases": [
+    {"id":"TI_rib","sign_group":"TI","a":"arrow","b":"rib","a_en":"\\barrow\\b","b_en":"\\brib\\b","a_de":"\\bpfeil\\b","b_de":"\\brippe\\b","source":"Parpola 2010, printed p.13; shares TI with TI_life, not an independent fourth sign"}
+  ],
+  "rules": {
+    "engine":"Unmodified Key2A CleanCognateLex, normalizers, stem rule and eval_edges_vectorized; build lexica with the upstream builders in an isolated external cache.",
+    "primary":"phon_exact with original distinct-cluster restriction; raw primary-case hit count; tied languages remain tied",
+    "sensitivities":["phon_stem","ascii_exact","original distinct-sense polysemy OR phon_exact","same-entry co-attestation screen OR phon_exact","allow distinct entries despite shared cluster; no pronunciation retuning"],
+    "controls":"All six permutations of the three primary B domains; two full derangements form the pure foil condition. These are foil hit rates, not independently established false historical readings. No 0.0002 p-values from replicating six arrangements.",
+    "truth":"Stored separately in truth.json; run.py does not read it. score.py reads truth only after search results exist.",
+    "limits":"Only three independent sign groups. Fixed broad English/German matching is a pilot; source lexica are unequal. No definitive Dravidian/non-Dravidian verdict follows from this pilot."
+  }
+}

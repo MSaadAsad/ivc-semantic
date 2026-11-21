@@ -1,0 +1,7 @@
+{
+  "language":"Sumerian",
+  "TI_life":{"a_forms":["ti"],"b_forms":["ti","til"],"note":"The ti/til distinction is retained in the answer key; do not alter scoring to force equality."},
+  "GI_return":{"a_forms":["gi"],"b_forms":["gi","gi4"],"note":"Subscript sign indices are not pronounced digits; upstream normalizers already discard them."},
+  "SAR_write":{"a_forms":["sar"],"b_forms":["sar"]},
+  "TI_rib":{"a_forms":["ti"],"b_forms":["ti"]}
+}

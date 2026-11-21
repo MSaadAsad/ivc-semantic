@@ -1,0 +1,285 @@
+{
+  "primary_sign_groups": 3,
+  "secondary_correlated_cases": 1,
+  "truth_sha256": "2731af42ecad06e2f5e8b1973ecca7bb553d5070ae1e5be918362579fc1661f6",
+  "rankings": {
+    "ascii_exact": {
+      "best_score": 1,
+      "winners": [
+        "Sumerian"
+      ],
+      "scores": {
+        "Dravidian": 0,
+        "Munda": 0,
+        "Indo-Aryan": 0,
+        "Elamite": 0,
+        "Sumerian": 1,
+        "Akkadian": 0,
+        "Burushaski": 0
+      }
+    },
+    "ascii_exact_entry_only": {
+      "best_score": 3,
+      "winners": [
+        "Sumerian"
+      ],
+      "scores": {
+        "Dravidian": 0,
+        "Munda": 0,
+        "Indo-Aryan": 0,
+        "Elamite": 0,
+        "Sumerian": 3,
+        "Akkadian": 0,
+        "Burushaski": 0
+      }
+    },
+    "entry_only_or_same_entry": {
+      "best_score": 3,
+      "winners": [
+        "Sumerian"
+      ],
+      "scores": {
+        "Dravidian": 0,
+        "Munda": 0,
+        "Indo-Aryan": 0,
+        "Elamite": 0,
+        "Sumerian": 3,
+        "Akkadian": 0,
+        "Burushaski": 0
+      }
+    },
+    "phon_exact": {
+      "best_score": 1,
+      "winners": [
+        "Sumerian"
+      ],
+      "scores": {
+        "Dravidian": 0,
+        "Munda": 0,
+        "Indo-Aryan": 0,
+        "Elamite": 0,
+        "Sumerian": 1,
+        "Akkadian": 0,
+        "Burushaski": 0
+      }
+    },
+    "phon_exact_entry_only": {
+      "best_score": 3,
+      "winners": [
+        "Sumerian"
+      ],
+      "scores": {
+        "Dravidian": 0,
+        "Munda": 0,
+        "Indo-Aryan": 0,
+        "Elamite": 0,
+        "Sumerian": 3,
+        "Akkadian": 0,
+        "Burushaski": 0
+      }
+    },
+    "phon_stem": {
+      "best_score": 1,
+      "winners": [
+        "Sumerian"
+      ],
+      "scores": {
+        "Dravidian": 0,
+        "Munda": 0,
+        "Indo-Aryan": 0,
+        "Elamite": 0,
+        "Sumerian": 1,
+        "Akkadian": 0,
+        "Burushaski": 0
+      }
+    },
+    "phon_stem_entry_only": {
+      "best_score": 3,
+      "winners": [
+        "Sumerian"
+      ],
+      "scores": {
+        "Dravidian": 0,
+        "Munda": 0,
+        "Indo-Aryan": 0,
+        "Elamite": 0,
+        "Sumerian": 3,
+        "Akkadian": 0,
+        "Burushaski": 0
+      }
+    },
+    "poly_or_phon": {
+      "best_score": 2,
+      "winners": [
+        "Sumerian"
+      ],
+      "scores": {
+        "Dravidian": 0,
+        "Munda": 0,
+        "Indo-Aryan": 0,
+        "Elamite": 0,
+        "Sumerian": 2,
+        "Akkadian": 0,
+        "Burushaski": 0
+      }
+    },
+    "same_entry_or_phon": {
+      "best_score": 2,
+      "winners": [
+        "Sumerian"
+      ],
+      "scores": {
+        "Dravidian": 0,
+        "Munda": 0,
+        "Indo-Aryan": 0,
+        "Elamite": 0,
+        "Sumerian": 2,
+        "Akkadian": 0,
+        "Burushaski": 0
+      }
+    }
+  },
+  "reading_recovery": [
+    {
+      "case": "TI_life",
+      "expected_normalized_shared_keys": [
+        "ti"
+      ],
+      "original_correct_reading": true,
+      "distinct_entry_correct_reading": true,
+      "matching_witnesses": 2,
+      "same_cluster_blocks": 0
+    },
+    {
+      "case": "GI_return",
+      "expected_normalized_shared_keys": [
+        "gi"
+      ],
+      "original_correct_reading": false,
+      "distinct_entry_correct_reading": true,
+      "matching_witnesses": 3,
+      "same_cluster_blocks": 3
+    },
+    {
+      "case": "SAR_write",
+      "expected_normalized_shared_keys": [
+        "sar"
+      ],
+      "original_correct_reading": false,
+      "distinct_entry_correct_reading": true,
+      "matching_witnesses": 3,
+      "same_cluster_blocks": 3
+    },
+    {
+      "case": "TI_rib",
+      "expected_normalized_shared_keys": [
+        "ti"
+      ],
+      "original_correct_reading": false,
+      "distinct_entry_correct_reading": true,
+      "matching_witnesses": 3,
+      "same_cluster_blocks": 3
+    }
+  ],
+  "full_derangement_foil_results": {
+    "Akkadian": {
+      "original_hits": {
+        "hits": 0,
+        "trials": 6
+      },
+      "entry_only_hits": {
+        "hits": 0,
+        "trials": 6
+      },
+      "entry_or_same_entry_hits": {
+        "hits": 0,
+        "trials": 6
+      }
+    },
+    "Burushaski": {
+      "original_hits": {
+        "hits": 0,
+        "trials": 6
+      },
+      "entry_only_hits": {
+        "hits": 0,
+        "trials": 6
+      },
+      "entry_or_same_entry_hits": {
+        "hits": 0,
+        "trials": 6
+      }
+    },
+    "Dravidian": {
+      "original_hits": {
+        "hits": 0,
+        "trials": 6
+      },
+      "entry_only_hits": {
+        "hits": 0,
+        "trials": 6
+      },
+      "entry_or_same_entry_hits": {
+        "hits": 1,
+        "trials": 6
+      }
+    },
+    "Elamite": {
+      "original_hits": {
+        "hits": 0,
+        "trials": 6
+      },
+      "entry_only_hits": {
+        "hits": 0,
+        "trials": 6
+      },
+      "entry_or_same_entry_hits": {
+        "hits": 0,
+        "trials": 6
+      }
+    },
+    "Indo-Aryan": {
+      "original_hits": {
+        "hits": 0,
+        "trials": 6
+      },
+      "entry_only_hits": {
+        "hits": 0,
+        "trials": 6
+      },
+      "entry_or_same_entry_hits": {
+        "hits": 0,
+        "trials": 6
+      }
+    },
+    "Munda": {
+      "original_hits": {
+        "hits": 0,
+        "trials": 6
+      },
+      "entry_only_hits": {
+        "hits": 0,
+        "trials": 6
+      },
+      "entry_or_same_entry_hits": {
+        "hits": 0,
+        "trials": 6
+      }
+    },
+    "Sumerian": {
+      "original_hits": {
+        "hits": 0,
+        "trials": 6
+      },
+      "entry_only_hits": {
+        "hits": 0,
+        "trials": 6
+      },
+      "entry_or_same_entry_hits": {
+        "hits": 0,
+        "trials": 6
+      }
+    }
+  },
+  "interpretation": "Known Sumerian examples, tiny illustrative sample. Automated scoring is answer-withheld, not human-blind. Scores do not date or independently establish Indus meanings. Foils are rearranged benchmark meanings, not authenticated false ancient readings."
+}

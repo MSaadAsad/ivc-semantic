@@ -1,0 +1,28 @@
+language,case,mode,a_eid,b_eid,a_cluster,b_cluster,a_forms,b_forms,key,a_gloss,b_gloss,accepted_original
+Sumerian,GI_return,phon_exact,SH_69,SUW_𒄄#0,SUM_gi,SUM_gi,gi,gi,gi,"reed , length measure , reed = 6 cubits = 3 meters","to return; to send back , send over; to send",False
+Sumerian,GI_return,phon_exact,SH_71,SUW_𒄄#0,SUM_gi,SUM_gi,gi,gi,gi,reed mat,"to return; to send back , send over; to send",False
+Sumerian,GI_return,phon_exact,SUW_𒄀#1,SUW_𒄄#0,SUM_gi,SUM_gi,gi,gi,gi,reed; a measuring reed; a unit of length equal to 6 𒌑,"to return; to send back , send over; to send",False
+Sumerian,SAR_write,phon_exact,SH_551,SH_550,SUM_sar,SUM_sar,sar,sar,sar,"a surface measure , 'garden plot' = 1 square ninda = 60 surface shekels = 1/100 iku = 4","vegetable; to insert , enter , to begin , to write , to pay , deliver punctually , to disturb someone , to drive , to; to insert , enter , to begin , to write , to p",False
+Sumerian,SAR_write,phon_exact,SUW_𒊬#2,SH_550,SUM_sar,SUM_sar,sar,sar,sar,"garden plot; to write , inscribe; to run , hasten; to chase away","vegetable; to insert , enter , to begin , to write , to pay , deliver punctually , to disturb someone , to drive , to; to insert , enter , to begin , to write , to p",False
+Sumerian,SAR_write,phon_exact,SH_551,SUW_𒊬#2,SUM_sar,SUM_sar,sar,sar,sar,"a surface measure , 'garden plot' = 1 square ninda = 60 surface shekels = 1/100 iku = 4","garden plot; to write , inscribe; to run , hasten; to chase away",False
+Sumerian,TI_rib,phon_exact,SH_163,SUW_𒋾#1,SUM_ti,SUM_ti,ti,ti,ti,"side , rib , arrow",rib,False
+Sumerian,TI_rib,phon_exact,SH_163,SUW_𒋾#2,SUM_ti,SUM_ti,ti,ti,ti,"side , rib , arrow",arrow; perfective of 𒋼,False
+Sumerian,TI_rib,phon_exact,SUW_𒋾#2,SUW_𒋾#1,SUM_ti,SUM_ti,ti,ti,ti,arrow; perfective of 𒋼,rib,False
+Sumerian,GI_return,phon_stem,SH_69,SUW_𒄄#0,SUM_gi,SUM_gi,gi,gi,gi,"reed , length measure , reed = 6 cubits = 3 meters","to return; to send back , send over; to send",False
+Sumerian,GI_return,phon_stem,SH_71,SUW_𒄄#0,SUM_gi,SUM_gi,gi,gi,gi,reed mat,"to return; to send back , send over; to send",False
+Sumerian,GI_return,phon_stem,SUW_𒄀#1,SUW_𒄄#0,SUM_gi,SUM_gi,gi,gi,gi,reed; a measuring reed; a unit of length equal to 6 𒌑,"to return; to send back , send over; to send",False
+Sumerian,SAR_write,phon_stem,SH_551,SH_550,SUM_sar,SUM_sar,sar,sar,sar,"a surface measure , 'garden plot' = 1 square ninda = 60 surface shekels = 1/100 iku = 4","vegetable; to insert , enter , to begin , to write , to pay , deliver punctually , to disturb someone , to drive , to; to insert , enter , to begin , to write , to p",False
+Sumerian,SAR_write,phon_stem,SUW_𒊬#2,SH_550,SUM_sar,SUM_sar,sar,sar,sar,"garden plot; to write , inscribe; to run , hasten; to chase away","vegetable; to insert , enter , to begin , to write , to pay , deliver punctually , to disturb someone , to drive , to; to insert , enter , to begin , to write , to p",False
+Sumerian,SAR_write,phon_stem,SH_551,SUW_𒊬#2,SUM_sar,SUM_sar,sar,sar,sar,"a surface measure , 'garden plot' = 1 square ninda = 60 surface shekels = 1/100 iku = 4","garden plot; to write , inscribe; to run , hasten; to chase away",False
+Sumerian,TI_rib,phon_stem,SH_163,SUW_𒋾#1,SUM_ti,SUM_ti,ti,ti,ti,"side , rib , arrow",rib,False
+Sumerian,TI_rib,phon_stem,SH_163,SUW_𒋾#2,SUM_ti,SUM_ti,ti,ti,ti,"side , rib , arrow",arrow; perfective of 𒋼,False
+Sumerian,TI_rib,phon_stem,SUW_𒋾#2,SUW_𒋾#1,SUM_ti,SUM_ti,ti,ti,ti,arrow; perfective of 𒋼,rib,False
+Sumerian,GI_return,ascii_exact,SH_69,SUW_𒄄#0,SUM_gi,SUM_gi,gi,gi,gi,"reed , length measure , reed = 6 cubits = 3 meters","to return; to send back , send over; to send",False
+Sumerian,GI_return,ascii_exact,SH_71,SUW_𒄄#0,SUM_gi,SUM_gi,gi,gi,gi,reed mat,"to return; to send back , send over; to send",False
+Sumerian,GI_return,ascii_exact,SUW_𒄀#1,SUW_𒄄#0,SUM_gi,SUM_gi,gi,gi,gi,reed; a measuring reed; a unit of length equal to 6 𒌑,"to return; to send back , send over; to send",False
+Sumerian,SAR_write,ascii_exact,SH_551,SH_550,SUM_sar,SUM_sar,sar,sar,sar,"a surface measure , 'garden plot' = 1 square ninda = 60 surface shekels = 1/100 iku = 4","vegetable; to insert , enter , to begin , to write , to pay , deliver punctually , to disturb someone , to drive , to; to insert , enter , to begin , to write , to p",False
+Sumerian,SAR_write,ascii_exact,SUW_𒊬#2,SH_550,SUM_sar,SUM_sar,sar,sar,sar,"garden plot; to write , inscribe; to run , hasten; to chase away","vegetable; to insert , enter , to begin , to write , to pay , deliver punctually , to disturb someone , to drive , to; to insert , enter , to begin , to write , to p",False
+Sumerian,SAR_write,ascii_exact,SH_551,SUW_𒊬#2,SUM_sar,SUM_sar,sar,sar,sar,"a surface measure , 'garden plot' = 1 square ninda = 60 surface shekels = 1/100 iku = 4","garden plot; to write , inscribe; to run , hasten; to chase away",False
+Sumerian,TI_rib,ascii_exact,SH_163,SUW_𒋾#1,SUM_ti,SUM_ti,ti,ti,ti,"side , rib , arrow",rib,False
+Sumerian,TI_rib,ascii_exact,SH_163,SUW_𒋾#2,SUM_ti,SUM_ti,ti,ti,ti,"side , rib , arrow",arrow; perfective of 𒋼,False
+Sumerian,TI_rib,ascii_exact,SUW_𒋾#2,SUW_𒋾#1,SUM_ti,SUM_ti,ti,ti,ti,arrow; perfective of 𒋼,rib,False

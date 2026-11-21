@@ -1,0 +1,40 @@
+{
+  "downloaded": [
+    {
+      "file": "visible_language.pdf",
+      "url": "https://isac-assets.s3.amazonaws.com/isac-publications/oimp32.pdf",
+      "sha256": "e41d1c3cc47997d666af6e110fbf92eaa4653ee58150bebdbc6fd842991360a2",
+      "bytes": 29630364
+    }
+  ],
+  "case_verification": [
+    {
+      "cases": [
+        "GI_return",
+        "SAR_write"
+      ],
+      "source": "Christopher Woods, The Earliest Mesopotamian Writing, in Visible Language (2010; corrected reprint 2015)",
+      "printed_page": 43,
+      "pdf_page": 45,
+      "verification": "Downloaded publisher PDF, extracted text and visually inspected the page; it explicitly describes both reed/return and garden/write rebus uses."
+    },
+    {
+      "cases": [
+        "TI_life",
+        "TI_rib"
+      ],
+      "source": "Asko Parpola 2010, A Dravidian solution to the Indus script problem",
+      "url": "https://www.harappa.com/sites/default/files/pdf/Parpola-2010-Coimbatore.pdf",
+      "printed_page": 13,
+      "pdf_page": 12,
+      "verification": "Read through web PDF extraction; local PDF retrieval returned HTTP403. The passage explicitly gives arrow, life and rib as ti. Modern ORACC retains til for the live verb, preserved separately in truth.json."
+    }
+  ],
+  "corroboration": [
+    "https://oracc.museum.upenn.edu/epsd2/signlist/l0084/o0000553/index.html",
+    "https://oracc.museum.upenn.edu/epsd2/cbd/sux/o0040362.html",
+    "https://oracc.museum.upenn.edu/epsd2/cbd/sux/o0037663.html",
+    "https://oracc.museum.upenn.edu/epsd2/praxis/cbd/sux/summaries.html"
+  ],
+  "specification_note": "The independent source page was verified after the first scoring run; only bibliographic corroboration was added. No case regex, truth value or primary scoring rule was retuned."
+}
