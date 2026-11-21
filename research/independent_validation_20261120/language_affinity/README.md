@@ -2,6 +2,8 @@
 
 **Follow-up:** the [meaning-matched overlap comparison](../language_overlap/README.md) adds a pinned DravLex source and dictionary-coverage controls. It finds 5/11 scorable cognate families in each of Brahui, Kurukh and Malto, versus Tamil 10/11 and Malayalam 8/11. These are different measures from the exact-spelling counts below; one exact Brahui spelling never meant only one related word.
 
+The subsequent [full dictionary and synonym investigation](../full_dictionary_overlap/README.md) improves extraction recovery and documents missed synonyms, shifted meanings and qualified comparisons. Earlier parser-dependent counts below are historical results; use the full-inventory report for current dictionary attestation coverage.
+
 **The proposed key is closest to recorded Tamil forms. This measures the proposal's lexical sources; it does not identify the language of the Indus inscriptions.** The source code explicitly chooses Tamil first when it constructs its representative Dravidian headwords. A new, retrospective comparison across 21 languages quantifies that preference and checks how some of the claimed sound bridges travel across the family.
 
 This extension was requested after the independent semantic-validation dossier. It adds language-by-language extraction, comparisons and inspectable witnesses to the existing research branch. It uses the repository's existing dictionary and hypotheses; it supplies neither fresh archaeological observations nor independent semantic judgments.

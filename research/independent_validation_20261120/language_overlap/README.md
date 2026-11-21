@@ -1,5 +1,7 @@
 # Meaning-matched overlap: Brahui, Kurukh, Malto and the other Dravidian languages
 
+**Broader follow-up:** [full dictionary overlap and synonyms](../full_dictionary_overlap/README.md) examines 5,558 recoverable groups, including 274 with Brahui, beyond this 100-word source. It recovers historical synonyms and corrects the dictionary extraction counts below: the 73-anchor totals become Kurukh 18, Malto 15, Kannada 61 and Brahui 9. The eleven-concept DravLex results remain the original elicited-list results, not absence claims about the languages' full vocabularies.
+
 **Brahui, Kurukh and Malto each match 5 of 11 scorable basic meanings in an additional, meaning-matched wordlist comparison.** Kannada also matches 5, Telugu 4, Malayalam 8 and Tamil 10. The proposed vocabulary overlaps more with Tamil and Malayalam in this small panel, but the northern overlap is substantial and is obscured by comparing exact spellings. The three northern languages match different subsets; none separates from the other two by total score here.
 
 This extends the earlier [spelling and dictionary-portability audit](../language_affinity/README.md). It holds the meanings and intended dictionary entries fixed, rather than accepting any homonym with the key's spelling. It adds a pinned external modern wordlist and dictionary-coverage controls. These calculations compare the proposed vocabulary; they do not establish that the signs actually have those meanings.

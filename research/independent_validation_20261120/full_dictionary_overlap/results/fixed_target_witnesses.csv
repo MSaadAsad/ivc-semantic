@@ -1,0 +1,1542 @@
+language,code,eid,attested,questioned,segment,sources
+Tamil,Ta,237,True,False,"alaku blade of a weapon, or instrument, head of an arrow, weaver's stay or staff to adjust a warp; alakku roof laths, a pole with an iron hook to pluck fruits or leaves.",sign 831
+Tamil,Ta,255,True,False,"alaku grains of paddy, ear of paddy or other grain.",sign 831
+Tamil,Ta,399,True,False,"āḷ man, husband, servant, labourer, adult; āḷaṉ husband; (Tinn.) āḷiyan id.; āṇ male, manliness, courage, superiority, warrior; āṇaṉ manly person; āṇmai manliness, virility, courage; āṭavaṉ man, youth.",concept 51_man
+Tamil,Ta,474,True,False,"iraṇṭu , ( coll. ) reṇṭu two; iraṇṭām, iraṇṭāvatu second; iraṇai couple, pair; iraṭṭai pair, married couple, twins, even numbers; iraṭṭaiyar twins; iraṭṭi (-pp-, -tt-) to double ( tr. ), repeat; be doubled, return, disagree; n. double quantity; iraṭṭippu double quantity; iraṭṭu (iraṭṭi-) to double ( intr. ), sound alternately; wave alternately ( tr.); n. doubleness; iru (before consonant), īr (before vowel) adj. two; iru-patu, iru-vatu twenty; iru-nūṟu 200; irumai twofold state; iruvar two persons; ivv-iraṇṭu two by two.",concept 91_two
+Tamil,Ta,480,True,False,"iru (-pp-, -nt-) to exist, remain, sit down, live, belong to (dative of person); auxiliary; iruttu (irutti-) to cause to sit, detain, fix permanently; iruvu (iruvi-) to cause to be or abide; irukkai sitting, seat, residence; iruppu seat, residence, condition in life, balance on hand, surplus, stores, merchandise, wares.",concept 74_sit
+Tamil,Ta,990,True,False,"oru (before consonant), ōr (before vowel) one; ori (-pp-, -tt-) to be united in harmony; orukkam oneness, sameness; orukka for each; orukku (orukki-) to bring together; oruṅku altogether, simultaneously; (oruṅki-) to have a singleness of aim or purpose, join together; oruttaṉ, oruvaṉ a male person; fem. orutti; oruttu concentration of mind; orumi (-pp-, -tt-) to be in unison, unite; orumikka together; orumippu union, harmony, undivided attention; orumai oneness, union, singleness, loneliness, uniqueness, concentration of mind; oruvar one person ( hon. ); oruvu (oruvi-) to resemble, equal; orē only, one; oru-talai onesidedness; ōrmai unity; ōr-oṉṟu, ovv-oṉṟu each one, one at a time.",concept 63_one
+Tamil,Ta,1159,True,False,"kaṇ eye, aperture, orifice, star of a peacock's tail.",concept 26_eye
+Tamil,Ta,1184,True,False,"kaṇṇi wreath, garland, neckrope for bullock, rope; kaṇṇu (kaṇṇi-) to be attached to, be fastened to.",sign 460
+Tamil,Ta,1241,True,False,"kampi wire of gold, silver, iron or other metal; bit of a horse's bridle; narrow stripe along the border of a cloth.",sign 142;sign 877
+Tamil,Ta,1325,True,False,"kavar (-v-, -nt-) to separate into various channels, deviate, depart from instructions; churn (or with 1340); ( -pp-, -tt- ) to branch off (as roads), fork, bifurcate; n. bifurcated branch (as of tree or river), prong; kavarppu forking, bifurcation; kavarpu differing; kavaṭu branch of tree, forked branch, separation, division; kavaṭṭi, kavaṭṭai fork of a branch, branching root; kavuṭṭi space between the thighs; kavalai forking of branches, place where several ways meet; kavai (-pp-, -tt-) to fork (as a branch); n. division, cleavage (as of hoof, a crab's claws), branch of a tree, forked stick, crossroads; kavam, kavvam churning stick; kavvu fork of a branch or horn; kappu forked branch, branch, bough, cleavage, cleft; kappi (-pp-, -tt-) to fork as a branch.",sign 416
+Tamil,Ta,1326,True,False,"kavar (-v-, -nt-) to seize, grasp, catch, steal, get control of, receive, experience, desire, have sexual connexion with; kavarcci captivation, attraction; kavarvu id., desire; kavavu (kavavi-) to desire, embrace, copulate; n. copulation; (inscr.) kavaṟṟu (kavaṟṟi-) to attract; kavai (-pp-, -tt-) . to include, join with, embrace.",sign 416
+Tamil,Ta,1353,False,False,,sign 460
+Tamil,Ta,1370,True,False,"kar̤ai pole used for propelling boats, elephant-goad, stem of sugar-cane, shaft of a bamboo, bamboo bottle, spiny bamboo; kar̤i rod, staff, stick, handle of tool, peg to keep a yoke in place, lath; kar̤āy acrobat's pole, spiny bamboo; kar̤āyar poledancers, tumblers; kār̤ post, pillar, oar, iron rod, elephant-goad, bolt, handle, rafter, firewood.",sign 171
+Tamil,Ta,1443,True,False,"kāṇ (kāṇp-, kaṇṭ-) to see, consider, investigate, appear, become visible; n. sight, beauty; kāṇkai knowledge; kāṇpu seeing, sight; kāṭci sight, vision of a deity, view, appearance; kāṇikkai voluntary offering, gift to a temple, church, guru or other great person; kāṭṭu (kāṭṭi-) to show; n. showing; kaṇṇu (kaṇṇi-) to purpose, think, consider; kaṇ-kāṭci gratifying spectacle, exhibition, object of curiosity.",concept 72_see
+Tamil,Ta,1454,True,False,"kāmpu flower-stalk, flowering branch, handle, shaft, haft.",sign 142;sign 877
+Tamil,Ta,1479,True,False,"kāl leg, foot, base (of tree), quarter, family, relationship; kālāḷ footsoldier; kāli herd of cows, cow.",concept 32_foot
+Tamil,Ta,1493,True,False,"kār̤ seed, stone, nut, kernel, gravel.",sign 171
+Tamil,Ta,1651,True,False,"kuṭam waterpot, hub of a wheel; kuṭaṅkar waterpot; kuṭantam pot; kuṭantai Kumbakonam (old name); kuṭukkai coconut or other hard shell used as vessel, pitcher; kuṭikai ascetic's pitcher; kuṭuvai vessel with a small narrow mouth, pitcher of an asectic.",sign 798
+Tamil,Ta,1655,True,False,"kuṭi house, abode, home, family, lineage, town, tenants; kuṭikai hut made of leaves, temple; kuṭical hut; kuṭicai, kuṭiñai small hut, cottage; kuṭimai family, lineage, allegiance (as of subjects to their sovereign), servitude; kuṭiy-āḷ tenant; kuṭiyilār tenants; kuṭil hut, shed, abode; kuṭaṅkar hut, cottage; kaṭumpu relations.",sign 384;sign 585;sign 798
+Tamil,Ta,1663,True,False,"kuṭai umbrella, parasol, canopy.",sign 585
+Tamil,Ta,1882,True,False,"kūṭu (kūṭi-) to come together, join, meet, assemble, combine, become conciliated, be stored up, happen, associate, cohabit, arrive at, be possible, be fit, proper, be achieved; kūṭa together with, in addition to; kūṭal joining, sexual union; kūṭutal, kūṭutalai success; kūṭṭu (kūṭṭi-) to unite ( tr. ), join, combine, mingle, add, convoke (an assembly); n. fellowship, assistance, relationship, throng, illicit intercourse, mixture; kūṭṭam union, meeting, crowd, group, association, kindred, companions, battle, sexual intercourse; kūṭṭar companions, members of same clan or tribe; kūṭṭal uniting, seeking the alliance of powerful kings; kūṭṭāḷāṉ, kūṭṭāḷi associate, partner in trade.",sign 630
+Tamil,Ta,1883,True,False,"kūṭu nest, birdcage, coop, hive, pen, sty, kennel, receptacle for grain, dome, cupola, quiver, sheath, envelope; kuṭampai nest; kuṭāppu plaited coop for fowls, etc.; (RS, p. 141, item 190) kūṇṭu hen-coop; (PPTI) kūṇṭu cage; (Koll.) kūṇṭ nest.",sign 630
+Tamil,Ta,1884,True,False,"kūṭai basket made of rattan, ola, or bamboo, palm-leaf rain-covering; kūṭu basket for catching fish.",sign 384
+Tamil,Ta,1927,True,False,"kūṉ bend, curve, hump on the back, humpback, snail; kūṉu (kūṉi-) to curve, become crooked, bend down, become hunchbacked; kūṉal bend, curve, hump; kūṉaṉ humpback; fem. kūṉi; kuṉi (-v-, -nt-) to bend (as a bow), bow, stoop; (-pp-, -tt-) to bend ( tr. ), curve; n. curvature, bow (weapon); kuṉippu bending.",sign 165
+Tamil,Ta,1928,True,False,"kūṉ cauldron; kūṉai large earthen boiler, baling bucket.",sign 165
+Tamil,Ta,2133,True,False,"kol working in iron, blacksmith; kollaṉ blacksmith.",sign 142
+Tamil,Ta,2177,True,False,"kō, kōṉ, kōmāṉ emperor, king, great man, leadership; kōyil palace, temple; kōyiṉmai, kōviṉmai, kōṉmai royal dignity, arrogance; kōvil temple; kōṉāṭu a division of the Chola country; kōcar name of certain chieftains mentioned in the Sangam literature and connected with the Tuḷu country.",sign 482
+Tamil,Ta,2178,True,False,kō mountain.,sign 482
+Tamil,Ta,2237,True,False,"kōl stick, staff, branch, arrow.",sign 142
+Tamil,Ta,2304,True,False,"caṭṭam wooden frame, socket, plan, model, rule, order, regulation, exactness, precision; caṭṭa properly, rightly; caṭṭakam frame, framework; bed, couch; shape, figure, image, body.",sign 335
+Tamil,Ta,2306,True,False,"caṭṭi earthen vessel, pan.",sign 335
+Tamil,Ta,2456,True,False,"cāy (-v-, -nt-) to incline, hang down, decline as a heavenly body, bend, turn down as the ear, recline, lie down, give way, break, flee, be partial, biased, deviate, lean; (-pp-, -tt-) to cause to incline, bend or stoop, turn in a new direction, drive, steer, prejudice, spoil, defeat; cāyvu slope, declivity, etc.; cāyppu slope, slant, side or declivity of a mountain, sloping roof, etc.; cāyal inclining, etc.",sign 240
+Tamil,Ta,2457,True,False,"cāy brilliance, light, beauty, colour, fame, reputation; cāyam colour, tinge, tint, dye, true colour, real nature; cāyal beauty, gracefulness, colour, likeness, resemblance, reflected image, shadow; āy (-v-, -nt-) to be or become beautiful; n. beauty; ai beauty; aitu that which is beautiful, beauty; aiya beautiful.",sign 240
+Tamil,Ta,3035,True,False,"taṭṭam porringer, eating plate, salver, broad-petalled flower, bed, broad tape; taṭṭi salver, tray; taṭṭu anything flat, area, plain surface, salver, winnowing fan, broad shallow basket, shelf, floor of a carriage, balcony, mat, common rafter, panel of a door, square frame to which snares are fastened to catch birds, petal of flowers; taṭṭai flatness, winnowing fan.",sign 877
+Tamil,Ta,3039,True,False,"taṭṭu (taṭṭi-) to knock, tap, pat, strike against, dash against, strike, beat, hammer, thresh; n. knocking, patting, breaking, striking against, collision; taṭṭam clapping of the hands; taṭṭal knocking, striking, clapping, tapping, beating time; taṭṭāṉ gold or silver smith; fem. taṭṭātti.",sign 877
+Tamil,Ta,3054,True,False,"taṇṭu (taṇṭi-) to collect, levy, recover (as debts, rents, taxes, etc.); ? taṇṭam tax.",sign 104
+Tamil,Ta,3103,True,False,"talai head, top, end, tip, hair; talaippu beginning, ending, end or edge of cloth; talaimai leadership, pre-eminence; talaivaṉ chief, headman, lord; fem. talaivi.",concept 39_head
+Tamil,Ta,3158,True,False,"tāṇṭu (tāṇṭi-) to dance, skip, jump, leap across, jump over, cross, step over, transgress, surpass, excel; n. a leap, jump; tāṇṭavam leaping, jumping.",sign 104
+Tamil,Ta,3213,True,False,"tiṅkaḷ moon, month.",concept 54_moon
+Tamil,Ta,3314,True,False,"tuti point, sharp edge.",sign 480
+Tamil,Ta,3385,True,False,"tūtai small vessel made of earth, a small measure of capacity.",sign 480
+Tamil,Ta,3480,True,False,"toṭu (toṭuv-, toṭṭ-) to touch, come in contact with, be connected, united with or joined to, feel, handle, take hold of, use, have illicit intercourse (as with another's wife); ( -pp-, -tt- ) to connect, join, bind, fasten, fix (as arrow on bow), enchain, tie, surround; toṭṭal touching, tying, binding; toṭṭu touching, concerning, in reference to; toṭakku (toṭakki-), tuṭakku (tuṭakki-) to catch hold of, tie; get entangled, obstructed; n. tying, binding, entanglement, bondage, connexion; tuṭaṅku shackles; toṭuppu continuity, fastening, linking, tie, chain, illicit connexion, paramour, concubine; toṭuvai that which is joined or appended, man and woman living in concubinage; toṭai fastening, tying, series, succession, joints of the body, surrounding wall; tīn-toṭai string of a lute, lute (for tīn- , see 3269); toṭaiyal succession, fastening, tying, garland; toṭar (-v-, -nt-) to follow uninterruptedly, be linked, pursue, persist in with energy, tie, bind, attack; n. following, succession, chain, fetters, friendship, connexion; toṭarcci, toṭarpu, toṭarvu pursuit, connexion, touch, relationship, friendship, series, chain; toṭarntōr friends; toṭal, tuṭar chain; tuṭar (-v-, -nt-) to follow one after another; tōṭu collection, assemblage.",sign 798
+Tamil,Ta,3485,True,False,"toṭṭi fence, yard, pound, enclosure for selling timber or firewood, small village.",sign 350
+Tamil,Ta,3536,False,False,,sign 798
+Tamil,Ta,3544,True,False,"tōṭu shell of a fruit, as of a wood-apple; sheath of grain.",sign 798
+Tamil,Ta,3546,True,False,"tōṭṭi menial servant of a village, scavenger; fem. tōṭṭicci; tōṭṭimai occupation of village messenger or scavenger.",sign 350;sign 435
+Tamil,Ta,3547,True,False,"tōṭṭi elephant hook or goad, hook, clasp, sharp weapon planted in the ground to keep off enemies.",sign 435
+Tamil,Ta,3584,True,False,"naṭu, naṭuvu middle, centre, waist, equity; naṭuvaṇ in the centre; naṭuvaṉ judge, arbiter, Yama; naṭṭa-naṭu the very middle. || naḷ middle, centre.",sign 550
+Tamil,Ta,3638,True,False,"nāṭu ( obl. and adj. nāṭṭu- ) country, district, province, locality, situation, earth, land, world, kingdom, state, rural tracts (opposite to nakaram ), open place, side, agricultural tract; nāṭaṉ inhabitant, countryman, ruler, lord of a country; nāṭi woman of a country, queen of a country; nāṭavar countrymen, people of the country; nāṭṭam chiefship of a district; nāṭṭār people of a country; nāṭṭāṉ inhabitant of a country.",sign 550
+Tamil,Ta,3849,True,False,"paṭi a weight (= 100 palam), the ordinary measure of capacity (= 8 ollocks); fixed daily allowance for food; paṭiy-āḷ hired servant, one whose wages are paid in grain.",sign 297
+Tamil,Ta,3852,True,False,"paṭu (paṭuv-, paṭṭ-) to perish, die, set (as a heavenly body), rain; ( -pp-, -tt- ) to lay horizontally, pave, spread out (as bedding), kill, cast down, fell; lie down to sleep or otherwise, roost (as birds); adj. base, low; paṭu-ñāyiṟu setting sun; paṭukkai lying down, bed; paṭai bed; layer, stratum; pāṭu lying prostrate, fall, sleep, death, ruin, loss, disaster; pāṭai bier; pāṭṭam shower of rain.",sign 297
+Tamil,Ta,4097,True,False,"pāl part, portion, share, section, dividing; pāṉmai portion, share; nature.",sign 877
+Tamil,Ta,4100,True,False,"pālai silvery-leaved ape-flower, Mimusops kauki ; seven-leaved milk-plant, Alstonia scholaris. || pālai ,",sign 877
+Tamil,Ta,4661,True,False,"maṭṭam smallness, inferiority, deficiency, decrease; pony, sapling; maṭṭai worthless person or thing, a variety of paddy (as inferior).",sign 831
+Tamil,Ta,4663,True,False,"maṭṭai leaf-stalk of a fern or palm, stem of plantain; husk of coconut; maṭal flat leaf of palm, plantain and screwpine, jagged stem of a palmyra leaf, horse of palmyra stems on which a thwarted lover mounts to proclaim his grief and win his love, flower petal, branch, sheath as of Indian corn, blade of a weapon, shoulderblade.",sign 416;sign 831
+Tamil,Ta,4720,True,False,"maruppu horn of a beast, elephant's husk, part of a lute, branch of a tree, horns of crescent moon, ginger.",concept 42_horn
+Tamil,Ta,4742,True,False,"malai hill, mountain.",concept 55_mountain
+Tamil,Ta,4802,True,False,"māṭṭu (māṭṭi-) to fasten on, buckle, tackle, hook, fix, attach, use, bring into play, grasp, comprehend, be proficient in, be able, be competent, have the necessary strength; (mod. Ta., auxiliary only in negative) will not; n. a mode of construction in verse; māṭṭal a woman's ornament.",sign 416
+Tamil,Ta,4876,True,False,"miṉ flash, glitter, lightning; miṉmiṉi firefly; miṉṉu (miṉṉi-) to emit lightning, shine, glitter; miṉṉal lightning; bright coin; miṉuṅku (miṉuṅki-) to glitter, shine, appear bright; miṉukku (miṉukki-) to polish, brighten, beautify, make a display; miṉukkam, miṉukkal polish, brightness, excellence, showiness, show; mīṉ star.",concept 80_star
+Tamil,Ta,4885,True,False,mīṉ fish.,concept 30_fish
+Tamil,Ta,4898,True,False,"mukku corner, lane, nook.",sign 440
+Tamil,Ta,4899,False,False,,sign 440
+Tamil,Ta,5218,True,False,"vaṭa northern; vaṭakku north, north point of the compass; vaṭantai that which is in the north, north wind; vaṭavar northerners; vaṭātu that which is in the north, north; vaṭuku the region immediately north of the Tamil country, the Telugu country, the Telugu language; vaṭukar people of the Telugu country, a caste of Telugu immigrants; vāṭai north wind, cold wind, wind.",sign 480
+Tamil,Ta,5263,True,False,"vari (-v-, -nt-) to write, paint, draw; ( -pp-, -tt- ) id., adorn, decorate; n. line, streak, stripe, course (as of bricks), line (as of writing), row; varai (-v-, -nt-) to write, inscribe, paint, draw; n. line, wrinkle; varaippu writing; varaivu id., painting.",sign 595;sign 845
+Tamil,Ta,5266,True,False,"vari tax, impost, duty, toll, contribution.",sign 595;sign 845
+Tamil,Ta,5342,True,False,"vāṭu (vāṭi-) to wither, fade, dry up, be emaciated, become weak, pine away, turn pale, be defeated, perish, be removed, diminish, decrease, fall short in weight; n. faded flower; vāṭṭu (vāṭṭi-) to cause to wither or fade, dry, scorch, roast, vex, afflict, mortify, injure, destroy, wash as cloth; n. affliction; vāṭṭam fading, withering, dryness, leanness, trouble, distress; vāṭṭaravu weariness, _fatigue, withering, fading.",sign 480
+Tamil,Ta,5359,True,False,"vāram hire, rent, lease of land for a share of the produce, share of the crop of a field, share, portion; vārakam, vārakkam advance given to cultivators to enable them to carry on cultivation, money lent on agreement to pay interest in kind.",sign 845
+Tamil,Ta,5449,True,False,vīcam the fraction of 1/16th.,sign 171
+Tamil,Ta,5450,True,False,"vīcu (vīci-) to throw, fling (as a weapon), cast (as a net), flap (as wings), swing (as the arm), fan, wave, flourish (as a sword), strike, beat, flog, open out, spread, lengthen, stretch, spill, strew, scatter, lay aside, throw off, abandon, drop, blow (as the wind), be spread, diffused (as fragrance, rays, etc.); vīccu throw, cast (as of a net), beat, flap (as of wings), blow, stroke, swinging, oscillation, length, quickness, rapidity; vīccam smell, effluvium; viciṟu (viciṟi-) to fan, wave to and fro, brandish, fling, hurl, cast (as a net), whirl round, pour forth, sprinkle, eject, discharge, remove, swing (as the arms in walking); viciṟi fan; vicukk-eṉal onom. expr. of quick movement; vicai (-pp-, -tt-) to hasten, cause to move swiftly, swing, leap, hop, burst, split, be forceful; n. haste, speed, impetus, elasticity, spring, force, contrivance as a trap, lever.",sign 171
+Tamil,Ta,5498,True,False,"veḷi (-pp-, -tt-) to be open or public, be vacant, empty; n. outside, open space, plain, space, intervening space, gap, room, openness, plainness, publicity; veḷiccam publicity; veḷippu outside, open space, enclosed space; veḷiyār outsiders, strangers.",sign 621
+Tamil,Ta,5545,True,False,"vēḷ petty ruler, chief, Cāḷukya king, illustrious or great man, hero; ? title given by ancient Tamil kings to Vēḷāḷas; vēḷir a class of ancient chiefs in the Tamil country, the Cāḷukyas, petty chiefs; ? vēḷāḷaṉ a person of Vēḷāḷa caste.",sign 621
+Tamil,Ta,5549,True,False,"vai (-pp-, -tt-) to put, place, seat, lay by, store up, possess, keep, create set up; vaippu placing, deposit, treasure; place; earth, land, world, town; vaiyakam, vaiyam, vayam earth, world; vayiṉ place.",sign 482
+Tamil,Ta,5552,True,False,"vai sharpness, keenness, point; vaci point, edge, pointed stake; vayir sharpness.",sign 482
+Malayalam,Ma,237,True,False,"alaku lath, splint, palm or bamboo leaf, weaver's staff, blade of sword, knife, or spear.",sign 831
+Malayalam,Ma,255,False,False,,sign 831
+Malayalam,Ma,399,True,False,"āḷ a person, able person, servant, slave; āṇ male; āṇma bravery.",concept 51_man
+Malayalam,Ma,474,True,False,"raṇṭu two; raṇṭ-āka to be divided, be doubled; raṇṭām second; raṇṭikka to be divided, disagree; double, multiply; iraṭṭa double, even; iraṭṭi double, twice as much; iraṭṭikka to double, multiply; iru (before consonant), īr (before vowel) adj. two; iruvar two persons; iru-patu twenty; iru-nūṟu 200; ī-raṇṭu by twos.",concept 91_two
+Malayalam,Ma,480,True,False,"irikkuka to sit, remain, be in a place; auxiliary; irikka being; irippu sitting, residence, position; iruttuka to seat, place, detain, settle; iruttikka to cause to seat; irutti a seat; iruttam, iruttu sitting, staying.",concept 74_sit
+Malayalam,Ma,990,True,False,"oru, ōr one, the same; oruvan, oruttan one man; fem. oruvaḷ, orutti; orukkuka to bring together; oruma union, harmony; orumikka to join, be reconciled; ōrō, ōrōrō, ōrō˘nnu each one.",concept 63_one
+Malayalam,Ma,1159,True,False,"kaṇ, kaṇṇu eye, nipple, star in peacock's tail, bud.",concept 26_eye
+Malayalam,Ma,1184,False,False,,sign 460
+Malayalam,Ma,1241,True,False,kampi wire of lute; bar of iron; stripe in the border of a cloth.,sign 142;sign 877
+Malayalam,Ma,1325,True,False,"kava forked branch, space between the legs; kavekka to stand astride; kavaṭi pitch-fork; kavaṭṭa the forked branch of a tree; kavaram, kavar bifurcated branch or shoot, prong of a pitch-fork; kavarikkuka to shoot forth as a forked branch; kavala place where two roads meet; kappu bifurcated branch.",sign 416
+Malayalam,Ma,1326,True,False,"kavaruka to plunder, rob; kavarcca robbery, plunder.",sign 416
+Malayalam,Ma,1353,True,False,kayal shoot or branch growing from the root.,sign 460
+Malayalam,Ma,1370,True,False,"kar̤a bamboo, pole for carrying burdens; kar̤i staff of hoe, pin of yoke.",sign 171
+Malayalam,Ma,1443,True,False,"kāṇuka to see, observe, consider, seem; kāṇi visitor, spectator; kāṇikka to show, point out; n. offering, present; kāṭṭuka to show, exhibit; kār̤ca, kār̤ma eyesight, offering, show, spectacle.",concept 72_see
+Malayalam,Ma,1454,True,False,"kāmpu stem, stalk, stick of umbrella.",sign 142;sign 877
+Malayalam,Ma,1479,True,False,"kāl leg, foot, stem, pillar, quarter; kālāḷ foot-soldier; kāli cow, cattle; she-buffalo.",concept 32_foot
+Malayalam,Ma,1493,False,False,,sign 171
+Malayalam,Ma,1651,True,False,"kuṭam waterpot; kuṭukka shells (as of gourds) used as vessels, small cooking vessel with narrow mouth; kuṭuka, kuṭuva small vessel.",sign 798
+Malayalam,Ma,1655,True,False,"kuṭi house, hut, family, wife, tribe; kuṭima the body of landholders, tenantry; kuṭiyan slaves (e.g. in Coorg); kuṭiyān inhabitant, subject, tenant; kuṭiññil hut, thatch; kuṭil hut, outhouse near palace for menials.",sign 384;sign 585;sign 798
+Malayalam,Ma,1663,True,False,kuṭa umbrella.,sign 585
+Malayalam,Ma,1882,True,False,"kūṭuka to come together, meet, join, befall, be added, be possible; kūṭa, kūṭi along with; kūṭṭuka to bring together, join, heap up, add, acknowledge as belonging to the caste or family, make to pass; kūṭṭu joining, fellowship, mixture, agreement; kūṭṭam assembly, flock, heap, caste, assembly, court, quarrel; kūṭṭar companions, of the same class; kūṭṭāḷan, kūṭṭāḷi associate, one of a crowd.",sign 630
+Malayalam,Ma,1883,True,False,"kūṭu receptacle, nest, cage.",sign 630
+Malayalam,Ma,1884,True,False,kūṭa id.,sign 384
+Malayalam,Ma,1927,True,False,"kūnuka to stoop, be crookbacked; kūn a humpback; kūnal, kūntal bending; kūnan humpbacked; fem. kūni, kūnicci; kuni semicircle, curve; kuniyuka to bow, stoop, bend; kunikka to make a curve, cause to stand stooping.",sign 165
+Malayalam,Ma,1928,True,False,(DCV) kūna earthen vessel.,sign 165
+Malayalam,Ma,2133,True,False,"kollan blacksmith, artificer.",sign 142
+Malayalam,Ma,2177,True,False,"kō, kōn, kōmān king; kōyil, kōvil palace, temple; kōyilakam palace; kōnma, kōyma royal authority.",sign 482
+Malayalam,Ma,2178,False,False,,sign 482
+Malayalam,Ma,2237,True,False,"kōl staff, rod, stick, arrow.",sign 142
+Malayalam,Ma,2304,True,False,"caṭṭam frame as of a door, window, cot; enclosure, mould, plan, order, proportion, nature, disposition, regulation, rule, law.",sign 335
+Malayalam,Ma,2306,True,False,"caṭṭi pot, pan.",sign 335
+Malayalam,Ma,2456,True,False,"cāyka to incline, lean to one side, rest or lie on, settle down, disappear; cāyal, cāccal bending sideways as a falling tree, side, inclination; cāykka to lean against, bend, put one on the other, lower, level the ground by beating, lie down to sleep; cāyvu, cāyippu inclination; āyka to bend as for an exertion; āñcuka to bend forward, incline, bow.",sign 240
+Malayalam,Ma,2457,True,False,"cāy beauty; cāyam colour, dye, paint; cāyal shape, figure, resemblance, beauty, colour.",sign 240
+Malayalam,Ma,3035,True,False,taṭṭam a flat plate; taṭṭu a flat plate of metal or wood.,sign 877
+Malayalam,Ma,3039,True,False,"taṭṭu a blow, knock; taṭṭuka to tap, dash, hit, strike against, knock; taṭṭān goldsmith; fem. taṭṭātti; taṭṭāran washerman; taṭṭikka to cause to hit; taṭṭippu beating.",sign 877
+Malayalam,Ma,3054,True,False,teṇṭuka to obtain; (Kauṭ.) taṇṭuka to collect.,sign 104
+Malayalam,Ma,3103,True,False,"tala head, top, point, extremity; talakkam, talappu top of tree; talāṭi, talāṭu top of tree, point, tip.",concept 39_head
+Malayalam,Ma,3158,True,False,tāṇṭuka to jump across; put into another place; tāṭṭuka to get over or through.,sign 104
+Malayalam,Ma,3213,True,False,tiṅkaḷ moon; tiṅṅaḷ month.,concept 54_moon
+Malayalam,Ma,3314,False,False,,sign 480
+Malayalam,Ma,3385,True,False,"tūta milkpot, cup.",sign 480
+Malayalam,Ma,3480,True,False,"toṭuka to touch, feel, handle, come into contact; toṭal touching, being close, a chain; toṭuvikka to make to touch; toṭṭu concerning, about; toṭukka to bring into contact, put together, put the arrow on the bow; tuṭa connexion (as of an arrow with a bow); tuṭaruka to be linked, continue, pursue; tuṭar, tuṭal chain, string, woman's waistchain; tuṭarcca continuation, friendship; tuṭara unremittingly.",sign 798
+Malayalam,Ma,3485,True,False,"toṭṭi long narrow garden, loft in a house; doṭṭi cattle-pound. ?",sign 350
+Malayalam,Ma,3536,False,False,,sign 798
+Malayalam,Ma,3544,True,False,"tōṭu shell (of various fruits), husk, pomegranate rind.",sign 798
+Malayalam,Ma,3546,True,False,tōṭṭi sweeper; fem. tōṭṭicci.,sign 350;sign 435
+Malayalam,Ma,3547,True,False,"tōṭṭi hook for driving an elephant, hook for plucking fruit; tōṭṭuka to pluck fruit with a tōṭṭi.",sign 435
+Malayalam,Ma,3584,True,False,"naṭu middle, centre, waist, equity.",sign 550
+Malayalam,Ma,3638,True,False,"nāṭu cultivated land (opposite to kāṭu ), the country (opposite to town), kingdom, province, smaller district; nāṭṭār the people.",sign 550
+Malayalam,Ma,3849,True,False,"paṭi measure (esp. of rice), regular allowance; at the rate of.",sign 297
+Malayalam,Ma,3852,True,False,"paṭuka (paṭṭ-) to fall, sink; paṭukka to lay stones, build (chiefly a well, tank); piss; lie down; n. bed; paṭa layer in mud walls, course of bricks; paṭavu laying stones, pavement; paṭuppu, paṭappu bed, mat; paṭiññāṟu west; pāṭu falling, falling into one's power; peṭuka (peṭṭ-) to fall, get into or under; peṭukka to piss.",sign 297
+Malayalam,Ma,4097,True,False,pāl part.,sign 877
+Malayalam,Ma,4100,True,False,"pāla Echites scholaris , and various trees, including M. kauki.",sign 877
+Malayalam,Ma,4661,True,False,maṭṭam pony.,sign 831
+Malayalam,Ma,4663,True,False,"maṭṭa, maṭṭal palm branch; maṭal palm bough, cadjan, palm-leaf (as for thatching), husk of coconuts, coat of jackfruits, etc.",sign 416;sign 831
+Malayalam,Ma,4720,False,False,,concept 42_horn
+Malayalam,Ma,4742,True,False,"mala mountain, raised land, hill-land.",concept 55_mountain
+Malayalam,Ma,4802,True,False,"māṭṭuka to hook in, fix in.",sign 416
+Malayalam,Ma,4876,True,False,"minnuka to flash, shine; minnal lightning; minni shining; a gem in ear-rings; minnikka to cause to flash or shine; minnu lightning; minukka to be fine, glitter; minukkuka to polish, varnish, make glitter; minukkam shining, polish; minuṅṅuka to glitter; minuppu sparkling; mīn star.",concept 80_star
+Malayalam,Ma,4885,True,False,mīn.,concept 30_fish
+Malayalam,Ma,4898,True,False,"mukku corner, narrow lane.",sign 440
+Malayalam,Ma,4899,False,False,,sign 440
+Malayalam,Ma,5218,True,False,"vaṭa north; vaṭakku id., in or towards the north; vaṭakkan northern; vāṭa wind.",sign 480
+Malayalam,Ma,5263,True,False,"vara line, streak, furrow, wrinkle; varekka to make lines, rule a page, write; varaccal drawing lines, being wrinkled; varayuka, variyuka to draw lines; vari line, rule, row.",sign 595;sign 845
+Malayalam,Ma,5266,True,False,"vari tax, levy, contribution.",sign 595;sign 845
+Malayalam,Ma,5342,True,False,"vāṭuka to become lean, fade, wither, pine away, lose colour; vāṭikka to cause to wither, dry; vāṭṭam decay, withered state; vāṭṭuka to cause to dry or wither.",sign 480
+Malayalam,Ma,5359,True,False,"vāram share in general, landlord's share, rack-rent; vārakam press money, advance to soldiers and servants.",sign 845
+Malayalam,Ma,5449,True,False,"vīśam 1/16th gold fanam, or a rice-corn's weight of gold.",sign 171
+Malayalam,Ma,5450,True,False,"vīcuka to fan, cast (nets); vīcci fan; vīccu throwing a net, a backstroke; vīyuka to fan, brandish, swing, wield, the wind to blow; vb.n. vīyal; vīyikka to cause to fan, etc.; vīśuka to fan, blow, throw (a net), emit (as scent or rays); vīśikka to get oneself fanned; vīśēṟi , (Tiyya) vīśāla, vīyāla fan; viśa spring-trap, snare for birds, lever; viśari fan; viśaṟu storm of rain; viśaṟuka to fan, flutter with wings.",sign 171
+Malayalam,Ma,5498,True,False,veḷi open field; notoriety; outside; veḷiccam publicity.,sign 621
+Malayalam,Ma,5545,False,False,,sign 621
+Malayalam,Ma,5549,True,False,"vekka to put, lay, place, build, keep, retain, deposit, put aside; veppu placing, deposit, treasure; vaikkam what is laid down, deposit, alluvial ground; vayyam, vaiyakam earth.",sign 482
+Malayalam,Ma,5552,False,False,,sign 482
+Kannada,Ka,237,True,False,"alagu, alugu blade of a knife, sword, etc.",sign 831
+Kannada,Ka,255,False,False,,sign 831
+Kannada,Ka,399,True,False,"āḷ servant, soldier, messenger, a grown person in general; āḷ, āṇ male; manliness, bravery; āḷike state of being a person; āḷutana, āḷtana service; prowess, valour; āḷma, āṇma, āṇba husband; aṇmu to be manly, vigorous; n. manliness, vigour.",concept 51_man
+Kannada,Ka,474,True,False,"eraḍu, erḍu, erar̤ two; adj. iru, ir, ik, ic , etc., īr; irpattu, ippattu twenty; innūṟu 200; irbar, ibbar, irvar two persons; irme, imme twice.",concept 91_two
+Kannada,Ka,480,True,False,"ir, iru (irdu, iddu) to be, exist, remain, stay, delay, belong to (dative of person); irisu to cause to be or stay, place, put, deposit; iravu, irapu being, staying, resting, state, condition; iruvike, iruha being, existing, etc.; irisuha causing to be or to stay, etc.; irke, ikke being, abode, seat, place.",concept 74_sit
+Kannada,Ka,990,True,False,"or (before consonant), ōr (before vowel) one; orage oneness, entireness; ore likeness, similarity; orme, omme one time, once, together, at the same time; orba, obba , (PBh.) orvaN one man or person; obbanu one man; obbaḷu one woman; obbar(u) some persons, one person ( hon. ); oggu, or̤gu to become one, unite with, meet together, agree with one's constitution (as water, climate, etc.); join ( tr. ); oggu, orgu, or̤gu assemblage, heap; union, harmony, intimacy; ōrage, ōrige equality, similarity, a match; ōraṇa a line, row.",concept 63_one
+Kannada,Ka,1159,True,False,"kaṇ eye, small hole, orifice.",concept 26_eye
+Kannada,Ka,1184,True,False,"kaṇṇi rope, cord, neckrope. ?",sign 460
+Kannada,Ka,1241,True,False,"kambi wire; iron band, bar of iron, bar, bridge of nose; stripe or stripes running parallel with the border of a cloth.",sign 142;sign 877
+Kannada,Ka,1325,True,False,"kaval to become bifurcated or forked, branch off; n. bifurcation, forked or lateral branch, forked stick, divided state, couple, pair; kavate forked state; kavaḍu, kave = kaval n.",sign 416
+Kannada,Ka,1326,True,False,"kavar to take away by force, seize, strip, plunder; kavarte, kavate taking by force, seizing, plundering.",sign 416
+Kannada,Ka,1353,True,False,"kar̤ale, kar̤ile bamboo shoot.",sign 460
+Kannada,Ka,1370,True,False,"gar̤, gar̤a, gar̤u, gar̤uvu, gar̤e, gaḍe, gaḍi bamboo rod or stake, bamboo, pole, staff, bamboo pole on which Kollaṭigas or Dombas tumble, churning stick. || kaḍḍi .",sign 171
+Kannada,Ka,1443,True,False,"kāṇ (kaṇḍ-) to see, appear; n. seeing, appearing; kāṇike, kāṇke sight, vision, present, gift; kāṇuvike seeing, appearing; kāṇisu to show, show oneself, appear; kaṇi sight, spectacle, ominous sight, divination.",concept 72_see
+Kannada,Ka,1454,True,False,"kāmu, kāvu stalk, culm, stem, handle.",sign 142;sign 877
+Kannada,Ka,1479,True,False,"kāl foot, leg down to the knee, quarter; kālu-naḍe walking on foot; a cow; kālāḷ foot-soldier.",concept 32_foot
+Kannada,Ka,1493,True,False,"kār̤, kāḷ small pebble, gravel, a corn, a single grain, grain, seed.",sign 171
+Kannada,Ka,1651,True,False,"koḍa earthen pitcher or pot; kuḍike small earthen, metal, or wood vessel; guḍuvana, guḍāṇa large water-vessel, used also for storing grain; earthen pot used for churning.",sign 798
+Kannada,Ka,1655,True,False,"kuḍiya, kuḍu śūdra, farmer; guḍi house, temple; guḍil, guḍalu, guḍisalu, guḍasalu, guḍasala , etc. hut with a thatched roof.",sign 384;sign 585;sign 798
+Kannada,Ka,1663,True,False,"koḍe id., parasol.",sign 585
+Kannada,Ka,1882,True,False,"kūḍu to join ( intr. ), unite, come together, be endowed with, be possible, be fit, take place, have sexual intercourse, add; n. joining, association, company; kūḍa along with; kūḍal state of being joined with or endowed with, junction; kūḍike, kūḍuvike joining, meeting, junction; kūḍuha meeting, union; kūḍudale success, prosperity; kūḍisu, kūḍasu to join ( tr. ), mix, amass; kūṭa joining, connexion, assembly, crowd, heap, fellowship, sexual intercourse; kūrisu to join ( tr. , as two pieces of wood); kūru a tenon.",sign 630
+Kannada,Ka,1883,True,False,"gūḍu nest, dove-cot, fowl-house, lodging, trap for catching wild animals, cage, pit of the stomach, hollow in bones.",sign 630
+Kannada,Ka,1884,True,False,"gūḍe, gūḍa basket, basket used as a bucket; kūḷe, kūḷi basket for fishing.",sign 384
+Kannada,Ka,1927,True,False,"kūn (kūnt-), kūnu to be bent or bowed, bend, stoop; n. a hump; kūna, gūna a humpbacked man; fem. kūni, gūni; kūntu bending, bent state; gūnu a hump; kuni to bend, bow, stoop, shrink; n. a bent or curved ground; kunuṅgu to bend, stoop, crouch, contract oneself, shrivel up.",sign 165
+Kannada,Ka,1928,True,False,kūni earthen basin used by oilmen.,sign 165
+Kannada,Ka,2133,True,False,"kolime, kolume, kulame, kulime, kulume, kulme firepit, furnace; (Bell.; U.P.U.) konimi blacksmith; (Gowda) kolla id.",sign 142
+Kannada,Ka,2177,False,False,,sign 482
+Kannada,Ka,2178,False,False,,sign 482
+Kannada,Ka,2237,True,False,"kōl, kōlu stick, staff, arrow.",sign 142
+Kannada,Ka,2304,True,False,"caṭṭa frame of a cart, bedstead, chair, or picture, bottom or platform of a cart, bier; plan, order, regulation, neatness, fineness; caṭṭu the bottom or platform of a cart.",sign 335
+Kannada,Ka,2306,True,False,"caṭṭi, ceṭṭi earthen pot or pan; caṭige, caṭṭige small earthen pot with a broad mouth.",sign 335
+Kannada,Ka,2456,False,False,,sign 240
+Kannada,Ka,2457,False,False,,sign 240
+Kannada,Ka,3035,True,False,"taṭṭa flatness, levelness; taṭṭiya flatness; taṭṭu flatness, the flat, i.e. the blade of a sword; taṭṭe flatness, levelness, a flat, lid-like bamboo or rattan basket for setting out fruits, wares, etc., the same made of wood or metal, platter or plate, flat young beanless pod.",sign 877
+Kannada,Ka,3039,True,False,"taṭṭu to tap, touch, come close, pat, strike, beat, clap, slap, knock, clap on a thing (as cowdung on a wall), drive, beat off or back, remove; n. slap or pat, blow, blow or knock of disease, danger, death, fatigue, exhaustion.",sign 877
+Kannada,Ka,3054,True,False,"taṇḍakāṟa one who amasses, man who has a large amount of.",sign 104
+Kannada,Ka,3103,True,False,"tale, tala head, being uppermost or principal.",concept 39_head
+Kannada,Ka,3158,True,False,"tāṇṭu to jump, dance, leap, skip over, cross; dāṭu, dāṇṭu to jump, pass or step over, cross, ford, go beyond, exceed, transgress, pass away, expire; n. passing over, jump across, etc.; dāṭisu, dāṇṭisu to cause to pass over.",sign 104
+Kannada,Ka,3213,True,False,"tiṅgaḷ moon, month; beḷ diṅgaḷ moonlight.",concept 54_moon
+Kannada,Ka,3314,True,False,"tudi extremity, end, point, top, tip; tuṭṭatudi, tuttatudi the very point or end.",sign 480
+Kannada,Ka,3385,False,False,,sign 480
+Kannada,Ka,3480,True,False,"tuḍu/ toḍu (toṭṭ-) to join, put to or on, put (arrow) on (bow); n. putting on, etc.; tuḍuku, tuḍiku, tuḍuṅku to touch, touch with some force, grasp quickly, snatch; tuḍuku grasping quickly, etc.; tuḍukisu to cause to seize, etc.; toḍaku, toḍaṅku to get entangled, caught; entangle, involve; n. (also toḍagu, toḍaka ) entangling, impediment, hindrance, perplexity; toḍakisu to cause to join, bring in contact, involve; toḍacu to put on (as arrows on the bow); toḍisu id., to cause to put to or on; tōḍu joining, putting (as arrow to the bow), pair, equal; tōṭi hand-to-hand conflict, fight; toḍar, toḍru, toṇḍar to be linked to, connected with or tied to, join, enter, meet, be bound, arrested, entangled, caught, wind oneself round; n. joining, connexion, a tie, chain, impediment; toḍarcu to tie, link, fasten, insert; toḍambe cluster, bundle, bunch; toḍarpu (K. 2 ) entanglement, connection, (PBh.) impediment, obstacle.",sign 798
+Kannada,Ka,3485,True,False,"toṭṭi building with a square open court at the centre, the court itself; doḍḍi, daḍḍi cow-pen, cattle-pound, fold, stable.",sign 350
+Kannada,Ka,3536,False,False,,sign 798
+Kannada,Ka,3544,True,False,"togaṭu, togaṭe, tōṭe bark, rind, peel, pod.",sign 798
+Kannada,Ka,3546,True,False,"tōṭi an inferior village servant, esp. one who performs the lowest offices, a sweeper, scavenger.",sign 350;sign 435
+Kannada,Ka,3547,True,False,"dōṭi, lōṭi pole with a hook for plucking fruit, gathering flowers.",sign 435
+Kannada,Ka,3584,True,False,"naḍu, naḍuvu, naḍa, naḍavu, naḍi middle, centre, waist; naṭṭa, naṭṭe belonging to the middle, central; naḍuve, naḍave, naḍive the very middle, the middle, between, an intervening space, difference; naṭṭa-naḍu the very middle; naḍḍi back of the waist, hollow above the loins.",sign 550
+Kannada,Ka,3638,True,False,"nāḍu (cultivated, planted) country (in opposition to kāḍu ), province, district, country (in opposition to the town); nāḍāḍi countryman, rustic, an ordinary common person; nāḍiga village superintendent in the service of a smārta guru.",sign 550
+Kannada,Ka,3849,True,False,"paḍi measure of capacity (= one-half seer); an allowance in food to servants, a gift to friends or poor people.",sign 297
+Kannada,Ka,3852,True,False,"paḍu (paṭṭ-) to lie down, set (as the sun), be spent (as the day), have sexual intercourse, die; n. setting, the west, dying; paḍu-nēsaṟ the setting sun; paḍuva, paḍaval, paḍuval, paḍuvu the west; paḍal lying or falling down; pāṭu falling, a fall, a declining state, ebb of the tide; pāṭi downfall, ruin.",sign 297
+Kannada,Ka,4097,True,False,"pāl division, part, portion, share.",sign 877
+Kannada,Ka,4100,True,False,"pāle M. kauki Lin.; A. scholaris R. || hāle for M. kauki, A. scholaris , and S. tomentosum , and some other trees.]",sign 877
+Kannada,Ka,4661,True,False,"maṭṭa, maṭṭu, moṭṭa shortness, smallness; decreasing, growing less (as wind, rain, price, etc.), small horse, pony; moṭaku state of being small in size; bit, piece (as of a pencil, etc.).",sign 831
+Kannada,Ka,4663,True,False,"maṭṭe, moṭṭe bough of the palm, coconut or date tree, fibrous coat of a coconut, brush for whitewashing made of the fibrous coat of the coconut; maḍal bough of the coconut tree.",sign 416;sign 831
+Kannada,Ka,4720,False,False,,concept 42_horn
+Kannada,Ka,4742,True,False,"male mountain, forest; (PBh.) malepar chieftains of mountainous regions.",concept 55_mountain
+Kannada,Ka,4802,False,False,,sign 416
+Kannada,Ka,4876,True,False,"miṇa glittering, sparkling; miṇaku, miṇuku to glitter; n. glitter; minu, mini sparkling, shining; minuku, minugu to shine, glitter; n. lustre, etc.; miñcu to shine, be bright, sparkle, glitter, flash, lighten; n. shine, lustre, brightness, glitter, lightning; mīn star.",concept 80_star
+Kannada,Ka,4885,True,False,mīn.,concept 30_fish
+Kannada,Ka,4898,False,False,,sign 440
+Kannada,Ka,4899,True,False,"mukku a certain vessel, pot, pan or cup.",sign 440
+Kannada,Ka,5218,True,False,"baḍa, baḍaga, baḍagal, baḍagu the north, in the north.",sign 480
+Kannada,Ka,5263,True,False,"bare, bari to write, draw; bare writing, lines or stripes; barepa, barapa, baraha, barā, barāvu writing, drawing, writ, scripture, written letters; barasu, barisu, bareyisu, baresu to cause to write, have written; barcaṇe paint, colour; barcisu to paint, colour.",sign 595;sign 845
+Kannada,Ka,5266,False,False,,sign 595;sign 845
+Kannada,Ka,5342,True,False,"bāḍu to wither, fade as flowers, die away as shrubs, etc., grow dry as wounds, grow weary or languid, become weak and feeble, pine away, lose colour, be dispirited, downcast or sad; bāḍisu to cause to fade.",sign 480
+Kannada,Ka,5359,True,False,"vāra share, landlord's half-share of the produce of a field in lieu of rent.",sign 845
+Kannada,Ka,5449,True,False,"vīsa, īsa the fraction 1/16th, 1/16th of a haṇa, etc.",sign 171
+Kannada,Ka,5450,True,False,"bīsu, bisu to swing, turn round, whirl, wave, brandish, fan, throw as a net, blow as the wind, mill, grind, cast (i.e. put bamboo rafters on a sloping roof); n. swinging, etc.; bīsisu to cause to turn round, mill, etc.; bīsaṇige, bīsaṇike fan; bī̆sāḍu to swing and let go from the hand, fling, throw away; bisāḍuvike throwing away; bisuṭu, bisuḍu, bisur, bisur̤ to throw, cast or fling away madly, furiously, carelessly, heedlessly, hurl, leave abruptly; bese a swinge, stroke with a whip, etc., a blow, bow for dressing cotton; (Hav.) bīsāle fan (as the one made of areca spathe).",sign 171
+Kannada,Ka,5498,True,False,beḷavāra an outcaste.,sign 621
+Kannada,Ka,5545,False,False,,sign 621
+Kannada,Ka,5549,True,False,"bay, baycu, baccu, oy to deposit, put aside, hide; bay(a)ke deposit, treasure, hoard; besana, besal, besale birth, production, bringing forth; besal āgu to bear, bring forth; (K. 2 ) vesale pregnant.",sign 482
+Kannada,Ka,5552,True,False,"basi to be pointed, sharpened; point, sharpen; n. tongue of a balance; basadu, basidu that which is pointed, sharp, keen; base small pointed object that sticks in the ground.",sign 482
+Telugu,Te,237,True,False,"alũgu tip of an arrow, sword.",sign 831
+Telugu,Te,255,False,False,,sign 831
+Telugu,Te,399,False,False,,concept 51_man
+Telugu,Te,474,True,False,"reṇḍu two things; reṇḍava second, another; renca two (in gambling); reṇṭa two ways or courses; reṭṭa double, twofold; reṭṭi twice as much; reṭṭincu to double; reṭṭimpu doubling; double; panneṇḍu twelve; iru-, īr- = reṇḍu in some cpds.; iruvadi , ( coll. ) iruvai twenty; in-nūṟu 200; iddaṟu, iruguru, iruvuru , (Inscr.) ibbaṇḍru, ibbaru two persons; inu māṟu twice.",concept 91_two
+Telugu,Te,480,True,False,"iravu place, abode; firm; iravupaḍu to become established, firm; iruvu neighbourhood, place, home; irugu neighbourhood; neighbouring; iravāru to become firm, fixed, settled; ikka place, abode, dwelling, seat; iṅkuva a place, haunt (or with
+420 Ta. iṅku).",concept 74_sit
+Telugu,Te,990,True,False,"orima, orimika friendship, unanimity, harmony; orumu to be mixed or united.",concept 63_one
+Telugu,Te,1159,True,False,"kanu, kannu eye, small hole, orifice, mesh of net, eye in peacock's feather.",concept 26_eye
+Telugu,Te,1184,True,False,"(K.) kanne-tāḍu neck-rope (of calves, oxen).",sign 460
+Telugu,Te,1241,True,False,"kambi wire; kammi id., a bar, the line or border at the end of a cloth.",sign 142;sign 877
+Telugu,Te,1325,True,False,"kava pair, couple; kavalu twins; kavvamu churning stick.",sign 416
+Telugu,Te,1326,True,False,"kamucu to hold, seize; (K.) kavayu to embrace, copulate.",sign 416
+Telugu,Te,1353,False,False,,sign 460
+Telugu,Te,1370,True,False,"gaḍa pole, staff, rod, stick, stalk, mast.",sign 171
+Telugu,Te,1443,True,False,"kanu (allomorph kān-), kāncu to see; kānupu seeing, sight; kānipincu to appear, seem; show; kānuka gift offered to a superior, present, tribute; kaṇṭãbaḍu to appear, be seen, come in view; kanukali seeing, sight.",concept 72_see
+Telugu,Te,1454,True,False,"kāma stem, stalk, stick, handle (of axe, hoe, umbrella, etc.), shaft.",sign 142;sign 877
+Telugu,Te,1479,True,False,"kālu leg, foot, quarter; kālari foot-soldier.",concept 32_foot
+Telugu,Te,1493,False,False,,sign 171
+Telugu,Te,1651,True,False,"kuḍaka, kuḍuka cup, bowl, scoop, any cup-like thing; guḍaka a coconut or other similar shell; (B) guḍaka, kuḍaka shell of a fruit prepared to serve as a snuff-box, etc., small metal box; (Inscr.) kuḍalu small earthen vessels.",sign 798
+Telugu,Te,1655,True,False,"koṭika hamlet; guḍi temple; guḍise hut, cottage, hovel.",sign 384;sign 585;sign 798
+Telugu,Te,1663,True,False,"goḍugu id., parasol.",sign 585
+Telugu,Te,1882,True,False,"kūḍu to meet ( tr. ), join, associate with, copulate with, add together; meet ( intr. ), join, agree, gather, collect, be proper; kūḍali, kūḍika joining, meeting, junction; kūḍa along with; kūḍani wrong, improper; kūḍami impropriety; kūṭamu heap, assembly, conspiracy; kūṭuva, kūṭuvu heap, collection, army; kūṭami meeting, union, copulation; kūṭakamu addition, mixture; kūr(u)cu to join, unite, bring together, amass, collect; caus. kūrpincu; kūrpu joining, uniting.",sign 630
+Telugu,Te,1883,True,False,"gū̃ḍu nest, cage, niche in the wall, sheath.",sign 630
+Telugu,Te,1884,True,False,"gūḍa triangular basket used as a bucket, flower-basket, mat hood or head-covering against rain.",sign 384
+Telugu,Te,1927,True,False,"gūnu a hump, a crooked back; gūni humpbacked; gūnivã̄ḍu a humpback; fem. gūnidi ; (B.) kuni angle, bit of land.",sign 165
+Telugu,Te,1928,True,False,gūna large earthen pot.,sign 165
+Telugu,Te,2133,True,False,kolimi furnace.,sign 142
+Telugu,Te,2177,True,False,"kōyila, kōvela temple.",sign 482
+Telugu,Te,2178,True,False,"kōdu, kōduvã̄ḍu a Khond, man of a certain hilltribe; kōya name of a certain tribe of mountaineers.",sign 482
+Telugu,Te,2237,True,False,"kōla id., arrow; long, oblong; kōlana elongatedness, elongation; kōlani elongated.",sign 142
+Telugu,Te,2304,True,False,"caṭṭamu a frame, a plan, system, arrangement, law, regulation, rule.",sign 335
+Telugu,Te,2306,True,False,caṭṭi earthen pot with a wide mouth.,sign 335
+Telugu,Te,2456,True,False,"cāya side, direction, quarter, vicinity, neighbourhood.",sign 240
+Telugu,Te,2457,False,False,,sign 240
+Telugu,Te,3035,True,False,"taṭṭa tray, salver, plate, platter, small flat basket.",sign 877
+Telugu,Te,3039,True,False,"taṭṭu to strike, beat, knock, pat, clap, slap; n. stripe, welt; taṭravã̄ḍu goldsmith or silversmith.",sign 877
+Telugu,Te,3054,True,False,"taṇḍu , (K. also) daṇḍu to collect or demand (as money due); taṇḍalu collections of money.",sign 104
+Telugu,Te,3103,True,False,"tala head, hair of the head; top, end, front; place, side, quarter.",concept 39_head
+Telugu,Te,3158,True,False,"dã̄ṭu to leap, jump, cross over, pass over, go beyond, transgress; n. a leap, jump, crossing or passing over.",sign 104
+Telugu,Te,3213,False,False,,concept 54_moon
+Telugu,Te,3314,True,False,"tuda end, extremity, tip; tudi end, termination; tuṭṭatuda the very end or extremity; suda end, tip, point.",sign 480
+Telugu,Te,3385,True,False,dutta small earthen pot.,sign 480
+Telugu,Te,3480,True,False,"toṭṭu to touch, (K.) be joined, come in contact with; (K.) toḍu, toḍ(u)gu, toḍ(u)vu to put arrow on bow; (K.) toḍuku to hold, grasp; (K.) toḍikilu to seize, hold tightly, snatch; toḍaru to follow, accompany; happen, occur; endeavour, attempt; (K. also) reach, obtain, hold, copulate with, attack; toḍarika following, accompanying; toḍaruvu endeavour, attempt; toḍusu business, affair, connection.",sign 798
+Telugu,Te,3485,True,False,"doḍḍi backyard, stable for cattle.",sign 350
+Telugu,Te,3536,False,False,,sign 798
+Telugu,Te,3544,False,False,,sign 798
+Telugu,Te,3546,True,False,tōṭi a pariah.,sign 350;sign 435
+Telugu,Te,3547,True,False,dō̃ṭi long pole with hook for cutting off fruit from high trees.,sign 435
+Telugu,Te,3584,True,False,"naḍu, naḍumu, naḍi, naḍimi middle, waist; naṭṭ- middle, central; naṭṭanaḍumu the very middle; naḍḍi small of the back, back of the waist.",sign 550
+Telugu,Te,3638,True,False,"nāḍu, nāḍika , (inscr.) nāṇḍu a country.",sign 550
+Telugu,Te,3849,True,False,paḍi a measure of capacity (= 1 1/2 seer).,sign 297
+Telugu,Te,3852,True,False,"paḍu to fall, lie, recline, sleep; paḍamara the west; paḍuka bed, bedding; paṟucu, paṟacu , (K. also) parcu to cause to fall; paṟupu id., throw down; n. mattress, bed, bedding; pāḍe bier; pāṭu a fall, ebb of the tide.",sign 297
+Telugu,Te,4097,True,False,"pālu id., lot, fraction.",sign 877
+Telugu,Te,4100,True,False,pālagaruḍa id.; pāla M. hexandra. [A. scholaris Brown = E. scholaris Lin. Lush. gives,sign 877
+Telugu,Te,4661,True,False,"maṭṭagu, maṭṭu-paḍu to decrease, diminish, abate ( intr. ); maṭṭagincu, maṭṭu-cēyu id. ( tr. ); maṭṭamu inferior, poor, bad, indifferent; maṭṭasamu small, petty, scanty; maṭṭasi a dwarf; maṭṭu limited, stinted, small, little, scanty; moṭika a remaining piece, remnant.",sign 831
+Telugu,Te,4663,True,False,"maṭṭa branch or bough of any palm tree, leaf of the aloe, cabbage, or of similar plants, a young palm tree.",sign 416;sign 831
+Telugu,Te,4720,False,False,,concept 42_horn
+Telugu,Te,4742,True,False,mala mountain.,concept 55_mountain
+Telugu,Te,4802,True,False,māṭu a patch of metal put in to mend a vessel; mã̄ṭu to be caught or entangled; n. state of being caught or entangled.,sign 416
+Telugu,Te,4876,True,False,"miṇuku to glimmer, sparkle; n. glimmer, glimmering, sparkling; miṇũgu, miṇũguṟu, miḍũgu, miḍũguṟu spark of fire, firefly; min(u)ku twinkling, twinkle, glitter, flash, ray of light; (K. also) vb. to glitter, shine; minuku-minukum-anu, minukkuranu to twinkle; mincu a flash of lightning, shining, brilliancy; (K. also) vb. to shine as lightning, shine; minna a gem; minamina glitter, shining.",concept 80_star
+Telugu,Te,4885,True,False,mīnu.,concept 30_fish
+Telugu,Te,4898,False,False,,sign 440
+Telugu,Te,4899,True,False,"mū̃kuḍu an earthen pan, a plate, covering dish.",sign 440
+Telugu,Te,5218,True,False,vaḍãkũgoṇḍa Himalaya.,sign 480
+Telugu,Te,5263,True,False,"vrāyu , (K. also) rāyu, rāsu to write, inscribe, compose, draw, paint, delineate; (K.) rāśi gerund , having marked (boundaries) (inscr. A.D. 1310); vrã̄ta writing, handwriting; vrã̄takã̄ḍu writer, clerk; vrāyasamu writing, letter, note; rāyasamu clerkship; vrāyi letter of the alphabet, writing, line; vrāyincu to cause to be written; vrālu writing, handwriting; varuju to draw or mark a line with a sharp instrument on a plank, etc.; (K.) variyu to test metal on the touchstone; baruku to scratch, claw, lacerate, tear, scribble (or with
+5322 Ta. vaṟaṇṭu).",sign 595;sign 845
+Telugu,Te,5266,True,False,vari tax.,sign 595;sign 845
+Telugu,Te,5342,True,False,"vāḍu to fade, wither; n. fading, withering; vāḍudala fading; vāḍ(u)cu to cause to fade.",sign 480
+Telugu,Te,5359,True,False,vārakamu money advanced to cultivators to be received again without interest when the crop is reaped. ?,sign 845
+Telugu,Te,5449,True,False,vīsamu a sixteenth part.,sign 171
+Telugu,Te,5450,True,False,"vīcu to blow as the wind; wave ( tr. ), (K. also) fling, throw with a sweep, fan; vī-tencu to blow as the wind; vīcōpu chowrie; vīvana fan, whisk; vīvali wind; visana-kaṟṟa fan; visaru, visuru to throw, fling, cast, hurl, wave, swing, shake, flourish, brandish, whisk, turn as a mill, grind as in a mill, blow as the wind, spread as scent; n. waving, throwing, blowing, spreading; vesa quickness; vesa(n) , (K.) vē quickly; ? bisa a spring, a catch; bisabisa quickness; bisi tension, elasticity.",sign 171
+Telugu,Te,5498,True,False,"veli the outside, exterior, excommunication; outside, external; velalu to go or come out, start; velalucu to send out; velārincu, velār(u)- cu to send or drive out, cast out, make public; velipaṟacu, velipuccu to make public or known; velipeṭṭu to excommunicate; velucu to drive, send out; velupala outside, exterior; outside, external; velupalincu to put outside, disclose, divulge; velu-vaḍu to come out, go out; velavarincu, velavarucu to send out, bring out; velayu to be known; vellaḍi open place, publicity, openness; vellāṭakamu making known, publishing, publicity; velliviri known, published.",sign 621
+Telugu,Te,5545,False,False,,sign 621
+Telugu,Te,5549,True,False,"vaicu , (K. also) vayicu , (B. K.) vēyu to place, put.",sign 482
+Telugu,Te,5552,True,False,"vasi nail, thorn.",sign 482
+Tulu,Tu,237,False,False,,sign 831
+Tulu,Tu,255,False,False,,sign 831
+Tulu,Tu,399,True,False,"āḷů person, labourer, messenger; āḷmage servant; āṇů adj. male; āṇůjōvu, aṇjā̆vu a male, a man ( jōvu child); (Bright and Ramanujan) āṇů boy.",concept 51_man
+Tulu,Tu,474,True,False,"raḍḍů two things; raḍḍanè second; middling; irů, ir- adj. two, double, both; ir-nūdu 200; irportu a whole day; irva twenty; irbaḍi double; irverů two persons; irvoḷu twice.",concept 91_two
+Tulu,Tu,480,True,False,"ippuni (itt-) to be, exist, live in; have, possess (dative of person).",concept 74_sit
+Tulu,Tu,990,True,False,"or one ( adj. ); oru one, single, solitary; ori one man; single, solitary; orti one woman; ommè once; ommuta harmony, unanimity, ommēvuni to be united, be associated; oggaḍa oneness, concord; oggāpini to become one, be united; orguni . to agree (any food) with one's stomach; obbaṇṭige, obbaṇṭe a single man; adv. alone; ora once, at once; oriye, orye a single or solitary man; orportu, orpoḷtu half a day.",concept 63_one
+Tulu,Tu,1159,True,False,"kaṇṇů eye, nipple, star in peacock's feather, rent, tear.",concept 26_eye
+Tulu,Tu,1184,True,True,kaṇṇi fibre.,sign 460
+Tulu,Tu,1241,True,False,kambi a wire; flat bar of iron; borders of a cloth.,sign 142;sign 877
+Tulu,Tu,1325,True,False,"kaba space between the fingers; kabarů forked or lateral branch, forked stick; forked; kabe forked stick; cloven, forked; (B-K.) kappu fork of a wooden post.",sign 416
+Tulu,Tu,1326,False,False,,sign 416
+Tulu,Tu,1353,True,False,kaṇile tender bamboo shoot.,sign 460
+Tulu,Tu,1370,True,False,"kari bar with which a door is fastened, pole fastened to a load by which it is carried on the shoulders; karè, garè the pole to which a bucket is attached in a country water-lift; garu , (B-K. also) karu, gaḷu rafter.",sign 171
+Tulu,Tu,1443,True,False,"kāṇůsāvuni, kāṇisāvuni to show, represent, mention; kāṇikè, kāṇigè present to a superior.",concept 72_see
+Tulu,Tu,1454,False,False,,sign 142;sign 877
+Tulu,Tu,1479,True,False,"kārů leg, foot; kālů quarter.",concept 32_foot
+Tulu,Tu,1493,True,False,"kāḷů a grain as of rice, etc. ?",sign 171
+Tulu,Tu,1651,True,False,"kuḍki, kuḍkè, guḍke small earthen vessel.",sign 798
+Tulu,Tu,1655,True,False,"guḍi small pagoda or shrine; guḍisalů, guḍisilů, guḍsilů, guḍicilů hut, shed.",sign 384;sign 585;sign 798
+Tulu,Tu,1663,True,False,koḍè id.,sign 585
+Tulu,Tu,1882,True,False,"kūḍuni to join ( tr. ), unite, copulate, embrace, adopt; meet ( intr. ), assemble, gather, be mingled, be possible; kūḍisuni to add; kūḍāvuni, kūḍisāvuni to join, connect, collect, amass, mix; kūṭuni, kūṇṭuni to mix, mingle ( tr. ); kūḍa along with; kūḍigè joining, union, collection, assemblage, storing, mixing; kūṭa assembly, meeting, mixture.",sign 630
+Tulu,Tu,1883,True,False,"gūḍu nest, cocoon, bird-cage, hollow; koḍandelů a snare set up for birds.",sign 630
+Tulu,Tu,1884,True,False,gūḍè a kind of basket.,sign 384
+Tulu,Tu,1927,True,False,gūnu a hump; gūnè a hunchback.,sign 165
+Tulu,Tu,1928,False,False,,sign 165
+Tulu,Tu,2133,False,False,,sign 142
+Tulu,Tu,2177,False,False,,sign 482
+Tulu,Tu,2178,False,False,,sign 482
+Tulu,Tu,2237,True,False,"kōlů, kōlu stick, staff.",sign 142
+Tulu,Tu,2304,True,False,"caṭṭa a litter, sort of palanquin, bier, window frame.",sign 335
+Tulu,Tu,2306,True,False,"caṭṭi broad-mouthed spittoon, chamber pot.",sign 335
+Tulu,Tu,2456,True,False,cācuni to bow.,sign 240
+Tulu,Tu,2457,False,False,,sign 240
+Tulu,Tu,3035,True,False,taṭṭuga a flat kind of trough for serving boiled rice; (B-K.) taṭṭů level ground.,sign 877
+Tulu,Tu,3039,True,False,"taṭṭāvuni to cause to hit, strike.",sign 877
+Tulu,Tu,3054,True,False,daṇḍ(i)yuni to put forth the hand to receive anything.,sign 104
+Tulu,Tu,3103,True,False,"tarè head, top, hair of head.",concept 39_head
+Tulu,Tu,3158,True,False,"dāṇṭuni to cross, ford, pass by.",sign 104
+Tulu,Tu,3213,True,False,"tiṅgoḷu moon, month.",concept 54_moon
+Tulu,Tu,3314,True,False,"tudi point, end, extremity, top.",sign 480
+Tulu,Tu,3385,False,False,,sign 480
+Tulu,Tu,3480,True,False,"toṭṭuni, toṭṭoṇuni to embrace, hug, hold fast; toḍarů, toḍaru entanglement, obstacle; toḍůmbè a cluster of flowers.",sign 798
+Tulu,Tu,3485,True,False,(DCV) duḍḍi cattle-pound.,sign 350
+Tulu,Tu,3536,False,False,,sign 798
+Tulu,Tu,3544,False,False,,sign 798
+Tulu,Tu,3546,True,False,"tōṭi scavenger, sweeper.",sign 350;sign 435
+Tulu,Tu,3547,True,False,dōṇṭi long pole with hook to pluck fruit.,sign 435
+Tulu,Tu,3584,True,False,"naḍu id., waist, loins; naḍutara middling, moderate; naḍupulu waist, loins; naṭṭa central, middle.",sign 550
+Tulu,Tu,3638,True,False,"nāḍu, nāḍů district, village; nāḍige one of the cultivating classes in northern part of Canara.",sign 550
+Tulu,Tu,3849,True,False,"paḍi daily allowance of food, extra pay to servants when travelling; alms in kind; a small weight.",sign 297
+Tulu,Tu,3852,True,False,paḍa placing or laying; paḍḍā̆yi the west.,sign 297
+Tulu,Tu,4097,True,False,"pālů share, portion, part, division.",sign 877
+Tulu,Tu,4100,True,False,"pālè, pālembu A. scholaris.",sign 877
+Tulu,Tu,4661,True,False,maṭṭi-tautè a small kind of cucumber.,sign 831
+Tulu,Tu,4663,True,False,"maḍalu palm branch, coconut branch with plaited leaves.",sign 416;sign 831
+Tulu,Tu,4720,False,False,,concept 42_horn
+Tulu,Tu,4742,True,False,"malè forest, hill overgrown with forest.",concept 55_mountain
+Tulu,Tu,4802,False,False,,sign 416
+Tulu,Tu,4876,True,False,"miṇimiṇi twinkling, glistening, dimly shining; meṇů glitter, sparkle; miṇuku, meṇaků, meṇuku sparkling; miṇ(u) kuni, meṇ(ů)kuni, minukuni, meñcuni, miñcuni to shine, sparkle, glitter; meñci brightness, lightning; (B-K.) meṇkoḷi, menkōri glowworm.",concept 80_star
+Tulu,Tu,4885,True,False,mīnů.,concept 30_fish
+Tulu,Tu,4898,True,False,"mukku corner, narrow lane.",sign 440
+Tulu,Tu,4899,False,False,,sign 440
+Tulu,Tu,5218,True,False,"baḍakāyi the north, northern.",sign 480
+Tulu,Tu,5263,True,False,"baripuni to gash, cut, scratch, trim as the border of a field; barè branding the arm (in certain diseases); bareta line, mark, scar, weal, stripe; barepini to write, draw; barepāvuni to dictate, cause to write; barāvu writing, manuscript, learning.",sign 595;sign 845
+Tulu,Tu,5266,False,False,,sign 595;sign 845
+Tulu,Tu,5342,True,False,"bāḍuni to fade, shrivel, wither, die; bāḍi faded, withered; bāḍaṅkelů, bāḍantelů withering, leanness, dejection, paleness, decay.",sign 480
+Tulu,Tu,5359,False,False,,sign 845
+Tulu,Tu,5449,True,False,"vīsů, vīsa 1/16th, a weight of gold equal to a grain of rice.",sign 171
+Tulu,Tu,5450,True,False,"bījuni to swing, blow as the wind; bījāṭa waving, swinging, fanning, brandishing; bījāḍuni, bījāvuni to brandish, fan, wave, swing out, fling; bīpuni to cast a net, throw, sling as a stone, throw up earth, wave the hand, wash and clean rice, blow as wind; bīpu casting, throwing, blowing of wind; bīsuni to fan, grind, wave, swing, cast, blow, wave; bīsa quickly, rapidly, fast, straightly; bīsaṇigè, bīsanigè fan.",sign 171
+Tulu,Tu,5498,False,False,,sign 621
+Tulu,Tu,5545,False,False,,sign 621
+Tulu,Tu,5549,True,False,"bijiluni, bijeluni to bear, bring forth as a child.",sign 482
+Tulu,Tu,5552,False,False,,sign 482
+Kota,Ko,237,False,False,,sign 831
+Kota,Ko,255,False,False,,sign 831
+Kota,Ko,399,True,False,"a·ḷ man, servant, husband.",concept 51_man
+Kota,Ko,474,True,False,"eyḏ two; ir va·d twenty; irrva·d by twenties; ir pa·ṇy two pa·ny measures; i vat oḏ twenty-one, etc.; i nu·r 200; i·r a·ṛ two years; i·r o·k two oḷk measures; eṛ calg two calg measures.",concept 91_two
+Kota,Ko,480,True,False,"ig- (ir- in one form; it-) to exist, be in a place; irp collection of property; irpga·rn rich man; ? igc- (igc-) to ignite ( tic fire).",concept 74_sit
+Kota,Ko,990,True,False,"or pa·ṇy one pa·ṇy measure; or kaṛm one kaṛm measure; or poṛt half of the day; o·r ak one oḷk measure; o·r a·ṛ one year; o·ra·ḷc co-wife; o ca·ry one side; o budy of one mind; orrvi· one at a time, once every day; obi· same place, together; o-tal crookedness (e.g. of mouth), deviation from straight line or perfect shape or position, one side (off the path); otalg- (otalgy-) to go on one side, avoid by going around; ? oŋg- (oŋgy-) to be a half-breed, change ( intr. ) magically into something else; oŋgc- (oŋgc-) to breed from two different strains, change ( tr. ) magically into something else.",concept 63_one
+Kota,Ko,1159,True,False,kaṇ eye.,concept 26_eye
+Kota,Ko,1184,True,False,kayṇ yokerope for bullock.,sign 460
+Kota,Ko,1241,False,False,,sign 142;sign 877
+Kota,Ko,1325,True,False,"kav forked stick, fork of branch; kavc go·l forked stick used as potholder; kavṛ forked branch.",sign 416
+Kota,Ko,1326,False,False,,sign 416
+Kota,Ko,1353,False,False,,sign 460
+Kota,Ko,1370,False,False,,sign 171
+Kota,Ko,1443,True,False,"kaṇ-/ka·ṇ- (kaḍ-) to see; ka·ṭ- (ka·c-) to show; kaḍ aṯ- (ac-), kaḍ ayr- (arc-) to find out; ka·ṇky payment of vow to god; kaŋga·c wonderful sight such as never seen before.",concept 72_see
+Kota,Ko,1454,True,False,ka·v handle.,sign 142;sign 877
+Kota,Ko,1479,True,False,"ka·l leg, foot, base (of tree), quarter.",concept 32_foot
+Kota,Ko,1493,False,False,,sign 171
+Kota,Ko,1651,True,False,koṛm ( obl. koṛt-) waterpot with small mouth; ? kuck small clay pot used to drink from (? *kuṭikkay).,sign 798
+Kota,Ko,1655,True,False,"kuṛjl shed, bathroom of Kota house; kuṛm family; kuḍḷ front room of house; kuṛḷ hut; guṛy temple.",sign 384;sign 585;sign 798
+Kota,Ko,1663,True,False,koṛ umbrella made of leaves (only in a proverb); keṛ umbrella.,sign 585
+Kota,Ko,1882,True,False,"ku·ṛ- (ku·c-) to join ( intr. ), gather, meet, assemble, (cows) enter shed, (day) comes close at hand, (wound) heals; ku·ṭ- (ku·c-) to make to join, summon (a meeting), gather ( tr. ), shut in (cattle); ku·ṭm ( obl. ku·ṭt-) meeting, conversation; ko·ṭ a·ḷ intimate male friend, woman's lover, man who has a mistress; ko·ṭa·c intimate female friend, man's mistress.",sign 630
+Kota,Ko,1883,True,False,"gu·ṛ ( obl. gu·ṭ-) nest, large hollow, belly (of man or animal), cupboard, shelf; gu·ṛa·rm body cavity.",sign 630
+Kota,Ko,1884,True,False,"ku·ṛ winnowing basket, a winnowing-basket of grain.",sign 384
+Kota,Ko,1927,True,False,"ku·n- (ku·nḏ-) to be in bowed position (looking down, bent with pain, tiger crouching), become bent with age.",sign 165
+Kota,Ko,1928,False,False,,sign 165
+Kota,Ko,2133,True,False,"kole·l smithy, temple in Kota village.",sign 142
+Kota,Ko,2177,True,False,"ko·na·ṛ the plains; ko·na·ṭo·n, ko·na·ṭo·r man, men of the plains.",sign 482
+Kota,Ko,2178,False,False,,sign 482
+Kota,Ko,2237,True,False,"ko·l stick, story of funeral car.",sign 142
+Kota,Ko,2304,True,False,"caṭ rack, poles on roof parallel to roof-tree to hold tiles or thatch; caṭm rule, tribal custom.",sign 335
+Kota,Ko,2306,False,False,,sign 335
+Kota,Ko,2456,False,False,,sign 240
+Kota,Ko,2457,True,False,ca·yv colour.,sign 240
+Kota,Ko,3035,False,False,,sign 877
+Kota,Ko,3039,True,False,"taṭ- (tac-) to pat, strike, kill, (curse) affects, sharpen, disregard (words); taṭ a·ṛ- (a·c) to stagger from fatigue.",sign 877
+Kota,Ko,3054,True,False,taṇḍ- (taṇḍy-) to win in contest or strife; (debt) is paid; pay off (debt); daṇḍ- (daṇḍy-) to work off (a debt); keep up with a person.,sign 104
+Kota,Ko,3103,True,False,"tal head, top, above, superior; talp end (of stick, branch, rope, etc.).",concept 39_head
+Kota,Ko,3158,True,False,"da·ṭ- (da·ṭy-) to cross (mark, stream, mountain, road).",sign 104
+Kota,Ko,3213,True,False,tigḷ moon; tiŋgḷ month.,concept 54_moon
+Kota,Ko,3314,False,False,,sign 480
+Kota,Ko,3385,False,False,,sign 480
+Kota,Ko,3480,True,False,toṭ handle (of pot or basket); toṛv- (toṛd-) to put arms around.,sign 798
+Kota,Ko,3485,False,False,,sign 350
+Kota,Ko,3536,False,False,,sign 798
+Kota,Ko,3544,False,False,,sign 798
+Kota,Ko,3546,False,False,,sign 350;sign 435
+Kota,Ko,3547,False,False,,sign 435
+Kota,Ko,3584,True,False,"naṛv middle, centre; naṭa· naṛv very centre; naṛy ke·r the centre one of the three exogamous divisions of the Kota village.",sign 550
+Kota,Ko,3638,True,False,"na·ṛ ( obl. na·ṭ- ) country, settled area (opposite to jungle), place where dead go.",sign 550
+Kota,Ko,3849,True,False,paṛy a measure ( oḷk ) of grain given to a Toda when he comes to a village; payṛ bazaar measure of grain (= oḷk ); quantity of food that one person eats at a meal.,sign 297
+Kota,Ko,3852,True,False,"paṛ- (paṭ-) to lie down, sleep; paṛc- (paṛc-) to make to lie, lay.",sign 297
+Kota,Ko,4097,True,False,"pa·lm ( obl. pa·lt-) portion, division.",sign 877
+Kota,Ko,4100,True,False,"pa·l marm an unidentified tree, prob. identical with",sign 877
+Kota,Ko,4661,True,False,maṭm ( obl. maṭt-) inferiority.,sign 831
+Kota,Ko,4663,False,False,,sign 416;sign 831
+Kota,Ko,4720,False,False,,concept 42_horn
+Kota,Ko,4742,True,False,mal im buffaloes of the Nilgiri tribes (i.e. mountain buffaloes); mal a·ṛ high downs on western half of Nilgiri plateau.,concept 55_mountain
+Kota,Ko,4802,False,False,,sign 416
+Kota,Ko,4876,True,False,"minc- (minc-) to flash, glitter, be dazzling, lighten; mi·n star.",concept 80_star
+Kota,Ko,4885,True,False,mi·n.,concept 30_fish
+Kota,Ko,4898,False,False,,sign 440
+Kota,Ko,4899,False,False,,sign 440
+Kota,Ko,5218,False,False,,sign 480
+Kota,Ko,5263,True,False,varv- (vard-) to write; var letter of alphabet; scar.,sign 595;sign 845
+Kota,Ko,5266,True,False,"vary tax paid to government or to Kurumbas, tax paid by Badaga to Kota.",sign 595;sign 845
+Kota,Ko,5342,True,False,"va·ṛ- (va·ṛy-) to wither, (face) becomes haggard from hunger or sorrow.",sign 480
+Kota,Ko,5359,False,False,,sign 845
+Kota,Ko,5449,False,False,,sign 171
+Kota,Ko,5450,True,False,"vi·c- (vi·c-) to exercise violence, throw violently, make a sweeping blow, grind with grinding stones, (wind) blows; vi·c violent blow; vec force, power, speed; ? vicm ( obl. vict-) thunderbolt; ? ve·k- (ve·yk-) to winnow with a side-to-side motion to remove stones.",sign 171
+Kota,Ko,5498,False,False,,sign 621
+Kota,Ko,5545,False,False,,sign 621
+Kota,Ko,5549,True,False,"vay- (vac-) to keep, place; beget, bear (child); vayety (pair word with vadk property); vayety kurl young cow that is fit for mating (3 years old; for kurl , cf. 1791).",sign 482
+Kota,Ko,5552,True,False,"vac pointed stick (for skewering meat, digging hole, etc.).",sign 482
+Toda,To,237,False,False,,sign 831
+Toda,To,255,False,False,,sign 831
+Toda,To,399,True,False,"o·ḷ man, Toda; o·ḷ coolie",concept 51_man
+Toda,To,474,True,False,"e·ḍ ( obl. e·ḍṇ-/e·ṇ-; e·ḷ- when preceded by plural personal or reflexive pronoun) two; ï fo Q twenty; ï nu·ṟ 200; i kwa·w two kwa·x measures; i·r o·ṛ two years; i·r ak two ačok measures; i·ṭy double, even (of numbers); ïm double; ïmu twins ( pl. ïmua·m twins on more than one occasion); ï·štyu· twice.",concept 91_two
+Toda,To,480,True,False,"ïr- (ï Q -) to sit, remain, live; perfective-continuative auxiliary; ïṣt- (ïṣty-) to seat, keep in a place; ïṣk lifetime; i·ṣk dwelling, act of dwelling.",concept 74_sit
+Toda,To,990,True,False,"wï·r ak one ačok measure; wï·r o·ṛ one year; oš tal half of cloak that contains pocket, half of cloak under which one sleeps; oš teṟ one handful; o kwa·w one kwa·x measure; o nu·ṟ 100; o mun one side; o fe·s̱y one wall of pen (esp. in song).",concept 63_one
+Toda,To,1159,True,False,"koṇ eye, loop in string.",concept 26_eye
+Toda,To,1184,False,False,,sign 460
+Toda,To,1241,False,False,,sign 142;sign 877
+Toda,To,1325,True,False,"kafy forked stick, double peak of a hill, hair of a god or of priest of ti·-dairy.",sign 416
+Toda,To,1326,False,False,,sign 416
+Toda,To,1353,True,False,"koyl, ko·ly sp. bamboo (largest type).",sign 460
+Toda,To,1370,True,False,"koł̣ag churnstick (word used at ti· dairy and at kog foł̣y dairy of To·ṟo·ṛ clan; ordinary word is mod , DBIA 287); koł̣em id. ( TS 92.16, pïn goł̣em golden churnstick, with reference to the ti· dairy); ? ka·w forked stick.",sign 171
+Toda,To,1443,True,False,ko·ṇ- (koḍ-) to see; ko·ṭ- (ko·ṭy-) to show; ko·ṇky offering to Hindu temple or to Kurumba; koṇy act of foretelling or of telling the past.,concept 72_see
+Toda,To,1454,True,False,"ko·f hollow stem, handle of tool.",sign 142;sign 877
+Toda,To,1479,True,False,"ko·l leg, foot, quarter, family, progeny; kaḍ xo·l mox last-born son (for kaḍ , see 1109); ko·lk ïr- (child) sits on mother's leg to defecate; ko·s̱ excrement; me·ṇ go·s̱ shade (lit. foot) of tree.",concept 32_foot
+Toda,To,1493,False,False,,sign 171
+Toda,To,1651,True,False,kuṛky small pot.,sign 798
+Toda,To,1655,True,False,"kwïṣ shed for small calves; kuṣ room (in dairy or house); kuḍṣ outer room of dairy, in: kuḍṣ was̱ fireplace in outer room of lowest grade of dairies (cf. 2857), kuḍṣ moṇy bell(s) in outer section of ti· dairy, used on non-sacred buffaloes (cf. 4672); kuṛy Hindu temple; ? kwïḏy a family of children.",sign 384;sign 585;sign 798
+Toda,To,1663,True,False,kwaṛ id.,sign 585
+Toda,To,1882,True,False,"ku·ṛ- (ku·ṛy-) to join ( intr. ), have intercourse with, finish (doing so-and-so); ku·ṭ- (ku·ṭy-) to join ( tr. ), close (eye); ku·ḍ- (ku·ḍy-) (others than Todas) marry; ku·ṭm ( obl. ku·ḍt-) meeting of assembly, dispute; mu·ku·ṛ- (mu·ku·ṛy-) to meet (of persons, rivers); mu·ku·ṭ- (mu·ku·ṭy-) to cause to meet (see 5031).",sign 630
+Toda,To,1883,True,False,ku·ḍ nest; kwa·ṭ-a·s̱ calf-shed; cowshed of Badaga village.,sign 630
+Toda,To,1884,True,False,"ku·ṛ contribution of a measure (kwa·x) of grain, given by each Badaga house to Toda.",sign 384
+Toda,To,1927,True,False,ku·n hunchback.,sign 165
+Toda,To,1928,False,False,,sign 165
+Toda,To,2133,True,False,kwala·l Kota smithy.,sign 142
+Toda,To,2177,False,False,,sign 482
+Toda,To,2178,False,False,,sign 482
+Toda,To,2237,True,False,kwï·s̱ stick.,sign 142
+Toda,To,2304,False,False,,sign 335
+Toda,To,2306,False,False,,sign 335
+Toda,To,2456,False,False,,sign 240
+Toda,To,2457,False,False,,sign 240
+Toda,To,3035,False,False,,sign 877
+Toda,To,3039,True,False,"toṭ a slap; toṭ- (toṭy-) to strike (with hammer), pat, (sin) strikes; toṛ- (toṭ-) to bump foot; toṭxn, toṭxïn goldsmith; fem. toṭty, toṭxity; toṭk ïn- (ïḏ-) to be tired, exhausted.",sign 877
+Toda,To,3054,True,False,"toḍ- (toḍy-) to have ability or strength to, be capable of.",sign 104
+Toda,To,3103,True,False,"tal head, end, edge; tas̱ superior division of ti· dairy; tas̱m top; tas̱t which is on top; talp tip (of stick, horn, penis); taš-tïṇ platform ( tïṇ ) against inner wall of house, where vessels, etc., are kept; tes̱amf- (tes̱amt-) to perform child's hair-cutting and naming ceremony (lit. to prepare head; for -amf- , see 162).",concept 39_head
+Toda,To,3158,True,False,"to·ṭ- (to·ṭy-) to cross (boundary, etc.).",sign 104
+Toda,To,3213,True,False,tïgïḷ moon; ti·ł̣ month.,concept 54_moon
+Toda,To,3314,False,False,,sign 480
+Toda,To,3385,False,False,,sign 480
+Toda,To,3480,True,False,"twaḍ- (twaḍ Q -) to be polluted; twaḍf- (twaḍt-) to pollute; twïṛf- (twïṛt-) to entangle (tr.) ; twïṭ handle (made of loop of cane) of bamboo milking-vessel, loops of cane that tie thatch; twïṛk hook, link of chain; ? to·ṭ- (to·ṭy-) to bring up (child), take (woman of the other moiety) as concubine; to·ṭyfoy mox concubine.",sign 798
+Toda,To,3485,True,True,twïḏy pair-word with twï·ṭm (see 3549).,sign 350
+Toda,To,3536,False,False,,sign 798
+Toda,To,3544,False,False,,sign 798
+Toda,To,3546,False,False,,sign 350;sign 435
+Toda,To,3547,False,False,,sign 435
+Toda,To,3584,True,False,"noṛf ( obl. noṛt- ) middle, centre.",sign 550
+Toda,To,3638,True,False,"no·ṛ ( obl. no·ṭ- ) sacred place, dairy complex which is a god.",sign 550
+Toda,To,3849,True,False,poṛy rice given at funeral; contribution given to Badagas at a two-day funeral.,sign 297
+Toda,To,3852,True,False,poṛ- (poṭ-) to lie down; lose (teeth; of children); poṛy sleeping-place (in song).,sign 297
+Toda,To,4097,True,False,po·lm ( obl. po·lt-) share; subdivision of patrilineal sib.,sign 877
+Toda,To,4100,True,False,pa·s̱. || pa·s̱ a timber tree (Rivers: ? Sideroxylon).,sign 877
+Toda,To,4661,False,False,,sign 831
+Toda,To,4663,False,False,,sign 416;sign 831
+Toda,To,4720,False,False,,concept 42_horn
+Toda,To,4742,True,False,mas̱ o·ṛ id; mal the mountains (Nilgiris as opposed to the plains).,concept 55_mountain
+Toda,To,4802,False,False,,sign 416
+Toda,To,4876,True,False,"mic- (mič-) to flash, lighten; mic lightning (in songs); mi·n star.",concept 80_star
+Toda,To,4885,True,False,mi·n.,concept 30_fish
+Toda,To,4898,True,False,"muk edge; muṣk corner, edge.",sign 440
+Toda,To,4899,False,False,,sign 440
+Toda,To,5218,False,False,,sign 480
+Toda,To,5263,True,False,"par- (par Q -) to write; par writing, lifeline in hand.",sign 595;sign 845
+Toda,To,5266,False,False,,sign 595;sign 845
+Toda,To,5342,False,False,,sign 480
+Toda,To,5359,False,False,,sign 845
+Toda,To,5449,False,False,,sign 171
+Toda,To,5450,True,False,"pi·s- (pi·sy-) to swing (arm), grind (grain), cast responsibility of (person) on, forsake; pi·s a swing of the grinding stone.",sign 171
+Toda,To,5498,False,False,,sign 621
+Toda,To,5545,False,False,,sign 621
+Toda,To,5549,True,False,"poy- (poc-) to keep, place; beget, bear (child).",sign 482
+Toda,To,5552,False,False,,sign 482
+Kodagu,Koḍ,237,False,False,,sign 831
+Kodagu,Koḍ,255,False,False,,sign 831
+Kodagu,Koḍ,399,True,False,"a·ḷï servant; a·ṇï, a·ṇ a·ḷï man, male; a·ŋuññi male child ( a·ṇï-kuññi).",concept 51_man
+Kodagu,Koḍ,474,True,False,"daṇḍï two things; daṇḍane second; pann-eraṇḍï twelve; iru-vadï twenty; in-nu·rï 200; i·r a·ṇḍï two years; i·rak ëttï two pairs of bullocks; i·raba, i·raṇḍï two by two (persons, things); i·raḍi the usual two helpings at a meal; ibba two persons; imma twice; irme separation, difference.",concept 91_two
+Kodagu,Koḍ,480,True,False,"ir- (-ipp-, iñj-) to be in a place.",concept 74_sit
+Kodagu,Koḍ,990,True,False,"orï one ( adj. ); obbë one man; obba one woman; orme unity, harmony; o·r a·ṇḍï one year; o·raḍi only one helping at a meal (instead of the usual two); o·rak ëttï one pair of bullocks; o·randï, o·rabë one by one (thing, person respectively); omma once.",concept 63_one
+Kodagu,Koḍ,1159,True,False,kaṇṇï id.,concept 26_eye
+Kodagu,Koḍ,1184,False,False,,sign 460
+Kodagu,Koḍ,1241,False,False,,sign 142;sign 877
+Kodagu,Koḍ,1325,False,False,,sign 416
+Kodagu,Koḍ,1326,False,False,,sign 416
+Kodagu,Koḍ,1353,False,False,,sign 460
+Kodagu,Koḍ,1370,True,False,gaḷe long stick.,sign 171
+Kodagu,Koḍ,1443,True,False,"ka·ṇ- (ka·mb-, kaṇḍ-) to see; seem, look (so-and-so); ka·ṭ- (ka·ṭi-) to show.",concept 72_see
+Kodagu,Koḍ,1454,False,False,,sign 142;sign 877
+Kodagu,Koḍ,1479,True,False,"ka·lï leg, foot, quarter.",concept 32_foot
+Kodagu,Koḍ,1493,True,False,ka·ḷï grain,sign 171
+Kodagu,Koḍ,1651,True,False,kuḍike pot in which food (esp. rice) is cooked.,sign 798
+Kodagu,Koḍ,1655,True,False,kuḍi family of servants living in one hut; kuḍië man of toddy-tapper caste.,sign 384;sign 585;sign 798
+Kodagu,Koḍ,1663,True,False,koḍe umbrella.,sign 585
+Kodagu,Koḍ,1882,True,False,"ku·ḍ- (ku·ḍi-) to join with others, gather, be inserted; ku·ṭ- (ku·ṭi-) to join (others) with oneself, insert; ku·ṭa quarrel, dispute, panchayat; ku·ṭï gathering, assembly.",sign 630
+Kodagu,Koḍ,1883,True,False,"gu·ḍï nest, pig-pen, fowl-house.",sign 630
+Kodagu,Koḍ,1884,True,False,ku·ṭe basket.,sign 384
+Kodagu,Koḍ,1927,True,False,(Shanmugam) kūn hunchback; gūne hunchbacked man; gūni hunchbacked woman.,sign 165
+Kodagu,Koḍ,1928,False,False,,sign 165
+Kodagu,Koḍ,2133,True,False,kollë blacksmith.,sign 142
+Kodagu,Koḍ,2177,False,False,,sign 482
+Kodagu,Koḍ,2178,False,False,,sign 482
+Kodagu,Koḍ,2237,True,False,ko·lï stick.,sign 142
+Kodagu,Koḍ,2304,False,False,,sign 335
+Kodagu,Koḍ,2306,False,False,,sign 335
+Kodagu,Koḍ,2456,True,False,"taye- (-p-, -t-) to level field and break up clods with a plank drawn by bullocks; n. plank thus used (cf. Ma. cāykka).",sign 240
+Kodagu,Koḍ,2457,True,False,ca·y beauty; ca·ylï well ( adv. ); ca·yka·rë handsome man; fem. ca·ykarati. ?,sign 240
+Kodagu,Koḍ,3035,True,False,"taṭṭe any flat plate except eating vessel, plate in which betel is given.",sign 877
+Kodagu,Koḍ,3039,True,False,"taṭṭ- (taṭṭi-) to touch, pat, ward off, strike off, (curse) effects; taṭṭë goldsmith; fem. taṭṭati (Shanmugam).",sign 877
+Kodagu,Koḍ,3054,False,False,,sign 104
+Kodagu,Koḍ,3103,True,False,tale end; ? talami hair of head or body; t. kaḷe a single hair ( kaḷe a weed; see 1373).,concept 39_head
+Kodagu,Koḍ,3158,True,False,(Kar.) da·ṭ- (-i-) to cross.,sign 104
+Kodagu,Koḍ,3213,True,False,tiŋga month.,concept 54_moon
+Kodagu,Koḍ,3314,False,False,,sign 480
+Kodagu,Koḍ,3385,False,False,,sign 480
+Kodagu,Koḍ,3480,True,False,"toḍ- (toḍuv-, toṭṭ-) to touch.",sign 798
+Kodagu,Koḍ,3485,True,False,toḍia small garden adjoining a house.,sign 350
+Kodagu,Koḍ,3536,False,False,,sign 798
+Kodagu,Koḍ,3544,False,False,,sign 798
+Kodagu,Koḍ,3546,True,False,(Shanmugam) to·ṭi scavenger; fem. to·ṭici.,sign 350;sign 435
+Kodagu,Koḍ,3547,False,False,,sign 435
+Kodagu,Koḍ,3584,True,False,"naḍu middle, centre.",sign 550
+Kodagu,Koḍ,3638,True,False,na·ḍï district.,sign 550
+Kodagu,Koḍ,3849,False,False,,sign 297
+Kodagu,Koḍ,3852,True,False,"paḍ- (paḍuv-, paṭṭ-) to lie fallow; paḍït- (paḍïti-) to let lie fallow, (Kar. also) send (child) to sleep; paḍï-bu·mi fallow land; paḍi-ña·rï west.",sign 297
+Kodagu,Koḍ,4097,True,False,"pa·lï ma·ḍ- to divide, distribute.",sign 877
+Kodagu,Koḍ,4100,False,False,,sign 877
+Kodagu,Koḍ,4661,False,False,,sign 831
+Kodagu,Koḍ,4663,True,False,maṭṭa base of fronds of coconut tree.,sign 416;sign 831
+Kodagu,Koḍ,4720,False,False,,concept 42_horn
+Kodagu,Koḍ,4742,True,False,"male thick jungle land, cardamom plantation in jungle on mountain-side.",concept 55_mountain
+Kodagu,Koḍ,4802,False,False,,sign 416
+Kodagu,Koḍ,4876,True,False,"minn- (minni-) to lighten, flicker.",concept 80_star
+Kodagu,Koḍ,4885,True,False,mi·nï.,concept 30_fish
+Kodagu,Koḍ,4898,False,False,,sign 440
+Kodagu,Koḍ,4899,False,False,,sign 440
+Kodagu,Koḍ,5218,True,False,baḍakï north.,sign 480
+Kodagu,Koḍ,5263,True,False,"bare stripe, brand-mark, burn made on body in illness.",sign 595;sign 845
+Kodagu,Koḍ,5266,False,False,,sign 595;sign 845
+Kodagu,Koḍ,5342,True,False,"ba·ḍ- (ba·ḍi-) to fade, wither, (face) is downcast.",sign 480
+Kodagu,Koḍ,5359,True,False,va·ra rent.,sign 845
+Kodagu,Koḍ,5449,False,False,,sign 171
+Kodagu,Koḍ,5450,True,False,"bi·j- (bi·ji-) , (Mercara dialect) bi·d- (bi·di-) to wave ( tr. ); (wind) blows, (tree, cloth) waves; grind with grinding stones.",sign 171
+Kodagu,Koḍ,5498,False,False,,sign 621
+Kodagu,Koḍ,5545,False,False,,sign 621
+Kodagu,Koḍ,5549,True,False,"bey- (bepp-, becc-) to keep.",sign 482
+Kodagu,Koḍ,5552,False,False,,sign 482
+Kolami,Kol,237,False,False,,sign 831
+Kolami,Kol,255,False,False,,sign 831
+Kolami,Kol,399,False,False,,concept 51_man
+Kolami,Kol,474,True,False,indiŋ two things; iddar two men; i·ral two women; in nal two days; ? ittarel both persons; (P.) irve twenty.,concept 91_two
+Kolami,Kol,480,False,False,,concept 74_sit
+Kolami,Kol,990,False,False,,concept 63_one
+Kolami,Kol,1159,True,False,"kan ( pl. kanḍl) eye, small hole in ground, cave.",concept 26_eye
+Kolami,Kol,1184,False,False,,sign 460
+Kolami,Kol,1241,False,False,,sign 142;sign 877
+Kolami,Kol,1325,False,False,,sign 416
+Kolami,Kol,1326,False,False,,sign 416
+Kolami,Kol,1353,False,False,,sign 460
+Kolami,Kol,1370,False,False,,sign 171
+Kolami,Kol,1443,True,False,"kanḍt, kanḍakt seen, visible.",concept 72_see
+Kolami,Kol,1454,False,False,,sign 142;sign 877
+Kolami,Kol,1479,True,False,"(Kin.) kāl leg, foot.",concept 32_foot
+Kolami,Kol,1493,False,False,,sign 171
+Kolami,Kol,1651,False,False,,sign 798
+Kolami,Kol,1655,True,False,(SR) guḍī temple.,sign 384;sign 585;sign 798
+Kolami,Kol,1663,False,False,,sign 585
+Kolami,Kol,1882,True,False,"(Kin.) kūṛ pāv meeting of ways ( pāv way, path).",sign 630
+Kolami,Kol,1883,False,False,,sign 630
+Kolami,Kol,1884,False,False,,sign 384
+Kolami,Kol,1927,False,False,,sign 165
+Kolami,Kol,1928,False,False,,sign 165
+Kolami,Kol,2133,False,False,,sign 142
+Kolami,Kol,2177,False,False,,sign 482
+Kolami,Kol,2178,False,False,,sign 482
+Kolami,Kol,2237,True,False,"(SR.) kolā , (Kin.) kōla stick.",sign 142
+Kolami,Kol,2304,False,False,,sign 335
+Kolami,Kol,2306,False,False,,sign 335
+Kolami,Kol,2456,False,False,,sign 240
+Kolami,Kol,2457,False,False,,sign 240
+Kolami,Kol,3035,False,False,,sign 877
+Kolami,Kol,3039,False,False,,sign 877
+Kolami,Kol,3054,False,False,,sign 104
+Kolami,Kol,3103,True,False,tal head.,concept 39_head
+Kolami,Kol,3158,True,False,da·ṭ- (da·ṭt-) to cross; da·ṭip- (da·ṭipt-) to make to cross.,sign 104
+Kolami,Kol,3213,False,False,,concept 54_moon
+Kolami,Kol,3314,False,False,,sign 480
+Kolami,Kol,3385,True,False,(SR.) duttā earthen pot.,sign 480
+Kolami,Kol,3480,False,False,,sign 798
+Kolami,Kol,3485,False,False,,sign 350
+Kolami,Kol,3536,False,False,,sign 798
+Kolami,Kol,3544,False,False,,sign 798
+Kolami,Kol,3546,False,False,,sign 350;sign 435
+Kolami,Kol,3547,False,False,,sign 435
+Kolami,Kol,3584,True,False,(SR.) naḍum middle.,sign 550
+Kolami,Kol,3638,False,False,,sign 550
+Kolami,Kol,3849,False,False,,sign 297
+Kolami,Kol,3852,True,False,"(SR) bollā paḍ- to be [i.e. lie] on one's back; (SR) pār- (? pāṛ-) to fall; (Pat., p. 143) parteng to catch (in a trap).",sign 297
+Kolami,Kol,4097,False,False,,sign 877
+Kolami,Kol,4100,False,False,,sign 877
+Kolami,Kol,4661,False,False,,sign 831
+Kolami,Kol,4663,False,False,,sign 416;sign 831
+Kolami,Kol,4720,False,False,,concept 42_horn
+Kolami,Kol,4742,True,False,"ma·le , (Haig) mālē hill.",concept 55_mountain
+Kolami,Kol,4802,False,False,,sign 416
+Kolami,Kol,4876,False,False,,concept 80_star
+Kolami,Kol,4885,False,False,,concept 30_fish
+Kolami,Kol,4898,False,False,,sign 440
+Kolami,Kol,4899,False,False,,sign 440
+Kolami,Kol,5218,False,False,,sign 480
+Kolami,Kol,5263,False,False,,sign 595;sign 845
+Kolami,Kol,5266,False,False,,sign 595;sign 845
+Kolami,Kol,5342,False,False,,sign 480
+Kolami,Kol,5359,False,False,,sign 845
+Kolami,Kol,5449,False,False,,sign 171
+Kolami,Kol,5450,False,False,,sign 171
+Kolami,Kol,5498,False,False,,sign 621
+Kolami,Kol,5545,False,False,,sign 621
+Kolami,Kol,5549,True,False,"va·y- (va·yt-) , (SR.) vāy- to sow; (Kin.) vāy- to sow with drill (or with
+5255 Ta. vayakku).",sign 482
+Kolami,Kol,5552,False,False,,sign 482
+Naikri,Nk,237,False,False,,sign 831
+Naikri,Nk,255,False,False,,sign 831
+Naikri,Nk,399,False,False,,concept 51_man
+Naikri,Nk,474,True,False,"indiŋg two things; iddar two men; iraḷ two women; eṛ , in: balg-eṛ two seers. || (Ch.) ernḍi two things; iroṭel, iroṭer two men; ira two women; ir nān two days; ernḍik two years; ernḍiḍa twice.",concept 91_two
+Naikri,Nk,480,False,False,,concept 74_sit
+Naikri,Nk,990,False,False,,concept 63_one
+Naikri,Nk,1159,True,False,"kan ( pl. kanḍḷ) eye, spot in peacock's tail. || (Ch.) kan ( pl. -l) eye.",concept 26_eye
+Naikri,Nk,1184,False,False,,sign 460
+Naikri,Nk,1241,False,False,,sign 142;sign 877
+Naikri,Nk,1325,False,False,,sign 416
+Naikri,Nk,1326,False,False,,sign 416
+Naikri,Nk,1353,True,False,(Ch.) karrka bamboo.,sign 460
+Naikri,Nk,1370,False,False,,sign 171
+Naikri,Nk,1443,True,False,kank er- to appear ( *kanḍk or the like).,concept 72_see
+Naikri,Nk,1454,False,False,,sign 142;sign 877
+Naikri,Nk,1479,False,False,,concept 32_foot
+Naikri,Nk,1493,False,False,,sign 171
+Naikri,Nk,1651,False,False,,sign 798
+Naikri,Nk,1655,False,False,,sign 384;sign 585;sign 798
+Naikri,Nk,1663,False,False,,sign 585
+Naikri,Nk,1882,False,False,,sign 630
+Naikri,Nk,1883,False,False,,sign 630
+Naikri,Nk,1884,False,False,,sign 384
+Naikri,Nk,1927,False,False,,sign 165
+Naikri,Nk,1928,False,False,,sign 165
+Naikri,Nk,2133,False,False,,sign 142
+Naikri,Nk,2177,False,False,,sign 482
+Naikri,Nk,2178,False,False,,sign 482
+Naikri,Nk,2237,True,False,(Ch.) kōl pestle.,sign 142
+Naikri,Nk,2304,False,False,,sign 335
+Naikri,Nk,2306,False,False,,sign 335
+Naikri,Nk,2456,False,False,,sign 240
+Naikri,Nk,2457,False,False,,sign 240
+Naikri,Nk,3035,False,False,,sign 877
+Naikri,Nk,3039,False,False,,sign 877
+Naikri,Nk,3054,False,False,,sign 104
+Naikri,Nk,3103,True,False,tal ( pl. -kuḷ) id.; ( pl. -śil ) honeycomb. || (Ch.) tal head.,concept 39_head
+Naikri,Nk,3158,False,False,,sign 104
+Naikri,Nk,3213,False,False,,concept 54_moon
+Naikri,Nk,3314,False,False,,sign 480
+Naikri,Nk,3385,False,False,,sign 480
+Naikri,Nk,3480,False,False,,sign 798
+Naikri,Nk,3485,False,False,,sign 350
+Naikri,Nk,3536,False,False,,sign 798
+Naikri,Nk,3544,False,False,,sign 798
+Naikri,Nk,3546,False,False,,sign 350;sign 435
+Naikri,Nk,3547,False,False,,sign 435
+Naikri,Nk,3584,True,False,naṛum id.; naṛmut in the middle. || (Ch.) aḍḍumta middle ( adj. ); aḍmun in the middle.,sign 550
+Naikri,Nk,3638,False,False,,sign 550
+Naikri,Nk,3849,False,False,,sign 297
+Naikri,Nk,3852,True,False,"paṛ- (paṭṭ-) to fall; parp- to make to fall; part- to fell (a tree). || (Ch.) paḍ-/paṛ- (paṭṭ-) to fall; payip-/payp- to make to fall, demolish.",sign 297
+Naikri,Nk,4097,False,False,,sign 877
+Naikri,Nk,4100,False,False,,sign 877
+Naikri,Nk,4661,False,False,,sign 831
+Naikri,Nk,4663,False,False,,sign 416;sign 831
+Naikri,Nk,4720,False,False,,concept 42_horn
+Naikri,Nk,4742,False,False,,concept 55_mountain
+Naikri,Nk,4802,False,False,,sign 416
+Naikri,Nk,4876,False,False,,concept 80_star
+Naikri,Nk,4885,False,False,,concept 30_fish
+Naikri,Nk,4898,False,False,,sign 440
+Naikri,Nk,4899,False,False,,sign 440
+Naikri,Nk,5218,False,False,,sign 480
+Naikri,Nk,5263,False,False,,sign 595;sign 845
+Naikri,Nk,5266,False,False,,sign 595;sign 845
+Naikri,Nk,5342,False,False,,sign 480
+Naikri,Nk,5359,False,False,,sign 845
+Naikri,Nk,5449,False,False,,sign 171
+Naikri,Nk,5450,False,False,,sign 171
+Naikri,Nk,5498,False,False,,sign 621
+Naikri,Nk,5545,False,False,,sign 621
+Naikri,Nk,5549,True,False,"vay- to sow; vayk- to put, put aside.",sign 482
+Naikri,Nk,5552,False,False,,sign 482
+Parji,Pa,237,False,False,,sign 831
+Parji,Pa,255,False,False,,sign 831
+Parji,Pa,399,False,False,,concept 51_man
+Parji,Pa,474,True,False,irḍu two things; irul two men; iral two women; adj. ir; iroṭ twice.,concept 91_two
+Parji,Pa,480,False,False,,concept 74_sit
+Parji,Pa,990,False,False,,concept 63_one
+Parji,Pa,1159,True,False,(S. only) kan ( pl. kanul) eye.,concept 26_eye
+Parji,Pa,1184,False,False,,sign 460
+Parji,Pa,1241,False,False,,sign 142;sign 877
+Parji,Pa,1325,False,False,,sign 416
+Parji,Pa,1326,False,False,,sign 416
+Parji,Pa,1353,True,False,karri ( pl. karrul ) bamboo shoot.,sign 460
+Parji,Pa,1370,True,False,"kaṛcid ( pl. kaṛcil) wood for fuel; kaṛpa thin stick, twig, bean stick (or both with
+1165 Ko. kaṇk).",sign 171
+Parji,Pa,1443,True,False,"kanḍp- (kanḍt-) to look for, seek.",concept 72_see
+Parji,Pa,1454,False,False,,sign 142;sign 877
+Parji,Pa,1479,True,False,kēl ( pl. kēlul) leg.,concept 32_foot
+Parji,Pa,1493,True,True,kāṛ kind of grain called in Halbi kōdon.,sign 171
+Parji,Pa,1651,False,False,,sign 798
+Parji,Pa,1655,True,False,"guḍi temple, village resthouse.",sign 384;sign 585;sign 798
+Parji,Pa,1663,False,False,,sign 585
+Parji,Pa,1882,True,False,kūṛ er- to assemble.,sign 630
+Parji,Pa,1883,True,False,"gūḍa nest, wooden trap.",sign 630
+Parji,Pa,1884,False,False,,sign 384
+Parji,Pa,1927,False,False,,sign 165
+Parji,Pa,1928,False,False,,sign 165
+Parji,Pa,2133,False,False,,sign 142
+Parji,Pa,2177,True,False,kōc king.,sign 482
+Parji,Pa,2178,False,False,,sign 482
+Parji,Pa,2237,True,False,kōl shaft of arrow.,sign 142
+Parji,Pa,2304,False,False,,sign 335
+Parji,Pa,2306,False,False,,sign 335
+Parji,Pa,2456,False,False,,sign 240
+Parji,Pa,2457,False,False,,sign 240
+Parji,Pa,3035,False,False,,sign 877
+Parji,Pa,3039,False,False,,sign 877
+Parji,Pa,3054,False,False,,sign 104
+Parji,Pa,3103,True,False,tel id. ; honeycomb.,concept 39_head
+Parji,Pa,3158,False,False,,sign 104
+Parji,Pa,3213,False,False,,concept 54_moon
+Parji,Pa,3314,False,False,,sign 480
+Parji,Pa,3385,False,False,,sign 480
+Parji,Pa,3480,True,False,ṭoḍ- (ṭoṭṭ-) to touch; ṭoḍip- (ṭoḍit-) to make to touch; ṭoḍu rope.,sign 798
+Parji,Pa,3485,False,False,,sign 350
+Parji,Pa,3536,False,False,,sign 798
+Parji,Pa,3544,False,False,,sign 798
+Parji,Pa,3546,True,False,"ṭōṭal, tōṭa labourer.",sign 350;sign 435
+Parji,Pa,3547,True,False,ṭōṭal bamboo rake.,sign 435
+Parji,Pa,3584,True,False,naṛub middle; naṛbul in the middle.,sign 550
+Parji,Pa,3638,False,False,,sign 550
+Parji,Pa,3849,False,False,,sign 297
+Parji,Pa,3852,True,False,"paḍ- (paṭṭ-) to fall, sink down, (sun) sets.",sign 297
+Parji,Pa,4097,True,False,pēla portion.,sign 877
+Parji,Pa,4100,False,False,,sign 877
+Parji,Pa,4661,False,False,,sign 831
+Parji,Pa,4663,False,False,,sign 416;sign 831
+Parji,Pa,4720,False,False,,concept 42_horn
+Parji,Pa,4742,True,False,malaŋg forest. ?,concept 55_mountain
+Parji,Pa,4802,False,False,,sign 416
+Parji,Pa,4876,True,False,minnal spark.,concept 80_star
+Parji,Pa,4885,True,False,mīni ( pl. mīnul).,concept 30_fish
+Parji,Pa,4898,False,False,,sign 440
+Parji,Pa,4899,False,False,,sign 440
+Parji,Pa,5218,False,False,,sign 480
+Parji,Pa,5263,True,False,"varc- to scratch (or with
+5322 Ta. vaṟaṇṭu ).",sign 595;sign 845
+Parji,Pa,5266,False,False,,sign 595;sign 845
+Parji,Pa,5342,True,False,vāḍ- to shrivel.,sign 480
+Parji,Pa,5359,False,False,,sign 845
+Parji,Pa,5449,False,False,,sign 171
+Parji,Pa,5450,False,False,,sign 171
+Parji,Pa,5498,True,False,"valip- (valit-) to expel, drive away; (S.) valkip- (valkit-) to chase. ?",sign 621
+Parji,Pa,5545,False,False,,sign 621
+Parji,Pa,5549,False,False,,sign 482
+Parji,Pa,5552,False,False,,sign 482
+Gadaba,Ga,237,False,False,,sign 831
+Gadaba,Ga,255,False,False,,sign 831
+Gadaba,Ga,399,False,False,,concept 51_man
+Gadaba,Ga,474,True,False,(Oll.) inḍi two things; irul two men; iral two women; adj. ir ; (P. S. 2 ) iḍḍig two (neut.).,concept 91_two
+Gadaba,Ga,480,False,False,,concept 74_sit
+Gadaba,Ga,990,False,False,,concept 63_one
+Gadaba,Ga,1159,True,False,(Oll.) kaṇ ( pl. kaṇkul) id.; kaṇul maṭṭa eyebrow; kaṇa ( pl. kaṇul) hole; (S.) kanu ( pl. kankul) eye.,concept 26_eye
+Gadaba,Ga,1184,False,False,,sign 460
+Gadaba,Ga,1241,False,False,,sign 142;sign 877
+Gadaba,Ga,1325,False,False,,sign 416
+Gadaba,Ga,1326,False,False,,sign 416
+Gadaba,Ga,1353,False,False,,sign 460
+Gadaba,Ga,1370,True,False,"(Oll.) kaṛsid ( pl. kaṛsil) , (S.) kaḍcil ( pl. ) wood for fuel; kaṛmeṭ stick; kanḍven ( pl. kanḍvēl) id. (or all these with
+1165 Ko. kaṇk).",sign 171
+Gadaba,Ga,1443,True,False,(Oll.) kanḍp- (kanḍt-) to search.,concept 72_see
+Gadaba,Ga,1454,True,False,(S. 3 ) kāŋ butt of axe.,sign 142;sign 877
+Gadaba,Ga,1479,True,False,(Oll.) kāl ( pl. kālgil) id.,concept 32_foot
+Gadaba,Ga,1493,False,False,,sign 171
+Gadaba,Ga,1651,False,False,,sign 798
+Gadaba,Ga,1655,True,False,(Oll.) guḍi temple.,sign 384;sign 585;sign 798
+Gadaba,Ga,1663,False,False,,sign 585
+Gadaba,Ga,1882,False,False,,sign 630
+Gadaba,Ga,1883,True,False,(Oll.) gūḍe (S. 2 ) gūḍu nest.,sign 630
+Gadaba,Ga,1884,False,False,,sign 384
+Gadaba,Ga,1927,False,False,,sign 165
+Gadaba,Ga,1928,False,False,,sign 165
+Gadaba,Ga,2133,False,False,,sign 142
+Gadaba,Ga,2177,True,False,(S) kōsu id. ?,sign 482
+Gadaba,Ga,2178,False,False,,sign 482
+Gadaba,Ga,2237,False,False,,sign 142
+Gadaba,Ga,2304,False,False,,sign 335
+Gadaba,Ga,2306,False,False,,sign 335
+Gadaba,Ga,2456,False,False,,sign 240
+Gadaba,Ga,2457,False,False,,sign 240
+Gadaba,Ga,3035,True,False,(S. 3 ) taṭṭa a wide basket.,sign 877
+Gadaba,Ga,3039,False,False,,sign 877
+Gadaba,Ga,3054,False,False,,sign 104
+Gadaba,Ga,3103,True,False,"(Oll.) tal , (S.) tallu ( pl. talkil ) head.",concept 39_head
+Gadaba,Ga,3158,False,False,,sign 104
+Gadaba,Ga,3213,False,False,,concept 54_moon
+Gadaba,Ga,3314,False,False,,sign 480
+Gadaba,Ga,3385,False,False,,sign 480
+Gadaba,Ga,3480,True,False,"(Oll.) toru id.; (S.) torru string, rope. ?",sign 798
+Gadaba,Ga,3485,False,False,,sign 350
+Gadaba,Ga,3536,False,False,,sign 798
+Gadaba,Ga,3544,False,False,,sign 798
+Gadaba,Ga,3546,False,False,,sign 350;sign 435
+Gadaba,Ga,3547,False,False,,sign 435
+Gadaba,Ga,3584,True,False,"(S. 2 ) naṛpi middle, second (child); (S. 3 ) naḍum waist",sign 550
+Gadaba,Ga,3638,False,False,,sign 550
+Gadaba,Ga,3849,False,False,,sign 297
+Gadaba,Ga,3852,True,False,"(Oll.) par- , (S.) par- (paṭ-) to fall.",sign 297
+Gadaba,Ga,4097,False,False,,sign 877
+Gadaba,Ga,4100,False,False,,sign 877
+Gadaba,Ga,4661,False,False,,sign 831
+Gadaba,Ga,4663,True,False,(S. 3 ) maṭṭa spathe of palm tree.,sign 416;sign 831
+Gadaba,Ga,4720,False,False,,concept 42_horn
+Gadaba,Ga,4742,True,True,(Oll.) mare ( pl. marel) hillock; (S.) māre ( pl. mārel) hill.,concept 55_mountain
+Gadaba,Ga,4802,False,False,,sign 416
+Gadaba,Ga,4876,True,False,(S. 3 ) munake firefly.,concept 80_star
+Gadaba,Ga,4885,True,False,(Oll.) mīn ( pl. mīnil).,concept 30_fish
+Gadaba,Ga,4898,False,False,,sign 440
+Gadaba,Ga,4899,False,False,,sign 440
+Gadaba,Ga,5218,False,False,,sign 480
+Gadaba,Ga,5263,True,False,(S. 2 ) rāyap- (rāyat-) to write.,sign 595;sign 845
+Gadaba,Ga,5266,False,False,,sign 595;sign 845
+Gadaba,Ga,5342,False,False,,sign 480
+Gadaba,Ga,5359,True,True,(S.) vāri ( pl. vārgil) debt.,sign 845
+Gadaba,Ga,5449,False,False,,sign 171
+Gadaba,Ga,5450,False,False,,sign 171
+Gadaba,Ga,5498,True,True,(Oll.) veṭ- to flee; (S.) veṭṭ- to go out.,sign 621
+Gadaba,Ga,5545,False,False,,sign 621
+Gadaba,Ga,5549,True,False,(S.) vang- to give birth to.,sign 482
+Gadaba,Ga,5552,False,False,,sign 482
+Gondi,Go,237,False,False,,sign 831
+Gondi,Go,255,False,False,,sign 831
+Gondi,Go,399,False,False,,concept 51_man
+Gondi,Go,474,True,False,"(Tr. and most dialects) ranḍ , (S.) ranḍu , (Ma. Ko.) renḍ two ( non-masc. ); (Tr. Ph.) rahk rahk two each; (W. Ch.) ranṭe both, pair; (Tr.) rancē two or so ( Voc. 3013); (Mu. Ma.) irvur , (Ko.) irvuṛ , (Tr.) iruṛ , (M.) irū(r) , (SR.) iver , (Y.) ivir , (G.) ivur two (masc.) (Voc. 184).",concept 91_two
+Gondi,Go,480,False,False,,concept 74_sit
+Gondi,Go,990,True,False,"(Y.) oror one ( masc. ); orone alone; (Mand.) oṛe one ( masc. ); (Tr.) wōṛul a certain man ( Voc. 418); (Mu.) orpan , (W.) warpne at one place; (Ph.) varpane together; arpā āyānā to assemble; (Tr.) wārsanē all at once or together ( Voc. 420).",concept 63_one
+Gondi,Go,1159,True,False,(Tr.) kan ( pl. kank) id.; (A.) kaṛ ( pl. kaṛk) id.,concept 26_eye
+Gondi,Go,1184,False,False,,sign 460
+Gondi,Go,1241,False,False,,sign 142;sign 877
+Gondi,Go,1325,True,False,(S.) kava churning stick ( Voc. 596).,sign 416
+Gondi,Go,1326,False,False,,sign 416
+Gondi,Go,1353,True,False,"(G.) karka bamboo sapling ( Voc. 541); (Ch. Mu.) karr. (Ph. S. Ko.) kar , (Ma.) kar̥(i) bamboo shoot ( Voc. 555).",sign 460
+Gondi,Go,1370,False,False,,sign 171
+Gondi,Go,1443,False,False,,concept 72_see
+Gondi,Go,1454,True,False,(Tr.) kāmē stalk of a spoon; (Mu.) kāme handle of ladle ( Voc. 640).,sign 142;sign 877
+Gondi,Go,1479,True,False,(many dialects) kāl id. ( Voc. 652).,concept 32_foot
+Gondi,Go,1493,False,False,,sign 171
+Gondi,Go,1651,False,False,,sign 798
+Gondi,Go,1655,True,False,"(Ko.) kuṛma hut, outhouse; (Ma.) kurma menstruation; (Grigson) kurma lon menstruation hut ( Voc. 782, 800); (SR.) guḍi , (Mu.) guḍḍi , (S. Ko.) guṛi temple; guḍḍī (Ph.) temple, (Tr.) tomb ( Voc. 1113).",sign 384;sign 585;sign 798
+Gondi,Go,1663,False,False,,sign 585
+Gondi,Go,1882,True,False,(S.) kūṛ- to join; (Mu.) gūḍ- to assemble ( Voc. 833); (M.) guṛnā to swarm ( Voc. 1160).,sign 630
+Gondi,Go,1883,True,False,"(Tr.) gūḍā bird's nest; (A. Ch. D. Mu. S.) gūḍa nest, (Mu. also) pigsty ( Voc. 1171); (Tr.) kūṭinj a stone-fall trap for birds ( Voc. 826); ? (W. Ph.) godā nest ( Voc. 1197).",sign 630
+Gondi,Go,1884,True,False,"(M) gūlā basket; gulla (S.) big basket, (Ko.) basket ( Voc. 1166).",sign 384
+Gondi,Go,1927,True,False,(S.) gun- to bend ( Voc. 1128).,sign 165
+Gondi,Go,1928,False,False,,sign 165
+Gondi,Go,2133,True,False,"(SR.) kollusānā to mend implements; (Ph.) kolstānā, kulsānā to forge; (Tr.) kōlstānā to repair (of ploughshares); (SR.) kolmi smithy ( Voc. 948).",sign 142
+Gondi,Go,2177,False,False,,sign 482
+Gondi,Go,2178,True,False,"(Tr.) koitur ( pl. kōītōṛk ) a Gond male; fem. kōītāṛ ; (Y. G.) koy , (SR. Ch.) koya Gond man; (Ko.) koytanḍ ( pl. koytaṛ ) Koya man ( Voc. 913).",sign 482
+Gondi,Go,2237,True,False,"(A.) kōla id.; kōlā (Tr.) a thin twig or stick, esp. for kindling a fire, (W. Ph.) stick, rod, a blade of grass, straw; (G. Mu. Ma. Ko.) kōla handle of plough, sickle, knife, etc. ( Voc. 988); (ASu.) kōlā stick, arrow, slate-pencil; (LuS.) kola the handle of an implement.",sign 142
+Gondi,Go,2304,False,False,,sign 335
+Gondi,Go,2306,False,False,,sign 335
+Gondi,Go,2456,False,False,,sign 240
+Gondi,Go,2457,False,False,,sign 240
+Gondi,Go,3035,True,False,(S.) taṭṭa basket of medium size ( Voc. 1647).,sign 877
+Gondi,Go,3039,False,False,,sign 877
+Gondi,Go,3054,False,False,,sign 104
+Gondi,Go,3103,True,False,"(A. Y. G. Mu.) talla ( pl. -ŋ) , (Tr.) talā ( pl. -hk) , (W.) talā , (S.) talla , (M. Ko.) tala id. ( Voc. 1688); (Tr.) tallā ( pl. tallāng) the part of the comb in which honey is stored; (Ma.) talla honeycomb ( Voc. 1689).",concept 39_head
+Gondi,Go,3158,False,False,,sign 104
+Gondi,Go,3213,False,False,,concept 54_moon
+Gondi,Go,3314,False,False,,sign 480
+Gondi,Go,3385,False,False,,sign 480
+Gondi,Go,3480,True,True,"(Tr.) tōṛhānā to sleep with, have intercourse with (only in marriage song); ( Voc. 1827); (Koya Su.) turs- to gather, collect.",sign 798
+Gondi,Go,3485,True,False,"(F-H.) ḍoḍi , (Grigson) ḍoḍī cow-pen ( Voc. 1609).",sign 350
+Gondi,Go,3536,True,False,"(Tr.) dohtānā to bind, tie, build a house, weave a fish-trap; (M.) tohtānā , (Ma.) toˀ -, doˀ -, doh- , (Ko.) toh- , (A. Y. Ch. G. Mu. S.) doh- to tie ( Voc. 1811).",sign 798
+Gondi,Go,3544,True,False,(Tr.) tōtā outer skin of the mahua fruit ( Voc. 1817); (Koya Su.) toṭṭe peel.,sign 798
+Gondi,Go,3546,False,False,,sign 350;sign 435
+Gondi,Go,3547,False,False,,sign 435
+Gondi,Go,3584,True,False,"(SR.) naḍum middle; (Tr. Ch. Ph.) naḍḍum id., among; (W.) naḍum among; (Mu.) naḍḍum middle; naḍum narka midnight; (Ma. S.) naḍum middle; (M.) naḍum id., between; (Ko.) naṛmita internal; naḍ narka midnight ( Voc. 1919); (M.) naṛimursūl waist (cf.
+4955 Ta. mutuku); mursulnaṛī loins; (ASu.) naṭpē middle ( adj. ); naḍḍī waist; naḍḍūm centre, middle.",sign 550
+Gondi,Go,3638,True,False,"(Tr. W. Ph. Mu. A. etc.) nār ( obl. nāṭ-, pl. nāhk ), (Ma.) nār̥ ( obl. nāṭ-, pl. nāẖku ) village ( Voc. 1964); (LuS.) nagoo id.",sign 550
+Gondi,Go,3849,False,False,,sign 297
+Gondi,Go,3852,True,False,"(A.) paṭṭ- to lie down; paṭṭānā (SR.) to rest, of cattle, (Tr.) sit, crouch (of men or animals), (buffaloes) to wallow; (Ph.) paṭṭānā, poṭṭānā , (W.) paṭṭīnā to lie down (of animals) ( Voc. 2087); (ASu.) pharāyīṅ west.",sign 297
+Gondi,Go,4097,False,False,,sign 877
+Gondi,Go,4100,False,False,,sign 877
+Gondi,Go,4661,False,False,,sign 831
+Gondi,Go,4663,False,False,,sign 416;sign 831
+Gondi,Go,4720,False,False,,concept 42_horn
+Gondi,Go,4742,False,False,,concept 55_mountain
+Gondi,Go,4802,True,False,"(Mu.) māh- to fit (shaft to arrowhead); (Ma.) māˀ - to fit into ( tr. ), fasten (button) ( Voc. 2815).",sign 416
+Gondi,Go,4876,True,False,"(Tr.) mīnkō the stars which a stunned, dazed, or liverish man sees; (W. Ph.) minko , (Mu. Ko.) miṛko firefly; (Mu.) miṛkom , (M.) miṛko , (L.) miḍkos star; (Ma.) minˀ konj(i) ( pl. minˀ kosku ) star, firefly ( Voc. 2842); (Tr.) miḍstānā , (W.) mirsālnā , (M.) miṛkānā , (Ph.) mirsīlnā, mirsīltānā to flash, of lightning; (SR.) miḍcānā to flash; (A.) miṛc- , (Ma.) miṛs- to lighten ( Voc. 2844); (ASu.) miṛc- to glitter; miṛcval lightning; (L.) mīḍsā, mīrcā id.; (LuS.) meershinta to glitter; meersheetatta lightning; (Mu.) mirŋgul , (Ma.) miṛŋgor̥ spark ( Voc. 2837); (ASu.) minṅūṛ id.",concept 80_star
+Gondi,Go,4885,True,False,(Tr. A. W. Ph. Mu. etc.) mīn ( Voc. 2852).,concept 30_fish
+Gondi,Go,4898,False,False,,sign 440
+Gondi,Go,4899,False,False,,sign 440
+Gondi,Go,5218,False,False,,sign 480
+Gondi,Go,5263,True,False,"(Pat.) rasāna , (M.) rāsānā , (Ko.) rās- , (L.) varasānā id.; (L.) varasaval writer, scribe; (Ph.) varsānā to puncture (with the point of a sickle) ( Voc. 3029, 3191).",sign 595;sign 845
+Gondi,Go,5266,False,False,,sign 595;sign 845
+Gondi,Go,5342,True,False,(M.) vārtānā to wither (Voc. 3229).,sign 480
+Gondi,Go,5359,False,False,,sign 845
+Gondi,Go,5449,False,False,,sign 171
+Gondi,Go,5450,True,False,"(Tr.) winjānā , (Ch.) vinj- to pull with a jerk ( Voc. 3240); (W. Ph.) vīskānā to drag, pull ( Voc. 3273).",sign 171
+Gondi,Go,5498,False,False,,sign 621
+Gondi,Go,5545,False,False,,sign 621
+Gondi,Go,5549,True,False,"(Tr.) wahtānā to give birth to (not of humans); (SR.) vāhānā , (ChD.) vāhtānā to bear (of animals) ( Voc. 3217).",sign 482
+Gondi,Go,5552,False,False,,sign 482
+Konda,Konḍa,237,False,False,,sign 831
+Konda,Konḍa,255,False,False,,sign 831
+Konda,Konḍa,399,False,False,,concept 51_man
+Konda,Konḍa,474,True,False,"riˀ -/ri- two; runḍi two ( fem. and neut. ); riˀ er two men; riˀ eṭ we two; riˀ ider you two; rineṇḍ two days; riyaŋa two sides; riza twice; ruṭkulaka at the rate of two, two each; (BB) iddum two tūm measures.",concept 91_two
+Konda,Konḍa,480,False,False,,concept 74_sit
+Konda,Konḍa,990,True,False,"oren, orenṟ-e one man; or-neṇḍ one day; orsu once; uRku uRku one each.",concept 63_one
+Konda,Konḍa,1159,True,False,kaṇ id.,concept 26_eye
+Konda,Konḍa,1184,True,False,kane a rope used to fasten cattle.,sign 460
+Konda,Konḍa,1241,False,False,,sign 142;sign 877
+Konda,Konḍa,1325,False,False,,sign 416
+Konda,Konḍa,1326,False,False,,sign 416
+Konda,Konḍa,1353,False,False,,sign 460
+Konda,Konḍa,1370,True,False,"gaṛa pole, long stick. For other possible items, see App.
+24",sign 171
+Konda,Konḍa,1443,False,False,,concept 72_see
+Konda,Konḍa,1454,False,False,,sign 142;sign 877
+Konda,Konḍa,1479,True,False,kāl id.,concept 32_foot
+Konda,Konḍa,1493,False,False,,sign 171
+Konda,Konḍa,1651,False,False,,sign 798
+Konda,Konḍa,1655,False,False,,sign 384;sign 585;sign 798
+Konda,Konḍa,1663,False,False,,sign 585
+Konda,Konḍa,1882,True,False,"kūṛ- (-it-) to join, meet, assemble, come together; kūṛp- to mix (cereals, etc.), join or put together, collect; kūṛaŋa together.",sign 630
+Konda,Konḍa,1883,True,False,gūṛu a fowl-shelter fixed on the top of a floor in a house.,sign 630
+Konda,Konḍa,1884,False,False,,sign 384
+Konda,Konḍa,1927,False,False,,sign 165
+Konda,Konḍa,1928,False,False,,sign 165
+Konda,Konḍa,2133,False,False,,sign 142
+Konda,Konḍa,2177,False,False,,sign 482
+Konda,Konḍa,2178,True,False,kūbi the || Dora (the speakers of this language).,sign 482
+Konda,Konḍa,2237,True,False,kōl big wooden pestle.,sign 142
+Konda,Konḍa,2304,False,False,,sign 335
+Konda,Konḍa,2306,True,False,saṭi cooking pot.,sign 335
+Konda,Konḍa,2456,False,False,,sign 240
+Konda,Konḍa,2457,False,False,,sign 240
+Konda,Konḍa,3035,False,False,,sign 877
+Konda,Konḍa,3039,False,False,,sign 877
+Konda,Konḍa,3054,False,False,,sign 104
+Konda,Konḍa,3103,True,False,tala head.,concept 39_head
+Konda,Konḍa,3158,True,False,"ḍāṭ- (-t-) to hop, jump, hop in dance, jump over, walk fast.",sign 104
+Konda,Konḍa,3213,False,False,,concept 54_moon
+Konda,Konḍa,3314,False,False,,sign 480
+Konda,Konḍa,3385,False,False,,sign 480
+Konda,Konḍa,3480,False,False,,sign 798
+Konda,Konḍa,3485,True,False,"ḍoḍi backyard of house (for plants, etc. to grow).",sign 350
+Konda,Konḍa,3536,True,False,"toR- (-t-) to tie, bind, build.",sign 798
+Konda,Konḍa,3544,False,False,,sign 798
+Konda,Konḍa,3546,False,False,,sign 350;sign 435
+Konda,Konḍa,3547,False,False,,sign 435
+Konda,Konḍa,3584,True,False,"naṛmu waist, middle. Cf.",sign 550
+Konda,Konḍa,3638,True,False,"nāṟu ( obl. nāṭ-, pl. nāRku ) id.; nāṭan villager.",sign 550
+Konda,Konḍa,3849,False,False,,sign 297
+Konda,Konḍa,3852,False,False,,sign 297
+Konda,Konḍa,4097,False,False,,sign 877
+Konda,Konḍa,4100,False,False,,sign 877
+Konda,Konḍa,4661,False,False,,sign 831
+Konda,Konḍa,4663,False,False,,sign 416;sign 831
+Konda,Konḍa,4720,False,False,,concept 42_horn
+Konda,Konḍa,4742,False,False,,concept 55_mountain
+Konda,Konḍa,4802,False,False,,sign 416
+Konda,Konḍa,4876,True,False,(BB) mirs- to lighten.,concept 80_star
+Konda,Konḍa,4885,True,False,(BB) mīn ( pl. mīnga).,concept 30_fish
+Konda,Konḍa,4898,False,False,,sign 440
+Konda,Konḍa,4899,False,False,,sign 440
+Konda,Konḍa,5218,False,False,,sign 480
+Konda,Konḍa,5263,True,False,rās- (-t-) to write.,sign 595;sign 845
+Konda,Konḍa,5266,False,False,,sign 595;sign 845
+Konda,Konḍa,5342,True,False,vāṟ- (-it-) to fade or wither (as flowers in the sun).,sign 480
+Konda,Konḍa,5359,False,False,,sign 845
+Konda,Konḍa,5449,False,False,,sign 171
+Konda,Konḍa,5450,True,False,"visir (-t-) to throw off or away, fling; (BB) vīvani a fan.",sign 171
+Konda,Konḍa,5498,True,False,veli outside. ?,sign 621
+Konda,Konḍa,5545,False,False,,sign 621
+Konda,Konḍa,5549,False,False,,sign 482
+Konda,Konḍa,5552,False,False,,sign 482
+Pengo,Pe,237,False,False,,sign 831
+Pengo,Pe,255,False,False,,sign 831
+Pengo,Pe,399,False,False,,concept 51_man
+Pengo,Pe,474,True,False,ri two; rikar two men; rinḍek two women; rinḍaŋ two (neut.).,concept 91_two
+Pengo,Pe,480,False,False,,concept 74_sit
+Pengo,Pe,990,True,False,"ro, ronje one; rokan one man; ronjel one woman; roki lōk one person; roce at one time; robe at one place.",concept 63_one
+Pengo,Pe,1159,True,False,"kaṇga ( pl. -ŋ, kaṇku) id.",concept 26_eye
+Pengo,Pe,1184,False,False,,sign 460
+Pengo,Pe,1241,False,False,,sign 142;sign 877
+Pengo,Pe,1325,False,False,,sign 416
+Pengo,Pe,1326,False,False,,sign 416
+Pengo,Pe,1353,False,False,,sign 460
+Pengo,Pe,1370,False,False,,sign 171
+Pengo,Pe,1443,False,False,,concept 72_see
+Pengo,Pe,1454,False,False,,sign 142;sign 877
+Pengo,Pe,1479,True,False,kāl id.,concept 32_foot
+Pengo,Pe,1493,False,False,,sign 171
+Pengo,Pe,1651,False,False,,sign 798
+Pengo,Pe,1655,False,False,,sign 384;sign 585;sign 798
+Pengo,Pe,1663,False,False,,sign 585
+Pengo,Pe,1882,True,False,kūṛā- (kūṛa ā-) to assemble.,sign 630
+Pengo,Pe,1883,True,False,guḍa nest.,sign 630
+Pengo,Pe,1884,False,False,,sign 384
+Pengo,Pe,1927,False,False,,sign 165
+Pengo,Pe,1928,False,False,,sign 165
+Pengo,Pe,2133,False,False,,sign 142
+Pengo,Pe,2177,False,False,,sign 482
+Pengo,Pe,2178,False,False,,sign 482
+Pengo,Pe,2237,True,False,kōl pestle.,sign 142
+Pengo,Pe,2304,False,False,,sign 335
+Pengo,Pe,2306,False,False,,sign 335
+Pengo,Pe,2456,False,False,,sign 240
+Pengo,Pe,2457,False,False,,sign 240
+Pengo,Pe,3035,False,False,,sign 877
+Pengo,Pe,3039,False,False,,sign 877
+Pengo,Pe,3054,False,False,,sign 104
+Pengo,Pe,3103,True,False,pūki kapṛa honeycomb ( kapṛa head).,concept 39_head
+Pengo,Pe,3158,False,False,,sign 104
+Pengo,Pe,3213,False,False,,concept 54_moon
+Pengo,Pe,3314,False,False,,sign 480
+Pengo,Pe,3385,False,False,,sign 480
+Pengo,Pe,3480,False,False,,sign 798
+Pengo,Pe,3485,False,False,,sign 350
+Pengo,Pe,3536,False,False,,sign 798
+Pengo,Pe,3544,False,False,,sign 798
+Pengo,Pe,3546,False,False,,sign 350;sign 435
+Pengo,Pe,3547,False,False,,sign 435
+Pengo,Pe,3584,False,False,,sign 550
+Pengo,Pe,3638,True,False,"nāz/nās ( obl. nāṭ-, pl. nāsku ) village; nāṭakan villager.",sign 550
+Pengo,Pe,3849,False,False,,sign 297
+Pengo,Pe,3852,True,False,"paz- (past-) to be caught (bird or animal, in snare).",sign 297
+Pengo,Pe,4097,False,False,,sign 877
+Pengo,Pe,4100,False,False,,sign 877
+Pengo,Pe,4661,False,False,,sign 831
+Pengo,Pe,4663,False,False,,sign 416;sign 831
+Pengo,Pe,4720,False,False,,concept 42_horn
+Pengo,Pe,4742,False,False,,concept 55_mountain
+Pengo,Pe,4802,False,False,,sign 416
+Pengo,Pe,4876,False,False,,concept 80_star
+Pengo,Pe,4885,True,False,min ( pl. -ku).,concept 30_fish
+Pengo,Pe,4898,False,False,,sign 440
+Pengo,Pe,4899,False,False,,sign 440
+Pengo,Pe,5218,False,False,,sign 480
+Pengo,Pe,5263,False,False,,sign 595;sign 845
+Pengo,Pe,5266,False,False,,sign 595;sign 845
+Pengo,Pe,5342,False,False,,sign 480
+Pengo,Pe,5359,False,False,,sign 845
+Pengo,Pe,5449,False,False,,sign 171
+Pengo,Pe,5450,False,False,,sign 171
+Pengo,Pe,5498,False,False,,sign 621
+Pengo,Pe,5545,False,False,,sign 621
+Pengo,Pe,5549,False,False,,sign 482
+Pengo,Pe,5552,False,False,,sign 482
+Manda,Manḍ,237,False,False,,sign 831
+Manda,Manḍ,255,False,False,,sign 831
+Manda,Manḍ,399,False,False,,concept 51_man
+Manda,Manḍ,474,True,False,ri two; rikar two men; rikehiŋ two women.,concept 91_two
+Manda,Manḍ,480,False,False,,concept 74_sit
+Manda,Manḍ,990,True,False,"ru, runḍi one; rukan one man; runḍel one woman.",concept 63_one
+Manda,Manḍ,1159,True,False,kan ( pl. -ke) id.,concept 26_eye
+Manda,Manḍ,1184,False,False,,sign 460
+Manda,Manḍ,1241,False,False,,sign 142;sign 877
+Manda,Manḍ,1325,False,False,,sign 416
+Manda,Manḍ,1326,False,False,,sign 416
+Manda,Manḍ,1353,False,False,,sign 460
+Manda,Manḍ,1370,False,False,,sign 171
+Manda,Manḍ,1443,False,False,,concept 72_see
+Manda,Manḍ,1454,False,False,,sign 142;sign 877
+Manda,Manḍ,1479,True,False,kāl id.,concept 32_foot
+Manda,Manḍ,1493,False,False,,sign 171
+Manda,Manḍ,1651,False,False,,sign 798
+Manda,Manḍ,1655,False,False,,sign 384;sign 585;sign 798
+Manda,Manḍ,1663,False,False,,sign 585
+Manda,Manḍ,1882,False,False,,sign 630
+Manda,Manḍ,1883,False,False,,sign 630
+Manda,Manḍ,1884,False,False,,sign 384
+Manda,Manḍ,1927,False,False,,sign 165
+Manda,Manḍ,1928,False,False,,sign 165
+Manda,Manḍ,2133,False,False,,sign 142
+Manda,Manḍ,2177,False,False,,sign 482
+Manda,Manḍ,2178,False,False,,sign 482
+Manda,Manḍ,2237,True,False,kūl id.,sign 142
+Manda,Manḍ,2304,False,False,,sign 335
+Manda,Manḍ,2306,False,False,,sign 335
+Manda,Manḍ,2456,True,False,"hē-, jē- to descend; caus. hēpa-, jēpa- ; (for Manḍ. and its relationship with Kui in this entry, see Burrow 1976, pp. 40-1).",sign 240
+Manda,Manḍ,2457,False,False,,sign 240
+Manda,Manḍ,3035,False,False,,sign 877
+Manda,Manḍ,3039,False,False,,sign 877
+Manda,Manḍ,3054,False,False,,sign 104
+Manda,Manḍ,3103,False,False,,concept 39_head
+Manda,Manḍ,3158,False,False,,sign 104
+Manda,Manḍ,3213,False,False,,concept 54_moon
+Manda,Manḍ,3314,False,False,,sign 480
+Manda,Manḍ,3385,False,False,,sign 480
+Manda,Manḍ,3480,False,False,,sign 798
+Manda,Manḍ,3485,False,False,,sign 350
+Manda,Manḍ,3536,False,False,,sign 798
+Manda,Manḍ,3544,False,False,,sign 798
+Manda,Manḍ,3546,False,False,,sign 350;sign 435
+Manda,Manḍ,3547,False,False,,sign 435
+Manda,Manḍ,3584,False,False,,sign 550
+Manda,Manḍ,3638,True,False,nāy ( obl. nāṭ- ) village.,sign 550
+Manda,Manḍ,3849,False,False,,sign 297
+Manda,Manḍ,3852,False,False,,sign 297
+Manda,Manḍ,4097,False,False,,sign 877
+Manda,Manḍ,4100,False,False,,sign 877
+Manda,Manḍ,4661,False,False,,sign 831
+Manda,Manḍ,4663,False,False,,sign 416;sign 831
+Manda,Manḍ,4720,False,False,,concept 42_horn
+Manda,Manḍ,4742,False,False,,concept 55_mountain
+Manda,Manḍ,4802,False,False,,sign 416
+Manda,Manḍ,4876,False,False,,concept 80_star
+Manda,Manḍ,4885,True,False,min ( pl. -ke).,concept 30_fish
+Manda,Manḍ,4898,False,False,,sign 440
+Manda,Manḍ,4899,False,False,,sign 440
+Manda,Manḍ,5218,False,False,,sign 480
+Manda,Manḍ,5263,False,False,,sign 595;sign 845
+Manda,Manḍ,5266,False,False,,sign 595;sign 845
+Manda,Manḍ,5342,False,False,,sign 480
+Manda,Manḍ,5359,False,False,,sign 845
+Manda,Manḍ,5449,False,False,,sign 171
+Manda,Manḍ,5450,False,False,,sign 171
+Manda,Manḍ,5498,False,False,,sign 621
+Manda,Manḍ,5545,False,False,,sign 621
+Manda,Manḍ,5549,False,False,,sign 482
+Manda,Manḍ,5552,False,False,,sign 482
+Kui,Kui,237,False,False,,sign 831
+Kui,Kui,255,True,False,algu rice obtained from paddy without boiling it.,sign 831
+Kui,Kui,399,False,False,,concept 51_man
+Kui,Kui,474,True,False,"rī two (adj. preceding n.); rīaru two men; rīnḍe, rīnḍi two women or things (adj. following n.); rīhe twice; riko on two sides; (K.) ri two ( adj. ); ri'er, ri'ari two men; rinḍi two ( fem., nt. ); ri kōṛi forty.",concept 91_two
+Kui,Kui,480,True,False,"rīnda (rīndi-) to be stable, steady, stand firm, stand still; pl. action rītka (rītki-); rīspa (rīst-) to steady, set in position.",concept 74_sit
+Kui,Kui,990,True,False,"ro one (adj. preceding n.); roanju , (K.) ro'onji one man; ronḍe , (K.) ronḍi one woman or thing (adj. following n.); rohe together, together with, jointly; roko on one side.",concept 63_one
+Kui,Kui,1159,True,False,"kanu ( pl. kan-ga) , (K.) kanu ( pl. kaṛka) id.",concept 26_eye
+Kui,Kui,1184,False,False,,sign 460
+Kui,Kui,1241,False,False,,sign 142;sign 877
+Kui,Kui,1325,False,False,,sign 416
+Kui,Kui,1326,False,False,,sign 416
+Kui,Kui,1353,False,False,,sign 460
+Kui,Kui,1370,False,False,,sign 171
+Kui,Kui,1443,False,False,,concept 72_see
+Kui,Kui,1454,False,False,,sign 142;sign 877
+Kui,Kui,1479,True,False,"kāḍu leg, foot.",concept 32_foot
+Kui,Kui,1493,False,False,,sign 171
+Kui,Kui,1651,False,False,,sign 798
+Kui,Kui,1655,True,False,"guḍi central room of house, living room.",sign 384;sign 585;sign 798
+Kui,Kui,1663,False,False,,sign 585
+Kui,Kui,1882,False,False,,sign 630
+Kui,Kui,1883,True,False,"kīṛenji cage, cage-trap.",sign 630
+Kui,Kui,1884,False,False,,sign 384
+Kui,Kui,1927,False,False,,sign 165
+Kui,Kui,1928,False,False,,sign 165
+Kui,Kui,2133,False,False,,sign 142
+Kui,Kui,2177,False,False,,sign 482
+Kui,Kui,2178,True,False,"kūi the Kond tribe or language; kūenju a Kond man or boy; fem. kūali; kui above, aloft, over; atop, upon; kuiki to the place above; kuiṭi from the place above.",sign 482
+Kui,Kui,2237,True,False,kōḍu ( pl. kōṭka) id.,sign 142
+Kui,Kui,2304,False,False,,sign 335
+Kui,Kui,2306,False,False,,sign 335
+Kui,Kui,2456,True,False,jāpa (jāt-) to descend; n. descent; jāppa (jāpt-) to cause to descend.,sign 240
+Kui,Kui,2457,True,True,"sānja (sānji-) to be proper, good, right, beautiful, bright; n. goodness, beauty; adv. beautifully; pl. action sāska (sāski-).",sign 240
+Kui,Kui,3035,False,False,,sign 877
+Kui,Kui,3039,False,False,,sign 877
+Kui,Kui,3054,False,False,,sign 104
+Kui,Kui,3103,True,False,"tlau ( pl. tlāka) head, hair of head; tlāmberi , (K.) tlameri hair of head (cf. 4707).",concept 39_head
+Kui,Kui,3158,False,False,,sign 104
+Kui,Kui,3213,True,False,(Friend-Pereira) tingal danju crescent moon.,concept 54_moon
+Kui,Kui,3314,False,False,,sign 480
+Kui,Kui,3385,False,False,,sign 480
+Kui,Kui,3480,False,False,,sign 798
+Kui,Kui,3485,False,False,,sign 350
+Kui,Kui,3536,True,False,"tohpa ( toht- ) to tie, bind, fasten; n. act of tying, binding.",sign 798
+Kui,Kui,3544,False,False,,sign 798
+Kui,Kui,3546,False,False,,sign 350;sign 435
+Kui,Kui,3547,False,False,,sign 435
+Kui,Kui,3584,False,False,,sign 550
+Kui,Kui,3638,True,False,"nāju ( pl. nāska ) village, town, hamlet; nāṭo village as contrasted with the fields or forest, home; nāṭoki towards home, to the village; nḍo at, in, at the place of, in the country of.",sign 550
+Kui,Kui,3849,False,False,,sign 297
+Kui,Kui,3852,False,False,,sign 297
+Kui,Kui,4097,False,False,,sign 877
+Kui,Kui,4100,False,False,,sign 877
+Kui,Kui,4661,False,False,,sign 831
+Kui,Kui,4663,False,False,,sign 416;sign 831
+Kui,Kui,4720,False,False,,concept 42_horn
+Kui,Kui,4742,False,False,,concept 55_mountain
+Kui,Kui,4802,True,False,"māṭpa (māṭt-), māṛpa (māṛt-) to prepare a load, bind up a load for carrying.",sign 416
+Kui,Kui,4876,False,False,,concept 80_star
+Kui,Kui,4885,True,False,mīnu ( pl. mīnga).,concept 30_fish
+Kui,Kui,4898,True,False,mudgu corner.,sign 440
+Kui,Kui,4899,False,False,,sign 440
+Kui,Kui,5218,False,False,,sign 480
+Kui,Kui,5263,True,False,"vrīsa (vrīsi-) to make an incision, furrow or mark, scratch, write, plough, cut up flesh; n. writing; pl. action vrīska (vrīski-).",sign 595;sign 845
+Kui,Kui,5266,False,False,,sign 595;sign 845
+Kui,Kui,5342,False,False,,sign 480
+Kui,Kui,5359,False,False,,sign 845
+Kui,Kui,5449,False,False,,sign 171
+Kui,Kui,5450,True,False,"vīnja (vīnji-) to blow, fan; pl. action vīska (vīski-); vīka (vīki-) to blow a wind instrument; vīva (vīt-) to shoot, throw, cast, fling, pelt; n. act of shooting, throwing; pl. action vīpka (vīpki-); viska swift, quick. ?",sign 171
+Kui,Kui,5498,True,True,"venḍa (venḍi-) to go forward, start forth, go forth; pl. action veṭka (veṭki-).",sign 621
+Kui,Kui,5545,False,False,,sign 621
+Kui,Kui,5549,False,False,,sign 482
+Kui,Kui,5552,True,False,"vaspa (vast-) to sharpen; n. act of sharpening; vau ( pl. vanga) edge, cutting edge or end.",sign 482
+Kuwi,Kuwi,237,False,False,,sign 831
+Kuwi,Kuwi,255,False,False,,sign 831
+Kuwi,Kuwi,399,False,False,,concept 51_man
+Kuwi,Kuwi,474,True,False,"(F.) rī two; rīari two men; rindi two women or things; (S.) ri two; riari two men; rindi two women or things; (Isr.) rī two; ri'ari two men; riṇḍi two ( fem., neut. ); ri'ni two days.",concept 91_two
+Kuwi,Kuwi,480,True,False,(S.) re'nai to abide.,concept 74_sit
+Kuwi,Kuwi,990,True,False,"(F.) rondi, rō one; rō'osi one man; rondi'e one woman; (S.) ro one; roosi one man; rondi one woman or thing; (Su. P.) ro one; (Su.) ro'esi one man; (Isr.) roṇḍi one ( non-masc. ); (F.) rōhe'e together, all at once.",concept 63_one
+Kuwi,Kuwi,1159,True,False,"(F.) kannū ( pl. karňka) , (S.) kannu ( pl. kanka) , (Su. P. Isr.) kanu ( pl. kaṇka) id.",concept 26_eye
+Kuwi,Kuwi,1184,False,False,,sign 460
+Kuwi,Kuwi,1241,False,False,,sign 142;sign 877
+Kuwi,Kuwi,1325,False,False,,sign 416
+Kuwi,Kuwi,1326,False,False,,sign 416
+Kuwi,Kuwi,1353,False,False,,sign 460
+Kuwi,Kuwi,1370,False,False,,sign 171
+Kuwi,Kuwi,1443,False,False,,concept 72_see
+Kuwi,Kuwi,1454,True,False,"(F.) kamba , (S.) kāmba handle.",sign 142;sign 877
+Kuwi,Kuwi,1479,True,False,(P.) kāl ( pl. -ka) leg. ?,concept 32_foot
+Kuwi,Kuwi,1493,False,False,,sign 171
+Kuwi,Kuwi,1651,True,False,"(Su.) ḍōka , (S.) ḍoka , (F.) dōkka pot (Te. kuḍaka > *kḍōka > ḍōka ).",sign 798
+Kuwi,Kuwi,1655,False,False,,sign 384;sign 585;sign 798
+Kuwi,Kuwi,1663,True,False,"(F.) gūṛgū , (S.) gudugu , (Su. P.) guṛgu umbrella   ( lex. ) utkūṭa - umbrella, parasol.",sign 585
+Kuwi,Kuwi,1882,True,False,(Su.) kūṛ- id.; (Isr.) kūṛa ā- to gather together ( intr. ); kūṛi ki- to collect ( tr. ); (S.) kūḍi kīnai to gather; kūṛcinai to collect.,sign 630
+Kuwi,Kuwi,1883,True,False,"(F.) kūda cage (made of bamboo); kūḍa (Ṭ.) hen-coop, pig-sty; (Isr.) cage.",sign 630
+Kuwi,Kuwi,1884,False,False,,sign 384
+Kuwi,Kuwi,1927,True,False,(Su.) gu'u hump of cow.,sign 165
+Kuwi,Kuwi,1928,True,False,(Isr.) gūna a large pot.,sign 165
+Kuwi,Kuwi,2133,True,False,(F.) kolhali to forge.,sign 142
+Kuwi,Kuwi,2177,False,False,,sign 482
+Kuwi,Kuwi,2178,True,False,"(F.) kūviŋa the Paṛja Khonds; (S.) kui up, above, west; kūita in the west.",sign 482
+Kuwi,Kuwi,2237,True,False,"(F.) kōlū ( pl. kōlka) , (S. Su.) kōlu ( pl. kōlka) id.",sign 142
+Kuwi,Kuwi,2304,False,False,,sign 335
+Kuwi,Kuwi,2306,False,False,,sign 335
+Kuwi,Kuwi,2456,False,False,,sign 240
+Kuwi,Kuwi,2457,False,False,,sign 240
+Kuwi,Kuwi,3035,False,False,,sign 877
+Kuwi,Kuwi,3039,False,False,,sign 877
+Kuwi,Kuwi,3054,False,False,,sign 104
+Kuwi,Kuwi,3103,True,False,"(F.) thṛāyū, (S.) trāyu , (Su. P. Isr.) trāyu ( pl. trāka) head; (Ḍ.) tala hair.",concept 39_head
+Kuwi,Kuwi,3158,False,False,,sign 104
+Kuwi,Kuwi,3213,False,False,,concept 54_moon
+Kuwi,Kuwi,3314,False,False,,sign 480
+Kuwi,Kuwi,3385,False,False,,sign 480
+Kuwi,Kuwi,3480,False,False,,sign 798
+Kuwi,Kuwi,3485,True,False,"(Isr.) ḍoḍi backyard of house, used for kitchen garden.",sign 350
+Kuwi,Kuwi,3536,True,False,"(F.) dōssali , (S.) dō˘h'nai to bind, tie; (Isr.) doh- (-t-) to tie, build.",sign 798
+Kuwi,Kuwi,3544,False,False,,sign 798
+Kuwi,Kuwi,3546,False,False,,sign 350;sign 435
+Kuwi,Kuwi,3547,False,False,,sign 435
+Kuwi,Kuwi,3584,False,False,,sign 550
+Kuwi,Kuwi,3638,True,False,"(F.) naiyū ( pl. nāska ), (S.) nāyu , (Su. Isr.) nāyu ( pl. nāska ) village.",sign 550
+Kuwi,Kuwi,3849,False,False,,sign 297
+Kuwi,Kuwi,3852,False,False,,sign 297
+Kuwi,Kuwi,4097,False,False,,sign 877
+Kuwi,Kuwi,4100,False,False,,sign 877
+Kuwi,Kuwi,4661,False,False,,sign 831
+Kuwi,Kuwi,4663,False,False,,sign 416;sign 831
+Kuwi,Kuwi,4720,False,False,,concept 42_horn
+Kuwi,Kuwi,4742,False,False,,concept 55_mountain
+Kuwi,Kuwi,4802,True,False,"(S.) dakki māth'nai foundation; (Isr.) māṭ- (-h-) to begin; māṭpi ā- to arrange, plan.",sign 416
+Kuwi,Kuwi,4876,True,False,"(Su.) mṇih- (mṇist-), miṇs- to lighten; (Isr.) mṇīh- (mṇīst-) id., glitter; mṇispu lightening; (S.) mirsi mannai to scintillate; mrih'nai to sparkle; (Mah.) miṇig- to shine.",concept 80_star
+Kuwi,Kuwi,4885,True,False,"(F.) mīnu ( pl. mrīka) , (S.) mīnu ( pl mīnka) , (Su. P.) mīnu ( pl. mnīka) , (Isr.) mīnu/mṇīnu ( pl. mṇīka).",concept 30_fish
+Kuwi,Kuwi,4898,False,False,,sign 440
+Kuwi,Kuwi,4899,False,False,,sign 440
+Kuwi,Kuwi,5218,False,False,,sign 480
+Kuwi,Kuwi,5263,True,False,"(S.) rācinai to write, paint, record; rāskinai to limn ( pl. action of rāc- ); (Isr.) rāc- (-it-) to write; ? (S.) brīnai to draw.",sign 595;sign 845
+Kuwi,Kuwi,5266,False,False,,sign 595;sign 845
+Kuwi,Kuwi,5342,True,False,"vāy- (-it-) (Su.) to dry up, (flowers) to fade, (Isr.) to become dry, wither, (F.) vwārali to wither.",sign 480
+Kuwi,Kuwi,5359,False,False,,sign 845
+Kuwi,Kuwi,5449,False,False,,sign 171
+Kuwi,Kuwi,5450,False,False,,sign 171
+Kuwi,Kuwi,5498,True,False,(S.) velli kīnai to excommunicate.,sign 621
+Kuwi,Kuwi,5545,False,False,,sign 621
+Kuwi,Kuwi,5549,False,False,,sign 482
+Kuwi,Kuwi,5552,True,False,(F.) vwahini sharp; (Su.) vah- (vast-) to sharpen; (S.) wah'nai to nib; vaspine is sharp; (Isr.) vah- (vast-) to be sharp; vaspi ki- to sharpen.,sign 482
+Kurukh,Kur,237,False,False,,sign 831
+Kurukh,Kur,255,True,False,"alkhṛā parched rice (H. cyūṛā ; the paddy is first steeped in tepid water, then parched, finally unhusked by means of a wooden pedal and winnowed).",sign 831
+Kurukh,Kur,399,True,False,"āl adult male, husband, servant, mankind; ālas an adult male person, husband, friend, servant, soldier.",concept 51_man
+Kurukh,Kur,474,True,False,"irb two persons; (Hahn) irbar, irbarim both; ē̃ṛ, ēṇḍ two things.",concept 91_two
+Kurukh,Kur,480,False,False,,concept 74_sit
+Kurukh,Kur,990,True,False,"orᵒt one man or woman; otᵒx, fem. utxī alone, lonely; orāsari equal, at the same time; ormā all; hormā, fem. hurmī id.; (Hahn) hormar , (Bleses) ormar id. (masc. pl.).",concept 63_one
+Kurukh,Kur,1159,True,False,"xann eye, eye of tuber; xannērnā (of newly born babies or animals) to begin to see, have the use of one's eyesight (for ērnā , see 903).",concept 26_eye
+Kurukh,Kur,1184,False,False,,sign 460
+Kurukh,Kur,1241,False,False,,sign 142;sign 877
+Kurukh,Kur,1325,False,False,,sign 416
+Kurukh,Kur,1326,False,False,,sign 416
+Kurukh,Kur,1353,True,False,"xarrā seedling bamboo, bamboo sapling.",sign 460
+Kurukh,Kur,1370,False,False,,sign 171
+Kurukh,Kur,1443,True,False,"xannā to be pleasant to the eye, be of good effect, suit well.",concept 72_see
+Kurukh,Kur,1454,False,False,,sign 142;sign 877
+Kurukh,Kur,1479,False,False,,concept 32_foot
+Kurukh,Kur,1493,False,False,,sign 171
+Kurukh,Kur,1651,False,False,,sign 798
+Kurukh,Kur,1655,False,False,,sign 384;sign 585;sign 798
+Kurukh,Kur,1663,False,False,,sign 585
+Kurukh,Kur,1882,True,False,"xōṇḍnā to bring together, collect into one place, gather, wrinkle (e.g. the nose), multiply in imagination; xōṇḍrnā to meet or come together, be brought into the company of.",sign 630
+Kurukh,Kur,1883,False,False,,sign 630
+Kurukh,Kur,1884,False,False,,sign 384
+Kurukh,Kur,1927,False,False,,sign 165
+Kurukh,Kur,1928,False,False,,sign 165
+Kurukh,Kur,2133,False,False,,sign 142
+Kurukh,Kur,2177,True,True,"kōhā great, big, haughty, important, eminent in rank, etc.; kōhar elders, grandees, chiefs; (Hahn) koghā great one, elder relative; koghar elders.",sign 482
+Kurukh,Kur,2178,False,False,,sign 482
+Kurukh,Kur,2237,False,False,,sign 142
+Kurukh,Kur,2304,False,False,,sign 335
+Kurukh,Kur,2306,False,False,,sign 335
+Kurukh,Kur,2456,False,False,,sign 240
+Kurukh,Kur,2457,False,False,,sign 240
+Kurukh,Kur,3035,False,False,,sign 877
+Kurukh,Kur,3039,True,False,"taṛnā (taṛcas) to flog, lash, whip.",sign 877
+Kurukh,Kur,3054,False,False,,sign 104
+Kurukh,Kur,3103,False,False,,concept 39_head
+Kurukh,Kur,3158,False,False,,sign 104
+Kurukh,Kur,3213,False,False,,concept 54_moon
+Kurukh,Kur,3314,False,False,,sign 480
+Kurukh,Kur,3385,False,False,,sign 480
+Kurukh,Kur,3480,True,False,toṛsᵒgnā (tuṛsgyas) to touch slightly with the foot.,sign 798
+Kurukh,Kur,3485,False,False,,sign 350
+Kurukh,Kur,3536,False,False,,sign 798
+Kurukh,Kur,3544,False,False,,sign 798
+Kurukh,Kur,3546,False,False,,sign 350;sign 435
+Kurukh,Kur,3547,True,False,ṭō̃ṛnā to hook in; ṭõṛō̃ a pole with an iron hook or branch curved down at one extremity; tūṛsī a variety of the native rake or ṭõṛō̃ ; (Bleses) ṭōṛō a long stick with an iron hook.,sign 435
+Kurukh,Kur,3584,False,False,,sign 550
+Kurukh,Kur,3638,False,False,,sign 550
+Kurukh,Kur,3849,False,False,,sign 297
+Kurukh,Kur,3852,False,False,,sign 297
+Kurukh,Kur,4097,False,False,,sign 877
+Kurukh,Kur,4100,False,False,,sign 877
+Kurukh,Kur,4661,False,False,,sign 831
+Kurukh,Kur,4663,False,False,,sign 416;sign 831
+Kurukh,Kur,4720,True,False,"marᵃg horn, antler.",concept 42_horn
+Kurukh,Kur,4742,False,False,,concept 55_mountain
+Kurukh,Kur,4802,False,False,,sign 416
+Kurukh,Kur,4876,True,False,bīnkō star; bincō firefly.,concept 80_star
+Kurukh,Kur,4885,False,False,,concept 30_fish
+Kurukh,Kur,4898,True,False,"mūxā edge, brink, margin.",sign 440
+Kurukh,Kur,4899,False,False,,sign 440
+Kurukh,Kur,5218,False,False,,sign 480
+Kurukh,Kur,5263,False,False,,sign 595;sign 845
+Kurukh,Kur,5266,False,False,,sign 595;sign 845
+Kurukh,Kur,5342,False,False,,sign 480
+Kurukh,Kur,5359,False,False,,sign 845
+Kurukh,Kur,5449,False,False,,sign 171
+Kurukh,Kur,5450,True,True,"bīxrnā to make the gesture of commencing a certain action, being at the same time within convenient distance for performing it, take one's aim for. ?",sign 171
+Kurukh,Kur,5498,False,False,,sign 621
+Kurukh,Kur,5545,True,False,"bēlas king, zemindar, god; belxā kingdom; belō , (Hahn) bēlō queen of white-ants.",sign 621
+Kurukh,Kur,5549,True,False,"uinā (uyyas) to put down; retain, keep back.",sign 482
+Kurukh,Kur,5552,False,False,,sign 482
+Malto,Malt,237,False,False,,sign 831
+Malto,Malt,255,False,False,,sign 831
+Malto,Malt,399,True,False,ál-urqe to grow up to maturity.,concept 51_man
+Malto,Malt,474,True,False,iwr two persons; -is two (things); iwresti two by two (persons); -isti two by two (things).,concept 91_two
+Malto,Malt,480,False,False,,concept 74_sit
+Malto,Malt,990,True,False,"ort one ( adj. , of persons); orte one man; orti one woman; ortge alone; ortononti one by one (persons); orme all.",concept 63_one
+Malto,Malt,1159,True,False,qanu eye.,concept 26_eye
+Malto,Malt,1184,False,False,,sign 460
+Malto,Malt,1241,False,False,,sign 142;sign 877
+Malto,Malt,1325,True,False,"kapli a pair of branches, horns or antlers.",sign 416
+Malto,Malt,1326,False,False,,sign 416
+Malto,Malt,1353,False,False,,sign 460
+Malto,Malt,1370,False,False,,sign 171
+Malto,Malt,1443,False,False,,concept 72_see
+Malto,Malt,1454,False,False,,sign 142;sign 877
+Malto,Malt,1479,False,False,,concept 32_foot
+Malto,Malt,1493,False,False,,sign 171
+Malto,Malt,1651,False,False,,sign 798
+Malto,Malt,1655,False,False,,sign 384;sign 585;sign 798
+Malto,Malt,1663,False,False,,sign 585
+Malto,Malt,1882,False,False,,sign 630
+Malto,Malt,1883,True,False,kúṭgle the hoop or spring of a kind of mouse-trap.,sign 630
+Malto,Malt,1884,False,False,,sign 384
+Malto,Malt,1927,False,False,,sign 165
+Malto,Malt,1928,False,False,,sign 165
+Malto,Malt,2133,False,False,,sign 142
+Malto,Malt,2177,False,False,,sign 482
+Malto,Malt,2178,False,False,,sign 482
+Malto,Malt,2237,False,False,,sign 142
+Malto,Malt,2304,False,False,,sign 335
+Malto,Malt,2306,False,False,,sign 335
+Malto,Malt,2456,False,False,,sign 240
+Malto,Malt,2457,False,False,,sign 240
+Malto,Malt,3035,False,False,,sign 877
+Malto,Malt,3039,True,False,taṛce to slap.,sign 877
+Malto,Malt,3054,False,False,,sign 104
+Malto,Malt,3103,True,False,"tali hair of head. For the combination of meanings 'head' and 'honeycomb', cf.",concept 39_head
+Malto,Malt,3158,False,False,,sign 104
+Malto,Malt,3213,False,False,,concept 54_moon
+Malto,Malt,3314,True,False,"tota point, poited.",sign 480
+Malto,Malt,3385,False,False,,sign 480
+Malto,Malt,3480,True,False,tóṛe to string the bow.,sign 798
+Malto,Malt,3485,False,False,,sign 350
+Malto,Malt,3536,False,False,,sign 798
+Malto,Malt,3544,False,False,,sign 798
+Malto,Malt,3546,False,False,,sign 350;sign 435
+Malto,Malt,3547,False,False,,sign 435
+Malto,Malt,3584,False,False,,sign 550
+Malto,Malt,3638,False,False,,sign 550
+Malto,Malt,3849,False,False,,sign 297
+Malto,Malt,3852,False,False,,sign 297
+Malto,Malt,4097,False,False,,sign 877
+Malto,Malt,4100,False,False,,sign 877
+Malto,Malt,4661,False,False,,sign 831
+Malto,Malt,4663,False,False,,sign 416;sign 831
+Malto,Malt,4720,True,False,margu horns; margo male deer.,concept 42_horn
+Malto,Malt,4742,False,False,,concept 55_mountain
+Malto,Malt,4802,False,False,,sign 416
+Malto,Malt,4876,True,False,bínḍke star.,concept 80_star
+Malto,Malt,4885,True,False,mínu .,concept 30_fish
+Malto,Malt,4898,False,False,,sign 440
+Malto,Malt,4899,False,False,,sign 440
+Malto,Malt,5218,False,False,,sign 480
+Malto,Malt,5263,False,False,,sign 595;sign 845
+Malto,Malt,5266,False,False,,sign 595;sign 845
+Malto,Malt,5342,False,False,,sign 480
+Malto,Malt,5359,False,False,,sign 845
+Malto,Malt,5449,False,False,,sign 171
+Malto,Malt,5450,True,True,béṉg̣re to lift the arm preparatory to a blow.,sign 171
+Malto,Malt,5498,False,False,,sign 621
+Malto,Malt,5545,False,False,,sign 621
+Malto,Malt,5549,True,False,"oje to keep; lay eggs, bring forth young. [Krishnamurti, Language 39.562, suggests separating into two entries the items meaning 'put, place, keep' and 'bear, beget' respectively.]",sign 482
+Malto,Malt,5552,False,False,,sign 482
+Brahui,Br,237,False,False,,sign 831
+Brahui,Br,255,False,False,,sign 831
+Brahui,Br,399,False,False,,concept 51_man
+Brahui,Br,474,True,False,iraṭ two (entities); adj. irā .,concept 91_two
+Brahui,Br,480,False,False,,concept 74_sit
+Brahui,Br,990,True,False,asiṭ one (entity); asi one ( adj. ); asīke once.,concept 63_one
+Brahui,Br,1159,True,False,"xan id., bud.",concept 26_eye
+Brahui,Br,1184,False,False,,sign 460
+Brahui,Br,1241,False,False,,sign 142;sign 877
+Brahui,Br,1325,False,False,,sign 416
+Brahui,Br,1326,False,False,,sign 416
+Brahui,Br,1353,False,False,,sign 460
+Brahui,Br,1370,False,False,,sign 171
+Brahui,Br,1443,True,False,xaning to see.,concept 72_see
+Brahui,Br,1454,False,False,,sign 142;sign 877
+Brahui,Br,1479,True,True,trikkal tripod of three sticks on which tent is hung.,concept 32_foot
+Brahui,Br,1493,False,False,,sign 171
+Brahui,Br,1651,False,False,,sign 798
+Brahui,Br,1655,False,False,,sign 384;sign 585;sign 798
+Brahui,Br,1663,False,False,,sign 585
+Brahui,Br,1882,False,False,,sign 630
+Brahui,Br,1883,False,False,,sign 630
+Brahui,Br,1884,False,False,,sign 384
+Brahui,Br,1927,False,False,,sign 165
+Brahui,Br,1928,False,False,,sign 165
+Brahui,Br,2133,False,False,,sign 142
+Brahui,Br,2177,False,False,,sign 482
+Brahui,Br,2178,False,False,,sign 482
+Brahui,Br,2237,False,False,,sign 142
+Brahui,Br,2304,False,False,,sign 335
+Brahui,Br,2306,False,False,,sign 335
+Brahui,Br,2456,False,False,,sign 240
+Brahui,Br,2457,False,False,,sign 240
+Brahui,Br,3035,False,False,,sign 877
+Brahui,Br,3039,False,False,,sign 877
+Brahui,Br,3054,False,False,,sign 104
+Brahui,Br,3103,False,False,,concept 39_head
+Brahui,Br,3158,True,False,"traḍḍing to skip, prance, dance about.",sign 104
+Brahui,Br,3213,False,False,,concept 54_moon
+Brahui,Br,3314,False,False,,sign 480
+Brahui,Br,3385,False,False,,sign 480
+Brahui,Br,3480,True,False,"tōning (tōr-, tō-) to hold, keep, maintain, keep back, fend off, restrain.",sign 798
+Brahui,Br,3485,False,False,,sign 350
+Brahui,Br,3536,False,False,,sign 798
+Brahui,Br,3544,False,False,,sign 798
+Brahui,Br,3546,False,False,,sign 350;sign 435
+Brahui,Br,3547,False,False,,sign 435
+Brahui,Br,3584,False,False,,sign 550
+Brahui,Br,3638,False,False,,sign 550
+Brahui,Br,3849,False,False,,sign 297
+Brahui,Br,3852,False,False,,sign 297
+Brahui,Br,4097,False,False,,sign 877
+Brahui,Br,4100,False,False,,sign 877
+Brahui,Br,4661,False,False,,sign 831
+Brahui,Br,4663,False,False,,sign 416;sign 831
+Brahui,Br,4720,True,False,marg̠ẖ horn.,concept 42_horn
+Brahui,Br,4742,True,False,"mash hill, mountain.",concept 55_mountain
+Brahui,Br,4802,False,False,,sign 416
+Brahui,Br,4876,False,False,,concept 80_star
+Brahui,Br,4885,False,False,,concept 30_fish
+Brahui,Br,4898,False,False,,sign 440
+Brahui,Br,4899,False,False,,sign 440
+Brahui,Br,5218,False,False,,sign 480
+Brahui,Br,5263,False,False,,sign 595;sign 845
+Brahui,Br,5266,False,False,,sign 595;sign 845
+Brahui,Br,5342,False,False,,sign 480
+Brahui,Br,5359,False,False,,sign 845
+Brahui,Br,5449,False,False,,sign 171
+Brahui,Br,5450,False,False,,sign 171
+Brahui,Br,5498,False,False,,sign 621
+Brahui,Br,5545,False,False,,sign 621
+Brahui,Br,5549,False,False,,sign 482
+Brahui,Br,5552,False,False,,sign 482

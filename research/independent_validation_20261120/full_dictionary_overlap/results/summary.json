@@ -1,0 +1,879 @@
+{
+  "parser": {
+    "header_candidates": 6129,
+    "accepted_chunks": 5670,
+    "groups": 5558,
+    "tsv_fallback_ids": [
+      "5382",
+      "5530"
+    ],
+    "unpaired_parentheses": 338
+  },
+  "brahui_groups": 274,
+  "unquestioned_brahui_groups": 226,
+  "target_counts": [
+    {
+      "language": "Tamil",
+      "code": "Ta",
+      "groups": 3533,
+      "target_groups": 70,
+      "total_targets": 73
+    },
+    {
+      "language": "Malayalam",
+      "code": "Ma",
+      "groups": 2753,
+      "target_groups": 63,
+      "total_targets": 73
+    },
+    {
+      "language": "Kannada",
+      "code": "Ka",
+      "groups": 3070,
+      "target_groups": 61,
+      "total_targets": 73
+    },
+    {
+      "language": "Telugu",
+      "code": "Te",
+      "groups": 2732,
+      "target_groups": 62,
+      "total_targets": 73
+    },
+    {
+      "language": "Tulu",
+      "code": "Tu",
+      "groups": 2334,
+      "target_groups": 53,
+      "total_targets": 73
+    },
+    {
+      "language": "Kota",
+      "code": "Ko",
+      "groups": 1289,
+      "target_groups": 44,
+      "total_targets": 73
+    },
+    {
+      "language": "Toda",
+      "code": "To",
+      "groups": 1135,
+      "target_groups": 40,
+      "total_targets": 73
+    },
+    {
+      "language": "Kodagu",
+      "code": "Koḍ",
+      "groups": 981,
+      "target_groups": 42,
+      "total_targets": 73
+    },
+    {
+      "language": "Kolami",
+      "code": "Kol",
+      "groups": 773,
+      "target_groups": 14,
+      "total_targets": 73
+    },
+    {
+      "language": "Naikri",
+      "code": "Nk",
+      "groups": 617,
+      "target_groups": 9,
+      "total_targets": 73
+    },
+    {
+      "language": "Parji",
+      "code": "Pa",
+      "groups": 891,
+      "target_groups": 25,
+      "total_targets": 73
+    },
+    {
+      "language": "Gadaba",
+      "code": "Ga",
+      "groups": 715,
+      "target_groups": 22,
+      "total_targets": 73
+    },
+    {
+      "language": "Gondi",
+      "code": "Go",
+      "groups": 1370,
+      "target_groups": 31,
+      "total_targets": 73
+    },
+    {
+      "language": "Konda",
+      "code": "Konḍa",
+      "groups": 929,
+      "target_groups": 23,
+      "total_targets": 73
+    },
+    {
+      "language": "Pengo",
+      "code": "Pe",
+      "groups": 654,
+      "target_groups": 11,
+      "total_targets": 73
+    },
+    {
+      "language": "Manda",
+      "code": "Manḍ",
+      "groups": 447,
+      "target_groups": 8,
+      "total_targets": 73
+    },
+    {
+      "language": "Kui",
+      "code": "Kui",
+      "groups": 963,
+      "target_groups": 23,
+      "total_targets": 73
+    },
+    {
+      "language": "Kuwi",
+      "code": "Kuwi",
+      "groups": 1137,
+      "target_groups": 26,
+      "total_targets": 73
+    },
+    {
+      "language": "Kurukh",
+      "code": "Kur",
+      "groups": 793,
+      "target_groups": 18,
+      "total_targets": 73
+    },
+    {
+      "language": "Malto",
+      "code": "Malt",
+      "groups": 719,
+      "target_groups": 15,
+      "total_targets": 73
+    },
+    {
+      "language": "Brahui",
+      "code": "Br",
+      "groups": 274,
+      "target_groups": 9,
+      "total_targets": 73
+    }
+  ],
+  "brahui_overlap": [
+    {
+      "a": "Brahui",
+      "b": "Tamil",
+      "a_groups": 274,
+      "b_groups": 3533,
+      "shared": 223,
+      "fraction_of_a": 0.8138686131386861,
+      "jaccard": 0.062220982142857144
+    },
+    {
+      "a": "Brahui",
+      "b": "Malayalam",
+      "a_groups": 274,
+      "b_groups": 2753,
+      "shared": 205,
+      "fraction_of_a": 0.7481751824817519,
+      "jaccard": 0.07264351523742027
+    },
+    {
+      "a": "Brahui",
+      "b": "Kannada",
+      "a_groups": 274,
+      "b_groups": 3070,
+      "shared": 199,
+      "fraction_of_a": 0.7262773722627737,
+      "jaccard": 0.06327503974562798
+    },
+    {
+      "a": "Brahui",
+      "b": "Telugu",
+      "a_groups": 274,
+      "b_groups": 2732,
+      "shared": 195,
+      "fraction_of_a": 0.7116788321167883,
+      "jaccard": 0.06937033084311633
+    },
+    {
+      "a": "Brahui",
+      "b": "Tulu",
+      "a_groups": 274,
+      "b_groups": 2334,
+      "shared": 187,
+      "fraction_of_a": 0.6824817518248175,
+      "jaccard": 0.07724080958281702
+    },
+    {
+      "a": "Brahui",
+      "b": "Kota",
+      "a_groups": 274,
+      "b_groups": 1289,
+      "shared": 156,
+      "fraction_of_a": 0.5693430656934306,
+      "jaccard": 0.11087420042643924
+    },
+    {
+      "a": "Brahui",
+      "b": "Toda",
+      "a_groups": 274,
+      "b_groups": 1135,
+      "shared": 149,
+      "fraction_of_a": 0.5437956204379562,
+      "jaccard": 0.11825396825396825
+    },
+    {
+      "a": "Brahui",
+      "b": "Kodagu",
+      "a_groups": 274,
+      "b_groups": 981,
+      "shared": 129,
+      "fraction_of_a": 0.4708029197080292,
+      "jaccard": 0.11456483126110124
+    },
+    {
+      "a": "Brahui",
+      "b": "Kolami",
+      "a_groups": 274,
+      "b_groups": 773,
+      "shared": 102,
+      "fraction_of_a": 0.3722627737226277,
+      "jaccard": 0.10793650793650794
+    },
+    {
+      "a": "Brahui",
+      "b": "Naikri",
+      "a_groups": 274,
+      "b_groups": 617,
+      "shared": 85,
+      "fraction_of_a": 0.3102189781021898,
+      "jaccard": 0.1054590570719603
+    },
+    {
+      "a": "Brahui",
+      "b": "Parji",
+      "a_groups": 274,
+      "b_groups": 891,
+      "shared": 112,
+      "fraction_of_a": 0.40875912408759124,
+      "jaccard": 0.1063627730294397
+    },
+    {
+      "a": "Brahui",
+      "b": "Gadaba",
+      "a_groups": 274,
+      "b_groups": 715,
+      "shared": 93,
+      "fraction_of_a": 0.33941605839416056,
+      "jaccard": 0.10379464285714286
+    },
+    {
+      "a": "Brahui",
+      "b": "Gondi",
+      "a_groups": 274,
+      "b_groups": 1370,
+      "shared": 141,
+      "fraction_of_a": 0.5145985401459854,
+      "jaccard": 0.09381237524950099
+    },
+    {
+      "a": "Brahui",
+      "b": "Konda",
+      "a_groups": 274,
+      "b_groups": 929,
+      "shared": 110,
+      "fraction_of_a": 0.40145985401459855,
+      "jaccard": 0.10064043915827996
+    },
+    {
+      "a": "Brahui",
+      "b": "Pengo",
+      "a_groups": 274,
+      "b_groups": 654,
+      "shared": 80,
+      "fraction_of_a": 0.291970802919708,
+      "jaccard": 0.09433962264150944
+    },
+    {
+      "a": "Brahui",
+      "b": "Manda",
+      "a_groups": 274,
+      "b_groups": 447,
+      "shared": 67,
+      "fraction_of_a": 0.24452554744525548,
+      "jaccard": 0.10244648318042814
+    },
+    {
+      "a": "Brahui",
+      "b": "Kui",
+      "a_groups": 274,
+      "b_groups": 963,
+      "shared": 122,
+      "fraction_of_a": 0.44525547445255476,
+      "jaccard": 0.10941704035874439
+    },
+    {
+      "a": "Brahui",
+      "b": "Kuwi",
+      "a_groups": 274,
+      "b_groups": 1137,
+      "shared": 121,
+      "fraction_of_a": 0.4416058394160584,
+      "jaccard": 0.0937984496124031
+    },
+    {
+      "a": "Brahui",
+      "b": "Kurukh",
+      "a_groups": 274,
+      "b_groups": 793,
+      "shared": 114,
+      "fraction_of_a": 0.41605839416058393,
+      "jaccard": 0.11962224554039874
+    },
+    {
+      "a": "Brahui",
+      "b": "Malto",
+      "a_groups": 274,
+      "b_groups": 719,
+      "shared": 104,
+      "fraction_of_a": 0.3795620437956204,
+      "jaccard": 0.11698537682789652
+    },
+    {
+      "a": "Brahui",
+      "b": "Brahui",
+      "a_groups": 274,
+      "b_groups": 274,
+      "shared": 274,
+      "fraction_of_a": 1.0,
+      "jaccard": 1.0
+    }
+  ],
+  "controls": [
+    {
+      "language": "Tamil",
+      "code": "Ta",
+      "brahui_groups": 274,
+      "shared": 223,
+      "matched_expected": 208.831915957979,
+      "ratio": 1.0678444383226935,
+      "q025": 197,
+      "q975": 222,
+      "p_upper": 0.0205,
+      "p_holm20": 0.0615
+    },
+    {
+      "language": "Malayalam",
+      "code": "Ma",
+      "brahui_groups": 274,
+      "shared": 205,
+      "matched_expected": 173.56578289144574,
+      "ratio": 1.1811083762299759,
+      "q025": 160,
+      "q975": 187,
+      "p_upper": 0.0005,
+      "p_holm20": 0.01
+    },
+    {
+      "language": "Kannada",
+      "code": "Ka",
+      "brahui_groups": 274,
+      "shared": 199,
+      "matched_expected": 196.42671335667833,
+      "ratio": 1.0131004922871616,
+      "q025": 184,
+      "q975": 209,
+      "p_upper": 0.3725,
+      "p_holm20": 0.3725
+    },
+    {
+      "language": "Telugu",
+      "code": "Te",
+      "brahui_groups": 274,
+      "shared": 195,
+      "matched_expected": 187.6943471735868,
+      "ratio": 1.0389231371984615,
+      "q025": 175,
+      "q975": 200,
+      "p_upper": 0.1435,
+      "p_holm20": 0.287
+    },
+    {
+      "language": "Tulu",
+      "code": "Tu",
+      "brahui_groups": 274,
+      "shared": 187,
+      "matched_expected": 168.27613806903452,
+      "ratio": 1.1112686691400304,
+      "q025": 155,
+      "q975": 181,
+      "p_upper": 0.003,
+      "p_holm20": 0.018000000000000002
+    },
+    {
+      "language": "Kota",
+      "code": "Ko",
+      "brahui_groups": 274,
+      "shared": 156,
+      "matched_expected": 111.12056028014007,
+      "ratio": 1.4038806104533381,
+      "q025": 98,
+      "q975": 124,
+      "p_upper": 0.0005,
+      "p_holm20": 0.01
+    },
+    {
+      "language": "Toda",
+      "code": "To",
+      "brahui_groups": 274,
+      "shared": 149,
+      "matched_expected": 101.15507753876939,
+      "ratio": 1.4729858710542063,
+      "q025": 88,
+      "q975": 114,
+      "p_upper": 0.0005,
+      "p_holm20": 0.01
+    },
+    {
+      "language": "Kodagu",
+      "code": "Koḍ",
+      "brahui_groups": 274,
+      "shared": 129,
+      "matched_expected": 94.22011005502752,
+      "ratio": 1.3691344652925996,
+      "q025": 81,
+      "q975": 107,
+      "p_upper": 0.0005,
+      "p_holm20": 0.01
+    },
+    {
+      "language": "Kolami",
+      "code": "Kol",
+      "brahui_groups": 274,
+      "shared": 102,
+      "matched_expected": 77.29564782391195,
+      "ratio": 1.3196085791578758,
+      "q025": 65,
+      "q975": 90,
+      "p_upper": 0.0005,
+      "p_holm20": 0.01
+    },
+    {
+      "language": "Naikri",
+      "code": "Nk",
+      "brahui_groups": 274,
+      "shared": 85,
+      "matched_expected": 65.35167583791896,
+      "ratio": 1.30065524579372,
+      "q025": 54,
+      "q975": 78,
+      "p_upper": 0.001,
+      "p_holm20": 0.01
+    },
+    {
+      "language": "Parji",
+      "code": "Pa",
+      "brahui_groups": 274,
+      "shared": 112,
+      "matched_expected": 80.70885442721361,
+      "ratio": 1.3877039984628448,
+      "q025": 68,
+      "q975": 93,
+      "p_upper": 0.0005,
+      "p_holm20": 0.01
+    },
+    {
+      "language": "Gadaba",
+      "code": "Ga",
+      "brahui_groups": 274,
+      "shared": 93,
+      "matched_expected": 71.7943971985993,
+      "ratio": 1.2953657058048873,
+      "q025": 60,
+      "q975": 84,
+      "p_upper": 0.0015,
+      "p_holm20": 0.0105
+    },
+    {
+      "language": "Gondi",
+      "code": "Go",
+      "brahui_groups": 274,
+      "shared": 141,
+      "matched_expected": 126.08604302151076,
+      "ratio": 1.1182839640383104,
+      "q025": 113,
+      "q975": 139,
+      "p_upper": 0.014,
+      "p_holm20": 0.056
+    },
+    {
+      "language": "Konda",
+      "code": "Konḍa",
+      "brahui_groups": 274,
+      "shared": 110,
+      "matched_expected": 91.28214107053527,
+      "ratio": 1.205054994437533,
+      "q025": 79,
+      "q975": 104,
+      "p_upper": 0.0045,
+      "p_holm20": 0.0225
+    },
+    {
+      "language": "Pengo",
+      "code": "Pe",
+      "brahui_groups": 274,
+      "shared": 80,
+      "matched_expected": 54.598299149574785,
+      "ratio": 1.4652471092704917,
+      "q025": 43,
+      "q975": 66,
+      "p_upper": 0.0005,
+      "p_holm20": 0.01
+    },
+    {
+      "language": "Manda",
+      "code": "Manḍ",
+      "brahui_groups": 274,
+      "shared": 67,
+      "matched_expected": 38.38519259629815,
+      "ratio": 1.7454647344002503,
+      "q025": 28,
+      "q975": 49,
+      "p_upper": 0.0005,
+      "p_holm20": 0.01
+    },
+    {
+      "language": "Kui",
+      "code": "Kui",
+      "brahui_groups": 274,
+      "shared": 122,
+      "matched_expected": 77.78389194597298,
+      "ratio": 1.5684481317126504,
+      "q025": 65,
+      "q975": 90,
+      "p_upper": 0.0005,
+      "p_holm20": 0.01
+    },
+    {
+      "language": "Kuwi",
+      "code": "Kuwi",
+      "brahui_groups": 274,
+      "shared": 121,
+      "matched_expected": 97.50025012506254,
+      "ratio": 1.2410224573249258,
+      "q025": 85,
+      "q975": 111,
+      "p_upper": 0.0005,
+      "p_holm20": 0.01
+    },
+    {
+      "language": "Kurukh",
+      "code": "Kur",
+      "brahui_groups": 274,
+      "shared": 114,
+      "matched_expected": 53.78889444722361,
+      "ratio": 2.1193965998288755,
+      "q025": 42,
+      "q975": 65,
+      "p_upper": 0.0005,
+      "p_holm20": 0.01
+    },
+    {
+      "language": "Malto",
+      "code": "Malt",
+      "brahui_groups": 274,
+      "shared": 104,
+      "matched_expected": 49.56528264132066,
+      "ratio": 2.098242851808117,
+      "q025": 38,
+      "q975": 62,
+      "p_upper": 0.0005,
+      "p_holm20": 0.01
+    }
+  ],
+  "exact_breadth": [
+    {
+      "language": "Tamil",
+      "code": "Ta",
+      "all_brahui_groups": 274,
+      "eligible_brahui_groups": 274,
+      "excluded_no_controls": 0,
+      "shared_eligible": 223,
+      "exact_breadth_expected": 223.42115781681264,
+      "ratio": 0.9981149600112719,
+      "unquestioned_eligible": 226,
+      "unquestioned_shared": 186,
+      "unquestioned_expected": 186.82671830673118,
+      "unquestioned_ratio": 0.9955749460557677
+    },
+    {
+      "language": "Malayalam",
+      "code": "Ma",
+      "all_brahui_groups": 274,
+      "eligible_brahui_groups": 273,
+      "excluded_no_controls": 1,
+      "shared_eligible": 204,
+      "exact_breadth_expected": 189.260555181505,
+      "ratio": 1.077879116461217,
+      "unquestioned_eligible": 225,
+      "unquestioned_shared": 170,
+      "unquestioned_expected": 159.4842809216469,
+      "unquestioned_ratio": 1.0659357713348525
+    },
+    {
+      "language": "Kannada",
+      "code": "Ka",
+      "all_brahui_groups": 274,
+      "eligible_brahui_groups": 274,
+      "excluded_no_controls": 0,
+      "shared_eligible": 199,
+      "exact_breadth_expected": 209.0952829928683,
+      "ratio": 0.951719221742498,
+      "unquestioned_eligible": 226,
+      "unquestioned_shared": 162,
+      "unquestioned_expected": 174.9334106603642,
+      "unquestioned_ratio": 0.9260666638148696
+    },
+    {
+      "language": "Telugu",
+      "code": "Te",
+      "all_brahui_groups": 274,
+      "eligible_brahui_groups": 274,
+      "excluded_no_controls": 0,
+      "shared_eligible": 195,
+      "exact_breadth_expected": 200.27297295309194,
+      "ratio": 0.9736710706625054,
+      "unquestioned_eligible": 226,
+      "unquestioned_shared": 160,
+      "unquestioned_expected": 169.20641265232427,
+      "unquestioned_ratio": 0.9455906398107908
+    },
+    {
+      "language": "Tulu",
+      "code": "Tu",
+      "all_brahui_groups": 274,
+      "eligible_brahui_groups": 274,
+      "excluded_no_controls": 0,
+      "shared_eligible": 187,
+      "exact_breadth_expected": 184.67731341909385,
+      "ratio": 1.0125770000543337,
+      "unquestioned_eligible": 226,
+      "unquestioned_shared": 157,
+      "unquestioned_expected": 157.25616392819916,
+      "unquestioned_ratio": 0.9983710404616246
+    },
+    {
+      "language": "Kota",
+      "code": "Ko",
+      "all_brahui_groups": 274,
+      "eligible_brahui_groups": 274,
+      "excluded_no_controls": 0,
+      "shared_eligible": 156,
+      "exact_breadth_expected": 141.81044208008254,
+      "ratio": 1.1000600358604369,
+      "unquestioned_eligible": 226,
+      "unquestioned_shared": 136,
+      "unquestioned_expected": 121.1955035954108,
+      "unquestioned_ratio": 1.1221538420601092
+    },
+    {
+      "language": "Toda",
+      "code": "To",
+      "all_brahui_groups": 274,
+      "eligible_brahui_groups": 273,
+      "excluded_no_controls": 1,
+      "shared_eligible": 148,
+      "exact_breadth_expected": 131.89178562633583,
+      "ratio": 1.122132051644979,
+      "unquestioned_eligible": 225,
+      "unquestioned_shared": 128,
+      "unquestioned_expected": 113.66235582733009,
+      "unquestioned_ratio": 1.1261424160031568
+    },
+    {
+      "language": "Kodagu",
+      "code": "Koḍ",
+      "all_brahui_groups": 274,
+      "eligible_brahui_groups": 274,
+      "excluded_no_controls": 0,
+      "shared_eligible": 129,
+      "exact_breadth_expected": 124.82443445254448,
+      "ratio": 1.0334515078379385,
+      "unquestioned_eligible": 226,
+      "unquestioned_shared": 110,
+      "unquestioned_expected": 108.55933487285371,
+      "unquestioned_ratio": 1.0132707622871273
+    },
+    {
+      "language": "Kolami",
+      "code": "Kol",
+      "all_brahui_groups": 274,
+      "eligible_brahui_groups": 273,
+      "excluded_no_controls": 1,
+      "shared_eligible": 101,
+      "exact_breadth_expected": 108.35502743989714,
+      "ratio": 0.9321210320030895,
+      "unquestioned_eligible": 225,
+      "unquestioned_shared": 88,
+      "unquestioned_expected": 94.9299686745561,
+      "unquestioned_ratio": 0.9269991471469481
+    },
+    {
+      "language": "Naikri",
+      "code": "Nk",
+      "all_brahui_groups": 274,
+      "eligible_brahui_groups": 274,
+      "excluded_no_controls": 0,
+      "shared_eligible": 85,
+      "exact_breadth_expected": 96.6492652648501,
+      "ratio": 0.8794686619403949,
+      "unquestioned_eligible": 226,
+      "unquestioned_shared": 73,
+      "unquestioned_expected": 85.14689029217426,
+      "unquestioned_ratio": 0.8573419387309008
+    },
+    {
+      "language": "Parji",
+      "code": "Pa",
+      "all_brahui_groups": 274,
+      "eligible_brahui_groups": 272,
+      "excluded_no_controls": 2,
+      "shared_eligible": 110,
+      "exact_breadth_expected": 114.05561994283434,
+      "ratio": 0.9644417351388116,
+      "unquestioned_eligible": 224,
+      "unquestioned_shared": 94,
+      "unquestioned_expected": 99.85965128613974,
+      "unquestioned_ratio": 0.9413211321022003
+    },
+    {
+      "language": "Gadaba",
+      "code": "Ga",
+      "all_brahui_groups": 274,
+      "eligible_brahui_groups": 274,
+      "excluded_no_controls": 0,
+      "shared_eligible": 93,
+      "exact_breadth_expected": 105.5321513608112,
+      "ratio": 0.8812480253722474,
+      "unquestioned_eligible": 226,
+      "unquestioned_shared": 82,
+      "unquestioned_expected": 92.65015897554376,
+      "unquestioned_ratio": 0.8850497495815953
+    },
+    {
+      "language": "Gondi",
+      "code": "Go",
+      "all_brahui_groups": 274,
+      "eligible_brahui_groups": 274,
+      "excluded_no_controls": 0,
+      "shared_eligible": 141,
+      "exact_breadth_expected": 154.90179852606667,
+      "ratio": 0.910254118039002,
+      "unquestioned_eligible": 226,
+      "unquestioned_shared": 120,
+      "unquestioned_expected": 133.8917808851637,
+      "unquestioned_ratio": 0.8962462012729637
+    },
+    {
+      "language": "Konda",
+      "code": "Konḍa",
+      "all_brahui_groups": 274,
+      "eligible_brahui_groups": 274,
+      "excluded_no_controls": 0,
+      "shared_eligible": 110,
+      "exact_breadth_expected": 123.96698944620738,
+      "ratio": 0.887332994786745,
+      "unquestioned_eligible": 226,
+      "unquestioned_shared": 98,
+      "unquestioned_expected": 107.7580038904745,
+      "unquestioned_ratio": 0.9094452055701351
+    },
+    {
+      "language": "Pengo",
+      "code": "Pe",
+      "all_brahui_groups": 274,
+      "eligible_brahui_groups": 274,
+      "excluded_no_controls": 0,
+      "shared_eligible": 80,
+      "exact_breadth_expected": 86.14286265174354,
+      "ratio": 0.9286898245235038,
+      "unquestioned_eligible": 226,
+      "unquestioned_shared": 72,
+      "unquestioned_expected": 75.50312390956393,
+      "unquestioned_ratio": 0.9536029275588663
+    },
+    {
+      "language": "Manda",
+      "code": "Manḍ",
+      "all_brahui_groups": 274,
+      "eligible_brahui_groups": 274,
+      "excluded_no_controls": 0,
+      "shared_eligible": 67,
+      "exact_breadth_expected": 70.05786750193778,
+      "ratio": 0.9563522611953155,
+      "unquestioned_eligible": 226,
+      "unquestioned_shared": 61,
+      "unquestioned_expected": 62.713456071600376,
+      "unquestioned_ratio": 0.9726780155498987
+    },
+    {
+      "language": "Kui",
+      "code": "Kui",
+      "all_brahui_groups": 274,
+      "eligible_brahui_groups": 273,
+      "excluded_no_controls": 1,
+      "shared_eligible": 121,
+      "exact_breadth_expected": 113.79895726883935,
+      "ratio": 1.0632786354460952,
+      "unquestioned_eligible": 225,
+      "unquestioned_shared": 102,
+      "unquestioned_expected": 99.37392077837325,
+      "unquestioned_ratio": 1.026426241422873
+    },
+    {
+      "language": "Kuwi",
+      "code": "Kuwi",
+      "all_brahui_groups": 274,
+      "eligible_brahui_groups": 274,
+      "excluded_no_controls": 0,
+      "shared_eligible": 121,
+      "exact_breadth_expected": 133.34757982336282,
+      "ratio": 0.9074030451867302,
+      "unquestioned_eligible": 226,
+      "unquestioned_shared": 102,
+      "unquestioned_expected": 116.01895272849926,
+      "unquestioned_ratio": 0.8791667016568785
+    },
+    {
+      "language": "Kurukh",
+      "code": "Kur",
+      "all_brahui_groups": 274,
+      "eligible_brahui_groups": 274,
+      "excluded_no_controls": 0,
+      "shared_eligible": 114,
+      "exact_breadth_expected": 85.5408344558032,
+      "ratio": 1.3326968426862953,
+      "unquestioned_eligible": 226,
+      "unquestioned_shared": 100,
+      "unquestioned_expected": 76.75774093043023,
+      "unquestioned_ratio": 1.3028001969291345
+    },
+    {
+      "language": "Malto",
+      "code": "Malt",
+      "all_brahui_groups": 274,
+      "eligible_brahui_groups": 273,
+      "excluded_no_controls": 1,
+      "shared_eligible": 103,
+      "exact_breadth_expected": 83.78625609137633,
+      "ratio": 1.2293185637471302,
+      "unquestioned_eligible": 225,
+      "unquestioned_shared": 90,
+      "unquestioned_expected": 75.41496315959961,
+      "unquestioned_ratio": 1.1933971221272666
+    }
+  ],
+  "note": "Dictionary-group attestations, including synonyms, shifted senses and questioned comparisons. Not all attestations preserve a target meaning or prove inheritance."
+}
