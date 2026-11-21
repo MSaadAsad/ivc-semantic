@@ -1,0 +1,22 @@
+language,mode,entries,candidate_edges,eligible_legacy_edges,eligible_uniform_edges,entry_shuffle_strata
+Dravidian,phon_exact,3411,2014,1877,2014,34; 97; 221; 305; 321; 464; 756; 1213
+Dravidian,phon_stem,3411,4291,4145,4291,34; 97; 221; 305; 321; 464; 756; 1213
+Dravidian,ascii_exact,3411,3277,3139,3277,34; 97; 221; 305; 321; 464; 756; 1213
+Munda,phon_exact,1416,182,99,182,2; 12; 16; 103; 111; 201; 226; 326; 419
+Munda,phon_stem,1416,420,170,420,2; 12; 16; 103; 111; 201; 226; 326; 419
+Munda,ascii_exact,1416,195,110,195,2; 12; 16; 103; 111; 201; 226; 326; 419
+Indo-Aryan,phon_exact,6338,405,393,405,182; 1684; 1944; 2528
+Indo-Aryan,phon_stem,6338,749,729,749,182; 1684; 1944; 2528
+Indo-Aryan,ascii_exact,6338,406,393,406,182; 1684; 1944; 2528
+Elamite,phon_exact,2437,162,3,162,31; 44; 91; 120; 145; 573; 702; 731
+Elamite,phon_stem,2437,254,17,254,31; 44; 91; 120; 145; 573; 702; 731
+Elamite,ascii_exact,2437,162,3,162,31; 44; 91; 120; 145; 573; 702; 731
+Sumerian,phon_exact,3385,6298,2868,6298,1; 17; 129; 264; 375; 601; 881; 1117
+Sumerian,phon_stem,3385,7342,3823,7342,1; 17; 129; 264; 375; 601; 881; 1117
+Sumerian,ascii_exact,3385,6754,2995,6754,1; 17; 129; 264; 375; 601; 881; 1117
+Akkadian,phon_exact,716,27,0,27,22; 110; 261; 323
+Akkadian,phon_stem,716,79,0,79,22; 110; 261; 323
+Akkadian,ascii_exact,716,35,0,35,22; 110; 261; 323
+Burushaski,phon_exact,1743,128,0,128,249; 289; 548; 657
+Burushaski,phon_stem,1743,233,0,233,249; 289; 548; 657
+Burushaski,ascii_exact,1743,128,0,128,249; 289; 548; 657

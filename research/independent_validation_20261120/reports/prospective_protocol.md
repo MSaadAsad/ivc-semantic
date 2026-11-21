@@ -4,6 +4,8 @@ Status: **prepared, not run**. Freezing the current proposal after its developme
 
 Update: a limited [known-Sumerian rebus component pilot](../rebus_positive_control/README.md) has now run. It is not completion of the full-method or archaeological protocol below. It finds correct original-order language ranking but unequal cluster filtering and an order-sensitive strict score.
 
+The subsequent [six-panel filter comparison](../expanded_rebus_test/README.md) expands the Indus-side diagnostic to 48 frozen meaning pairs, 51 automatic pairs and all 67 candidates from three later source tables, with recalculated domain and sound controls. It preserves a strong conditional Dravidian fit on selected meanings but finds no above-both-nulls result on the automatic panel. This remains a retrospective lexical sensitivity, not independent semantic assignment or completion of the archaeological protocol.
+
 ## The decisive experiment
 
 Ask whether **semantics assigned without knowledge of any candidate language permit the frozen Dravidian key to make specific correct predictions on independently collected evidence, outperforming equally flexible rival keys and language-free models**.

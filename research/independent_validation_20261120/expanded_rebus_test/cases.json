@@ -1,0 +1,1630 @@
+{
+  "plan_sha256": "0abc6d77e8ab163a3eed8faa3d9a7881ea6f33298816f53b0a82686ba307fd11",
+  "input_sha256": {
+    "research/independent_validation_20261120/ivc_language_test/claims.json": "8370598099eb94af0bc2ef8c65e80e7b222d24142e095c3c15d4596542faa318",
+    "work_scripts/key2a_rebus_lock.py": "6d2eddc918bb92aa60931c54ea4ef632cc3b654d0771adf10f669bdf28928176",
+    "work_data/sem/sign_anchors.csv": "19cb77a8a67ae27c13efd1cb5963b1a466058d0b77122a107dc3e0d32d4f8d69",
+    "work_data/lang_m2/signs.csv": "fca5ef354911c2d9a126c23fdf826dcbe19e8e01a2bff48c1a2e3ae52268930b",
+    "work_data/key6a/master_lexicon_after_key6a.csv": "0dcf56b8f2d177d5a33ad38d76b3acab2d1f37d2e48b58ac7daccaddc4ca53bd",
+    "work_data/key4b/test4b1_top30_sign_table.csv": "e3838c3b7dc0adcde87089130be0a2957181241fe055be96e2042d9fcf268fdf",
+    "work_data/key5a/trackA_per_sign_bridges.csv": "723e338da9dee4fd09db43789834b045c6af6878ad105032fa12a0286d0db563",
+    "work_data/key6a/trackA_per_sign_bridges.csv": "d92d8d38924c5a9d2775ea26d8371904208fedc2af3d62273c76ccdad773e61e"
+  },
+  "panels": {
+    "fixed48": [
+      {
+        "sign": "740",
+        "title": "jar → house",
+        "a_en": "\\b(?:jar|pot|vessel)\\b",
+        "b_en": "\\b(?:house|home|abode|family|lineage)\\b",
+        "a_de": "\\b(?:krug|topf|gefass)\\b",
+        "b_de": "\\b(?:haus|heim|wohnung|familie|sippe)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "700",
+        "title": "bowl / hollow → measure",
+        "a_en": "\\b(?:bowl|earthen\\ pot|hollow)\\b",
+        "b_en": "\\b(?:measure|capacity)\\b",
+        "a_de": "\\b(?:schale|topf|hohl)\\b",
+        "b_de": "\\b(?:mass|kapazitat)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "400",
+        "title": "comb → small / junior",
+        "a_en": "\\b(?:comb|disentangle)\\b",
+        "b_en": "\\b(?:small|little|young)\\b",
+        "a_de": "\\b(?:kamm|entwirren)\\b",
+        "b_de": "\\b(?:klein|wenig|jung)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "220",
+        "title": "fish → star",
+        "a_en": "\\b(?:fish)\\b",
+        "b_en": "\\b(?:star|constellation|asterism)\\b",
+        "a_de": "\\b(?:fisch)\\b",
+        "b_de": "\\b(?:stern|gestirn|sternbild)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "520",
+        "title": "spear → chief",
+        "a_en": "\\b(?:spear|lance|dart|javelin)\\b",
+        "b_en": "\\b(?:chief|ruler|king|hero)\\b",
+        "a_de": "\\b(?:speer|lanze|pfeil)\\b",
+        "b_de": "\\b(?:hauptling|herrscher|konig|held)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "390",
+        "title": "tree → sew / weave",
+        "a_en": "\\b(?:tree|plant|shrub)\\b",
+        "b_en": "\\b(?:sew|stitch|weave|plait)\\b",
+        "a_de": "\\b(?:baum|pflanze|strauch)\\b",
+        "b_de": "\\b(?:nahen|sticken|weben|flechten)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "861",
+        "title": "eye / sight → weight / property",
+        "a_en": "\\b(?:eye|sight|see)\\b",
+        "b_en": "\\b(?:weight|fraction|property|possession)\\b",
+        "a_de": "\\b(?:auge|sicht|sehen)\\b",
+        "b_de": "\\b(?:gewicht|bruchteil|eigentum|besitz)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "820",
+        "title": "wheel → quarter / leg",
+        "a_en": "\\b(?:wheel|cart)\\b",
+        "b_en": "\\b(?:quarter|leg|foot)\\b",
+        "a_de": "\\b(?:rad|wagen)\\b",
+        "b_de": "\\b(?:viertel|bein|fuss)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "320",
+        "title": "step / ladder → ration / measure",
+        "a_en": "\\b(?:step|stair|ladder)\\b",
+        "b_en": "\\b(?:ration|measure|allowance|capacity|weight)\\b",
+        "a_de": "\\b(?:stufe|treppe|leiter)\\b",
+        "b_de": "\\b(?:ration|mass|zulage|kapazitat|gewicht)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "590",
+        "title": "basket / plait → bale / load",
+        "a_en": "\\b(?:basket|plait|braid)\\b",
+        "b_en": "\\b(?:sack|load|bale|bundle)\\b",
+        "a_de": "\\b(?:korb|flechten|zopf)\\b",
+        "b_de": "\\b(?:sack|last|ballen|bundel)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "615",
+        "title": "loom frame → field plot",
+        "a_en": "\\b(?:weaver|loom|reed)\\b",
+        "b_en": "\\b(?:field|ridge|land|beds)\\b",
+        "a_de": "\\b(?:weber|webstuhl|rohr)\\b",
+        "b_de": "\\b(?:feld|rucken|land|beet)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "705",
+        "title": "threshing floor → vessel / ship",
+        "a_en": "\\b(?:threshing|field|floor)\\b",
+        "b_en": "\\b(?:ship|vessel|boat)\\b",
+        "a_de": "\\b(?:dreschen|feld|boden)\\b",
+        "b_de": "\\b(?:schiff|gefass|boot)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "176",
+        "title": "sit / remain → tribute",
+        "a_en": "\\b(?:sit|remain|abide)\\b",
+        "b_en": "\\b(?:tax|tribute|duty|payment)\\b",
+        "a_de": "\\b(?:sitzen|bleiben|wohnen)\\b",
+        "b_de": "\\b(?:steuer|tribut|abgabe|zahlung)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "090",
+        "title": "man → manager / ruler",
+        "a_en": "\\b(?:man|male|husband|servant)\\b",
+        "b_en": "\\b(?:rule|manage|control)\\b",
+        "a_de": "\\b(?:mann|mannlich|gatte|diener)\\b",
+        "b_de": "\\b(?:herrschen|verwalten|kontrollieren)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "233",
+        "title": "split → dawn / light",
+        "a_en": "\\b(?:crack|split|burst)\\b",
+        "b_en": "\\b(?:dawn|daybreak|dawning|day)\\b",
+        "a_de": "\\b(?:riss|spalten|bersten)\\b",
+        "b_de": "\\b(?:morgenrote|tagesanbruch|morgen|tag)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "415",
+        "title": "fork / branch → seize",
+        "a_en": "\\b(?:fork|prong|branch)\\b",
+        "b_en": "\\b(?:seize|grasp|catch|control)\\b",
+        "a_de": "\\b(?:gabel|zinke|zweig)\\b",
+        "b_de": "\\b(?:ergreifen|fassen|fangen|kontrollieren)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "920",
+        "title": "moon ↔ month",
+        "a_en": "\\b(?:moon)\\b",
+        "b_en": "\\b(?:month)\\b",
+        "a_de": "\\b(?:mond)\\b",
+        "b_de": "\\b(?:monat)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "407",
+        "title": "branch → cloth",
+        "a_en": "\\b(?:branch)\\b",
+        "b_en": "\\b(?:cloth|weaver)\\b",
+        "a_de": "\\b(?:zweig)\\b",
+        "b_de": "\\b(?:stoff|weber)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "806",
+        "title": "stalk → millet",
+        "a_en": "\\b(?:stalk|stem)\\b",
+        "b_en": "\\b(?:millet|grain)\\b",
+        "a_de": "\\b(?:stengel|stiel)\\b",
+        "b_de": "\\b(?:hirse|getreide)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "798",
+        "title": "shell → bind / build house",
+        "a_en": "\\b(?:shell)\\b",
+        "b_en": "\\b(?:bind|tie|build|house)\\b",
+        "a_de": "\\b(?:muschel|schale)\\b",
+        "b_de": "\\b(?:binden|knupfen|bauen|haus)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "255",
+        "title": "crocodile → first / principal",
+        "a_en": "\\b(?:crocodile)\\b",
+        "b_en": "\\b(?:first|beginning|principal|capital)\\b",
+        "a_de": "\\b(?:krokodil)\\b",
+        "b_de": "\\b(?:erste|anfang|haupt|kapital)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "840",
+        "title": "pair ↔ join",
+        "a_en": "\\b(?:pair|couple)\\b",
+        "b_en": "\\b(?:join|unite|union|agree)\\b",
+        "a_de": "\\b(?:paar|ehepaar)\\b",
+        "b_de": "\\b(?:verbinden|vereinigen|vereinigung|ubereinstimmen)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "760",
+        "title": "sprout ↔ young / child",
+        "a_en": "\\b(?:sprout|shoot|tendril)\\b",
+        "b_en": "\\b(?:young|child|infant)\\b",
+        "a_de": "\\b(?:spross|trieb|ranke)\\b",
+        "b_de": "\\b(?:jung|kind|saugling)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "368",
+        "title": "flag → give / grant",
+        "a_en": "\\b(?:flag|banner)\\b",
+        "b_en": "\\b(?:give|grant)\\b",
+        "a_de": "\\b(?:fahne|banner)\\b",
+        "b_de": "\\b(?:geben|gewahren)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "690",
+        "title": "tie ↔ bundle / building",
+        "a_en": "\\b(?:tie|bind|fasten)\\b",
+        "b_en": "\\b(?:bundle|packet|building|store)\\b",
+        "a_de": "\\b(?:binden|knupfen|befestigen)\\b",
+        "b_de": "\\b(?:bundel|paket|gebaude|lager)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "550",
+        "title": "waist / middle → district",
+        "a_en": "\\b(?:waist|middle|centre|center)\\b",
+        "b_en": "\\b(?:district|country|province|locality)\\b",
+        "a_de": "\\b(?:taille|mitte|zentrum)\\b",
+        "b_de": "\\b(?:bezirk|land|provinz|ort)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "892",
+        "title": "bow → sell",
+        "a_en": "\\b(?:bow)\\b",
+        "b_en": "\\b(?:sell|sale|price)\\b",
+        "a_de": "\\b(?:bogen)\\b",
+        "b_de": "\\b(?:verkaufen|verkauf|preis)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "140",
+        "title": "mother / lady ↔ goddess",
+        "a_en": "\\b(?:mother|lady|matron)\\b",
+        "b_en": "\\b(?:goddess)\\b",
+        "a_de": "\\b(?:mutter|frau|matrone)\\b",
+        "b_de": "\\b(?:gottin)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "154",
+        "title": "carrying pole → guard",
+        "a_en": "\\b(?:carrying\\ pole|pole|yoke)\\b",
+        "b_en": "\\b(?:guard|watch|preserve|protect|shelter)\\b",
+        "a_de": "\\b(?:tragstange|stange|joch)\\b",
+        "b_de": "\\b(?:wachen|wachter|bewahren|schutzen|obdach)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "142",
+        "title": "staff → smith",
+        "a_en": "\\b(?:staff|stick|rod)\\b",
+        "b_en": "\\b(?:smith|iron)\\b",
+        "a_de": "\\b(?:stab|stock|stange)\\b",
+        "b_de": "\\b(?:schmied|eisen)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "503",
+        "title": "mountain → garland",
+        "a_en": "\\b(?:mountain|hill)\\b",
+        "b_en": "\\b(?:garland|necklace)\\b",
+        "a_de": "\\b(?:berg|hugel)\\b",
+        "b_de": "\\b(?:kranz|halskette)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "440",
+        "title": "corner → vessel",
+        "a_en": "\\b(?:corner|nook|lane)\\b",
+        "b_en": "\\b(?:vessel|pot|pan|cup)\\b",
+        "a_de": "\\b(?:ecke|winkel|gasse)\\b",
+        "b_de": "\\b(?:gefass|topf|pfanne|becher)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "435",
+        "title": "hook → attendant",
+        "a_en": "\\b(?:hook|goad)\\b",
+        "b_en": "\\b(?:servant|watchman|attendant|messenger)\\b",
+        "a_de": "\\b(?:haken|stachel)\\b",
+        "b_de": "\\b(?:diener|wachter|begleiter|bote)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "845",
+        "title": "line → tax",
+        "a_en": "\\b(?:line|stripe|streak|draw|write)\\b",
+        "b_en": "\\b(?:tax|impost|duty|toll|levy)\\b",
+        "a_de": "\\b(?:linie|streifen|strich|zeichnen|schreiben)\\b",
+        "b_de": "\\b(?:steuer|abgabe|zoll)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "850",
+        "title": "eye → copper",
+        "a_en": "\\b(?:eye|sight)\\b",
+        "b_en": "\\b(?:copper|bronze|brazier)\\b",
+        "a_de": "\\b(?:auge|sicht)\\b",
+        "b_de": "\\b(?:kupfer|bronze|kupferschmied)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "717",
+        "title": "foot ↔ servant",
+        "a_en": "\\b(?:foot|footprint)\\b",
+        "b_en": "\\b(?:servant|slave|servitude)\\b",
+        "a_de": "\\b(?:fuss|fussspur)\\b",
+        "b_de": "\\b(?:diener|sklave|knechtschaft)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "413",
+        "title": "grain → tax / cut",
+        "a_en": "\\b(?:grain|paddy|rice|ear)\\b",
+        "b_en": "\\b(?:tax|duty|cut|reap)\\b",
+        "a_de": "\\b(?:getreide|reis|ahre)\\b",
+        "b_de": "\\b(?:steuer|abgabe|schneiden|ernten)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "350",
+        "title": "fence → watchman",
+        "a_en": "\\b(?:fence|yard|pound|enclosure)\\b",
+        "b_en": "\\b(?:watchman|servant|messenger)\\b",
+        "a_de": "\\b(?:zaun|hof|pferch|gehege)\\b",
+        "b_de": "\\b(?:wachter|diener|bote)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "460",
+        "title": "shoot → garland",
+        "a_en": "\\b(?:shoot|branch)\\b",
+        "b_en": "\\b(?:garland|wreath|neckrope)\\b",
+        "a_de": "\\b(?:trieb|zweig)\\b",
+        "b_de": "\\b(?:kranz|girlande|halsband)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "482",
+        "title": "mountain → king",
+        "a_en": "\\b(?:mountain|hill)\\b",
+        "b_en": "\\b(?:king|emperor|chief|leadership)\\b",
+        "a_de": "\\b(?:berg|hugel)\\b",
+        "b_de": "\\b(?:konig|kaiser|hauptling|fuhrung)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "480",
+        "title": "point → vessel",
+        "a_en": "\\b(?:point|sharp|tip)\\b",
+        "b_en": "\\b(?:vessel|capacity|measure)\\b",
+        "a_de": "\\b(?:spitze|scharf)\\b",
+        "b_de": "\\b(?:gefass|kapazitat|mass)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "335",
+        "title": "frame → pot",
+        "a_en": "\\b(?:frame)\\b",
+        "b_en": "\\b(?:pot|vessel|pan)\\b",
+        "a_de": "\\b(?:rahmen)\\b",
+        "b_de": "\\b(?:topf|gefass|pfanne)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "540",
+        "title": "drum ↔ capacity measure",
+        "a_en": "\\b(?:drum)\\b",
+        "b_en": "\\b(?:measure|capacity)\\b",
+        "a_de": "\\b(?:trommel)\\b",
+        "b_de": "\\b(?:mass|kapazitat)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "630",
+        "title": "cage → assemble / store",
+        "a_en": "\\b(?:cage|coop|nest|pen|hive)\\b",
+        "b_en": "\\b(?:assemble|join|store|stored|together)\\b",
+        "a_de": "\\b(?:kafig|stall|nest|pferch|bienenstock)\\b",
+        "b_de": "\\b(?:versammeln|verbinden|lagern|gelagert|zusammen)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "171",
+        "title": "hang ↔ weigh",
+        "a_en": "\\b(?:hang|suspend|suspended)\\b",
+        "b_en": "\\b(?:weigh|weight|balance|scales)\\b",
+        "a_de": "\\b(?:hangen|aufhangen|hangend)\\b",
+        "b_de": "\\b(?:wiegen|gewicht|gleichgewicht|waage)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "831",
+        "title": "blade → grain",
+        "a_en": "\\b(?:blade|weapon|arrow|weaver)\\b",
+        "b_en": "\\b(?:grain|paddy)\\b",
+        "a_de": "\\b(?:klinge|waffe|pfeil|weber)\\b",
+        "b_de": "\\b(?:getreide|reis)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "165",
+        "title": "bend / snail → cauldron",
+        "a_en": "\\b(?:bend|curve|hump|snail)\\b",
+        "b_en": "\\b(?:cauldron)\\b",
+        "a_de": "\\b(?:biegen|kurve|buckel|schnecke)\\b",
+        "b_de": "\\b(?:kessel)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      },
+      {
+        "sign": "104",
+        "title": "leap → collect / levy",
+        "a_en": "\\b(?:leap|skip|jump|stride|dance)\\b",
+        "b_en": "\\b(?:collect|levy|recover)\\b",
+        "a_de": "\\b(?:springen|hupfen|schreiten|tanzen)\\b",
+        "b_de": "\\b(?:sammeln|erheben|zuruckgewinnen)\\b",
+        "source": "research/independent_validation_20261120/ivc_language_test/claims.json"
+      }
+    ],
+    "auto51": [
+      {
+        "sign": "595",
+        "title": "box <-> ctab_bull_gaur_unicorn",
+        "a_en": "\\b(box|chest|casket|coffer)\\b",
+        "a_de": "\\b(kasten|truhe|kiste)\\b",
+        "b_en": "\\b(bull|cow|ox|cattle|copper)\\b",
+        "b_de": "\\b(stier|rind|ochse|kupfer)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "400",
+        "title": "comb <-> mtab_all",
+        "a_en": "\\b(comb|carding)\\b",
+        "a_de": "\\b(kamm)\\b",
+        "b_en": "\\b(grain|barley|ration|allowance|measure)\\b",
+        "b_de": "\\b(getreide|gerste|ration|lohn|mass)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "480",
+        "title": "hill <-> copper_tool_vs_ctab",
+        "a_en": "\\b(hill|mountain|peak|mound)\\b",
+        "a_de": "\\b(berg|hugel|gipfel)\\b",
+        "b_en": "\\b(copper|bronze|metal|ingot|weight)\\b",
+        "b_de": "\\b(kupfer|bronze|metall|gewicht)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "845",
+        "title": "fish <-> copper_tablet_vs_all",
+        "a_en": "\\b(fish|fishes|carp)\\b",
+        "a_de": "\\b(fisch|fische)\\b",
+        "b_en": "\\b(field|allotment|share|portion|estate)\\b",
+        "b_de": "\\b(feld|anteil|teil|besitz)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "176",
+        "title": "comb <-> mtab_all",
+        "a_en": "\\b(comb|carding)\\b",
+        "a_de": "\\b(kamm)\\b",
+        "b_en": "\\b(grain|barley|ration|allowance|measure)\\b",
+        "b_de": "\\b(getreide|gerste|ration|lohn|mass)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "752",
+        "title": "cup <-> copper_tablet_vs_all",
+        "a_en": "\\b(cup|bowl|goblet|pot)\\b",
+        "a_de": "\\b(becher|schale|topf)\\b",
+        "b_en": "\\b(field|allotment|share|portion|estate)\\b",
+        "b_de": "\\b(feld|anteil|teil|besitz)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "095",
+        "title": "man <-> copper_tablet_vs_all",
+        "a_en": "\\b(man|male|husband|warrior)\\b",
+        "a_de": "\\b(mann|gatte|krieger)\\b",
+        "b_en": "\\b(field|allotment|share|portion|estate)\\b",
+        "b_de": "\\b(feld|anteil|teil|besitz)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "503",
+        "title": "hill <-> copper_tablet_vs_all",
+        "a_en": "\\b(hill|mountain|peak|mound)\\b",
+        "a_de": "\\b(berg|hugel|gipfel)\\b",
+        "b_en": "\\b(field|allotment|share|portion|estate)\\b",
+        "b_de": "\\b(feld|anteil|teil|besitz)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "615",
+        "title": "window <-> copper_tablet_vs_all",
+        "a_en": "\\b(window|aperture|lattice)\\b",
+        "a_de": "\\b(fenster|offnung)\\b",
+        "b_en": "\\b(field|allotment|share|portion|estate)\\b",
+        "b_de": "\\b(feld|anteil|teil|besitz)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "391",
+        "title": "fork <-> copper_tool_vs_all",
+        "a_en": "\\b(fork|prong|branch|bough)\\b",
+        "a_de": "\\b(gabel|zweig|ast)\\b",
+        "b_en": "\\b(copper|bronze|metal|blade|axe)\\b",
+        "b_de": "\\b(kupfer|bronze|metall|klinge|axt)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "142",
+        "title": "man <-> copper_tablet_vs_all",
+        "a_en": "\\b(man|male|husband|warrior)\\b",
+        "a_de": "\\b(mann|gatte|krieger)\\b",
+        "b_en": "\\b(field|allotment|share|portion|estate)\\b",
+        "b_de": "\\b(feld|anteil|teil|besitz)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "240",
+        "title": "fish <-> mtab_all",
+        "a_en": "\\b(fish|fishes|carp)\\b",
+        "a_de": "\\b(fisch|fische)\\b",
+        "b_en": "\\b(grain|barley|ration|allowance|measure)\\b",
+        "b_de": "\\b(getreide|gerste|ration|lohn|mass)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "413",
+        "title": "comb <-> mtab_all",
+        "a_en": "\\b(comb|carding)\\b",
+        "a_de": "\\b(kamm)\\b",
+        "b_en": "\\b(grain|barley|ration|allowance|measure)\\b",
+        "b_de": "\\b(getreide|gerste|ration|lohn|mass)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "890",
+        "title": "bow <-> circuit_eastern_headwaters",
+        "a_en": "\\b(bow|arc)\\b",
+        "a_de": "\\b(bogen)\\b",
+        "b_en": "\\b(wheat|grain|cotton|river|plough)\\b",
+        "b_de": "\\b(weizen|getreide|fluss|pflug)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "924",
+        "title": "bow <-> circuit_overland_west_north",
+        "a_en": "\\b(bow|arc)\\b",
+        "a_de": "\\b(bogen)\\b",
+        "b_en": "\\b(foreign|trade|merchant|caravan|copper)\\b",
+        "b_de": "\\b(fremd|handel|kaufmann|kupfer)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "140",
+        "title": "man <-> har_mound_AB",
+        "a_en": "\\b(man|male|husband|warrior)\\b",
+        "a_de": "\\b(mann|gatte|krieger)\\b",
+        "b_en": "\\b(fort|citadel|palace|chief|bangle)\\b",
+        "b_de": "\\b(burg|palast|herr|ring)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "705",
+        "title": "jar <-> copper_tablet_vs_all",
+        "a_en": "\\b(jar|pot|waterpot|pitcher|urn)\\b",
+        "a_de": "\\b(krug|topf|urne)\\b",
+        "b_en": "\\b(field|allotment|share|portion|estate)\\b",
+        "b_de": "\\b(feld|anteil|teil|besitz)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "540",
+        "title": "hourglass <-> pot_all",
+        "a_en": "\\b(drum|waist|cone)\\b",
+        "a_de": "\\b(trommel|kegel)\\b",
+        "b_en": "\\b(measure|capacity|bushel|oil|ration)\\b",
+        "b_de": "\\b(mass|menge|ol|ration)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "500",
+        "title": "tent <-> tag_all",
+        "a_en": "\\b(tent|hut|pavilion)\\b",
+        "a_de": "\\b(zelt|hutte)\\b",
+        "b_en": "\\b(ship|boat|sail|seal|cargo)\\b",
+        "b_de": "\\b(schiff|boot|segel|siegel|fracht)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "717",
+        "title": "comb <-> har_mound_AB",
+        "a_en": "\\b(comb|carding)\\b",
+        "a_de": "\\b(kamm)\\b",
+        "b_en": "\\b(fort|citadel|palace|chief|bangle)\\b",
+        "b_de": "\\b(burg|palast|herr|ring)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "585",
+        "title": "tent <-> har_mound_AB",
+        "a_en": "\\b(tent|hut|pavilion)\\b",
+        "a_de": "\\b(zelt|hutte)\\b",
+        "b_en": "\\b(fort|citadel|palace|chief|bangle)\\b",
+        "b_de": "\\b(burg|palast|herr|ring)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "820",
+        "title": "leaf <-> har_mound_AB",
+        "a_en": "\\b(leaf|leaves|petal|frond)\\b",
+        "a_de": "\\b(blatt|blatter|laub)\\b",
+        "b_en": "\\b(fort|citadel|palace|chief|bangle)\\b",
+        "b_de": "\\b(burg|palast|herr|ring)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "390",
+        "title": "fork <-> site_chanhu_workshops",
+        "a_en": "\\b(fork|prong|branch|bough)\\b",
+        "a_de": "\\b(gabel|zweig|ast)\\b",
+        "b_en": "\\b(cotton|thread|yarn|cloth|bead)\\b",
+        "b_de": "\\b(baumwolle|faden|garn|stoff|perle)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "740",
+        "title": "jar <-> site_chanhu_workshops",
+        "a_en": "\\b(jar|pot|waterpot|pitcher|urn)\\b",
+        "a_de": "\\b(krug|topf|urne)\\b",
+        "b_en": "\\b(cotton|thread|yarn|cloth|bead)\\b",
+        "b_de": "\\b(baumwolle|faden|garn|stoff|perle)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "416",
+        "title": "comb <-> circuit_maritime_coastal",
+        "a_en": "\\b(comb|carding)\\b",
+        "a_de": "\\b(kamm)\\b",
+        "b_en": "\\b(ship|boat|sea|port|sail)\\b",
+        "b_de": "\\b(schiff|boot|meer|hafen|segel)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "906",
+        "title": "bow <-> tag_all",
+        "a_en": "\\b(bow|arc)\\b",
+        "a_de": "\\b(bogen)\\b",
+        "b_en": "\\b(ship|boat|sail|seal|cargo)\\b",
+        "b_de": "\\b(schiff|boot|segel|siegel|fracht)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "374",
+        "title": "leaf <-> md_HR_elite",
+        "a_en": "\\b(leaf|leaves|petal|frond)\\b",
+        "a_de": "\\b(blatt|blatter|laub)\\b",
+        "b_en": "\\b(house|family|lineage|merchant|chief)\\b",
+        "b_de": "\\b(haus|familie|sippe|kaufmann|herr)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "892",
+        "title": "bow <-> pot_all",
+        "a_en": "\\b(bow|arc)\\b",
+        "a_de": "\\b(bogen)\\b",
+        "b_en": "\\b(measure|capacity|bushel|oil|ration)\\b",
+        "b_de": "\\b(mass|menge|ol|ration)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "798",
+        "title": "leaf <-> md_HR_elite",
+        "a_en": "\\b(leaf|leaves|petal|frond)\\b",
+        "a_de": "\\b(blatt|blatter|laub)\\b",
+        "b_en": "\\b(house|family|lineage|merchant|chief)\\b",
+        "b_de": "\\b(haus|familie|sippe|kaufmann|herr)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "880",
+        "title": "wheel <-> tag_all",
+        "a_en": "\\b(wheel|chariot|cart|wagon)\\b",
+        "a_de": "\\b(rad|wagen|karren)\\b",
+        "b_en": "\\b(ship|boat|sail|seal|cargo)\\b",
+        "b_de": "\\b(schiff|boot|segel|siegel|fracht)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "742",
+        "title": "jar <-> md_HR_elite",
+        "a_en": "\\b(jar|pot|waterpot|pitcher|urn)\\b",
+        "a_de": "\\b(krug|topf|urne)\\b",
+        "b_en": "\\b(house|family|lineage|merchant|chief)\\b",
+        "b_de": "\\b(haus|familie|sippe|kaufmann|herr)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "900",
+        "title": "bow <-> md_citadel",
+        "a_en": "\\b(bow|arc)\\b",
+        "a_de": "\\b(bogen)\\b",
+        "b_en": "\\b(fort|citadel|temple|priest|palace)\\b",
+        "b_de": "\\b(burg|tempel|priester|palast)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "125",
+        "title": "bow <-> md_HR_elite",
+        "a_en": "\\b(bow|arc)\\b",
+        "a_de": "\\b(bogen)\\b",
+        "b_en": "\\b(house|family|lineage|merchant|chief)\\b",
+        "b_de": "\\b(haus|familie|sippe|kaufmann|herr)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "350",
+        "title": "fork <-> circuit_eastern_headwaters",
+        "a_en": "\\b(fork|prong|branch|bough)\\b",
+        "a_de": "\\b(gabel|zweig|ast)\\b",
+        "b_en": "\\b(wheat|grain|cotton|river|plough)\\b",
+        "b_de": "\\b(weizen|getreide|fluss|pflug)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "100",
+        "title": "man <-> tag_all",
+        "a_en": "\\b(man|male|husband|warrior)\\b",
+        "a_de": "\\b(mann|gatte|krieger)\\b",
+        "b_en": "\\b(ship|boat|sail|seal|cargo)\\b",
+        "b_de": "\\b(schiff|boot|segel|siegel|fracht)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "236",
+        "title": "bow <-> circuit_maritime_coastal",
+        "a_en": "\\b(bow|arc)\\b",
+        "a_de": "\\b(bogen)\\b",
+        "b_en": "\\b(ship|boat|sea|port|sail)\\b",
+        "b_de": "\\b(schiff|boot|meer|hafen|segel)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "222",
+        "title": "fish <-> ctab_rhinoceros",
+        "a_en": "\\b(fish|fishes|carp)\\b",
+        "a_de": "\\b(fisch|fische)\\b",
+        "b_en": "\\b(star|bright|clan|lord|chief)\\b",
+        "b_de": "\\b(stern|sippe|herr)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "923",
+        "title": "bow <-> ctab_elephant",
+        "a_en": "\\b(bow|arc)\\b",
+        "a_de": "\\b(bogen)\\b",
+        "b_en": "\\b(elephant|ivory|tusk)\\b",
+        "b_de": "\\b(elefant|elfenbein|zahn)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "235",
+        "title": "fish <-> ctab_rhinoceros",
+        "a_en": "\\b(fish|fishes|carp)\\b",
+        "a_de": "\\b(fisch|fische)\\b",
+        "b_en": "\\b(star|bright|clan|lord|chief)\\b",
+        "b_de": "\\b(stern|sippe|herr)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "806",
+        "title": "leaf <-> ctab_human_archer",
+        "a_en": "\\b(leaf|leaves|petal|frond)\\b",
+        "a_de": "\\b(blatt|blatter|laub)\\b",
+        "b_en": "\\b(archer|hunter|bowman|guard|month)\\b",
+        "b_de": "\\b(jager|wachter|monat)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "422",
+        "title": "comb <-> copper_tablet_vs_all",
+        "a_en": "\\b(comb|carding)\\b",
+        "a_de": "\\b(kamm)\\b",
+        "b_en": "\\b(field|allotment|share|portion|estate)\\b",
+        "b_de": "\\b(feld|anteil|teil|besitz)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "255",
+        "title": "fish <-> mtab_all",
+        "a_en": "\\b(fish|fishes|carp)\\b",
+        "a_de": "\\b(fisch|fische)\\b",
+        "b_en": "\\b(grain|barley|ration|allowance|measure)\\b",
+        "b_de": "\\b(getreide|gerste|ration|lohn|mass)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "415",
+        "title": "rake <-> mtab_all",
+        "a_en": "\\b(rake|harrow)\\b",
+        "a_de": "\\b(rechen|harke)\\b",
+        "b_en": "\\b(grain|barley|ration|allowance|measure)\\b",
+        "b_de": "\\b(getreide|gerste|ration|lohn|mass)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "840",
+        "title": "leaf <-> md_HR_elite",
+        "a_en": "\\b(leaf|leaves|petal|frond)\\b",
+        "a_de": "\\b(blatt|blatter|laub)\\b",
+        "b_en": "\\b(house|family|lineage|merchant|chief)\\b",
+        "b_de": "\\b(haus|familie|sippe|kaufmann|herr)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "520",
+        "title": "arrow <-> copper_tablet_vs_all",
+        "a_en": "\\b(arrow|dart|spear|lance)\\b",
+        "a_de": "\\b(pfeil|speer|lanze)\\b",
+        "b_en": "\\b(field|allotment|share|portion|estate)\\b",
+        "b_de": "\\b(feld|anteil|teil|besitz)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "868",
+        "title": "book <-> mtab_all",
+        "a_en": "\\b(tablet|slab|board)\\b",
+        "a_de": "\\b(tafel|brett)\\b",
+        "b_en": "\\b(grain|barley|ration|allowance|measure)\\b",
+        "b_de": "\\b(getreide|gerste|ration|lohn|mass)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "838",
+        "title": "leaf <-> ivory_bone_rod",
+        "a_en": "\\b(leaf|leaves|petal|frond)\\b",
+        "a_de": "\\b(blatt|blatter|laub)\\b",
+        "b_en": "\\b(ivory|tusk|bone|small|junior)\\b",
+        "b_de": "\\b(elfenbein|zahn|knochen|klein|jung)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "233",
+        "title": "fish <-> copper_tablet_vs_all",
+        "a_en": "\\b(fish|fishes|carp)\\b",
+        "a_de": "\\b(fisch|fische)\\b",
+        "b_en": "\\b(field|allotment|share|portion|estate)\\b",
+        "b_de": "\\b(feld|anteil|teil|besitz)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "384",
+        "title": "leaf <-> copper_tablet_vs_all",
+        "a_en": "\\b(leaf|leaves|petal|frond)\\b",
+        "a_de": "\\b(blatt|blatter|laub)\\b",
+        "b_en": "\\b(field|allotment|share|portion|estate)\\b",
+        "b_de": "\\b(feld|anteil|teil|besitz)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "790",
+        "title": "leaf <-> har_mound_AB",
+        "a_en": "\\b(leaf|leaves|petal|frond)\\b",
+        "a_de": "\\b(blatt|blatter|laub)\\b",
+        "b_en": "\\b(fort|citadel|palace|chief|bangle)\\b",
+        "b_de": "\\b(burg|palast|herr|ring)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "354",
+        "title": "rake <-> har_mound_AB",
+        "a_en": "\\b(rake|harrow)\\b",
+        "a_de": "\\b(rechen|harke)\\b",
+        "b_en": "\\b(fort|citadel|palace|chief|bangle)\\b",
+        "b_de": "\\b(burg|palast|herr|ring)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      }
+    ],
+    "legacy12": [
+      {
+        "sign": "705",
+        "title": "measure/threshing/grain <-> ship/boat",
+        "a_en": "\\b(measure|bushel|threshing|grain|barley)\\b",
+        "a_de": "\\b(mass|getreide|korn|gerste)\\b",
+        "b_en": "\\b(ship|boat|canoe|raft|sailor|navigator)\\b",
+        "b_de": "\\b(schiff|boot|kahn|segel)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "820",
+        "title": "wheel/cart <-> quarter/fourth/leg",
+        "a_en": "\\b(wheel|chariot|wagon|cart|spoke)\\b",
+        "a_de": "\\b(rad|wagen|karren|speiche)\\b",
+        "b_en": "\\b(quarter|fourth|fraction|precinct|leg|foot)\\b",
+        "b_de": "\\b(viertel|bezirk|bein|fuss)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "220",
+        "title": "fish <-> star/constellation/shine",
+        "a_en": "\\b(fish|fishes|carp)\\b",
+        "a_de": "\\b(fisch|fische)\\b",
+        "b_en": "\\b(star|stars|constellation|planet|asterism|shine|glitter|flash)\\b",
+        "b_de": "\\b(stern|gestirn|glanz|leucht)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "740",
+        "title": "water_jar/pot <-> house/family/lineage",
+        "a_en": "\\b(jar|pot|waterpot|pitcher|jug|urn)\\b",
+        "a_de": "\\b(krug|topf|urne|gefass)\\b",
+        "b_en": "\\b(house|household|family|lineage|clan|dwelling|abode)\\b",
+        "b_de": "\\b(haus|familie|sippe|wohnung|heim)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "520",
+        "title": "spear/lance/dart <-> chief/ruler/prince",
+        "a_en": "\\b(spear|lance|javelin|dart|pike|trident)\\b",
+        "a_de": "\\b(speer|lanze|spiess|pfeil)\\b",
+        "b_en": "\\b(chief|chieftain|prince|king|ruler|lord|noble)\\b",
+        "b_de": "\\b(furst|fuerst|herrscher|konig|herr)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "400",
+        "title": "comb/rake <-> small/junior/subordinate",
+        "a_en": "\\b(comb|rake|harrow|carding)\\b",
+        "a_de": "\\b(kamm|rechen|harke)\\b",
+        "b_en": "\\b(small|little|young|junior|minor|servant)\\b",
+        "b_de": "\\b(klein|jung|knabe|diener)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "861",
+        "title": "enclosure/field/court <-> share/portion/weight/property",
+        "a_en": "\\b(enclosure|courtyard|court|plot|land|field)\\b",
+        "a_de": "\\b(hof|feld|platz|gehege|land)\\b",
+        "b_en": "\\b(share|portion|allotment|property|fraction|weight)\\b",
+        "b_de": "\\b(anteil|teil|besitz|gewicht)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "320",
+        "title": "step/stair/ladder <-> allowance/ration/capacity_measure",
+        "a_en": "\\b(step|stair|ladder|rung|threshold|sill)\\b",
+        "a_de": "\\b(stufe|treppe|leiter|schwelle)\\b",
+        "b_en": "\\b(allowance|ration|measure|capacity|wage|stipend|weight)\\b",
+        "b_de": "\\b(ration|lohn|mass|gewicht)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "090",
+        "title": "man/male/husband <-> servant/agent/governor/rule",
+        "a_en": "\\b(man|male|husband|warrior)\\b",
+        "a_de": "\\b(mann|gatte|krieger)\\b",
+        "b_en": "\\b(servant|slave|labourer|agent|manage|rule|governor|officer)\\b",
+        "b_de": "\\b(diener|knecht|beamter|verwalter|herrschen)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "154",
+        "title": "carrying_pole/yoke <-> guard/protect/watch",
+        "a_en": "\\b(yoke|carrying|pole|shoulder|burden|load|porter)\\b",
+        "a_de": "\\b(joch|stange|last|tragen|trager)\\b",
+        "b_en": "\\b(guard|protect|watch|keeper|warder|defend|preserve|shelter)\\b",
+        "b_de": "\\b(wachter|schutzen|huten|bewahren)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "850",
+        "title": "eye/sight/pupil <-> copper/bronze/metal/blade",
+        "a_en": "\\b(eye|eyes|sight|pupil|vision)\\b",
+        "a_de": "\\b(auge|augen|blick)\\b",
+        "b_en": "\\b(copper|bronze|metal|brass|ore|blade|axe|chisel)\\b",
+        "b_de": "\\b(kupfer|bronze|metall|erz|klinge|axt)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      },
+      {
+        "sign": "390",
+        "title": "tree/branch/bough <-> cotton/thread/cloth/yarn",
+        "a_en": "\\b(tree|shrub|bush|bough|branch|timber)\\b",
+        "a_de": "\\b(baum|strauch|busch|zweig)\\b",
+        "b_en": "\\b(cotton|thread|yarn|cloth|fibre|fiber|linen|textile)\\b",
+        "b_de": "\\b(baumwolle|faden|garn|stoff|gewebe)\\b",
+        "source": "work_scripts/key2a_rebus_lock.py"
+      }
+    ],
+    "key4b30": [
+      {
+        "sign": "700",
+        "title": "cup, bowl, vessel, pot, jar, hollow → measure, capacity, grain, ration, allowance, portion",
+        "a_en": "\\b(?:cup|bowl|vessel|pot|jar|hollow)\\b",
+        "b_en": "\\b(?:measure|capacity|grain|ration|allowance|portion)\\b",
+        "a_de": "\\b(?:becher|schale|gefass|topf|krug|hohl)\\b",
+        "b_de": "\\b(?:mass|kapazitat|getreide|ration|zulage|anteil)\\b",
+        "source": "work_data/key4b/test4b1_top30_sign_table.csv"
+      },
+      {
+        "sign": "240",
+        "title": "whisker, fin, wing, feather, cheek, bristle → star, bright, shine, glitter, chief, lord, bead",
+        "a_en": "\\b(?:whisker|fin|wing|feather|cheek|bristle)\\b",
+        "b_en": "\\b(?:star|bright|shine|glitter|chief|lord|bead)\\b",
+        "a_de": "\\b(?:schnurrhaar|flosse|flugel|feder|wange|borste)\\b",
+        "b_de": "\\b(?:stern|hell|scheinen|glitzern|hauptling|herr|perle)\\b",
+        "source": "work_data/key4b/test4b1_top30_sign_table.csv"
+      },
+      {
+        "sign": "861",
+        "title": "eye, seed, kernel, bud, lozenge, sight → weight, fraction, share, property, tribute, offering",
+        "a_en": "\\b(?:eye|seed|kernel|bud|lozenge|sight)\\b",
+        "b_en": "\\b(?:weight|fraction|share|property|tribute|offering)\\b",
+        "a_de": "\\b(?:auge|samen|kern|knospe|raute|sicht)\\b",
+        "b_de": "\\b(?:gewicht|bruchteil|anteil|eigentum|tribut|opfer)\\b",
+        "source": "work_data/key4b/test4b1_top30_sign_table.csv"
+      },
+      {
+        "sign": "060",
+        "title": "slant, slope, bend, bent, curve, crooked, lean → inside, inner, within, join, unite, quarter, belong",
+        "a_en": "\\b(?:slant|slope|bend|bent|curve|crooked|lean)\\b",
+        "b_en": "\\b(?:inside|inner|within|join|unite|quarter|belong)\\b",
+        "a_de": "\\b(?:schrag|neigung|biegen|gebogen|kurve|krumm|lehnen)\\b",
+        "b_de": "\\b(?:innen|inner|innerhalb|verbinden|vereinigen|viertel|gehoren)\\b",
+        "source": "work_data/key4b/test4b1_top30_sign_table.csv"
+      },
+      {
+        "sign": "590",
+        "title": "box, chest, crate, basket, plait, braid → sack, pack, bale, bundle, granary, store, treasury",
+        "a_en": "\\b(?:box|chest|crate|basket|plait|braid)\\b",
+        "b_en": "\\b(?:sack|pack|bale|bundle|granary|store|treasury)\\b",
+        "a_de": "\\b(?:kasten|truhe|kiste|korb|flechten|zopf)\\b",
+        "b_de": "\\b(?:sack|packen|ballen|bundel|speicher|lager|schatzkammer)\\b",
+        "source": "work_data/key4b/test4b1_top30_sign_table.csv"
+      },
+      {
+        "sign": "741",
+        "title": "jar, pot, waterpot, pitcher, vessel → house, ward, family, abode, lineage, tenant",
+        "a_en": "\\b(?:jar|pot|waterpot|pitcher|vessel)\\b",
+        "b_en": "\\b(?:house|ward|family|abode|lineage|tenant)\\b",
+        "a_de": "\\b(?:krug|topf|wasserkrug|kanne|gefass)\\b",
+        "b_de": "\\b(?:haus|bezirk|familie|wohnung|sippe|mieter)\\b",
+        "source": "work_data/key4b/test4b1_top30_sign_table.csv"
+      },
+      {
+        "sign": "615",
+        "title": "grid, net, lattice, mesh, frame, reed, square → field, land, arable, ridge, estate, plot, farm",
+        "a_en": "\\b(?:grid|net|lattice|mesh|frame|reed|square)\\b",
+        "b_en": "\\b(?:field|land|arable|ridge|estate|plot|farm)\\b",
+        "a_de": "\\b(?:gitter|netz|maschen|rahmen|rohr|quadrat)\\b",
+        "b_de": "\\b(?:feld|land|acker|rucken|gut|parzelle|hof)\\b",
+        "source": "work_data/key4b/test4b1_top30_sign_table.csv"
+      },
+      {
+        "sign": "817",
+        "title": "eye, seed, kernel, bud, lozenge, sight → box, chest, crate, cargo, freight, weight, share",
+        "a_en": "\\b(?:eye|seed|kernel|bud|lozenge|sight)\\b",
+        "b_en": "\\b(?:box|chest|crate|cargo|freight|weight|share)\\b",
+        "a_de": "\\b(?:auge|samen|kern|knospe|raute|sicht)\\b",
+        "b_de": "\\b(?:kasten|truhe|kiste|ladung|fracht|gewicht|anteil)\\b",
+        "source": "work_data/key4b/test4b1_top30_sign_table.csv"
+      },
+      {
+        "sign": "233",
+        "title": "split, halve, divide, cut, slice, cleave, crack → star, bright, shine, dawn, light, luster, sun",
+        "a_en": "\\b(?:split|halve|divide|cut|slice|cleave|crack)\\b",
+        "b_en": "\\b(?:star|bright|shine|dawn|light|luster|sun)\\b",
+        "a_de": "\\b(?:spalten|halbieren|teilen|schneiden|scheibe|riss)\\b",
+        "b_de": "\\b(?:stern|hell|scheinen|morgenrote|licht|glanz|sonne)\\b",
+        "source": "work_data/key4b/test4b1_top30_sign_table.csv"
+      },
+      {
+        "sign": "415",
+        "title": "fork, branch, prong, rake, bifurcate, tine → seize, grasp, control, share, rent, chief, lord",
+        "a_en": "\\b(?:fork|branch|prong|rake|bifurcate|tine)\\b",
+        "b_en": "\\b(?:seize|grasp|control|share|rent|chief|lord)\\b",
+        "a_de": "\\b(?:gabel|zweig|zinke|rechen|verzweigen)\\b",
+        "b_de": "\\b(?:ergreifen|fassen|kontrollieren|anteil|pacht|hauptling|herr)\\b",
+        "source": "work_data/key4b/test4b1_top30_sign_table.csv"
+      },
+      {
+        "sign": "920",
+        "title": "moon, crescent, lunar, arc → month, season, period, office, craft, bead",
+        "a_en": "\\b(?:moon|crescent|lunar|arc)\\b",
+        "b_en": "\\b(?:month|season|period|office|craft|bead)\\b",
+        "a_de": "\\b(?:mond|sichel|mondformig|bogen)\\b",
+        "b_de": "\\b(?:monat|jahreszeit|zeitraum|amt|handwerk|perle)\\b",
+        "source": "work_data/key4b/test4b1_top30_sign_table.csv"
+      },
+      {
+        "sign": "405",
+        "title": "tree, branch, bough, twig, shrub → thread, yarn, cord, string, weave, knit, spin",
+        "a_en": "\\b(?:tree|branch|bough|twig|shrub)\\b",
+        "b_en": "\\b(?:thread|yarn|cord|string|weave|knit|spin)\\b",
+        "a_de": "\\b(?:baum|zweig|ast|strauch)\\b",
+        "b_de": "\\b(?:faden|garn|schnur|weben|stricken|spinnen)\\b",
+        "source": "work_data/key4b/test4b1_top30_sign_table.csv"
+      },
+      {
+        "sign": "407",
+        "title": "tree, branch, bough, twig, horn, shrub → cloth, textile, garment, fabric, dye, weaver",
+        "a_en": "\\b(?:tree|branch|bough|twig|horn|shrub)\\b",
+        "b_en": "\\b(?:cloth|textile|garment|fabric|dye|weaver)\\b",
+        "a_de": "\\b(?:baum|zweig|ast|horn|strauch)\\b",
+        "b_de": "\\b(?:stoff|textil|kleid|gewebe|farbe|weber)\\b",
+        "source": "work_data/key4b/test4b1_top30_sign_table.csv"
+      },
+      {
+        "sign": "806",
+        "title": "leaf, stalk, stem, sprout, shoot, twig → crop, millet, grain, harvest, yield, produce, barley",
+        "a_en": "\\b(?:leaf|stalk|stem|sprout|shoot|twig)\\b",
+        "b_en": "\\b(?:crop|millet|grain|harvest|yield|produce|barley)\\b",
+        "a_de": "\\b(?:blatt|stengel|stiel|spross|trieb|zweig)\\b",
+        "b_de": "\\b(?:ernte|hirse|getreide|ertrag|erzeugnis|gerste)\\b",
+        "source": "work_data/key4b/test4b1_top30_sign_table.csv"
+      },
+      {
+        "sign": "798",
+        "title": "leaf, petal, pincer, claw, tongs, crab → house, mansion, courtyard, lineage, merchant, heir",
+        "a_en": "\\b(?:leaf|petal|pincer|claw|tongs|crab)\\b",
+        "b_en": "\\b(?:house|mansion|courtyard|lineage|merchant|heir)\\b",
+        "a_de": "\\b(?:blatt|blutenblatt|zange|klaue|krabbe)\\b",
+        "b_de": "\\b(?:haus|palast|hof|sippe|kaufmann|erbe)\\b",
+        "source": "work_data/key4b/test4b1_top30_sign_table.csv"
+      },
+      {
+        "sign": "255",
+        "title": "animal, beast, fish, bird, fowl, fin → ration, allowance, grain, granary, chief, king, issue",
+        "a_en": "\\b(?:animal|beast|fish|bird|fowl|fin)\\b",
+        "b_en": "\\b(?:ration|allowance|grain|granary|chief|king|issue)\\b",
+        "a_de": "\\b(?:tier|bestie|fisch|vogel|geflugel|flosse)\\b",
+        "b_de": "\\b(?:ration|zulage|getreide|speicher|hauptling|konig|ausgabe)\\b",
+        "source": "work_data/key4b/test4b1_top30_sign_table.csv"
+      },
+      {
+        "sign": "803",
+        "title": "leaf, leaves, foliage, petal → house, abode, home, family, dwelling, lineage",
+        "a_en": "\\b(?:leaf|leaves|foliage|petal)\\b",
+        "b_en": "\\b(?:house|abode|home|family|dwelling|lineage)\\b",
+        "a_de": "\\b(?:blatt|blatter|laub|blutenblatt)\\b",
+        "b_de": "\\b(?:haus|wohnung|heim|familie|sippe)\\b",
+        "source": "work_data/key4b/test4b1_top30_sign_table.csv"
+      },
+      {
+        "sign": "156",
+        "title": "carry, burden, porter, shoulder, pole, yoke → bale, pack, sack, bundle, ration, measure, weight",
+        "a_en": "\\b(?:carry|burden|porter|shoulder|pole|yoke)\\b",
+        "b_en": "\\b(?:bale|pack|sack|bundle|ration|measure|weight)\\b",
+        "a_de": "\\b(?:tragen|last|trager|schulter|stange|joch)\\b",
+        "b_de": "\\b(?:ballen|packen|sack|bundel|ration|mass|gewicht)\\b",
+        "source": "work_data/key4b/test4b1_top30_sign_table.csv"
+      },
+      {
+        "sign": "840",
+        "title": "pair, twin, couple, double, leaf, leaves → equal, match, agree, join, unite, bangle, ring, audit",
+        "a_en": "\\b(?:pair|twin|couple|double|leaf|leaves)\\b",
+        "b_en": "\\b(?:equal|match|agree|join|unite|bangle|ring|audit)\\b",
+        "a_de": "\\b(?:paar|zwilling|doppelt|blatt|blatter)\\b",
+        "b_de": "\\b(?:gleich|passen|ubereinstimmen|verbinden|vereinigen|armreif|ring|prufung)\\b",
+        "source": "work_data/key4b/test4b1_top30_sign_table.csv"
+      },
+      {
+        "sign": "760",
+        "title": "sprout, shoot, bud, twig, tendril → child, young, son, offspring, descendant, heir",
+        "a_en": "\\b(?:sprout|shoot|bud|twig|tendril)\\b",
+        "b_en": "\\b(?:child|young|son|offspring|descendant|heir)\\b",
+        "a_de": "\\b(?:spross|trieb|knospe|zweig|ranke)\\b",
+        "b_de": "\\b(?:kind|jung|sohn|nachkomme|erbe)\\b",
+        "source": "work_data/key4b/test4b1_top30_sign_table.csv"
+      },
+      {
+        "sign": "368",
+        "title": "flag, banner, pennant, streamer, creeper, wing → give, grant, allot, title, pedigree, grain, ration",
+        "a_en": "\\b(?:flag|banner|pennant|streamer|creeper|wing)\\b",
+        "b_en": "\\b(?:give|grant|allot|title|pedigree|grain|ration)\\b",
+        "a_de": "\\b(?:fahne|banner|wimpel|kriechpflanze|flugel)\\b",
+        "b_de": "\\b(?:geben|gewahren|zuteilen|titel|abstammung|getreide|ration)\\b",
+        "source": "work_data/key4b/test4b1_top30_sign_table.csv"
+      },
+      {
+        "sign": "690",
+        "title": "knot, tie, bind, fasten, clasp, link → bundle, packet, store, building, ration, grain, pledge",
+        "a_en": "\\b(?:knot|tie|bind|fasten|clasp|link)\\b",
+        "b_en": "\\b(?:bundle|packet|store|building|ration|grain|pledge)\\b",
+        "a_de": "\\b(?:knoten|knupfen|binden|befestigen|klammer|glied)\\b",
+        "b_de": "\\b(?:bundel|paket|lager|gebaude|ration|getreide|pfand)\\b",
+        "source": "work_data/key4b/test4b1_top30_sign_table.csv"
+      },
+      {
+        "sign": "550",
+        "title": "mouth, jaw, pincer, beak, claw, tongs → gate, portal, door, entrance, citadel, fort, precinct",
+        "a_en": "\\b(?:mouth|jaw|pincer|beak|claw|tongs)\\b",
+        "b_en": "\\b(?:gate|portal|door|entrance|citadel|fort|precinct)\\b",
+        "a_de": "\\b(?:mund|kiefer|zange|schnabel|klaue)\\b",
+        "b_de": "\\b(?:tor|portal|tur|eingang|zitadelle|festung|bezirk)\\b",
+        "source": "work_data/key4b/test4b1_top30_sign_table.csv"
+      },
+      {
+        "sign": "892",
+        "title": "bow, arrow, arc, archer → sell, sale, price, cost, value, trade, merchant",
+        "a_en": "\\b(?:bow|arrow|arc|archer)\\b",
+        "b_en": "\\b(?:sell|sale|price|cost|value|trade|merchant)\\b",
+        "a_de": "\\b(?:bogen|pfeil|bogenschutze)\\b",
+        "b_de": "\\b(?:verkaufen|verkauf|preis|kosten|wert|handel|kaufmann)\\b",
+        "source": "work_data/key4b/test4b1_top30_sign_table.csv"
+      },
+      {
+        "sign": "140",
+        "title": "woman, female, breast, mother, matron, girl → goddess, queen, ruler, chief, sacred, temple, citadel",
+        "a_en": "\\b(?:woman|female|breast|mother|matron|girl)\\b",
+        "b_en": "\\b(?:goddess|queen|ruler|chief|sacred|temple|citadel)\\b",
+        "a_de": "\\b(?:frau|weiblich|brust|mutter|matrone|madchen)\\b",
+        "b_de": "\\b(?:gottin|konigin|herrscher|hauptling|heilig|tempel|zitadelle)\\b",
+        "source": "work_data/key4b/test4b1_top30_sign_table.csv"
+      },
+      {
+        "sign": "151",
+        "title": "carry, burden, load, porter, pole, shoulder → guard, protect, watch, shelter, defence, preserve",
+        "a_en": "\\b(?:carry|burden|load|porter|pole|shoulder)\\b",
+        "b_en": "\\b(?:guard|protect|watch|shelter|defence|preserve)\\b",
+        "a_de": "\\b(?:tragen|last|trager|stange|schulter)\\b",
+        "b_de": "\\b(?:wachen|schutzen|wachter|obdach|verteidigung|bewahren)\\b",
+        "source": "work_data/key4b/test4b1_top30_sign_table.csv"
+      },
+      {
+        "sign": "142",
+        "title": "staff, stick, rod, sceptre, club → king, chief, ruler, lord, sovereign, officer",
+        "a_en": "\\b(?:staff|stick|rod|sceptre|club)\\b",
+        "b_en": "\\b(?:king|chief|ruler|lord|sovereign|officer)\\b",
+        "a_de": "\\b(?:stab|stock|stange|zepter|keule)\\b",
+        "b_de": "\\b(?:konig|hauptling|herrscher|herr|souveran|beamter)\\b",
+        "source": "work_data/key4b/test4b1_top30_sign_table.csv"
+      },
+      {
+        "sign": "503",
+        "title": "hill, mountain, peak, ridge, mound → garland, necklace, string, bead, shell, dye, estate",
+        "a_en": "\\b(?:hill|mountain|peak|ridge|mound)\\b",
+        "b_en": "\\b(?:garland|necklace|string|bead|shell|dye|estate)\\b",
+        "a_de": "\\b(?:hugel|berg|gipfel|rucken|haufen)\\b",
+        "b_de": "\\b(?:kranz|halskette|schnur|perle|muschel|farbe|gut)\\b",
+        "source": "work_data/key4b/test4b1_top30_sign_table.csv"
+      },
+      {
+        "sign": "231",
+        "title": "pierce, stab, plant, stick, line, stroke → star, bright, shine, country, district, estate, bull",
+        "a_en": "\\b(?:pierce|stab|plant|stick|line|stroke)\\b",
+        "b_en": "\\b(?:star|bright|shine|country|district|estate|bull)\\b",
+        "a_de": "\\b(?:durchbohren|stechen|pflanzen|stock|linie|strich)\\b",
+        "b_de": "\\b(?:stern|hell|scheinen|land|bezirk|gut|stier)\\b",
+        "source": "work_data/key4b/test4b1_top30_sign_table.csv"
+      },
+      {
+        "sign": "706",
+        "title": "cup, bowl, vessel, pot, jar, hollow → measure, bushel, capacity, grain, ivory, elephant",
+        "a_en": "\\b(?:cup|bowl|vessel|pot|jar|hollow)\\b",
+        "b_en": "\\b(?:measure|bushel|capacity|grain|ivory|elephant)\\b",
+        "a_de": "\\b(?:becher|schale|gefass|topf|krug|hohl)\\b",
+        "b_de": "\\b(?:mass|scheffel|kapazitat|getreide|elfenbein|elefant)\\b",
+        "source": "work_data/key4b/test4b1_top30_sign_table.csv"
+      }
+    ],
+    "key5a13": [
+      {
+        "sign": "240",
+        "title": "ray, beam, fin, barb, slant, incline → star, bright, shine, glow, brilliance, light",
+        "a_en": "\\b(?:ray|beam|fin|barb|slant|incline)\\b",
+        "b_en": "\\b(?:star|bright|shine|glow|brilliance|light)\\b",
+        "a_de": "\\b(?:strahl|balken|flosse|widerhaken|schrag|neigen)\\b",
+        "b_de": "\\b(?:stern|hell|scheinen|gluhen|glanz|licht)\\b",
+        "source": "work_data/key5a/trackA_per_sign_bridges.csv"
+      },
+      {
+        "sign": "060",
+        "title": "slant, slope, bend, curve, crooked, lean → inside, within, belong, depend, join, interior",
+        "a_en": "\\b(?:slant|slope|bend|curve|crooked|lean)\\b",
+        "b_en": "\\b(?:inside|within|belong|depend|join|interior)\\b",
+        "a_de": "\\b(?:schrag|neigung|biegen|kurve|krumm|lehnen)\\b",
+        "b_de": "\\b(?:innen|innerhalb|gehoren|abhangen|verbinden|inneres)\\b",
+        "source": "work_data/key5a/trackA_per_sign_bridges.csv"
+      },
+      {
+        "sign": "798",
+        "title": "crab, shell, pincer, claw, tongs → seize, grasp, hold, bind, house, guild",
+        "a_en": "\\b(?:crab|shell|pincer|claw|tongs)\\b",
+        "b_en": "\\b(?:seize|grasp|hold|bind|house|guild)\\b",
+        "a_de": "\\b(?:krabbe|muschel|zange|klaue)\\b",
+        "b_de": "\\b(?:ergreifen|fassen|halten|binden|haus|gilde)\\b",
+        "source": "work_data/key5a/trackA_per_sign_bridges.csv"
+      },
+      {
+        "sign": "550",
+        "title": "waist, middle, centre, narrow, pinch, squeeze → country, district, province, precinct, citadel, locality",
+        "a_en": "\\b(?:waist|middle|centre|narrow|pinch|squeeze)\\b",
+        "b_en": "\\b(?:country|district|province|precinct|citadel|locality)\\b",
+        "a_de": "\\b(?:taille|mitte|zentrum|eng|kneifen|drucken)\\b",
+        "b_de": "\\b(?:land|bezirk|provinz|zitadelle|ort)\\b",
+        "source": "work_data/key5a/trackA_per_sign_bridges.csv"
+      },
+      {
+        "sign": "142",
+        "title": "staff, stick, rod, wand, club → measure, rule, limit, gauge, king, ruler",
+        "a_en": "\\b(?:staff|stick|rod|wand|club)\\b",
+        "b_en": "\\b(?:measure|rule|limit|gauge|king|ruler)\\b",
+        "a_de": "\\b(?:stab|stock|stange|zauberstab|keule)\\b",
+        "b_de": "\\b(?:mass|regel|grenze|messen|konig|herrscher)\\b",
+        "source": "work_data/key5a/trackA_per_sign_bridges.csv"
+      },
+      {
+        "sign": "440",
+        "title": "corner, angle, nook, crook, elbow → pot, vessel, goblet, cup, jar, earthen",
+        "a_en": "\\b(?:corner|angle|nook|crook|elbow)\\b",
+        "b_en": "\\b(?:pot|vessel|goblet|cup|jar|earthen)\\b",
+        "a_de": "\\b(?:ecke|winkel|nische|krumme|ellbogen)\\b",
+        "b_de": "\\b(?:topf|gefass|pokal|becher|krug|irden)\\b",
+        "source": "work_data/key5a/trackA_per_sign_bridges.csv"
+      },
+      {
+        "sign": "692",
+        "title": "cross, intersect, transverse, criss → assembly, council, guild, office, citadel, precinct",
+        "a_en": "\\b(?:cross|intersect|transverse|criss)\\b",
+        "b_en": "\\b(?:assembly|council|guild|office|citadel|precinct)\\b",
+        "a_de": "\\b(?:kreuz|kreuzen|quer|kreuzweise)\\b",
+        "b_de": "\\b(?:versammlung|rat|gilde|amt|zitadelle|bezirk)\\b",
+        "source": "work_data/key5a/trackA_per_sign_bridges.csv"
+      },
+      {
+        "sign": "435",
+        "title": "hook, prong, fork, peg, spike, barbed → ally, companion, chief, support, servant, deputy",
+        "a_en": "\\b(?:hook|prong|fork|peg|spike|barbed)\\b",
+        "b_en": "\\b(?:ally|companion|chief|support|servant|deputy)\\b",
+        "a_de": "\\b(?:haken|zinke|gabel|pflock|stachel|widerhaken)\\b",
+        "b_de": "\\b(?:verbundeter|gefahrte|hauptling|stutze|diener|stellvertreter)\\b",
+        "source": "work_data/key5a/trackA_per_sign_bridges.csv"
+      },
+      {
+        "sign": "585",
+        "title": "tent, canopy, awning, umbrella, roof, gable → temple, palace, citadel, shrine, hall, workshop",
+        "a_en": "\\b(?:tent|canopy|awning|umbrella|roof|gable)\\b",
+        "b_en": "\\b(?:temple|palace|citadel|shrine|hall|workshop)\\b",
+        "a_de": "\\b(?:zelt|baldachin|markise|schirm|dach|giebel)\\b",
+        "b_de": "\\b(?:tempel|palast|zitadelle|heiligtum|halle|werkstatt)\\b",
+        "source": "work_data/key5a/trackA_per_sign_bridges.csv"
+      },
+      {
+        "sign": "595",
+        "title": "stripe, bar, box, square, wire, strip → furnace, forge, oven, kiln, copper, smelt",
+        "a_en": "\\b(?:stripe|bar|box|square|wire|strip)\\b",
+        "b_en": "\\b(?:furnace|forge|oven|kiln|copper|smelt)\\b",
+        "a_de": "\\b(?:streifen|stange|kasten|quadrat|draht)\\b",
+        "b_de": "\\b(?:ofen|schmiede|brennofen|kupfer|schmelzen)\\b",
+        "source": "work_data/key5a/trackA_per_sign_bridges.csv"
+      },
+      {
+        "sign": "845",
+        "title": "line, streak, stripe, hatch, draw, furrow → tax, impost, duty, toll, levy, rent",
+        "a_en": "\\b(?:line|streak|stripe|hatch|draw|furrow)\\b",
+        "b_en": "\\b(?:tax|impost|duty|toll|levy|rent)\\b",
+        "a_de": "\\b(?:linie|strich|streifen|schraffur|zeichnen|furche)\\b",
+        "b_de": "\\b(?:steuer|abgabe|zoll|erheben|pacht)\\b",
+        "source": "work_data/key5a/trackA_per_sign_bridges.csv"
+      },
+      {
+        "sign": "527",
+        "title": "crossbar, bolt, latch, plank, panel, hinge → door, gate, portal, entrance, threshold, enclosure",
+        "a_en": "\\b(?:crossbar|bolt|latch|plank|panel|hinge)\\b",
+        "b_en": "\\b(?:door|gate|portal|entrance|threshold|enclosure)\\b",
+        "a_de": "\\b(?:querbalken|riegel|klinke|planke|tafel|scharnier)\\b",
+        "b_de": "\\b(?:tur|tor|portal|eingang|schwelle|gehege)\\b",
+        "source": "work_data/key5a/trackA_per_sign_bridges.csv"
+      },
+      {
+        "sign": "416",
+        "title": "fork, branch, prong, tine, rake → seaport, harbor, port, ford, seize, grasp",
+        "a_en": "\\b(?:fork|branch|prong|tine|rake)\\b",
+        "b_en": "\\b(?:seaport|harbor|port|ford|seize|grasp)\\b",
+        "a_de": "\\b(?:gabel|zweig|zinke|rechen)\\b",
+        "b_de": "\\b(?:seehafen|hafen|furt|ergreifen|fassen)\\b",
+        "source": "work_data/key5a/trackA_per_sign_bridges.csv"
+      }
+    ],
+    "key6a24": [
+      {
+        "sign": "142",
+        "title": "staff, stick, rod, wand, club → blacksmith, iron, copper, measure, rule, limit",
+        "a_en": "\\b(?:staff|stick|rod|wand|club)\\b",
+        "b_en": "\\b(?:blacksmith|iron|copper|measure|rule|limit)\\b",
+        "a_de": "\\b(?:stab|stock|stange|zauberstab|keule)\\b",
+        "b_de": "\\b(?:schmied|eisen|kupfer|mass|regel|grenze)\\b",
+        "source": "work_data/key6a/trackA_per_sign_bridges.csv"
+      },
+      {
+        "sign": "692",
+        "title": "cross, intersect, diagonal, lattice → assembly, council, citadel, precinct, office, palace",
+        "a_en": "\\b(?:cross|intersect|diagonal|lattice)\\b",
+        "b_en": "\\b(?:assembly|council|citadel|precinct|office|palace)\\b",
+        "a_de": "\\b(?:kreuz|kreuzen|diagonal|gitter)\\b",
+        "b_de": "\\b(?:versammlung|rat|zitadelle|bezirk|amt|palast)\\b",
+        "source": "work_data/key6a/trackA_per_sign_bridges.csv"
+      },
+      {
+        "sign": "585",
+        "title": "umbrella, parasol, canopy, tent, roof, gable → citadel, palace, temple, garrison, workshop, shrine",
+        "a_en": "\\b(?:umbrella|parasol|canopy|tent|roof|gable)\\b",
+        "b_en": "\\b(?:citadel|palace|temple|garrison|workshop|shrine)\\b",
+        "a_de": "\\b(?:schirm|sonnenschirm|baldachin|zelt|dach|giebel)\\b",
+        "b_de": "\\b(?:zitadelle|palast|tempel|garnison|werkstatt|heiligtum)\\b",
+        "source": "work_data/key6a/trackA_per_sign_bridges.csv"
+      },
+      {
+        "sign": "595",
+        "title": "stripe, line, streak, hatch, draw → tax, impost, duty, toll, levy, copper",
+        "a_en": "\\b(?:stripe|line|streak|hatch|draw)\\b",
+        "b_en": "\\b(?:tax|impost|duty|toll|levy|copper)\\b",
+        "a_de": "\\b(?:streifen|linie|strich|schraffur|zeichnen)\\b",
+        "b_de": "\\b(?:steuer|abgabe|zoll|erheben|kupfer)\\b",
+        "source": "work_data/key6a/trackA_per_sign_bridges.csv"
+      },
+      {
+        "sign": "527",
+        "title": "bolt, latch, crossbar, plank, hinge → gate, door, fort, precinct, border, guard",
+        "a_en": "\\b(?:bolt|latch|crossbar|plank|hinge)\\b",
+        "b_en": "\\b(?:gate|door|fort|precinct|border|guard)\\b",
+        "a_de": "\\b(?:riegel|klinke|querbalken|planke|scharnier)\\b",
+        "b_de": "\\b(?:tor|tur|festung|bezirk|grenze|wachter)\\b",
+        "source": "work_data/key6a/trackA_per_sign_bridges.csv"
+      },
+      {
+        "sign": "388",
+        "title": "banyan, pipal, fig, leaf, foliage → king, royal, tax, cloth, commodity",
+        "a_en": "\\b(?:banyan|pipal|fig|leaf|foliage)\\b",
+        "b_en": "\\b(?:king|royal|tax|cloth|commodity)\\b",
+        "a_de": "\\b(?:banyan|pipal|feige|blatt|laub)\\b",
+        "b_de": "\\b(?:konig|koniglich|steuer|stoff|ware)\\b",
+        "source": "work_data/key6a/trackA_per_sign_bridges.csv"
+      },
+      {
+        "sign": "384",
+        "title": "banyan, pipal, fig, leaf, foliage → estate, allot, copper, clan, lineage",
+        "a_en": "\\b(?:banyan|pipal|fig|leaf|foliage)\\b",
+        "b_en": "\\b(?:estate|allot|copper|clan|lineage)\\b",
+        "a_de": "\\b(?:banyan|pipal|feige|blatt|laub)\\b",
+        "b_de": "\\b(?:gut|zuteilen|kupfer|sippe|abstammung)\\b",
+        "source": "work_data/key6a/trackA_per_sign_bridges.csv"
+      },
+      {
+        "sign": "350",
+        "title": "stall, manger, fence, harrow, rake → village, plough, herd, cattle, pasture, farm",
+        "a_en": "\\b(?:stall|manger|fence|harrow|rake)\\b",
+        "b_en": "\\b(?:village|plough|herd|cattle|pasture|farm)\\b",
+        "a_de": "\\b(?:stall|krippe|zaun|egge|rechen)\\b",
+        "b_de": "\\b(?:dorf|pflug|herde|vieh|weide|hof)\\b",
+        "source": "work_data/key6a/trackA_per_sign_bridges.csv"
+      },
+      {
+        "sign": "455",
+        "title": "wing, tail, feather, butterfly, plume → star, bright, seal, gold, trade",
+        "a_en": "\\b(?:wing|tail|feather|butterfly|plume)\\b",
+        "b_en": "\\b(?:star|bright|seal|gold|trade)\\b",
+        "a_de": "\\b(?:flugel|schwanz|feder|schmetterling)\\b",
+        "b_de": "\\b(?:stern|hell|siegel|gold|handel)\\b",
+        "source": "work_data/key6a/trackA_per_sign_bridges.csv"
+      },
+      {
+        "sign": "460",
+        "title": "shoot, sprout, thorn, shrub, spike → garland, wreath, necklace, offering, sacred",
+        "a_en": "\\b(?:shoot|sprout|thorn|shrub|spike)\\b",
+        "b_en": "\\b(?:garland|wreath|necklace|offering|sacred)\\b",
+        "a_de": "\\b(?:trieb|spross|dorn|strauch|stachel)\\b",
+        "b_de": "\\b(?:kranz|girlande|halskette|opfer|heilig)\\b",
+        "source": "work_data/key6a/trackA_per_sign_bridges.csv"
+      },
+      {
+        "sign": "482",
+        "title": "mountain, hill, peak, sharpness, apex → emperor, king, lord, leadership, granary, deposit",
+        "a_en": "\\b(?:mountain|hill|peak|sharpness|apex)\\b",
+        "b_en": "\\b(?:emperor|king|lord|leadership|granary|deposit)\\b",
+        "a_de": "\\b(?:berg|hugel|gipfel|scharfe|spitze)\\b",
+        "b_de": "\\b(?:kaiser|konig|herr|fuhrung|speicher|ablagerung)\\b",
+        "source": "work_data/key6a/trackA_per_sign_bridges.csv"
+      },
+      {
+        "sign": "070",
+        "title": "post, pillar, column, arm, statue → audit, account, witness, chief, judge",
+        "a_en": "\\b(?:post|pillar|column|arm|statue)\\b",
+        "b_en": "\\b(?:audit|account|witness|chief|judge)\\b",
+        "a_de": "\\b(?:pfosten|saule|arm|statue)\\b",
+        "b_de": "\\b(?:prufung|rechnung|zeuge|hauptling|richter)\\b",
+        "source": "work_data/key6a/trackA_per_sign_bridges.csv"
+      },
+      {
+        "sign": "480",
+        "title": "point, sharp, wedge, cone, peak → vessel, measure, capacity, weight, copper, ingot",
+        "a_en": "\\b(?:point|sharp|wedge|cone|peak)\\b",
+        "b_en": "\\b(?:vessel|measure|capacity|weight|copper|ingot)\\b",
+        "a_de": "\\b(?:spitze|scharf|keil|kegel|gipfel)\\b",
+        "b_de": "\\b(?:gefass|mass|kapazitat|gewicht|kupfer|barren)\\b",
+        "source": "work_data/key6a/trackA_per_sign_bridges.csv"
+      },
+      {
+        "sign": "335",
+        "title": "trough, basin, frame, double, rack → vessel, basket, grain, ration, measure, granary",
+        "a_en": "\\b(?:trough|basin|frame|double|rack)\\b",
+        "b_en": "\\b(?:vessel|basket|grain|ration|measure|granary)\\b",
+        "a_de": "\\b(?:trog|becken|rahmen|doppelt|gestell)\\b",
+        "b_de": "\\b(?:gefass|korb|getreide|ration|mass|speicher)\\b",
+        "source": "work_data/key6a/trackA_per_sign_bridges.csv"
+      },
+      {
+        "sign": "540",
+        "title": "drum, tabor, hourglass, bowtie → capacity, measure, pot, vessel, jar, container",
+        "a_en": "\\b(?:drum|tabor|hourglass|bowtie)\\b",
+        "b_en": "\\b(?:capacity|measure|pot|vessel|jar|container)\\b",
+        "a_de": "\\b(?:trommel|tamburin|sanduhr|fliege)\\b",
+        "b_de": "\\b(?:kapazitat|mass|topf|gefass|krug|behalter)\\b",
+        "source": "work_data/key6a/trackA_per_sign_bridges.csv"
+      },
+      {
+        "sign": "645",
+        "title": "cross, intersect, scissors, diagonal → weight, gold, coin, balance, bronze, axe",
+        "a_en": "\\b(?:cross|intersect|scissors|diagonal)\\b",
+        "b_en": "\\b(?:weight|gold|coin|balance|bronze|axe)\\b",
+        "a_de": "\\b(?:kreuz|kreuzen|schere|diagonal)\\b",
+        "b_de": "\\b(?:gewicht|gold|munze|gleichgewicht|bronze|axt)\\b",
+        "source": "work_data/key6a/trackA_per_sign_bridges.csv"
+      },
+      {
+        "sign": "621",
+        "title": "room, chamber, apartment, window, shutter → seal, title, chief, ruler, office, guard",
+        "a_en": "\\b(?:room|chamber|apartment|window|shutter)\\b",
+        "b_en": "\\b(?:seal|title|chief|ruler|office|guard)\\b",
+        "a_de": "\\b(?:zimmer|kammer|wohnung|fenster|laden)\\b",
+        "b_de": "\\b(?:siegel|titel|hauptling|herrscher|amt|wachter)\\b",
+        "source": "work_data/key6a/trackA_per_sign_bridges.csv"
+      },
+      {
+        "sign": "630",
+        "title": "birdcage, coop, cage, pen, nest, hive → assemble, join, store, granary, depot, tool",
+        "a_en": "\\b(?:birdcage|coop|cage|pen|nest|hive)\\b",
+        "b_en": "\\b(?:assemble|join|store|granary|depot|tool)\\b",
+        "a_de": "\\b(?:vogelkafig|stall|kafig|pferch|nest|bienenstock)\\b",
+        "b_de": "\\b(?:versammeln|verbinden|lagern|speicher|depot|werkzeug)\\b",
+        "source": "work_data/key6a/trackA_per_sign_bridges.csv"
+      },
+      {
+        "sign": "877",
+        "title": "bloom, flower, blossom, petal, diamond → jewel, bead, gold, weight, share",
+        "a_en": "\\b(?:bloom|flower|blossom|petal|diamond)\\b",
+        "b_en": "\\b(?:jewel|bead|gold|weight|share)\\b",
+        "a_de": "\\b(?:blute|blume|blutenblatt|diamant)\\b",
+        "b_de": "\\b(?:juwel|perle|gold|gewicht|anteil)\\b",
+        "source": "work_data/key6a/trackA_per_sign_bridges.csv"
+      },
+      {
+        "sign": "171",
+        "title": "hang, suspend, swing, yoke, pendulum → weight, standard, balance, scale, stone, equal",
+        "a_en": "\\b(?:hang|suspend|swing|yoke|pendulum)\\b",
+        "b_en": "\\b(?:weight|standard|balance|scale|stone|equal)\\b",
+        "a_de": "\\b(?:hangen|aufhangen|schwingen|joch|pendel)\\b",
+        "b_de": "\\b(?:gewicht|standard|gleichgewicht|waage|stein|gleich)\\b",
+        "source": "work_data/key6a/trackA_per_sign_bridges.csv"
+      },
+      {
+        "sign": "297",
+        "title": "lustre, splendour, sun, ray, spark → weight, share, tax, quarter, gold, price",
+        "a_en": "\\b(?:lustre|splendour|sun|ray|spark)\\b",
+        "b_en": "\\b(?:weight|share|tax|quarter|gold|price)\\b",
+        "a_de": "\\b(?:glanz|pracht|sonne|strahl|funke)\\b",
+        "b_de": "\\b(?:gewicht|anteil|steuer|viertel|gold|preis)\\b",
+        "source": "work_data/key6a/trackA_per_sign_bridges.csv"
+      },
+      {
+        "sign": "831",
+        "title": "blade, wing, feather, quill, plume → paddy, grain, merchant, trade, sell, ship",
+        "a_en": "\\b(?:blade|wing|feather|quill|plume)\\b",
+        "b_en": "\\b(?:paddy|grain|merchant|trade|sell|ship)\\b",
+        "a_de": "\\b(?:klinge|flugel|feder|federkiel|federbusch)\\b",
+        "b_de": "\\b(?:reis|getreide|kaufmann|handel|verkaufen|schiff)\\b",
+        "source": "work_data/key6a/trackA_per_sign_bridges.csv"
+      },
+      {
+        "sign": "165",
+        "title": "bend, curve, hump, snail, spiral → cauldron, copper, vessel, pot, month",
+        "a_en": "\\b(?:bend|curve|hump|snail|spiral)\\b",
+        "b_en": "\\b(?:cauldron|copper|vessel|pot|month)\\b",
+        "a_de": "\\b(?:biegen|kurve|buckel|schnecke|spirale)\\b",
+        "b_de": "\\b(?:kessel|kupfer|gefass|topf|monat)\\b",
+        "source": "work_data/key6a/trackA_per_sign_bridges.csv"
+      },
+      {
+        "sign": "104",
+        "title": "leap, skip, jump, stride, dance → collect, levy, tax, commodity, allot, cloth",
+        "a_en": "\\b(?:leap|skip|jump|stride|dance)\\b",
+        "b_en": "\\b(?:collect|levy|tax|commodity|allot|cloth)\\b",
+        "a_de": "\\b(?:springen|hupfen|schreiten|tanzen)\\b",
+        "b_de": "\\b(?:sammeln|erheben|steuer|ware|zuteilen|stoff)\\b",
+        "source": "work_data/key6a/trackA_per_sign_bridges.csv"
+      }
+    ]
+  },
+  "note": "Frozen before expanded scoring; not human-blinded or preregistered."
+}

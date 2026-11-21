@@ -1,0 +1,1247 @@
+language,panel,sign,title,a_entries,b_entries,polysemy,phon_exact_legacy_cluster,phon_exact_distinct_entry,phon_stem_legacy_cluster,phon_stem_distinct_entry,ascii_exact_legacy_cluster,ascii_exact_distinct_entry
+Dravidian,fixed48,740,jar → house,35,30,False,False,False,True,True,False,False
+Dravidian,fixed48,700,bowl / hollow → measure,28,27,True,True,True,True,True,True,True
+Dravidian,fixed48,400,comb → small / junior,11,151,True,False,False,True,True,False,False
+Dravidian,fixed48,220,fish → star,31,3,False,False,False,False,False,False,False
+Dravidian,fixed48,520,spear → chief,2,19,False,False,False,False,False,False,False
+Dravidian,fixed48,390,tree → sew / weave,85,11,False,True,True,True,True,True,True
+Dravidian,fixed48,861,eye / sight → weight / property,19,22,False,True,True,True,True,True,True
+Dravidian,fixed48,820,wheel → quarter / leg,6,16,False,True,True,True,True,True,True
+Dravidian,fixed48,320,step / ladder → ration / measure,5,33,False,True,True,True,True,True,True
+Dravidian,fixed48,590,basket / plait → bale / load,29,21,False,True,True,True,True,True,True
+Dravidian,fixed48,615,loom frame → field plot,11,48,False,True,True,True,True,True,True
+Dravidian,fixed48,705,threshing floor → vessel / ship,23,27,True,False,False,False,False,True,True
+Dravidian,fixed48,176,sit / remain → tribute,21,13,False,False,False,False,False,True,True
+Dravidian,fixed48,090,man → manager / ruler,100,19,False,True,True,True,True,True,True
+Dravidian,fixed48,233,split → dawn / light,33,14,False,True,True,True,True,True,True
+Dravidian,fixed48,415,fork / branch → seize,21,35,False,True,True,True,True,True,True
+Dravidian,fixed48,920,moon ↔ month,8,2,True,False,False,False,False,False,False
+Dravidian,fixed48,407,branch → cloth,19,41,False,False,False,True,True,False,False
+Dravidian,fixed48,806,stalk → millet,13,44,True,True,True,True,True,True,True
+Dravidian,fixed48,798,shell → bind / build house,14,40,False,True,True,True,True,True,True
+Dravidian,fixed48,255,crocodile → first / principal,1,7,False,False,False,True,True,False,False
+Dravidian,fixed48,840,pair ↔ join,5,42,True,False,False,False,False,False,False
+Dravidian,fixed48,760,sprout ↔ young / child,33,37,True,True,True,True,True,True,True
+Dravidian,fixed48,368,flag → give / grant,5,28,False,True,True,True,True,True,True
+Dravidian,fixed48,690,tie ↔ bundle / building,28,11,True,True,True,True,True,True,True
+Dravidian,fixed48,550,waist / middle → district,16,10,False,True,True,True,True,True,True
+Dravidian,fixed48,892,bow → sell,12,6,False,True,True,True,True,True,True
+Dravidian,fixed48,140,mother / lady ↔ goddess,15,2,True,False,False,False,False,False,False
+Dravidian,fixed48,154,carrying pole → guard,8,14,False,True,True,True,True,True,True
+Dravidian,fixed48,142,staff → smith,25,20,True,True,True,True,True,True,True
+Dravidian,fixed48,503,mountain → garland,21,16,False,True,True,True,True,True,True
+Dravidian,fixed48,440,corner → vessel,8,42,False,True,True,True,True,True,True
+Dravidian,fixed48,435,hook → attendant,13,10,False,True,True,True,True,True,True
+Dravidian,fixed48,845,line → tax,43,11,False,True,True,True,True,True,True
+Dravidian,fixed48,850,eye → copper,14,8,False,False,False,False,False,False,False
+Dravidian,fixed48,717,foot ↔ servant,12,13,True,False,False,False,False,False,False
+Dravidian,fixed48,413,grain → tax / cut,104,50,True,True,True,True,True,True,True
+Dravidian,fixed48,350,fence → watchman,15,10,False,True,True,True,True,True,True
+Dravidian,fixed48,460,shoot → garland,43,10,True,True,True,True,True,True,True
+Dravidian,fixed48,482,mountain → king,21,16,False,True,True,True,True,True,True
+Dravidian,fixed48,480,point → vessel,16,42,False,False,False,True,True,False,False
+Dravidian,fixed48,335,frame → pot,4,36,False,False,False,True,True,False,False
+Dravidian,fixed48,540,drum ↔ capacity measure,10,27,False,False,False,False,False,False,False
+Dravidian,fixed48,630,cage → assemble / store,6,60,False,True,True,True,True,True,True
+Dravidian,fixed48,171,hang ↔ weigh,12,18,True,False,False,False,False,False,False
+Dravidian,fixed48,831,blade → grain,26,53,False,True,True,True,True,True,True
+Dravidian,fixed48,165,bend / snail → cauldron,28,2,False,True,True,True,True,True,True
+Dravidian,fixed48,104,leap → collect / levy,26,10,False,True,True,True,True,True,True
+Dravidian,auto51,595,box <-> ctab_bull_gaur_unicorn,9,42,False,False,False,False,False,False,False
+Dravidian,auto51,400,comb <-> mtab_all,8,61,False,False,False,False,False,False,False
+Dravidian,auto51,480,hill <-> copper_tool_vs_ctab,26,28,False,False,False,False,False,False,False
+Dravidian,auto51,845,fish <-> copper_tablet_vs_all,31,28,True,False,False,True,True,False,False
+Dravidian,auto51,176,comb <-> mtab_all,8,61,False,False,False,False,False,False,False
+Dravidian,auto51,752,cup <-> copper_tablet_vs_all,31,28,False,False,False,True,True,True,True
+Dravidian,auto51,095,man <-> copper_tablet_vs_all,99,28,True,True,True,True,True,True,True
+Dravidian,auto51,503,hill <-> copper_tablet_vs_all,26,28,False,False,False,True,True,False,False
+Dravidian,auto51,615,window <-> copper_tablet_vs_all,4,28,False,False,False,False,False,False,False
+Dravidian,auto51,391,fork <-> copper_tool_vs_all,22,27,False,False,False,True,True,False,False
+Dravidian,auto51,142,man <-> copper_tablet_vs_all,99,28,True,True,True,True,True,True,True
+Dravidian,auto51,240,fish <-> mtab_all,31,61,False,True,True,True,True,True,True
+Dravidian,auto51,413,comb <-> mtab_all,8,61,False,False,False,False,False,False,False
+Dravidian,auto51,890,bow <-> circuit_eastern_headwaters,12,72,False,False,False,False,False,False,False
+Dravidian,auto51,924,bow <-> circuit_overland_west_north,12,12,False,False,False,False,False,False,False
+Dravidian,auto51,140,man <-> har_mound_AB,99,19,True,True,True,True,True,True,True
+Dravidian,auto51,705,jar <-> copper_tablet_vs_all,22,28,False,False,False,True,True,True,True
+Dravidian,auto51,540,hourglass <-> pot_all,21,39,False,True,True,True,True,True,True
+Dravidian,auto51,500,tent <-> tag_all,7,15,False,False,False,False,False,False,False
+Dravidian,auto51,717,comb <-> har_mound_AB,8,19,False,False,False,False,False,False,False
+Dravidian,auto51,585,tent <-> har_mound_AB,7,19,True,False,False,False,False,False,False
+Dravidian,auto51,820,leaf <-> har_mound_AB,44,19,False,False,False,False,False,False,False
+Dravidian,auto51,390,fork <-> site_chanhu_workshops,22,54,False,False,False,True,True,False,False
+Dravidian,auto51,740,jar <-> site_chanhu_workshops,22,54,False,False,False,False,False,True,True
+Dravidian,auto51,416,comb <-> circuit_maritime_coastal,8,23,False,False,False,False,False,False,False
+Dravidian,auto51,906,bow <-> tag_all,12,15,False,False,False,False,False,False,False
+Dravidian,auto51,374,leaf <-> md_HR_elite,44,36,False,False,False,True,True,False,False
+Dravidian,auto51,892,bow <-> pot_all,12,39,False,False,False,False,False,True,True
+Dravidian,auto51,798,leaf <-> md_HR_elite,44,36,False,False,False,True,True,False,False
+Dravidian,auto51,880,wheel <-> tag_all,7,15,False,False,False,True,True,False,False
+Dravidian,auto51,742,jar <-> md_HR_elite,22,36,False,False,False,True,True,False,False
+Dravidian,auto51,900,bow <-> md_citadel,12,14,False,False,False,False,False,False,False
+Dravidian,auto51,125,bow <-> md_HR_elite,12,36,False,False,False,False,False,False,False
+Dravidian,auto51,350,fork <-> circuit_eastern_headwaters,22,72,False,True,True,True,True,True,True
+Dravidian,auto51,100,man <-> tag_all,99,15,False,True,True,True,True,True,True
+Dravidian,auto51,236,bow <-> circuit_maritime_coastal,12,23,False,False,False,False,False,False,False
+Dravidian,auto51,222,fish <-> ctab_rhinoceros,31,18,False,False,False,False,False,False,False
+Dravidian,auto51,923,bow <-> ctab_elephant,12,14,False,False,False,False,False,False,False
+Dravidian,auto51,235,fish <-> ctab_rhinoceros,31,18,False,False,False,False,False,False,False
+Dravidian,auto51,806,leaf <-> ctab_human_archer,44,9,False,True,True,True,True,True,True
+Dravidian,auto51,422,comb <-> copper_tablet_vs_all,8,28,False,False,False,True,True,False,False
+Dravidian,auto51,255,fish <-> mtab_all,31,61,False,True,True,True,True,True,True
+Dravidian,auto51,415,rake <-> mtab_all,5,61,False,False,False,False,False,False,False
+Dravidian,auto51,840,leaf <-> md_HR_elite,44,36,False,False,False,True,True,False,False
+Dravidian,auto51,520,arrow <-> copper_tablet_vs_all,8,28,False,False,False,True,True,False,False
+Dravidian,auto51,868,book <-> mtab_all,4,61,False,False,False,False,False,False,False
+Dravidian,auto51,838,leaf <-> ivory_bone_rod,44,130,False,True,True,True,True,True,True
+Dravidian,auto51,233,fish <-> copper_tablet_vs_all,31,28,True,False,False,True,True,False,False
+Dravidian,auto51,384,leaf <-> copper_tablet_vs_all,44,28,False,False,False,False,False,False,False
+Dravidian,auto51,790,leaf <-> har_mound_AB,44,19,False,False,False,False,False,False,False
+Dravidian,auto51,354,rake <-> har_mound_AB,5,19,False,False,False,False,False,False,False
+Dravidian,legacy12,705,measure/threshing/grain <-> ship/boat,63,13,False,False,False,False,False,True,True
+Dravidian,legacy12,820,wheel/cart <-> quarter/fourth/leg,7,20,False,True,True,True,True,True,True
+Dravidian,legacy12,220,fish <-> star/constellation/shine,31,30,False,True,True,True,True,True,True
+Dravidian,legacy12,740,water_jar/pot <-> house/family/lineage,22,28,False,False,False,True,True,False,False
+Dravidian,legacy12,520,spear/lance/dart <-> chief/ruler/prince,2,21,False,False,False,False,False,False,False
+Dravidian,legacy12,400,comb/rake <-> small/junior/subordinate,13,160,True,False,False,True,True,False,False
+Dravidian,legacy12,861,enclosure/field/court <-> share/portion/weight/property,49,28,True,True,True,True,True,True,True
+Dravidian,legacy12,320,step/stair/ladder <-> allowance/ration/capacity_measure,6,33,False,True,True,True,True,True,True
+Dravidian,legacy12,090,man/male/husband <-> servant/agent/governor/rule,99,23,True,True,True,True,True,True,True
+Dravidian,legacy12,154,carrying_pole/yoke <-> guard/protect/watch,25,14,False,True,True,True,True,True,True
+Dravidian,legacy12,850,eye/sight/pupil <-> copper/bronze/metal/blade,19,32,False,False,False,True,True,False,False
+Dravidian,legacy12,390,tree/branch/bough <-> cotton/thread/cloth/yarn,89,55,True,True,True,True,True,True,True
+Dravidian,key4b30,700,"cup, bowl, vessel, pot, jar, hollow → measure, capacity, grain, ration, allowance, portion",61,68,True,True,True,True,True,True,True
+Dravidian,key4b30,240,"whisker, fin, wing, feather, cheek, bristle → star, bright, shine, glitter, chief, lord, bead",17,44,False,False,False,True,True,False,False
+Dravidian,key4b30,861,"eye, seed, kernel, bud, lozenge, sight → weight, fraction, share, property, tribute, offering",40,27,False,True,True,True,True,True,True
+Dravidian,key4b30,060,"slant, slope, bend, bent, curve, crooked, lean → inside, inner, within, join, unite, quarter, belong",42,44,False,True,True,True,True,True,True
+Dravidian,key4b30,590,"box, chest, crate, basket, plait, braid → sack, pack, bale, bundle, granary, store, treasury",35,26,True,True,True,True,True,True,True
+Dravidian,key4b30,741,"jar, pot, waterpot, pitcher, vessel → house, ward, family, abode, lineage, tenant",35,30,False,False,False,True,True,False,False
+Dravidian,key4b30,615,"grid, net, lattice, mesh, frame, reed, square → field, land, arable, ridge, estate, plot, farm",10,50,False,True,True,True,True,True,True
+Dravidian,key4b30,817,"eye, seed, kernel, bud, lozenge, sight → box, chest, crate, cargo, freight, weight, share",40,28,False,False,False,True,True,False,False
+Dravidian,key4b30,233,"split, halve, divide, cut, slice, cleave, crack → star, bright, shine, dawn, light, luster, sun",62,51,False,True,True,True,True,True,True
+Dravidian,key4b30,415,"fork, branch, prong, rake, bifurcate, tine → seize, grasp, control, share, rent, chief, lord",24,47,True,True,True,True,True,True,True
+Dravidian,key4b30,920,"moon, crescent, lunar, arc → month, season, period, office, craft, bead",8,15,True,False,False,False,False,False,False
+Dravidian,key4b30,405,"tree, branch, bough, twig, shrub → thread, yarn, cord, string, weave, knit, spin",86,39,False,True,True,True,True,True,True
+Dravidian,key4b30,407,"tree, branch, bough, twig, horn, shrub → cloth, textile, garment, fabric, dye, weaver",88,47,False,False,False,True,True,True,True
+Dravidian,key4b30,806,"leaf, stalk, stem, sprout, shoot, twig → crop, millet, grain, harvest, yield, produce, barley",69,60,True,True,True,True,True,True,True
+Dravidian,key4b30,798,"leaf, petal, pincer, claw, tongs, crab → house, mansion, courtyard, lineage, merchant, heir",31,20,False,False,False,True,True,False,False
+Dravidian,key4b30,255,"animal, beast, fish, bird, fowl, fin → ration, allowance, grain, granary, chief, king, issue",62,59,False,True,True,True,True,True,True
+Dravidian,key4b30,803,"leaf, leaves, foliage, petal → house, abode, home, family, dwelling, lineage",45,30,False,False,False,True,True,False,False
+Dravidian,key4b30,156,"carry, burden, porter, shoulder, pole, yoke → bale, pack, sack, bundle, ration, measure, weight",31,52,True,False,False,True,True,True,True
+Dravidian,key4b30,840,"pair, twin, couple, double, leaf, leaves → equal, match, agree, join, unite, bangle, ring, audit",55,63,True,True,True,True,True,True,True
+Dravidian,key4b30,760,"sprout, shoot, bud, twig, tendril → child, young, son, offspring, descendant, heir",43,43,True,True,True,True,True,True,True
+Dravidian,key4b30,368,"flag, banner, pennant, streamer, creeper, wing → give, grant, allot, title, pedigree, grain, ration",17,69,False,True,True,True,True,True,True
+Dravidian,key4b30,690,"knot, tie, bind, fasten, clasp, link → bundle, packet, store, building, ration, grain, pledge",43,51,True,True,True,True,True,True,True
+Dravidian,key4b30,550,"mouth, jaw, pincer, beak, claw, tongs → gate, portal, door, entrance, citadel, fort, precinct",19,10,False,False,False,False,False,False,False
+Dravidian,key4b30,892,"bow, arrow, arc, archer → sell, sale, price, cost, value, trade, merchant",19,8,False,True,True,True,True,True,True
+Dravidian,key4b30,140,"woman, female, breast, mother, matron, girl → goddess, queen, ruler, chief, sacred, temple, citadel",87,26,True,False,False,True,True,False,False
+Dravidian,key4b30,151,"carry, burden, load, porter, pole, shoulder → guard, protect, watch, shelter, defence, preserve",36,14,False,True,True,True,True,True,True
+Dravidian,key4b30,142,"staff, stick, rod, sceptre, club → king, chief, ruler, lord, sovereign, officer",27,19,False,False,False,False,False,False,False
+Dravidian,key4b30,503,"hill, mountain, peak, ridge, mound → garland, necklace, string, bead, shell, dye, estate",34,49,False,True,True,True,True,True,True
+Dravidian,key4b30,231,"pierce, stab, plant, stick, line, stroke → star, bright, shine, country, district, estate, bull",79,46,False,True,True,True,True,True,True
+Dravidian,key4b30,706,"cup, bowl, vessel, pot, jar, hollow → measure, bushel, capacity, grain, ivory, elephant",61,73,True,True,True,True,True,True,True
+Dravidian,key5a13,240,"ray, beam, fin, barb, slant, incline → star, bright, shine, glow, brilliance, light",13,43,True,True,True,True,True,True,True
+Dravidian,key5a13,060,"slant, slope, bend, curve, crooked, lean → inside, within, belong, depend, join, interior",40,33,False,True,True,True,True,True,True
+Dravidian,key5a13,798,"crab, shell, pincer, claw, tongs → seize, grasp, hold, bind, house, guild",20,48,True,True,True,True,True,True,True
+Dravidian,key5a13,550,"waist, middle, centre, narrow, pinch, squeeze → country, district, province, precinct, citadel, locality",44,10,False,True,True,True,True,True,True
+Dravidian,key5a13,142,"staff, stick, rod, wand, club → measure, rule, limit, gauge, king, ruler",27,49,True,False,False,True,True,False,False
+Dravidian,key5a13,440,"corner, angle, nook, crook, elbow → pot, vessel, goblet, cup, jar, earthen",9,44,False,True,True,True,True,True,True
+Dravidian,key5a13,692,"cross, intersect, transverse, criss → assembly, council, guild, office, citadel, precinct",13,10,False,False,False,False,False,False,False
+Dravidian,key5a13,435,"hook, prong, fork, peg, spike, barbed → ally, companion, chief, support, servant, deputy",19,30,False,True,True,True,True,True,True
+Dravidian,key5a13,585,"tent, canopy, awning, umbrella, roof, gable → temple, palace, citadel, shrine, hall, workshop",13,10,False,False,False,True,True,False,False
+Dravidian,key5a13,595,"stripe, bar, box, square, wire, strip → furnace, forge, oven, kiln, copper, smelt",33,12,False,False,False,False,False,False,False
+Dravidian,key5a13,845,"line, streak, stripe, hatch, draw, furrow → tax, impost, duty, toll, levy, rent",42,15,False,True,True,True,True,True,True
+Dravidian,key5a13,527,"crossbar, bolt, latch, plank, panel, hinge → door, gate, portal, entrance, threshold, enclosure",8,11,True,False,False,False,False,False,False
+Dravidian,key5a13,416,"fork, branch, prong, tine, rake → seaport, harbor, port, ford, seize, grasp",24,15,True,True,True,True,True,True,True
+Dravidian,key6a24,142,"staff, stick, rod, wand, club → blacksmith, iron, copper, measure, rule, limit",27,63,True,True,True,True,True,True,True
+Dravidian,key6a24,692,"cross, intersect, diagonal, lattice → assembly, council, citadel, precinct, office, palace",11,14,False,False,False,False,False,False,False
+Dravidian,key6a24,585,"umbrella, parasol, canopy, tent, roof, gable → citadel, palace, temple, garrison, workshop, shrine",13,10,False,False,False,True,True,False,False
+Dravidian,key6a24,595,"stripe, line, streak, hatch, draw → tax, impost, duty, toll, levy, copper",41,19,False,True,True,True,True,True,True
+Dravidian,key6a24,527,"bolt, latch, crossbar, plank, hinge → gate, door, fort, precinct, border, guard",7,21,True,False,False,False,False,True,True
+Dravidian,key6a24,388,"banyan, pipal, fig, leaf, foliage → king, royal, tax, cloth, commodity",30,51,False,False,False,False,False,True,True
+Dravidian,key6a24,384,"banyan, pipal, fig, leaf, foliage → estate, allot, copper, clan, lineage",30,11,True,False,False,True,True,False,False
+Dravidian,key6a24,350,"stall, manger, fence, harrow, rake → village, plough, herd, cattle, pasture, farm",14,41,True,True,True,True,True,True,True
+Dravidian,key6a24,455,"wing, tail, feather, butterfly, plume → star, bright, seal, gold, trade",21,32,False,False,False,False,False,False,False
+Dravidian,key6a24,460,"shoot, sprout, thorn, shrub, spike → garland, wreath, necklace, offering, sacred",43,23,True,True,True,True,True,True,True
+Dravidian,key6a24,482,"mountain, hill, peak, sharpness, apex → emperor, king, lord, leadership, granary, deposit",32,20,False,True,True,True,True,True,True
+Dravidian,key6a24,070,"post, pillar, column, arm, statue → audit, account, witness, chief, judge",13,13,False,False,False,False,False,True,True
+Dravidian,key6a24,480,"point, sharp, wedge, cone, peak → vessel, measure, capacity, weight, copper, ingot",19,56,False,False,False,True,True,False,False
+Dravidian,key6a24,335,"trough, basin, frame, double, rack → vessel, basket, grain, ration, measure, granary",15,96,True,False,False,True,True,False,False
+Dravidian,key6a24,540,"drum, tabor, hourglass, bowtie → capacity, measure, pot, vessel, jar, container",10,58,True,False,False,False,False,False,False
+Dravidian,key6a24,645,"cross, intersect, scissors, diagonal → weight, gold, coin, balance, bronze, axe",12,47,False,False,False,True,True,False,False
+Dravidian,key6a24,621,"room, chamber, apartment, window, shutter → seal, title, chief, ruler, office, guard",13,20,False,False,False,True,True,True,True
+Dravidian,key6a24,630,"birdcage, coop, cage, pen, nest, hive → assemble, join, store, granary, depot, tool",6,35,False,True,True,True,True,True,True
+Dravidian,key6a24,877,"bloom, flower, blossom, petal, diamond → jewel, bead, gold, weight, share",32,45,True,True,True,True,True,True,True
+Dravidian,key6a24,171,"hang, suspend, swing, yoke, pendulum → weight, standard, balance, scale, stone, equal",20,48,True,False,False,True,True,False,False
+Dravidian,key6a24,297,"lustre, splendour, sun, ray, spark → weight, share, tax, quarter, gold, price",42,53,True,True,True,True,True,True,True
+Dravidian,key6a24,831,"blade, wing, feather, quill, plume → paddy, grain, merchant, trade, sell, ship",19,63,False,True,True,True,True,True,True
+Dravidian,key6a24,165,"bend, curve, hump, snail, spiral → cauldron, copper, vessel, pot, month",30,44,False,True,True,True,True,True,True
+Dravidian,key6a24,104,"leap, skip, jump, stride, dance → collect, levy, tax, commodity, allot, cloth",26,47,False,True,True,True,True,True,True
+Munda,fixed48,740,jar → house,5,6,False,False,False,False,False,False,False
+Munda,fixed48,700,bowl / hollow → measure,6,7,False,False,False,False,False,False,False
+Munda,fixed48,400,comb → small / junior,0,38,False,False,False,False,False,False,False
+Munda,fixed48,220,fish → star,5,1,False,False,False,False,False,False,False
+Munda,fixed48,520,spear → chief,1,4,False,False,False,False,False,False,False
+Munda,fixed48,390,tree → sew / weave,22,3,False,False,False,False,False,False,False
+Munda,fixed48,861,eye / sight → weight / property,11,7,False,False,False,False,False,False,False
+Munda,fixed48,820,wheel → quarter / leg,2,6,False,False,False,False,False,False,False
+Munda,fixed48,320,step / ladder → ration / measure,1,7,False,False,False,False,False,False,False
+Munda,fixed48,590,basket / plait → bale / load,12,5,False,False,False,False,False,False,False
+Munda,fixed48,615,loom frame → field plot,3,11,False,False,False,False,False,False,False
+Munda,fixed48,705,threshing floor → vessel / ship,5,7,False,False,False,False,False,False,False
+Munda,fixed48,176,sit / remain → tribute,1,2,False,False,False,False,False,False,False
+Munda,fixed48,090,man → manager / ruler,12,4,False,False,False,False,False,False,False
+Munda,fixed48,233,split → dawn / light,2,10,False,False,False,False,False,False,False
+Munda,fixed48,415,fork / branch → seize,1,4,False,False,False,False,False,False,False
+Munda,fixed48,920,moon ↔ month,0,5,False,False,False,False,False,False,False
+Munda,fixed48,407,branch → cloth,1,13,False,False,False,False,False,False,False
+Munda,fixed48,806,stalk → millet,0,9,False,False,False,False,False,False,False
+Munda,fixed48,798,shell → bind / build house,1,12,False,False,False,False,False,False,False
+Munda,fixed48,255,crocodile → first / principal,1,9,False,False,False,False,False,False,False
+Munda,fixed48,840,pair ↔ join,2,8,False,False,False,False,True,False,False
+Munda,fixed48,760,sprout ↔ young / child,5,9,False,False,False,False,False,False,False
+Munda,fixed48,368,flag → give / grant,0,26,False,False,False,False,False,False,False
+Munda,fixed48,690,tie ↔ bundle / building,6,3,False,False,False,False,False,False,False
+Munda,fixed48,550,waist / middle → district,6,4,False,False,False,False,False,False,False
+Munda,fixed48,892,bow → sell,1,7,False,False,False,False,False,False,False
+Munda,fixed48,140,mother / lady ↔ goddess,3,0,False,False,False,False,False,False,False
+Munda,fixed48,154,carrying pole → guard,3,7,False,False,False,False,False,False,False
+Munda,fixed48,142,staff → smith,6,3,False,False,False,False,False,False,False
+Munda,fixed48,503,mountain → garland,3,1,False,False,False,False,False,False,False
+Munda,fixed48,440,corner → vessel,0,9,False,False,False,False,False,False,False
+Munda,fixed48,435,hook → attendant,1,2,False,False,False,False,False,False,False
+Munda,fixed48,845,line → tax,6,1,False,False,False,False,False,False,False
+Munda,fixed48,850,eye → copper,4,2,False,False,False,False,False,False,False
+Munda,fixed48,717,foot ↔ servant,5,1,False,False,False,False,False,False,False
+Munda,fixed48,413,grain → tax / cut,23,11,False,False,False,False,False,False,False
+Munda,fixed48,350,fence → watchman,1,2,False,False,False,False,False,False,False
+Munda,fixed48,460,shoot → garland,5,0,False,False,False,False,False,False,False
+Munda,fixed48,482,mountain → king,3,4,False,False,False,False,False,False,False
+Munda,fixed48,480,point → vessel,5,10,False,False,False,False,False,False,False
+Munda,fixed48,335,frame → pot,0,6,False,False,False,False,False,False,False
+Munda,fixed48,540,drum ↔ capacity measure,3,7,False,False,False,False,False,False,False
+Munda,fixed48,630,cage → assemble / store,1,17,False,False,False,False,False,False,False
+Munda,fixed48,171,hang ↔ weigh,3,3,False,False,False,False,False,False,False
+Munda,fixed48,831,blade → grain,10,13,False,False,False,False,False,False,False
+Munda,fixed48,165,bend / snail → cauldron,1,0,False,False,False,False,False,False,False
+Munda,fixed48,104,leap → collect / levy,3,8,False,False,False,False,False,False,False
+Munda,auto51,595,box <-> ctab_bull_gaur_unicorn,0,16,False,False,False,False,False,False,False
+Munda,auto51,400,comb <-> mtab_all,0,14,False,False,False,False,False,False,False
+Munda,auto51,480,hill <-> copper_tool_vs_ctab,5,7,False,False,False,False,False,False,False
+Munda,auto51,845,fish <-> copper_tablet_vs_all,5,7,False,False,False,False,False,False,False
+Munda,auto51,176,comb <-> mtab_all,0,14,False,False,False,False,False,False,False
+Munda,auto51,752,cup <-> copper_tablet_vs_all,5,7,False,False,False,False,False,False,False
+Munda,auto51,095,man <-> copper_tablet_vs_all,11,7,False,False,False,False,False,False,False
+Munda,auto51,503,hill <-> copper_tablet_vs_all,5,7,False,False,False,False,False,False,False
+Munda,auto51,615,window <-> copper_tablet_vs_all,2,7,False,False,False,False,False,False,False
+Munda,auto51,391,fork <-> copper_tool_vs_all,1,6,False,False,False,False,False,False,False
+Munda,auto51,142,man <-> copper_tablet_vs_all,11,7,False,False,False,False,False,False,False
+Munda,auto51,240,fish <-> mtab_all,5,14,False,False,False,False,False,False,False
+Munda,auto51,413,comb <-> mtab_all,0,14,False,False,False,False,False,False,False
+Munda,auto51,890,bow <-> circuit_eastern_headwaters,1,23,False,False,False,False,False,False,False
+Munda,auto51,924,bow <-> circuit_overland_west_north,1,7,False,False,False,False,False,False,False
+Munda,auto51,140,man <-> har_mound_AB,11,3,False,False,False,False,False,False,False
+Munda,auto51,705,jar <-> copper_tablet_vs_all,2,7,False,False,False,False,False,False,False
+Munda,auto51,540,hourglass <-> pot_all,6,14,False,False,False,False,False,False,False
+Munda,auto51,500,tent <-> tag_all,3,5,False,False,False,False,False,False,False
+Munda,auto51,717,comb <-> har_mound_AB,0,3,False,False,False,False,False,False,False
+Munda,auto51,585,tent <-> har_mound_AB,3,3,False,False,False,False,False,False,False
+Munda,auto51,820,leaf <-> har_mound_AB,11,3,False,False,False,False,False,False,False
+Munda,auto51,390,fork <-> site_chanhu_workshops,1,18,False,False,False,False,False,False,False
+Munda,auto51,740,jar <-> site_chanhu_workshops,2,18,False,False,False,False,False,False,False
+Munda,auto51,416,comb <-> circuit_maritime_coastal,0,5,False,False,False,False,False,False,False
+Munda,auto51,906,bow <-> tag_all,1,5,False,False,False,False,False,False,False
+Munda,auto51,374,leaf <-> md_HR_elite,11,9,False,False,False,False,False,False,False
+Munda,auto51,892,bow <-> pot_all,1,14,False,False,False,False,False,False,False
+Munda,auto51,798,leaf <-> md_HR_elite,11,9,False,False,False,False,False,False,False
+Munda,auto51,880,wheel <-> tag_all,2,5,False,False,False,False,False,False,False
+Munda,auto51,742,jar <-> md_HR_elite,2,9,False,False,False,False,False,False,False
+Munda,auto51,900,bow <-> md_citadel,1,1,False,False,False,False,False,False,False
+Munda,auto51,125,bow <-> md_HR_elite,1,9,False,False,False,False,False,False,False
+Munda,auto51,350,fork <-> circuit_eastern_headwaters,1,23,False,False,False,False,False,False,False
+Munda,auto51,100,man <-> tag_all,11,5,False,False,False,False,False,False,False
+Munda,auto51,236,bow <-> circuit_maritime_coastal,1,5,False,False,False,False,False,False,False
+Munda,auto51,222,fish <-> ctab_rhinoceros,5,4,False,False,False,False,False,False,False
+Munda,auto51,923,bow <-> ctab_elephant,1,1,False,False,False,False,False,False,False
+Munda,auto51,235,fish <-> ctab_rhinoceros,5,4,False,False,False,False,False,False,False
+Munda,auto51,806,leaf <-> ctab_human_archer,11,6,False,False,False,False,False,False,False
+Munda,auto51,422,comb <-> copper_tablet_vs_all,0,7,False,False,False,False,False,False,False
+Munda,auto51,255,fish <-> mtab_all,5,14,False,False,False,False,False,False,False
+Munda,auto51,415,rake <-> mtab_all,2,14,False,False,False,False,False,False,False
+Munda,auto51,840,leaf <-> md_HR_elite,11,9,False,False,False,False,False,False,False
+Munda,auto51,520,arrow <-> copper_tablet_vs_all,6,7,False,False,False,False,False,False,False
+Munda,auto51,868,book <-> mtab_all,0,14,False,False,False,False,False,False,False
+Munda,auto51,838,leaf <-> ivory_bone_rod,11,32,True,False,False,False,True,False,False
+Munda,auto51,233,fish <-> copper_tablet_vs_all,5,7,False,False,False,False,False,False,False
+Munda,auto51,384,leaf <-> copper_tablet_vs_all,11,7,False,False,False,False,False,False,False
+Munda,auto51,790,leaf <-> har_mound_AB,11,3,False,False,False,False,False,False,False
+Munda,auto51,354,rake <-> har_mound_AB,2,3,False,False,False,False,False,False,False
+Munda,legacy12,705,measure/threshing/grain <-> ship/boat,14,4,False,False,False,False,False,False,False
+Munda,legacy12,820,wheel/cart <-> quarter/fourth/leg,2,9,False,False,False,False,False,False,False
+Munda,legacy12,220,fish <-> star/constellation/shine,5,4,False,False,False,False,False,False,False
+Munda,legacy12,740,water_jar/pot <-> house/family/lineage,2,6,False,False,False,False,False,False,False
+Munda,legacy12,520,spear/lance/dart <-> chief/ruler/prince,1,4,False,False,False,False,False,False,False
+Munda,legacy12,400,comb/rake <-> small/junior/subordinate,2,39,False,False,False,False,False,False,False
+Munda,legacy12,861,enclosure/field/court <-> share/portion/weight/property,11,6,False,False,False,False,False,False,False
+Munda,legacy12,320,step/stair/ladder <-> allowance/ration/capacity_measure,1,7,False,False,False,False,False,False,False
+Munda,legacy12,090,man/male/husband <-> servant/agent/governor/rule,11,6,False,False,False,False,False,False,False
+Munda,legacy12,154,carrying_pole/yoke <-> guard/protect/watch,11,7,False,False,False,False,False,False,False
+Munda,legacy12,850,eye/sight/pupil <-> copper/bronze/metal/blade,6,13,False,False,False,False,False,False,False
+Munda,legacy12,390,tree/branch/bough <-> cotton/thread/cloth/yarn,19,17,False,False,False,False,True,False,False
+Munda,key4b30,700,"cup, bowl, vessel, pot, jar, hollow → measure, capacity, grain, ration, allowance, portion",12,17,False,False,False,False,False,False,False
+Munda,key4b30,240,"whisker, fin, wing, feather, cheek, bristle → star, bright, shine, glitter, chief, lord, bead",1,6,False,False,False,False,False,False,False
+Munda,key4b30,861,"eye, seed, kernel, bud, lozenge, sight → weight, fraction, share, property, tribute, offering",9,3,False,False,False,False,False,False,False
+Munda,key4b30,060,"slant, slope, bend, bent, curve, crooked, lean → inside, inner, within, join, unite, quarter, belong",7,8,False,False,False,False,False,False,False
+Munda,key4b30,590,"box, chest, crate, basket, plait, braid → sack, pack, bale, bundle, granary, store, treasury",12,3,False,False,False,False,False,False,False
+Munda,key4b30,741,"jar, pot, waterpot, pitcher, vessel → house, ward, family, abode, lineage, tenant",5,8,False,False,False,False,False,False,False
+Munda,key4b30,615,"grid, net, lattice, mesh, frame, reed, square → field, land, arable, ridge, estate, plot, farm",5,11,False,False,False,False,False,False,False
+Munda,key4b30,817,"eye, seed, kernel, bud, lozenge, sight → box, chest, crate, cargo, freight, weight, share",9,2,False,False,False,False,False,False,False
+Munda,key4b30,233,"split, halve, divide, cut, slice, cleave, crack → star, bright, shine, dawn, light, luster, sun",13,9,False,False,False,False,False,False,False
+Munda,key4b30,415,"fork, branch, prong, rake, bifurcate, tine → seize, grasp, control, share, rent, chief, lord",3,11,False,False,True,False,True,False,True
+Munda,key4b30,920,"moon, crescent, lunar, arc → month, season, period, office, craft, bead",0,12,False,False,False,False,False,False,False
+Munda,key4b30,405,"tree, branch, bough, twig, shrub → thread, yarn, cord, string, weave, knit, spin",18,7,False,False,False,False,True,False,False
+Munda,key4b30,407,"tree, branch, bough, twig, horn, shrub → cloth, textile, garment, fabric, dye, weaver",20,14,False,False,False,False,False,False,False
+Munda,key4b30,806,"leaf, stalk, stem, sprout, shoot, twig → crop, millet, grain, harvest, yield, produce, barley",12,12,False,False,False,False,False,False,False
+Munda,key4b30,798,"leaf, petal, pincer, claw, tongs, crab → house, mansion, courtyard, lineage, merchant, heir",8,6,False,False,False,False,False,False,False
+Munda,key4b30,255,"animal, beast, fish, bird, fowl, fin → ration, allowance, grain, granary, chief, king, issue",17,14,False,False,True,False,True,False,True
+Munda,key4b30,803,"leaf, leaves, foliage, petal → house, abode, home, family, dwelling, lineage",11,6,False,False,False,False,False,False,False
+Munda,key4b30,156,"carry, burden, porter, shoulder, pole, yoke → bale, pack, sack, bundle, ration, measure, weight",8,9,False,False,False,False,False,False,False
+Munda,key4b30,840,"pair, twin, couple, double, leaf, leaves → equal, match, agree, join, unite, bangle, ring, audit",14,13,False,False,False,False,True,False,False
+Munda,key4b30,760,"sprout, shoot, bud, twig, tendril → child, young, son, offspring, descendant, heir",5,11,False,False,False,False,False,False,False
+Munda,key4b30,368,"flag, banner, pennant, streamer, creeper, wing → give, grant, allot, title, pedigree, grain, ration",1,38,False,False,False,False,False,False,False
+Munda,key4b30,690,"knot, tie, bind, fasten, clasp, link → bundle, packet, store, building, ration, grain, pledge",8,13,False,False,False,False,False,False,False
+Munda,key4b30,550,"mouth, jaw, pincer, beak, claw, tongs → gate, portal, door, entrance, citadel, fort, precinct",3,2,False,False,False,False,False,False,False
+Munda,key4b30,892,"bow, arrow, arc, archer → sell, sale, price, cost, value, trade, merchant",5,10,False,False,False,False,False,False,False
+Munda,key4b30,140,"woman, female, breast, mother, matron, girl → goddess, queen, ruler, chief, sacred, temple, citadel",12,7,False,False,False,False,False,False,False
+Munda,key4b30,151,"carry, burden, load, porter, pole, shoulder → guard, protect, watch, shelter, defence, preserve",10,7,False,False,False,False,False,False,False
+Munda,key4b30,142,"staff, stick, rod, sceptre, club → king, chief, ruler, lord, sovereign, officer",6,7,False,False,False,False,False,False,False
+Munda,key4b30,503,"hill, mountain, peak, ridge, mound → garland, necklace, string, bead, shell, dye, estate",7,5,False,False,False,False,False,False,False
+Munda,key4b30,231,"pierce, stab, plant, stick, line, stroke → star, bright, shine, country, district, estate, bull",21,7,False,False,False,False,False,False,False
+Munda,key4b30,706,"cup, bowl, vessel, pot, jar, hollow → measure, bushel, capacity, grain, ivory, elephant",12,15,False,False,False,False,False,False,False
+Munda,key5a13,240,"ray, beam, fin, barb, slant, incline → star, bright, shine, glow, brilliance, light",3,6,False,False,False,False,False,False,False
+Munda,key5a13,060,"slant, slope, bend, curve, crooked, lean → inside, within, belong, depend, join, interior",7,7,False,False,False,False,False,False,False
+Munda,key5a13,798,"crab, shell, pincer, claw, tongs → seize, grasp, hold, bind, house, guild",2,12,False,False,False,False,False,False,False
+Munda,key5a13,550,"waist, middle, centre, narrow, pinch, squeeze → country, district, province, precinct, citadel, locality",11,4,False,False,False,False,False,False,False
+Munda,key5a13,142,"staff, stick, rod, wand, club → measure, rule, limit, gauge, king, ruler",6,11,False,False,False,False,False,False,False
+Munda,key5a13,440,"corner, angle, nook, crook, elbow → pot, vessel, goblet, cup, jar, earthen",2,9,False,False,False,False,False,False,False
+Munda,key5a13,692,"cross, intersect, transverse, criss → assembly, council, guild, office, citadel, precinct",4,3,False,False,False,False,False,False,False
+Munda,key5a13,435,"hook, prong, fork, peg, spike, barbed → ally, companion, chief, support, servant, deputy",2,6,False,False,False,False,False,False,False
+Munda,key5a13,585,"tent, canopy, awning, umbrella, roof, gable → temple, palace, citadel, shrine, hall, workshop",5,2,False,False,False,False,False,False,False
+Munda,key5a13,595,"stripe, bar, box, square, wire, strip → furnace, forge, oven, kiln, copper, smelt",3,3,False,False,False,False,False,False,False
+Munda,key5a13,845,"line, streak, stripe, hatch, draw, furrow → tax, impost, duty, toll, levy, rent",5,6,True,False,False,False,False,False,False
+Munda,key5a13,527,"crossbar, bolt, latch, plank, panel, hinge → door, gate, portal, entrance, threshold, enclosure",1,2,False,False,False,False,False,False,False
+Munda,key5a13,416,"fork, branch, prong, tine, rake → seaport, harbor, port, ford, seize, grasp",3,1,False,False,False,False,False,False,False
+Munda,key6a24,142,"staff, stick, rod, wand, club → blacksmith, iron, copper, measure, rule, limit",6,17,False,False,False,False,False,False,False
+Munda,key6a24,692,"cross, intersect, diagonal, lattice → assembly, council, citadel, precinct, office, palace",5,3,False,False,False,False,False,False,False
+Munda,key6a24,585,"umbrella, parasol, canopy, tent, roof, gable → citadel, palace, temple, garrison, workshop, shrine",5,2,False,False,False,False,False,False,False
+Munda,key6a24,595,"stripe, line, streak, hatch, draw → tax, impost, duty, toll, levy, copper",5,3,False,False,False,False,False,False,False
+Munda,key6a24,527,"bolt, latch, crossbar, plank, hinge → gate, door, fort, precinct, border, guard",1,3,False,False,False,False,False,False,False
+Munda,key6a24,388,"banyan, pipal, fig, leaf, foliage → king, royal, tax, cloth, commodity",8,12,False,False,True,False,True,False,True
+Munda,key6a24,384,"banyan, pipal, fig, leaf, foliage → estate, allot, copper, clan, lineage",8,2,False,False,False,False,False,False,False
+Munda,key6a24,350,"stall, manger, fence, harrow, rake → village, plough, herd, cattle, pasture, farm",3,18,False,False,False,False,False,False,False
+Munda,key6a24,455,"wing, tail, feather, butterfly, plume → star, bright, seal, gold, trade",1,6,False,False,False,False,False,False,False
+Munda,key6a24,460,"shoot, sprout, thorn, shrub, spike → garland, wreath, necklace, offering, sacred",7,3,False,False,False,False,True,False,False
+Munda,key6a24,482,"mountain, hill, peak, sharpness, apex → emperor, king, lord, leadership, granary, deposit",4,3,False,False,False,False,False,False,False
+Munda,key6a24,070,"post, pillar, column, arm, statue → audit, account, witness, chief, judge",4,9,False,False,False,False,False,False,False
+Munda,key6a24,480,"point, sharp, wedge, cone, peak → vessel, measure, capacity, weight, copper, ingot",5,12,False,False,False,False,False,False,False
+Munda,key6a24,335,"trough, basin, frame, double, rack → vessel, basket, grain, ration, measure, granary",2,27,False,False,False,False,False,False,False
+Munda,key6a24,540,"drum, tabor, hourglass, bowtie → capacity, measure, pot, vessel, jar, container",3,12,False,False,False,False,False,False,False
+Munda,key6a24,645,"cross, intersect, scissors, diagonal → weight, gold, coin, balance, bronze, axe",4,4,False,False,False,False,False,False,False
+Munda,key6a24,621,"room, chamber, apartment, window, shutter → seal, title, chief, ruler, office, guard",1,8,False,False,False,False,False,False,False
+Munda,key6a24,630,"birdcage, coop, cage, pen, nest, hive → assemble, join, store, granary, depot, tool",1,6,False,False,False,False,False,False,False
+Munda,key6a24,877,"bloom, flower, blossom, petal, diamond → jewel, bead, gold, weight, share",1,4,False,False,False,False,False,False,False
+Munda,key6a24,171,"hang, suspend, swing, yoke, pendulum → weight, standard, balance, scale, stone, equal",7,10,False,False,False,False,True,False,False
+Munda,key6a24,297,"lustre, splendour, sun, ray, spark → weight, share, tax, quarter, gold, price",4,6,False,False,False,False,False,False,False
+Munda,key6a24,831,"blade, wing, feather, quill, plume → paddy, grain, merchant, trade, sell, ship",1,21,False,False,False,False,False,False,False
+Munda,key6a24,165,"bend, curve, hump, snail, spiral → cauldron, copper, vessel, pot, month",1,12,False,False,False,False,False,False,False
+Munda,key6a24,104,"leap, skip, jump, stride, dance → collect, levy, tax, commodity, allot, cloth",3,16,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,740,jar → house,28,31,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,700,bowl / hollow → measure,10,17,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,400,comb → small / junior,0,64,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,220,fish → star,14,8,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,520,spear → chief,2,15,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,390,tree → sew / weave,97,2,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,861,eye / sight → weight / property,7,8,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,820,wheel → quarter / leg,7,19,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,320,step / ladder → ration / measure,7,20,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,590,basket / plait → bale / load,7,8,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,615,loom frame → field plot,5,16,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,705,threshing floor → vessel / ship,8,18,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,176,sit / remain → tribute,2,1,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,090,man → manager / ruler,35,6,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,233,split → dawn / light,12,22,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,415,fork / branch → seize,6,2,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,920,moon ↔ month,9,10,True,False,False,False,False,False,False
+Indo-Aryan,fixed48,407,branch → cloth,5,16,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,806,stalk → millet,5,27,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,798,shell → bind / build house,6,28,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,255,crocodile → first / principal,2,12,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,840,pair ↔ join,5,9,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,760,sprout ↔ young / child,9,40,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,368,flag → give / grant,0,2,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,690,tie ↔ bundle / building,5,5,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,550,waist / middle → district,6,7,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,892,bow → sell,5,7,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,140,mother / lady ↔ goddess,16,5,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,154,carrying pole → guard,16,5,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,142,staff → smith,12,9,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,503,mountain → garland,10,6,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,440,corner → vessel,0,30,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,435,hook → attendant,8,11,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,845,line → tax,8,1,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,850,eye → copper,5,4,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,717,foot ↔ servant,15,12,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,413,grain → tax / cut,39,20,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,350,fence → watchman,8,9,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,460,shoot → garland,9,5,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,482,mountain → king,10,13,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,480,point → vessel,20,28,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,335,frame → pot,3,28,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,540,drum ↔ capacity measure,10,17,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,630,cage → assemble / store,5,18,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,171,hang ↔ weigh,0,7,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,831,blade → grain,22,21,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,165,bend / snail → cauldron,8,0,False,False,False,False,False,False,False
+Indo-Aryan,fixed48,104,leap → collect / levy,5,0,False,False,False,False,False,False,False
+Indo-Aryan,auto51,595,box <-> ctab_bull_gaur_unicorn,4,17,False,False,False,False,False,False,False
+Indo-Aryan,auto51,400,comb <-> mtab_all,0,42,False,False,False,False,False,False,False
+Indo-Aryan,auto51,480,hill <-> copper_tool_vs_ctab,19,9,False,False,False,False,False,False,False
+Indo-Aryan,auto51,845,fish <-> copper_tablet_vs_all,14,12,False,False,False,False,False,False,False
+Indo-Aryan,auto51,176,comb <-> mtab_all,0,42,False,False,False,False,False,False,False
+Indo-Aryan,auto51,752,cup <-> copper_tablet_vs_all,21,12,False,False,False,False,False,False,False
+Indo-Aryan,auto51,095,man <-> copper_tablet_vs_all,30,12,False,False,False,False,False,False,False
+Indo-Aryan,auto51,503,hill <-> copper_tablet_vs_all,19,12,False,False,False,False,False,False,False
+Indo-Aryan,auto51,615,window <-> copper_tablet_vs_all,1,12,False,False,False,False,False,False,False
+Indo-Aryan,auto51,391,fork <-> copper_tool_vs_all,6,14,False,False,False,False,False,False,False
+Indo-Aryan,auto51,142,man <-> copper_tablet_vs_all,30,12,False,False,False,False,False,False,False
+Indo-Aryan,auto51,240,fish <-> mtab_all,14,42,False,False,False,False,False,False,False
+Indo-Aryan,auto51,413,comb <-> mtab_all,0,42,False,False,False,False,False,False,False
+Indo-Aryan,auto51,890,bow <-> circuit_eastern_headwaters,5,48,False,False,False,False,False,False,False
+Indo-Aryan,auto51,924,bow <-> circuit_overland_west_north,5,8,False,False,False,False,False,False,False
+Indo-Aryan,auto51,140,man <-> har_mound_AB,30,7,False,False,False,False,False,False,False
+Indo-Aryan,auto51,705,jar <-> copper_tablet_vs_all,20,12,False,False,False,False,False,False,False
+Indo-Aryan,auto51,540,hourglass <-> pot_all,12,23,False,False,False,False,False,False,False
+Indo-Aryan,auto51,500,tent <-> tag_all,4,8,False,False,False,False,False,False,False
+Indo-Aryan,auto51,717,comb <-> har_mound_AB,0,7,False,False,False,False,False,False,False
+Indo-Aryan,auto51,585,tent <-> har_mound_AB,4,7,False,False,False,False,False,False,False
+Indo-Aryan,auto51,820,leaf <-> har_mound_AB,11,7,False,False,False,False,False,False,False
+Indo-Aryan,auto51,390,fork <-> site_chanhu_workshops,6,23,False,False,False,False,False,False,False
+Indo-Aryan,auto51,740,jar <-> site_chanhu_workshops,20,23,False,False,False,False,False,False,False
+Indo-Aryan,auto51,416,comb <-> circuit_maritime_coastal,0,9,False,False,False,False,False,False,False
+Indo-Aryan,auto51,906,bow <-> tag_all,5,8,False,False,False,False,False,False,False
+Indo-Aryan,auto51,374,leaf <-> md_HR_elite,11,30,False,False,False,False,False,False,False
+Indo-Aryan,auto51,892,bow <-> pot_all,5,23,False,False,False,False,False,False,False
+Indo-Aryan,auto51,798,leaf <-> md_HR_elite,11,30,False,False,False,False,False,False,False
+Indo-Aryan,auto51,880,wheel <-> tag_all,9,8,False,False,False,False,False,False,False
+Indo-Aryan,auto51,742,jar <-> md_HR_elite,20,30,False,False,False,False,False,False,False
+Indo-Aryan,auto51,900,bow <-> md_citadel,5,9,False,False,False,False,False,False,False
+Indo-Aryan,auto51,125,bow <-> md_HR_elite,5,30,False,False,False,False,False,False,False
+Indo-Aryan,auto51,350,fork <-> circuit_eastern_headwaters,6,48,False,False,False,False,False,False,False
+Indo-Aryan,auto51,100,man <-> tag_all,30,8,False,False,False,False,False,False,False
+Indo-Aryan,auto51,236,bow <-> circuit_maritime_coastal,5,9,False,False,False,False,False,False,False
+Indo-Aryan,auto51,222,fish <-> ctab_rhinoceros,14,32,False,False,False,False,False,False,False
+Indo-Aryan,auto51,923,bow <-> ctab_elephant,5,13,False,False,False,False,False,False,False
+Indo-Aryan,auto51,235,fish <-> ctab_rhinoceros,14,32,False,False,False,False,False,False,False
+Indo-Aryan,auto51,806,leaf <-> ctab_human_archer,11,15,False,False,False,False,False,False,False
+Indo-Aryan,auto51,422,comb <-> copper_tablet_vs_all,0,12,False,False,False,False,False,False,False
+Indo-Aryan,auto51,255,fish <-> mtab_all,14,42,False,False,False,False,False,False,False
+Indo-Aryan,auto51,415,rake <-> mtab_all,1,42,False,False,False,False,False,False,False
+Indo-Aryan,auto51,840,leaf <-> md_HR_elite,11,30,False,False,False,False,False,False,False
+Indo-Aryan,auto51,520,arrow <-> copper_tablet_vs_all,9,12,False,False,False,False,False,False,False
+Indo-Aryan,auto51,868,book <-> mtab_all,6,42,False,False,False,False,False,False,False
+Indo-Aryan,auto51,838,leaf <-> ivory_bone_rod,11,36,False,False,False,False,False,False,False
+Indo-Aryan,auto51,233,fish <-> copper_tablet_vs_all,14,12,False,False,False,False,False,False,False
+Indo-Aryan,auto51,384,leaf <-> copper_tablet_vs_all,11,12,False,False,False,False,False,False,False
+Indo-Aryan,auto51,790,leaf <-> har_mound_AB,11,7,False,False,False,False,False,False,False
+Indo-Aryan,auto51,354,rake <-> har_mound_AB,1,7,False,False,False,False,False,False,False
+Indo-Aryan,legacy12,705,measure/threshing/grain <-> ship/boat,46,10,False,False,False,False,False,False,False
+Indo-Aryan,legacy12,820,wheel/cart <-> quarter/fourth/leg,10,24,False,False,False,False,False,False,False
+Indo-Aryan,legacy12,220,fish <-> star/constellation/shine,14,16,False,False,False,False,False,False,False
+Indo-Aryan,legacy12,740,water_jar/pot <-> house/family/lineage,20,35,False,False,False,False,False,False,False
+Indo-Aryan,legacy12,520,spear/lance/dart <-> chief/ruler/prince,2,18,False,False,False,False,False,False,False
+Indo-Aryan,legacy12,400,comb/rake <-> small/junior/subordinate,1,74,False,False,False,False,False,False,False
+Indo-Aryan,legacy12,861,enclosure/field/court <-> share/portion/weight/property,16,16,False,False,False,False,False,False,False
+Indo-Aryan,legacy12,320,step/stair/ladder <-> allowance/ration/capacity_measure,8,21,False,False,False,False,False,False,False
+Indo-Aryan,legacy12,090,man/male/husband <-> servant/agent/governor/rule,30,20,False,False,False,False,False,False,False
+Indo-Aryan,legacy12,154,carrying_pole/yoke <-> guard/protect/watch,34,6,False,False,False,False,False,False,False
+Indo-Aryan,legacy12,850,eye/sight/pupil <-> copper/bronze/metal/blade,9,14,False,False,False,False,False,False,False
+Indo-Aryan,legacy12,390,tree/branch/bough <-> cotton/thread/cloth/yarn,76,22,False,False,False,False,False,False,False
+Indo-Aryan,key4b30,700,"cup, bowl, vessel, pot, jar, hollow → measure, capacity, grain, ration, allowance, portion",40,39,False,False,False,False,False,False,False
+Indo-Aryan,key4b30,240,"whisker, fin, wing, feather, cheek, bristle → star, bright, shine, glitter, chief, lord, bead",3,34,False,False,False,False,False,False,False
+Indo-Aryan,key4b30,861,"eye, seed, kernel, bud, lozenge, sight → weight, fraction, share, property, tribute, offering",27,18,False,False,False,False,False,False,False
+Indo-Aryan,key4b30,060,"slant, slope, bend, bent, curve, crooked, lean → inside, inner, within, join, unite, quarter, belong",22,13,False,False,False,False,False,False,False
+Indo-Aryan,key4b30,590,"box, chest, crate, basket, plait, braid → sack, pack, bale, bundle, granary, store, treasury",11,7,False,False,False,False,False,False,False
+Indo-Aryan,key4b30,741,"jar, pot, waterpot, pitcher, vessel → house, ward, family, abode, lineage, tenant",30,29,False,False,False,False,False,False,False
+Indo-Aryan,key4b30,615,"grid, net, lattice, mesh, frame, reed, square → field, land, arable, ridge, estate, plot, farm",11,17,False,False,False,False,False,False,False
+Indo-Aryan,key4b30,817,"eye, seed, kernel, bud, lozenge, sight → box, chest, crate, cargo, freight, weight, share",27,13,False,False,False,False,False,False,False
+Indo-Aryan,key4b30,233,"split, halve, divide, cut, slice, cleave, crack → star, bright, shine, dawn, light, luster, sun",28,52,False,False,False,False,False,False,False
+Indo-Aryan,key4b30,415,"fork, branch, prong, rake, bifurcate, tine → seize, grasp, control, share, rent, chief, lord",6,13,False,False,False,False,False,False,False
+Indo-Aryan,key4b30,920,"moon, crescent, lunar, arc → month, season, period, office, craft, bead",15,24,True,True,True,True,True,True,True
+Indo-Aryan,key4b30,405,"tree, branch, bough, twig, shrub → thread, yarn, cord, string, weave, knit, spin",72,14,False,False,False,False,False,False,False
+Indo-Aryan,key4b30,407,"tree, branch, bough, twig, horn, shrub → cloth, textile, garment, fabric, dye, weaver",77,23,False,False,False,False,False,False,False
+Indo-Aryan,key4b30,806,"leaf, stalk, stem, sprout, shoot, twig → crop, millet, grain, harvest, yield, produce, barley",23,36,False,False,False,False,False,False,False
+Indo-Aryan,key4b30,798,"leaf, petal, pincer, claw, tongs, crab → house, mansion, courtyard, lineage, merchant, heir",8,27,False,False,False,False,False,False,False
+Indo-Aryan,key4b30,255,"animal, beast, fish, bird, fowl, fin → ration, allowance, grain, granary, chief, king, issue",45,35,False,True,True,True,True,True,True
+Indo-Aryan,key4b30,803,"leaf, leaves, foliage, petal → house, abode, home, family, dwelling, lineage",11,35,False,False,False,False,False,False,False
+Indo-Aryan,key4b30,156,"carry, burden, porter, shoulder, pole, yoke → bale, pack, sack, bundle, ration, measure, weight",29,26,False,False,False,False,False,False,False
+Indo-Aryan,key4b30,840,"pair, twin, couple, double, leaf, leaves → equal, match, agree, join, unite, bangle, ring, audit",20,10,False,False,False,False,False,False,False
+Indo-Aryan,key4b30,760,"sprout, shoot, bud, twig, tendril → child, young, son, offspring, descendant, heir",14,52,False,False,False,False,False,False,False
+Indo-Aryan,key4b30,368,"flag, banner, pennant, streamer, creeper, wing → give, grant, allot, title, pedigree, grain, ration",3,23,False,False,False,False,False,False,False
+Indo-Aryan,key4b30,690,"knot, tie, bind, fasten, clasp, link → bundle, packet, store, building, ration, grain, pledge",10,27,False,False,False,False,False,False,False
+Indo-Aryan,key4b30,550,"mouth, jaw, pincer, beak, claw, tongs → gate, portal, door, entrance, citadel, fort, precinct",13,12,False,False,False,False,False,False,False
+Indo-Aryan,key4b30,892,"bow, arrow, arc, archer → sell, sale, price, cost, value, trade, merchant",13,11,False,False,False,False,False,False,False
+Indo-Aryan,key4b30,140,"woman, female, breast, mother, matron, girl → goddess, queen, ruler, chief, sacred, temple, citadel",52,16,False,False,False,False,False,False,False
+Indo-Aryan,key4b30,151,"carry, burden, load, porter, pole, shoulder → guard, protect, watch, shelter, defence, preserve",23,5,False,False,False,False,False,False,False
+Indo-Aryan,key4b30,142,"staff, stick, rod, sceptre, club → king, chief, ruler, lord, sovereign, officer",15,19,False,False,False,False,False,False,False
+Indo-Aryan,key4b30,503,"hill, mountain, peak, ridge, mound → garland, necklace, string, bead, shell, dye, estate",23,18,False,False,False,False,False,False,False
+Indo-Aryan,key4b30,231,"pierce, stab, plant, stick, line, stroke → star, bright, shine, country, district, estate, bull",53,37,False,False,False,False,False,False,False
+Indo-Aryan,key4b30,706,"cup, bowl, vessel, pot, jar, hollow → measure, bushel, capacity, grain, ivory, elephant",40,46,False,False,False,False,False,False,False
+Indo-Aryan,key5a13,240,"ray, beam, fin, barb, slant, incline → star, bright, shine, glow, brilliance, light",7,43,False,False,False,False,False,False,False
+Indo-Aryan,key5a13,060,"slant, slope, bend, curve, crooked, lean → inside, within, belong, depend, join, interior",15,7,False,False,False,False,False,False,False
+Indo-Aryan,key5a13,798,"crab, shell, pincer, claw, tongs → seize, grasp, hold, bind, house, guild",7,31,False,False,False,False,False,False,False
+Indo-Aryan,key5a13,550,"waist, middle, centre, narrow, pinch, squeeze → country, district, province, precinct, citadel, locality",11,7,False,False,False,False,False,False,False
+Indo-Aryan,key5a13,142,"staff, stick, rod, wand, club → measure, rule, limit, gauge, king, ruler",15,36,False,False,False,False,False,False,False
+Indo-Aryan,key5a13,440,"corner, angle, nook, crook, elbow → pot, vessel, goblet, cup, jar, earthen",2,32,False,False,False,False,False,False,False
+Indo-Aryan,key5a13,692,"cross, intersect, transverse, criss → assembly, council, guild, office, citadel, precinct",8,3,False,False,False,False,False,False,False
+Indo-Aryan,key5a13,435,"hook, prong, fork, peg, spike, barbed → ally, companion, chief, support, servant, deputy",9,21,False,False,False,False,False,False,False
+Indo-Aryan,key5a13,585,"tent, canopy, awning, umbrella, roof, gable → temple, palace, citadel, shrine, hall, workshop",8,5,False,False,False,False,False,False,False
+Indo-Aryan,key5a13,595,"stripe, bar, box, square, wire, strip → furnace, forge, oven, kiln, copper, smelt",3,6,False,False,False,False,False,False,False
+Indo-Aryan,key5a13,845,"line, streak, stripe, hatch, draw, furrow → tax, impost, duty, toll, levy, rent",10,1,False,False,False,False,False,False,False
+Indo-Aryan,key5a13,527,"crossbar, bolt, latch, plank, panel, hinge → door, gate, portal, entrance, threshold, enclosure",2,15,False,False,False,False,False,False,False
+Indo-Aryan,key5a13,416,"fork, branch, prong, tine, rake → seaport, harbor, port, ford, seize, grasp",6,2,False,False,False,False,False,False,False
+Indo-Aryan,key6a24,142,"staff, stick, rod, wand, club → blacksmith, iron, copper, measure, rule, limit",15,35,False,False,False,False,False,False,False
+Indo-Aryan,key6a24,692,"cross, intersect, diagonal, lattice → assembly, council, citadel, precinct, office, palace",7,6,False,False,False,False,False,False,False
+Indo-Aryan,key6a24,585,"umbrella, parasol, canopy, tent, roof, gable → citadel, palace, temple, garrison, workshop, shrine",8,5,False,False,False,False,False,False,False
+Indo-Aryan,key6a24,595,"stripe, line, streak, hatch, draw → tax, impost, duty, toll, levy, copper",8,5,False,False,False,False,False,False,False
+Indo-Aryan,key6a24,527,"bolt, latch, crossbar, plank, hinge → gate, door, fort, precinct, border, guard",2,12,False,False,False,False,False,False,False
+Indo-Aryan,key6a24,388,"banyan, pipal, fig, leaf, foliage → king, royal, tax, cloth, commodity",8,28,False,False,False,False,False,False,False
+Indo-Aryan,key6a24,384,"banyan, pipal, fig, leaf, foliage → estate, allot, copper, clan, lineage",8,8,False,False,False,False,False,False,False
+Indo-Aryan,key6a24,350,"stall, manger, fence, harrow, rake → village, plough, herd, cattle, pasture, farm",5,24,False,False,False,False,False,False,False
+Indo-Aryan,key6a24,455,"wing, tail, feather, butterfly, plume → star, bright, seal, gold, trade",6,31,False,False,False,False,False,False,False
+Indo-Aryan,key6a24,460,"shoot, sprout, thorn, shrub, spike → garland, wreath, necklace, offering, sacred",16,13,False,True,True,True,True,True,True
+Indo-Aryan,key6a24,482,"mountain, hill, peak, sharpness, apex → emperor, king, lord, leadership, granary, deposit",12,16,False,False,False,False,False,False,False
+Indo-Aryan,key6a24,070,"post, pillar, column, arm, statue → audit, account, witness, chief, judge",10,3,False,False,False,False,False,False,False
+Indo-Aryan,key6a24,480,"point, sharp, wedge, cone, peak → vessel, measure, capacity, weight, copper, ingot",20,35,False,False,False,False,False,False,False
+Indo-Aryan,key6a24,335,"trough, basin, frame, double, rack → vessel, basket, grain, ration, measure, granary",7,52,False,False,False,False,False,False,False
+Indo-Aryan,key6a24,540,"drum, tabor, hourglass, bowtie → capacity, measure, pot, vessel, jar, container",10,46,False,False,False,False,False,False,False
+Indo-Aryan,key6a24,645,"cross, intersect, scissors, diagonal → weight, gold, coin, balance, bronze, axe",11,14,False,False,False,False,False,False,False
+Indo-Aryan,key6a24,621,"room, chamber, apartment, window, shutter → seal, title, chief, ruler, office, guard",6,7,False,False,False,False,False,False,False
+Indo-Aryan,key6a24,630,"birdcage, coop, cage, pen, nest, hive → assemble, join, store, granary, depot, tool",5,4,False,False,False,False,False,False,False
+Indo-Aryan,key6a24,877,"bloom, flower, blossom, petal, diamond → jewel, bead, gold, weight, share",3,16,False,False,False,False,False,False,False
+Indo-Aryan,key6a24,171,"hang, suspend, swing, yoke, pendulum → weight, standard, balance, scale, stone, equal",10,16,False,False,False,False,False,False,False
+Indo-Aryan,key6a24,297,"lustre, splendour, sun, ray, spark → weight, share, tax, quarter, gold, price",16,23,False,False,False,False,False,False,False
+Indo-Aryan,key6a24,831,"blade, wing, feather, quill, plume → paddy, grain, merchant, trade, sell, ship",9,27,False,False,False,False,False,False,False
+Indo-Aryan,key6a24,165,"bend, curve, hump, snail, spiral → cauldron, copper, vessel, pot, month",8,40,False,False,False,True,True,False,False
+Indo-Aryan,key6a24,104,"leap, skip, jump, stride, dance → collect, levy, tax, commodity, allot, cloth",5,13,False,False,False,False,False,False,False
+Elamite,fixed48,740,jar → house,5,7,False,False,False,False,False,False,False
+Elamite,fixed48,700,bowl / hollow → measure,1,2,False,False,False,False,False,False,False
+Elamite,fixed48,400,comb → small / junior,2,7,False,False,False,False,False,False,False
+Elamite,fixed48,220,fish → star,0,0,False,False,False,False,False,False,False
+Elamite,fixed48,520,spear → chief,0,100,False,False,False,False,False,False,False
+Elamite,fixed48,390,tree → sew / weave,0,0,False,False,False,False,False,False,False
+Elamite,fixed48,861,eye / sight → weight / property,3,4,False,False,False,False,False,False,False
+Elamite,fixed48,820,wheel → quarter / leg,0,1,False,False,False,False,False,False,False
+Elamite,fixed48,320,step / ladder → ration / measure,0,8,False,False,False,False,False,False,False
+Elamite,fixed48,590,basket / plait → bale / load,0,6,False,False,False,False,False,False,False
+Elamite,fixed48,615,loom frame → field plot,0,6,False,False,False,False,False,False,False
+Elamite,fixed48,705,threshing floor → vessel / ship,1,1,False,False,False,False,False,False,False
+Elamite,fixed48,176,sit / remain → tribute,1,5,False,False,False,False,False,False,False
+Elamite,fixed48,090,man → manager / ruler,16,0,False,False,False,False,False,False,False
+Elamite,fixed48,233,split → dawn / light,1,7,False,False,False,False,False,False,False
+Elamite,fixed48,415,fork / branch → seize,0,2,False,False,False,False,False,False,False
+Elamite,fixed48,920,moon ↔ month,0,10,False,False,False,False,False,False,False
+Elamite,fixed48,407,branch → cloth,0,0,False,False,False,False,False,False,False
+Elamite,fixed48,806,stalk → millet,0,0,False,False,False,False,False,False,False
+Elamite,fixed48,798,shell → bind / build house,1,7,False,False,False,False,False,False,False
+Elamite,fixed48,255,crocodile → first / principal,0,7,False,False,False,False,False,False,False
+Elamite,fixed48,840,pair ↔ join,0,0,False,False,False,False,False,False,False
+Elamite,fixed48,760,sprout ↔ young / child,2,12,False,False,False,False,False,False,False
+Elamite,fixed48,368,flag → give / grant,0,3,False,False,False,False,False,False,False
+Elamite,fixed48,690,tie ↔ bundle / building,0,2,False,False,False,False,False,False,False
+Elamite,fixed48,550,waist / middle → district,0,12,False,False,False,False,False,False,False
+Elamite,fixed48,892,bow → sell,2,3,False,False,False,False,False,False,False
+Elamite,fixed48,140,mother / lady ↔ goddess,12,14,False,False,False,False,False,False,False
+Elamite,fixed48,154,carrying pole → guard,3,0,False,False,False,False,False,False,False
+Elamite,fixed48,142,staff → smith,3,4,False,False,False,False,False,False,False
+Elamite,fixed48,503,mountain → garland,0,0,False,False,False,False,False,False,False
+Elamite,fixed48,440,corner → vessel,0,1,False,False,False,False,False,False,False
+Elamite,fixed48,435,hook → attendant,0,6,False,False,False,False,False,False,False
+Elamite,fixed48,845,line → tax,1,3,False,False,False,False,False,False,False
+Elamite,fixed48,850,eye → copper,2,5,False,False,False,False,False,False,False
+Elamite,fixed48,717,foot ↔ servant,1,6,False,False,False,False,False,False,False
+Elamite,fixed48,413,grain → tax / cut,0,3,False,False,False,False,False,False,False
+Elamite,fixed48,350,fence → watchman,2,6,False,False,False,False,False,False,False
+Elamite,fixed48,460,shoot → garland,0,0,False,False,False,False,False,False,False
+Elamite,fixed48,482,mountain → king,0,100,False,False,False,False,False,False,False
+Elamite,fixed48,480,point → vessel,0,3,False,False,False,False,False,False,False
+Elamite,fixed48,335,frame → pot,0,1,False,False,False,False,False,False,False
+Elamite,fixed48,540,drum ↔ capacity measure,0,2,False,False,False,False,False,False,False
+Elamite,fixed48,630,cage → assemble / store,1,4,False,False,False,False,False,False,False
+Elamite,fixed48,171,hang ↔ weigh,1,6,False,False,False,False,False,False,False
+Elamite,fixed48,831,blade → grain,4,0,False,False,False,False,False,False,False
+Elamite,fixed48,165,bend / snail → cauldron,0,0,False,False,False,False,False,False,False
+Elamite,fixed48,104,leap → collect / levy,0,1,False,False,False,False,False,False,False
+Elamite,auto51,595,box <-> ctab_bull_gaur_unicorn,2,1,False,False,False,False,False,False,False
+Elamite,auto51,400,comb <-> mtab_all,2,10,False,False,False,False,False,False,False
+Elamite,auto51,480,hill <-> copper_tool_vs_ctab,0,15,False,False,False,False,False,False,False
+Elamite,auto51,845,fish <-> copper_tablet_vs_all,0,6,False,False,False,False,False,False,False
+Elamite,auto51,176,comb <-> mtab_all,2,10,False,False,False,False,False,False,False
+Elamite,auto51,752,cup <-> copper_tablet_vs_all,1,6,False,False,False,False,False,False,False
+Elamite,auto51,095,man <-> copper_tablet_vs_all,9,6,False,False,False,False,False,False,False
+Elamite,auto51,503,hill <-> copper_tablet_vs_all,0,6,False,False,False,False,False,False,False
+Elamite,auto51,615,window <-> copper_tablet_vs_all,1,6,False,False,False,False,False,False,False
+Elamite,auto51,391,fork <-> copper_tool_vs_all,1,13,False,False,False,False,False,False,False
+Elamite,auto51,142,man <-> copper_tablet_vs_all,9,6,False,False,False,False,False,False,False
+Elamite,auto51,240,fish <-> mtab_all,0,10,False,False,False,False,False,False,False
+Elamite,auto51,413,comb <-> mtab_all,2,10,False,False,False,False,False,False,False
+Elamite,auto51,890,bow <-> circuit_eastern_headwaters,2,0,False,False,False,False,False,False,False
+Elamite,auto51,924,bow <-> circuit_overland_west_north,2,1,False,False,False,False,False,False,False
+Elamite,auto51,140,man <-> har_mound_AB,9,6,False,False,False,False,False,False,False
+Elamite,auto51,705,jar <-> copper_tablet_vs_all,5,6,False,False,False,False,False,False,False
+Elamite,auto51,540,hourglass <-> pot_all,0,6,False,False,False,False,False,False,False
+Elamite,auto51,500,tent <-> tag_all,0,3,False,False,False,False,False,False,False
+Elamite,auto51,717,comb <-> har_mound_AB,2,6,False,False,False,False,False,False,False
+Elamite,auto51,585,tent <-> har_mound_AB,0,6,False,False,False,False,False,False,False
+Elamite,auto51,820,leaf <-> har_mound_AB,0,6,False,False,False,False,False,False,False
+Elamite,auto51,390,fork <-> site_chanhu_workshops,1,1,False,False,False,False,False,False,False
+Elamite,auto51,740,jar <-> site_chanhu_workshops,5,1,False,False,False,False,False,False,False
+Elamite,auto51,416,comb <-> circuit_maritime_coastal,2,0,False,False,False,False,False,False,False
+Elamite,auto51,906,bow <-> tag_all,2,3,False,False,False,False,False,False,False
+Elamite,auto51,374,leaf <-> md_HR_elite,0,10,False,False,False,False,False,False,False
+Elamite,auto51,892,bow <-> pot_all,2,6,False,False,False,False,False,False,False
+Elamite,auto51,798,leaf <-> md_HR_elite,0,10,False,False,False,False,False,False,False
+Elamite,auto51,880,wheel <-> tag_all,0,3,False,False,False,False,False,False,False
+Elamite,auto51,742,jar <-> md_HR_elite,5,10,False,False,False,False,False,False,False
+Elamite,auto51,900,bow <-> md_citadel,2,10,False,False,False,False,False,False,False
+Elamite,auto51,125,bow <-> md_HR_elite,2,10,False,False,False,False,False,False,False
+Elamite,auto51,350,fork <-> circuit_eastern_headwaters,1,0,False,False,False,False,False,False,False
+Elamite,auto51,100,man <-> tag_all,9,3,False,False,False,False,False,False,False
+Elamite,auto51,236,bow <-> circuit_maritime_coastal,2,0,False,False,False,False,False,False,False
+Elamite,auto51,222,fish <-> ctab_rhinoceros,0,4,False,False,False,False,False,False,False
+Elamite,auto51,923,bow <-> ctab_elephant,2,1,False,False,False,False,False,False,False
+Elamite,auto51,235,fish <-> ctab_rhinoceros,0,4,False,False,False,False,False,False,False
+Elamite,auto51,806,leaf <-> ctab_human_archer,0,10,False,False,False,False,False,False,False
+Elamite,auto51,422,comb <-> copper_tablet_vs_all,2,6,False,False,False,False,False,False,False
+Elamite,auto51,255,fish <-> mtab_all,0,10,False,False,False,False,False,False,False
+Elamite,auto51,415,rake <-> mtab_all,0,10,False,False,False,False,False,False,False
+Elamite,auto51,840,leaf <-> md_HR_elite,0,10,False,False,False,False,False,False,False
+Elamite,auto51,520,arrow <-> copper_tablet_vs_all,0,6,False,False,False,False,False,False,False
+Elamite,auto51,868,book <-> mtab_all,0,10,False,False,False,False,False,False,False
+Elamite,auto51,838,leaf <-> ivory_bone_rod,0,7,False,False,False,False,False,False,False
+Elamite,auto51,233,fish <-> copper_tablet_vs_all,0,6,False,False,False,False,False,False,False
+Elamite,auto51,384,leaf <-> copper_tablet_vs_all,0,6,False,False,False,False,False,False,False
+Elamite,auto51,790,leaf <-> har_mound_AB,0,6,False,False,False,False,False,False,False
+Elamite,auto51,354,rake <-> har_mound_AB,0,6,False,False,False,False,False,False,False
+Elamite,legacy12,705,measure/threshing/grain <-> ship/boat,3,0,False,False,False,False,False,False,False
+Elamite,legacy12,820,wheel/cart <-> quarter/fourth/leg,0,4,False,False,False,False,False,False,False
+Elamite,legacy12,220,fish <-> star/constellation/shine,0,0,False,False,False,False,False,False,False
+Elamite,legacy12,740,water_jar/pot <-> house/family/lineage,5,7,False,False,False,False,False,False,False
+Elamite,legacy12,520,spear/lance/dart <-> chief/ruler/prince,0,105,False,False,False,False,False,False,False
+Elamite,legacy12,400,comb/rake <-> small/junior/subordinate,2,12,False,False,False,False,False,False,False
+Elamite,legacy12,861,enclosure/field/court <-> share/portion/weight/property,9,8,False,False,False,False,False,False,False
+Elamite,legacy12,320,step/stair/ladder <-> allowance/ration/capacity_measure,0,11,False,False,False,False,False,False,False
+Elamite,legacy12,090,man/male/husband <-> servant/agent/governor/rule,9,7,False,False,False,False,False,False,False
+Elamite,legacy12,154,carrying_pole/yoke <-> guard/protect/watch,12,1,False,False,False,False,False,False,False
+Elamite,legacy12,850,eye/sight/pupil <-> copper/bronze/metal/blade,4,13,False,False,False,False,False,False,False
+Elamite,legacy12,390,tree/branch/bough <-> cotton/thread/cloth/yarn,0,1,False,False,False,False,False,False,False
+Elamite,key4b30,700,"cup, bowl, vessel, pot, jar, hollow → measure, capacity, grain, ration, allowance, portion",6,8,False,False,False,False,False,False,False
+Elamite,key4b30,240,"whisker, fin, wing, feather, cheek, bristle → star, bright, shine, glitter, chief, lord, bead",0,4,False,False,False,False,False,False,False
+Elamite,key4b30,861,"eye, seed, kernel, bud, lozenge, sight → weight, fraction, share, property, tribute, offering",3,10,False,False,False,False,False,False,False
+Elamite,key4b30,060,"slant, slope, bend, bent, curve, crooked, lean → inside, inner, within, join, unite, quarter, belong",0,1,False,False,False,False,False,False,False
+Elamite,key4b30,590,"box, chest, crate, basket, plait, braid → sack, pack, bale, bundle, granary, store, treasury",2,4,False,False,False,False,False,False,False
+Elamite,key4b30,741,"jar, pot, waterpot, pitcher, vessel → house, ward, family, abode, lineage, tenant",6,10,False,False,False,False,False,False,False
+Elamite,key4b30,615,"grid, net, lattice, mesh, frame, reed, square → field, land, arable, ridge, estate, plot, farm",0,11,False,False,False,False,False,False,False
+Elamite,key4b30,817,"eye, seed, kernel, bud, lozenge, sight → box, chest, crate, cargo, freight, weight, share",3,6,False,False,False,False,False,False,False
+Elamite,key4b30,233,"split, halve, divide, cut, slice, cleave, crack → star, bright, shine, dawn, light, luster, sun",1,9,False,False,False,False,False,False,False
+Elamite,key4b30,415,"fork, branch, prong, rake, bifurcate, tine → seize, grasp, control, share, rent, chief, lord",0,8,False,False,False,False,False,False,False
+Elamite,key4b30,920,"moon, crescent, lunar, arc → month, season, period, office, craft, bead",2,10,False,False,False,False,False,False,False
+Elamite,key4b30,405,"tree, branch, bough, twig, shrub → thread, yarn, cord, string, weave, knit, spin",1,0,False,False,False,False,False,False,False
+Elamite,key4b30,407,"tree, branch, bough, twig, horn, shrub → cloth, textile, garment, fabric, dye, weaver",5,0,False,False,False,False,False,False,False
+Elamite,key4b30,806,"leaf, stalk, stem, sprout, shoot, twig → crop, millet, grain, harvest, yield, produce, barley",2,2,False,False,False,False,False,False,False
+Elamite,key4b30,798,"leaf, petal, pincer, claw, tongs, crab → house, mansion, courtyard, lineage, merchant, heir",0,12,False,False,False,False,False,False,False
+Elamite,key4b30,255,"animal, beast, fish, bird, fowl, fin → ration, allowance, grain, granary, chief, king, issue",1,104,False,False,False,False,False,False,False
+Elamite,key4b30,803,"leaf, leaves, foliage, petal → house, abode, home, family, dwelling, lineage",0,7,False,False,False,False,False,False,False
+Elamite,key4b30,156,"carry, burden, porter, shoulder, pole, yoke → bale, pack, sack, bundle, ration, measure, weight",12,11,False,False,False,False,False,False,False
+Elamite,key4b30,840,"pair, twin, couple, double, leaf, leaves → equal, match, agree, join, unite, bangle, ring, audit",0,0,False,False,False,False,False,False,False
+Elamite,key4b30,760,"sprout, shoot, bud, twig, tendril → child, young, son, offspring, descendant, heir",2,15,False,False,False,False,False,False,False
+Elamite,key4b30,368,"flag, banner, pennant, streamer, creeper, wing → give, grant, allot, title, pedigree, grain, ration",0,13,False,False,False,False,False,False,False
+Elamite,key4b30,690,"knot, tie, bind, fasten, clasp, link → bundle, packet, store, building, ration, grain, pledge",0,6,False,False,False,False,False,False,False
+Elamite,key4b30,550,"mouth, jaw, pincer, beak, claw, tongs → gate, portal, door, entrance, citadel, fort, precinct",0,13,False,False,False,False,False,False,False
+Elamite,key4b30,892,"bow, arrow, arc, archer → sell, sale, price, cost, value, trade, merchant",2,6,False,False,False,False,False,False,False
+Elamite,key4b30,140,"woman, female, breast, mother, matron, girl → goddess, queen, ruler, chief, sacred, temple, citadel",14,21,False,False,False,False,False,False,False
+Elamite,key4b30,151,"carry, burden, load, porter, pole, shoulder → guard, protect, watch, shelter, defence, preserve",12,0,False,False,False,False,False,False,False
+Elamite,key4b30,142,"staff, stick, rod, sceptre, club → king, chief, ruler, lord, sovereign, officer",3,104,False,False,False,False,False,False,False
+Elamite,key4b30,503,"hill, mountain, peak, ridge, mound → garland, necklace, string, bead, shell, dye, estate",2,3,False,False,False,False,False,False,False
+Elamite,key4b30,231,"pierce, stab, plant, stick, line, stroke → star, bright, shine, country, district, estate, bull",1,13,False,False,False,False,False,False,False
+Elamite,key4b30,706,"cup, bowl, vessel, pot, jar, hollow → measure, bushel, capacity, grain, ivory, elephant",6,2,False,False,False,False,False,False,False
+Elamite,key5a13,240,"ray, beam, fin, barb, slant, incline → star, bright, shine, glow, brilliance, light",1,3,False,False,False,False,False,False,False
+Elamite,key5a13,060,"slant, slope, bend, curve, crooked, lean → inside, within, belong, depend, join, interior",0,2,False,False,False,False,False,False,False
+Elamite,key5a13,798,"crab, shell, pincer, claw, tongs → seize, grasp, hold, bind, house, guild",0,8,False,False,False,False,False,False,False
+Elamite,key5a13,550,"waist, middle, centre, narrow, pinch, squeeze → country, district, province, precinct, citadel, locality",0,12,False,False,False,False,False,False,False
+Elamite,key5a13,142,"staff, stick, rod, wand, club → measure, rule, limit, gauge, king, ruler",3,103,False,False,False,False,False,False,False
+Elamite,key5a13,440,"corner, angle, nook, crook, elbow → pot, vessel, goblet, cup, jar, earthen",1,5,False,False,False,False,False,False,False
+Elamite,key5a13,692,"cross, intersect, transverse, criss → assembly, council, guild, office, citadel, precinct",0,3,False,False,False,False,False,False,False
+Elamite,key5a13,435,"hook, prong, fork, peg, spike, barbed → ally, companion, chief, support, servant, deputy",2,7,False,False,False,False,False,False,False
+Elamite,key5a13,585,"tent, canopy, awning, umbrella, roof, gable → temple, palace, citadel, shrine, hall, workshop",2,11,False,False,False,False,False,False,False
+Elamite,key5a13,595,"stripe, bar, box, square, wire, strip → furnace, forge, oven, kiln, copper, smelt",4,2,False,False,False,False,False,False,False
+Elamite,key5a13,845,"line, streak, stripe, hatch, draw, furrow → tax, impost, duty, toll, levy, rent",0,4,False,False,False,False,False,False,False
+Elamite,key5a13,527,"crossbar, bolt, latch, plank, panel, hinge → door, gate, portal, entrance, threshold, enclosure",1,9,False,False,False,False,False,False,False
+Elamite,key5a13,416,"fork, branch, prong, tine, rake → seaport, harbor, port, ford, seize, grasp",0,3,False,False,False,False,False,False,False
+Elamite,key6a24,142,"staff, stick, rod, wand, club → blacksmith, iron, copper, measure, rule, limit",3,8,False,False,False,False,False,False,False
+Elamite,key6a24,692,"cross, intersect, diagonal, lattice → assembly, council, citadel, precinct, office, palace",0,5,False,False,False,False,False,False,False
+Elamite,key6a24,585,"umbrella, parasol, canopy, tent, roof, gable → citadel, palace, temple, garrison, workshop, shrine",2,11,False,False,False,False,False,False,False
+Elamite,key6a24,595,"stripe, line, streak, hatch, draw → tax, impost, duty, toll, levy, copper",0,4,False,False,False,False,False,False,False
+Elamite,key6a24,527,"bolt, latch, crossbar, plank, hinge → gate, door, fort, precinct, border, guard",1,13,False,False,False,False,False,False,False
+Elamite,key6a24,388,"banyan, pipal, fig, leaf, foliage → king, royal, tax, cloth, commodity",0,106,False,False,False,False,False,False,False
+Elamite,key6a24,384,"banyan, pipal, fig, leaf, foliage → estate, allot, copper, clan, lineage",0,8,False,False,False,False,False,False,False
+Elamite,key6a24,350,"stall, manger, fence, harrow, rake → village, plough, herd, cattle, pasture, farm",0,4,False,False,False,False,False,False,False
+Elamite,key6a24,455,"wing, tail, feather, butterfly, plume → star, bright, seal, gold, trade",0,6,False,False,False,False,False,False,False
+Elamite,key6a24,460,"shoot, sprout, thorn, shrub, spike → garland, wreath, necklace, offering, sacred",2,2,False,False,False,False,False,False,False
+Elamite,key6a24,482,"mountain, hill, peak, sharpness, apex → emperor, king, lord, leadership, granary, deposit",0,103,False,False,False,False,False,False,False
+Elamite,key6a24,070,"post, pillar, column, arm, statue → audit, account, witness, chief, judge",3,3,False,False,False,False,False,False,False
+Elamite,key6a24,480,"point, sharp, wedge, cone, peak → vessel, measure, capacity, weight, copper, ingot",0,8,False,False,False,False,False,False,False
+Elamite,key6a24,335,"trough, basin, frame, double, rack → vessel, basket, grain, ration, measure, granary",2,7,False,False,False,False,False,False,False
+Elamite,key6a24,540,"drum, tabor, hourglass, bowtie → capacity, measure, pot, vessel, jar, container",0,8,False,False,False,False,False,False,False
+Elamite,key6a24,645,"cross, intersect, scissors, diagonal → weight, gold, coin, balance, bronze, axe",0,9,False,False,False,False,False,False,False
+Elamite,key6a24,621,"room, chamber, apartment, window, shutter → seal, title, chief, ruler, office, guard",0,6,False,False,False,False,False,False,False
+Elamite,key6a24,630,"birdcage, coop, cage, pen, nest, hive → assemble, join, store, granary, depot, tool",1,1,False,False,False,False,False,False,False
+Elamite,key6a24,877,"bloom, flower, blossom, petal, diamond → jewel, bead, gold, weight, share",0,7,False,False,False,False,False,False,False
+Elamite,key6a24,171,"hang, suspend, swing, yoke, pendulum → weight, standard, balance, scale, stone, equal",1,6,False,False,False,False,False,False,False
+Elamite,key6a24,297,"lustre, splendour, sun, ray, spark → weight, share, tax, quarter, gold, price",6,13,False,False,False,False,False,False,False
+Elamite,key6a24,831,"blade, wing, feather, quill, plume → paddy, grain, merchant, trade, sell, ship",0,0,False,False,False,False,False,False,False
+Elamite,key6a24,165,"bend, curve, hump, snail, spiral → cauldron, copper, vessel, pot, month",0,12,False,False,False,False,False,False,False
+Elamite,key6a24,104,"leap, skip, jump, stride, dance → collect, levy, tax, commodity, allot, cloth",0,8,False,False,False,False,False,False,False
+Sumerian,fixed48,740,jar → house,29,20,False,True,True,True,True,True,True
+Sumerian,fixed48,700,bowl / hollow → measure,6,35,False,False,True,False,True,False,True
+Sumerian,fixed48,400,comb → small / junior,5,44,False,False,False,False,False,False,False
+Sumerian,fixed48,220,fish → star,26,6,False,False,False,False,False,False,False
+Sumerian,fixed48,520,spear → chief,3,18,False,False,False,False,False,False,False
+Sumerian,fixed48,390,tree → sew / weave,22,4,False,False,False,False,False,False,False
+Sumerian,fixed48,861,eye / sight → weight / property,8,15,False,False,False,False,False,False,False
+Sumerian,fixed48,820,wheel → quarter / leg,4,11,False,False,True,False,True,False,True
+Sumerian,fixed48,320,step / ladder → ration / measure,5,45,False,False,False,False,False,False,False
+Sumerian,fixed48,590,basket / plait → bale / load,20,13,False,False,False,False,False,False,False
+Sumerian,fixed48,615,loom frame → field plot,30,35,False,True,True,True,True,True,True
+Sumerian,fixed48,705,threshing floor → vessel / ship,20,30,False,False,False,False,False,False,False
+Sumerian,fixed48,176,sit / remain → tribute,3,5,False,False,False,False,False,False,False
+Sumerian,fixed48,090,man → manager / ruler,41,1,False,False,False,False,False,False,False
+Sumerian,fixed48,233,split → dawn / light,5,10,False,False,False,False,False,False,False
+Sumerian,fixed48,415,fork / branch → seize,4,5,False,False,False,False,False,False,False
+Sumerian,fixed48,920,moon ↔ month,6,22,True,True,True,True,True,True,True
+Sumerian,fixed48,407,branch → cloth,4,5,False,False,False,False,False,False,False
+Sumerian,fixed48,806,stalk → millet,5,26,False,False,False,False,False,False,False
+Sumerian,fixed48,798,shell → bind / build house,5,37,False,False,False,False,False,False,False
+Sumerian,fixed48,255,crocodile → first / principal,0,14,False,False,False,False,False,False,False
+Sumerian,fixed48,840,pair ↔ join,1,7,True,False,False,False,False,False,False
+Sumerian,fixed48,760,sprout ↔ young / child,7,34,False,False,True,False,True,False,True
+Sumerian,fixed48,368,flag → give / grant,0,22,False,False,False,False,False,False,False
+Sumerian,fixed48,690,tie ↔ bundle / building,19,14,False,False,True,False,True,False,True
+Sumerian,fixed48,550,waist / middle → district,9,16,False,False,False,False,False,False,False
+Sumerian,fixed48,892,bow → sell,9,6,False,False,False,False,False,False,False
+Sumerian,fixed48,140,mother / lady ↔ goddess,13,2,False,False,False,False,False,False,False
+Sumerian,fixed48,154,carrying pole → guard,15,11,False,True,True,True,True,True,True
+Sumerian,fixed48,142,staff → smith,10,5,False,False,False,False,False,False,False
+Sumerian,fixed48,503,mountain → garland,14,1,False,False,False,False,False,False,False
+Sumerian,fixed48,440,corner → vessel,5,28,False,False,False,False,False,False,False
+Sumerian,fixed48,435,hook → attendant,1,14,False,False,False,False,False,False,False
+Sumerian,fixed48,845,line → tax,11,6,False,False,False,False,False,False,False
+Sumerian,fixed48,850,eye → copper,5,9,False,False,False,False,False,False,False
+Sumerian,fixed48,717,foot ↔ servant,5,19,False,False,False,False,False,False,False
+Sumerian,fixed48,413,grain → tax / cut,28,25,False,False,True,False,True,False,True
+Sumerian,fixed48,350,fence → watchman,5,13,False,False,False,False,False,False,False
+Sumerian,fixed48,460,shoot → garland,7,0,False,False,False,False,False,False,False
+Sumerian,fixed48,482,mountain → king,14,11,False,False,False,False,False,False,False
+Sumerian,fixed48,480,point → vessel,3,50,False,True,True,True,True,True,True
+Sumerian,fixed48,335,frame → pot,1,25,False,False,False,False,False,False,False
+Sumerian,fixed48,540,drum ↔ capacity measure,6,35,False,False,False,False,False,False,False
+Sumerian,fixed48,630,cage → assemble / store,13,20,False,False,False,False,False,False,False
+Sumerian,fixed48,171,hang ↔ weigh,3,12,False,False,False,False,False,False,False
+Sumerian,fixed48,831,blade → grain,13,26,False,False,False,False,False,False,False
+Sumerian,fixed48,165,bend / snail → cauldron,4,1,False,False,False,False,False,False,False
+Sumerian,fixed48,104,leap → collect / levy,4,9,False,False,False,False,False,False,False
+Sumerian,auto51,595,box <-> ctab_bull_gaur_unicorn,8,34,False,False,False,False,False,False,False
+Sumerian,auto51,400,comb <-> mtab_all,6,70,False,False,False,False,False,False,False
+Sumerian,auto51,480,hill <-> copper_tool_vs_ctab,15,27,False,False,False,False,False,False,False
+Sumerian,auto51,845,fish <-> copper_tablet_vs_all,28,25,False,False,False,False,False,False,False
+Sumerian,auto51,176,comb <-> mtab_all,6,70,False,False,False,False,False,False,False
+Sumerian,auto51,752,cup <-> copper_tablet_vs_all,18,25,False,False,False,False,False,False,False
+Sumerian,auto51,095,man <-> copper_tablet_vs_all,37,25,False,True,True,True,True,True,True
+Sumerian,auto51,503,hill <-> copper_tablet_vs_all,15,25,False,True,True,True,True,True,True
+Sumerian,auto51,615,window <-> copper_tablet_vs_all,3,25,False,False,False,False,False,False,False
+Sumerian,auto51,391,fork <-> copper_tool_vs_all,4,23,False,False,False,False,False,False,False
+Sumerian,auto51,142,man <-> copper_tablet_vs_all,37,25,False,True,True,True,True,True,True
+Sumerian,auto51,240,fish <-> mtab_all,28,70,False,False,False,False,False,False,False
+Sumerian,auto51,413,comb <-> mtab_all,6,70,False,False,False,False,False,False,False
+Sumerian,auto51,890,bow <-> circuit_eastern_headwaters,9,42,False,True,True,True,True,True,True
+Sumerian,auto51,924,bow <-> circuit_overland_west_north,9,16,False,False,False,False,False,False,False
+Sumerian,auto51,140,man <-> har_mound_AB,37,9,False,False,False,False,False,False,False
+Sumerian,auto51,705,jar <-> copper_tablet_vs_all,17,25,False,False,False,False,False,False,False
+Sumerian,auto51,540,hourglass <-> pot_all,7,44,False,False,False,False,False,False,False
+Sumerian,auto51,500,tent <-> tag_all,4,18,False,False,False,False,False,False,False
+Sumerian,auto51,717,comb <-> har_mound_AB,6,9,False,False,False,False,False,False,False
+Sumerian,auto51,585,tent <-> har_mound_AB,4,9,False,False,False,False,False,False,False
+Sumerian,auto51,820,leaf <-> har_mound_AB,2,9,False,False,False,False,False,False,False
+Sumerian,auto51,390,fork <-> site_chanhu_workshops,4,6,False,False,False,False,False,False,False
+Sumerian,auto51,740,jar <-> site_chanhu_workshops,17,6,False,True,True,True,True,True,True
+Sumerian,auto51,416,comb <-> circuit_maritime_coastal,6,21,False,False,False,False,False,False,False
+Sumerian,auto51,906,bow <-> tag_all,9,18,False,False,True,False,True,False,True
+Sumerian,auto51,374,leaf <-> md_HR_elite,2,27,False,False,False,False,False,False,False
+Sumerian,auto51,892,bow <-> pot_all,9,44,False,True,True,True,True,True,True
+Sumerian,auto51,798,leaf <-> md_HR_elite,2,27,False,False,False,False,False,False,False
+Sumerian,auto51,880,wheel <-> tag_all,10,18,False,False,False,False,False,False,False
+Sumerian,auto51,742,jar <-> md_HR_elite,17,27,False,True,True,True,True,True,True
+Sumerian,auto51,900,bow <-> md_citadel,9,24,False,False,True,False,True,False,True
+Sumerian,auto51,125,bow <-> md_HR_elite,9,27,False,False,True,False,True,False,True
+Sumerian,auto51,350,fork <-> circuit_eastern_headwaters,4,42,False,False,False,False,False,False,False
+Sumerian,auto51,100,man <-> tag_all,37,18,False,False,False,False,False,False,False
+Sumerian,auto51,236,bow <-> circuit_maritime_coastal,9,21,False,False,True,False,True,False,True
+Sumerian,auto51,222,fish <-> ctab_rhinoceros,28,34,False,True,True,True,True,True,True
+Sumerian,auto51,923,bow <-> ctab_elephant,9,2,False,False,False,False,False,False,False
+Sumerian,auto51,235,fish <-> ctab_rhinoceros,28,34,False,True,True,True,True,True,True
+Sumerian,auto51,806,leaf <-> ctab_human_archer,2,28,False,False,False,False,False,False,False
+Sumerian,auto51,422,comb <-> copper_tablet_vs_all,6,25,False,False,False,False,False,False,False
+Sumerian,auto51,255,fish <-> mtab_all,28,70,False,False,False,False,False,False,False
+Sumerian,auto51,415,rake <-> mtab_all,1,70,False,False,False,False,False,False,False
+Sumerian,auto51,840,leaf <-> md_HR_elite,2,27,False,False,False,False,False,False,False
+Sumerian,auto51,520,arrow <-> copper_tablet_vs_all,7,25,False,False,False,False,False,False,False
+Sumerian,auto51,868,book <-> mtab_all,17,70,False,False,True,False,True,False,True
+Sumerian,auto51,838,leaf <-> ivory_bone_rod,2,27,False,False,False,False,False,False,False
+Sumerian,auto51,233,fish <-> copper_tablet_vs_all,28,25,False,False,False,False,False,False,False
+Sumerian,auto51,384,leaf <-> copper_tablet_vs_all,2,25,False,False,False,False,False,False,False
+Sumerian,auto51,790,leaf <-> har_mound_AB,2,9,False,False,False,False,False,False,False
+Sumerian,auto51,354,rake <-> har_mound_AB,1,9,False,False,False,False,False,False,False
+Sumerian,legacy12,705,measure/threshing/grain <-> ship/boat,72,16,False,False,False,True,True,False,False
+Sumerian,legacy12,820,wheel/cart <-> quarter/fourth/leg,10,14,False,False,True,False,True,False,True
+Sumerian,legacy12,220,fish <-> star/constellation/shine,28,27,False,True,True,True,True,True,True
+Sumerian,legacy12,740,water_jar/pot <-> house/family/lineage,19,23,False,True,True,True,True,True,True
+Sumerian,legacy12,520,spear/lance/dart <-> chief/ruler/prince,3,30,False,False,False,False,False,False,False
+Sumerian,legacy12,400,comb/rake <-> small/junior/subordinate,7,53,False,False,False,False,False,False,False
+Sumerian,legacy12,861,enclosure/field/court <-> share/portion/weight/property,44,27,False,True,True,True,True,True,True
+Sumerian,legacy12,320,step/stair/ladder <-> allowance/ration/capacity_measure,7,45,False,False,False,False,False,False,False
+Sumerian,legacy12,090,man/male/husband <-> servant/agent/governor/rule,37,24,False,True,True,True,True,True,True
+Sumerian,legacy12,154,carrying_pole/yoke <-> guard/protect/watch,23,14,False,True,True,True,True,True,True
+Sumerian,legacy12,850,eye/sight/pupil <-> copper/bronze/metal/blade,11,27,False,False,True,False,True,False,True
+Sumerian,legacy12,390,tree/branch/bough <-> cotton/thread/cloth/yarn,18,10,False,False,False,False,False,False,False
+Sumerian,key4b30,700,"cup, bowl, vessel, pot, jar, hollow → measure, capacity, grain, ration, allowance, portion",35,66,False,False,True,False,True,False,True
+Sumerian,key4b30,240,"whisker, fin, wing, feather, cheek, bristle → star, bright, shine, glitter, chief, lord, bead",5,46,False,True,True,True,True,True,True
+Sumerian,key4b30,861,"eye, seed, kernel, bud, lozenge, sight → weight, fraction, share, property, tribute, offering",16,32,False,False,False,False,False,False,False
+Sumerian,key4b30,060,"slant, slope, bend, bent, curve, crooked, lean → inside, inner, within, join, unite, quarter, belong",6,11,False,False,False,False,False,False,False
+Sumerian,key4b30,590,"box, chest, crate, basket, plait, braid → sack, pack, bale, bundle, granary, store, treasury",26,21,False,True,True,True,True,True,True
+Sumerian,key4b30,741,"jar, pot, waterpot, pitcher, vessel → house, ward, family, abode, lineage, tenant",31,22,False,True,True,True,True,True,True
+Sumerian,key4b30,615,"grid, net, lattice, mesh, frame, reed, square → field, land, arable, ridge, estate, plot, farm",40,41,False,True,True,True,True,True,True
+Sumerian,key4b30,817,"eye, seed, kernel, bud, lozenge, sight → box, chest, crate, cargo, freight, weight, share",16,27,False,False,False,False,False,False,False
+Sumerian,key4b30,233,"split, halve, divide, cut, slice, cleave, crack → star, bright, shine, dawn, light, luster, sun",31,41,False,True,True,True,True,True,True
+Sumerian,key4b30,415,"fork, branch, prong, rake, bifurcate, tine → seize, grasp, control, share, rent, chief, lord",4,29,False,False,False,False,False,False,False
+Sumerian,key4b30,920,"moon, crescent, lunar, arc → month, season, period, office, craft, bead",7,33,True,True,True,True,True,True,True
+Sumerian,key4b30,405,"tree, branch, bough, twig, shrub → thread, yarn, cord, string, weave, knit, spin",18,12,False,False,False,False,False,False,False
+Sumerian,key4b30,407,"tree, branch, bough, twig, horn, shrub → cloth, textile, garment, fabric, dye, weaver",21,9,False,False,False,False,False,False,False
+Sumerian,key4b30,806,"leaf, stalk, stem, sprout, shoot, twig → crop, millet, grain, harvest, yield, produce, barley",11,48,False,False,False,False,False,False,False
+Sumerian,key4b30,798,"leaf, petal, pincer, claw, tongs, crab → house, mansion, courtyard, lineage, merchant, heir",5,24,False,False,False,False,False,False,False
+Sumerian,key4b30,255,"animal, beast, fish, bird, fowl, fin → ration, allowance, grain, granary, chief, king, issue",52,42,False,True,True,True,True,True,True
+Sumerian,key4b30,803,"leaf, leaves, foliage, petal → house, abode, home, family, dwelling, lineage",1,25,False,False,False,False,False,False,False
+Sumerian,key4b30,156,"carry, burden, porter, shoulder, pole, yoke → bale, pack, sack, bundle, ration, measure, weight",29,55,False,True,True,True,True,True,True
+Sumerian,key4b30,840,"pair, twin, couple, double, leaf, leaves → equal, match, agree, join, unite, bangle, ring, audit",4,19,True,False,False,False,False,False,False
+Sumerian,key4b30,760,"sprout, shoot, bud, twig, tendril → child, young, son, offspring, descendant, heir",9,46,False,False,True,False,True,False,True
+Sumerian,key4b30,368,"flag, banner, pennant, streamer, creeper, wing → give, grant, allot, title, pedigree, grain, ration",2,52,False,False,False,False,False,False,False
+Sumerian,key4b30,690,"knot, tie, bind, fasten, clasp, link → bundle, packet, store, building, ration, grain, pledge",24,43,False,True,True,True,True,True,True
+Sumerian,key4b30,550,"mouth, jaw, pincer, beak, claw, tongs → gate, portal, door, entrance, citadel, fort, precinct",6,11,False,False,True,False,True,False,True
+Sumerian,key4b30,892,"bow, arrow, arc, archer → sell, sale, price, cost, value, trade, merchant",14,12,False,False,False,False,False,False,False
+Sumerian,key4b30,140,"woman, female, breast, mother, matron, girl → goddess, queen, ruler, chief, sacred, temple, citadel",30,31,False,False,True,False,True,False,True
+Sumerian,key4b30,151,"carry, burden, load, porter, pole, shoulder → guard, protect, watch, shelter, defence, preserve",24,11,False,False,False,True,True,False,False
+Sumerian,key4b30,142,"staff, stick, rod, sceptre, club → king, chief, ruler, lord, sovereign, officer",11,25,False,False,False,False,False,False,False
+Sumerian,key4b30,503,"hill, mountain, peak, ridge, mound → garland, necklace, string, bead, shell, dye, estate",16,13,False,True,True,True,True,True,True
+Sumerian,key4b30,231,"pierce, stab, plant, stick, line, stroke → star, bright, shine, country, district, estate, bull",22,53,False,True,True,True,True,True,True
+Sumerian,key4b30,706,"cup, bowl, vessel, pot, jar, hollow → measure, bushel, capacity, grain, ivory, elephant",35,60,False,False,True,False,True,False,True
+Sumerian,key5a13,240,"ray, beam, fin, barb, slant, incline → star, bright, shine, glow, brilliance, light",8,39,False,False,True,False,True,False,True
+Sumerian,key5a13,060,"slant, slope, bend, curve, crooked, lean → inside, within, belong, depend, join, interior",5,6,False,False,False,False,False,False,False
+Sumerian,key5a13,798,"crab, shell, pincer, claw, tongs → seize, grasp, hold, bind, house, guild",10,38,False,False,False,False,False,False,False
+Sumerian,key5a13,550,"waist, middle, centre, narrow, pinch, squeeze → country, district, province, precinct, citadel, locality",16,18,False,False,False,False,False,False,False
+Sumerian,key5a13,142,"staff, stick, rod, wand, club → measure, rule, limit, gauge, king, ruler",11,43,False,False,False,False,False,False,False
+Sumerian,key5a13,440,"corner, angle, nook, crook, elbow → pot, vessel, goblet, cup, jar, earthen",8,33,False,False,False,False,False,False,False
+Sumerian,key5a13,692,"cross, intersect, transverse, criss → assembly, council, guild, office, citadel, precinct",6,8,True,False,True,False,True,False,True
+Sumerian,key5a13,435,"hook, prong, fork, peg, spike, barbed → ally, companion, chief, support, servant, deputy",2,31,False,False,False,False,False,False,False
+Sumerian,key5a13,585,"tent, canopy, awning, umbrella, roof, gable → temple, palace, citadel, shrine, hall, workshop",5,16,False,False,False,False,False,False,False
+Sumerian,key5a13,595,"stripe, bar, box, square, wire, strip → furnace, forge, oven, kiln, copper, smelt",15,17,False,False,False,False,False,False,False
+Sumerian,key5a13,845,"line, streak, stripe, hatch, draw, furrow → tax, impost, duty, toll, levy, rent",13,9,False,False,False,False,False,False,False
+Sumerian,key5a13,527,"crossbar, bolt, latch, plank, panel, hinge → door, gate, portal, entrance, threshold, enclosure",7,15,False,False,False,False,False,False,False
+Sumerian,key5a13,416,"fork, branch, prong, tine, rake → seaport, harbor, port, ford, seize, grasp",4,4,False,False,False,False,False,False,False
+Sumerian,key6a24,142,"staff, stick, rod, wand, club → blacksmith, iron, copper, measure, rule, limit",11,44,False,False,False,False,False,False,False
+Sumerian,key6a24,692,"cross, intersect, diagonal, lattice → assembly, council, citadel, precinct, office, palace",6,11,True,False,True,False,True,False,True
+Sumerian,key6a24,585,"umbrella, parasol, canopy, tent, roof, gable → citadel, palace, temple, garrison, workshop, shrine",5,15,False,False,False,False,False,False,False
+Sumerian,key6a24,595,"stripe, line, streak, hatch, draw → tax, impost, duty, toll, levy, copper",9,13,False,False,False,False,False,False,False
+Sumerian,key6a24,527,"bolt, latch, crossbar, plank, hinge → gate, door, fort, precinct, border, guard",7,20,False,False,False,False,False,False,False
+Sumerian,key6a24,388,"banyan, pipal, fig, leaf, foliage → king, royal, tax, cloth, commodity",2,11,False,False,False,False,False,False,False
+Sumerian,key6a24,384,"banyan, pipal, fig, leaf, foliage → estate, allot, copper, clan, lineage",2,11,False,False,False,False,False,False,False
+Sumerian,key6a24,350,"stall, manger, fence, harrow, rake → village, plough, herd, cattle, pasture, farm",4,13,False,False,True,False,True,False,True
+Sumerian,key6a24,455,"wing, tail, feather, butterfly, plume → star, bright, seal, gold, trade",6,23,False,False,False,False,False,False,False
+Sumerian,key6a24,460,"shoot, sprout, thorn, shrub, spike → garland, wreath, necklace, offering, sacred",9,15,False,False,False,False,False,False,False
+Sumerian,key6a24,482,"mountain, hill, peak, sharpness, apex → emperor, king, lord, leadership, granary, deposit",14,18,False,False,False,False,False,False,False
+Sumerian,key6a24,070,"post, pillar, column, arm, statue → audit, account, witness, chief, judge",10,17,False,False,False,False,False,False,False
+Sumerian,key6a24,480,"point, sharp, wedge, cone, peak → vessel, measure, capacity, weight, copper, ingot",7,64,False,True,True,True,True,True,True
+Sumerian,key6a24,335,"trough, basin, frame, double, rack → vessel, basket, grain, ration, measure, granary",8,93,False,True,True,True,True,True,True
+Sumerian,key6a24,540,"drum, tabor, hourglass, bowtie → capacity, measure, pot, vessel, jar, container",6,70,False,False,False,False,False,False,False
+Sumerian,key6a24,645,"cross, intersect, scissors, diagonal → weight, gold, coin, balance, bronze, axe",6,18,False,False,False,False,False,False,False
+Sumerian,key6a24,621,"room, chamber, apartment, window, shutter → seal, title, chief, ruler, office, guard",12,27,False,False,False,False,False,False,False
+Sumerian,key6a24,630,"birdcage, coop, cage, pen, nest, hive → assemble, join, store, granary, depot, tool",13,25,False,False,False,False,False,False,False
+Sumerian,key6a24,877,"bloom, flower, blossom, petal, diamond → jewel, bead, gold, weight, share",5,21,False,False,False,False,False,False,False
+Sumerian,key6a24,171,"hang, suspend, swing, yoke, pendulum → weight, standard, balance, scale, stone, equal",11,33,False,False,False,False,False,False,False
+Sumerian,key6a24,297,"lustre, splendour, sun, ray, spark → weight, share, tax, quarter, gold, price",6,28,False,False,False,False,False,False,False
+Sumerian,key6a24,831,"blade, wing, feather, quill, plume → paddy, grain, merchant, trade, sell, ship",5,35,False,False,False,False,False,False,False
+Sumerian,key6a24,165,"bend, curve, hump, snail, spiral → cauldron, copper, vessel, pot, month",5,55,False,False,False,False,False,False,False
+Sumerian,key6a24,104,"leap, skip, jump, stride, dance → collect, levy, tax, commodity, allot, cloth",4,14,False,False,False,False,False,False,False
+Akkadian,fixed48,740,jar → house,2,6,False,False,False,False,False,False,False
+Akkadian,fixed48,700,bowl / hollow → measure,4,3,False,False,False,False,False,False,False
+Akkadian,fixed48,400,comb → small / junior,0,6,False,False,False,False,False,False,False
+Akkadian,fixed48,220,fish → star,2,8,True,False,False,False,False,False,False
+Akkadian,fixed48,520,spear → chief,1,11,False,False,False,False,False,False,False
+Akkadian,fixed48,390,tree → sew / weave,17,0,False,False,False,False,False,False,False
+Akkadian,fixed48,861,eye / sight → weight / property,2,4,False,False,False,False,False,False,False
+Akkadian,fixed48,820,wheel → quarter / leg,0,2,False,False,False,False,False,False,False
+Akkadian,fixed48,320,step / ladder → ration / measure,1,3,False,False,False,False,False,False,False
+Akkadian,fixed48,590,basket / plait → bale / load,1,1,False,False,False,False,False,False,False
+Akkadian,fixed48,615,loom frame → field plot,4,9,False,False,False,False,False,False,False
+Akkadian,fixed48,705,threshing floor → vessel / ship,6,3,False,False,False,False,False,False,False
+Akkadian,fixed48,176,sit / remain → tribute,1,2,False,False,False,False,False,False,False
+Akkadian,fixed48,090,man → manager / ruler,27,2,False,False,False,False,False,False,False
+Akkadian,fixed48,233,split → dawn / light,0,8,False,False,False,False,False,False,False
+Akkadian,fixed48,415,fork / branch → seize,1,3,False,False,False,False,False,False,False
+Akkadian,fixed48,920,moon ↔ month,2,5,True,False,False,False,False,False,False
+Akkadian,fixed48,407,branch → cloth,1,0,False,False,False,False,False,False,False
+Akkadian,fixed48,806,stalk → millet,0,2,False,False,False,False,False,False,False
+Akkadian,fixed48,798,shell → bind / build house,0,6,False,False,False,False,False,False,False
+Akkadian,fixed48,255,crocodile → first / principal,0,9,False,False,False,False,False,False,False
+Akkadian,fixed48,840,pair ↔ join,0,0,False,False,False,False,False,False,False
+Akkadian,fixed48,760,sprout ↔ young / child,3,8,False,False,False,False,False,False,False
+Akkadian,fixed48,368,flag → give / grant,0,8,False,False,False,False,False,False,False
+Akkadian,fixed48,690,tie ↔ bundle / building,3,2,False,False,False,False,False,False,False
+Akkadian,fixed48,550,waist / middle → district,4,7,False,False,False,False,False,False,False
+Akkadian,fixed48,892,bow → sell,2,2,False,False,False,False,False,False,False
+Akkadian,fixed48,140,mother / lady ↔ goddess,3,2,True,False,False,False,False,False,False
+Akkadian,fixed48,154,carrying pole → guard,1,2,False,False,False,False,False,False,False
+Akkadian,fixed48,142,staff → smith,0,3,False,False,False,False,False,False,False
+Akkadian,fixed48,503,mountain → garland,2,0,False,False,False,False,False,False,False
+Akkadian,fixed48,440,corner → vessel,0,2,False,False,False,False,False,False,False
+Akkadian,fixed48,435,hook → attendant,0,10,False,False,False,False,False,False,False
+Akkadian,fixed48,845,line → tax,5,1,False,False,False,False,False,False,False
+Akkadian,fixed48,850,eye → copper,1,2,False,False,False,False,False,False,False
+Akkadian,fixed48,717,foot ↔ servant,1,7,False,False,False,False,False,False,False
+Akkadian,fixed48,413,grain → tax / cut,5,1,False,False,False,False,False,False,False
+Akkadian,fixed48,350,fence → watchman,1,10,False,False,False,False,False,False,False
+Akkadian,fixed48,460,shoot → garland,2,0,False,False,False,False,False,False,False
+Akkadian,fixed48,482,mountain → king,2,11,False,False,False,False,False,False,False
+Akkadian,fixed48,480,point → vessel,2,4,False,False,False,False,False,False,False
+Akkadian,fixed48,335,frame → pot,1,1,False,False,False,False,False,False,False
+Akkadian,fixed48,540,drum ↔ capacity measure,0,3,False,False,False,False,False,False,False
+Akkadian,fixed48,630,cage → assemble / store,2,2,False,False,False,False,False,False,False
+Akkadian,fixed48,171,hang ↔ weigh,1,2,False,False,False,False,False,False,False
+Akkadian,fixed48,831,blade → grain,7,2,False,False,False,False,False,False,False
+Akkadian,fixed48,165,bend / snail → cauldron,0,1,False,False,False,False,False,False,False
+Akkadian,fixed48,104,leap → collect / levy,1,2,False,False,False,False,False,False,False
+Akkadian,auto51,595,box <-> ctab_bull_gaur_unicorn,1,6,False,False,False,False,False,False,False
+Akkadian,auto51,400,comb <-> mtab_all,0,5,False,False,False,False,False,False,False
+Akkadian,auto51,480,hill <-> copper_tool_vs_ctab,5,3,False,False,False,False,False,False,False
+Akkadian,auto51,845,fish <-> copper_tablet_vs_all,2,7,False,False,False,False,False,False,False
+Akkadian,auto51,176,comb <-> mtab_all,0,5,False,False,False,False,False,False,False
+Akkadian,auto51,752,cup <-> copper_tablet_vs_all,4,7,False,False,False,False,False,False,False
+Akkadian,auto51,095,man <-> copper_tablet_vs_all,22,7,False,False,False,False,False,False,False
+Akkadian,auto51,503,hill <-> copper_tablet_vs_all,5,7,False,False,False,False,False,False,False
+Akkadian,auto51,615,window <-> copper_tablet_vs_all,2,7,False,False,False,False,False,False,False
+Akkadian,auto51,391,fork <-> copper_tool_vs_all,1,6,False,False,False,False,False,False,False
+Akkadian,auto51,142,man <-> copper_tablet_vs_all,22,7,False,False,False,False,False,False,False
+Akkadian,auto51,240,fish <-> mtab_all,2,5,False,False,False,False,False,False,False
+Akkadian,auto51,413,comb <-> mtab_all,0,5,False,False,False,False,False,False,False
+Akkadian,auto51,890,bow <-> circuit_eastern_headwaters,2,6,False,False,False,False,False,False,False
+Akkadian,auto51,924,bow <-> circuit_overland_west_north,2,7,False,False,False,False,False,False,False
+Akkadian,auto51,140,man <-> har_mound_AB,22,3,False,False,False,False,False,False,False
+Akkadian,auto51,705,jar <-> copper_tablet_vs_all,1,7,False,False,False,False,False,False,False
+Akkadian,auto51,540,hourglass <-> pot_all,1,7,False,False,False,False,False,False,False
+Akkadian,auto51,500,tent <-> tag_all,0,5,False,False,False,False,False,False,False
+Akkadian,auto51,717,comb <-> har_mound_AB,0,3,False,False,False,False,False,False,False
+Akkadian,auto51,585,tent <-> har_mound_AB,0,3,False,False,False,False,False,False,False
+Akkadian,auto51,820,leaf <-> har_mound_AB,2,3,False,False,False,False,False,False,False
+Akkadian,auto51,390,fork <-> site_chanhu_workshops,1,1,False,False,False,False,False,False,False
+Akkadian,auto51,740,jar <-> site_chanhu_workshops,1,1,False,False,False,False,False,False,False
+Akkadian,auto51,416,comb <-> circuit_maritime_coastal,0,4,False,False,False,False,False,False,False
+Akkadian,auto51,906,bow <-> tag_all,2,5,False,False,False,False,False,False,False
+Akkadian,auto51,374,leaf <-> md_HR_elite,2,6,False,False,False,False,False,False,False
+Akkadian,auto51,892,bow <-> pot_all,2,7,False,False,False,False,False,False,False
+Akkadian,auto51,798,leaf <-> md_HR_elite,2,6,False,False,False,False,False,False,False
+Akkadian,auto51,880,wheel <-> tag_all,1,5,False,False,False,False,False,False,False
+Akkadian,auto51,742,jar <-> md_HR_elite,1,6,False,False,False,False,False,False,False
+Akkadian,auto51,900,bow <-> md_citadel,2,8,False,False,False,False,False,False,False
+Akkadian,auto51,125,bow <-> md_HR_elite,2,6,False,False,False,False,False,False,False
+Akkadian,auto51,350,fork <-> circuit_eastern_headwaters,1,6,False,False,False,False,False,False,False
+Akkadian,auto51,100,man <-> tag_all,22,5,False,False,False,False,False,False,False
+Akkadian,auto51,236,bow <-> circuit_maritime_coastal,2,4,False,False,False,False,False,False,False
+Akkadian,auto51,222,fish <-> ctab_rhinoceros,2,10,True,False,False,False,False,False,False
+Akkadian,auto51,923,bow <-> ctab_elephant,2,2,False,False,False,False,False,False,False
+Akkadian,auto51,235,fish <-> ctab_rhinoceros,2,10,True,False,False,False,False,False,False
+Akkadian,auto51,806,leaf <-> ctab_human_archer,2,6,False,False,False,False,False,False,False
+Akkadian,auto51,422,comb <-> copper_tablet_vs_all,0,7,False,False,False,False,False,False,False
+Akkadian,auto51,255,fish <-> mtab_all,2,5,False,False,False,False,False,False,False
+Akkadian,auto51,415,rake <-> mtab_all,2,5,False,False,False,False,False,False,False
+Akkadian,auto51,840,leaf <-> md_HR_elite,2,6,False,False,False,False,False,False,False
+Akkadian,auto51,520,arrow <-> copper_tablet_vs_all,3,7,False,False,False,False,False,False,False
+Akkadian,auto51,868,book <-> mtab_all,6,5,False,False,False,False,False,False,False
+Akkadian,auto51,838,leaf <-> ivory_bone_rod,2,4,True,False,False,False,False,False,False
+Akkadian,auto51,233,fish <-> copper_tablet_vs_all,2,7,False,False,False,False,False,False,False
+Akkadian,auto51,384,leaf <-> copper_tablet_vs_all,2,7,False,False,False,False,False,False,False
+Akkadian,auto51,790,leaf <-> har_mound_AB,2,3,False,False,False,False,False,False,False
+Akkadian,auto51,354,rake <-> har_mound_AB,2,3,False,False,False,False,False,False,False
+Akkadian,legacy12,705,measure/threshing/grain <-> ship/boat,8,3,False,False,False,False,False,False,False
+Akkadian,legacy12,820,wheel/cart <-> quarter/fourth/leg,1,2,False,False,False,False,False,False,False
+Akkadian,legacy12,220,fish <-> star/constellation/shine,2,9,True,False,False,False,False,False,False
+Akkadian,legacy12,740,water_jar/pot <-> house/family/lineage,1,5,False,False,False,False,False,False,False
+Akkadian,legacy12,520,spear/lance/dart <-> chief/ruler/prince,1,14,False,False,False,False,False,False,False
+Akkadian,legacy12,400,comb/rake <-> small/junior/subordinate,2,12,False,False,False,False,False,False,False
+Akkadian,legacy12,861,enclosure/field/court <-> share/portion/weight/property,11,5,False,False,False,False,False,False,False
+Akkadian,legacy12,320,step/stair/ladder <-> allowance/ration/capacity_measure,1,3,False,False,False,False,False,False,False
+Akkadian,legacy12,090,man/male/husband <-> servant/agent/governor/rule,22,8,True,False,False,False,False,False,False
+Akkadian,legacy12,154,carrying_pole/yoke <-> guard/protect/watch,2,2,False,False,False,False,False,False,False
+Akkadian,legacy12,850,eye/sight/pupil <-> copper/bronze/metal/blade,1,6,False,False,False,False,False,False,False
+Akkadian,legacy12,390,tree/branch/bough <-> cotton/thread/cloth/yarn,13,1,False,False,False,False,False,False,False
+Akkadian,key4b30,700,"cup, bowl, vessel, pot, jar, hollow → measure, capacity, grain, ration, allowance, portion",6,6,False,False,False,False,False,False,False
+Akkadian,key4b30,240,"whisker, fin, wing, feather, cheek, bristle → star, bright, shine, glitter, chief, lord, bead",3,9,False,False,False,False,False,False,False
+Akkadian,key4b30,861,"eye, seed, kernel, bud, lozenge, sight → weight, fraction, share, property, tribute, offering",3,10,False,False,False,False,False,False,False
+Akkadian,key4b30,060,"slant, slope, bend, bent, curve, crooked, lean → inside, inner, within, join, unite, quarter, belong",0,4,False,False,False,False,False,False,False
+Akkadian,key4b30,590,"box, chest, crate, basket, plait, braid → sack, pack, bale, bundle, granary, store, treasury",1,2,False,False,False,False,False,False,False
+Akkadian,key4b30,741,"jar, pot, waterpot, pitcher, vessel → house, ward, family, abode, lineage, tenant",2,6,False,False,False,False,False,False,False
+Akkadian,key4b30,615,"grid, net, lattice, mesh, frame, reed, square → field, land, arable, ridge, estate, plot, farm",5,12,False,False,False,False,False,False,False
+Akkadian,key4b30,817,"eye, seed, kernel, bud, lozenge, sight → box, chest, crate, cargo, freight, weight, share",3,2,False,False,False,False,False,False,False
+Akkadian,key4b30,233,"split, halve, divide, cut, slice, cleave, crack → star, bright, shine, dawn, light, luster, sun",1,9,False,False,False,False,False,False,False
+Akkadian,key4b30,415,"fork, branch, prong, rake, bifurcate, tine → seize, grasp, control, share, rent, chief, lord",2,6,False,False,False,False,False,False,False
+Akkadian,key4b30,920,"moon, crescent, lunar, arc → month, season, period, office, craft, bead",2,12,True,False,False,False,False,False,False
+Akkadian,key4b30,405,"tree, branch, bough, twig, shrub → thread, yarn, cord, string, weave, knit, spin",12,1,False,False,False,False,False,False,False
+Akkadian,key4b30,407,"tree, branch, bough, twig, horn, shrub → cloth, textile, garment, fabric, dye, weaver",13,1,False,False,False,False,False,False,False
+Akkadian,key4b30,806,"leaf, stalk, stem, sprout, shoot, twig → crop, millet, grain, harvest, yield, produce, barley",3,4,False,False,False,False,False,False,False
+Akkadian,key4b30,798,"leaf, petal, pincer, claw, tongs, crab → house, mansion, courtyard, lineage, merchant, heir",1,5,False,False,False,False,False,False,False
+Akkadian,key4b30,255,"animal, beast, fish, bird, fowl, fin → ration, allowance, grain, granary, chief, king, issue",6,14,False,False,False,False,False,False,False
+Akkadian,key4b30,803,"leaf, leaves, foliage, petal → house, abode, home, family, dwelling, lineage",1,6,False,False,False,False,False,False,False
+Akkadian,key4b30,156,"carry, burden, porter, shoulder, pole, yoke → bale, pack, sack, bundle, ration, measure, weight",5,4,False,False,False,False,False,False,False
+Akkadian,key4b30,840,"pair, twin, couple, double, leaf, leaves → equal, match, agree, join, unite, bangle, ring, audit",2,6,False,False,True,False,True,False,True
+Akkadian,key4b30,760,"sprout, shoot, bud, twig, tendril → child, young, son, offspring, descendant, heir",3,14,False,False,False,False,False,False,False
+Akkadian,key4b30,368,"flag, banner, pennant, streamer, creeper, wing → give, grant, allot, title, pedigree, grain, ration",3,10,False,False,False,False,False,False,False
+Akkadian,key4b30,690,"knot, tie, bind, fasten, clasp, link → bundle, packet, store, building, ration, grain, pledge",4,5,False,False,False,False,False,False,False
+Akkadian,key4b30,550,"mouth, jaw, pincer, beak, claw, tongs → gate, portal, door, entrance, citadel, fort, precinct",2,4,False,False,False,False,False,False,False
+Akkadian,key4b30,892,"bow, arrow, arc, archer → sell, sale, price, cost, value, trade, merchant",4,4,False,False,False,False,False,False,False
+Akkadian,key4b30,140,"woman, female, breast, mother, matron, girl → goddess, queen, ruler, chief, sacred, temple, citadel",7,9,True,False,False,False,False,False,False
+Akkadian,key4b30,151,"carry, burden, load, porter, pole, shoulder → guard, protect, watch, shelter, defence, preserve",4,2,False,False,False,False,False,False,False
+Akkadian,key4b30,142,"staff, stick, rod, sceptre, club → king, chief, ruler, lord, sovereign, officer",0,13,False,False,False,False,False,False,False
+Akkadian,key4b30,503,"hill, mountain, peak, ridge, mound → garland, necklace, string, bead, shell, dye, estate",5,4,False,False,False,False,False,False,False
+Akkadian,key4b30,231,"pierce, stab, plant, stick, line, stroke → star, bright, shine, country, district, estate, bull",11,18,False,False,False,False,False,False,False
+Akkadian,key4b30,706,"cup, bowl, vessel, pot, jar, hollow → measure, bushel, capacity, grain, ivory, elephant",6,8,False,False,False,False,False,False,False
+Akkadian,key5a13,240,"ray, beam, fin, barb, slant, incline → star, bright, shine, glow, brilliance, light",0,7,False,False,False,False,False,False,False
+Akkadian,key5a13,060,"slant, slope, bend, curve, crooked, lean → inside, within, belong, depend, join, interior",0,3,False,False,False,False,False,False,False
+Akkadian,key5a13,798,"crab, shell, pincer, claw, tongs → seize, grasp, hold, bind, house, guild",1,4,False,False,False,False,False,False,False
+Akkadian,key5a13,550,"waist, middle, centre, narrow, pinch, squeeze → country, district, province, precinct, citadel, locality",7,7,False,False,False,False,False,False,False
+Akkadian,key5a13,142,"staff, stick, rod, wand, club → measure, rule, limit, gauge, king, ruler",0,16,False,False,False,False,False,False,False
+Akkadian,key5a13,440,"corner, angle, nook, crook, elbow → pot, vessel, goblet, cup, jar, earthen",0,3,False,False,False,False,False,False,False
+Akkadian,key5a13,692,"cross, intersect, transverse, criss → assembly, council, guild, office, citadel, precinct",0,2,False,False,False,False,False,False,False
+Akkadian,key5a13,435,"hook, prong, fork, peg, spike, barbed → ally, companion, chief, support, servant, deputy",2,10,False,False,False,False,False,False,False
+Akkadian,key5a13,585,"tent, canopy, awning, umbrella, roof, gable → temple, palace, citadel, shrine, hall, workshop",1,5,False,False,False,False,False,False,False
+Akkadian,key5a13,595,"stripe, bar, box, square, wire, strip → furnace, forge, oven, kiln, copper, smelt",3,3,False,False,False,False,False,False,False
+Akkadian,key5a13,845,"line, streak, stripe, hatch, draw, furrow → tax, impost, duty, toll, levy, rent",3,1,False,False,False,False,False,False,False
+Akkadian,key5a13,527,"crossbar, bolt, latch, plank, panel, hinge → door, gate, portal, entrance, threshold, enclosure",1,4,False,False,False,False,False,False,False
+Akkadian,key5a13,416,"fork, branch, prong, tine, rake → seaport, harbor, port, ford, seize, grasp",2,3,False,False,False,False,False,False,False
+Akkadian,key6a24,142,"staff, stick, rod, wand, club → blacksmith, iron, copper, measure, rule, limit",0,9,False,False,False,False,False,False,False
+Akkadian,key6a24,692,"cross, intersect, diagonal, lattice → assembly, council, citadel, precinct, office, palace",0,4,False,False,False,False,False,False,False
+Akkadian,key6a24,585,"umbrella, parasol, canopy, tent, roof, gable → citadel, palace, temple, garrison, workshop, shrine",1,5,False,False,False,False,False,False,False
+Akkadian,key6a24,595,"stripe, line, streak, hatch, draw → tax, impost, duty, toll, levy, copper",3,2,False,False,False,False,False,False,False
+Akkadian,key6a24,527,"bolt, latch, crossbar, plank, hinge → gate, door, fort, precinct, border, guard",1,6,False,False,False,False,False,False,False
+Akkadian,key6a24,388,"banyan, pipal, fig, leaf, foliage → king, royal, tax, cloth, commodity",2,12,False,False,False,False,False,False,False
+Akkadian,key6a24,384,"banyan, pipal, fig, leaf, foliage → estate, allot, copper, clan, lineage",2,6,False,False,False,False,False,False,False
+Akkadian,key6a24,350,"stall, manger, fence, harrow, rake → village, plough, herd, cattle, pasture, farm",3,4,False,False,False,False,False,False,False
+Akkadian,key6a24,455,"wing, tail, feather, butterfly, plume → star, bright, seal, gold, trade",4,11,True,False,False,False,False,False,False
+Akkadian,key6a24,460,"shoot, sprout, thorn, shrub, spike → garland, wreath, necklace, offering, sacred",4,5,False,False,False,False,False,False,False
+Akkadian,key6a24,482,"mountain, hill, peak, sharpness, apex → emperor, king, lord, leadership, granary, deposit",4,13,False,False,False,False,False,False,False
+Akkadian,key6a24,070,"post, pillar, column, arm, statue → audit, account, witness, chief, judge",3,3,False,False,False,False,False,False,False
+Akkadian,key6a24,480,"point, sharp, wedge, cone, peak → vessel, measure, capacity, weight, copper, ingot",6,6,False,False,False,False,False,False,False
+Akkadian,key6a24,335,"trough, basin, frame, double, rack → vessel, basket, grain, ration, measure, granary",1,7,False,False,False,False,False,False,False
+Akkadian,key6a24,540,"drum, tabor, hourglass, bowtie → capacity, measure, pot, vessel, jar, container",0,6,False,False,False,False,False,False,False
+Akkadian,key6a24,645,"cross, intersect, scissors, diagonal → weight, gold, coin, balance, bronze, axe",0,5,False,False,False,False,False,False,False
+Akkadian,key6a24,621,"room, chamber, apartment, window, shutter → seal, title, chief, ruler, office, guard",1,8,False,False,False,False,False,False,False
+Akkadian,key6a24,630,"birdcage, coop, cage, pen, nest, hive → assemble, join, store, granary, depot, tool",2,1,False,False,False,False,False,False,False
+Akkadian,key6a24,877,"bloom, flower, blossom, petal, diamond → jewel, bead, gold, weight, share",1,4,False,False,False,False,False,False,False
+Akkadian,key6a24,171,"hang, suspend, swing, yoke, pendulum → weight, standard, balance, scale, stone, equal",2,15,False,False,False,False,False,False,False
+Akkadian,key6a24,297,"lustre, splendour, sun, ray, spark → weight, share, tax, quarter, gold, price",2,6,False,False,False,False,False,False,False
+Akkadian,key6a24,831,"blade, wing, feather, quill, plume → paddy, grain, merchant, trade, sell, ship",7,5,False,False,False,False,False,False,False
+Akkadian,key6a24,165,"bend, curve, hump, snail, spiral → cauldron, copper, vessel, pot, month",0,8,False,False,False,False,False,False,False
+Akkadian,key6a24,104,"leap, skip, jump, stride, dance → collect, levy, tax, commodity, allot, cloth",1,1,False,False,False,False,False,False,False
+Burushaski,fixed48,740,jar → house,2,10,False,False,False,False,False,False,False
+Burushaski,fixed48,700,bowl / hollow → measure,1,0,False,False,False,False,False,False,False
+Burushaski,fixed48,400,comb → small / junior,0,7,False,False,False,False,False,False,False
+Burushaski,fixed48,220,fish → star,2,2,False,False,False,False,False,False,False
+Burushaski,fixed48,520,spear → chief,1,6,False,False,False,False,False,False,False
+Burushaski,fixed48,390,tree → sew / weave,10,1,False,False,False,False,False,False,False
+Burushaski,fixed48,861,eye / sight → weight / property,4,5,False,False,False,False,False,False,False
+Burushaski,fixed48,820,wheel → quarter / leg,0,3,False,False,False,False,False,False,False
+Burushaski,fixed48,320,step / ladder → ration / measure,1,2,False,False,False,False,False,False,False
+Burushaski,fixed48,590,basket / plait → bale / load,1,7,False,False,False,False,False,False,False
+Burushaski,fixed48,615,loom frame → field plot,0,5,False,False,False,False,False,False,False
+Burushaski,fixed48,705,threshing floor → vessel / ship,5,1,False,False,False,False,False,False,False
+Burushaski,fixed48,176,sit / remain → tribute,2,1,False,False,False,False,False,False,False
+Burushaski,fixed48,090,man → manager / ruler,20,2,False,False,False,False,False,False,False
+Burushaski,fixed48,233,split → dawn / light,0,13,False,False,False,False,False,False,False
+Burushaski,fixed48,415,fork / branch → seize,1,1,False,False,False,False,False,False,False
+Burushaski,fixed48,920,moon ↔ month,2,2,False,False,False,False,False,False,False
+Burushaski,fixed48,407,branch → cloth,1,9,False,False,False,False,False,False,False
+Burushaski,fixed48,806,stalk → millet,0,8,False,False,False,False,False,False,False
+Burushaski,fixed48,798,shell → bind / build house,2,14,False,False,False,False,False,False,False
+Burushaski,fixed48,255,crocodile → first / principal,0,3,False,False,False,False,False,False,False
+Burushaski,fixed48,840,pair ↔ join,0,0,False,False,False,False,False,False,False
+Burushaski,fixed48,760,sprout ↔ young / child,2,2,False,False,False,False,False,False,False
+Burushaski,fixed48,368,flag → give / grant,0,2,False,False,False,False,False,False,False
+Burushaski,fixed48,690,tie ↔ bundle / building,3,5,False,False,False,False,False,False,False
+Burushaski,fixed48,550,waist / middle → district,3,2,False,False,False,False,False,False,False
+Burushaski,fixed48,892,bow → sell,1,3,False,False,False,False,False,False,False
+Burushaski,fixed48,140,mother / lady ↔ goddess,3,0,False,False,False,False,False,False,False
+Burushaski,fixed48,154,carrying pole → guard,8,2,False,False,False,False,False,False,False
+Burushaski,fixed48,142,staff → smith,5,2,False,False,False,False,False,False,False
+Burushaski,fixed48,503,mountain → garland,6,0,False,False,False,False,False,False,False
+Burushaski,fixed48,440,corner → vessel,2,6,False,False,False,False,False,False,False
+Burushaski,fixed48,435,hook → attendant,0,1,False,False,False,False,False,False,False
+Burushaski,fixed48,845,line → tax,2,0,False,False,False,False,False,False,False
+Burushaski,fixed48,850,eye → copper,2,1,False,False,False,False,False,False,False
+Burushaski,fixed48,717,foot ↔ servant,1,1,False,False,False,False,False,False,False
+Burushaski,fixed48,413,grain → tax / cut,7,4,False,False,False,False,False,False,False
+Burushaski,fixed48,350,fence → watchman,0,1,False,False,False,False,False,False,False
+Burushaski,fixed48,460,shoot → garland,3,0,False,False,False,False,False,False,False
+Burushaski,fixed48,482,mountain → king,6,6,False,False,False,False,False,False,False
+Burushaski,fixed48,480,point → vessel,4,1,False,False,False,False,False,False,False
+Burushaski,fixed48,335,frame → pot,0,4,False,False,False,False,False,False,False
+Burushaski,fixed48,540,drum ↔ capacity measure,1,0,False,False,False,False,False,False,False
+Burushaski,fixed48,630,cage → assemble / store,0,3,False,False,False,False,False,False,False
+Burushaski,fixed48,171,hang ↔ weigh,3,1,False,False,False,False,False,False,False
+Burushaski,fixed48,831,blade → grain,1,6,False,False,False,False,False,False,False
+Burushaski,fixed48,165,bend / snail → cauldron,0,0,False,False,False,False,False,False,False
+Burushaski,fixed48,104,leap → collect / levy,1,0,False,False,False,False,False,False,False
+Burushaski,auto51,595,box <-> ctab_bull_gaur_unicorn,1,7,False,False,False,False,False,False,False
+Burushaski,auto51,400,comb <-> mtab_all,0,11,False,False,False,False,False,False,False
+Burushaski,auto51,480,hill <-> copper_tool_vs_ctab,7,3,False,False,False,False,False,False,False
+Burushaski,auto51,845,fish <-> copper_tablet_vs_all,2,5,False,False,False,False,False,False,False
+Burushaski,auto51,176,comb <-> mtab_all,0,11,False,False,False,False,False,False,False
+Burushaski,auto51,752,cup <-> copper_tablet_vs_all,5,5,False,False,False,False,False,False,False
+Burushaski,auto51,095,man <-> copper_tablet_vs_all,19,5,False,False,True,False,True,False,True
+Burushaski,auto51,503,hill <-> copper_tablet_vs_all,7,5,False,False,False,False,False,False,False
+Burushaski,auto51,615,window <-> copper_tablet_vs_all,3,5,False,False,False,False,False,False,False
+Burushaski,auto51,391,fork <-> copper_tool_vs_all,1,3,False,False,False,False,False,False,False
+Burushaski,auto51,142,man <-> copper_tablet_vs_all,19,5,False,False,True,False,True,False,True
+Burushaski,auto51,240,fish <-> mtab_all,2,11,False,False,False,False,False,False,False
+Burushaski,auto51,413,comb <-> mtab_all,0,11,False,False,False,False,False,False,False
+Burushaski,auto51,890,bow <-> circuit_eastern_headwaters,1,13,False,False,False,False,False,False,False
+Burushaski,auto51,924,bow <-> circuit_overland_west_north,1,1,False,False,False,False,False,False,False
+Burushaski,auto51,140,man <-> har_mound_AB,19,3,False,False,False,False,False,False,False
+Burushaski,auto51,705,jar <-> copper_tablet_vs_all,2,5,False,False,False,False,False,False,False
+Burushaski,auto51,540,hourglass <-> pot_all,5,3,False,False,False,False,False,False,False
+Burushaski,auto51,500,tent <-> tag_all,3,0,False,False,False,False,False,False,False
+Burushaski,auto51,717,comb <-> har_mound_AB,0,3,False,False,False,False,False,False,False
+Burushaski,auto51,585,tent <-> har_mound_AB,3,3,False,False,False,False,False,False,False
+Burushaski,auto51,820,leaf <-> har_mound_AB,3,3,False,False,False,False,False,False,False
+Burushaski,auto51,390,fork <-> site_chanhu_workshops,1,11,False,False,False,False,False,False,False
+Burushaski,auto51,740,jar <-> site_chanhu_workshops,2,11,False,False,False,False,False,False,False
+Burushaski,auto51,416,comb <-> circuit_maritime_coastal,0,0,False,False,False,False,False,False,False
+Burushaski,auto51,906,bow <-> tag_all,1,0,False,False,False,False,False,False,False
+Burushaski,auto51,374,leaf <-> md_HR_elite,3,11,False,False,False,False,False,False,False
+Burushaski,auto51,892,bow <-> pot_all,1,3,False,False,False,False,False,False,False
+Burushaski,auto51,798,leaf <-> md_HR_elite,3,11,False,False,False,False,False,False,False
+Burushaski,auto51,880,wheel <-> tag_all,0,0,False,False,False,False,False,False,False
+Burushaski,auto51,742,jar <-> md_HR_elite,2,11,False,False,False,False,False,False,False
+Burushaski,auto51,900,bow <-> md_citadel,1,2,False,False,False,False,False,False,False
+Burushaski,auto51,125,bow <-> md_HR_elite,1,11,False,False,False,False,False,False,False
+Burushaski,auto51,350,fork <-> circuit_eastern_headwaters,1,13,False,False,False,False,False,False,False
+Burushaski,auto51,100,man <-> tag_all,19,0,False,False,False,False,False,False,False
+Burushaski,auto51,236,bow <-> circuit_maritime_coastal,1,0,False,False,False,False,False,False,False
+Burushaski,auto51,222,fish <-> ctab_rhinoceros,2,3,False,False,False,False,False,False,False
+Burushaski,auto51,923,bow <-> ctab_elephant,1,0,False,False,False,False,False,False,False
+Burushaski,auto51,235,fish <-> ctab_rhinoceros,2,3,False,False,False,False,False,False,False
+Burushaski,auto51,806,leaf <-> ctab_human_archer,3,4,False,False,False,False,False,False,False
+Burushaski,auto51,422,comb <-> copper_tablet_vs_all,0,5,False,False,False,False,False,False,False
+Burushaski,auto51,255,fish <-> mtab_all,2,11,False,False,False,False,False,False,False
+Burushaski,auto51,415,rake <-> mtab_all,1,11,False,False,False,False,False,False,False
+Burushaski,auto51,840,leaf <-> md_HR_elite,3,11,False,False,False,False,False,False,False
+Burushaski,auto51,520,arrow <-> copper_tablet_vs_all,1,5,False,False,False,False,False,False,False
+Burushaski,auto51,868,book <-> mtab_all,0,11,False,False,False,False,False,False,False
+Burushaski,auto51,838,leaf <-> ivory_bone_rod,3,7,False,False,False,False,False,False,False
+Burushaski,auto51,233,fish <-> copper_tablet_vs_all,2,5,False,False,False,False,False,False,False
+Burushaski,auto51,384,leaf <-> copper_tablet_vs_all,3,5,False,False,False,False,False,False,False
+Burushaski,auto51,790,leaf <-> har_mound_AB,3,3,False,False,False,False,False,False,False
+Burushaski,auto51,354,rake <-> har_mound_AB,1,3,False,False,False,False,False,False,False
+Burushaski,legacy12,705,measure/threshing/grain <-> ship/boat,13,0,False,False,False,False,False,False,False
+Burushaski,legacy12,820,wheel/cart <-> quarter/fourth/leg,0,3,False,False,False,False,False,False,False
+Burushaski,legacy12,220,fish <-> star/constellation/shine,2,3,False,False,False,False,False,False,False
+Burushaski,legacy12,740,water_jar/pot <-> house/family/lineage,2,11,False,False,False,False,False,False,False
+Burushaski,legacy12,520,spear/lance/dart <-> chief/ruler/prince,1,6,False,False,False,False,False,False,False
+Burushaski,legacy12,400,comb/rake <-> small/junior/subordinate,1,9,False,False,False,False,False,False,False
+Burushaski,legacy12,861,enclosure/field/court <-> share/portion/weight/property,4,6,False,False,True,False,True,False,True
+Burushaski,legacy12,320,step/stair/ladder <-> allowance/ration/capacity_measure,2,2,False,False,False,False,False,False,False
+Burushaski,legacy12,090,man/male/husband <-> servant/agent/governor/rule,19,2,False,False,False,False,False,False,False
+Burushaski,legacy12,154,carrying_pole/yoke <-> guard/protect/watch,12,2,False,False,False,False,False,False,False
+Burushaski,legacy12,850,eye/sight/pupil <-> copper/bronze/metal/blade,4,3,False,False,False,False,False,False,False
+Burushaski,legacy12,390,tree/branch/bough <-> cotton/thread/cloth/yarn,7,12,False,False,False,False,False,False,False
+Burushaski,key4b30,700,"cup, bowl, vessel, pot, jar, hollow → measure, capacity, grain, ration, allowance, portion",5,8,False,False,False,False,False,False,False
+Burushaski,key4b30,240,"whisker, fin, wing, feather, cheek, bristle → star, bright, shine, glitter, chief, lord, bead",2,3,False,False,False,False,False,False,False
+Burushaski,key4b30,861,"eye, seed, kernel, bud, lozenge, sight → weight, fraction, share, property, tribute, offering",6,6,False,False,False,False,False,False,False
+Burushaski,key4b30,060,"slant, slope, bend, bent, curve, crooked, lean → inside, inner, within, join, unite, quarter, belong",1,2,False,False,False,False,False,False,False
+Burushaski,key4b30,590,"box, chest, crate, basket, plait, braid → sack, pack, bale, bundle, granary, store, treasury",2,7,False,False,False,False,False,False,False
+Burushaski,key4b30,741,"jar, pot, waterpot, pitcher, vessel → house, ward, family, abode, lineage, tenant",2,10,False,False,False,False,False,False,False
+Burushaski,key4b30,615,"grid, net, lattice, mesh, frame, reed, square → field, land, arable, ridge, estate, plot, farm",7,5,False,False,False,False,False,False,False
+Burushaski,key4b30,817,"eye, seed, kernel, bud, lozenge, sight → box, chest, crate, cargo, freight, weight, share",6,4,False,False,False,False,False,False,False
+Burushaski,key4b30,233,"split, halve, divide, cut, slice, cleave, crack → star, bright, shine, dawn, light, luster, sun",5,6,False,False,False,False,False,False,False
+Burushaski,key4b30,415,"fork, branch, prong, rake, bifurcate, tine → seize, grasp, control, share, rent, chief, lord",2,4,False,False,False,False,False,False,False
+Burushaski,key4b30,920,"moon, crescent, lunar, arc → month, season, period, office, craft, bead",2,4,False,False,False,False,False,False,False
+Burushaski,key4b30,405,"tree, branch, bough, twig, shrub → thread, yarn, cord, string, weave, knit, spin",8,3,False,False,False,False,False,False,False
+Burushaski,key4b30,407,"tree, branch, bough, twig, horn, shrub → cloth, textile, garment, fabric, dye, weaver",10,9,False,False,False,False,False,False,False
+Burushaski,key4b30,806,"leaf, stalk, stem, sprout, shoot, twig → crop, millet, grain, harvest, yield, produce, barley",4,18,False,False,False,False,False,False,False
+Burushaski,key4b30,798,"leaf, petal, pincer, claw, tongs, crab → house, mansion, courtyard, lineage, merchant, heir",1,10,False,False,False,False,False,False,False
+Burushaski,key4b30,255,"animal, beast, fish, bird, fowl, fin → ration, allowance, grain, granary, chief, king, issue",9,13,False,False,False,False,False,False,False
+Burushaski,key4b30,803,"leaf, leaves, foliage, petal → house, abode, home, family, dwelling, lineage",3,11,False,False,False,False,False,False,False
+Burushaski,key4b30,156,"carry, burden, porter, shoulder, pole, yoke → bale, pack, sack, bundle, ration, measure, weight",9,7,False,False,False,False,False,False,False
+Burushaski,key4b30,840,"pair, twin, couple, double, leaf, leaves → equal, match, agree, join, unite, bangle, ring, audit",10,5,False,False,False,False,False,False,False
+Burushaski,key4b30,760,"sprout, shoot, bud, twig, tendril → child, young, son, offspring, descendant, heir",4,5,False,False,False,False,False,False,False
+Burushaski,key4b30,368,"flag, banner, pennant, streamer, creeper, wing → give, grant, allot, title, pedigree, grain, ration",1,10,False,False,False,False,False,False,False
+Burushaski,key4b30,690,"knot, tie, bind, fasten, clasp, link → bundle, packet, store, building, ration, grain, pledge",3,12,False,False,False,False,False,False,False
+Burushaski,key4b30,550,"mouth, jaw, pincer, beak, claw, tongs → gate, portal, door, entrance, citadel, fort, precinct",2,4,False,False,False,False,False,False,False
+Burushaski,key4b30,892,"bow, arrow, arc, archer → sell, sale, price, cost, value, trade, merchant",1,3,False,False,False,False,False,False,False
+Burushaski,key4b30,140,"woman, female, breast, mother, matron, girl → goddess, queen, ruler, chief, sacred, temple, citadel",11,1,False,False,False,False,False,False,False
+Burushaski,key4b30,151,"carry, burden, load, porter, pole, shoulder → guard, protect, watch, shelter, defence, preserve",8,2,False,False,False,False,False,False,False
+Burushaski,key4b30,142,"staff, stick, rod, sceptre, club → king, chief, ruler, lord, sovereign, officer",5,6,False,False,False,False,False,False,False
+Burushaski,key4b30,503,"hill, mountain, peak, ridge, mound → garland, necklace, string, bead, shell, dye, estate",7,2,False,False,False,False,False,False,False
+Burushaski,key4b30,231,"pierce, stab, plant, stick, line, stroke → star, bright, shine, country, district, estate, bull",12,4,False,False,False,False,False,False,False
+Burushaski,key4b30,706,"cup, bowl, vessel, pot, jar, hollow → measure, bushel, capacity, grain, ivory, elephant",5,6,False,False,False,False,False,False,False
+Burushaski,key5a13,240,"ray, beam, fin, barb, slant, incline → star, bright, shine, glow, brilliance, light",3,4,False,False,False,False,False,False,False
+Burushaski,key5a13,060,"slant, slope, bend, curve, crooked, lean → inside, within, belong, depend, join, interior",1,2,False,False,False,False,False,False,False
+Burushaski,key5a13,798,"crab, shell, pincer, claw, tongs → seize, grasp, hold, bind, house, guild",2,10,False,False,False,False,False,False,False
+Burushaski,key5a13,550,"waist, middle, centre, narrow, pinch, squeeze → country, district, province, precinct, citadel, locality",4,2,False,False,False,False,False,False,False
+Burushaski,key5a13,142,"staff, stick, rod, wand, club → measure, rule, limit, gauge, king, ruler",5,8,False,False,False,False,False,False,False
+Burushaski,key5a13,440,"corner, angle, nook, crook, elbow → pot, vessel, goblet, cup, jar, earthen",2,5,False,False,False,False,False,False,False
+Burushaski,key5a13,692,"cross, intersect, transverse, criss → assembly, council, guild, office, citadel, precinct",1,1,False,False,False,False,False,False,False
+Burushaski,key5a13,435,"hook, prong, fork, peg, spike, barbed → ally, companion, chief, support, servant, deputy",3,3,False,False,False,False,False,False,False
+Burushaski,key5a13,585,"tent, canopy, awning, umbrella, roof, gable → temple, palace, citadel, shrine, hall, workshop",2,0,False,False,False,False,False,False,False
+Burushaski,key5a13,595,"stripe, bar, box, square, wire, strip → furnace, forge, oven, kiln, copper, smelt",9,2,False,False,False,False,False,False,False
+Burushaski,key5a13,845,"line, streak, stripe, hatch, draw, furrow → tax, impost, duty, toll, levy, rent",2,0,False,False,False,False,False,False,False
+Burushaski,key5a13,527,"crossbar, bolt, latch, plank, panel, hinge → door, gate, portal, entrance, threshold, enclosure",1,2,False,False,False,False,False,False,False
+Burushaski,key5a13,416,"fork, branch, prong, tine, rake → seaport, harbor, port, ford, seize, grasp",2,1,False,False,False,False,False,False,False
+Burushaski,key6a24,142,"staff, stick, rod, wand, club → blacksmith, iron, copper, measure, rule, limit",5,6,False,False,False,False,False,False,False
+Burushaski,key6a24,692,"cross, intersect, diagonal, lattice → assembly, council, citadel, precinct, office, palace",1,1,False,False,False,False,False,False,False
+Burushaski,key6a24,585,"umbrella, parasol, canopy, tent, roof, gable → citadel, palace, temple, garrison, workshop, shrine",2,0,False,False,False,False,False,False,False
+Burushaski,key6a24,595,"stripe, line, streak, hatch, draw → tax, impost, duty, toll, levy, copper",2,1,False,False,False,False,False,False,False
+Burushaski,key6a24,527,"bolt, latch, crossbar, plank, hinge → gate, door, fort, precinct, border, guard",1,7,False,False,False,False,False,False,False
+Burushaski,key6a24,388,"banyan, pipal, fig, leaf, foliage → king, royal, tax, cloth, commodity",1,16,False,False,False,False,False,False,False
+Burushaski,key6a24,384,"banyan, pipal, fig, leaf, foliage → estate, allot, copper, clan, lineage",1,1,False,False,False,False,False,False,False
+Burushaski,key6a24,350,"stall, manger, fence, harrow, rake → village, plough, herd, cattle, pasture, farm",1,6,False,False,False,False,False,False,False
+Burushaski,key6a24,455,"wing, tail, feather, butterfly, plume → star, bright, seal, gold, trade",2,3,False,False,False,False,False,False,False
+Burushaski,key6a24,460,"shoot, sprout, thorn, shrub, spike → garland, wreath, necklace, offering, sacred",4,1,False,False,False,False,False,False,False
+Burushaski,key6a24,482,"mountain, hill, peak, sharpness, apex → emperor, king, lord, leadership, granary, deposit",6,5,False,False,False,False,False,False,False
+Burushaski,key6a24,070,"post, pillar, column, arm, statue → audit, account, witness, chief, judge",1,2,False,False,False,False,False,False,False
+Burushaski,key6a24,480,"point, sharp, wedge, cone, peak → vessel, measure, capacity, weight, copper, ingot",7,3,False,False,False,False,False,False,False
+Burushaski,key6a24,335,"trough, basin, frame, double, rack → vessel, basket, grain, ration, measure, granary",8,8,False,False,False,False,False,False,False
+Burushaski,key6a24,540,"drum, tabor, hourglass, bowtie → capacity, measure, pot, vessel, jar, container",1,4,False,False,False,False,False,False,False
+Burushaski,key6a24,645,"cross, intersect, scissors, diagonal → weight, gold, coin, balance, bronze, axe",1,3,False,False,False,False,False,False,False
+Burushaski,key6a24,621,"room, chamber, apartment, window, shutter → seal, title, chief, ruler, office, guard",3,4,False,False,False,False,False,False,False
+Burushaski,key6a24,630,"birdcage, coop, cage, pen, nest, hive → assemble, join, store, granary, depot, tool",0,1,False,False,False,False,False,False,False
+Burushaski,key6a24,877,"bloom, flower, blossom, petal, diamond → jewel, bead, gold, weight, share",3,4,False,False,False,False,False,False,False
+Burushaski,key6a24,171,"hang, suspend, swing, yoke, pendulum → weight, standard, balance, scale, stone, equal",5,11,False,False,False,False,False,False,False
+Burushaski,key6a24,297,"lustre, splendour, sun, ray, spark → weight, share, tax, quarter, gold, price",4,6,False,False,False,False,False,False,False
+Burushaski,key6a24,831,"blade, wing, feather, quill, plume → paddy, grain, merchant, trade, sell, ship",3,6,False,False,False,False,False,False,False
+Burushaski,key6a24,165,"bend, curve, hump, snail, spiral → cauldron, copper, vessel, pot, month",0,5,False,False,False,False,False,False,False
+Burushaski,key6a24,104,"leap, skip, jump, stride, dance → collect, levy, tax, commodity, allot, cloth",1,9,False,False,False,False,False,False,False
