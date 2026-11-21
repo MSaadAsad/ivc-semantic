@@ -1,0 +1,1464 @@
+{
+  "source_commit": "727dfd411a4faa44d193d204757540d45c7b139b",
+  "input_sha256": {
+    "work_data/lexicons/dedr/dedr_entries.tsv": "7084dcfd5ae1aef019325f6edf662e3c99c0669ff757980a55238b0a75652d51",
+    "work_data/key6a/master_lexicon_after_key6a.csv": "0dcf56b8f2d177d5a33ad38d76b3acab2d1f37d2e48b58ac7daccaddc4ca53bd",
+    "work_scripts/key2a_rebus_lock.py": "6d2eddc918bb92aa60931c54ea4ef632cc3b654d0771adf10f669bdf28928176",
+    "work_scripts/key4b_bootstrap_wave2.py": "8243707997f09873c5a0d6a9dd3ae95177a1b834bea285c9ccaaab404c45552f",
+    "work_scripts/key5a_big_six_strike.py": "383f74488bc3bafe56615f2e811435333aa362d1a26c797646dea55ef46f5586",
+    "work_scripts/key6a_wave4_strike.py": "57c9658f936c6b8b3b3260f0b1245bdd6d82d15bb9e159010942252cabf2b166",
+    "work_data/key5a/trackA_per_sign_bridges.csv": "723e338da9dee4fd09db43789834b045c6af6878ad105032fa12a0286d0db563",
+    "work_data/key6a/trackA_per_sign_bridges.csv": "d92d8d38924c5a9d2775ea26d8371904208fedc2af3d62273c76ccdad773e61e"
+  },
+  "languages": {
+    "Ta": "Tamil",
+    "Ma": "Malayalam",
+    "Ka": "Kannada",
+    "Te": "Telugu",
+    "Tu": "Tulu",
+    "Ko": "Kota",
+    "To": "Toda",
+    "Koḍ": "Kodagu",
+    "Kol": "Kolami",
+    "Nk": "Naikri",
+    "Pa": "Parji",
+    "Ga": "Gadaba",
+    "Go": "Gondi",
+    "Konḍa": "Konda",
+    "Pe": "Pengo",
+    "Manḍ": "Manda",
+    "Kui": "Kui",
+    "Kuwi": "Kuwi",
+    "Kur": "Kurukh",
+    "Malt": "Malto",
+    "Br": "Brahui"
+  },
+  "domains": [
+    {
+      "sign": "705",
+      "shape": "measure/threshing/grain <-> ship/boat",
+      "a": "\\b(measure|bushel|threshing|grain|barley)\\b",
+      "b": "\\b(ship|boat|canoe|raft|sailor|navigator)\\b",
+      "source": "work_scripts/key2a_rebus_lock.py",
+      "wave": 1
+    },
+    {
+      "sign": "820",
+      "shape": "wheel/cart <-> quarter/fourth/leg",
+      "a": "\\b(wheel|chariot|wagon|cart|spoke)\\b",
+      "b": "\\b(quarter|fourth|fraction|precinct|leg|foot)\\b",
+      "source": "work_scripts/key2a_rebus_lock.py",
+      "wave": 1
+    },
+    {
+      "sign": "220",
+      "shape": "fish <-> star/constellation/shine",
+      "a": "\\b(fish|fishes|carp)\\b",
+      "b": "\\b(star|stars|constellation|planet|asterism|shine|glitter|flash)\\b",
+      "source": "work_scripts/key2a_rebus_lock.py",
+      "wave": 1
+    },
+    {
+      "sign": "740",
+      "shape": "water_jar/pot <-> house/family/lineage",
+      "a": "\\b(jar|pot|waterpot|pitcher|jug|urn)\\b",
+      "b": "\\b(house|household|family|lineage|clan|dwelling|abode)\\b",
+      "source": "work_scripts/key2a_rebus_lock.py",
+      "wave": 1
+    },
+    {
+      "sign": "520",
+      "shape": "spear/lance/dart <-> chief/ruler/prince",
+      "a": "\\b(spear|lance|javelin|dart|pike|trident)\\b",
+      "b": "\\b(chief|chieftain|prince|king|ruler|lord|noble)\\b",
+      "source": "work_scripts/key2a_rebus_lock.py",
+      "wave": 1
+    },
+    {
+      "sign": "400",
+      "shape": "comb/rake <-> small/junior/subordinate",
+      "a": "\\b(comb|rake|harrow|carding)\\b",
+      "b": "\\b(small|little|young|junior|minor|servant)\\b",
+      "source": "work_scripts/key2a_rebus_lock.py",
+      "wave": 1
+    },
+    {
+      "sign": "861",
+      "shape": "diamond/eye/seed with top diamond",
+      "a": "\\b(?:eye|seed|kernel|bud|lozenge|sight)\\b",
+      "b": "\\b(?:weight|fraction|share|property|tribute|offering)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "320",
+      "shape": "step/stair/ladder <-> allowance/ration/capacity_measure",
+      "a": "\\b(step|stair|ladder|rung|threshold|sill)\\b",
+      "b": "\\b(allowance|ration|measure|capacity|wage|stipend|weight)\\b",
+      "source": "work_scripts/key2a_rebus_lock.py",
+      "wave": 1
+    },
+    {
+      "sign": "090",
+      "shape": "man/male/husband <-> servant/agent/governor/rule",
+      "a": "\\b(man|male|husband|warrior)\\b",
+      "b": "\\b(servant|slave|labourer|agent|manage|rule|governor|officer)\\b",
+      "source": "work_scripts/key2a_rebus_lock.py",
+      "wave": 1
+    },
+    {
+      "sign": "154",
+      "shape": "carrying_pole/yoke <-> guard/protect/watch",
+      "a": "\\b(yoke|carrying|pole|shoulder|burden|load|porter)\\b",
+      "b": "\\b(guard|protect|watch|keeper|warder|defend|preserve|shelter)\\b",
+      "source": "work_scripts/key2a_rebus_lock.py",
+      "wave": 1
+    },
+    {
+      "sign": "850",
+      "shape": "eye/sight/pupil <-> copper/bronze/metal/blade",
+      "a": "\\b(eye|eyes|sight|pupil|vision)\\b",
+      "b": "\\b(copper|bronze|metal|brass|ore|blade|axe|chisel)\\b",
+      "source": "work_scripts/key2a_rebus_lock.py",
+      "wave": 1
+    },
+    {
+      "sign": "390",
+      "shape": "tree/branch/bough <-> cotton/thread/cloth/yarn",
+      "a": "\\b(tree|shrub|bush|bough|branch|timber)\\b",
+      "b": "\\b(cotton|thread|yarn|cloth|fibre|fiber|linen|textile)\\b",
+      "source": "work_scripts/key2a_rebus_lock.py",
+      "wave": 1
+    },
+    {
+      "sign": "700",
+      "shape": "simple U cup",
+      "a": "\\b(?:cup|bowl|vessel|pot|jar|hollow)\\b",
+      "b": "\\b(?:measure|capacity|grain|ration|allowance|portion)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "240",
+      "shape": "fish with four diagonal rays/fins (M67)",
+      "a": "\\b(?:ray|beam|fin|barb|slant|incline)\\b",
+      "b": "\\b(?:star|bright|shine|glow|brilliance|light)\\b",
+      "source": "work_scripts/key5a_big_six_strike.py",
+      "wave": 3
+    },
+    {
+      "sign": "060",
+      "shape": "short stroke + long curving/slanting stroke beneath (M123)",
+      "a": "\\b(?:slant|slope|bend|curve|crooked|lean)\\b",
+      "b": "\\b(?:inside|within|belong|depend|join|interior)\\b",
+      "source": "work_scripts/key5a_big_six_strike.py",
+      "wave": 3
+    },
+    {
+      "sign": "590",
+      "shape": "square+bar chest/basket",
+      "a": "\\b(?:box|chest|crate|basket|plait|braid)\\b",
+      "b": "\\b(?:sack|pack|bale|bundle|granary|store|treasury)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "741",
+      "shape": "jar with 1 stroke inside mouth [graphic echo of 740]",
+      "a": "\\b(?:jar|pot|waterpot|pitcher|vessel)\\b",
+      "b": "\\b(?:house|ward|family|abode|lineage|tenant)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "615",
+      "shape": "grid of x by y cells",
+      "a": "\\b(?:grid|net|lattice|mesh|frame|reed|square)\\b",
+      "b": "\\b(?:field|land|arable|ridge|estate|plot|farm)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "817",
+      "shape": "double-diamond (leaf/diamond + top diamond) [catalog twin of 861]",
+      "a": "\\b(?:eye|seed|kernel|bud|lozenge|sight)\\b",
+      "b": "\\b(?:box|chest|crate|cargo|freight|weight|share)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "233",
+      "shape": "fish with horizontal bar/split",
+      "a": "\\b(?:split|halve|divide|cut|slice|cleave|crack)\\b",
+      "b": "\\b(?:star|bright|shine|dawn|light|luster|sun)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "415",
+      "shape": "four-tine pitchfork/branch",
+      "a": "\\b(?:fork|branch|prong|rake|bifurcate|tine)\\b",
+      "b": "\\b(?:seize|grasp|control|share|rent|chief|lord)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "920",
+      "shape": "crescent/right-paren with leaf [graphic echo of 900]",
+      "a": "\\b(?:moon|crescent|lunar|arc)\\b",
+      "b": "\\b(?:month|season|period|office|craft|bead)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "405",
+      "shape": "simple branching tree [thread/weave echoes 390]",
+      "a": "\\b(?:tree|branch|bough|twig|shrub)\\b",
+      "b": "\\b(?:thread|yarn|cord|string|weave|knit|spin)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "407",
+      "shape": "simple tree with branches (cloth-bolt copper-tab sign)",
+      "a": "\\b(?:tree|branch|bough|twig|horn|shrub)\\b",
+      "b": "\\b(?:cloth|textile|garment|fabric|dye|weaver)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "806",
+      "shape": "leaf with tree/stalk at bottom",
+      "a": "\\b(?:leaf|stalk|stem|sprout|shoot|twig)\\b",
+      "b": "\\b(?:crop|millet|grain|harvest|yield|produce|barley)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "798",
+      "shape": "oval shell/crab with open pincers on right (M53)",
+      "a": "\\b(?:crab|shell|pincer|claw|tongs)\\b",
+      "b": "\\b(?:seize|grasp|hold|bind|house|guild)\\b",
+      "source": "work_scripts/key5a_big_six_strike.py",
+      "wave": 3
+    },
+    {
+      "sign": "255",
+      "shape": "asymmetric fish/animal with fins and legs",
+      "a": "\\b(?:animal|beast|fish|bird|fowl|fin)\\b",
+      "b": "\\b(?:ration|allowance|grain|granary|chief|king|issue)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "803",
+      "shape": "leaf with tree at bottom (house crest)",
+      "a": "\\b(?:leaf|leaves|foliage|petal)\\b",
+      "b": "\\b(?:house|abode|home|family|dwelling|lineage)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "156",
+      "shape": "person carrying two burdens (jar-handle head)",
+      "a": "\\b(?:carry|burden|porter|shoulder|pole|yoke)\\b",
+      "b": "\\b(?:bale|pack|sack|bundle|ration|measure|weight)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "840",
+      "shape": "two overlapping vertical leaves",
+      "a": "\\b(?:pair|twin|couple|double|leaf|leaves)\\b",
+      "b": "\\b(?:equal|match|agree|join|unite|bangle|ring|audit)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "760",
+      "shape": "U with decorated branching/sprout at top",
+      "a": "\\b(?:sprout|shoot|bud|twig|tendril)\\b",
+      "b": "\\b(?:child|young|son|offspring|descendant|heir)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "368",
+      "shape": "vertical stroke with triangular wing/banner",
+      "a": "\\b(?:flag|banner|pennant|streamer|creeper|wing)\\b",
+      "b": "\\b(?:give|grant|allot|title|pedigree|grain|ration)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "690",
+      "shape": "two nested >> touching << (knot/tie/clasp)",
+      "a": "\\b(?:knot|tie|bind|fasten|clasp|link)\\b",
+      "b": "\\b(?:bundle|packet|store|building|ration|grain|pledge)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "550",
+      "shape": "pinched hourglass/waist with open jaws >< (M216)",
+      "a": "\\b(?:waist|middle|centre|narrow|pinch|squeeze)\\b",
+      "b": "\\b(?:country|district|province|precinct|citadel|locality)\\b",
+      "source": "work_scripts/key5a_big_six_strike.py",
+      "wave": 3
+    },
+    {
+      "sign": "892",
+      "shape": "bow and arrow",
+      "a": "\\b(?:bow|arrow|arc|archer)\\b",
+      "b": "\\b(?:sell|sale|price|cost|value|trade|merchant)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "140",
+      "shape": "person with round breasts and raised arm (woman)",
+      "a": "\\b(?:woman|female|breast|mother|matron|girl)\\b",
+      "b": "\\b(?:goddess|queen|ruler|chief|sacred|temple|citadel)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "151",
+      "shape": "person carrying two burdens [porter allograph of 154]",
+      "a": "\\b(?:carry|burden|load|porter|pole|shoulder)\\b",
+      "b": "\\b(?:guard|protect|watch|shelter|defence|preserve)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "142",
+      "shape": "person holding tall vertical rod/staff (M25)",
+      "a": "\\b(?:staff|stick|rod|wand|club)\\b",
+      "b": "\\b(?:blacksmith|iron|copper|measure|rule|limit)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "503",
+      "shape": "tall isosceles triangle with horizontal stripes (hill)",
+      "a": "\\b(?:hill|mountain|peak|ridge|mound)\\b",
+      "b": "\\b(?:garland|necklace|string|bead|shell|dye|estate)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "231",
+      "shape": "fish with small vertical stroke inside body",
+      "a": "\\b(?:pierce|stab|plant|stick|line|stroke)\\b",
+      "b": "\\b(?:star|bright|shine|country|district|estate|bull)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "706",
+      "shape": "U with long vertical stroke inside [measure echo of 700]",
+      "a": "\\b(?:cup|bowl|vessel|pot|jar|hollow)\\b",
+      "b": "\\b(?:measure|bushel|capacity|grain|ivory|elephant)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "440",
+      "shape": "sharp right-angle corner/nook bent downward (M127)",
+      "a": "\\b(?:corner|angle|nook|crook|elbow)\\b",
+      "b": "\\b(?:pot|vessel|goblet|cup|jar|earthen)\\b",
+      "source": "work_scripts/key5a_big_six_strike.py",
+      "wave": 3
+    },
+    {
+      "sign": "692",
+      "shape": "outlined diagonal cross X (M150)",
+      "a": "\\b(?:cross|intersect|diagonal|lattice)\\b",
+      "b": "\\b(?:assembly|council|citadel|precinct|office|palace)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "435",
+      "shape": "hooked vertical stave / goad (M130)",
+      "a": "\\b(?:hook|prong|fork|peg|spike|barbed)\\b",
+      "b": "\\b(?:ally|companion|chief|support|servant|deputy)\\b",
+      "source": "work_scripts/key5a_big_six_strike.py",
+      "wave": 3
+    },
+    {
+      "sign": "585",
+      "shape": "roofed pavilion/canopy/umbrella frame (M194)",
+      "a": "\\b(?:umbrella|parasol|canopy|tent|roof|gable)\\b",
+      "b": "\\b(?:citadel|palace|temple|garrison|workshop|shrine)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "595",
+      "shape": "horizontally striped box/chest (M252)",
+      "a": "\\b(?:stripe|line|streak|hatch|draw)\\b",
+      "b": "\\b(?:tax|impost|duty|toll|levy|copper)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "845",
+      "shape": "hatched/striped double-leaf pair (M376)",
+      "a": "\\b(?:line|streak|stripe|hatch|draw|furrow)\\b",
+      "b": "\\b(?:tax|impost|duty|toll|levy|rent)\\b",
+      "source": "work_scripts/key5a_big_six_strike.py",
+      "wave": 3
+    },
+    {
+      "sign": "527",
+      "shape": "pivoted horizontally barred door-leaf/shutter (M254)",
+      "a": "\\b(?:bolt|latch|crossbar|plank|hinge)\\b",
+      "b": "\\b(?:gate|door|fort|precinct|border|guard)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "416",
+      "shape": "double-stacked four-tine pitchfork/branch (M173)",
+      "a": "\\b(?:fork|branch|prong|tine|rake)\\b",
+      "b": "\\b(?:seaport|harbor|port|ford|seize|grasp)\\b",
+      "source": "work_scripts/key5a_big_six_strike.py",
+      "wave": 3
+    },
+    {
+      "sign": "388",
+      "shape": "horizontally hatched pipal/fig leaf (M327)",
+      "a": "\\b(?:banyan|pipal|fig|leaf|foliage)\\b",
+      "b": "\\b(?:king|royal|tax|cloth|commodity)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "384",
+      "shape": "plain pipal/fig heart-leaf (M326)",
+      "a": "\\b(?:banyan|pipal|fig|leaf|foliage)\\b",
+      "b": "\\b(?:estate|allot|copper|clan|lineage)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "350",
+      "shape": "horizontal bar with upright/downward fence-stakes (M175)",
+      "a": "\\b(?:stall|manger|fence|harrow|rake)\\b",
+      "b": "\\b(?:village|plough|herd|cattle|pasture|farm)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "455",
+      "shape": "three linked triangles / winged fan-tail (M233)",
+      "a": "\\b(?:wing|tail|feather|butterfly|plume)\\b",
+      "b": "\\b(?:star|bright|seal|gold|trade)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "460",
+      "shape": "three tall thin triangular shoots/spikes (M230)",
+      "a": "\\b(?:shoot|sprout|thorn|shrub|spike)\\b",
+      "b": "\\b(?:garland|wreath|necklace|offering|sacred)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "482",
+      "shape": "tall caret/mountain outline with diamond at apex (M135)",
+      "a": "\\b(?:mountain|hill|peak|sharpness|apex)\\b",
+      "b": "\\b(?:emperor|king|lord|leadership|granary|deposit)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "070",
+      "shape": "standing vertical post/pillar with two side arms (M155)",
+      "a": "\\b(?:post|pillar|column|arm|statue)\\b",
+      "b": "\\b(?:audit|account|witness|chief|judge)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "480",
+      "shape": "tall narrow caret / sharp point / wedge (M134)",
+      "a": "\\b(?:point|sharp|wedge|cone|peak)\\b",
+      "b": "\\b(?:vessel|measure|capacity|weight|copper|ingot)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "335",
+      "shape": "double-chamber M-bin / twin-frame trough (M192)",
+      "a": "\\b(?:trough|basin|frame|double|rack)\\b",
+      "b": "\\b(?:vessel|basket|grain|ration|measure|granary)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "540",
+      "shape": "bowtie / hourglass double-cone drum (M214)",
+      "a": "\\b(?:drum|tabor|hourglass|bowtie)\\b",
+      "b": "\\b(?:capacity|measure|pot|vessel|jar|container)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "645",
+      "shape": "plain unadorned X cross (M137)",
+      "a": "\\b(?:cross|intersect|scissors|diagonal)\\b",
+      "b": "\\b(?:weight|gold|coin|balance|bronze|axe)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "621",
+      "shape": "tall partitioned rectangle / room-door panel (M242)",
+      "a": "\\b(?:room|chamber|apartment|window|shutter)\\b",
+      "b": "\\b(?:seal|title|chief|ruler|office|guard)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "630",
+      "shape": "tall rectangle with top+bottom teeth / cage-coop (M244)",
+      "a": "\\b(?:birdcage|coop|cage|pen|nest|hive)\\b",
+      "b": "\\b(?:assemble|join|store|granary|depot|tool)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "877",
+      "shape": "diamond with four small vertex diamonds / blossom (M284)",
+      "a": "\\b(?:bloom|flower|blossom|petal|diamond)\\b",
+      "b": "\\b(?:jewel|bead|gold|weight|share)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "171",
+      "shape": "capital T with two hanging leaves / balance-beam (M409)",
+      "a": "\\b(?:hang|suspend|swing|yoke|pendulum)\\b",
+      "b": "\\b(?:weight|standard|balance|scale|stone|equal)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "297",
+      "shape": "prismed radiating light-rays / starburst fan (M180)",
+      "a": "\\b(?:lustre|splendour|sun|ray|spark)\\b",
+      "b": "\\b(?:weight|share|tax|quarter|gold|price)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "831",
+      "shape": "leaf with diagonal-stroke central rib / blade-feather (M379)",
+      "a": "\\b(?:blade|wing|feather|quill|plume)\\b",
+      "b": "\\b(?:paddy|grain|merchant|trade|sell|ship)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "165",
+      "shape": "curved arch/dome with inward spiral curl / snail (M319)",
+      "a": "\\b(?:bend|curve|hump|snail|spiral)\\b",
+      "b": "\\b(?:cauldron|copper|vessel|pot|month)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "104",
+      "shape": "person with half-height caret at right foot / striding man (M41)",
+      "a": "\\b(?:leap|skip|jump|stride|dance)\\b",
+      "b": "\\b(?:collect|levy|tax|commodity|allot|cloth)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    }
+  ],
+  "historical_specs": [
+    {
+      "sign": "705",
+      "shape": "measure/threshing/grain <-> ship/boat",
+      "a": "\\b(measure|bushel|threshing|grain|barley)\\b",
+      "b": "\\b(ship|boat|canoe|raft|sailor|navigator)\\b",
+      "source": "work_scripts/key2a_rebus_lock.py",
+      "wave": 1
+    },
+    {
+      "sign": "820",
+      "shape": "wheel/cart <-> quarter/fourth/leg",
+      "a": "\\b(wheel|chariot|wagon|cart|spoke)\\b",
+      "b": "\\b(quarter|fourth|fraction|precinct|leg|foot)\\b",
+      "source": "work_scripts/key2a_rebus_lock.py",
+      "wave": 1
+    },
+    {
+      "sign": "220",
+      "shape": "fish <-> star/constellation/shine",
+      "a": "\\b(fish|fishes|carp)\\b",
+      "b": "\\b(star|stars|constellation|planet|asterism|shine|glitter|flash)\\b",
+      "source": "work_scripts/key2a_rebus_lock.py",
+      "wave": 1
+    },
+    {
+      "sign": "740",
+      "shape": "water_jar/pot <-> house/family/lineage",
+      "a": "\\b(jar|pot|waterpot|pitcher|jug|urn)\\b",
+      "b": "\\b(house|household|family|lineage|clan|dwelling|abode)\\b",
+      "source": "work_scripts/key2a_rebus_lock.py",
+      "wave": 1
+    },
+    {
+      "sign": "520",
+      "shape": "spear/lance/dart <-> chief/ruler/prince",
+      "a": "\\b(spear|lance|javelin|dart|pike|trident)\\b",
+      "b": "\\b(chief|chieftain|prince|king|ruler|lord|noble)\\b",
+      "source": "work_scripts/key2a_rebus_lock.py",
+      "wave": 1
+    },
+    {
+      "sign": "400",
+      "shape": "comb/rake <-> small/junior/subordinate",
+      "a": "\\b(comb|rake|harrow|carding)\\b",
+      "b": "\\b(small|little|young|junior|minor|servant)\\b",
+      "source": "work_scripts/key2a_rebus_lock.py",
+      "wave": 1
+    },
+    {
+      "sign": "861",
+      "shape": "enclosure/field/court <-> share/portion/weight/property",
+      "a": "\\b(enclosure|courtyard|court|plot|land|field)\\b",
+      "b": "\\b(share|portion|allotment|property|fraction|weight)\\b",
+      "source": "work_scripts/key2a_rebus_lock.py",
+      "wave": 1
+    },
+    {
+      "sign": "320",
+      "shape": "step/stair/ladder <-> allowance/ration/capacity_measure",
+      "a": "\\b(step|stair|ladder|rung|threshold|sill)\\b",
+      "b": "\\b(allowance|ration|measure|capacity|wage|stipend|weight)\\b",
+      "source": "work_scripts/key2a_rebus_lock.py",
+      "wave": 1
+    },
+    {
+      "sign": "090",
+      "shape": "man/male/husband <-> servant/agent/governor/rule",
+      "a": "\\b(man|male|husband|warrior)\\b",
+      "b": "\\b(servant|slave|labourer|agent|manage|rule|governor|officer)\\b",
+      "source": "work_scripts/key2a_rebus_lock.py",
+      "wave": 1
+    },
+    {
+      "sign": "154",
+      "shape": "carrying_pole/yoke <-> guard/protect/watch",
+      "a": "\\b(yoke|carrying|pole|shoulder|burden|load|porter)\\b",
+      "b": "\\b(guard|protect|watch|keeper|warder|defend|preserve|shelter)\\b",
+      "source": "work_scripts/key2a_rebus_lock.py",
+      "wave": 1
+    },
+    {
+      "sign": "850",
+      "shape": "eye/sight/pupil <-> copper/bronze/metal/blade",
+      "a": "\\b(eye|eyes|sight|pupil|vision)\\b",
+      "b": "\\b(copper|bronze|metal|brass|ore|blade|axe|chisel)\\b",
+      "source": "work_scripts/key2a_rebus_lock.py",
+      "wave": 1
+    },
+    {
+      "sign": "390",
+      "shape": "tree/branch/bough <-> cotton/thread/cloth/yarn",
+      "a": "\\b(tree|shrub|bush|bough|branch|timber)\\b",
+      "b": "\\b(cotton|thread|yarn|cloth|fibre|fiber|linen|textile)\\b",
+      "source": "work_scripts/key2a_rebus_lock.py",
+      "wave": 1
+    },
+    {
+      "sign": "700",
+      "shape": "simple U cup",
+      "a": "\\b(?:cup|bowl|vessel|pot|jar|hollow)\\b",
+      "b": "\\b(?:measure|capacity|grain|ration|allowance|portion)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "240",
+      "shape": "fish with cheek whiskers/fins",
+      "a": "\\b(?:whisker|fin|wing|feather|cheek|bristle)\\b",
+      "b": "\\b(?:star|bright|shine|glitter|chief|lord|bead)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "861",
+      "shape": "diamond/eye/seed with top diamond",
+      "a": "\\b(?:eye|seed|kernel|bud|lozenge|sight)\\b",
+      "b": "\\b(?:weight|fraction|share|property|tribute|offering)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "060",
+      "shape": "two strokes, second slanting/bent under first",
+      "a": "\\b(?:slant|slope|bend|bent|curve|crooked|lean)\\b",
+      "b": "\\b(?:inside|inner|within|join|unite|quarter|belong)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "590",
+      "shape": "square+bar chest/basket",
+      "a": "\\b(?:box|chest|crate|basket|plait|braid)\\b",
+      "b": "\\b(?:sack|pack|bale|bundle|granary|store|treasury)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "741",
+      "shape": "jar with 1 stroke inside mouth [graphic echo of 740]",
+      "a": "\\b(?:jar|pot|waterpot|pitcher|vessel)\\b",
+      "b": "\\b(?:house|ward|family|abode|lineage|tenant)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "615",
+      "shape": "grid of x by y cells",
+      "a": "\\b(?:grid|net|lattice|mesh|frame|reed|square)\\b",
+      "b": "\\b(?:field|land|arable|ridge|estate|plot|farm)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "817",
+      "shape": "double-diamond (leaf/diamond + top diamond) [catalog twin of 861]",
+      "a": "\\b(?:eye|seed|kernel|bud|lozenge|sight)\\b",
+      "b": "\\b(?:box|chest|crate|cargo|freight|weight|share)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "233",
+      "shape": "fish with horizontal bar/split",
+      "a": "\\b(?:split|halve|divide|cut|slice|cleave|crack)\\b",
+      "b": "\\b(?:star|bright|shine|dawn|light|luster|sun)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "415",
+      "shape": "four-tine pitchfork/branch",
+      "a": "\\b(?:fork|branch|prong|rake|bifurcate|tine)\\b",
+      "b": "\\b(?:seize|grasp|control|share|rent|chief|lord)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "920",
+      "shape": "crescent/right-paren with leaf [graphic echo of 900]",
+      "a": "\\b(?:moon|crescent|lunar|arc)\\b",
+      "b": "\\b(?:month|season|period|office|craft|bead)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "405",
+      "shape": "simple branching tree [thread/weave echoes 390]",
+      "a": "\\b(?:tree|branch|bough|twig|shrub)\\b",
+      "b": "\\b(?:thread|yarn|cord|string|weave|knit|spin)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "407",
+      "shape": "simple tree with branches (cloth-bolt copper-tab sign)",
+      "a": "\\b(?:tree|branch|bough|twig|horn|shrub)\\b",
+      "b": "\\b(?:cloth|textile|garment|fabric|dye|weaver)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "806",
+      "shape": "leaf with tree/stalk at bottom",
+      "a": "\\b(?:leaf|stalk|stem|sprout|shoot|twig)\\b",
+      "b": "\\b(?:crop|millet|grain|harvest|yield|produce|barley)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "798",
+      "shape": "leaf with pincers/claws",
+      "a": "\\b(?:leaf|petal|pincer|claw|tongs|crab)\\b",
+      "b": "\\b(?:house|mansion|courtyard|lineage|merchant|heir)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "255",
+      "shape": "asymmetric fish/animal with fins and legs",
+      "a": "\\b(?:animal|beast|fish|bird|fowl|fin)\\b",
+      "b": "\\b(?:ration|allowance|grain|granary|chief|king|issue)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "803",
+      "shape": "leaf with tree at bottom (house crest)",
+      "a": "\\b(?:leaf|leaves|foliage|petal)\\b",
+      "b": "\\b(?:house|abode|home|family|dwelling|lineage)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "156",
+      "shape": "person carrying two burdens (jar-handle head)",
+      "a": "\\b(?:carry|burden|porter|shoulder|pole|yoke)\\b",
+      "b": "\\b(?:bale|pack|sack|bundle|ration|measure|weight)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "840",
+      "shape": "two overlapping vertical leaves",
+      "a": "\\b(?:pair|twin|couple|double|leaf|leaves)\\b",
+      "b": "\\b(?:equal|match|agree|join|unite|bangle|ring|audit)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "760",
+      "shape": "U with decorated branching/sprout at top",
+      "a": "\\b(?:sprout|shoot|bud|twig|tendril)\\b",
+      "b": "\\b(?:child|young|son|offspring|descendant|heir)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "368",
+      "shape": "vertical stroke with triangular wing/banner",
+      "a": "\\b(?:flag|banner|pennant|streamer|creeper|wing)\\b",
+      "b": "\\b(?:give|grant|allot|title|pedigree|grain|ration)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "690",
+      "shape": "two nested >> touching << (knot/tie/clasp)",
+      "a": "\\b(?:knot|tie|bind|fasten|clasp|link)\\b",
+      "b": "\\b(?:bundle|packet|store|building|ration|grain|pledge)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "550",
+      "shape": "opposed triangles with opening (pincer/mouth)",
+      "a": "\\b(?:mouth|jaw|pincer|beak|claw|tongs)\\b",
+      "b": "\\b(?:gate|portal|door|entrance|citadel|fort|precinct)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "892",
+      "shape": "bow and arrow",
+      "a": "\\b(?:bow|arrow|arc|archer)\\b",
+      "b": "\\b(?:sell|sale|price|cost|value|trade|merchant)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "140",
+      "shape": "person with round breasts and raised arm (woman)",
+      "a": "\\b(?:woman|female|breast|mother|matron|girl)\\b",
+      "b": "\\b(?:goddess|queen|ruler|chief|sacred|temple|citadel)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "151",
+      "shape": "person carrying two burdens [porter allograph of 154]",
+      "a": "\\b(?:carry|burden|load|porter|pole|shoulder)\\b",
+      "b": "\\b(?:guard|protect|watch|shelter|defence|preserve)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "142",
+      "shape": "person with staff",
+      "a": "\\b(?:staff|stick|rod|sceptre|club)\\b",
+      "b": "\\b(?:king|chief|ruler|lord|sovereign|officer)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "503",
+      "shape": "tall isosceles triangle with horizontal stripes (hill)",
+      "a": "\\b(?:hill|mountain|peak|ridge|mound)\\b",
+      "b": "\\b(?:garland|necklace|string|bead|shell|dye|estate)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "231",
+      "shape": "fish with small vertical stroke inside body",
+      "a": "\\b(?:pierce|stab|plant|stick|line|stroke)\\b",
+      "b": "\\b(?:star|bright|shine|country|district|estate|bull)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "706",
+      "shape": "U with long vertical stroke inside [measure echo of 700]",
+      "a": "\\b(?:cup|bowl|vessel|pot|jar|hollow)\\b",
+      "b": "\\b(?:measure|bushel|capacity|grain|ivory|elephant)\\b",
+      "source": "work_scripts/key4b_bootstrap_wave2.py",
+      "wave": 2
+    },
+    {
+      "sign": "240",
+      "shape": "fish with four diagonal rays/fins (M67)",
+      "a": "\\b(?:ray|beam|fin|barb|slant|incline)\\b",
+      "b": "\\b(?:star|bright|shine|glow|brilliance|light)\\b",
+      "source": "work_scripts/key5a_big_six_strike.py",
+      "wave": 3
+    },
+    {
+      "sign": "060",
+      "shape": "short stroke + long curving/slanting stroke beneath (M123)",
+      "a": "\\b(?:slant|slope|bend|curve|crooked|lean)\\b",
+      "b": "\\b(?:inside|within|belong|depend|join|interior)\\b",
+      "source": "work_scripts/key5a_big_six_strike.py",
+      "wave": 3
+    },
+    {
+      "sign": "798",
+      "shape": "oval shell/crab with open pincers on right (M53)",
+      "a": "\\b(?:crab|shell|pincer|claw|tongs)\\b",
+      "b": "\\b(?:seize|grasp|hold|bind|house|guild)\\b",
+      "source": "work_scripts/key5a_big_six_strike.py",
+      "wave": 3
+    },
+    {
+      "sign": "550",
+      "shape": "pinched hourglass/waist with open jaws >< (M216)",
+      "a": "\\b(?:waist|middle|centre|narrow|pinch|squeeze)\\b",
+      "b": "\\b(?:country|district|province|precinct|citadel|locality)\\b",
+      "source": "work_scripts/key5a_big_six_strike.py",
+      "wave": 3
+    },
+    {
+      "sign": "142",
+      "shape": "person holding tall vertical rod/staff (M25)",
+      "a": "\\b(?:staff|stick|rod|wand|club)\\b",
+      "b": "\\b(?:measure|rule|limit|gauge|king|ruler)\\b",
+      "source": "work_scripts/key5a_big_six_strike.py",
+      "wave": 3
+    },
+    {
+      "sign": "440",
+      "shape": "sharp right-angle corner/nook bent downward (M127)",
+      "a": "\\b(?:corner|angle|nook|crook|elbow)\\b",
+      "b": "\\b(?:pot|vessel|goblet|cup|jar|earthen)\\b",
+      "source": "work_scripts/key5a_big_six_strike.py",
+      "wave": 3
+    },
+    {
+      "sign": "692",
+      "shape": "outlined diagonal cross X (M150)",
+      "a": "\\b(?:cross|intersect|transverse|criss)\\b",
+      "b": "\\b(?:assembly|council|guild|office|citadel|precinct)\\b",
+      "source": "work_scripts/key5a_big_six_strike.py",
+      "wave": 3
+    },
+    {
+      "sign": "435",
+      "shape": "hooked vertical stave / goad (M130)",
+      "a": "\\b(?:hook|prong|fork|peg|spike|barbed)\\b",
+      "b": "\\b(?:ally|companion|chief|support|servant|deputy)\\b",
+      "source": "work_scripts/key5a_big_six_strike.py",
+      "wave": 3
+    },
+    {
+      "sign": "585",
+      "shape": "roofed tent/pavilion/canopy frame (M194)",
+      "a": "\\b(?:tent|canopy|awning|umbrella|roof|gable)\\b",
+      "b": "\\b(?:temple|palace|citadel|shrine|hall|workshop)\\b",
+      "source": "work_scripts/key5a_big_six_strike.py",
+      "wave": 3
+    },
+    {
+      "sign": "595",
+      "shape": "horizontally striped rectangular box (M252)",
+      "a": "\\b(?:stripe|bar|box|square|wire|strip)\\b",
+      "b": "\\b(?:furnace|forge|oven|kiln|copper|smelt)\\b",
+      "source": "work_scripts/key5a_big_six_strike.py",
+      "wave": 3
+    },
+    {
+      "sign": "845",
+      "shape": "hatched/striped double-leaf pair (M376)",
+      "a": "\\b(?:line|streak|stripe|hatch|draw|furrow)\\b",
+      "b": "\\b(?:tax|impost|duty|toll|levy|rent)\\b",
+      "source": "work_scripts/key5a_big_six_strike.py",
+      "wave": 3
+    },
+    {
+      "sign": "527",
+      "shape": "pivoted horizontally barred door-leaf/panel (M254)",
+      "a": "\\b(?:crossbar|bolt|latch|plank|panel|hinge)\\b",
+      "b": "\\b(?:door|gate|portal|entrance|threshold|enclosure)\\b",
+      "source": "work_scripts/key5a_big_six_strike.py",
+      "wave": 3
+    },
+    {
+      "sign": "416",
+      "shape": "double-stacked four-tine pitchfork/branch (M173)",
+      "a": "\\b(?:fork|branch|prong|tine|rake)\\b",
+      "b": "\\b(?:seaport|harbor|port|ford|seize|grasp)\\b",
+      "source": "work_scripts/key5a_big_six_strike.py",
+      "wave": 3
+    },
+    {
+      "sign": "142",
+      "shape": "person holding tall vertical rod/staff (M25)",
+      "a": "\\b(?:staff|stick|rod|wand|club)\\b",
+      "b": "\\b(?:blacksmith|iron|copper|measure|rule|limit)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "692",
+      "shape": "outlined diagonal cross X (M150)",
+      "a": "\\b(?:cross|intersect|diagonal|lattice)\\b",
+      "b": "\\b(?:assembly|council|citadel|precinct|office|palace)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "585",
+      "shape": "roofed pavilion/canopy/umbrella frame (M194)",
+      "a": "\\b(?:umbrella|parasol|canopy|tent|roof|gable)\\b",
+      "b": "\\b(?:citadel|palace|temple|garrison|workshop|shrine)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "595",
+      "shape": "horizontally striped box/chest (M252)",
+      "a": "\\b(?:stripe|line|streak|hatch|draw)\\b",
+      "b": "\\b(?:tax|impost|duty|toll|levy|copper)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "527",
+      "shape": "pivoted horizontally barred door-leaf/shutter (M254)",
+      "a": "\\b(?:bolt|latch|crossbar|plank|hinge)\\b",
+      "b": "\\b(?:gate|door|fort|precinct|border|guard)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "388",
+      "shape": "horizontally hatched pipal/fig leaf (M327)",
+      "a": "\\b(?:banyan|pipal|fig|leaf|foliage)\\b",
+      "b": "\\b(?:king|royal|tax|cloth|commodity)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "384",
+      "shape": "plain pipal/fig heart-leaf (M326)",
+      "a": "\\b(?:banyan|pipal|fig|leaf|foliage)\\b",
+      "b": "\\b(?:estate|allot|copper|clan|lineage)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "350",
+      "shape": "horizontal bar with upright/downward fence-stakes (M175)",
+      "a": "\\b(?:stall|manger|fence|harrow|rake)\\b",
+      "b": "\\b(?:village|plough|herd|cattle|pasture|farm)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "455",
+      "shape": "three linked triangles / winged fan-tail (M233)",
+      "a": "\\b(?:wing|tail|feather|butterfly|plume)\\b",
+      "b": "\\b(?:star|bright|seal|gold|trade)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "460",
+      "shape": "three tall thin triangular shoots/spikes (M230)",
+      "a": "\\b(?:shoot|sprout|thorn|shrub|spike)\\b",
+      "b": "\\b(?:garland|wreath|necklace|offering|sacred)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "482",
+      "shape": "tall caret/mountain outline with diamond at apex (M135)",
+      "a": "\\b(?:mountain|hill|peak|sharpness|apex)\\b",
+      "b": "\\b(?:emperor|king|lord|leadership|granary|deposit)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "070",
+      "shape": "standing vertical post/pillar with two side arms (M155)",
+      "a": "\\b(?:post|pillar|column|arm|statue)\\b",
+      "b": "\\b(?:audit|account|witness|chief|judge)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "480",
+      "shape": "tall narrow caret / sharp point / wedge (M134)",
+      "a": "\\b(?:point|sharp|wedge|cone|peak)\\b",
+      "b": "\\b(?:vessel|measure|capacity|weight|copper|ingot)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "335",
+      "shape": "double-chamber M-bin / twin-frame trough (M192)",
+      "a": "\\b(?:trough|basin|frame|double|rack)\\b",
+      "b": "\\b(?:vessel|basket|grain|ration|measure|granary)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "540",
+      "shape": "bowtie / hourglass double-cone drum (M214)",
+      "a": "\\b(?:drum|tabor|hourglass|bowtie)\\b",
+      "b": "\\b(?:capacity|measure|pot|vessel|jar|container)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "645",
+      "shape": "plain unadorned X cross (M137)",
+      "a": "\\b(?:cross|intersect|scissors|diagonal)\\b",
+      "b": "\\b(?:weight|gold|coin|balance|bronze|axe)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "621",
+      "shape": "tall partitioned rectangle / room-door panel (M242)",
+      "a": "\\b(?:room|chamber|apartment|window|shutter)\\b",
+      "b": "\\b(?:seal|title|chief|ruler|office|guard)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "630",
+      "shape": "tall rectangle with top+bottom teeth / cage-coop (M244)",
+      "a": "\\b(?:birdcage|coop|cage|pen|nest|hive)\\b",
+      "b": "\\b(?:assemble|join|store|granary|depot|tool)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "877",
+      "shape": "diamond with four small vertex diamonds / blossom (M284)",
+      "a": "\\b(?:bloom|flower|blossom|petal|diamond)\\b",
+      "b": "\\b(?:jewel|bead|gold|weight|share)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "171",
+      "shape": "capital T with two hanging leaves / balance-beam (M409)",
+      "a": "\\b(?:hang|suspend|swing|yoke|pendulum)\\b",
+      "b": "\\b(?:weight|standard|balance|scale|stone|equal)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "297",
+      "shape": "prismed radiating light-rays / starburst fan (M180)",
+      "a": "\\b(?:lustre|splendour|sun|ray|spark)\\b",
+      "b": "\\b(?:weight|share|tax|quarter|gold|price)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "831",
+      "shape": "leaf with diagonal-stroke central rib / blade-feather (M379)",
+      "a": "\\b(?:blade|wing|feather|quill|plume)\\b",
+      "b": "\\b(?:paddy|grain|merchant|trade|sell|ship)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "165",
+      "shape": "curved arch/dome with inward spiral curl / snail (M319)",
+      "a": "\\b(?:bend|curve|hump|snail|spiral)\\b",
+      "b": "\\b(?:cauldron|copper|vessel|pot|month)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    },
+    {
+      "sign": "104",
+      "shape": "person with half-height caret at right foot / striding man (M41)",
+      "a": "\\b(?:leap|skip|jump|stride|dance)\\b",
+      "b": "\\b(?:collect|levy|tax|commodity|allot|cloth)\\b",
+      "source": "work_scripts/key6a_wave4_strike.py",
+      "wave": 4
+    }
+  ],
+  "fixed_claimed_pairs": [
+    {
+      "sign": "240",
+      "a_eid": "2456",
+      "b_eid": "2457",
+      "source": "work_data/key5a/trackA_per_sign_bridges.csv",
+      "source_claim": "DEDR 2456 cāy <-> 2457 cāy"
+    },
+    {
+      "sign": "798",
+      "a_eid": "3544",
+      "b_eid": "3480",
+      "source": "work_data/key5a/trackA_per_sign_bridges.csv",
+      "source_claim": "DEDR 3544 tōṭu <-> 3480 toṭu"
+    },
+    {
+      "sign": "798",
+      "a_eid": "3544",
+      "b_eid": "3536",
+      "source": "work_data/key5a/trackA_per_sign_bridges.csv",
+      "source_claim": "DEDR 3544 tōṭu <-> 3536 toṭu"
+    },
+    {
+      "sign": "798",
+      "a_eid": "1651",
+      "b_eid": "1655",
+      "source": "work_data/key5a/trackA_per_sign_bridges.csv",
+      "source_claim": "DEDR 1651 kuṭam <-> 1655 kuṭi"
+    },
+    {
+      "sign": "550",
+      "a_eid": "3584",
+      "b_eid": "3638",
+      "source": "work_data/key5a/trackA_per_sign_bridges.csv",
+      "source_claim": "DEDR 3584 naṭu <-> 3638 nāṭu"
+    },
+    {
+      "sign": "440",
+      "a_eid": "4898",
+      "b_eid": "4899",
+      "source": "work_data/key5a/trackA_per_sign_bridges.csv",
+      "source_claim": "DEDR 4898 mukku <-> 4899 mukku"
+    },
+    {
+      "sign": "435",
+      "a_eid": "3547",
+      "b_eid": "3546",
+      "source": "work_data/key5a/trackA_per_sign_bridges.csv",
+      "source_claim": "DEDR 3547 tōṭṭi <-> 3546 tōṭṭi"
+    },
+    {
+      "sign": "585",
+      "a_eid": "1663",
+      "b_eid": "1655",
+      "source": "work_data/key6a/trackA_per_sign_bridges.csv",
+      "source_claim": "DEDR 1663 kuṭai <-> 1655 kuṭi"
+    },
+    {
+      "sign": "845",
+      "a_eid": "5263",
+      "b_eid": "5266",
+      "source": "work_data/key5a/trackA_per_sign_bridges.csv",
+      "source_claim": "DEDR 5263 vari <-> 5266 vari"
+    },
+    {
+      "sign": "845",
+      "a_eid": "5263",
+      "b_eid": "5359",
+      "source": "work_data/key5a/trackA_per_sign_bridges.csv",
+      "source_claim": "DEDR 5263 vari <-> 5359 vāram"
+    },
+    {
+      "sign": "416",
+      "a_eid": "1325",
+      "b_eid": "1326",
+      "source": "work_data/key5a/trackA_per_sign_bridges.csv",
+      "source_claim": "DEDR 1325 kavar <-> 1326 kavar"
+    },
+    {
+      "sign": "416",
+      "a_eid": "4663",
+      "b_eid": "4802",
+      "source": "work_data/key5a/trackA_per_sign_bridges.csv",
+      "source_claim": "DEDR 4663 maṭṭai <-> 4802 māṭṭu"
+    },
+    {
+      "sign": "142",
+      "a_eid": "2237",
+      "b_eid": "2133",
+      "source": "work_data/key6a/trackA_per_sign_bridges.csv",
+      "source_claim": "DEDR 2237 kōl <-> 2133 kol"
+    },
+    {
+      "sign": "142",
+      "a_eid": "1454",
+      "b_eid": "1241",
+      "source": "work_data/key6a/trackA_per_sign_bridges.csv",
+      "source_claim": "DEDR 1454 kāmpu <-> 1241 kampi"
+    },
+    {
+      "sign": "595",
+      "a_eid": "5263",
+      "b_eid": "5266",
+      "source": "work_data/key6a/trackA_per_sign_bridges.csv",
+      "source_claim": "DEDR 5263 vari <-> 5266 vari"
+    },
+    {
+      "sign": "384",
+      "a_eid": "1884",
+      "b_eid": "1655",
+      "source": "work_data/key6a/trackA_per_sign_bridges.csv",
+      "source_claim": "DEDR 1884 kūṭai <-> 1655 kuṭi"
+    },
+    {
+      "sign": "350",
+      "a_eid": "3485",
+      "b_eid": "3546",
+      "source": "work_data/key6a/trackA_per_sign_bridges.csv",
+      "source_claim": "DEDR 3485 toṭṭi <-> 3546 tōṭṭi"
+    },
+    {
+      "sign": "460",
+      "a_eid": "1353",
+      "b_eid": "1184",
+      "source": "work_data/key6a/trackA_per_sign_bridges.csv",
+      "source_claim": "DEDR 1353 kaṇṇi <-> 1184 kaṇṇi"
+    },
+    {
+      "sign": "482",
+      "a_eid": "2178",
+      "b_eid": "2177",
+      "source": "work_data/key6a/trackA_per_sign_bridges.csv",
+      "source_claim": "DEDR 2178 kō <-> 2177 kō"
+    },
+    {
+      "sign": "482",
+      "a_eid": "5552",
+      "b_eid": "5549",
+      "source": "work_data/key6a/trackA_per_sign_bridges.csv",
+      "source_claim": "DEDR 5552 vai <-> 5549 vai"
+    },
+    {
+      "sign": "480",
+      "a_eid": "3314",
+      "b_eid": "3385",
+      "source": "work_data/key6a/trackA_per_sign_bridges.csv",
+      "source_claim": "DEDR 3314 tuti <-> 3385 tūtai"
+    },
+    {
+      "sign": "480",
+      "a_eid": "5218",
+      "b_eid": "5342",
+      "source": "work_data/key6a/trackA_per_sign_bridges.csv",
+      "source_claim": "DEDR 5218 vaṭa <-> 5342 vāṭu"
+    },
+    {
+      "sign": "335",
+      "a_eid": "2304",
+      "b_eid": "2306",
+      "source": "work_data/key6a/trackA_per_sign_bridges.csv",
+      "source_claim": "DEDR 2304 caṭṭam <-> 2306 caṭṭi"
+    },
+    {
+      "sign": "621",
+      "a_eid": "5498",
+      "b_eid": "5545",
+      "source": "work_data/key6a/trackA_per_sign_bridges.csv",
+      "source_claim": "DEDR 5498 veḷi <-> 5545 vēḷ"
+    },
+    {
+      "sign": "630",
+      "a_eid": "1883",
+      "b_eid": "1882",
+      "source": "work_data/key6a/trackA_per_sign_bridges.csv",
+      "source_claim": "DEDR 1883 kūṭu <-> 1882 kūṭu"
+    },
+    {
+      "sign": "877",
+      "a_eid": "1454",
+      "b_eid": "1241",
+      "source": "work_data/key6a/trackA_per_sign_bridges.csv",
+      "source_claim": "DEDR 1454 kāmpu <-> 1241 kampi"
+    },
+    {
+      "sign": "877",
+      "a_eid": "3035",
+      "b_eid": "3039",
+      "source": "work_data/key6a/trackA_per_sign_bridges.csv",
+      "source_claim": "DEDR 3035 taṭṭam <-> 3039 taṭṭu"
+    },
+    {
+      "sign": "877",
+      "a_eid": "4100",
+      "b_eid": "4097",
+      "source": "work_data/key6a/trackA_per_sign_bridges.csv",
+      "source_claim": "DEDR 4100 pālai <-> 4097 pāl"
+    },
+    {
+      "sign": "171",
+      "a_eid": "1370",
+      "b_eid": "1493",
+      "source": "work_data/key6a/trackA_per_sign_bridges.csv",
+      "source_claim": "DEDR 1370 kar̤ai <-> 1493 kār̤"
+    },
+    {
+      "sign": "171",
+      "a_eid": "5450",
+      "b_eid": "5449",
+      "source": "work_data/key6a/trackA_per_sign_bridges.csv",
+      "source_claim": "DEDR 5450 vīcu <-> 5449 vīcam"
+    },
+    {
+      "sign": "297",
+      "a_eid": "3852",
+      "b_eid": "3849",
+      "source": "work_data/key6a/trackA_per_sign_bridges.csv",
+      "source_claim": "DEDR 3852 paṭu <-> 3849 paṭi"
+    },
+    {
+      "sign": "831",
+      "a_eid": "237",
+      "b_eid": "255",
+      "source": "work_data/key6a/trackA_per_sign_bridges.csv",
+      "source_claim": "DEDR 237 alaku <-> 255 alaku"
+    },
+    {
+      "sign": "831",
+      "a_eid": "4663",
+      "b_eid": "4661",
+      "source": "work_data/key6a/trackA_per_sign_bridges.csv",
+      "source_claim": "DEDR 4663 maṭṭai <-> 4661 maṭṭam"
+    },
+    {
+      "sign": "165",
+      "a_eid": "1927",
+      "b_eid": "1928",
+      "source": "work_data/key6a/trackA_per_sign_bridges.csv",
+      "source_claim": "DEDR 1927 kūṉ <-> 1928 kūṉ"
+    },
+    {
+      "sign": "104",
+      "a_eid": "3158",
+      "b_eid": "3054",
+      "source": "work_data/key6a/trackA_per_sign_bridges.csv",
+      "source_claim": "DEDR 3158 tāṇṭu <-> 3054 taṇṭu"
+    }
+  ],
+  "design": "Latest specification per sign, including failures and retested signs; English domains copied without amendments. Retrospective and selected within Dravidian."
+}

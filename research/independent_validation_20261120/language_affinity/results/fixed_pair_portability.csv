@@ -1,0 +1,1471 @@
+sign,a_eid,b_eid,code,language,fold_length,opportunity,a_form,b_form,a_gloss,b_gloss,normalized_edit_distance,exact
+240,2456,2457,Ta,Tamil,False,True,cāy,cāy,"to incline, hang down, decline as a heavenly body, bend, turn down as the ear, recline, lie down, give way, break, flee, be partial, biased, deviate, lean","brilliance, light, beauty, colour, fame, reputation",0.0,True
+240,2456,2457,Ta,Tamil,True,True,cāy,cāy,"to incline, hang down, decline as a heavenly body, bend, turn down as the ear, recline, lie down, give way, break, flee, be partial, biased, deviate, lean","brilliance, light, beauty, colour, fame, reputation",0.0,True
+240,2456,2457,Ma,Malayalam,False,True,cāyal,cāyal,"bending sideways as a falling tree, side, inclination","shape, figure, resemblance, beauty, colour.",0.0,True
+240,2456,2457,Ma,Malayalam,True,True,cāyal,cāyal,"bending sideways as a falling tree, side, inclination","shape, figure, resemblance, beauty, colour.",0.0,True
+240,2456,2457,Ka,Kannada,False,False,,,,,,False
+240,2456,2457,Ka,Kannada,True,False,,,,,,False
+240,2456,2457,Te,Telugu,False,False,,,,,,False
+240,2456,2457,Te,Telugu,True,False,,,,,,False
+240,2456,2457,Tu,Tulu,False,False,,,,,,False
+240,2456,2457,Tu,Tulu,True,False,,,,,,False
+240,2456,2457,Ko,Kota,False,False,,,,,,False
+240,2456,2457,Ko,Kota,True,False,,,,,,False
+240,2456,2457,To,Toda,False,False,,,,,,False
+240,2456,2457,To,Toda,True,False,,,,,,False
+240,2456,2457,Koḍ,Kodagu,False,True,taye-,ca·y,to level field and break up clods with a plank drawn by bullocks,beauty,0.75,False
+240,2456,2457,Koḍ,Kodagu,True,True,taye-,ca·y,to level field and break up clods with a plank drawn by bullocks,beauty,0.5,False
+240,2456,2457,Kol,Kolami,False,False,,,,,,False
+240,2456,2457,Kol,Kolami,True,False,,,,,,False
+240,2456,2457,Nk,Naikri,False,False,,,,,,False
+240,2456,2457,Nk,Naikri,True,False,,,,,,False
+240,2456,2457,Pa,Parji,False,False,,,,,,False
+240,2456,2457,Pa,Parji,True,False,,,,,,False
+240,2456,2457,Ga,Gadaba,False,False,,,,,,False
+240,2456,2457,Ga,Gadaba,True,False,,,,,,False
+240,2456,2457,Go,Gondi,False,False,,,,,,False
+240,2456,2457,Go,Gondi,True,False,,,,,,False
+240,2456,2457,Konḍa,Konda,False,False,,,,,,False
+240,2456,2457,Konḍa,Konda,True,False,,,,,,False
+240,2456,2457,Pe,Pengo,False,False,,,,,,False
+240,2456,2457,Pe,Pengo,True,False,,,,,,False
+240,2456,2457,Manḍ,Manda,False,False,,,,,,False
+240,2456,2457,Manḍ,Manda,True,False,,,,,,False
+240,2456,2457,Kui,Kui,False,True,jāpa,sānja,to descend,"to be proper, good, right, beautiful, bright",0.6,False
+240,2456,2457,Kui,Kui,True,True,jāpa,sānja,to descend,"to be proper, good, right, beautiful, bright",0.6,False
+240,2456,2457,Kuwi,Kuwi,False,False,,,,,,False
+240,2456,2457,Kuwi,Kuwi,True,False,,,,,,False
+240,2456,2457,Kur,Kurukh,False,False,,,,,,False
+240,2456,2457,Kur,Kurukh,True,False,,,,,,False
+240,2456,2457,Malt,Malto,False,False,,,,,,False
+240,2456,2457,Malt,Malto,True,False,,,,,,False
+240,2456,2457,Br,Brahui,False,False,,,,,,False
+240,2456,2457,Br,Brahui,True,False,,,,,,False
+798,3544,3480,Ta,Tamil,False,True,tōṭu,tōṭu,"shell of a fruit, as of a wood-apple","collection, assemblage.",0.0,True
+798,3544,3480,Ta,Tamil,True,True,tōṭu,toṭu,"shell of a fruit, as of a wood-apple","to touch, come in contact with, be connected, united with or joined to, feel, handle, take hold of, use, have illicit intercourse",0.0,True
+798,3544,3480,Ma,Malayalam,False,True,tōṭu,toṭṭu,"shell , husk, pomegranate rind.","concerning, about",0.4,False
+798,3544,3480,Ma,Malayalam,True,True,tōṭu,toṭṭu,"shell , husk, pomegranate rind.","concerning, about",0.2,False
+798,3544,3480,Ka,Kannada,False,True,tōṭe,tōṭi,"bark, rind, peel, pod.","hand-to-hand conflict, fight",0.25,False
+798,3544,3480,Ka,Kannada,True,True,tōṭe,tōṭi,"bark, rind, peel, pod.","hand-to-hand conflict, fight",0.25,False
+798,3544,3480,Te,Telugu,False,False,,,,,,False
+798,3544,3480,Te,Telugu,True,False,,,,,,False
+798,3544,3480,Tu,Tulu,False,False,,,,,,False
+798,3544,3480,Tu,Tulu,True,False,,,,,,False
+798,3544,3480,Ko,Kota,False,False,,,,,,False
+798,3544,3480,Ko,Kota,True,False,,,,,,False
+798,3544,3480,To,Toda,False,False,,,,,,False
+798,3544,3480,To,Toda,True,False,,,,,,False
+798,3544,3480,Koḍ,Kodagu,False,False,,,,,,False
+798,3544,3480,Koḍ,Kodagu,True,False,,,,,,False
+798,3544,3480,Kol,Kolami,False,False,,,,,,False
+798,3544,3480,Kol,Kolami,True,False,,,,,,False
+798,3544,3480,Nk,Naikri,False,False,,,,,,False
+798,3544,3480,Nk,Naikri,True,False,,,,,,False
+798,3544,3480,Pa,Parji,False,False,,,,,,False
+798,3544,3480,Pa,Parji,True,False,,,,,,False
+798,3544,3480,Ga,Gadaba,False,False,,,,,,False
+798,3544,3480,Ga,Gadaba,True,False,,,,,,False
+798,3544,3480,Go,Gondi,False,True,tōtā,tōṛhānā,outer skin of the mahua fruit,"to sleep with, have intercourse with",0.5714285714285714,False
+798,3544,3480,Go,Gondi,True,True,tōtā,tōṛhānā,outer skin of the mahua fruit,"to sleep with, have intercourse with",0.5714285714285714,False
+798,3544,3480,Konḍa,Konda,False,False,,,,,,False
+798,3544,3480,Konḍa,Konda,True,False,,,,,,False
+798,3544,3480,Pe,Pengo,False,False,,,,,,False
+798,3544,3480,Pe,Pengo,True,False,,,,,,False
+798,3544,3480,Manḍ,Manda,False,False,,,,,,False
+798,3544,3480,Manḍ,Manda,True,False,,,,,,False
+798,3544,3480,Kui,Kui,False,False,,,,,,False
+798,3544,3480,Kui,Kui,True,False,,,,,,False
+798,3544,3480,Kuwi,Kuwi,False,False,,,,,,False
+798,3544,3480,Kuwi,Kuwi,True,False,,,,,,False
+798,3544,3480,Kur,Kurukh,False,False,,,,,,False
+798,3544,3480,Kur,Kurukh,True,False,,,,,,False
+798,3544,3480,Malt,Malto,False,False,,,,,,False
+798,3544,3480,Malt,Malto,True,False,,,,,,False
+798,3544,3480,Br,Brahui,False,False,,,,,,False
+798,3544,3480,Br,Brahui,True,False,,,,,,False
+798,3544,3536,Ta,Tamil,False,True,tōṭu,toṭu,"shell of a fruit, as of a wood-apple",.,0.25,False
+798,3544,3536,Ta,Tamil,True,True,tōṭu,toṭu,"shell of a fruit, as of a wood-apple",.,0.0,True
+798,3544,3536,Ma,Malayalam,False,False,,,,,,False
+798,3544,3536,Ma,Malayalam,True,False,,,,,,False
+798,3544,3536,Ka,Kannada,False,False,,,,,,False
+798,3544,3536,Ka,Kannada,True,False,,,,,,False
+798,3544,3536,Te,Telugu,False,False,,,,,,False
+798,3544,3536,Te,Telugu,True,False,,,,,,False
+798,3544,3536,Tu,Tulu,False,False,,,,,,False
+798,3544,3536,Tu,Tulu,True,False,,,,,,False
+798,3544,3536,Ko,Kota,False,False,,,,,,False
+798,3544,3536,Ko,Kota,True,False,,,,,,False
+798,3544,3536,To,Toda,False,False,,,,,,False
+798,3544,3536,To,Toda,True,False,,,,,,False
+798,3544,3536,Koḍ,Kodagu,False,False,,,,,,False
+798,3544,3536,Koḍ,Kodagu,True,False,,,,,,False
+798,3544,3536,Kol,Kolami,False,False,,,,,,False
+798,3544,3536,Kol,Kolami,True,False,,,,,,False
+798,3544,3536,Nk,Naikri,False,False,,,,,,False
+798,3544,3536,Nk,Naikri,True,False,,,,,,False
+798,3544,3536,Pa,Parji,False,False,,,,,,False
+798,3544,3536,Pa,Parji,True,False,,,,,,False
+798,3544,3536,Ga,Gadaba,False,False,,,,,,False
+798,3544,3536,Ga,Gadaba,True,False,,,,,,False
+798,3544,3536,Go,Gondi,False,True,tōtā,tohtānā,outer skin of the mahua fruit,", toˀ -, doˀ -, doh- , toh- , doh- to tie .",0.5714285714285714,False
+798,3544,3536,Go,Gondi,True,True,tōtā,tohtānā,outer skin of the mahua fruit,", toˀ -, doˀ -, doh- , toh- , doh- to tie .",0.42857142857142855,False
+798,3544,3536,Konḍa,Konda,False,False,,,,,,False
+798,3544,3536,Konḍa,Konda,True,False,,,,,,False
+798,3544,3536,Pe,Pengo,False,False,,,,,,False
+798,3544,3536,Pe,Pengo,True,False,,,,,,False
+798,3544,3536,Manḍ,Manda,False,False,,,,,,False
+798,3544,3536,Manḍ,Manda,True,False,,,,,,False
+798,3544,3536,Kui,Kui,False,False,,,,,,False
+798,3544,3536,Kui,Kui,True,False,,,,,,False
+798,3544,3536,Kuwi,Kuwi,False,False,,,,,,False
+798,3544,3536,Kuwi,Kuwi,True,False,,,,,,False
+798,3544,3536,Kur,Kurukh,False,False,,,,,,False
+798,3544,3536,Kur,Kurukh,True,False,,,,,,False
+798,3544,3536,Malt,Malto,False,False,,,,,,False
+798,3544,3536,Malt,Malto,True,False,,,,,,False
+798,3544,3536,Br,Brahui,False,False,,,,,,False
+798,3544,3536,Br,Brahui,True,False,,,,,,False
+798,1651,1655,Ta,Tamil,False,True,kuṭaṅkar,kuṭaṅkar,waterpot,"hut, cottage",0.0,True
+798,1651,1655,Ta,Tamil,True,True,kuṭaṅkar,kuṭaṅkar,waterpot,"hut, cottage",0.0,True
+798,1651,1655,Ma,Malayalam,False,True,kuṭam,kuṭima,waterpot,"the body of landholders, tenantry",0.3333333333333333,False
+798,1651,1655,Ma,Malayalam,True,True,kuṭam,kuṭima,waterpot,"the body of landholders, tenantry",0.3333333333333333,False
+798,1651,1655,Ka,Kannada,False,True,kuḍike,kuḍiya,"small earthen, metal, or wood vessel","śūdra, farmer",0.3333333333333333,False
+798,1651,1655,Ka,Kannada,True,True,kuḍike,kuḍiya,"small earthen, metal, or wood vessel","śūdra, farmer",0.3333333333333333,False
+798,1651,1655,Te,Telugu,False,True,kuḍaka,koṭika,"cup, bowl, scoop, any cup-like thing",hamlet,0.5,False
+798,1651,1655,Te,Telugu,True,True,kuḍaka,koṭika,"cup, bowl, scoop, any cup-like thing",hamlet,0.5,False
+798,1651,1655,Tu,Tulu,False,True,kuḍki,guḍi,small earthen vessel.,small pagoda or shrine,0.4,False
+798,1651,1655,Tu,Tulu,True,True,kuḍki,guḍi,small earthen vessel.,small pagoda or shrine,0.4,False
+798,1651,1655,Ko,Kota,False,True,koṛm,kuṛm,waterpot with small mouth,family,0.25,False
+798,1651,1655,Ko,Kota,True,True,koṛm,kuṛm,waterpot with small mouth,family,0.25,False
+798,1651,1655,To,Toda,False,True,kuṛky,kuṛy,small pot.,Hindu temple,0.2,False
+798,1651,1655,To,Toda,True,True,kuṛky,kuṛy,small pot.,Hindu temple,0.2,False
+798,1651,1655,Koḍ,Kodagu,False,True,kuḍike,kuḍi,pot in which food is cooked.,family of servants living in one hut,0.3333333333333333,False
+798,1651,1655,Koḍ,Kodagu,True,True,kuḍike,kuḍi,pot in which food is cooked.,family of servants living in one hut,0.3333333333333333,False
+798,1651,1655,Kol,Kolami,False,False,,,,,,False
+798,1651,1655,Kol,Kolami,True,False,,,,,,False
+798,1651,1655,Nk,Naikri,False,False,,,,,,False
+798,1651,1655,Nk,Naikri,True,False,,,,,,False
+798,1651,1655,Pa,Parji,False,False,,,,,,False
+798,1651,1655,Pa,Parji,True,False,,,,,,False
+798,1651,1655,Ga,Gadaba,False,False,,,,,,False
+798,1651,1655,Ga,Gadaba,True,False,,,,,,False
+798,1651,1655,Go,Gondi,False,False,,,,,,False
+798,1651,1655,Go,Gondi,True,False,,,,,,False
+798,1651,1655,Konḍa,Konda,False,False,,,,,,False
+798,1651,1655,Konḍa,Konda,True,False,,,,,,False
+798,1651,1655,Pe,Pengo,False,False,,,,,,False
+798,1651,1655,Pe,Pengo,True,False,,,,,,False
+798,1651,1655,Manḍ,Manda,False,False,,,,,,False
+798,1651,1655,Manḍ,Manda,True,False,,,,,,False
+798,1651,1655,Kui,Kui,False,False,,,,,,False
+798,1651,1655,Kui,Kui,True,False,,,,,,False
+798,1651,1655,Kuwi,Kuwi,False,False,,,,,,False
+798,1651,1655,Kuwi,Kuwi,True,False,,,,,,False
+798,1651,1655,Kur,Kurukh,False,False,,,,,,False
+798,1651,1655,Kur,Kurukh,True,False,,,,,,False
+798,1651,1655,Malt,Malto,False,False,,,,,,False
+798,1651,1655,Malt,Malto,True,False,,,,,,False
+798,1651,1655,Br,Brahui,False,False,,,,,,False
+798,1651,1655,Br,Brahui,True,False,,,,,,False
+550,3584,3638,Ta,Tamil,False,True,naṭu,nāṭu,"middle, centre, waist, equity","country, district, province, locality, situation, earth, land, world, kingdom, state, rural tracts , open place, side, agricultural tract",0.25,False
+550,3584,3638,Ta,Tamil,True,True,naṭu,nāṭu,"middle, centre, waist, equity","country, district, province, locality, situation, earth, land, world, kingdom, state, rural tracts , open place, side, agricultural tract",0.0,True
+550,3584,3638,Ma,Malayalam,False,True,naṭu,nāṭu,"middle, centre, waist, equity.","cultivated land , the country , kingdom, province, smaller district",0.25,False
+550,3584,3638,Ma,Malayalam,True,True,naṭu,nāṭu,"middle, centre, waist, equity.","cultivated land , the country , kingdom, province, smaller district",0.0,True
+550,3584,3638,Ka,Kannada,False,True,naḍu,nāḍu,"middle, centre, waist","country , province, district, country",0.25,False
+550,3584,3638,Ka,Kannada,True,True,naḍu,nāḍu,"middle, centre, waist","country , province, district, country",0.0,True
+550,3584,3638,Te,Telugu,False,True,naḍu,nāḍu,"middle, waist",", nāṇḍu a country.",0.25,False
+550,3584,3638,Te,Telugu,True,True,naḍu,nāḍu,"middle, waist",", nāṇḍu a country.",0.0,True
+550,3584,3638,Tu,Tulu,False,True,naḍu,nāḍu,"id., waist, loins","district, village",0.25,False
+550,3584,3638,Tu,Tulu,True,True,naḍu,nāḍu,"id., waist, loins","district, village",0.0,True
+550,3584,3638,Ko,Kota,False,True,naṛv,na·ṛ,"middle, centre","country, settled area , place where dead go.",0.5,False
+550,3584,3638,Ko,Kota,True,True,naṛv,na·ṛ,"middle, centre","country, settled area , place where dead go.",0.25,False
+550,3584,3638,To,Toda,False,True,noṛf,no·ṛ,"middle, centre.","sacred place, dairy complex which is a god.",0.5,False
+550,3584,3638,To,Toda,True,True,noṛf,no·ṛ,"middle, centre.","sacred place, dairy complex which is a god.",0.25,False
+550,3584,3638,Koḍ,Kodagu,False,True,naḍu,na·ḍï,"middle, centre.",district.,0.5,False
+550,3584,3638,Koḍ,Kodagu,True,True,naḍu,na·ḍï,"middle, centre.",district.,0.25,False
+550,3584,3638,Kol,Kolami,False,False,,,,,,False
+550,3584,3638,Kol,Kolami,True,False,,,,,,False
+550,3584,3638,Nk,Naikri,False,False,,,,,,False
+550,3584,3638,Nk,Naikri,True,False,,,,,,False
+550,3584,3638,Pa,Parji,False,False,,,,,,False
+550,3584,3638,Pa,Parji,True,False,,,,,,False
+550,3584,3638,Ga,Gadaba,False,False,,,,,,False
+550,3584,3638,Ga,Gadaba,True,False,,,,,,False
+550,3584,3638,Go,Gondi,False,False,,,,,,False
+550,3584,3638,Go,Gondi,True,False,,,,,,False
+550,3584,3638,Konḍa,Konda,False,False,,,,,,False
+550,3584,3638,Konḍa,Konda,True,False,,,,,,False
+550,3584,3638,Pe,Pengo,False,False,,,,,,False
+550,3584,3638,Pe,Pengo,True,False,,,,,,False
+550,3584,3638,Manḍ,Manda,False,False,,,,,,False
+550,3584,3638,Manḍ,Manda,True,False,,,,,,False
+550,3584,3638,Kui,Kui,False,False,,,,,,False
+550,3584,3638,Kui,Kui,True,False,,,,,,False
+550,3584,3638,Kuwi,Kuwi,False,False,,,,,,False
+550,3584,3638,Kuwi,Kuwi,True,False,,,,,,False
+550,3584,3638,Kur,Kurukh,False,False,,,,,,False
+550,3584,3638,Kur,Kurukh,True,False,,,,,,False
+550,3584,3638,Malt,Malto,False,False,,,,,,False
+550,3584,3638,Malt,Malto,True,False,,,,,,False
+550,3584,3638,Br,Brahui,False,False,,,,,,False
+550,3584,3638,Br,Brahui,True,False,,,,,,False
+440,4898,4899,Ta,Tamil,False,False,,,,,,False
+440,4898,4899,Ta,Tamil,True,False,,,,,,False
+440,4898,4899,Ma,Malayalam,False,False,,,,,,False
+440,4898,4899,Ma,Malayalam,True,False,,,,,,False
+440,4898,4899,Ka,Kannada,False,False,,,,,,False
+440,4898,4899,Ka,Kannada,True,False,,,,,,False
+440,4898,4899,Te,Telugu,False,False,,,,,,False
+440,4898,4899,Te,Telugu,True,False,,,,,,False
+440,4898,4899,Tu,Tulu,False,False,,,,,,False
+440,4898,4899,Tu,Tulu,True,False,,,,,,False
+440,4898,4899,Ko,Kota,False,False,,,,,,False
+440,4898,4899,Ko,Kota,True,False,,,,,,False
+440,4898,4899,To,Toda,False,False,,,,,,False
+440,4898,4899,To,Toda,True,False,,,,,,False
+440,4898,4899,Koḍ,Kodagu,False,False,,,,,,False
+440,4898,4899,Koḍ,Kodagu,True,False,,,,,,False
+440,4898,4899,Kol,Kolami,False,False,,,,,,False
+440,4898,4899,Kol,Kolami,True,False,,,,,,False
+440,4898,4899,Nk,Naikri,False,False,,,,,,False
+440,4898,4899,Nk,Naikri,True,False,,,,,,False
+440,4898,4899,Pa,Parji,False,False,,,,,,False
+440,4898,4899,Pa,Parji,True,False,,,,,,False
+440,4898,4899,Ga,Gadaba,False,False,,,,,,False
+440,4898,4899,Ga,Gadaba,True,False,,,,,,False
+440,4898,4899,Go,Gondi,False,False,,,,,,False
+440,4898,4899,Go,Gondi,True,False,,,,,,False
+440,4898,4899,Konḍa,Konda,False,False,,,,,,False
+440,4898,4899,Konḍa,Konda,True,False,,,,,,False
+440,4898,4899,Pe,Pengo,False,False,,,,,,False
+440,4898,4899,Pe,Pengo,True,False,,,,,,False
+440,4898,4899,Manḍ,Manda,False,False,,,,,,False
+440,4898,4899,Manḍ,Manda,True,False,,,,,,False
+440,4898,4899,Kui,Kui,False,False,,,,,,False
+440,4898,4899,Kui,Kui,True,False,,,,,,False
+440,4898,4899,Kuwi,Kuwi,False,False,,,,,,False
+440,4898,4899,Kuwi,Kuwi,True,False,,,,,,False
+440,4898,4899,Kur,Kurukh,False,False,,,,,,False
+440,4898,4899,Kur,Kurukh,True,False,,,,,,False
+440,4898,4899,Malt,Malto,False,False,,,,,,False
+440,4898,4899,Malt,Malto,True,False,,,,,,False
+440,4898,4899,Br,Brahui,False,False,,,,,,False
+440,4898,4899,Br,Brahui,True,False,,,,,,False
+435,3547,3546,Ta,Tamil,False,True,tōṭṭi,tōṭṭi,"elephant hook or goad, hook, clasp, sharp weapon planted in the ground to keep off enemies.","menial servant of a village, scavenger",0.0,True
+435,3547,3546,Ta,Tamil,True,True,tōṭṭi,tōṭṭi,"elephant hook or goad, hook, clasp, sharp weapon planted in the ground to keep off enemies.","menial servant of a village, scavenger",0.0,True
+435,3547,3546,Ma,Malayalam,False,True,tōṭṭi,tōṭṭi,"hook for driving an elephant, hook for plucking fruit",sweeper,0.0,True
+435,3547,3546,Ma,Malayalam,True,True,tōṭṭi,tōṭṭi,"hook for driving an elephant, hook for plucking fruit",sweeper,0.0,True
+435,3547,3546,Ka,Kannada,False,True,dōṭi,tōṭi,"pole with a hook for plucking fruit, gathering flowers.","an inferior village servant, esp. one who performs the lowest offices, a sweeper, scavenger.",0.25,False
+435,3547,3546,Ka,Kannada,True,True,dōṭi,tōṭi,"pole with a hook for plucking fruit, gathering flowers.","an inferior village servant, esp. one who performs the lowest offices, a sweeper, scavenger.",0.25,False
+435,3547,3546,Te,Telugu,False,True,dō̃ṭi,tōṭi,long pole with hook for cutting off fruit from high trees.,a pariah.,0.4,False
+435,3547,3546,Te,Telugu,True,True,dō̃ṭi,tōṭi,long pole with hook for cutting off fruit from high trees.,a pariah.,0.4,False
+435,3547,3546,Tu,Tulu,False,True,dōṇṭi,tōṭi,long pole with hook to pluck fruit.,"scavenger, sweeper.",0.4,False
+435,3547,3546,Tu,Tulu,True,True,dōṇṭi,tōṭi,long pole with hook to pluck fruit.,"scavenger, sweeper.",0.4,False
+435,3547,3546,Ko,Kota,False,False,,,,,,False
+435,3547,3546,Ko,Kota,True,False,,,,,,False
+435,3547,3546,To,Toda,False,False,,,,,,False
+435,3547,3546,To,Toda,True,False,,,,,,False
+435,3547,3546,Koḍ,Kodagu,False,False,,,,,,False
+435,3547,3546,Koḍ,Kodagu,True,False,,,,,,False
+435,3547,3546,Kol,Kolami,False,False,,,,,,False
+435,3547,3546,Kol,Kolami,True,False,,,,,,False
+435,3547,3546,Nk,Naikri,False,False,,,,,,False
+435,3547,3546,Nk,Naikri,True,False,,,,,,False
+435,3547,3546,Pa,Parji,False,True,ṭōṭal,ṭōṭal,bamboo rake.,labourer.,0.0,True
+435,3547,3546,Pa,Parji,True,True,ṭōṭal,ṭōṭal,bamboo rake.,labourer.,0.0,True
+435,3547,3546,Ga,Gadaba,False,False,,,,,,False
+435,3547,3546,Ga,Gadaba,True,False,,,,,,False
+435,3547,3546,Go,Gondi,False,False,,,,,,False
+435,3547,3546,Go,Gondi,True,False,,,,,,False
+435,3547,3546,Konḍa,Konda,False,False,,,,,,False
+435,3547,3546,Konḍa,Konda,True,False,,,,,,False
+435,3547,3546,Pe,Pengo,False,False,,,,,,False
+435,3547,3546,Pe,Pengo,True,False,,,,,,False
+435,3547,3546,Manḍ,Manda,False,False,,,,,,False
+435,3547,3546,Manḍ,Manda,True,False,,,,,,False
+435,3547,3546,Kui,Kui,False,False,,,,,,False
+435,3547,3546,Kui,Kui,True,False,,,,,,False
+435,3547,3546,Kuwi,Kuwi,False,False,,,,,,False
+435,3547,3546,Kuwi,Kuwi,True,False,,,,,,False
+435,3547,3546,Kur,Kurukh,False,False,,,,,,False
+435,3547,3546,Kur,Kurukh,True,False,,,,,,False
+435,3547,3546,Malt,Malto,False,False,,,,,,False
+435,3547,3546,Malt,Malto,True,False,,,,,,False
+435,3547,3546,Br,Brahui,False,False,,,,,,False
+435,3547,3546,Br,Brahui,True,False,,,,,,False
+585,1663,1655,Ta,Tamil,False,True,kuṭai,kuṭi,"umbrella, parasol, canopy.","house, abode, home, family, lineage, town, tenants",0.2,False
+585,1663,1655,Ta,Tamil,True,True,kuṭai,kuṭi,"umbrella, parasol, canopy.","house, abode, home, family, lineage, town, tenants",0.2,False
+585,1663,1655,Ma,Malayalam,False,True,kuṭa,kuṭi,umbrella.,"house, hut, family, wife, tribe",0.25,False
+585,1663,1655,Ma,Malayalam,True,True,kuṭa,kuṭi,umbrella.,"house, hut, family, wife, tribe",0.25,False
+585,1663,1655,Ka,Kannada,False,True,koḍe,kuḍu,"id., parasol.","śūdra, farmer",0.5,False
+585,1663,1655,Ka,Kannada,True,True,koḍe,kuḍu,"id., parasol.","śūdra, farmer",0.5,False
+585,1663,1655,Te,Telugu,False,True,goḍugu,guḍi,"id., parasol.",temple,0.6666666666666666,False
+585,1663,1655,Te,Telugu,True,True,goḍugu,guḍi,"id., parasol.",temple,0.6666666666666666,False
+585,1663,1655,Tu,Tulu,False,True,koḍè,guḍi,umbrella.,small pagoda or shrine,0.75,False
+585,1663,1655,Tu,Tulu,True,True,koḍè,guḍi,umbrella.,small pagoda or shrine,0.75,False
+585,1663,1655,Ko,Kota,False,True,koṛ,kuṛm,umbrella made of leaves,family,0.5,False
+585,1663,1655,Ko,Kota,True,True,koṛ,kuṛm,umbrella made of leaves,family,0.5,False
+585,1663,1655,To,Toda,False,True,kwaṛ,kwïṣ,umbrella.,shed for small calves,0.5,False
+585,1663,1655,To,Toda,True,True,kwaṛ,kwïṣ,umbrella.,shed for small calves,0.5,False
+585,1663,1655,Koḍ,Kodagu,False,True,koḍe,kuḍi,umbrella.,family of servants living in one hut,0.5,False
+585,1663,1655,Koḍ,Kodagu,True,True,koḍe,kuḍi,umbrella.,family of servants living in one hut,0.5,False
+585,1663,1655,Kol,Kolami,False,False,,,,,,False
+585,1663,1655,Kol,Kolami,True,False,,,,,,False
+585,1663,1655,Nk,Naikri,False,False,,,,,,False
+585,1663,1655,Nk,Naikri,True,False,,,,,,False
+585,1663,1655,Pa,Parji,False,False,,,,,,False
+585,1663,1655,Pa,Parji,True,False,,,,,,False
+585,1663,1655,Ga,Gadaba,False,False,,,,,,False
+585,1663,1655,Ga,Gadaba,True,False,,,,,,False
+585,1663,1655,Go,Gondi,False,False,,,,,,False
+585,1663,1655,Go,Gondi,True,False,,,,,,False
+585,1663,1655,Konḍa,Konda,False,False,,,,,,False
+585,1663,1655,Konḍa,Konda,True,False,,,,,,False
+585,1663,1655,Pe,Pengo,False,False,,,,,,False
+585,1663,1655,Pe,Pengo,True,False,,,,,,False
+585,1663,1655,Manḍ,Manda,False,False,,,,,,False
+585,1663,1655,Manḍ,Manda,True,False,,,,,,False
+585,1663,1655,Kui,Kui,False,False,,,,,,False
+585,1663,1655,Kui,Kui,True,False,,,,,,False
+585,1663,1655,Kuwi,Kuwi,False,False,,,,,,False
+585,1663,1655,Kuwi,Kuwi,True,False,,,,,,False
+585,1663,1655,Kur,Kurukh,False,False,,,,,,False
+585,1663,1655,Kur,Kurukh,True,False,,,,,,False
+585,1663,1655,Malt,Malto,False,False,,,,,,False
+585,1663,1655,Malt,Malto,True,False,,,,,,False
+585,1663,1655,Br,Brahui,False,False,,,,,,False
+585,1663,1655,Br,Brahui,True,False,,,,,,False
+845,5263,5266,Ta,Tamil,False,True,vari,vari,"to write, paint, draw","tax, impost, duty, toll, contribution.",0.0,True
+845,5263,5266,Ta,Tamil,True,True,vari,vari,"to write, paint, draw","tax, impost, duty, toll, contribution.",0.0,True
+845,5263,5266,Ma,Malayalam,False,True,vari,vari,"line, rule, row.","tax, levy, contribution.",0.0,True
+845,5263,5266,Ma,Malayalam,True,True,vari,vari,"line, rule, row.","tax, levy, contribution.",0.0,True
+845,5263,5266,Ka,Kannada,False,False,,,,,,False
+845,5263,5266,Ka,Kannada,True,False,,,,,,False
+845,5263,5266,Te,Telugu,False,True,variyu,vari,to test metal on the touchstone,tax.,0.3333333333333333,False
+845,5263,5266,Te,Telugu,True,True,variyu,vari,to test metal on the touchstone,tax.,0.3333333333333333,False
+845,5263,5266,Tu,Tulu,False,False,,,,,,False
+845,5263,5266,Tu,Tulu,True,False,,,,,,False
+845,5263,5266,Ko,Kota,False,True,varv-,vary,to write,"tax paid to government or to Kurumbas, tax paid by Badaga to Kota.",0.25,False
+845,5263,5266,Ko,Kota,True,True,varv-,vary,to write,"tax paid to government or to Kurumbas, tax paid by Badaga to Kota.",0.25,False
+845,5263,5266,To,Toda,False,False,,,,,,False
+845,5263,5266,To,Toda,True,False,,,,,,False
+845,5263,5266,Koḍ,Kodagu,False,False,,,,,,False
+845,5263,5266,Koḍ,Kodagu,True,False,,,,,,False
+845,5263,5266,Kol,Kolami,False,False,,,,,,False
+845,5263,5266,Kol,Kolami,True,False,,,,,,False
+845,5263,5266,Nk,Naikri,False,False,,,,,,False
+845,5263,5266,Nk,Naikri,True,False,,,,,,False
+845,5263,5266,Pa,Parji,False,False,,,,,,False
+845,5263,5266,Pa,Parji,True,False,,,,,,False
+845,5263,5266,Ga,Gadaba,False,False,,,,,,False
+845,5263,5266,Ga,Gadaba,True,False,,,,,,False
+845,5263,5266,Go,Gondi,False,False,,,,,,False
+845,5263,5266,Go,Gondi,True,False,,,,,,False
+845,5263,5266,Konḍa,Konda,False,False,,,,,,False
+845,5263,5266,Konḍa,Konda,True,False,,,,,,False
+845,5263,5266,Pe,Pengo,False,False,,,,,,False
+845,5263,5266,Pe,Pengo,True,False,,,,,,False
+845,5263,5266,Manḍ,Manda,False,False,,,,,,False
+845,5263,5266,Manḍ,Manda,True,False,,,,,,False
+845,5263,5266,Kui,Kui,False,False,,,,,,False
+845,5263,5266,Kui,Kui,True,False,,,,,,False
+845,5263,5266,Kuwi,Kuwi,False,False,,,,,,False
+845,5263,5266,Kuwi,Kuwi,True,False,,,,,,False
+845,5263,5266,Kur,Kurukh,False,False,,,,,,False
+845,5263,5266,Kur,Kurukh,True,False,,,,,,False
+845,5263,5266,Malt,Malto,False,False,,,,,,False
+845,5263,5266,Malt,Malto,True,False,,,,,,False
+845,5263,5266,Br,Brahui,False,False,,,,,,False
+845,5263,5266,Br,Brahui,True,False,,,,,,False
+845,5263,5359,Ta,Tamil,False,True,varai,vāram,"to write, inscribe, paint, draw","hire, rent, lease of land for a share of the produce, share of the crop of a field, share, portion",0.4,False
+845,5263,5359,Ta,Tamil,True,True,varai,vāram,"to write, inscribe, paint, draw","hire, rent, lease of land for a share of the produce, share of the crop of a field, share, portion",0.2,False
+845,5263,5359,Ma,Malayalam,False,True,vara,vāram,"line, streak, furrow, wrinkle","share in general, landlord's share, rack-rent",0.4,False
+845,5263,5359,Ma,Malayalam,True,True,vara,vāram,"line, streak, furrow, wrinkle","share in general, landlord's share, rack-rent",0.2,False
+845,5263,5359,Ka,Kannada,False,True,barepa,vāra,"writing, drawing, writ, scripture, written letters","share, landlord's half-share of the produce of a field in lieu of rent.",0.6666666666666666,False
+845,5263,5359,Ka,Kannada,True,True,barā,vāra,"writing, drawing, writ, scripture, written letters","share, landlord's half-share of the produce of a field in lieu of rent.",0.25,False
+845,5263,5359,Te,Telugu,False,True,vrāyasamu,vārakamu,"writing, letter, note",money advanced to cultivators to be received again without interest when the crop is reaped. ?,0.3333333333333333,False
+845,5263,5359,Te,Telugu,True,True,vrāyasamu,vārakamu,"writing, letter, note",money advanced to cultivators to be received again without interest when the crop is reaped. ?,0.3333333333333333,False
+845,5263,5359,Tu,Tulu,False,False,,,,,,False
+845,5263,5359,Tu,Tulu,True,False,,,,,,False
+845,5263,5359,Ko,Kota,False,False,,,,,,False
+845,5263,5359,Ko,Kota,True,False,,,,,,False
+845,5263,5359,To,Toda,False,False,,,,,,False
+845,5263,5359,To,Toda,True,False,,,,,,False
+845,5263,5359,Koḍ,Kodagu,False,True,bare,va·ra,"stripe, brand-mark, burn made on body in illness.",rent.,0.75,False
+845,5263,5359,Koḍ,Kodagu,True,True,bare,va·ra,"stripe, brand-mark, burn made on body in illness.",rent.,0.5,False
+845,5263,5359,Kol,Kolami,False,False,,,,,,False
+845,5263,5359,Kol,Kolami,True,False,,,,,,False
+845,5263,5359,Nk,Naikri,False,False,,,,,,False
+845,5263,5359,Nk,Naikri,True,False,,,,,,False
+845,5263,5359,Pa,Parji,False,False,,,,,,False
+845,5263,5359,Pa,Parji,True,False,,,,,,False
+845,5263,5359,Ga,Gadaba,False,True,rāyap-,vāri,to write.,debt.,0.8,False
+845,5263,5359,Ga,Gadaba,True,True,rāyap-,vāri,to write.,debt.,0.8,False
+845,5263,5359,Go,Gondi,False,False,,,,,,False
+845,5263,5359,Go,Gondi,True,False,,,,,,False
+845,5263,5359,Konḍa,Konda,False,False,,,,,,False
+845,5263,5359,Konḍa,Konda,True,False,,,,,,False
+845,5263,5359,Pe,Pengo,False,False,,,,,,False
+845,5263,5359,Pe,Pengo,True,False,,,,,,False
+845,5263,5359,Manḍ,Manda,False,False,,,,,,False
+845,5263,5359,Manḍ,Manda,True,False,,,,,,False
+845,5263,5359,Kui,Kui,False,False,,,,,,False
+845,5263,5359,Kui,Kui,True,False,,,,,,False
+845,5263,5359,Kuwi,Kuwi,False,False,,,,,,False
+845,5263,5359,Kuwi,Kuwi,True,False,,,,,,False
+845,5263,5359,Kur,Kurukh,False,False,,,,,,False
+845,5263,5359,Kur,Kurukh,True,False,,,,,,False
+845,5263,5359,Malt,Malto,False,False,,,,,,False
+845,5263,5359,Malt,Malto,True,False,,,,,,False
+845,5263,5359,Br,Brahui,False,False,,,,,,False
+845,5263,5359,Br,Brahui,True,False,,,,,,False
+416,1325,1326,Ta,Tamil,False,True,kavar,kavar,"to separate into various channels, deviate, depart from instructions","to seize, grasp, catch, steal, get control of, receive, experience, desire, have sexual connexion with",0.0,True
+416,1325,1326,Ta,Tamil,True,True,kavar,kavar,"to separate into various channels, deviate, depart from instructions","to seize, grasp, catch, steal, get control of, receive, experience, desire, have sexual connexion with",0.0,True
+416,1325,1326,Ma,Malayalam,False,True,kavarikkuka,kavaruka,to shoot forth as a forked branch,"to plunder, rob",0.2727272727272727,False
+416,1325,1326,Ma,Malayalam,True,True,kavarikkuka,kavaruka,to shoot forth as a forked branch,"to plunder, rob",0.2727272727272727,False
+416,1325,1326,Ka,Kannada,False,True,kavate,kavate,forked state,"taking by force, seizing, plundering.",0.0,True
+416,1325,1326,Ka,Kannada,True,True,kavate,kavate,forked state,"taking by force, seizing, plundering.",0.0,True
+416,1325,1326,Te,Telugu,False,True,kavalu,kavayu,twins,"to embrace, copulate.",0.16666666666666666,False
+416,1325,1326,Te,Telugu,True,True,kavalu,kavayu,twins,"to embrace, copulate.",0.16666666666666666,False
+416,1325,1326,Tu,Tulu,False,False,,,,,,False
+416,1325,1326,Tu,Tulu,True,False,,,,,,False
+416,1325,1326,Ko,Kota,False,False,,,,,,False
+416,1325,1326,Ko,Kota,True,False,,,,,,False
+416,1325,1326,To,Toda,False,False,,,,,,False
+416,1325,1326,To,Toda,True,False,,,,,,False
+416,1325,1326,Koḍ,Kodagu,False,False,,,,,,False
+416,1325,1326,Koḍ,Kodagu,True,False,,,,,,False
+416,1325,1326,Kol,Kolami,False,False,,,,,,False
+416,1325,1326,Kol,Kolami,True,False,,,,,,False
+416,1325,1326,Nk,Naikri,False,False,,,,,,False
+416,1325,1326,Nk,Naikri,True,False,,,,,,False
+416,1325,1326,Pa,Parji,False,False,,,,,,False
+416,1325,1326,Pa,Parji,True,False,,,,,,False
+416,1325,1326,Ga,Gadaba,False,False,,,,,,False
+416,1325,1326,Ga,Gadaba,True,False,,,,,,False
+416,1325,1326,Go,Gondi,False,False,,,,,,False
+416,1325,1326,Go,Gondi,True,False,,,,,,False
+416,1325,1326,Konḍa,Konda,False,False,,,,,,False
+416,1325,1326,Konḍa,Konda,True,False,,,,,,False
+416,1325,1326,Pe,Pengo,False,False,,,,,,False
+416,1325,1326,Pe,Pengo,True,False,,,,,,False
+416,1325,1326,Manḍ,Manda,False,False,,,,,,False
+416,1325,1326,Manḍ,Manda,True,False,,,,,,False
+416,1325,1326,Kui,Kui,False,False,,,,,,False
+416,1325,1326,Kui,Kui,True,False,,,,,,False
+416,1325,1326,Kuwi,Kuwi,False,False,,,,,,False
+416,1325,1326,Kuwi,Kuwi,True,False,,,,,,False
+416,1325,1326,Kur,Kurukh,False,False,,,,,,False
+416,1325,1326,Kur,Kurukh,True,False,,,,,,False
+416,1325,1326,Malt,Malto,False,False,,,,,,False
+416,1325,1326,Malt,Malto,True,False,,,,,,False
+416,1325,1326,Br,Brahui,False,False,,,,,,False
+416,1325,1326,Br,Brahui,True,False,,,,,,False
+416,4663,4802,Ta,Tamil,False,True,maṭṭai,māṭṭal,"leaf-stalk of a fern or palm, stem of plantain",a woman's ornament.,0.3333333333333333,False
+416,4663,4802,Ta,Tamil,True,True,maṭṭai,māṭṭal,"leaf-stalk of a fern or palm, stem of plantain",a woman's ornament.,0.16666666666666666,False
+416,4663,4802,Ma,Malayalam,False,True,maṭṭa,māṭṭuka,palm branch,"to hook in, fix in.",0.42857142857142855,False
+416,4663,4802,Ma,Malayalam,True,True,maṭṭa,māṭṭuka,palm branch,"to hook in, fix in.",0.2857142857142857,False
+416,4663,4802,Ka,Kannada,False,False,,,,,,False
+416,4663,4802,Ka,Kannada,True,False,,,,,,False
+416,4663,4802,Te,Telugu,False,True,maṭṭa,māṭu,"branch or bough of any palm tree, leaf of the aloe, cabbage, or of similar plants, a young palm tree.",a patch of metal put in to mend a vessel,0.6,False
+416,4663,4802,Te,Telugu,True,True,maṭṭa,māṭu,"branch or bough of any palm tree, leaf of the aloe, cabbage, or of similar plants, a young palm tree.",a patch of metal put in to mend a vessel,0.4,False
+416,4663,4802,Tu,Tulu,False,False,,,,,,False
+416,4663,4802,Tu,Tulu,True,False,,,,,,False
+416,4663,4802,Ko,Kota,False,False,,,,,,False
+416,4663,4802,Ko,Kota,True,False,,,,,,False
+416,4663,4802,To,Toda,False,False,,,,,,False
+416,4663,4802,To,Toda,True,False,,,,,,False
+416,4663,4802,Koḍ,Kodagu,False,False,,,,,,False
+416,4663,4802,Koḍ,Kodagu,True,False,,,,,,False
+416,4663,4802,Kol,Kolami,False,False,,,,,,False
+416,4663,4802,Kol,Kolami,True,False,,,,,,False
+416,4663,4802,Nk,Naikri,False,False,,,,,,False
+416,4663,4802,Nk,Naikri,True,False,,,,,,False
+416,4663,4802,Pa,Parji,False,False,,,,,,False
+416,4663,4802,Pa,Parji,True,False,,,,,,False
+416,4663,4802,Ga,Gadaba,False,False,,,,,,False
+416,4663,4802,Ga,Gadaba,True,False,,,,,,False
+416,4663,4802,Go,Gondi,False,False,,,,,,False
+416,4663,4802,Go,Gondi,True,False,,,,,,False
+416,4663,4802,Konḍa,Konda,False,False,,,,,,False
+416,4663,4802,Konḍa,Konda,True,False,,,,,,False
+416,4663,4802,Pe,Pengo,False,False,,,,,,False
+416,4663,4802,Pe,Pengo,True,False,,,,,,False
+416,4663,4802,Manḍ,Manda,False,False,,,,,,False
+416,4663,4802,Manḍ,Manda,True,False,,,,,,False
+416,4663,4802,Kui,Kui,False,False,,,,,,False
+416,4663,4802,Kui,Kui,True,False,,,,,,False
+416,4663,4802,Kuwi,Kuwi,False,False,,,,,,False
+416,4663,4802,Kuwi,Kuwi,True,False,,,,,,False
+416,4663,4802,Kur,Kurukh,False,False,,,,,,False
+416,4663,4802,Kur,Kurukh,True,False,,,,,,False
+416,4663,4802,Malt,Malto,False,False,,,,,,False
+416,4663,4802,Malt,Malto,True,False,,,,,,False
+416,4663,4802,Br,Brahui,False,False,,,,,,False
+416,4663,4802,Br,Brahui,True,False,,,,,,False
+142,2237,2133,Ta,Tamil,False,True,kōl,kol,"stick, staff, branch, arrow.","working in iron, blacksmith",0.3333333333333333,False
+142,2237,2133,Ta,Tamil,True,True,kōl,kol,"stick, staff, branch, arrow.","working in iron, blacksmith",0.0,True
+142,2237,2133,Ma,Malayalam,False,True,kōl,kollan,"staff, rod, stick, arrow.","blacksmith, artificer.",0.6666666666666666,False
+142,2237,2133,Ma,Malayalam,True,True,kōl,kollan,"staff, rod, stick, arrow.","blacksmith, artificer.",0.5,False
+142,2237,2133,Ka,Kannada,False,True,kōlu,kolume,"stick, staff, arrow.","firepit, furnace",0.5,False
+142,2237,2133,Ka,Kannada,True,True,kōlu,kolume,"stick, staff, arrow.","firepit, furnace",0.3333333333333333,False
+142,2237,2133,Te,Telugu,False,True,kōlani,kolimi,elongated.,furnace.,0.5,False
+142,2237,2133,Te,Telugu,True,True,kōlani,kolimi,elongated.,furnace.,0.3333333333333333,False
+142,2237,2133,Tu,Tulu,False,False,,,,,,False
+142,2237,2133,Tu,Tulu,True,False,,,,,,False
+142,2237,2133,Ko,Kota,False,True,ko·l,kole·l,"stick, story of funeral car.","smithy, temple in Kota village.",0.6,False
+142,2237,2133,Ko,Kota,True,True,ko·l,kole·l,"stick, story of funeral car.","smithy, temple in Kota village.",0.4,False
+142,2237,2133,To,Toda,False,True,kwï·s̱,kwala·l,stick.,Kota smithy.,0.6666666666666666,False
+142,2237,2133,To,Toda,True,True,kwï·s̱,kwala·l,stick.,Kota smithy.,0.6666666666666666,False
+142,2237,2133,Koḍ,Kodagu,False,True,ko·lï,kollë,stick.,blacksmith.,0.6,False
+142,2237,2133,Koḍ,Kodagu,True,True,ko·lï,kollë,stick.,blacksmith.,0.4,False
+142,2237,2133,Kol,Kolami,False,False,,,,,,False
+142,2237,2133,Kol,Kolami,True,False,,,,,,False
+142,2237,2133,Nk,Naikri,False,False,,,,,,False
+142,2237,2133,Nk,Naikri,True,False,,,,,,False
+142,2237,2133,Pa,Parji,False,False,,,,,,False
+142,2237,2133,Pa,Parji,True,False,,,,,,False
+142,2237,2133,Ga,Gadaba,False,False,,,,,,False
+142,2237,2133,Ga,Gadaba,True,False,,,,,,False
+142,2237,2133,Go,Gondi,False,True,kola,kolmi,the handle of an implement.,smithy .,0.4,False
+142,2237,2133,Go,Gondi,True,True,kōla,kolmi,shaft of arrow.,smithy .,0.4,False
+142,2237,2133,Konḍa,Konda,False,False,,,,,,False
+142,2237,2133,Konḍa,Konda,True,False,,,,,,False
+142,2237,2133,Pe,Pengo,False,False,,,,,,False
+142,2237,2133,Pe,Pengo,True,False,,,,,,False
+142,2237,2133,Manḍ,Manda,False,False,,,,,,False
+142,2237,2133,Manḍ,Manda,True,False,,,,,,False
+142,2237,2133,Kui,Kui,False,False,,,,,,False
+142,2237,2133,Kui,Kui,True,False,,,,,,False
+142,2237,2133,Kuwi,Kuwi,False,True,kōlū,kolhali,", kōlu id. Cf. 2240",to forge.,0.7142857142857143,False
+142,2237,2133,Kuwi,Kuwi,True,True,kōlū,kolhali,", kōlu id. Cf. 2240",to forge.,0.5714285714285714,False
+142,2237,2133,Kur,Kurukh,False,False,,,,,,False
+142,2237,2133,Kur,Kurukh,True,False,,,,,,False
+142,2237,2133,Malt,Malto,False,False,,,,,,False
+142,2237,2133,Malt,Malto,True,False,,,,,,False
+142,2237,2133,Br,Brahui,False,False,,,,,,False
+142,2237,2133,Br,Brahui,True,False,,,,,,False
+142,1454,1241,Ta,Tamil,False,True,kāmpu,kampi,"flower-stalk, flowering branch, handle, shaft, haft.","wire of gold, silver, iron or other metal",0.4,False
+142,1454,1241,Ta,Tamil,True,True,kāmpu,kampi,"flower-stalk, flowering branch, handle, shaft, haft.","wire of gold, silver, iron or other metal",0.2,False
+142,1454,1241,Ma,Malayalam,False,True,kāmpu,kampi,"stem, stalk, stick of umbrella.",wire of lute,0.4,False
+142,1454,1241,Ma,Malayalam,True,True,kāmpu,kampi,"stem, stalk, stick of umbrella.",wire of lute,0.2,False
+142,1454,1241,Ka,Kannada,False,True,kāmu,kambi,"stalk, culm, stem, handle.",wire,0.6,False
+142,1454,1241,Ka,Kannada,True,True,kāmu,kambi,"stalk, culm, stem, handle.",wire,0.4,False
+142,1454,1241,Te,Telugu,False,True,kāma,kambi,"stem, stalk, stick, handle , shaft.",wire,0.6,False
+142,1454,1241,Te,Telugu,True,True,kāma,kambi,"stem, stalk, stick, handle , shaft.",wire,0.4,False
+142,1454,1241,Tu,Tulu,False,False,,,,,,False
+142,1454,1241,Tu,Tulu,True,False,,,,,,False
+142,1454,1241,Ko,Kota,False,False,,,,,,False
+142,1454,1241,Ko,Kota,True,False,,,,,,False
+142,1454,1241,To,Toda,False,False,,,,,,False
+142,1454,1241,To,Toda,True,False,,,,,,False
+142,1454,1241,Koḍ,Kodagu,False,False,,,,,,False
+142,1454,1241,Koḍ,Kodagu,True,False,,,,,,False
+142,1454,1241,Kol,Kolami,False,False,,,,,,False
+142,1454,1241,Kol,Kolami,True,False,,,,,,False
+142,1454,1241,Nk,Naikri,False,False,,,,,,False
+142,1454,1241,Nk,Naikri,True,False,,,,,,False
+142,1454,1241,Pa,Parji,False,False,,,,,,False
+142,1454,1241,Pa,Parji,True,False,,,,,,False
+142,1454,1241,Ga,Gadaba,False,False,,,,,,False
+142,1454,1241,Ga,Gadaba,True,False,,,,,,False
+142,1454,1241,Go,Gondi,False,False,,,,,,False
+142,1454,1241,Go,Gondi,True,False,,,,,,False
+142,1454,1241,Konḍa,Konda,False,False,,,,,,False
+142,1454,1241,Konḍa,Konda,True,False,,,,,,False
+142,1454,1241,Pe,Pengo,False,False,,,,,,False
+142,1454,1241,Pe,Pengo,True,False,,,,,,False
+142,1454,1241,Manḍ,Manda,False,False,,,,,,False
+142,1454,1241,Manḍ,Manda,True,False,,,,,,False
+142,1454,1241,Kui,Kui,False,False,,,,,,False
+142,1454,1241,Kui,Kui,True,False,,,,,,False
+142,1454,1241,Kuwi,Kuwi,False,False,,,,,,False
+142,1454,1241,Kuwi,Kuwi,True,False,,,,,,False
+142,1454,1241,Kur,Kurukh,False,False,,,,,,False
+142,1454,1241,Kur,Kurukh,True,False,,,,,,False
+142,1454,1241,Malt,Malto,False,False,,,,,,False
+142,1454,1241,Malt,Malto,True,False,,,,,,False
+142,1454,1241,Br,Brahui,False,False,,,,,,False
+142,1454,1241,Br,Brahui,True,False,,,,,,False
+595,5263,5266,Ta,Tamil,False,True,vari,vari,"to write, paint, draw","tax, impost, duty, toll, contribution.",0.0,True
+595,5263,5266,Ta,Tamil,True,True,vari,vari,"to write, paint, draw","tax, impost, duty, toll, contribution.",0.0,True
+595,5263,5266,Ma,Malayalam,False,True,vari,vari,"line, rule, row.","tax, levy, contribution.",0.0,True
+595,5263,5266,Ma,Malayalam,True,True,vari,vari,"line, rule, row.","tax, levy, contribution.",0.0,True
+595,5263,5266,Ka,Kannada,False,False,,,,,,False
+595,5263,5266,Ka,Kannada,True,False,,,,,,False
+595,5263,5266,Te,Telugu,False,True,variyu,vari,to test metal on the touchstone,tax.,0.3333333333333333,False
+595,5263,5266,Te,Telugu,True,True,variyu,vari,to test metal on the touchstone,tax.,0.3333333333333333,False
+595,5263,5266,Tu,Tulu,False,False,,,,,,False
+595,5263,5266,Tu,Tulu,True,False,,,,,,False
+595,5263,5266,Ko,Kota,False,True,varv-,vary,to write,"tax paid to government or to Kurumbas, tax paid by Badaga to Kota.",0.25,False
+595,5263,5266,Ko,Kota,True,True,varv-,vary,to write,"tax paid to government or to Kurumbas, tax paid by Badaga to Kota.",0.25,False
+595,5263,5266,To,Toda,False,False,,,,,,False
+595,5263,5266,To,Toda,True,False,,,,,,False
+595,5263,5266,Koḍ,Kodagu,False,False,,,,,,False
+595,5263,5266,Koḍ,Kodagu,True,False,,,,,,False
+595,5263,5266,Kol,Kolami,False,False,,,,,,False
+595,5263,5266,Kol,Kolami,True,False,,,,,,False
+595,5263,5266,Nk,Naikri,False,False,,,,,,False
+595,5263,5266,Nk,Naikri,True,False,,,,,,False
+595,5263,5266,Pa,Parji,False,False,,,,,,False
+595,5263,5266,Pa,Parji,True,False,,,,,,False
+595,5263,5266,Ga,Gadaba,False,False,,,,,,False
+595,5263,5266,Ga,Gadaba,True,False,,,,,,False
+595,5263,5266,Go,Gondi,False,False,,,,,,False
+595,5263,5266,Go,Gondi,True,False,,,,,,False
+595,5263,5266,Konḍa,Konda,False,False,,,,,,False
+595,5263,5266,Konḍa,Konda,True,False,,,,,,False
+595,5263,5266,Pe,Pengo,False,False,,,,,,False
+595,5263,5266,Pe,Pengo,True,False,,,,,,False
+595,5263,5266,Manḍ,Manda,False,False,,,,,,False
+595,5263,5266,Manḍ,Manda,True,False,,,,,,False
+595,5263,5266,Kui,Kui,False,False,,,,,,False
+595,5263,5266,Kui,Kui,True,False,,,,,,False
+595,5263,5266,Kuwi,Kuwi,False,False,,,,,,False
+595,5263,5266,Kuwi,Kuwi,True,False,,,,,,False
+595,5263,5266,Kur,Kurukh,False,False,,,,,,False
+595,5263,5266,Kur,Kurukh,True,False,,,,,,False
+595,5263,5266,Malt,Malto,False,False,,,,,,False
+595,5263,5266,Malt,Malto,True,False,,,,,,False
+595,5263,5266,Br,Brahui,False,False,,,,,,False
+595,5263,5266,Br,Brahui,True,False,,,,,,False
+384,1884,1655,Ta,Tamil,False,True,kūṭai,kuṭi,"basket made of rattan, ola, or bamboo, palm-leaf rain-covering","house, abode, home, family, lineage, town, tenants",0.4,False
+384,1884,1655,Ta,Tamil,True,True,kūṭai,kuṭi,"basket made of rattan, ola, or bamboo, palm-leaf rain-covering","house, abode, home, family, lineage, town, tenants",0.2,False
+384,1884,1655,Ma,Malayalam,False,True,kūṭa,kuṭi,basket for catching fish.,"house, hut, family, wife, tribe",0.5,False
+384,1884,1655,Ma,Malayalam,True,True,kūṭa,kuṭi,basket for catching fish.,"house, hut, family, wife, tribe",0.25,False
+384,1884,1655,Ka,Kannada,False,True,gūḍe,guḍi,"basket, basket used as a bucket","house, temple",0.5,False
+384,1884,1655,Ka,Kannada,True,True,gūḍe,guḍi,"basket, basket used as a bucket","house, temple",0.25,False
+384,1884,1655,Te,Telugu,False,True,gūḍa,guḍi,"triangular basket used as a bucket, flower-basket, mat hood or head-covering against rain.",temple,0.5,False
+384,1884,1655,Te,Telugu,True,True,gūḍa,guḍi,"triangular basket used as a bucket, flower-basket, mat hood or head-covering against rain.",temple,0.25,False
+384,1884,1655,Tu,Tulu,False,True,gūḍè,guḍi,a kind of basket.,small pagoda or shrine,0.5,False
+384,1884,1655,Tu,Tulu,True,True,gūḍè,guḍi,a kind of basket.,small pagoda or shrine,0.25,False
+384,1884,1655,Ko,Kota,False,True,ku·ṛ,kuṛm,"winnowing basket, a winnowing-basket of grain.",family,0.5,False
+384,1884,1655,Ko,Kota,True,True,ku·ṛ,kuṛm,"winnowing basket, a winnowing-basket of grain.",family,0.25,False
+384,1884,1655,To,Toda,False,True,ku·ṛ,kuṛy,"contribution of a measure of grain, given by each Badaga house to Toda.",Hindu temple,0.5,False
+384,1884,1655,To,Toda,True,True,ku·ṛ,kuṛy,"contribution of a measure of grain, given by each Badaga house to Toda.",Hindu temple,0.25,False
+384,1884,1655,Koḍ,Kodagu,False,True,ku·ṭe,kuḍi,basket.,family of servants living in one hut,0.75,False
+384,1884,1655,Koḍ,Kodagu,True,True,ku·ṭe,kuḍi,basket.,family of servants living in one hut,0.5,False
+384,1884,1655,Kol,Kolami,False,False,,,,,,False
+384,1884,1655,Kol,Kolami,True,False,,,,,,False
+384,1884,1655,Nk,Naikri,False,False,,,,,,False
+384,1884,1655,Nk,Naikri,True,False,,,,,,False
+384,1884,1655,Pa,Parji,False,False,,,,,,False
+384,1884,1655,Pa,Parji,True,False,,,,,,False
+384,1884,1655,Ga,Gadaba,False,False,,,,,,False
+384,1884,1655,Ga,Gadaba,True,False,,,,,,False
+384,1884,1655,Go,Gondi,False,True,gulla,kuṛma,"big basket, basket .","hut, outhouse",0.6,False
+384,1884,1655,Go,Gondi,True,True,gūlā,guḍi,basket,", guḍḍi , guṛi temple",0.5,False
+384,1884,1655,Konḍa,Konda,False,False,,,,,,False
+384,1884,1655,Konḍa,Konda,True,False,,,,,,False
+384,1884,1655,Pe,Pengo,False,False,,,,,,False
+384,1884,1655,Pe,Pengo,True,False,,,,,,False
+384,1884,1655,Manḍ,Manda,False,False,,,,,,False
+384,1884,1655,Manḍ,Manda,True,False,,,,,,False
+384,1884,1655,Kui,Kui,False,False,,,,,,False
+384,1884,1655,Kui,Kui,True,False,,,,,,False
+384,1884,1655,Kuwi,Kuwi,False,False,,,,,,False
+384,1884,1655,Kuwi,Kuwi,True,False,,,,,,False
+384,1884,1655,Kur,Kurukh,False,False,,,,,,False
+384,1884,1655,Kur,Kurukh,True,False,,,,,,False
+384,1884,1655,Malt,Malto,False,False,,,,,,False
+384,1884,1655,Malt,Malto,True,False,,,,,,False
+384,1884,1655,Br,Brahui,False,False,,,,,,False
+384,1884,1655,Br,Brahui,True,False,,,,,,False
+350,3485,3546,Ta,Tamil,False,True,toṭṭi,tōṭṭi,"fence, yard, pound, enclosure for selling timber or firewood, small village.","menial servant of a village, scavenger",0.2,False
+350,3485,3546,Ta,Tamil,True,True,toṭṭi,tōṭṭi,"fence, yard, pound, enclosure for selling timber or firewood, small village.","menial servant of a village, scavenger",0.0,True
+350,3485,3546,Ma,Malayalam,False,True,toṭṭi,tōṭṭi,"long narrow garden, loft in a house",sweeper,0.2,False
+350,3485,3546,Ma,Malayalam,True,True,toṭṭi,tōṭṭi,"long narrow garden, loft in a house",sweeper,0.0,True
+350,3485,3546,Ka,Kannada,False,True,toṭṭi,tōṭi,"building with a square open court at the centre, the court itself","an inferior village servant, esp. one who performs the lowest offices, a sweeper, scavenger.",0.4,False
+350,3485,3546,Ka,Kannada,True,True,toṭṭi,tōṭi,"building with a square open court at the centre, the court itself","an inferior village servant, esp. one who performs the lowest offices, a sweeper, scavenger.",0.2,False
+350,3485,3546,Te,Telugu,False,True,doḍḍi,tōṭi,"backyard, stable for cattle.",a pariah.,0.8,False
+350,3485,3546,Te,Telugu,True,True,doḍḍi,tōṭi,"backyard, stable for cattle.",a pariah.,0.6,False
+350,3485,3546,Tu,Tulu,False,True,duḍḍi,tōṭi,cattle-pound.,"scavenger, sweeper.",0.8,False
+350,3485,3546,Tu,Tulu,True,True,duḍḍi,tōṭi,cattle-pound.,"scavenger, sweeper.",0.8,False
+350,3485,3546,Ko,Kota,False,False,,,,,,False
+350,3485,3546,Ko,Kota,True,False,,,,,,False
+350,3485,3546,To,Toda,False,False,,,,,,False
+350,3485,3546,To,Toda,True,False,,,,,,False
+350,3485,3546,Koḍ,Kodagu,False,True,toḍia,to·ṭi,small garden adjoining a house.,scavenger,0.6,False
+350,3485,3546,Koḍ,Kodagu,True,True,toḍia,to·ṭi,small garden adjoining a house.,scavenger,0.4,False
+350,3485,3546,Kol,Kolami,False,False,,,,,,False
+350,3485,3546,Kol,Kolami,True,False,,,,,,False
+350,3485,3546,Nk,Naikri,False,False,,,,,,False
+350,3485,3546,Nk,Naikri,True,False,,,,,,False
+350,3485,3546,Pa,Parji,False,False,,,,,,False
+350,3485,3546,Pa,Parji,True,False,,,,,,False
+350,3485,3546,Ga,Gadaba,False,False,,,,,,False
+350,3485,3546,Ga,Gadaba,True,False,,,,,,False
+350,3485,3546,Go,Gondi,False,False,,,,,,False
+350,3485,3546,Go,Gondi,True,False,,,,,,False
+350,3485,3546,Konḍa,Konda,False,False,,,,,,False
+350,3485,3546,Konḍa,Konda,True,False,,,,,,False
+350,3485,3546,Pe,Pengo,False,False,,,,,,False
+350,3485,3546,Pe,Pengo,True,False,,,,,,False
+350,3485,3546,Manḍ,Manda,False,False,,,,,,False
+350,3485,3546,Manḍ,Manda,True,False,,,,,,False
+350,3485,3546,Kui,Kui,False,False,,,,,,False
+350,3485,3546,Kui,Kui,True,False,,,,,,False
+350,3485,3546,Kuwi,Kuwi,False,False,,,,,,False
+350,3485,3546,Kuwi,Kuwi,True,False,,,,,,False
+350,3485,3546,Kur,Kurukh,False,False,,,,,,False
+350,3485,3546,Kur,Kurukh,True,False,,,,,,False
+350,3485,3546,Malt,Malto,False,False,,,,,,False
+350,3485,3546,Malt,Malto,True,False,,,,,,False
+350,3485,3546,Br,Brahui,False,False,,,,,,False
+350,3485,3546,Br,Brahui,True,False,,,,,,False
+460,1353,1184,Ta,Tamil,False,True,kaṇṇi,kaṇṇi,"seedling bamboo, bamboo sapling. Cf. 1185","wreath, garland, neckrope for bullock, rope",0.0,True
+460,1353,1184,Ta,Tamil,True,True,kaṇṇi,kaṇṇi,"seedling bamboo, bamboo sapling. Cf. 1185","wreath, garland, neckrope for bullock, rope",0.0,True
+460,1353,1184,Ma,Malayalam,False,False,,,,,,False
+460,1353,1184,Ma,Malayalam,True,False,,,,,,False
+460,1353,1184,Ka,Kannada,False,True,kar̤ale,kaṇṇi,bamboo shoot.,"rope, cord, neckrope. ?",0.6666666666666666,False
+460,1353,1184,Ka,Kannada,True,True,kar̤ale,kaṇṇi,bamboo shoot.,"rope, cord, neckrope. ?",0.6666666666666666,False
+460,1353,1184,Te,Telugu,False,False,,,,,,False
+460,1353,1184,Te,Telugu,True,False,,,,,,False
+460,1353,1184,Tu,Tulu,False,True,kaṇile,kaṇṇi,tender bamboo shoot.,fibre.,0.5,False
+460,1353,1184,Tu,Tulu,True,True,kaṇile,kaṇṇi,tender bamboo shoot.,fibre.,0.5,False
+460,1353,1184,Ko,Kota,False,False,,,,,,False
+460,1353,1184,Ko,Kota,True,False,,,,,,False
+460,1353,1184,To,Toda,False,False,,,,,,False
+460,1353,1184,To,Toda,True,False,,,,,,False
+460,1353,1184,Koḍ,Kodagu,False,False,,,,,,False
+460,1353,1184,Koḍ,Kodagu,True,False,,,,,,False
+460,1353,1184,Kol,Kolami,False,False,,,,,,False
+460,1353,1184,Kol,Kolami,True,False,,,,,,False
+460,1353,1184,Nk,Naikri,False,False,,,,,,False
+460,1353,1184,Nk,Naikri,True,False,,,,,,False
+460,1353,1184,Pa,Parji,False,False,,,,,,False
+460,1353,1184,Pa,Parji,True,False,,,,,,False
+460,1353,1184,Ga,Gadaba,False,False,,,,,,False
+460,1353,1184,Ga,Gadaba,True,False,,,,,,False
+460,1353,1184,Go,Gondi,False,False,,,,,,False
+460,1353,1184,Go,Gondi,True,False,,,,,,False
+460,1353,1184,Konḍa,Konda,False,False,,,,,,False
+460,1353,1184,Konḍa,Konda,True,False,,,,,,False
+460,1353,1184,Pe,Pengo,False,False,,,,,,False
+460,1353,1184,Pe,Pengo,True,False,,,,,,False
+460,1353,1184,Manḍ,Manda,False,False,,,,,,False
+460,1353,1184,Manḍ,Manda,True,False,,,,,,False
+460,1353,1184,Kui,Kui,False,False,,,,,,False
+460,1353,1184,Kui,Kui,True,False,,,,,,False
+460,1353,1184,Kuwi,Kuwi,False,False,,,,,,False
+460,1353,1184,Kuwi,Kuwi,True,False,,,,,,False
+460,1353,1184,Kur,Kurukh,False,False,,,,,,False
+460,1353,1184,Kur,Kurukh,True,False,,,,,,False
+460,1353,1184,Malt,Malto,False,False,,,,,,False
+460,1353,1184,Malt,Malto,True,False,,,,,,False
+460,1353,1184,Br,Brahui,False,False,,,,,,False
+460,1353,1184,Br,Brahui,True,False,,,,,,False
+482,2178,2177,Ta,Tamil,False,True,kō,kō,mountain.,"emperor, king, great man, leadership",0.0,True
+482,2178,2177,Ta,Tamil,True,True,kō,kō,mountain.,"emperor, king, great man, leadership",0.0,True
+482,2178,2177,Ma,Malayalam,False,False,,,,,,False
+482,2178,2177,Ma,Malayalam,True,False,,,,,,False
+482,2178,2177,Ka,Kannada,False,False,,,,,,False
+482,2178,2177,Ka,Kannada,True,False,,,,,,False
+482,2178,2177,Te,Telugu,False,True,kōya,kōyila,name of a certain tribe of mountaineers.,temple.,0.3333333333333333,False
+482,2178,2177,Te,Telugu,True,True,kōya,kōyila,name of a certain tribe of mountaineers.,temple.,0.3333333333333333,False
+482,2178,2177,Tu,Tulu,False,False,,,,,,False
+482,2178,2177,Tu,Tulu,True,False,,,,,,False
+482,2178,2177,Ko,Kota,False,False,,,,,,False
+482,2178,2177,Ko,Kota,True,False,,,,,,False
+482,2178,2177,To,Toda,False,False,,,,,,False
+482,2178,2177,To,Toda,True,False,,,,,,False
+482,2178,2177,Koḍ,Kodagu,False,False,,,,,,False
+482,2178,2177,Koḍ,Kodagu,True,False,,,,,,False
+482,2178,2177,Kol,Kolami,False,False,,,,,,False
+482,2178,2177,Kol,Kolami,True,False,,,,,,False
+482,2178,2177,Nk,Naikri,False,False,,,,,,False
+482,2178,2177,Nk,Naikri,True,False,,,,,,False
+482,2178,2177,Pa,Parji,False,False,,,,,,False
+482,2178,2177,Pa,Parji,True,False,,,,,,False
+482,2178,2177,Ga,Gadaba,False,False,,,,,,False
+482,2178,2177,Ga,Gadaba,True,False,,,,,,False
+482,2178,2177,Go,Gondi,False,False,,,,,,False
+482,2178,2177,Go,Gondi,True,False,,,,,,False
+482,2178,2177,Konḍa,Konda,False,False,,,,,,False
+482,2178,2177,Konḍa,Konda,True,False,,,,,,False
+482,2178,2177,Pe,Pengo,False,False,,,,,,False
+482,2178,2177,Pe,Pengo,True,False,,,,,,False
+482,2178,2177,Manḍ,Manda,False,False,,,,,,False
+482,2178,2177,Manḍ,Manda,True,False,,,,,,False
+482,2178,2177,Kui,Kui,False,False,,,,,,False
+482,2178,2177,Kui,Kui,True,False,,,,,,False
+482,2178,2177,Kuwi,Kuwi,False,False,,,,,,False
+482,2178,2177,Kuwi,Kuwi,True,False,,,,,,False
+482,2178,2177,Kur,Kurukh,False,False,,,,,,False
+482,2178,2177,Kur,Kurukh,True,False,,,,,,False
+482,2178,2177,Malt,Malto,False,False,,,,,,False
+482,2178,2177,Malt,Malto,True,False,,,,,,False
+482,2178,2177,Br,Brahui,False,False,,,,,,False
+482,2178,2177,Br,Brahui,True,False,,,,,,False
+482,5552,5549,Ta,Tamil,False,True,vai,vai,"sharpness, keenness, point","to put, place, seat, lay by, store up, possess, keep, create set up",0.0,True
+482,5552,5549,Ta,Tamil,True,True,vai,vai,"sharpness, keenness, point","to put, place, seat, lay by, store up, possess, keep, create set up",0.0,True
+482,5552,5549,Ma,Malayalam,False,False,,,,,,False
+482,5552,5549,Ma,Malayalam,True,False,,,,,,False
+482,5552,5549,Ka,Kannada,False,True,base,bayke,small pointed object that sticks in the ground.,"deposit, treasure, hoard",0.4,False
+482,5552,5549,Ka,Kannada,True,True,base,bayke,small pointed object that sticks in the ground.,"deposit, treasure, hoard",0.4,False
+482,5552,5549,Te,Telugu,False,True,vasi,vaicu,"nail, thorn.",", vayicu , vēyu to place, put.",0.6,False
+482,5552,5549,Te,Telugu,True,True,vasi,vaicu,"nail, thorn.",", vayicu , vēyu to place, put.",0.6,False
+482,5552,5549,Tu,Tulu,False,False,,,,,,False
+482,5552,5549,Tu,Tulu,True,False,,,,,,False
+482,5552,5549,Ko,Kota,False,True,vac,vay-,pointed stick .,"to keep, place",0.3333333333333333,False
+482,5552,5549,Ko,Kota,True,True,vac,vay-,pointed stick .,"to keep, place",0.3333333333333333,False
+482,5552,5549,To,Toda,False,False,,,,,,False
+482,5552,5549,To,Toda,True,False,,,,,,False
+482,5552,5549,Koḍ,Kodagu,False,False,,,,,,False
+482,5552,5549,Koḍ,Kodagu,True,False,,,,,,False
+482,5552,5549,Kol,Kolami,False,False,,,,,,False
+482,5552,5549,Kol,Kolami,True,False,,,,,,False
+482,5552,5549,Nk,Naikri,False,False,,,,,,False
+482,5552,5549,Nk,Naikri,True,False,,,,,,False
+482,5552,5549,Pa,Parji,False,False,,,,,,False
+482,5552,5549,Pa,Parji,True,False,,,,,,False
+482,5552,5549,Ga,Gadaba,False,False,,,,,,False
+482,5552,5549,Ga,Gadaba,True,False,,,,,,False
+482,5552,5549,Go,Gondi,False,False,,,,,,False
+482,5552,5549,Go,Gondi,True,False,,,,,,False
+482,5552,5549,Konḍa,Konda,False,False,,,,,,False
+482,5552,5549,Konḍa,Konda,True,False,,,,,,False
+482,5552,5549,Pe,Pengo,False,False,,,,,,False
+482,5552,5549,Pe,Pengo,True,False,,,,,,False
+482,5552,5549,Manḍ,Manda,False,False,,,,,,False
+482,5552,5549,Manḍ,Manda,True,False,,,,,,False
+482,5552,5549,Kui,Kui,False,False,,,,,,False
+482,5552,5549,Kui,Kui,True,False,,,,,,False
+482,5552,5549,Kuwi,Kuwi,False,False,,,,,,False
+482,5552,5549,Kuwi,Kuwi,True,False,,,,,,False
+482,5552,5549,Kur,Kurukh,False,False,,,,,,False
+482,5552,5549,Kur,Kurukh,True,False,,,,,,False
+482,5552,5549,Malt,Malto,False,False,,,,,,False
+482,5552,5549,Malt,Malto,True,False,,,,,,False
+482,5552,5549,Br,Brahui,False,False,,,,,,False
+482,5552,5549,Br,Brahui,True,False,,,,,,False
+480,3314,3385,Ta,Tamil,False,True,tuti,tūtai,"point, sharp edge.","small vessel made of earth, a small measure of capacity.",0.4,False
+480,3314,3385,Ta,Tamil,True,True,tuti,tūtai,"point, sharp edge.","small vessel made of earth, a small measure of capacity.",0.2,False
+480,3314,3385,Ma,Malayalam,False,False,,,,,,False
+480,3314,3385,Ma,Malayalam,True,False,,,,,,False
+480,3314,3385,Ka,Kannada,False,False,,,,,,False
+480,3314,3385,Ka,Kannada,True,False,,,,,,False
+480,3314,3385,Te,Telugu,False,True,tuda,dutta,"end, extremity, tip",small earthen pot.,0.6,False
+480,3314,3385,Te,Telugu,True,True,tuda,dutta,"end, extremity, tip",small earthen pot.,0.6,False
+480,3314,3385,Tu,Tulu,False,False,,,,,,False
+480,3314,3385,Tu,Tulu,True,False,,,,,,False
+480,3314,3385,Ko,Kota,False,False,,,,,,False
+480,3314,3385,Ko,Kota,True,False,,,,,,False
+480,3314,3385,To,Toda,False,False,,,,,,False
+480,3314,3385,To,Toda,True,False,,,,,,False
+480,3314,3385,Koḍ,Kodagu,False,False,,,,,,False
+480,3314,3385,Koḍ,Kodagu,True,False,,,,,,False
+480,3314,3385,Kol,Kolami,False,False,,,,,,False
+480,3314,3385,Kol,Kolami,True,False,,,,,,False
+480,3314,3385,Nk,Naikri,False,False,,,,,,False
+480,3314,3385,Nk,Naikri,True,False,,,,,,False
+480,3314,3385,Pa,Parji,False,False,,,,,,False
+480,3314,3385,Pa,Parji,True,False,,,,,,False
+480,3314,3385,Ga,Gadaba,False,False,,,,,,False
+480,3314,3385,Ga,Gadaba,True,False,,,,,,False
+480,3314,3385,Go,Gondi,False,False,,,,,,False
+480,3314,3385,Go,Gondi,True,False,,,,,,False
+480,3314,3385,Konḍa,Konda,False,False,,,,,,False
+480,3314,3385,Konḍa,Konda,True,False,,,,,,False
+480,3314,3385,Pe,Pengo,False,False,,,,,,False
+480,3314,3385,Pe,Pengo,True,False,,,,,,False
+480,3314,3385,Manḍ,Manda,False,False,,,,,,False
+480,3314,3385,Manḍ,Manda,True,False,,,,,,False
+480,3314,3385,Kui,Kui,False,False,,,,,,False
+480,3314,3385,Kui,Kui,True,False,,,,,,False
+480,3314,3385,Kuwi,Kuwi,False,False,,,,,,False
+480,3314,3385,Kuwi,Kuwi,True,False,,,,,,False
+480,3314,3385,Kur,Kurukh,False,False,,,,,,False
+480,3314,3385,Kur,Kurukh,True,False,,,,,,False
+480,3314,3385,Malt,Malto,False,False,,,,,,False
+480,3314,3385,Malt,Malto,True,False,,,,,,False
+480,3314,3385,Br,Brahui,False,False,,,,,,False
+480,3314,3385,Br,Brahui,True,False,,,,,,False
+480,5218,5342,Ta,Tamil,False,True,vaṭa,vaṭi,northern,and 5345,0.25,False
+480,5218,5342,Ta,Tamil,True,True,vāṭai,vaṭi,"north wind, cold wind, wind.",and 5345,0.2,False
+480,5218,5342,Ma,Malayalam,False,True,vāṭa,vāṭuka,wind.,"to become lean, fade, wither, pine away, lose colour",0.3333333333333333,False
+480,5218,5342,Ma,Malayalam,True,True,vaṭakkan,vāṭikka,northern,"to cause to wither, dry",0.25,False
+480,5218,5342,Ka,Kannada,False,True,baḍa,bāḍu,"the north, in the north.","to wither, fade as flowers, die away as shrubs, etc., grow dry as wounds, grow weary or languid, become weak and feeble, pine away, lose colour, be dispirited, downcast or sad",0.5,False
+480,5218,5342,Ka,Kannada,True,True,baḍa,bāḍu,"the north, in the north.","to wither, fade as flowers, die away as shrubs, etc., grow dry as wounds, grow weary or languid, become weak and feeble, pine away, lose colour, be dispirited, downcast or sad",0.25,False
+480,5218,5342,Te,Telugu,False,True,vaḍãkũgoṇḍa,vāḍudala,Himalaya.,fading,0.7272727272727273,False
+480,5218,5342,Te,Telugu,True,True,vaḍãkũgoṇḍa,vāḍudala,Himalaya.,fading,0.6363636363636364,False
+480,5218,5342,Tu,Tulu,False,True,baḍakāyi,bāḍaṅkelů,"the north, northern.","withering, leanness, dejection, paleness, decay.",0.5555555555555556,False
+480,5218,5342,Tu,Tulu,True,True,baḍakāyi,bāḍaṅkelů,"the north, northern.","withering, leanness, dejection, paleness, decay.",0.4444444444444444,False
+480,5218,5342,Ko,Kota,False,False,,,,,,False
+480,5218,5342,Ko,Kota,True,False,,,,,,False
+480,5218,5342,To,Toda,False,False,,,,,,False
+480,5218,5342,To,Toda,True,False,,,,,,False
+480,5218,5342,Koḍ,Kodagu,False,True,baḍakï,ba·ḍ-,north.,"to fade, wither, is downcast.",0.6666666666666666,False
+480,5218,5342,Koḍ,Kodagu,True,True,baḍakï,ba·ḍ-,north.,"to fade, wither, is downcast.",0.5,False
+480,5218,5342,Kol,Kolami,False,False,,,,,,False
+480,5218,5342,Kol,Kolami,True,False,,,,,,False
+480,5218,5342,Nk,Naikri,False,False,,,,,,False
+480,5218,5342,Nk,Naikri,True,False,,,,,,False
+480,5218,5342,Pa,Parji,False,False,,,,,,False
+480,5218,5342,Pa,Parji,True,False,,,,,,False
+480,5218,5342,Ga,Gadaba,False,False,,,,,,False
+480,5218,5342,Ga,Gadaba,True,False,,,,,,False
+480,5218,5342,Go,Gondi,False,False,,,,,,False
+480,5218,5342,Go,Gondi,True,False,,,,,,False
+480,5218,5342,Konḍa,Konda,False,False,,,,,,False
+480,5218,5342,Konḍa,Konda,True,False,,,,,,False
+480,5218,5342,Pe,Pengo,False,False,,,,,,False
+480,5218,5342,Pe,Pengo,True,False,,,,,,False
+480,5218,5342,Manḍ,Manda,False,False,,,,,,False
+480,5218,5342,Manḍ,Manda,True,False,,,,,,False
+480,5218,5342,Kui,Kui,False,False,,,,,,False
+480,5218,5342,Kui,Kui,True,False,,,,,,False
+480,5218,5342,Kuwi,Kuwi,False,False,,,,,,False
+480,5218,5342,Kuwi,Kuwi,True,False,,,,,,False
+480,5218,5342,Kur,Kurukh,False,False,,,,,,False
+480,5218,5342,Kur,Kurukh,True,False,,,,,,False
+480,5218,5342,Malt,Malto,False,False,,,,,,False
+480,5218,5342,Malt,Malto,True,False,,,,,,False
+480,5218,5342,Br,Brahui,False,False,,,,,,False
+480,5218,5342,Br,Brahui,True,False,,,,,,False
+335,2304,2306,Ta,Tamil,False,True,caṭṭa,caṭṭi,"properly, rightly","earthen vessel, pan.",0.2,False
+335,2304,2306,Ta,Tamil,True,True,caṭṭa,caṭṭi,"properly, rightly","earthen vessel, pan.",0.2,False
+335,2304,2306,Ma,Malayalam,False,True,caṭṭam,caṭṭi,"frame as of a door, window, cot","pot, pan.",0.3333333333333333,False
+335,2304,2306,Ma,Malayalam,True,True,caṭṭam,caṭṭi,"frame as of a door, window, cot","pot, pan.",0.3333333333333333,False
+335,2304,2306,Ka,Kannada,False,True,caṭṭa,caṭṭi,"frame of a cart, bedstead, chair, or picture, bottom or platform of a cart, bier",earthen pot or pan,0.2,False
+335,2304,2306,Ka,Kannada,True,True,caṭṭa,caṭṭi,"frame of a cart, bedstead, chair, or picture, bottom or platform of a cart, bier",earthen pot or pan,0.2,False
+335,2304,2306,Te,Telugu,False,True,caṭṭamu,caṭṭi,"a frame, a plan, system, arrangement, law, regulation, rule.",earthen pot with a wide mouth.,0.42857142857142855,False
+335,2304,2306,Te,Telugu,True,True,caṭṭamu,caṭṭi,"a frame, a plan, system, arrangement, law, regulation, rule.",earthen pot with a wide mouth.,0.42857142857142855,False
+335,2304,2306,Tu,Tulu,False,True,caṭṭa,caṭṭi,"a litter, sort of palanquin, bier, window frame.","broad-mouthed spittoon, chamber pot.",0.2,False
+335,2304,2306,Tu,Tulu,True,True,caṭṭa,caṭṭi,"a litter, sort of palanquin, bier, window frame.","broad-mouthed spittoon, chamber pot.",0.2,False
+335,2304,2306,Ko,Kota,False,False,,,,,,False
+335,2304,2306,Ko,Kota,True,False,,,,,,False
+335,2304,2306,To,Toda,False,False,,,,,,False
+335,2304,2306,To,Toda,True,False,,,,,,False
+335,2304,2306,Koḍ,Kodagu,False,False,,,,,,False
+335,2304,2306,Koḍ,Kodagu,True,False,,,,,,False
+335,2304,2306,Kol,Kolami,False,False,,,,,,False
+335,2304,2306,Kol,Kolami,True,False,,,,,,False
+335,2304,2306,Nk,Naikri,False,False,,,,,,False
+335,2304,2306,Nk,Naikri,True,False,,,,,,False
+335,2304,2306,Pa,Parji,False,False,,,,,,False
+335,2304,2306,Pa,Parji,True,False,,,,,,False
+335,2304,2306,Ga,Gadaba,False,False,,,,,,False
+335,2304,2306,Ga,Gadaba,True,False,,,,,,False
+335,2304,2306,Go,Gondi,False,False,,,,,,False
+335,2304,2306,Go,Gondi,True,False,,,,,,False
+335,2304,2306,Konḍa,Konda,False,False,,,,,,False
+335,2304,2306,Konḍa,Konda,True,False,,,,,,False
+335,2304,2306,Pe,Pengo,False,False,,,,,,False
+335,2304,2306,Pe,Pengo,True,False,,,,,,False
+335,2304,2306,Manḍ,Manda,False,False,,,,,,False
+335,2304,2306,Manḍ,Manda,True,False,,,,,,False
+335,2304,2306,Kui,Kui,False,False,,,,,,False
+335,2304,2306,Kui,Kui,True,False,,,,,,False
+335,2304,2306,Kuwi,Kuwi,False,False,,,,,,False
+335,2304,2306,Kuwi,Kuwi,True,False,,,,,,False
+335,2304,2306,Kur,Kurukh,False,False,,,,,,False
+335,2304,2306,Kur,Kurukh,True,False,,,,,,False
+335,2304,2306,Malt,Malto,False,False,,,,,,False
+335,2304,2306,Malt,Malto,True,False,,,,,,False
+335,2304,2306,Br,Brahui,False,False,,,,,,False
+335,2304,2306,Br,Brahui,True,False,,,,,,False
+621,5498,5545,Ta,Tamil,False,True,veḷi,vēḷir,"to be open or public, be vacant, empty","a class of ancient chiefs in the Tamil country, the Cāḷukyas, petty chiefs",0.4,False
+621,5498,5545,Ta,Tamil,True,True,veḷi,vēḷir,"to be open or public, be vacant, empty","a class of ancient chiefs in the Tamil country, the Cāḷukyas, petty chiefs",0.2,False
+621,5498,5545,Ma,Malayalam,False,False,,,,,,False
+621,5498,5545,Ma,Malayalam,True,False,,,,,,False
+621,5498,5545,Ka,Kannada,False,False,,,,,,False
+621,5498,5545,Ka,Kannada,True,False,,,,,,False
+621,5498,5545,Te,Telugu,False,False,,,,,,False
+621,5498,5545,Te,Telugu,True,False,,,,,,False
+621,5498,5545,Tu,Tulu,False,False,,,,,,False
+621,5498,5545,Tu,Tulu,True,False,,,,,,False
+621,5498,5545,Ko,Kota,False,False,,,,,,False
+621,5498,5545,Ko,Kota,True,False,,,,,,False
+621,5498,5545,To,Toda,False,False,,,,,,False
+621,5498,5545,To,Toda,True,False,,,,,,False
+621,5498,5545,Koḍ,Kodagu,False,False,,,,,,False
+621,5498,5545,Koḍ,Kodagu,True,False,,,,,,False
+621,5498,5545,Kol,Kolami,False,False,,,,,,False
+621,5498,5545,Kol,Kolami,True,False,,,,,,False
+621,5498,5545,Nk,Naikri,False,False,,,,,,False
+621,5498,5545,Nk,Naikri,True,False,,,,,,False
+621,5498,5545,Pa,Parji,False,False,,,,,,False
+621,5498,5545,Pa,Parji,True,False,,,,,,False
+621,5498,5545,Ga,Gadaba,False,False,,,,,,False
+621,5498,5545,Ga,Gadaba,True,False,,,,,,False
+621,5498,5545,Go,Gondi,False,False,,,,,,False
+621,5498,5545,Go,Gondi,True,False,,,,,,False
+621,5498,5545,Konḍa,Konda,False,False,,,,,,False
+621,5498,5545,Konḍa,Konda,True,False,,,,,,False
+621,5498,5545,Pe,Pengo,False,False,,,,,,False
+621,5498,5545,Pe,Pengo,True,False,,,,,,False
+621,5498,5545,Manḍ,Manda,False,False,,,,,,False
+621,5498,5545,Manḍ,Manda,True,False,,,,,,False
+621,5498,5545,Kui,Kui,False,False,,,,,,False
+621,5498,5545,Kui,Kui,True,False,,,,,,False
+621,5498,5545,Kuwi,Kuwi,False,False,,,,,,False
+621,5498,5545,Kuwi,Kuwi,True,False,,,,,,False
+621,5498,5545,Kur,Kurukh,False,False,,,,,,False
+621,5498,5545,Kur,Kurukh,True,False,,,,,,False
+621,5498,5545,Malt,Malto,False,False,,,,,,False
+621,5498,5545,Malt,Malto,True,False,,,,,,False
+621,5498,5545,Br,Brahui,False,False,,,,,,False
+621,5498,5545,Br,Brahui,True,False,,,,,,False
+630,1883,1882,Ta,Tamil,False,True,kūṭu,kūṭu,"nest, birdcage, coop, hive, pen, sty, kennel, receptacle for grain, dome, cupola, quiver, sheath, envelope","to come together, join, meet, assemble, combine, become conciliated, be stored up, happen, associate, cohabit, arrive at, be possible, be fit, proper, be achieved",0.0,True
+630,1883,1882,Ta,Tamil,True,True,kūṭu,kūṭu,"nest, birdcage, coop, hive, pen, sty, kennel, receptacle for grain, dome, cupola, quiver, sheath, envelope","to come together, join, meet, assemble, combine, become conciliated, be stored up, happen, associate, cohabit, arrive at, be possible, be fit, proper, be achieved",0.0,True
+630,1883,1882,Ma,Malayalam,False,True,kūṭu,kūṭṭu,"receptacle, nest, cage.","joining, fellowship, mixture, agreement",0.2,False
+630,1883,1882,Ma,Malayalam,True,True,kūṭu,kūṭṭu,"receptacle, nest, cage.","joining, fellowship, mixture, agreement",0.2,False
+630,1883,1882,Ka,Kannada,False,True,gūḍu,kūḍu,"nest, dove-cot, fowl-house, lodging, trap for catching wild animals, cage, pit of the stomach, hollow in bones.","to join , unite, come together, be endowed with, be possible, be fit, take place, have sexual intercourse, add",0.25,False
+630,1883,1882,Ka,Kannada,True,True,gūḍu,kūḍu,"nest, dove-cot, fowl-house, lodging, trap for catching wild animals, cage, pit of the stomach, hollow in bones.","to join , unite, come together, be endowed with, be possible, be fit, take place, have sexual intercourse, add",0.25,False
+630,1883,1882,Te,Telugu,False,True,gū̃ḍu,kūḍu,"nest, cage, niche in the wall, sheath.","to meet , join, associate with, copulate with, add together",0.4,False
+630,1883,1882,Te,Telugu,True,True,gū̃ḍu,kūḍu,"nest, cage, niche in the wall, sheath.","to meet , join, associate with, copulate with, add together",0.4,False
+630,1883,1882,Tu,Tulu,False,True,gūḍu,kūḍuni,"nest, cocoon, bird-cage, hollow","to join , unite, copulate, embrace, adopt",0.5,False
+630,1883,1882,Tu,Tulu,True,True,gūḍu,kūḍuni,"nest, cocoon, bird-cage, hollow","to join , unite, copulate, embrace, adopt",0.5,False
+630,1883,1882,Ko,Kota,False,True,gu·ṛ,ku·ṛ-,"nest, large hollow, belly , cupboard, shelf","to join , gather, meet, assemble, enter shed, comes close at hand, heals",0.3333333333333333,False
+630,1883,1882,Ko,Kota,True,True,gu·ṛ,ku·ṛ-,"nest, large hollow, belly , cupboard, shelf","to join , gather, meet, assemble, enter shed, comes close at hand, heals",0.3333333333333333,False
+630,1883,1882,To,Toda,False,True,ku·ḍ,ku·ḍ-,nest,marry,0.0,True
+630,1883,1882,To,Toda,True,True,ku·ḍ,ku·ḍ-,nest,marry,0.0,True
+630,1883,1882,Koḍ,Kodagu,False,True,gu·ḍï,ku·ḍ-,"nest, pig-pen, fowl-house.","to join with others, gather, be inserted",0.5,False
+630,1883,1882,Koḍ,Kodagu,True,True,gu·ḍï,ku·ḍ-,"nest, pig-pen, fowl-house.","to join with others, gather, be inserted",0.5,False
+630,1883,1882,Kol,Kolami,False,False,,,,,,False
+630,1883,1882,Kol,Kolami,True,False,,,,,,False
+630,1883,1882,Nk,Naikri,False,False,,,,,,False
+630,1883,1882,Nk,Naikri,True,False,,,,,,False
+630,1883,1882,Pa,Parji,False,True,gūḍa,kūṛ,"nest, wooden trap.",er- to assemble.,0.75,False
+630,1883,1882,Pa,Parji,True,True,gūḍa,kūṛ,"nest, wooden trap.",er- to assemble.,0.75,False
+630,1883,1882,Ga,Gadaba,False,False,,,,,,False
+630,1883,1882,Ga,Gadaba,True,False,,,,,,False
+630,1883,1882,Go,Gondi,False,True,gūḍā,gūḍ-,bird's nest,to assemble,0.25,False
+630,1883,1882,Go,Gondi,True,True,gūḍā,gūḍ-,bird's nest,to assemble,0.25,False
+630,1883,1882,Konḍa,Konda,False,True,gūṛu,kūṛ-,a fowl-shelter fixed on the top of a floor in a house.,"to join, meet, assemble, come together",0.5,False
+630,1883,1882,Konḍa,Konda,True,True,gūṛu,kūṛ-,a fowl-shelter fixed on the top of a floor in a house.,"to join, meet, assemble, come together",0.5,False
+630,1883,1882,Pe,Pengo,False,True,guḍa,kūṛā-,nest.,to assemble.,1.0,False
+630,1883,1882,Pe,Pengo,True,True,guḍa,kūṛā-,nest.,to assemble.,0.5,False
+630,1883,1882,Manḍ,Manda,False,False,,,,,,False
+630,1883,1882,Manḍ,Manda,True,False,,,,,,False
+630,1883,1882,Kui,Kui,False,False,,,,,,False
+630,1883,1882,Kui,Kui,True,False,,,,,,False
+630,1883,1882,Kuwi,Kuwi,False,True,kūda,kūṛa,cage,ā- to gather together,0.25,False
+630,1883,1882,Kuwi,Kuwi,True,True,kūda,kūṛa,cage,ā- to gather together,0.25,False
+630,1883,1882,Kur,Kurukh,False,False,,,,,,False
+630,1883,1882,Kur,Kurukh,True,False,,,,,,False
+630,1883,1882,Malt,Malto,False,False,,,,,,False
+630,1883,1882,Malt,Malto,True,False,,,,,,False
+630,1883,1882,Br,Brahui,False,False,,,,,,False
+630,1883,1882,Br,Brahui,True,False,,,,,,False
+877,1454,1241,Ta,Tamil,False,True,kāmpu,kampi,"flower-stalk, flowering branch, handle, shaft, haft.","wire of gold, silver, iron or other metal",0.4,False
+877,1454,1241,Ta,Tamil,True,True,kāmpu,kampi,"flower-stalk, flowering branch, handle, shaft, haft.","wire of gold, silver, iron or other metal",0.2,False
+877,1454,1241,Ma,Malayalam,False,True,kāmpu,kampi,"stem, stalk, stick of umbrella.",wire of lute,0.4,False
+877,1454,1241,Ma,Malayalam,True,True,kāmpu,kampi,"stem, stalk, stick of umbrella.",wire of lute,0.2,False
+877,1454,1241,Ka,Kannada,False,True,kāmu,kambi,"stalk, culm, stem, handle.",wire,0.6,False
+877,1454,1241,Ka,Kannada,True,True,kāmu,kambi,"stalk, culm, stem, handle.",wire,0.4,False
+877,1454,1241,Te,Telugu,False,True,kāma,kambi,"stem, stalk, stick, handle , shaft.",wire,0.6,False
+877,1454,1241,Te,Telugu,True,True,kāma,kambi,"stem, stalk, stick, handle , shaft.",wire,0.4,False
+877,1454,1241,Tu,Tulu,False,False,,,,,,False
+877,1454,1241,Tu,Tulu,True,False,,,,,,False
+877,1454,1241,Ko,Kota,False,False,,,,,,False
+877,1454,1241,Ko,Kota,True,False,,,,,,False
+877,1454,1241,To,Toda,False,False,,,,,,False
+877,1454,1241,To,Toda,True,False,,,,,,False
+877,1454,1241,Koḍ,Kodagu,False,False,,,,,,False
+877,1454,1241,Koḍ,Kodagu,True,False,,,,,,False
+877,1454,1241,Kol,Kolami,False,False,,,,,,False
+877,1454,1241,Kol,Kolami,True,False,,,,,,False
+877,1454,1241,Nk,Naikri,False,False,,,,,,False
+877,1454,1241,Nk,Naikri,True,False,,,,,,False
+877,1454,1241,Pa,Parji,False,False,,,,,,False
+877,1454,1241,Pa,Parji,True,False,,,,,,False
+877,1454,1241,Ga,Gadaba,False,False,,,,,,False
+877,1454,1241,Ga,Gadaba,True,False,,,,,,False
+877,1454,1241,Go,Gondi,False,False,,,,,,False
+877,1454,1241,Go,Gondi,True,False,,,,,,False
+877,1454,1241,Konḍa,Konda,False,False,,,,,,False
+877,1454,1241,Konḍa,Konda,True,False,,,,,,False
+877,1454,1241,Pe,Pengo,False,False,,,,,,False
+877,1454,1241,Pe,Pengo,True,False,,,,,,False
+877,1454,1241,Manḍ,Manda,False,False,,,,,,False
+877,1454,1241,Manḍ,Manda,True,False,,,,,,False
+877,1454,1241,Kui,Kui,False,False,,,,,,False
+877,1454,1241,Kui,Kui,True,False,,,,,,False
+877,1454,1241,Kuwi,Kuwi,False,False,,,,,,False
+877,1454,1241,Kuwi,Kuwi,True,False,,,,,,False
+877,1454,1241,Kur,Kurukh,False,False,,,,,,False
+877,1454,1241,Kur,Kurukh,True,False,,,,,,False
+877,1454,1241,Malt,Malto,False,False,,,,,,False
+877,1454,1241,Malt,Malto,True,False,,,,,,False
+877,1454,1241,Br,Brahui,False,False,,,,,,False
+877,1454,1241,Br,Brahui,True,False,,,,,,False
+877,3035,3039,Ta,Tamil,False,True,taṭṭam,taṭṭam,"porringer, eating plate, salver, broad-petalled flower, bed, broad tape",clapping of the hands,0.0,True
+877,3035,3039,Ta,Tamil,True,True,taṭṭam,taṭṭam,"porringer, eating plate, salver, broad-petalled flower, bed, broad tape",clapping of the hands,0.0,True
+877,3035,3039,Ma,Malayalam,False,True,taṭṭu,taṭṭu,a flat plate of metal or wood.,"a blow, knock",0.0,True
+877,3035,3039,Ma,Malayalam,True,True,taṭṭu,taṭṭu,a flat plate of metal or wood.,"a blow, knock",0.0,True
+877,3035,3039,Ka,Kannada,False,True,taṭṭu,taṭṭu,"flatness, the flat, i.e. the blade of a sword","to tap, touch, come close, pat, strike, beat, clap, slap, knock, clap on a thing , drive, beat off or back, remove",0.0,True
+877,3035,3039,Ka,Kannada,True,True,taṭṭu,taṭṭu,"flatness, the flat, i.e. the blade of a sword","to tap, touch, come close, pat, strike, beat, clap, slap, knock, clap on a thing , drive, beat off or back, remove",0.0,True
+877,3035,3039,Te,Telugu,False,True,taṭṭa,taṭṭu,"tray, salver, plate, platter, small flat basket.","to strike, beat, knock, pat, clap, slap",0.2,False
+877,3035,3039,Te,Telugu,True,True,taṭṭa,taṭṭu,"tray, salver, plate, platter, small flat basket.","to strike, beat, knock, pat, clap, slap",0.2,False
+877,3035,3039,Tu,Tulu,False,True,taṭṭuga,taṭṭāvuni,a flat kind of trough for serving boiled rice,"to cause to hit, strike.",0.4444444444444444,False
+877,3035,3039,Tu,Tulu,True,True,taṭṭuga,taṭṭāvuni,a flat kind of trough for serving boiled rice,"to cause to hit, strike.",0.4444444444444444,False
+877,3035,3039,Ko,Kota,False,False,,,,,,False
+877,3035,3039,Ko,Kota,True,False,,,,,,False
+877,3035,3039,To,Toda,False,False,,,,,,False
+877,3035,3039,To,Toda,True,False,,,,,,False
+877,3035,3039,Koḍ,Kodagu,False,True,taṭṭe,taṭṭ-,"any flat plate except eating vessel, plate in which betel is given.","to touch, pat, ward off, strike off, effects",0.2,False
+877,3035,3039,Koḍ,Kodagu,True,True,taṭṭe,taṭṭ-,"any flat plate except eating vessel, plate in which betel is given.","to touch, pat, ward off, strike off, effects",0.2,False
+877,3035,3039,Kol,Kolami,False,False,,,,,,False
+877,3035,3039,Kol,Kolami,True,False,,,,,,False
+877,3035,3039,Nk,Naikri,False,False,,,,,,False
+877,3035,3039,Nk,Naikri,True,False,,,,,,False
+877,3035,3039,Pa,Parji,False,False,,,,,,False
+877,3035,3039,Pa,Parji,True,False,,,,,,False
+877,3035,3039,Ga,Gadaba,False,False,,,,,,False
+877,3035,3039,Ga,Gadaba,True,False,,,,,,False
+877,3035,3039,Go,Gondi,False,False,,,,,,False
+877,3035,3039,Go,Gondi,True,False,,,,,,False
+877,3035,3039,Konḍa,Konda,False,False,,,,,,False
+877,3035,3039,Konḍa,Konda,True,False,,,,,,False
+877,3035,3039,Pe,Pengo,False,False,,,,,,False
+877,3035,3039,Pe,Pengo,True,False,,,,,,False
+877,3035,3039,Manḍ,Manda,False,False,,,,,,False
+877,3035,3039,Manḍ,Manda,True,False,,,,,,False
+877,3035,3039,Kui,Kui,False,False,,,,,,False
+877,3035,3039,Kui,Kui,True,False,,,,,,False
+877,3035,3039,Kuwi,Kuwi,False,False,,,,,,False
+877,3035,3039,Kuwi,Kuwi,True,False,,,,,,False
+877,3035,3039,Kur,Kurukh,False,False,,,,,,False
+877,3035,3039,Kur,Kurukh,True,False,,,,,,False
+877,3035,3039,Malt,Malto,False,False,,,,,,False
+877,3035,3039,Malt,Malto,True,False,,,,,,False
+877,3035,3039,Br,Brahui,False,False,,,,,,False
+877,3035,3039,Br,Brahui,True,False,,,,,,False
+877,4100,4097,Ta,Tamil,False,True,pālai,pāṉmai,"silvery-leaved ape-flower, Mimusops kauki","portion, share",0.3333333333333333,False
+877,4100,4097,Ta,Tamil,True,True,pālai,pāṉmai,"silvery-leaved ape-flower, Mimusops kauki","portion, share",0.3333333333333333,False
+877,4100,4097,Ma,Malayalam,False,True,pāla,pāl,"Echites scholaris , and various trees, including M. kauki.",part.,0.25,False
+877,4100,4097,Ma,Malayalam,True,True,pāla,pāl,"Echites scholaris , and various trees, including M. kauki.",part.,0.25,False
+877,4100,4097,Ka,Kannada,False,True,pāle,pāl,M. kauki Lin.,"division, part, portion, share.",0.25,False
+877,4100,4097,Ka,Kannada,True,True,pāle,pāl,M. kauki Lin.,"division, part, portion, share.",0.25,False
+877,4100,4097,Te,Telugu,False,True,pāla,pālu,M. hexandra. [A. scholaris Brown = E. scholaris Lin. Lush. gives,"id., lot, fraction.",0.25,False
+877,4100,4097,Te,Telugu,True,True,pāla,pālu,M. hexandra. [A. scholaris Brown = E. scholaris Lin. Lush. gives,"id., lot, fraction.",0.25,False
+877,4100,4097,Tu,Tulu,False,True,pālè,pālů,A. scholaris.,"share, portion, part, division.",0.25,False
+877,4100,4097,Tu,Tulu,True,True,pālè,pālů,A. scholaris.,"share, portion, part, division.",0.25,False
+877,4100,4097,Ko,Kota,False,True,pa·l,pa·lm,"marm an unidentified tree, prob. identical with","portion, division.",0.25,False
+877,4100,4097,Ko,Kota,True,True,pa·l,pa·lm,"marm an unidentified tree, prob. identical with","portion, division.",0.25,False
+877,4100,4097,To,Toda,False,True,pa·s̱,po·lm,"marm an unidentified tree, prob. identical with",share,0.75,False
+877,4100,4097,To,Toda,True,True,pa·s̱,po·lm,"marm an unidentified tree, prob. identical with",share,0.75,False
+877,4100,4097,Koḍ,Kodagu,False,False,,,,,,False
+877,4100,4097,Koḍ,Kodagu,True,False,,,,,,False
+877,4100,4097,Kol,Kolami,False,False,,,,,,False
+877,4100,4097,Kol,Kolami,True,False,,,,,,False
+877,4100,4097,Nk,Naikri,False,False,,,,,,False
+877,4100,4097,Nk,Naikri,True,False,,,,,,False
+877,4100,4097,Pa,Parji,False,False,,,,,,False
+877,4100,4097,Pa,Parji,True,False,,,,,,False
+877,4100,4097,Ga,Gadaba,False,False,,,,,,False
+877,4100,4097,Ga,Gadaba,True,False,,,,,,False
+877,4100,4097,Go,Gondi,False,False,,,,,,False
+877,4100,4097,Go,Gondi,True,False,,,,,,False
+877,4100,4097,Konḍa,Konda,False,False,,,,,,False
+877,4100,4097,Konḍa,Konda,True,False,,,,,,False
+877,4100,4097,Pe,Pengo,False,False,,,,,,False
+877,4100,4097,Pe,Pengo,True,False,,,,,,False
+877,4100,4097,Manḍ,Manda,False,False,,,,,,False
+877,4100,4097,Manḍ,Manda,True,False,,,,,,False
+877,4100,4097,Kui,Kui,False,False,,,,,,False
+877,4100,4097,Kui,Kui,True,False,,,,,,False
+877,4100,4097,Kuwi,Kuwi,False,False,,,,,,False
+877,4100,4097,Kuwi,Kuwi,True,False,,,,,,False
+877,4100,4097,Kur,Kurukh,False,False,,,,,,False
+877,4100,4097,Kur,Kurukh,True,False,,,,,,False
+877,4100,4097,Malt,Malto,False,False,,,,,,False
+877,4100,4097,Malt,Malto,True,False,,,,,,False
+877,4100,4097,Br,Brahui,False,False,,,,,,False
+877,4100,4097,Br,Brahui,True,False,,,,,,False
+171,1370,1493,Ta,Tamil,False,True,kār̤,kār̤,"post, pillar, oar, iron rod, elephant-goad, bolt, handle, rafter, firewood.","seed, stone, nut, kernel, gravel.",0.0,True
+171,1370,1493,Ta,Tamil,True,True,kār̤,kār̤,"post, pillar, oar, iron rod, elephant-goad, bolt, handle, rafter, firewood.","seed, stone, nut, kernel, gravel.",0.0,True
+171,1370,1493,Ma,Malayalam,False,False,,,,,,False
+171,1370,1493,Ma,Malayalam,True,False,,,,,,False
+171,1370,1493,Ka,Kannada,False,True,gar̤,kār̤,"bamboo rod or stake, bamboo, pole, staff, bamboo pole on which Kollaṭigas or Dombas tumble, churning stick.","small pebble, gravel, a corn, a single grain, grain, seed.",0.6666666666666666,False
+171,1370,1493,Ka,Kannada,True,True,gar̤,kār̤,"bamboo rod or stake, bamboo, pole, staff, bamboo pole on which Kollaṭigas or Dombas tumble, churning stick.","small pebble, gravel, a corn, a single grain, grain, seed.",0.3333333333333333,False
+171,1370,1493,Te,Telugu,False,False,,,,,,False
+171,1370,1493,Te,Telugu,True,False,,,,,,False
+171,1370,1493,Tu,Tulu,False,False,,,,,,False
+171,1370,1493,Tu,Tulu,True,False,,,,,,False
+171,1370,1493,Ko,Kota,False,False,,,,,,False
+171,1370,1493,Ko,Kota,True,False,,,,,,False
+171,1370,1493,To,Toda,False,False,,,,,,False
+171,1370,1493,To,Toda,True,False,,,,,,False
+171,1370,1493,Koḍ,Kodagu,False,True,gaḷe,ka·ḷï,long stick.,grain,0.75,False
+171,1370,1493,Koḍ,Kodagu,True,True,gaḷe,ka·ḷï,long stick.,grain,0.5,False
+171,1370,1493,Kol,Kolami,False,False,,,,,,False
+171,1370,1493,Kol,Kolami,True,False,,,,,,False
+171,1370,1493,Nk,Naikri,False,False,,,,,,False
+171,1370,1493,Nk,Naikri,True,False,,,,,,False
+171,1370,1493,Pa,Parji,False,False,,,,,,False
+171,1370,1493,Pa,Parji,True,False,,,,,,False
+171,1370,1493,Ga,Gadaba,False,False,,,,,,False
+171,1370,1493,Ga,Gadaba,True,False,,,,,,False
+171,1370,1493,Go,Gondi,False,False,,,,,,False
+171,1370,1493,Go,Gondi,True,False,,,,,,False
+171,1370,1493,Konḍa,Konda,False,False,,,,,,False
+171,1370,1493,Konḍa,Konda,True,False,,,,,,False
+171,1370,1493,Pe,Pengo,False,False,,,,,,False
+171,1370,1493,Pe,Pengo,True,False,,,,,,False
+171,1370,1493,Manḍ,Manda,False,False,,,,,,False
+171,1370,1493,Manḍ,Manda,True,False,,,,,,False
+171,1370,1493,Kui,Kui,False,False,,,,,,False
+171,1370,1493,Kui,Kui,True,False,,,,,,False
+171,1370,1493,Kuwi,Kuwi,False,False,,,,,,False
+171,1370,1493,Kuwi,Kuwi,True,False,,,,,,False
+171,1370,1493,Kur,Kurukh,False,False,,,,,,False
+171,1370,1493,Kur,Kurukh,True,False,,,,,,False
+171,1370,1493,Malt,Malto,False,False,,,,,,False
+171,1370,1493,Malt,Malto,True,False,,,,,,False
+171,1370,1493,Br,Brahui,False,False,,,,,,False
+171,1370,1493,Br,Brahui,True,False,,,,,,False
+171,5450,5449,Ta,Tamil,False,True,vīccam,vīcam,"smell, effluvium",the fraction of 1/16th.,0.16666666666666666,False
+171,5450,5449,Ta,Tamil,True,True,vīccam,vīcam,"smell, effluvium",the fraction of 1/16th.,0.16666666666666666,False
+171,5450,5449,Ma,Malayalam,False,True,viśa,vīśam,"spring-trap, snare for birds, lever","1/16th gold fanam, or a rice-corn's weight of gold.",0.4,False
+171,5450,5449,Ma,Malayalam,True,True,viśa,vīśam,"spring-trap, snare for birds, lever","1/16th gold fanam, or a rice-corn's weight of gold.",0.2,False
+171,5450,5449,Ka,Kannada,False,True,bīsu,vīsa,"to swing, turn round, whirl, wave, brandish, fan, throw as a net, blow as the wind, mill, grind, cast","the fraction 1/16th, 1/16th of a haṇa, etc.",0.5,False
+171,5450,5449,Ka,Kannada,True,True,bīsu,vīsa,"to swing, turn round, whirl, wave, brandish, fan, throw as a net, blow as the wind, mill, grind, cast","the fraction 1/16th, 1/16th of a haṇa, etc.",0.5,False
+171,5450,5449,Te,Telugu,False,True,visaru,vīsamu,"to throw, fling, cast, hurl, wave, swing, shake, flourish, brandish, whisk, turn as a mill, grind as in a mill, blow as the wind, spread as scent",a sixteenth part.,0.3333333333333333,False
+171,5450,5449,Te,Telugu,True,True,visaru,vīsamu,"to throw, fling, cast, hurl, wave, swing, shake, flourish, brandish, whisk, turn as a mill, grind as in a mill, blow as the wind, spread as scent",a sixteenth part.,0.16666666666666666,False
+171,5450,5449,Tu,Tulu,False,True,bīsa,vīsa,"quickly, rapidly, fast, straightly","1/16th, a weight of gold equal to a grain of rice.",0.25,False
+171,5450,5449,Tu,Tulu,True,True,bīsa,vīsa,"quickly, rapidly, fast, straightly","1/16th, a weight of gold equal to a grain of rice.",0.25,False
+171,5450,5449,Ko,Kota,False,False,,,,,,False
+171,5450,5449,Ko,Kota,True,False,,,,,,False
+171,5450,5449,To,Toda,False,False,,,,,,False
+171,5450,5449,To,Toda,True,False,,,,,,False
+171,5450,5449,Koḍ,Kodagu,False,False,,,,,,False
+171,5450,5449,Koḍ,Kodagu,True,False,,,,,,False
+171,5450,5449,Kol,Kolami,False,False,,,,,,False
+171,5450,5449,Kol,Kolami,True,False,,,,,,False
+171,5450,5449,Nk,Naikri,False,False,,,,,,False
+171,5450,5449,Nk,Naikri,True,False,,,,,,False
+171,5450,5449,Pa,Parji,False,False,,,,,,False
+171,5450,5449,Pa,Parji,True,False,,,,,,False
+171,5450,5449,Ga,Gadaba,False,False,,,,,,False
+171,5450,5449,Ga,Gadaba,True,False,,,,,,False
+171,5450,5449,Go,Gondi,False,False,,,,,,False
+171,5450,5449,Go,Gondi,True,False,,,,,,False
+171,5450,5449,Konḍa,Konda,False,False,,,,,,False
+171,5450,5449,Konḍa,Konda,True,False,,,,,,False
+171,5450,5449,Pe,Pengo,False,False,,,,,,False
+171,5450,5449,Pe,Pengo,True,False,,,,,,False
+171,5450,5449,Manḍ,Manda,False,False,,,,,,False
+171,5450,5449,Manḍ,Manda,True,False,,,,,,False
+171,5450,5449,Kui,Kui,False,False,,,,,,False
+171,5450,5449,Kui,Kui,True,False,,,,,,False
+171,5450,5449,Kuwi,Kuwi,False,False,,,,,,False
+171,5450,5449,Kuwi,Kuwi,True,False,,,,,,False
+171,5450,5449,Kur,Kurukh,False,False,,,,,,False
+171,5450,5449,Kur,Kurukh,True,False,,,,,,False
+171,5450,5449,Malt,Malto,False,False,,,,,,False
+171,5450,5449,Malt,Malto,True,False,,,,,,False
+171,5450,5449,Br,Brahui,False,False,,,,,,False
+171,5450,5449,Br,Brahui,True,False,,,,,,False
+297,3852,3849,Ta,Tamil,False,True,paṭai,paṭi,bed,"a weight , the ordinary measure of capacity",0.2,False
+297,3852,3849,Ta,Tamil,True,True,paṭai,paṭi,bed,"a weight , the ordinary measure of capacity",0.2,False
+297,3852,3849,Ma,Malayalam,False,True,paṭa,paṭi,"layer in mud walls, course of bricks","measure , regular allowance",0.25,False
+297,3852,3849,Ma,Malayalam,True,True,paṭa,paṭi,"layer in mud walls, course of bricks","measure , regular allowance",0.25,False
+297,3852,3849,Ka,Kannada,False,True,paḍu,paḍi,"to lie down, set , be spent , have sexual intercourse, die",measure of capacity,0.25,False
+297,3852,3849,Ka,Kannada,True,True,paḍu,paḍi,"to lie down, set , be spent , have sexual intercourse, die",measure of capacity,0.25,False
+297,3852,3849,Te,Telugu,False,True,paḍu,paḍi,"to fall, lie, recline, sleep",a measure of capacity .,0.25,False
+297,3852,3849,Te,Telugu,True,True,paḍu,paḍi,"to fall, lie, recline, sleep",a measure of capacity .,0.25,False
+297,3852,3849,Tu,Tulu,False,True,paḍa,paḍi,placing or laying,"daily allowance of food, extra pay to servants when travelling",0.25,False
+297,3852,3849,Tu,Tulu,True,True,paḍa,paḍi,placing or laying,"daily allowance of food, extra pay to servants when travelling",0.25,False
+297,3852,3849,Ko,Kota,False,True,paṛ-,paṛy,"to lie down, sleep",a measure of grain given to a Toda when he comes to a village,0.25,False
+297,3852,3849,Ko,Kota,True,True,paṛ-,paṛy,"to lie down, sleep",a measure of grain given to a Toda when he comes to a village,0.25,False
+297,3852,3849,To,Toda,False,True,poṛy,poṛy,sleeping-place .,rice given at funeral,0.0,True
+297,3852,3849,To,Toda,True,True,poṛy,poṛy,sleeping-place .,rice given at funeral,0.0,True
+297,3852,3849,Koḍ,Kodagu,False,False,,,,,,False
+297,3852,3849,Koḍ,Kodagu,True,False,,,,,,False
+297,3852,3849,Kol,Kolami,False,False,,,,,,False
+297,3852,3849,Kol,Kolami,True,False,,,,,,False
+297,3852,3849,Nk,Naikri,False,False,,,,,,False
+297,3852,3849,Nk,Naikri,True,False,,,,,,False
+297,3852,3849,Pa,Parji,False,False,,,,,,False
+297,3852,3849,Pa,Parji,True,False,,,,,,False
+297,3852,3849,Ga,Gadaba,False,False,,,,,,False
+297,3852,3849,Ga,Gadaba,True,False,,,,,,False
+297,3852,3849,Go,Gondi,False,False,,,,,,False
+297,3852,3849,Go,Gondi,True,False,,,,,,False
+297,3852,3849,Konḍa,Konda,False,False,,,,,,False
+297,3852,3849,Konḍa,Konda,True,False,,,,,,False
+297,3852,3849,Pe,Pengo,False,False,,,,,,False
+297,3852,3849,Pe,Pengo,True,False,,,,,,False
+297,3852,3849,Manḍ,Manda,False,False,,,,,,False
+297,3852,3849,Manḍ,Manda,True,False,,,,,,False
+297,3852,3849,Kui,Kui,False,False,,,,,,False
+297,3852,3849,Kui,Kui,True,False,,,,,,False
+297,3852,3849,Kuwi,Kuwi,False,False,,,,,,False
+297,3852,3849,Kuwi,Kuwi,True,False,,,,,,False
+297,3852,3849,Kur,Kurukh,False,False,,,,,,False
+297,3852,3849,Kur,Kurukh,True,False,,,,,,False
+297,3852,3849,Malt,Malto,False,False,,,,,,False
+297,3852,3849,Malt,Malto,True,False,,,,,,False
+297,3852,3849,Br,Brahui,False,False,,,,,,False
+297,3852,3849,Br,Brahui,True,False,,,,,,False
+831,237,255,Ta,Tamil,False,True,alaku,alaku,"blade of a weapon, or instrument, head of an arrow, weaver's stay or staff to adjust a warp","grains of paddy, ear of paddy or other grain.",0.0,True
+831,237,255,Ta,Tamil,True,True,alaku,alaku,"blade of a weapon, or instrument, head of an arrow, weaver's stay or staff to adjust a warp","grains of paddy, ear of paddy or other grain.",0.0,True
+831,237,255,Ma,Malayalam,False,False,,,,,,False
+831,237,255,Ma,Malayalam,True,False,,,,,,False
+831,237,255,Ka,Kannada,False,False,,,,,,False
+831,237,255,Ka,Kannada,True,False,,,,,,False
+831,237,255,Te,Telugu,False,False,,,,,,False
+831,237,255,Te,Telugu,True,False,,,,,,False
+831,237,255,Tu,Tulu,False,False,,,,,,False
+831,237,255,Tu,Tulu,True,False,,,,,,False
+831,237,255,Ko,Kota,False,False,,,,,,False
+831,237,255,Ko,Kota,True,False,,,,,,False
+831,237,255,To,Toda,False,False,,,,,,False
+831,237,255,To,Toda,True,False,,,,,,False
+831,237,255,Koḍ,Kodagu,False,False,,,,,,False
+831,237,255,Koḍ,Kodagu,True,False,,,,,,False
+831,237,255,Kol,Kolami,False,False,,,,,,False
+831,237,255,Kol,Kolami,True,False,,,,,,False
+831,237,255,Nk,Naikri,False,False,,,,,,False
+831,237,255,Nk,Naikri,True,False,,,,,,False
+831,237,255,Pa,Parji,False,False,,,,,,False
+831,237,255,Pa,Parji,True,False,,,,,,False
+831,237,255,Ga,Gadaba,False,False,,,,,,False
+831,237,255,Ga,Gadaba,True,False,,,,,,False
+831,237,255,Go,Gondi,False,False,,,,,,False
+831,237,255,Go,Gondi,True,False,,,,,,False
+831,237,255,Konḍa,Konda,False,False,,,,,,False
+831,237,255,Konḍa,Konda,True,False,,,,,,False
+831,237,255,Pe,Pengo,False,False,,,,,,False
+831,237,255,Pe,Pengo,True,False,,,,,,False
+831,237,255,Manḍ,Manda,False,False,,,,,,False
+831,237,255,Manḍ,Manda,True,False,,,,,,False
+831,237,255,Kui,Kui,False,False,,,,,,False
+831,237,255,Kui,Kui,True,False,,,,,,False
+831,237,255,Kuwi,Kuwi,False,False,,,,,,False
+831,237,255,Kuwi,Kuwi,True,False,,,,,,False
+831,237,255,Kur,Kurukh,False,False,,,,,,False
+831,237,255,Kur,Kurukh,True,False,,,,,,False
+831,237,255,Malt,Malto,False,False,,,,,,False
+831,237,255,Malt,Malto,True,False,,,,,,False
+831,237,255,Br,Brahui,False,False,,,,,,False
+831,237,255,Br,Brahui,True,False,,,,,,False
+831,4663,4661,Ta,Tamil,False,True,maṭṭai,maṭṭai,"leaf-stalk of a fern or palm, stem of plantain","worthless person or thing, a variety of paddy .",0.0,True
+831,4663,4661,Ta,Tamil,True,True,maṭṭai,maṭṭai,"leaf-stalk of a fern or palm, stem of plantain","worthless person or thing, a variety of paddy .",0.0,True
+831,4663,4661,Ma,Malayalam,False,True,maṭṭa,maṭṭam,palm branch,pony.,0.16666666666666666,False
+831,4663,4661,Ma,Malayalam,True,True,maṭṭa,maṭṭam,palm branch,pony.,0.16666666666666666,False
+831,4663,4661,Ka,Kannada,False,True,maṭṭe,maṭṭa,"bough of the palm, coconut or date tree, fibrous coat of a coconut, brush for whitewashing made of the fibrous coat of the coconut","shortness, smallness",0.2,False
+831,4663,4661,Ka,Kannada,True,True,maṭṭe,maṭṭa,"bough of the palm, coconut or date tree, fibrous coat of a coconut, brush for whitewashing made of the fibrous coat of the coconut","shortness, smallness",0.2,False
+831,4663,4661,Te,Telugu,False,True,maṭṭa,maṭṭu,"branch or bough of any palm tree, leaf of the aloe, cabbage, or of similar plants, a young palm tree.","limited, stinted, small, little, scanty",0.2,False
+831,4663,4661,Te,Telugu,True,True,maṭṭa,maṭṭu,"branch or bough of any palm tree, leaf of the aloe, cabbage, or of similar plants, a young palm tree.","limited, stinted, small, little, scanty",0.2,False
+831,4663,4661,Tu,Tulu,False,True,maḍalu,maṭṭi-tautè,"palm branch, coconut branch with plaited leaves.",a small kind of cucumber.,0.7,False
+831,4663,4661,Tu,Tulu,True,True,maḍalu,maṭṭi-tautè,"palm branch, coconut branch with plaited leaves.",a small kind of cucumber.,0.7,False
+831,4663,4661,Ko,Kota,False,False,,,,,,False
+831,4663,4661,Ko,Kota,True,False,,,,,,False
+831,4663,4661,To,Toda,False,False,,,,,,False
+831,4663,4661,To,Toda,True,False,,,,,,False
+831,4663,4661,Koḍ,Kodagu,False,False,,,,,,False
+831,4663,4661,Koḍ,Kodagu,True,False,,,,,,False
+831,4663,4661,Kol,Kolami,False,False,,,,,,False
+831,4663,4661,Kol,Kolami,True,False,,,,,,False
+831,4663,4661,Nk,Naikri,False,False,,,,,,False
+831,4663,4661,Nk,Naikri,True,False,,,,,,False
+831,4663,4661,Pa,Parji,False,False,,,,,,False
+831,4663,4661,Pa,Parji,True,False,,,,,,False
+831,4663,4661,Ga,Gadaba,False,False,,,,,,False
+831,4663,4661,Ga,Gadaba,True,False,,,,,,False
+831,4663,4661,Go,Gondi,False,False,,,,,,False
+831,4663,4661,Go,Gondi,True,False,,,,,,False
+831,4663,4661,Konḍa,Konda,False,False,,,,,,False
+831,4663,4661,Konḍa,Konda,True,False,,,,,,False
+831,4663,4661,Pe,Pengo,False,False,,,,,,False
+831,4663,4661,Pe,Pengo,True,False,,,,,,False
+831,4663,4661,Manḍ,Manda,False,False,,,,,,False
+831,4663,4661,Manḍ,Manda,True,False,,,,,,False
+831,4663,4661,Kui,Kui,False,False,,,,,,False
+831,4663,4661,Kui,Kui,True,False,,,,,,False
+831,4663,4661,Kuwi,Kuwi,False,False,,,,,,False
+831,4663,4661,Kuwi,Kuwi,True,False,,,,,,False
+831,4663,4661,Kur,Kurukh,False,False,,,,,,False
+831,4663,4661,Kur,Kurukh,True,False,,,,,,False
+831,4663,4661,Malt,Malto,False,False,,,,,,False
+831,4663,4661,Malt,Malto,True,False,,,,,,False
+831,4663,4661,Br,Brahui,False,False,,,,,,False
+831,4663,4661,Br,Brahui,True,False,,,,,,False
+165,1927,1928,Ta,Tamil,False,True,kūṉ,kūṉ,"bend, curve, hump on the back, humpback, snail",cauldron,0.0,True
+165,1927,1928,Ta,Tamil,True,True,kūṉ,kūṉ,"bend, curve, hump on the back, humpback, snail",cauldron,0.0,True
+165,1927,1928,Ma,Malayalam,False,True,kūnal,kūna,bending,earthen vessel.,0.2,False
+165,1927,1928,Ma,Malayalam,True,True,kūnal,kūna,bending,earthen vessel.,0.2,False
+165,1927,1928,Ka,Kannada,False,True,kūn,kūni,", kūnu to be bent or bowed, bend, stoop",earthen basin used by oilmen.,0.25,False
+165,1927,1928,Ka,Kannada,True,True,kuni,kūni,"to bend, bow, stoop, shrink",earthen basin used by oilmen.,0.0,True
+165,1927,1928,Te,Telugu,False,True,gūnu,gūna,"a hump, a crooked back",large earthen pot.,0.25,False
+165,1927,1928,Te,Telugu,True,True,gūnu,gūna,"a hump, a crooked back",large earthen pot.,0.25,False
+165,1927,1928,Tu,Tulu,False,False,,,,,,False
+165,1927,1928,Tu,Tulu,True,False,,,,,,False
+165,1927,1928,Ko,Kota,False,False,,,,,,False
+165,1927,1928,Ko,Kota,True,False,,,,,,False
+165,1927,1928,To,Toda,False,False,,,,,,False
+165,1927,1928,To,Toda,True,False,,,,,,False
+165,1927,1928,Koḍ,Kodagu,False,False,,,,,,False
+165,1927,1928,Koḍ,Kodagu,True,False,,,,,,False
+165,1927,1928,Kol,Kolami,False,False,,,,,,False
+165,1927,1928,Kol,Kolami,True,False,,,,,,False
+165,1927,1928,Nk,Naikri,False,False,,,,,,False
+165,1927,1928,Nk,Naikri,True,False,,,,,,False
+165,1927,1928,Pa,Parji,False,False,,,,,,False
+165,1927,1928,Pa,Parji,True,False,,,,,,False
+165,1927,1928,Ga,Gadaba,False,False,,,,,,False
+165,1927,1928,Ga,Gadaba,True,False,,,,,,False
+165,1927,1928,Go,Gondi,False,False,,,,,,False
+165,1927,1928,Go,Gondi,True,False,,,,,,False
+165,1927,1928,Konḍa,Konda,False,False,,,,,,False
+165,1927,1928,Konḍa,Konda,True,False,,,,,,False
+165,1927,1928,Pe,Pengo,False,False,,,,,,False
+165,1927,1928,Pe,Pengo,True,False,,,,,,False
+165,1927,1928,Manḍ,Manda,False,False,,,,,,False
+165,1927,1928,Manḍ,Manda,True,False,,,,,,False
+165,1927,1928,Kui,Kui,False,False,,,,,,False
+165,1927,1928,Kui,Kui,True,False,,,,,,False
+165,1927,1928,Kuwi,Kuwi,False,True,gu'u,gūna,hump of cow. DED 1605.,a large pot.,0.75,False
+165,1927,1928,Kuwi,Kuwi,True,True,gu'u,gūna,hump of cow. DED 1605.,a large pot.,0.5,False
+165,1927,1928,Kur,Kurukh,False,False,,,,,,False
+165,1927,1928,Kur,Kurukh,True,False,,,,,,False
+165,1927,1928,Malt,Malto,False,False,,,,,,False
+165,1927,1928,Malt,Malto,True,False,,,,,,False
+165,1927,1928,Br,Brahui,False,False,,,,,,False
+165,1927,1928,Br,Brahui,True,False,,,,,,False
+104,3158,3054,Ta,Tamil,False,True,tāṇṭu,taṇṭu,"to dance, skip, jump, leap across, jump over, cross, step over, transgress, surpass, excel","to collect, levy, recover",0.2,False
+104,3158,3054,Ta,Tamil,True,True,tāṇṭu,taṇṭu,"to dance, skip, jump, leap across, jump over, cross, step over, transgress, surpass, excel","to collect, levy, recover",0.0,True
+104,3158,3054,Ma,Malayalam,False,True,tāṇṭuka,teṇṭuka,to jump across,to obtain,0.14285714285714285,False
+104,3158,3054,Ma,Malayalam,True,True,tāṇṭuka,taṇṭuka,to jump across,to collect.,0.0,True
+104,3158,3054,Ka,Kannada,False,True,tāṇṭu,taṇḍakāṟa,"to jump, dance, leap, skip over, cross","one who amasses, man who has a large amount of.",0.7777777777777778,False
+104,3158,3054,Ka,Kannada,True,True,tāṇṭu,taṇḍakāṟa,"to jump, dance, leap, skip over, cross","one who amasses, man who has a large amount of.",0.6666666666666666,False
+104,3158,3054,Te,Telugu,False,True,dã̄ṭu,taṇḍu,"to leap, jump, cross over, pass over, go beyond, transgress",", daṇḍu to collect or demand",0.8,False
+104,3158,3054,Te,Telugu,True,True,dã̄ṭu,taṇḍu,"to leap, jump, cross over, pass over, go beyond, transgress",", daṇḍu to collect or demand",0.8,False
+104,3158,3054,Tu,Tulu,False,True,dāṇṭuni,daṇḍyuni,"to cross, ford, pass by.",to put forth the hand to receive anything.,0.375,False
+104,3158,3054,Tu,Tulu,True,True,dāṇṭuni,daṇḍyuni,"to cross, ford, pass by.",to put forth the hand to receive anything.,0.25,False
+104,3158,3054,Ko,Kota,False,True,da·ṭ-,daṇḍ-,to cross .,to work off,0.75,False
+104,3158,3054,Ko,Kota,True,True,da·ṭ-,daṇḍ-,to cross .,to work off,0.5,False
+104,3158,3054,To,Toda,False,True,to·ṭ-,toḍ-,to cross .,"to have ability or strength to, be capable of.",0.6666666666666666,False
+104,3158,3054,To,Toda,True,True,to·ṭ-,toḍ-,to cross .,"to have ability or strength to, be capable of.",0.3333333333333333,False
+104,3158,3054,Koḍ,Kodagu,False,False,,,,,,False
+104,3158,3054,Koḍ,Kodagu,True,False,,,,,,False
+104,3158,3054,Kol,Kolami,False,False,,,,,,False
+104,3158,3054,Kol,Kolami,True,False,,,,,,False
+104,3158,3054,Nk,Naikri,False,False,,,,,,False
+104,3158,3054,Nk,Naikri,True,False,,,,,,False
+104,3158,3054,Pa,Parji,False,False,,,,,,False
+104,3158,3054,Pa,Parji,True,False,,,,,,False
+104,3158,3054,Ga,Gadaba,False,False,,,,,,False
+104,3158,3054,Ga,Gadaba,True,False,,,,,,False
+104,3158,3054,Go,Gondi,False,False,,,,,,False
+104,3158,3054,Go,Gondi,True,False,,,,,,False
+104,3158,3054,Konḍa,Konda,False,False,,,,,,False
+104,3158,3054,Konḍa,Konda,True,False,,,,,,False
+104,3158,3054,Pe,Pengo,False,False,,,,,,False
+104,3158,3054,Pe,Pengo,True,False,,,,,,False
+104,3158,3054,Manḍ,Manda,False,False,,,,,,False
+104,3158,3054,Manḍ,Manda,True,False,,,,,,False
+104,3158,3054,Kui,Kui,False,False,,,,,,False
+104,3158,3054,Kui,Kui,True,False,,,,,,False
+104,3158,3054,Kuwi,Kuwi,False,False,,,,,,False
+104,3158,3054,Kuwi,Kuwi,True,False,,,,,,False
+104,3158,3054,Kur,Kurukh,False,False,,,,,,False
+104,3158,3054,Kur,Kurukh,True,False,,,,,,False
+104,3158,3054,Malt,Malto,False,False,,,,,,False
+104,3158,3054,Malt,Malto,True,False,,,,,,False
+104,3158,3054,Br,Brahui,False,False,,,,,,False
+104,3158,3054,Br,Brahui,True,False,,,,,,False

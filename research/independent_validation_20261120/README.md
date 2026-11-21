@@ -14,6 +14,7 @@ This continuation starts from work-branch commit **`727dfd411a4faa44d193d2047575
 6. [Statistical report](reports/statistical_report.md), including [nested predictive results](results/nested_prediction.json), [matched-rival sensitivity](results/semantic_sensitivity.json), [all 540 contrasts](results/all_sign_artifact_contrasts.csv), [site-corrected max-T results](results/site_maxT_all540.csv) and compressed null distributions.
 7. [Frozen 163-sign proposal](frozen/proposals.json), [design and input hashes](frozen/design.json), [code](code), complete derived results and unscored blinded materials.
 8. [Three-experiment roadmap and prospective independent-semantic protocol](reports/prospective_protocol.md).
+9. [Which Dravidian language?](language_affinity/README.md): a 21-language dictionary comparison, 35 fixed claimed etymon-pair checks, explicit Tamil source preference, and Brahui coverage limits. This retrospective extension does not identify the ancient language.
 
 The inscription set excludes 469 dedicated upstream showcase sequences, uses 60 unique sequences on 60 distinct catalogue objects across eight sites, and includes both transcriptions. It is additional to showcases, **not untouched by the project's research**. All 60 translations remain unvalidated. The 45 evidence cards and 120 blinded reading tasks are prepared but have no human ratings; fourteen identical constrained-decoy controls must not be treated as evidence of semantic identification.
 

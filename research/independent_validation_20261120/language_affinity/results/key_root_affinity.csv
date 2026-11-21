@@ -1,0 +1,1828 @@
+root,signs,language,code,reference_etyma,has_candidate,nearest_form,nearest_eid,normalized_edit_distance,exact
+accu,615 617,Tamil,Ta,40 47 48 49 55,True,accu,47,0.0,True
+accu,615 617,Malayalam,Ma,40 47 48 49 55,True,accu,40,0.0,True
+accu,615 617,Kannada,Ka,40 47 48 49 55,True,accu,47,0.0,True
+accu,615 617,Telugu,Te,40 47 48 49 55,True,accu,47,0.0,True
+accu,615 617,Tulu,Tu,40 47 48 49 55,True,acci,47,0.25,False
+accu,615 617,Kota,Ko,40 47 48 49 55,True,ac,47,0.5,False
+accu,615 617,Toda,To,40 47 48 49 55,True,oζ-,55,1.0,False
+accu,615 617,Kodagu,Koḍ,40 47 48 49 55,True,acci,47,0.25,False
+accu,615 617,Kolami,Kol,40 47 48 49 55,False,,,,False
+accu,615 617,Naikri,Nk,40 47 48 49 55,False,,,,False
+accu,615 617,Parji,Pa,40 47 48 49 55,False,,,,False
+accu,615 617,Gadaba,Ga,40 47 48 49 55,False,,,,False
+accu,615 617,Gondi,Go,40 47 48 49 55,False,,,,False
+accu,615 617,Konda,Konḍa,40 47 48 49 55,False,,,,False
+accu,615 617,Pengo,Pe,40 47 48 49 55,False,,,,False
+accu,615 617,Manda,Manḍ,40 47 48 49 55,False,,,,False
+accu,615 617,Kui,Kui,40 47 48 49 55,True,aja,55,0.75,False
+accu,615 617,Kuwi,Kuwi,40 47 48 49 55,True,ajji,55,0.75,False
+accu,615 617,Kurukh,Kur,40 47 48 49 55,False,,,,False
+accu,615 617,Malto,Malt,40 47 48 49 55,False,,,,False
+accu,615 617,Brahui,Br,40 47 48 49 55,True,hījing,55,1.0,False
+ai,005 015 035,Tamil,Ta,2457 2826 341,True,ai,2457,0.0,True
+ai,005 015 035,Malayalam,Ma,2457 2826 341,True,ai,2826,0.0,True
+ai,005 015 035,Kannada,Ka,2457 2826 341,True,asi,341,0.3333333333333333,False
+ai,005 015 035,Telugu,Te,2457 2826 341,True,asi,341,0.3333333333333333,False
+ai,005 015 035,Tulu,Tu,2457 2826 341,True,ai,2826,0.0,True
+ai,005 015 035,Kota,Ko,2457 2826 341,True,ay,2826,0.5,False
+ai,005 015 035,Toda,To,2457 2826 341,True,five,2826,0.75,False
+ai,005 015 035,Kodagu,Koḍ,2457 2826 341,True,añji,2826,0.5,False
+ai,005 015 035,Kolami,Kol,2457 2826 341,True,aid,2826,0.3333333333333333,False
+ai,005 015 035,Naikri,Nk,2457 2826 341,True,sēndi,2826,0.8,False
+ai,005 015 035,Parji,Pa,2457 2826 341,True,cēvir,2826,0.8,False
+ai,005 015 035,Gadaba,Ga,2457 2826 341,False,,,,False
+ai,005 015 035,Gondi,Go,2457 2826 341,True,saik,2826,0.5,False
+ai,005 015 035,Konda,Konḍa,2457 2826 341,False,,,,False
+ai,005 015 035,Pengo,Pe,2457 2826 341,False,,,,False
+ai,005 015 035,Manda,Manḍ,2457 2826 341,False,,,,False
+ai,005 015 035,Kui,Kui,2457 2826 341,True,siṅg,2826,0.75,False
+ai,005 015 035,Kuwi,Kuwi,2457 2826 341,False,,,,False
+ai,005 015 035,Kurukh,Kur,2457 2826 341,True,ācā,341,1.0,False
+ai,005 015 035,Malto,Malt,2457 2826 341,False,,,,False
+ai,005 015 035,Brahui,Br,2457 2826 341,False,,,,False
+akal,700 703,Tamil,Ta,7 8 9,True,akal,7,0.0,True
+akal,700 703,Malayalam,Ma,7 8 9,True,akal,9,0.0,True
+akal,700 703,Kannada,Ka,7 8 9,True,agal,8,0.25,False
+akal,700 703,Telugu,Te,7 8 9,True,agalu,8,0.4,False
+akal,700 703,Tulu,Tu,7 8 9,True,aṅgai,7,0.6,False
+akal,700 703,Kota,Ko,7 8 9,True,agalm,8,0.4,False
+akal,700 703,Toda,To,7 8 9,True,o·poṛ-,7,1.0,False
+akal,700 703,Kodagu,Koḍ,7 8 9,True,aŋgay,7,0.6,False
+akal,700 703,Kolami,Kol,7 8 9,True,opaḍ-,7,0.75,False
+akal,700 703,Naikri,Nk,7 8 9,True,ōbaṛ-,7,0.75,False
+akal,700 703,Parji,Pa,7 8 9,False,,,,False
+akal,700 703,Gadaba,Ga,7 8 9,True,agle,9,0.75,False
+akal,700 703,Gondi,Go,7 8 9,True,akna,7,0.5,False
+akal,700 703,Konda,Konḍa,7 8 9,False,,,,False
+akal,700 703,Pengo,Pe,7 8 9,False,,,,False
+akal,700 703,Manda,Manḍ,7 8 9,False,,,,False
+akal,700 703,Kui,Kui,7 8 9,False,,,,False
+akal,700 703,Kuwi,Kuwi,7 8 9,False,,,,False
+akal,700 703,Kurukh,Kur,7 8 9,False,,,,False
+akal,700 703,Malto,Malt,7 8 9,True,agare,8,0.6,False
+akal,700 703,Brahui,Br,7 8 9,False,,,,False
+alaku,831 833,Tamil,Ta,237 238 239 240 255,True,alaku,237,0.0,True
+alaku,831 833,Malayalam,Ma,237 238 239 240 255,True,alaku,237,0.0,True
+alaku,831 833,Kannada,Ka,237 238 239 240 255,True,alaku,240,0.0,True
+alaku,831 833,Telugu,Te,237 238 239 240 255,True,alũgu,237,0.4,False
+alaku,831 833,Tulu,Tu,237 238 239 240 255,True,alagu,240,0.2,False
+alaku,831 833,Kota,Ko,237 238 239 240 255,True,alk-,240,0.4,False
+alaku,831 833,Toda,To,237 238 239 240 255,True,alk-,240,0.4,False
+alaku,831 833,Kodagu,Koḍ,237 238 239 240 255,True,alu,238,0.4,False
+alaku,831 833,Kolami,Kol,237 238 239 240 255,False,,,,False
+alaku,831 833,Naikri,Nk,237 238 239 240 255,False,,,,False
+alaku,831 833,Parji,Pa,237 238 239 240 255,False,,,,False
+alaku,831 833,Gadaba,Ga,237 238 239 240 255,False,,,,False
+alaku,831 833,Gondi,Go,237 238 239 240 255,False,,,,False
+alaku,831 833,Konda,Konḍa,237 238 239 240 255,False,,,,False
+alaku,831 833,Pengo,Pe,237 238 239 240 255,True,lem-,240,0.8,False
+alaku,831 833,Manda,Manḍ,237 238 239 240 255,False,,,,False
+alaku,831 833,Kui,Kui,237 238 239 240 255,True,algu,255,0.4,False
+alaku,831 833,Kuwi,Kuwi,237 238 239 240 255,False,,,,False
+alaku,831 833,Kurukh,Kur,237 238 239 240 255,True,alkhṛā,255,0.6666666666666666,False
+alaku,831 833,Malto,Malt,237 238 239 240 255,False,,,,False
+alaku,831 833,Brahui,Br,237 238 239 240 255,False,,,,False
+ammā,140,Tamil,Ta,180 183,True,ammā,180,0.0,True
+ammā,140,Malayalam,Ma,180 183,True,ammān,183,0.2,False
+ammā,140,Kannada,Ka,180 183,True,ammi,180,0.25,False
+ammā,140,Telugu,Te,180 183,True,amma,183,0.25,False
+ammā,140,Tulu,Tu,180 183,True,amma,183,0.25,False
+ammā,140,Kota,Ko,180 183,True,amna·c,183,0.4,False
+ammā,140,Toda,To,180 183,False,,,,False
+ammā,140,Kodagu,Koḍ,180 183,True,ammë,183,0.25,False
+ammā,140,Kolami,Kol,180 183,True,amma,183,0.25,False
+ammā,140,Naikri,Nk,180 183,True,amma,183,0.25,False
+ammā,140,Parji,Pa,180 183,False,,,,False
+ammā,140,Gadaba,Ga,180 183,True,ammi,183,0.25,False
+ammā,140,Gondi,Go,180 183,True,ammal,183,0.4,False
+ammā,140,Konda,Konḍa,180 183,True,ama,183,0.5,False
+ammā,140,Pengo,Pe,180 183,True,ama,183,0.5,False
+ammā,140,Manda,Manḍ,180 183,True,ama,183,0.5,False
+ammā,140,Kui,Kui,180 183,True,ama,183,0.5,False
+ammā,140,Kuwi,Kuwi,180 183,True,amma,183,0.25,False
+ammā,140,Kurukh,Kur,180 183,True,umbāxārnā,180,0.7777777777777778,False
+ammā,140,Malto,Malt,180 183,False,,,,False
+ammā,140,Brahui,Br,180 183,True,ammā,183,0.0,True
+ari,413,Tamil,Ta,209 212 213 214 215 216 217 218 219 223 314 368 3829 860,True,ari,209,0.0,True
+ari,413,Malayalam,Ma,209 212 213 214 215 216 217 218 219 223 314 368 3829 860,True,ari,212,0.0,True
+ari,413,Kannada,Ka,209 212 213 214 215 216 217 218 219 223 314 368 3829 860,True,ari,212,0.0,True
+ari,413,Telugu,Te,209 212 213 214 215 216 217 218 219 223 314 368 3829 860,True,arise,215,0.4,False
+ari,413,Tulu,Tu,209 212 213 214 215 216 217 218 219 223 314 368 3829 860,True,ari,215,0.0,True
+ari,413,Kota,Ko,209 212 213 214 215 216 217 218 219 223 314 368 3829 860,True,ark-,223,0.3333333333333333,False
+ari,413,Toda,To,209 212 213 214 215 216 217 218 219 223 314 368 3829 860,True,arl,209,0.3333333333333333,False
+ari,413,Kodagu,Koḍ,209 212 213 214 215 216 217 218 219 223 314 368 3829 860,True,ari-,213,0.0,True
+ari,413,Kolami,Kol,209 212 213 214 215 216 217 218 219 223 314 368 3829 860,True,ark-,212,0.3333333333333333,False
+ari,413,Naikri,Nk,209 212 213 214 215 216 217 218 219 223 314 368 3829 860,True,ark-,212,0.3333333333333333,False
+ari,413,Parji,Pa,209 212 213 214 215 216 217 218 219 223 314 368 3829 860,False,,,,False
+ari,413,Gadaba,Ga,209 212 213 214 215 216 217 218 219 223 314 368 3829 860,False,,,,False
+ari,413,Gondi,Go,209 212 213 214 215 216 217 218 219 223 314 368 3829 860,True,ari,860,0.0,True
+ari,413,Konda,Konḍa,209 212 213 214 215 216 217 218 219 223 314 368 3829 860,True,ṟel-,860,1.0,False
+ari,413,Pengo,Pe,209 212 213 214 215 216 217 218 219 223 314 368 3829 860,True,raz-,212,1.0,False
+ari,413,Manda,Manḍ,209 212 213 214 215 216 217 218 219 223 314 368 3829 860,False,,,,False
+ari,413,Kui,Kui,209 212 213 214 215 216 217 218 219 223 314 368 3829 860,True,raspa,212,0.8,False
+ari,413,Kuwi,Kuwi,209 212 213 214 215 216 217 218 219 223 314 368 3829 860,True,rejali,860,0.6666666666666666,False
+ari,413,Kurukh,Kur,209 212 213 214 215 216 217 218 219 223 314 368 3829 860,False,,,,False
+ari,413,Malto,Malt,209 212 213 214 215 216 217 218 219 223 314 368 3829 860,False,,,,False
+ari,413,Brahui,Br,209 212 213 214 215 216 217 218 219 223 314 368 3829 860,False,,,,False
+arici,215 216,Tamil,Ta,215,True,arici,215,0.0,True
+arici,215 216,Malayalam,Ma,215,True,arici,215,0.0,True
+arici,215 216,Kannada,Ka,215,True,akki,215,0.6,False
+arici,215 216,Telugu,Te,215,True,arise,215,0.4,False
+arici,215 216,Tulu,Tu,215,True,ari,215,0.4,False
+arici,215 216,Kota,Ko,215,True,aky,215,0.8,False
+arici,215 216,Toda,To,215,True,ašky,215,0.8,False
+arici,215 216,Kodagu,Koḍ,215,True,akki,215,0.6,False
+arici,215 216,Kolami,Kol,215,False,,,,False
+arici,215 216,Naikri,Nk,215,False,,,,False
+arici,215 216,Parji,Pa,215,False,,,,False
+arici,215 216,Gadaba,Ga,215,False,,,,False
+arici,215 216,Gondi,Go,215,False,,,,False
+arici,215 216,Konda,Konḍa,215,False,,,,False
+arici,215 216,Pengo,Pe,215,False,,,,False
+arici,215 216,Manda,Manḍ,215,False,,,,False
+arici,215 216,Kui,Kui,215,False,,,,False
+arici,215 216,Kuwi,Kuwi,215,False,,,,False
+arici,215 216,Kurukh,Kur,215,False,,,,False
+arici,215 216,Malto,Malt,215,False,,,,False
+arici,215 216,Brahui,Br,215,False,,,,False
+aḷa,700 703,Tamil,Ta,291 295 296 308,True,aḷa,295,0.0,True
+aḷa,700 703,Malayalam,Ma,291 295 296 308,True,aḷa,308,0.0,True
+aḷa,700 703,Kannada,Ka,291 295 296 308,True,aḷa,291,0.0,True
+aḷa,700 703,Telugu,Te,291 295 296 308,True,alavi,291,0.6,False
+aḷa,700 703,Tulu,Tu,291 295 296 308,True,aḷa,295,0.0,True
+aḷa,700 703,Kota,Ko,291 295 296 308,True,aḷv-,295,0.3333333333333333,False
+aḷa,700 703,Toda,To,291 295 296 308,True,ał̣-,295,0.6666666666666666,False
+aḷa,700 703,Kodagu,Koḍ,291 295 296 308,True,aḷa-,295,0.0,True
+aḷa,700 703,Kolami,Kol,291 295 296 308,True,la·v,291,1.0,False
+aḷa,700 703,Naikri,Nk,291 295 296 308,False,,,,False
+aḷa,700 703,Parji,Pa,291 295 296 308,True,lāv,291,1.0,False
+aḷa,700 703,Gadaba,Ga,291 295 296 308,False,,,,False
+aḷa,700 703,Gondi,Go,291 295 296 308,True,lāv,291,1.0,False
+aḷa,700 703,Konda,Konḍa,291 295 296 308,True,alvi,291,0.75,False
+aḷa,700 703,Pengo,Pe,291 295 296 308,True,lāc-,295,1.0,False
+aḷa,700 703,Manda,Manḍ,291 295 296 308,True,lēc-,295,1.0,False
+aḷa,700 703,Kui,Kui,291 295 296 308,True,ḍāsa,295,0.75,False
+aḷa,700 703,Kuwi,Kuwi,291 295 296 308,True,lācali,295,0.8333333333333334,False
+aḷa,700 703,Kurukh,Kur,291 295 296 308,True,alap,308,0.5,False
+aḷa,700 703,Malto,Malt,291 295 296 308,False,,,,False
+aḷa,700 703,Brahui,Br,291 295 296 308,True,ha-,296,0.6666666666666666,False
+aṟu,006 016,Tamil,Ta,222 2419 311 317 3625,True,aṟu,317,0.0,True
+aṟu,006 016,Malayalam,Ma,222 2419 311 317 3625,True,aru,222,0.3333333333333333,False
+aṟu,006 016,Kannada,Ka,222 2419 311 317 3625,True,aṟu,311,0.0,True
+aṟu,006 016,Telugu,Te,222 2419 311 317 3625,True,aṟu,222,0.0,True
+aṟu,006 016,Tulu,Tu,222 2419 311 317 3625,True,aru,222,0.3333333333333333,False
+aṟu,006 016,Kota,Ko,222 2419 311 317 3625,False,,,,False
+aṟu,006 016,Toda,To,222 2419 311 317 3625,False,,,,False
+aṟu,006 016,Kodagu,Koḍ,222 2419 311 317 3625,False,,,,False
+aṟu,006 016,Kolami,Kol,222 2419 311 317 3625,False,,,,False
+aṟu,006 016,Naikri,Nk,222 2419 311 317 3625,False,,,,False
+aṟu,006 016,Parji,Pa,222 2419 311 317 3625,True,car,2419,1.0,False
+aṟu,006 016,Gadaba,Ga,222 2419 311 317 3625,False,,,,False
+aṟu,006 016,Gondi,Go,222 2419 311 317 3625,True,araluk,222,0.6666666666666666,False
+aṟu,006 016,Konda,Konḍa,222 2419 311 317 3625,True,naRk-,3625,0.75,False
+aṟu,006 016,Pengo,Pe,222 2419 311 317 3625,False,,,,False
+aṟu,006 016,Manda,Manḍ,222 2419 311 317 3625,False,,,,False
+aṟu,006 016,Kui,Kui,222 2419 311 317 3625,False,,,,False
+aṟu,006 016,Kuwi,Kuwi,222 2419 311 317 3625,True,naṅg-,3625,0.75,False
+aṟu,006 016,Kurukh,Kur,222 2419 311 317 3625,True,arbar-parbar,222,0.9090909090909091,False
+aṟu,006 016,Malto,Malt,222 2419 311 317 3625,True,narke,3625,0.8,False
+aṟu,006 016,Brahui,Br,222 2419 311 317 3625,False,,,,False
+aṭi,716 717,Tamil,Ta,126 70 72 73 74 76 77 84,True,aṭi,70,0.0,True
+aṭi,716 717,Malayalam,Ma,126 70 72 73 74 76 77 84,True,aṭi,72,0.0,True
+aṭi,716 717,Kannada,Ka,126 70 72 73 74 76 77 84,True,aḍi,72,0.3333333333333333,False
+aṭi,716 717,Telugu,Te,126 70 72 73 74 76 77 84,True,aḍi-,84,0.3333333333333333,False
+aṭi,716 717,Tulu,Tu,126 70 72 73 74 76 77 84,True,aṭṭi,84,0.25,False
+aṭi,716 717,Kota,Ko,126 70 72 73 74 76 77 84,True,aṛy,72,0.6666666666666666,False
+aṭi,716 717,Toda,To,126 70 72 73 74 76 77 84,True,oṛy,72,1.0,False
+aṭi,716 717,Kodagu,Koḍ,126 70 72 73 74 76 77 84,True,aḍi,72,0.3333333333333333,False
+aṭi,716 717,Kolami,Kol,126 70 72 73 74 76 77 84,True,aḍg-,74,0.6666666666666666,False
+aṭi,716 717,Naikri,Nk,126 70 72 73 74 76 77 84,True,aṭil-,76,0.25,False
+aṭi,716 717,Parji,Pa,126 70 72 73 74 76 77 84,True,aṭṭ-,77,0.3333333333333333,False
+aṭi,716 717,Gadaba,Ga,126 70 72 73 74 76 77 84,True,aṭ-,77,0.3333333333333333,False
+aṭi,716 717,Gondi,Go,126 70 72 73 74 76 77 84,True,aṭṭ-,76,0.3333333333333333,False
+aṭi,716 717,Konda,Konḍa,126 70 72 73 74 76 77 84,True,aṭk-,76,0.3333333333333333,False
+aṭi,716 717,Pengo,Pe,126 70 72 73 74 76 77 84,True,aḍer,84,0.75,False
+aṭi,716 717,Manda,Manḍ,126 70 72 73 74 76 77 84,False,,,,False
+aṭi,716 717,Kui,Kui,126 70 72 73 74 76 77 84,True,aṭa,76,0.3333333333333333,False
+aṭi,716 717,Kuwi,Kuwi,126 70 72 73 74 76 77 84,True,aṭi,76,0.0,True
+aṭi,716 717,Kurukh,Kur,126 70 72 73 74 76 77 84,True,aṭhū,126,0.5,False
+aṭi,716 717,Malto,Malt,126 70 72 73 74 76 77 84,True,aṭi,126,0.0,True
+aṭi,716 717,Brahui,Br,126 70 72 73 74 76 77 84,False,,,,False
+caṭṭi,335,Tamil,Ta,2306 2307,True,caṭṭi,2306,0.0,True
+caṭṭi,335,Malayalam,Ma,2306 2307,True,caṭṭi,2306,0.0,True
+caṭṭi,335,Kannada,Ka,2306 2307,True,caṭṭi,2306,0.0,True
+caṭṭi,335,Telugu,Te,2306 2307,True,caṭṭi,2306,0.0,True
+caṭṭi,335,Tulu,Tu,2306 2307,True,caṭṭi,2306,0.0,True
+caṭṭi,335,Kota,Ko,2306 2307,False,,,,False
+caṭṭi,335,Toda,To,2306 2307,False,,,,False
+caṭṭi,335,Kodagu,Koḍ,2306 2307,False,,,,False
+caṭṭi,335,Kolami,Kol,2306 2307,False,,,,False
+caṭṭi,335,Naikri,Nk,2306 2307,False,,,,False
+caṭṭi,335,Parji,Pa,2306 2307,False,,,,False
+caṭṭi,335,Gadaba,Ga,2306 2307,False,,,,False
+caṭṭi,335,Gondi,Go,2306 2307,False,,,,False
+caṭṭi,335,Konda,Konḍa,2306 2307,True,saṭi,2306,0.4,False
+caṭṭi,335,Pengo,Pe,2306 2307,False,,,,False
+caṭṭi,335,Manda,Manḍ,2306 2307,False,,,,False
+caṭṭi,335,Kui,Kui,2306 2307,False,,,,False
+caṭṭi,335,Kuwi,Kuwi,2306 2307,False,,,,False
+caṭṭi,335,Kurukh,Kur,2306 2307,False,,,,False
+caṭṭi,335,Malto,Malt,2306 2307,False,,,,False
+caṭṭi,335,Brahui,Br,2306 2307,False,,,,False
+cikka,400 402,Tamil,Ta,2495,True,cikka,2495,0.0,True
+cikka,400 402,Malayalam,Ma,2495,True,cikkiṇi,2495,0.42857142857142855,False
+cikka,400 402,Kannada,Ka,2495,True,cikka,2495,0.0,True
+cikka,400 402,Telugu,Te,2495,True,cikiciki,2495,0.5,False
+cikka,400 402,Tulu,Tu,2495,True,cikka,2495,0.0,True
+cikka,400 402,Kota,Ko,2495,True,cikn,2495,0.4,False
+cikka,400 402,Toda,To,2495,False,,,,False
+cikka,400 402,Kodagu,Koḍ,2495,True,cikk-aḍake,2495,0.4444444444444444,False
+cikka,400 402,Kolami,Kol,2495,False,,,,False
+cikka,400 402,Naikri,Nk,2495,False,,,,False
+cikka,400 402,Parji,Pa,2495,False,,,,False
+cikka,400 402,Gadaba,Ga,2495,False,,,,False
+cikka,400 402,Gondi,Go,2495,True,cikkāl,2495,0.3333333333333333,False
+cikka,400 402,Konda,Konḍa,2495,False,,,,False
+cikka,400 402,Pengo,Pe,2495,False,,,,False
+cikka,400 402,Manda,Manḍ,2495,False,,,,False
+cikka,400 402,Kui,Kui,2495,False,,,,False
+cikka,400 402,Kuwi,Kuwi,2495,False,,,,False
+cikka,400 402,Kurukh,Kur,2495,False,,,,False
+cikka,400 402,Malto,Malt,2495,False,,,,False
+cikka,400 402,Brahui,Br,2495,False,,,,False
+cikkam,400 402,Tamil,Ta,2497,True,cikkam,2497,0.0,True
+cikkam,400 402,Malayalam,Ma,2497,True,cikkuka,2497,0.42857142857142855,False
+cikkam,400 402,Kannada,Ka,2497,True,sikkaṭi,2497,0.42857142857142855,False
+cikkam,400 402,Telugu,Te,2497,True,cikkaṇṭu,2497,0.375,False
+cikkam,400 402,Tulu,Tu,2497,False,,,,False
+cikkam,400 402,Kota,Ko,2497,False,,,,False
+cikkam,400 402,Toda,To,2497,False,,,,False
+cikkam,400 402,Kodagu,Koḍ,2497,False,,,,False
+cikkam,400 402,Kolami,Kol,2497,False,,,,False
+cikkam,400 402,Naikri,Nk,2497,False,,,,False
+cikkam,400 402,Parji,Pa,2497,False,,,,False
+cikkam,400 402,Gadaba,Ga,2497,False,,,,False
+cikkam,400 402,Gondi,Go,2497,False,,,,False
+cikkam,400 402,Konda,Konḍa,2497,False,,,,False
+cikkam,400 402,Pengo,Pe,2497,False,,,,False
+cikkam,400 402,Manda,Manḍ,2497,False,,,,False
+cikkam,400 402,Kui,Kui,2497,False,,,,False
+cikkam,400 402,Kuwi,Kuwi,2497,False,,,,False
+cikkam,400 402,Kurukh,Kur,2497,False,,,,False
+cikkam,400 402,Malto,Malt,2497,False,,,,False
+cikkam,400 402,Brahui,Br,2497,False,,,,False
+cāy,240,Tamil,Ta,2430 2453 2455 2456 2457 2458,True,cāy,2430,0.0,True
+cāy,240,Malayalam,Ma,2430 2453 2455 2456 2457 2458,True,cāy,2457,0.0,True
+cāy,240,Kannada,Ka,2430 2453 2455 2456 2457 2458,True,say,2458,0.6666666666666666,False
+cāy,240,Telugu,Te,2430 2453 2455 2456 2457 2458,True,cāya,2456,0.25,False
+cāy,240,Tulu,Tu,2430 2453 2455 2456 2457 2458,True,cā,2455,0.3333333333333333,False
+cāy,240,Kota,Ko,2430 2453 2455 2456 2457 2458,True,ca·yv,2457,0.25,False
+cāy,240,Toda,To,2430 2453 2455 2456 2457 2458,True,toy-,2458,0.6666666666666666,False
+cāy,240,Kodagu,Koḍ,2430 2453 2455 2456 2457 2458,True,ca·y,2457,0.0,True
+cāy,240,Kolami,Kol,2430 2453 2455 2456 2457 2458,True,sāy-,2458,0.3333333333333333,False
+cāy,240,Naikri,Nk,2430 2453 2455 2456 2457 2458,True,sāy-,2458,0.3333333333333333,False
+cāy,240,Parji,Pa,2430 2453 2455 2456 2457 2458,True,cāy-,2458,0.0,True
+cāy,240,Gadaba,Ga,2430 2453 2455 2456 2457 2458,True,sāy-,2458,0.3333333333333333,False
+cāy,240,Gondi,Go,2430 2453 2455 2456 2457 2458,False,,,,False
+cāy,240,Konda,Konḍa,2430 2453 2455 2456 2457 2458,False,,,,False
+cāy,240,Pengo,Pe,2430 2453 2455 2456 2457 2458,False,,,,False
+cāy,240,Manda,Manḍ,2430 2453 2455 2456 2457 2458,True,hē-,2456,1.0,False
+cāy,240,Kui,Kui,2430 2453 2455 2456 2457 2458,True,jāpa,2456,0.75,False
+cāy,240,Kuwi,Kuwi,2430 2453 2455 2456 2457 2458,True,sāg-,2430,0.6666666666666666,False
+cāy,240,Kurukh,Kur,2430 2453 2455 2456 2457 2458,False,,,,False
+cāy,240,Malto,Malt,2430 2453 2455 2456 2457 2458,False,,,,False
+cāy,240,Brahui,Br,2430 2453 2455 2456 2457 2458,False,,,,False
+eḷ,854,Tamil,Ta,506 513 854 855 910,True,eḷ,854,0.0,True
+eḷ,854,Malayalam,Ma,506 513 854 855 910,True,eḷ,854,0.0,True
+eḷ,854,Kannada,Ka,506 513 854 855 910,True,eḷ,513,0.0,True
+eḷ,854,Telugu,Te,506 513 854 855 910,True,ela,513,0.6666666666666666,False
+eḷ,854,Tulu,Tu,506 513 854 855 910,True,eḷe,506,0.3333333333333333,False
+eḷ,854,Kota,Ko,506 513 854 855 910,True,eḷ,506,0.0,True
+eḷ,854,Toda,To,506 513 854 855 910,True,eḷ,513,0.0,True
+eḷ,854,Kodagu,Koḍ,506 513 854 855 910,True,ëḷḷ,854,0.6666666666666666,False
+eḷ,854,Kolami,Kol,506 513 854 855 910,True,eḍ,910,0.5,False
+eḷ,854,Naikri,Nk,506 513 854 855 910,True,lēŋga,513,1.0,False
+eḷ,854,Parji,Pa,506 513 854 855 910,True,iled,513,0.75,False
+eḷ,854,Gadaba,Ga,506 513 854 855 910,True,iled,513,0.75,False
+eḷ,854,Gondi,Go,506 513 854 855 910,True,fem,513,0.6666666666666666,False
+eḷ,854,Konda,Konḍa,506 513 854 855 910,True,lēŋa,513,1.0,False
+eḷ,854,Pengo,Pe,506 513 854 855 910,False,,,,False
+eḷ,854,Manda,Manḍ,506 513 854 855 910,False,,,,False
+eḷ,854,Kui,Kui,506 513 854 855 910,True,ēspa,506,1.0,False
+eḷ,854,Kuwi,Kuwi,506 513 854 855 910,False,,,,False
+eḷ,854,Kurukh,Kur,506 513 854 855 910,False,,,,False
+eḷ,854,Malto,Malt,506 513 854 855 910,False,,,,False
+eḷ,854,Brahui,Br,506 513 854 855 910,False,,,,False
+eṇ,008,Tamil,Ta,854 887,True,eṇ,854,0.0,True
+eṇ,008,Malayalam,Ma,854 887,True,eḷ,854,0.5,False
+eṇ,008,Kannada,Ka,854 887,True,eḷ,854,0.5,False
+eṇ,008,Telugu,Te,854 887,False,,,,False
+eṇ,008,Tulu,Tu,854 887,True,eṇme,854,0.5,False
+eṇ,008,Kota,Ko,854 887,True,eṇ,854,0.0,True
+eṇ,008,Toda,To,854 887,False,,,,False
+eṇ,008,Kodagu,Koḍ,854 887,True,ëṇṇe,854,0.75,False
+eṇ,008,Kolami,Kol,854 887,False,,,,False
+eṇ,008,Naikri,Nk,854 887,False,,,,False
+eṇ,008,Parji,Pa,854 887,False,,,,False
+eṇ,008,Gadaba,Ga,854 887,False,,,,False
+eṇ,008,Gondi,Go,854 887,False,,,,False
+eṇ,008,Konda,Konḍa,854 887,False,,,,False
+eṇ,008,Pengo,Pe,854 887,False,,,,False
+eṇ,008,Manda,Manḍ,854 887,False,,,,False
+eṇ,008,Kui,Kui,854 887,False,,,,False
+eṇ,008,Kuwi,Kuwi,854 887,False,,,,False
+eṇ,008,Kurukh,Kur,854 887,False,,,,False
+eṇ,008,Malto,Malt,854 887,False,,,,False
+eṇ,008,Brahui,Br,854 887,False,,,,False
+iru,002 032 091 175 176 177 178 416 617 742 743 744 821 904 927,Tamil,Ta,2552 467 474 480 481 492 823,True,iru,2552,0.0,True
+iru,002 032 091 175 176 177 178 416 617 742 743 744 821 904 927,Malayalam,Ma,2552 467 474 480 481 492 823,True,iru,2552,0.0,True
+iru,002 032 091 175 176 177 178 416 617 742 743 744 821 904 927,Kannada,Ka,2552 467 474 480 481 492 823,True,iru,480,0.0,True
+iru,002 032 091 175 176 177 178 416 617 742 743 744 821 904 927,Telugu,Te,2552 467 474 480 481 492 823,True,iru-,474,0.0,True
+iru,002 032 091 175 176 177 178 416 617 742 743 744 821 904 927,Tulu,Tu,2552 467 474 480 481 492 823,True,irů,474,0.3333333333333333,False
+iru,002 032 091 175 176 177 178 416 617 742 743 744 821 904 927,Kota,Ko,2552 467 474 480 481 492 823,True,irl,2552,0.3333333333333333,False
+iru,002 032 091 175 176 177 178 416 617 742 743 744 821 904 927,Toda,To,2552 467 474 480 481 492 823,True,iṣ,2552,0.6666666666666666,False
+iru,002 032 091 175 176 177 178 416 617 742 743 744 821 904 927,Kodagu,Koḍ,2552 467 474 480 481 492 823,True,irï,2552,0.3333333333333333,False
+iru,002 032 091 175 176 177 178 416 617 742 743 744 821 904 927,Kolami,Kol,2552 467 474 480 481 492 823,True,cirum,2552,0.4,False
+iru,002 032 091 175 176 177 178 416 617 742 743 744 821 904 927,Naikri,Nk,2552 467 474 480 481 492 823,True,ira,474,0.3333333333333333,False
+iru,002 032 091 175 176 177 178 416 617 742 743 744 821 904 927,Parji,Pa,2552 467 474 480 481 492 823,True,irḍu,474,0.25,False
+iru,002 032 091 175 176 177 178 416 617 742 743 744 821 904 927,Gadaba,Ga,2552 467 474 480 481 492 823,True,irul,474,0.25,False
+iru,002 032 091 175 176 177 178 416 617 742 743 744 821 904 927,Gondi,Go,2552 467 474 480 481 492 823,True,irvur,474,0.4,False
+iru,002 032 091 175 176 177 178 416 617 742 743 744 821 904 927,Konda,Konḍa,2552 467 474 480 481 492 823,True,siruki,2552,0.5,False
+iru,002 032 091 175 176 177 178 416 617 742 743 744 821 904 927,Pengo,Pe,2552 467 474 480 481 492 823,True,ri,474,0.6666666666666666,False
+iru,002 032 091 175 176 177 178 416 617 742 743 744 821 904 927,Manda,Manḍ,2552 467 474 480 481 492 823,True,ri,474,0.6666666666666666,False
+iru,002 032 091 175 176 177 178 416 617 742 743 744 821 904 927,Kui,Kui,2552 467 474 480 481 492 823,True,rīaru,474,0.6,False
+iru,002 032 091 175 176 177 178 416 617 742 743 744 821 904 927,Kuwi,Kuwi,2552 467 474 480 481 492 823,True,riari,474,0.6,False
+iru,002 032 091 175 176 177 178 416 617 742 743 744 821 904 927,Kurukh,Kur,2552 467 474 480 481 492 823,True,irb,474,0.3333333333333333,False
+iru,002 032 091 175 176 177 178 416 617 742 743 744 821 904 927,Malto,Malt,2552 467 474 480 481 492 823,True,iwr,474,0.6666666666666666,False
+iru,002 032 091 175 176 177 178 416 617 742 743 744 821 904 927,Brahui,Br,2552 467 474 480 481 492 823,True,iraṭ,474,0.5,False
+iruvar,091,Tamil,Ta,474,True,iruvar,474,0.0,True
+iruvar,091,Malayalam,Ma,474,True,iruvar,474,0.0,True
+iruvar,091,Kannada,Ka,474,True,irvar,474,0.16666666666666666,False
+iruvar,091,Telugu,Te,474,True,iruvadi,474,0.2857142857142857,False
+iruvar,091,Tulu,Tu,474,True,irva,474,0.3333333333333333,False
+iruvar,091,Kota,Ko,474,True,irrva·d,474,0.5,False
+iruvar,091,Toda,To,474,True,i,474,0.8333333333333334,False
+iruvar,091,Kodagu,Koḍ,474,True,iru-vadï,474,0.2857142857142857,False
+iruvar,091,Kolami,Kol,474,True,iddar,474,0.5,False
+iruvar,091,Naikri,Nk,474,True,iddar,474,0.5,False
+iruvar,091,Parji,Pa,474,True,irul,474,0.5,False
+iruvar,091,Gadaba,Ga,474,True,irul,474,0.5,False
+iruvar,091,Gondi,Go,474,True,irvur,474,0.3333333333333333,False
+iruvar,091,Konda,Konḍa,474,True,runḍi,474,0.6666666666666666,False
+iruvar,091,Pengo,Pe,474,True,rikar,474,0.5,False
+iruvar,091,Manda,Manḍ,474,True,rikar,474,0.5,False
+iruvar,091,Kui,Kui,474,True,rīaru,474,0.6666666666666666,False
+iruvar,091,Kuwi,Kuwi,474,True,rīari,474,0.6666666666666666,False
+iruvar,091,Kurukh,Kur,474,True,irbar,474,0.3333333333333333,False
+iruvar,091,Malto,Malt,474,True,iwr,474,0.6666666666666666,False
+iruvar,091,Brahui,Br,474,True,iraṭ,474,0.5,False
+iṇai,840,Tamil,Ta,457 507,True,iṇai,457,0.0,True
+iṇai,840,Malayalam,Ma,457 507,True,iṇa,457,0.25,False
+iṇai,840,Kannada,Ka,457 507,True,eṇa,457,0.5,False
+iṇai,840,Telugu,Te,457 507,True,enayika,457,0.7142857142857143,False
+iṇai,840,Tulu,Tu,457 507,True,iṇè,457,0.5,False
+iṇai,840,Kota,Ko,457 507,True,iṛ-,507,0.75,False
+iṇai,840,Toda,To,457 507,False,,,,False
+iṇai,840,Kodagu,Koḍ,457 507,True,ëṇe,457,0.75,False
+iṇai,840,Kolami,Kol,457 507,True,deŋg-,507,1.0,False
+iṇai,840,Naikri,Nk,457 507,False,,,,False
+iṇai,840,Parji,Pa,457 507,False,,,,False
+iṇai,840,Gadaba,Ga,457 507,False,,,,False
+iṇai,840,Gondi,Go,457 507,False,,,,False
+iṇai,840,Konda,Konḍa,457 507,False,,,,False
+iṇai,840,Pengo,Pe,457 507,False,,,,False
+iṇai,840,Manda,Manḍ,457 507,False,,,,False
+iṇai,840,Kui,Kui,457 507,False,,,,False
+iṇai,840,Kuwi,Kuwi,457 507,False,,,,False
+iṇai,840,Kurukh,Kur,457 507,False,,,,False
+iṇai,840,Malto,Malt,457 507,False,,,,False
+iṇai,840,Brahui,Br,457 507,False,,,,False
+iṉ,060,Tamil,Ta,,False,,,,False
+iṉ,060,Malayalam,Ma,,False,,,,False
+iṉ,060,Kannada,Ka,,False,,,,False
+iṉ,060,Telugu,Te,,False,,,,False
+iṉ,060,Tulu,Tu,,False,,,,False
+iṉ,060,Kota,Ko,,False,,,,False
+iṉ,060,Toda,To,,False,,,,False
+iṉ,060,Kodagu,Koḍ,,False,,,,False
+iṉ,060,Kolami,Kol,,False,,,,False
+iṉ,060,Naikri,Nk,,False,,,,False
+iṉ,060,Parji,Pa,,False,,,,False
+iṉ,060,Gadaba,Ga,,False,,,,False
+iṉ,060,Gondi,Go,,False,,,,False
+iṉ,060,Konda,Konḍa,,False,,,,False
+iṉ,060,Pengo,Pe,,False,,,,False
+iṉ,060,Manda,Manḍ,,False,,,,False
+iṉ,060,Kui,Kui,,False,,,,False
+iṉ,060,Kuwi,Kuwi,,False,,,,False
+iṉ,060,Kurukh,Kur,,False,,,,False
+iṉ,060,Malto,Malt,,False,,,,False
+iṉ,060,Brahui,Br,,False,,,,False
+iṟai,175 176 177 178 231,Tamil,Ta,1983 2591 516 5169 521 523 527 528 866,True,iṟai,1983,0.0,True
+iṟai,175 176 177 178 231,Malayalam,Ma,1983 2591 516 5169 521 523 527 528 866,True,iṟa,521,0.25,False
+iṟai,175 176 177 178 231,Kannada,Ka,1983 2591 516 5169 521 523 527 528 866,True,eṟati,527,0.4,False
+iṟai,175 176 177 178 231,Telugu,Te,1983 2591 516 5169 521 523 527 528 866,True,eṟa,527,0.5,False
+iṟai,175 176 177 178 231,Tulu,Tu,1983 2591 516 5169 521 523 527 528 866,True,eraguni,866,0.7142857142857143,False
+iṟai,175 176 177 178 231,Kota,Ko,1983 2591 516 5169 521 523 527 528 866,True,kerŋgl,1983,1.0,False
+iṟai,175 176 177 178 231,Toda,To,1983 2591 516 5169 521 523 527 528 866,True,iṟk-,516,0.5,False
+iṟai,175 176 177 178 231,Kodagu,Koḍ,1983 2591 516 5169 521 523 527 528 866,True,ërakï,528,0.8,False
+iṟai,175 176 177 178 231,Kolami,Kol,1983 2591 516 5169 521 523 527 528 866,True,reḍapa,2591,0.8333333333333334,False
+iṟai,175 176 177 178 231,Naikri,Nk,1983 2591 516 5169 521 523 527 528 866,True,rekka,2591,1.0,False
+iṟai,175 176 177 178 231,Parji,Pa,1983 2591 516 5169 521 523 527 528 866,True,rekka,2591,1.0,False
+iṟai,175 176 177 178 231,Gadaba,Ga,1983 2591 516 5169 521 523 527 528 866,False,,,,False
+iṟai,175 176 177 178 231,Gondi,Go,1983 2591 516 5169 521 523 527 528 866,True,girru,1983,0.8,False
+iṟai,175 176 177 178 231,Konda,Konḍa,1983 2591 516 5169 521 523 527 528 866,True,ṟēkam,528,0.8,False
+iṟai,175 176 177 178 231,Pengo,Pe,1983 2591 516 5169 521 523 527 528 866,True,jēgom,528,1.0,False
+iṟai,175 176 177 178 231,Manda,Manḍ,1983 2591 516 5169 521 523 527 528 866,False,,,,False
+iṟai,175 176 177 178 231,Kui,Kui,1983 2591 516 5169 521 523 527 528 866,True,rēpa,528,1.0,False
+iṟai,175 176 177 178 231,Kuwi,Kuwi,1983 2591 516 5169 521 523 527 528 866,True,rekka,2591,1.0,False
+iṟai,175 176 177 178 231,Kurukh,Kur,1983 2591 516 5169 521 523 527 528 866,True,erxta'ānā,521,0.875,False
+iṟai,175 176 177 178 231,Malto,Malt,1983 2591 516 5169 521 523 527 528 866,True,ergtre,521,1.0,False
+iṟai,175 176 177 178 231,Brahui,Br,1983 2591 516 5169 521 523 527 528 866,False,,,,False
+iṭukku,193 195 797 798,Tamil,Ta,444 445,True,iṭukku,444,0.0,True
+iṭukku,193 195 797 798,Malayalam,Ma,444 445,True,iṭukku,444,0.0,True
+iṭukku,193 195 797 798,Kannada,Ka,444 445,True,iṭaku,445,0.3333333333333333,False
+iṭukku,193 195 797 798,Telugu,Te,444 445,True,iṭṭalamu,445,0.625,False
+iṭukku,193 195 797 798,Tulu,Tu,444 445,True,iḍumbulu,444,0.625,False
+iṭukku,193 195 797 798,Kota,Ko,444 445,True,ikḷ,444,0.6666666666666666,False
+iṭukku,193 195 797 798,Toda,To,444 445,False,,,,False
+iṭukku,193 195 797 798,Kodagu,Koḍ,444 445,False,,,,False
+iṭukku,193 195 797 798,Kolami,Kol,444 445,False,,,,False
+iṭukku,193 195 797 798,Naikri,Nk,444 445,False,,,,False
+iṭukku,193 195 797 798,Parji,Pa,444 445,False,,,,False
+iṭukku,193 195 797 798,Gadaba,Ga,444 445,True,iḍigeda,445,0.8571428571428571,False
+iṭukku,193 195 797 798,Gondi,Go,444 445,False,,,,False
+iṭukku,193 195 797 798,Konda,Konḍa,444 445,False,,,,False
+iṭukku,193 195 797 798,Pengo,Pe,444 445,False,,,,False
+iṭukku,193 195 797 798,Manda,Manḍ,444 445,False,,,,False
+iṭukku,193 195 797 798,Kui,Kui,444 445,True,ḍīpa,444,1.0,False
+iṭukku,193 195 797 798,Kuwi,Kuwi,444 445,False,,,,False
+iṭukku,193 195 797 798,Kurukh,Kur,444 445,False,,,,False
+iṭukku,193 195 797 798,Malto,Malt,444 445,False,,,,False
+iṭukku,193 195 797 798,Brahui,Br,444 445,False,,,,False
+kalam,704 705 706 707,Tamil,Ta,1301 1305 1376,True,kalam,1301,0.0,True
+kalam,704 705 706 707,Malayalam,Ma,1301 1305 1376,True,kalam,1305,0.0,True
+kalam,704 705 706 707,Kannada,Ka,1301 1305 1376,True,kala,1305,0.2,False
+kalam,704 705 706 707,Telugu,Te,1301 1305 1376,True,kalamu,1305,0.16666666666666666,False
+kalam,704 705 706 707,Tulu,Tu,1301 1305 1376,True,kala,1376,0.2,False
+kalam,704 705 706 707,Kota,Ko,1301 1305 1376,True,kalm,1305,0.2,False
+kalam,704 705 706 707,Toda,To,1301 1305 1376,True,koł̣ṇ,1376,0.8,False
+kalam,704 705 706 707,Kodagu,Koḍ,1301 1305 1376,True,kala,1305,0.2,False
+kalam,704 705 706 707,Kolami,Kol,1301 1305 1376,True,kalave,1376,0.3333333333333333,False
+kalam,704 705 706 707,Naikri,Nk,1301 1305 1376,True,kalay,1376,0.2,False
+kalam,704 705 706 707,Parji,Pa,1301 1305 1376,True,kali,1376,0.4,False
+kalam,704 705 706 707,Gadaba,Ga,1301 1305 1376,True,kalin,1376,0.4,False
+kalam,704 705 706 707,Gondi,Go,1301 1305 1376,True,kalam,1376,0.0,True
+kalam,704 705 706 707,Konda,Konḍa,1301 1305 1376,True,kala,1301,0.2,False
+kalam,704 705 706 707,Pengo,Pe,1301 1305 1376,True,kala,1301,0.2,False
+kalam,704 705 706 707,Manda,Manḍ,1301 1305 1376,True,kāṛa,1376,0.6,False
+kalam,704 705 706 707,Kui,Kui,1301 1305 1376,True,kali,1301,0.4,False
+kalam,704 705 706 707,Kuwi,Kuwi,1301 1305 1376,True,kalōmi,1376,0.3333333333333333,False
+kalam,704 705 706 707,Kurukh,Kur,1301 1305 1376,True,xall,1376,0.6,False
+kalam,704 705 706 707,Malto,Malt,1301 1305 1376,True,kale,1301,0.4,False
+kalam,704 705 706 707,Brahui,Br,1301 1305 1376,True,kalanḍ,1305,0.3333333333333333,False
+kampu,803 804 806 807,Tamil,Ta,1220 1242,True,kampu,1220,0.0,True
+kampu,803 804 806 807,Malayalam,Ma,1220 1242,True,kampu,1242,0.0,True
+kampu,803 804 806 807,Kannada,Ka,1220 1242,True,kambu,1242,0.2,False
+kampu,803 804 806 807,Telugu,Te,1220 1242,True,kambu,1242,0.2,False
+kampu,803 804 806 807,Tulu,Tu,1220 1242,False,,,,False
+kampu,803 804 806 807,Kota,Ko,1220 1242,False,,,,False
+kampu,803 804 806 807,Toda,To,1220 1242,False,,,,False
+kampu,803 804 806 807,Kodagu,Koḍ,1220 1242,False,,,,False
+kampu,803 804 806 807,Kolami,Kol,1220 1242,False,,,,False
+kampu,803 804 806 807,Naikri,Nk,1220 1242,False,,,,False
+kampu,803 804 806 807,Parji,Pa,1220 1242,False,,,,False
+kampu,803 804 806 807,Gadaba,Ga,1220 1242,False,,,,False
+kampu,803 804 806 807,Gondi,Go,1220 1242,False,,,,False
+kampu,803 804 806 807,Konda,Konḍa,1220 1242,False,,,,False
+kampu,803 804 806 807,Pengo,Pe,1220 1242,False,,,,False
+kampu,803 804 806 807,Manda,Manḍ,1220 1242,False,,,,False
+kampu,803 804 806 807,Kui,Kui,1220 1242,False,,,,False
+kampu,803 804 806 807,Kuwi,Kuwi,1220 1242,False,,,,False
+kampu,803 804 806 807,Kurukh,Kur,1220 1242,False,,,,False
+kampu,803 804 806 807,Malto,Malt,1220 1242,False,,,,False
+kampu,803 804 806 807,Brahui,Br,1220 1242,False,,,,False
+katir,240 241 242,Tamil,Ta,1193 1194 1195,True,katir,1193,0.0,True
+katir,240 241 242,Malayalam,Ma,1193 1194 1195,True,katir,1193,0.0,True
+katir,240 241 242,Kannada,Ka,1193 1194 1195,True,kadir,1193,0.2,False
+katir,240 241 242,Telugu,Te,1193 1194 1195,True,kaduru,1193,0.5,False
+katir,240 241 242,Tulu,Tu,1193 1194 1195,True,kadirů,1194,0.3333333333333333,False
+katir,240 241 242,Kota,Ko,1193 1194 1195,False,,,,False
+katir,240 241 242,Toda,To,1193 1194 1195,False,,,,False
+katir,240 241 242,Kodagu,Koḍ,1193 1194 1195,True,kadï,1194,0.6,False
+katir,240 241 242,Kolami,Kol,1193 1194 1195,False,,,,False
+katir,240 241 242,Naikri,Nk,1193 1194 1195,False,,,,False
+katir,240 241 242,Parji,Pa,1193 1194 1195,False,,,,False
+katir,240 241 242,Gadaba,Ga,1193 1194 1195,True,kadur,1195,0.4,False
+katir,240 241 242,Gondi,Go,1193 1194 1195,False,,,,False
+katir,240 241 242,Konda,Konḍa,1193 1194 1195,False,,,,False
+katir,240 241 242,Pengo,Pe,1193 1194 1195,False,,,,False
+katir,240 241 242,Manda,Manḍ,1193 1194 1195,False,,,,False
+katir,240 241 242,Kui,Kui,1193 1194 1195,False,,,,False
+katir,240 241 242,Kuwi,Kuwi,1193 1194 1195,False,,,,False
+katir,240 241 242,Kurukh,Kur,1193 1194 1195,False,,,,False
+katir,240 241 242,Malto,Malt,1193 1194 1195,False,,,,False
+katir,240 241 242,Brahui,Br,1193 1194 1195,False,,,,False
+kavar,415 416,Tamil,Ta,1325 1326 1334 1340 1341,True,kavar,1325,0.0,True
+kavar,415 416,Malayalam,Ma,1325 1326 1334 1340 1341,True,kavar,1325,0.0,True
+kavar,415 416,Kannada,Ka,1325 1326 1334 1340 1341,True,kavar,1326,0.0,True
+kavar,415 416,Telugu,Te,1325 1326 1334 1340 1341,True,kava,1325,0.2,False
+kavar,415 416,Tulu,Tu,1325 1326 1334 1340 1341,True,kabarů,1325,0.3333333333333333,False
+kavar,415 416,Kota,Ko,1325 1326 1334 1340 1341,True,kav,1325,0.4,False
+kavar,415 416,Toda,To,1325 1326 1334 1340 1341,True,kafy,1325,0.6,False
+kavar,415 416,Kodagu,Koḍ,1325 1326 1334 1340 1341,False,,,,False
+kavar,415 416,Kolami,Kol,1325 1326 1334 1340 1341,False,,,,False
+kavar,415 416,Naikri,Nk,1325 1326 1334 1340 1341,False,,,,False
+kavar,415 416,Parji,Pa,1325 1326 1334 1340 1341,True,kavḍ-,1341,0.4,False
+kavar,415 416,Gadaba,Ga,1325 1326 1334 1340 1341,False,,,,False
+kavar,415 416,Gondi,Go,1325 1326 1334 1340 1341,True,kava,1325,0.2,False
+kavar,415 416,Konda,Konḍa,1325 1326 1334 1340 1341,False,,,,False
+kavar,415 416,Pengo,Pe,1325 1326 1334 1340 1341,False,,,,False
+kavar,415 416,Manda,Manḍ,1325 1326 1334 1340 1341,False,,,,False
+kavar,415 416,Kui,Kui,1325 1326 1334 1340 1341,False,,,,False
+kavar,415 416,Kuwi,Kuwi,1325 1326 1334 1340 1341,False,,,,False
+kavar,415 416,Kurukh,Kur,1325 1326 1334 1340 1341,True,kauwār,1341,0.5,False
+kavar,415 416,Malto,Malt,1325 1326 1334 1340 1341,True,kapli,1325,0.6,False
+kavar,415 416,Brahui,Br,1325 1326 1334 1340 1341,False,,,,False
+kaḷam,705 707,Tamil,Ta,1376,True,kaḷam,1376,0.0,True
+kaḷam,705 707,Malayalam,Ma,1376,True,kaḷam,1376,0.0,True
+kaḷam,705 707,Kannada,Ka,1376,True,kaḷa,1376,0.2,False
+kaḷam,705 707,Telugu,Te,1376,True,kaḷḷamu,1376,0.2857142857142857,False
+kaḷam,705 707,Tulu,Tu,1376,True,kala,1376,0.4,False
+kaḷam,705 707,Kota,Ko,1376,True,kaḷm,1376,0.2,False
+kaḷam,705 707,Toda,To,1376,True,koł̣ṇ,1376,0.8,False
+kaḷam,705 707,Kodagu,Koḍ,1376,True,kaḷa,1376,0.2,False
+kaḷam,705 707,Kolami,Kol,1376,True,kalave,1376,0.5,False
+kaḷam,705 707,Naikri,Nk,1376,True,kaḷave,1376,0.3333333333333333,False
+kaḷam,705 707,Parji,Pa,1376,True,kali,1376,0.6,False
+kaḷam,705 707,Gadaba,Ga,1376,True,kalin,1376,0.6,False
+kaḷam,705 707,Gondi,Go,1376,True,kalam,1376,0.2,False
+kaḷam,705 707,Konda,Konḍa,1376,True,kaṛan,1376,0.4,False
+kaḷam,705 707,Pengo,Pe,1376,False,,,,False
+kaḷam,705 707,Manda,Manḍ,1376,True,kāṛa,1376,0.6,False
+kaḷam,705 707,Kui,Kui,1376,True,klai,1376,0.6,False
+kaḷam,705 707,Kuwi,Kuwi,1376,True,kalōmi,1376,0.5,False
+kaḷam,705 707,Kurukh,Kur,1376,True,xall,1376,0.8,False
+kaḷam,705 707,Malto,Malt,1376,False,,,,False
+kaḷam,705 707,Brahui,Br,1376,False,,,,False
+kaṇ,817 850 861,Tamil,Ta,1159 1160 1161 1166 1182 1204 1443 1946,True,kaṇ,1159,0.0,True
+kaṇ,817 850 861,Malayalam,Ma,1159 1160 1161 1166 1182 1204 1443 1946,True,kaṇ,1159,0.0,True
+kaṇ,817 850 861,Kannada,Ka,1159 1160 1161 1166 1182 1204 1443 1946,True,kaṇ,1159,0.0,True
+kaṇ,817 850 861,Telugu,Te,1159 1160 1161 1166 1182 1204 1443 1946,True,kan,1159,0.3333333333333333,False
+kaṇ,817 850 861,Tulu,Tu,1159 1160 1161 1166 1182 1204 1443 1946,True,kaṇe,1166,0.25,False
+kaṇ,817 850 861,Kota,Ko,1159 1160 1161 1166 1182 1204 1443 1946,True,kaṇ,1159,0.0,True
+kaṇ,817 850 861,Toda,To,1159 1160 1161 1166 1182 1204 1443 1946,True,kaṇ,1166,0.0,True
+kaṇ,817 850 861,Kodagu,Koḍ,1159 1160 1161 1166 1182 1204 1443 1946,True,ka·ṇ-,1443,0.3333333333333333,False
+kaṇ,817 850 861,Kolami,Kol,1159 1160 1161 1166 1182 1204 1443 1946,True,kan,1159,0.3333333333333333,False
+kaṇ,817 850 861,Naikri,Nk,1159 1160 1161 1166 1182 1204 1443 1946,True,kan,1159,0.3333333333333333,False
+kaṇ,817 850 861,Parji,Pa,1159 1160 1161 1166 1182 1204 1443 1946,True,kan,1159,0.3333333333333333,False
+kaṇ,817 850 861,Gadaba,Ga,1159 1160 1161 1166 1182 1204 1443 1946,True,kaṇ,1159,0.0,True
+kaṇ,817 850 861,Gondi,Go,1159 1160 1161 1166 1182 1204 1443 1946,True,kaṇī,1166,0.25,False
+kaṇ,817 850 861,Konda,Konḍa,1159 1160 1161 1166 1182 1204 1443 1946,True,kaṇ,1159,0.0,True
+kaṇ,817 850 861,Pengo,Pe,1159 1160 1161 1166 1182 1204 1443 1946,True,kaṇga,1159,0.4,False
+kaṇ,817 850 861,Manda,Manḍ,1159 1160 1161 1166 1182 1204 1443 1946,True,kan,1159,0.3333333333333333,False
+kaṇ,817 850 861,Kui,Kui,1159 1160 1161 1166 1182 1204 1443 1946,True,kanu,1159,0.5,False
+kaṇ,817 850 861,Kuwi,Kuwi,1159 1160 1161 1166 1182 1204 1443 1946,True,kannū,1159,0.6,False
+kaṇ,817 850 861,Kurukh,Kur,1159 1160 1161 1166 1182 1204 1443 1946,True,xann,1159,0.75,False
+kaṇ,817 850 861,Malto,Malt,1159 1160 1161 1166 1182 1204 1443 1946,True,qan,1159,0.6666666666666666,False
+kaṇ,817 850 861,Brahui,Br,1159 1160 1161 1166 1182 1204 1443 1946,True,xan,1159,0.6666666666666666,False
+kaṇṇi,460 463,Tamil,Ta,1183 1184 1185 1353 4530,True,kaṇṇi,1183,0.0,True
+kaṇṇi,460 463,Malayalam,Ma,1183 1184 1185 1353 4530,True,kaṇṇi,1183,0.0,True
+kaṇṇi,460 463,Kannada,Ka,1183 1184 1185 1353 4530,True,kaṇṇi,1184,0.0,True
+kaṇṇi,460 463,Telugu,Te,1183 1184 1185 1353 4530,True,kanne-tāḍu,1184,0.7777777777777778,False
+kaṇṇi,460 463,Tulu,Tu,1183 1184 1185 1353 4530,True,kaṇṇi,1184,0.0,True
+kaṇṇi,460 463,Kota,Ko,1183 1184 1185 1353 4530,True,kayṇ,1184,0.4,False
+kaṇṇi,460 463,Toda,To,1183 1184 1185 1353 4530,True,koyl,1353,0.8,False
+kaṇṇi,460 463,Kodagu,Koḍ,1183 1184 1185 1353 4530,True,këṇi,1183,0.4,False
+kaṇṇi,460 463,Kolami,Kol,1183 1184 1185 1353 4530,True,bomma,4530,1.0,False
+kaṇṇi,460 463,Naikri,Nk,1183 1184 1185 1353 4530,True,karrka,1353,0.6666666666666666,False
+kaṇṇi,460 463,Parji,Pa,1183 1184 1185 1353 4530,True,karri,1353,0.4,False
+kaṇṇi,460 463,Gadaba,Ga,1183 1184 1185 1353 4530,False,,,,False
+kaṇṇi,460 463,Gondi,Go,1183 1184 1185 1353 4530,True,karka,1353,0.6,False
+kaṇṇi,460 463,Konda,Konḍa,1183 1184 1185 1353 4530,True,kane,1184,0.6,False
+kaṇṇi,460 463,Pengo,Pe,1183 1184 1185 1353 4530,False,,,,False
+kaṇṇi,460 463,Manda,Manḍ,1183 1184 1185 1353 4530,False,,,,False
+kaṇṇi,460 463,Kui,Kui,1183 1184 1185 1353 4530,False,,,,False
+kaṇṇi,460 463,Kuwi,Kuwi,1183 1184 1185 1353 4530,True,bomma,4530,1.0,False
+kaṇṇi,460 463,Kurukh,Kur,1183 1184 1185 1353 4530,True,xarrā,1353,0.8,False
+kaṇṇi,460 463,Malto,Malt,1183 1184 1185 1353 4530,False,,,,False
+kaṇṇi,460 463,Brahui,Br,1183 1184 1185 1353 4530,False,,,,False
+kaṉ,850,Tamil,Ta,1402,True,kaṉ,1402,0.0,True
+kaṉ,850,Malayalam,Ma,1402,True,kannān,1402,0.6666666666666666,False
+kaṉ,850,Kannada,Ka,1402,False,,,,False
+kaṉ,850,Telugu,Te,1402,False,,,,False
+kaṉ,850,Tulu,Tu,1402,False,,,,False
+kaṉ,850,Kota,Ko,1402,False,,,,False
+kaṉ,850,Toda,To,1402,False,,,,False
+kaṉ,850,Kodagu,Koḍ,1402,False,,,,False
+kaṉ,850,Kolami,Kol,1402,False,,,,False
+kaṉ,850,Naikri,Nk,1402,False,,,,False
+kaṉ,850,Parji,Pa,1402,False,,,,False
+kaṉ,850,Gadaba,Ga,1402,False,,,,False
+kaṉ,850,Gondi,Go,1402,False,,,,False
+kaṉ,850,Konda,Konḍa,1402,False,,,,False
+kaṉ,850,Pengo,Pe,1402,False,,,,False
+kaṉ,850,Manda,Manḍ,1402,False,,,,False
+kaṉ,850,Kui,Kui,1402,False,,,,False
+kaṉ,850,Kuwi,Kuwi,1402,False,,,,False
+kaṉ,850,Kurukh,Kur,1402,False,,,,False
+kaṉ,850,Malto,Malt,1402,False,,,,False
+kaṉ,850,Brahui,Br,1402,False,,,,False
+kaṭṭu,690,Tamil,Ta,1113 1135 1144 1146 1147 1148 1149 1150,True,kaṭṭu,1113,0.0,True
+kaṭṭu,690,Malayalam,Ma,1113 1135 1144 1146 1147 1148 1149 1150,True,kaṭṭu,1147,0.0,True
+kaṭṭu,690,Kannada,Ka,1113 1135 1144 1146 1147 1148 1149 1150,True,kaṭṭu,1135,0.0,True
+kaṭṭu,690,Telugu,Te,1113 1135 1144 1146 1147 1148 1149 1150,True,kaṭṭu,1147,0.0,True
+kaṭṭu,690,Tulu,Tu,1113 1135 1144 1146 1147 1148 1149 1150,True,kaṭṭů,1147,0.2,False
+kaṭṭu,690,Kota,Ko,1113 1135 1144 1146 1147 1148 1149 1150,True,kaṭo·ḷ,1146,0.4,False
+kaṭṭu,690,Toda,To,1113 1135 1144 1146 1147 1148 1149 1150,True,koṭ-,1147,0.6,False
+kaṭṭu,690,Kodagu,Koḍ,1113 1135 1144 1146 1147 1148 1149 1150,True,kaṭṭe,1147,0.2,False
+kaṭṭu,690,Kolami,Kol,1113 1135 1144 1146 1147 1148 1149 1150,True,kaṭṭā,1147,0.2,False
+kaṭṭu,690,Naikri,Nk,1113 1135 1144 1146 1147 1148 1149 1150,True,kaṭṭ-,1147,0.2,False
+kaṭṭu,690,Parji,Pa,1113 1135 1144 1146 1147 1148 1149 1150,True,kaṭṭ-,1147,0.2,False
+kaṭṭu,690,Gadaba,Ga,1113 1135 1144 1146 1147 1148 1149 1150,True,kaṭṭ-,1147,0.2,False
+kaṭṭu,690,Gondi,Go,1113 1135 1144 1146 1147 1148 1149 1150,True,kaṭṭā,1147,0.2,False
+kaṭṭu,690,Konda,Konḍa,1113 1135 1144 1146 1147 1148 1149 1150,True,kaṭu,1135,0.2,False
+kaṭṭu,690,Pengo,Pe,1113 1135 1144 1146 1147 1148 1149 1150,True,kaṭa,1147,0.4,False
+kaṭṭu,690,Manda,Manḍ,1113 1135 1144 1146 1147 1148 1149 1150,False,,,,False
+kaṭṭu,690,Kui,Kui,1113 1135 1144 1146 1147 1148 1149 1150,True,kaṭru,1135,0.2,False
+kaṭṭu,690,Kuwi,Kuwi,1113 1135 1144 1146 1147 1148 1149 1150,True,gaṭṭu,1147,0.2,False
+kaṭṭu,690,Kurukh,Kur,1113 1135 1144 1146 1147 1148 1149 1150,True,kaṛᵃrnā,1148,0.7142857142857143,False
+kaṭṭu,690,Malto,Malt,1113 1135 1144 1146 1147 1148 1149 1150,True,gaṭa,1147,0.6,False
+kaṭṭu,690,Brahui,Br,1113 1135 1144 1146 1147 1148 1149 1150,True,xarēn,1135,0.8,False
+kol,142,Tamil,Ta,1828 2132 2133 2153,True,kol,2132,0.0,True
+kol,142,Malayalam,Ma,1828 2132 2133 2153,True,kolli,2132,0.4,False
+kol,142,Kannada,Ka,1828 2132 2133 2153,True,kol,2132,0.0,True
+kol,142,Telugu,Te,1828 2132 2133 2153,True,kola,2132,0.25,False
+kol,142,Tulu,Tu,1828 2132 2133 2153,True,kolè,2132,0.25,False
+kol,142,Kota,Ko,1828 2132 2133 2153,True,kol,2132,0.0,True
+kol,142,Toda,To,1828 2132 2133 2153,True,kwaly,2132,0.6,False
+kol,142,Kodagu,Koḍ,1828 2132 2133 2153,True,koll-,2132,0.25,False
+kol,142,Kolami,Kol,1828 2132 2133 2153,False,,,,False
+kol,142,Naikri,Nk,1828 2132 2133 2153,False,,,,False
+kol,142,Parji,Pa,1828 2132 2133 2153,True,kol,2153,0.0,True
+kol,142,Gadaba,Ga,1828 2132 2133 2153,True,kolut,2153,0.4,False
+kol,142,Gondi,Go,1828 2132 2133 2153,True,kol,1828,0.0,True
+kol,142,Konda,Konḍa,1828 2132 2133 2153,False,,,,False
+kol,142,Pengo,Pe,1828 2132 2133 2153,False,,,,False
+kol,142,Manda,Manḍ,1828 2132 2133 2153,False,,,,False
+kol,142,Kui,Kui,1828 2132 2133 2153,True,koṛaka,2153,0.6666666666666666,False
+kol,142,Kuwi,Kuwi,1828 2132 2133 2153,True,koṛa,2153,0.5,False
+kol,142,Kurukh,Kur,1828 2132 2133 2153,False,,,,False
+kol,142,Malto,Malt,1828 2132 2133 2153,False,,,,False
+kol,142,Brahui,Br,1828 2132 2133 2153,True,xalling,2132,0.8571428571428571,False
+koḍame,335,Tamil,Ta,2047,False,,,,False
+koḍame,335,Malayalam,Ma,2047,False,,,,False
+koḍame,335,Kannada,Ka,2047,True,koḍame,2047,0.0,True
+koḍame,335,Telugu,Te,2047,True,koḍama,2047,0.16666666666666666,False
+koḍame,335,Tulu,Tu,2047,False,,,,False
+koḍame,335,Kota,Ko,2047,False,,,,False
+koḍame,335,Toda,To,2047,False,,,,False
+koḍame,335,Kodagu,Koḍ,2047,False,,,,False
+koḍame,335,Kolami,Kol,2047,False,,,,False
+koḍame,335,Naikri,Nk,2047,False,,,,False
+koḍame,335,Parji,Pa,2047,False,,,,False
+koḍame,335,Gadaba,Ga,2047,False,,,,False
+koḍame,335,Gondi,Go,2047,False,,,,False
+koḍame,335,Konda,Konḍa,2047,False,,,,False
+koḍame,335,Pengo,Pe,2047,False,,,,False
+koḍame,335,Manda,Manḍ,2047,False,,,,False
+koḍame,335,Kui,Kui,2047,False,,,,False
+koḍame,335,Kuwi,Kuwi,2047,False,,,,False
+koḍame,335,Kurukh,Kur,2047,False,,,,False
+koḍame,335,Malto,Malt,2047,False,,,,False
+koḍame,335,Brahui,Br,2047,False,,,,False
+koḻuntu,752 760,Tamil,Ta,2149,True,kor̤untu,2149,0.0,True
+koḻuntu,752 760,Malayalam,Ma,2149,True,kor̤untu,2149,0.0,True
+koḻuntu,752 760,Kannada,Ka,2149,True,koṇasu,2149,0.5714285714285714,False
+koḻuntu,752 760,Telugu,Te,2149,True,koḍuku,2149,0.42857142857142855,False
+koḻuntu,752 760,Tulu,Tu,2149,True,korè,2149,0.7142857142857143,False
+koḻuntu,752 760,Kota,Ko,2149,False,,,,False
+koḻuntu,752 760,Toda,To,2149,True,kwïζ,2149,0.8571428571428571,False
+koḻuntu,752 760,Kodagu,Koḍ,2149,False,,,,False
+koḻuntu,752 760,Kolami,Kol,2149,True,kovve,2149,0.7142857142857143,False
+koḻuntu,752 760,Naikri,Nk,2149,True,kovve,2149,0.7142857142857143,False
+koḻuntu,752 760,Parji,Pa,2149,True,koṛuŋg,2149,0.5714285714285714,False
+koḻuntu,752 760,Gadaba,Ga,2149,True,koḍus-,2149,0.5714285714285714,False
+koḻuntu,752 760,Gondi,Go,2149,True,koṛta,2149,0.5714285714285714,False
+koḻuntu,752 760,Konda,Konḍa,2149,True,koṛonali,2149,0.625,False
+koḻuntu,752 760,Pengo,Pe,2149,False,,,,False
+koḻuntu,752 760,Manda,Manḍ,2149,False,,,,False
+koḻuntu,752 760,Kui,Kui,2149,False,,,,False
+koḻuntu,752 760,Kuwi,Kuwi,2149,False,,,,False
+koḻuntu,752 760,Kurukh,Kur,2149,False,,,,False
+koḻuntu,752 760,Malto,Malt,2149,False,,,,False
+koḻuntu,752 760,Brahui,Br,2149,False,,,,False
+koṭi,368,Tamil,Ta,1678 2049 2050 2081 2200,True,koṭi,1678,0.0,True
+koṭi,368,Malayalam,Ma,1678 2049 2050 2081 2200,True,koṭi,2049,0.0,True
+koṭi,368,Kannada,Ka,1678 2049 2050 2081 2200,True,koḍi,2049,0.25,False
+koṭi,368,Telugu,Te,1678 2049 2050 2081 2200,True,koḍi,2049,0.25,False
+koṭi,368,Tulu,Tu,1678 2049 2050 2081 2200,True,koḍi,2049,0.25,False
+koṭi,368,Kota,Ko,1678 2049 2050 2081 2200,True,koṭ,2049,0.25,False
+koṭi,368,Toda,To,1678 2049 2050 2081 2200,True,kwïṭ,2049,0.75,False
+koṭi,368,Kodagu,Koḍ,1678 2049 2050 2081 2200,True,koḍi,2049,0.25,False
+koṭi,368,Kolami,Kol,1678 2049 2050 2081 2200,True,koṛi,2049,0.25,False
+koṭi,368,Naikri,Nk,1678 2049 2050 2081 2200,False,,,,False
+koṭi,368,Parji,Pa,1678 2049 2050 2081 2200,True,kūṭor,2049,0.6,False
+koṭi,368,Gadaba,Ga,1678 2049 2050 2081 2200,True,kōr,2200,0.75,False
+koṭi,368,Gondi,Go,1678 2049 2050 2081 2200,True,koḍi,2049,0.25,False
+koṭi,368,Konda,Konḍa,1678 2049 2050 2081 2200,False,,,,False
+koṭi,368,Pengo,Pe,1678 2049 2050 2081 2200,True,goḍi,2050,0.5,False
+koṭi,368,Manda,Manḍ,1678 2049 2050 2081 2200,True,kuṛi,2050,0.5,False
+koṭi,368,Kui,Kui,1678 2049 2050 2081 2200,True,kōju,2200,0.75,False
+koṭi,368,Kuwi,Kuwi,1678 2049 2050 2081 2200,False,,,,False
+koṭi,368,Kurukh,Kur,1678 2049 2050 2081 2200,True,kuḍḍā,1678,0.8,False
+koṭi,368,Malto,Malt,1678 2049 2050 2081 2200,True,kuḍe,1678,0.75,False
+koṭi,368,Brahui,Br,1678 2049 2050 2081 2200,False,,,,False
+koṭṭakai,350,Tamil,Ta,2058,True,koṭṭakai,2058,0.0,True
+koṭṭakai,350,Malayalam,Ma,2058,True,koṭṭil,2058,0.5,False
+koṭṭakai,350,Kannada,Ka,2058,True,koṭṭage,2058,0.375,False
+koṭṭakai,350,Telugu,Te,2058,True,koṭṭāyi,2058,0.375,False
+koṭṭakai,350,Tulu,Tu,2058,True,koṭṭa,2058,0.375,False
+koṭṭakai,350,Kota,Ko,2058,False,,,,False
+koṭṭakai,350,Toda,To,2058,False,,,,False
+koṭṭakai,350,Kodagu,Koḍ,2058,True,koṭṭï,2058,0.5,False
+koṭṭakai,350,Kolami,Kol,2058,True,koṛka,2058,0.5,False
+koṭṭakai,350,Naikri,Nk,2058,True,koṛka,2058,0.5,False
+koṭṭakai,350,Parji,Pa,2058,False,,,,False
+koṭṭakai,350,Gadaba,Ga,2058,False,,,,False
+koṭṭakai,350,Gondi,Go,2058,True,koṭka,2058,0.375,False
+koṭṭakai,350,Konda,Konḍa,2058,False,,,,False
+koṭṭakai,350,Pengo,Pe,2058,False,,,,False
+koṭṭakai,350,Manda,Manḍ,2058,False,,,,False
+koṭṭakai,350,Kui,Kui,2058,False,,,,False
+koṭṭakai,350,Kuwi,Kuwi,2058,False,,,,False
+koṭṭakai,350,Kurukh,Kur,2058,False,,,,False
+koṭṭakai,350,Malto,Malt,2058,True,koṭa,2058,0.5,False
+koṭṭakai,350,Brahui,Br,2058,False,,,,False
+kuruku,752 760,Tamil,Ta,1782 1783 1791 2125,True,kuruku,1782,0.0,True
+kuruku,752 760,Malayalam,Ma,1782 1783 1791 2125,True,kurukku,1791,0.14285714285714285,False
+kuruku,752 760,Kannada,Ka,1782 1783 1791 2125,True,kuruṇe,1791,0.3333333333333333,False
+kuruku,752 760,Telugu,Te,1782 1783 1791 2125,True,kottemu,1783,0.7142857142857143,False
+kuruku,752 760,Tulu,Tu,1782 1783 1791 2125,True,kurulè,1791,0.3333333333333333,False
+kuruku,752 760,Kota,Ko,1782 1783 1791 2125,True,kurj,1782,0.5,False
+kuruku,752 760,Toda,To,1782 1783 1791 2125,True,košk,2125,0.6666666666666666,False
+kuruku,752 760,Kodagu,Koḍ,1782 1783 1791 2125,False,,,,False
+kuruku,752 760,Kolami,Kol,1782 1783 1791 2125,True,kuro,1782,0.5,False
+kuruku,752 760,Naikri,Nk,1782 1783 1791 2125,True,kuro,1782,0.5,False
+kuruku,752 760,Parji,Pa,1782 1783 1791 2125,True,kokkal,2125,0.8333333333333334,False
+kuruku,752 760,Gadaba,Ga,1782 1783 1791 2125,True,kokkāle,2125,0.8571428571428571,False
+kuruku,752 760,Gondi,Go,1782 1783 1791 2125,True,koruku,2125,0.16666666666666666,False
+kuruku,752 760,Konda,Konḍa,1782 1783 1791 2125,False,,,,False
+kuruku,752 760,Pengo,Pe,1782 1783 1791 2125,True,kurnja,1791,0.5,False
+kuruku,752 760,Manda,Manḍ,1782 1783 1791 2125,False,,,,False
+kuruku,752 760,Kui,Kui,1782 1783 1791 2125,True,kohko,2125,0.6666666666666666,False
+kuruku,752 760,Kuwi,Kuwi,1782 1783 1791 2125,True,gurju,1783,0.5,False
+kuruku,752 760,Kurukh,Kur,1782 1783 1791 2125,True,kurū,1791,0.5,False
+kuruku,752 760,Malto,Malt,1782 1783 1791 2125,False,,,,False
+kuruku,752 760,Brahui,Br,1782 1783 1791 2125,True,xāxūr,2125,1.0,False
+kuṭam,740,Tamil,Ta,1651,True,kuṭam,1651,0.0,True
+kuṭam,740,Malayalam,Ma,1651,True,kuṭam,1651,0.0,True
+kuṭam,740,Kannada,Ka,1651,True,koḍa,1651,0.6,False
+kuṭam,740,Telugu,Te,1651,True,kuḍaka,1651,0.5,False
+kuṭam,740,Tulu,Tu,1651,True,kuḍki,1651,0.6,False
+kuṭam,740,Kota,Ko,1651,True,koṛm,1651,0.6,False
+kuṭam,740,Toda,To,1651,True,kuṛky,1651,0.6,False
+kuṭam,740,Kodagu,Koḍ,1651,True,kuḍike,1651,0.6666666666666666,False
+kuṭam,740,Kolami,Kol,1651,False,,,,False
+kuṭam,740,Naikri,Nk,1651,False,,,,False
+kuṭam,740,Parji,Pa,1651,False,,,,False
+kuṭam,740,Gadaba,Ga,1651,False,,,,False
+kuṭam,740,Gondi,Go,1651,False,,,,False
+kuṭam,740,Konda,Konḍa,1651,False,,,,False
+kuṭam,740,Pengo,Pe,1651,False,,,,False
+kuṭam,740,Manda,Manḍ,1651,False,,,,False
+kuṭam,740,Kui,Kui,1651,False,,,,False
+kuṭam,740,Kuwi,Kuwi,1651,True,ḍōka,1651,0.8,False
+kuṭam,740,Kurukh,Kur,1651,False,,,,False
+kuṭam,740,Malto,Malt,1651,False,,,,False
+kuṭam,740,Brahui,Br,1651,False,,,,False
+kuṭi,740 741 742 743 744 745 746 747 748,Tamil,Ta,1654 1655,True,kuṭi,1654,0.0,True
+kuṭi,740 741 742 743 744 745 746 747 748,Malayalam,Ma,1654 1655,True,kuṭi,1654,0.0,True
+kuṭi,740 741 742 743 744 745 746 747 748,Kannada,Ka,1654 1655,True,kuḍiya,1655,0.5,False
+kuṭi,740 741 742 743 744 745 746 747 748,Telugu,Te,1654 1655,True,koṭika,1655,0.5,False
+kuṭi,740 741 742 743 744 745 746 747 748,Tulu,Tu,1654 1655,True,guḍi,1655,0.5,False
+kuṭi,740 741 742 743 744 745 746 747 748,Kota,Ko,1654 1655,True,kuṛy-,1654,0.5,False
+kuṭi,740 741 742 743 744 745 746 747 748,Toda,To,1654 1655,True,kuḍt-,1654,0.5,False
+kuṭi,740 741 742 743 744 745 746 747 748,Kodagu,Koḍ,1654 1655,True,kuḍi,1655,0.25,False
+kuṭi,740 741 742 743 744 745 746 747 748,Kolami,Kol,1654 1655,True,guḍī,1655,0.75,False
+kuṭi,740 741 742 743 744 745 746 747 748,Naikri,Nk,1654 1655,False,,,,False
+kuṭi,740 741 742 743 744 745 746 747 748,Parji,Pa,1654 1655,True,guḍi,1655,0.5,False
+kuṭi,740 741 742 743 744 745 746 747 748,Gadaba,Ga,1654 1655,True,guḍi,1655,0.5,False
+kuṭi,740 741 742 743 744 745 746 747 748,Gondi,Go,1654 1655,True,guḍi,1655,0.5,False
+kuṭi,740 741 742 743 744 745 746 747 748,Konda,Konḍa,1654 1655,False,,,,False
+kuṭi,740 741 742 743 744 745 746 747 748,Pengo,Pe,1654 1655,False,,,,False
+kuṭi,740 741 742 743 744 745 746 747 748,Manda,Manḍ,1654 1655,False,,,,False
+kuṭi,740 741 742 743 744 745 746 747 748,Kui,Kui,1654 1655,True,guḍi,1655,0.5,False
+kuṭi,740 741 742 743 744 745 746 747 748,Kuwi,Kuwi,1654 1655,False,,,,False
+kuṭi,740 741 742 743 744 745 746 747 748,Kurukh,Kur,1654 1655,False,,,,False
+kuṭi,740 741 742 743 744 745 746 747 748,Malto,Malt,1654 1655,False,,,,False
+kuṭi,740 741 742 743 744 745 746 747 748,Brahui,Br,1654 1655,False,,,,False
+kā,151 153 154 155 156 157 158 159 160 161,Tamil,Ta,1416 1417 1418 1425 1486 2218,True,kā,1416,0.0,True
+kā,151 153 154 155 156 157 158 159 160 161,Malayalam,Ma,1416 1417 1418 1425 1486 2218,True,kāvu,1416,0.5,False
+kā,151 153 154 155 156 157 158 159 160 161,Kannada,Ka,1416 1417 1418 1425 1486 2218,True,kā,1416,0.0,True
+kā,151 153 154 155 156 157 158 159 160 161,Telugu,Te,1416 1417 1418 1425 1486 2218,True,kācu,1416,0.5,False
+kā,151 153 154 155 156 157 158 159 160 161,Tulu,Tu,1416 1417 1418 1425 1486 2218,True,kāpu,1416,0.5,False
+kā,151 153 154 155 156 157 158 159 160 161,Kota,Ko,1416 1417 1418 1425 1486 2218,True,ka·v-,1416,0.3333333333333333,False
+kā,151 153 154 155 156 157 158 159 160 161,Toda,To,1416 1417 1418 1425 1486 2218,True,ka·k,1425,0.3333333333333333,False
+kā,151 153 154 155 156 157 158 159 160 161,Kodagu,Koḍ,1416 1417 1418 1425 1486 2218,True,ka·-,1416,0.0,True
+kā,151 153 154 155 156 157 158 159 160 161,Kolami,Kol,1416 1417 1418 1425 1486 2218,True,ka·ka,1425,0.5,False
+kā,151 153 154 155 156 157 158 159 160 161,Naikri,Nk,1416 1417 1418 1425 1486 2218,True,kākal,1425,0.6,False
+kā,151 153 154 155 156 157 158 159 160 161,Parji,Pa,1416 1417 1418 1425 1486 2218,True,kāp-,1416,0.3333333333333333,False
+kā,151 153 154 155 156 157 158 159 160 161,Gadaba,Ga,1416 1417 1418 1425 1486 2218,True,kā-,1416,0.0,True
+kā,151 153 154 155 156 157 158 159 160 161,Gondi,Go,1416 1417 1418 1425 1486 2218,True,kāṛā,1416,0.5,False
+kā,151 153 154 155 156 157 158 159 160 161,Konda,Konḍa,1416 1417 1418 1425 1486 2218,True,kāp,1416,0.3333333333333333,False
+kā,151 153 154 155 156 157 158 159 160 161,Pengo,Pe,1416 1417 1418 1425 1486 2218,True,kā-,1416,0.0,True
+kā,151 153 154 155 156 157 158 159 160 161,Manda,Manḍ,1416 1417 1418 1425 1486 2218,True,kā-,1416,0.0,True
+kā,151 153 154 155 156 157 158 159 160 161,Kui,Kui,1416 1417 1418 1425 1486 2218,True,kāpa,1416,0.5,False
+kā,151 153 154 155 156 157 158 159 160 161,Kuwi,Kuwi,1416 1417 1418 1425 1486 2218,True,kā-,1416,0.0,True
+kā,151 153 154 155 156 157 158 159 160 161,Kurukh,Kur,1416 1417 1418 1425 1486 2218,True,xāxō,1417,0.75,False
+kā,151 153 154 155 156 157 158 159 160 161,Malto,Malt,1416 1417 1418 1425 1486 2218,True,qápe,1416,1.0,False
+kā,151 153 154 155 156 157 158 159 160 161,Brahui,Br,1416 1417 1418 1425 1486 2218,True,xwāfing,1416,0.8571428571428571,False
+kāl,061 062 820 821,Tamil,Ta,1079 1349 1418 1477 1478 1479 1480 1481 1482 1483 1484 1500 3116 5352,True,kāl,1079,0.0,True
+kāl,061 062 820 821,Malayalam,Ma,1079 1349 1418 1477 1478 1479 1480 1481 1482 1483 1484 1500 3116 5352,True,kāl,1479,0.0,True
+kāl,061 062 820 821,Kannada,Ka,1079 1349 1418 1477 1478 1479 1480 1481 1482 1483 1484 1500 3116 5352,True,kāl,1479,0.0,True
+kāl,061 062 820 821,Telugu,Te,1079 1349 1418 1477 1478 1479 1480 1481 1482 1483 1484 1500 3116 5352,True,kālu,1479,0.25,False
+kāl,061 062 820 821,Tulu,Tu,1079 1349 1418 1477 1478 1479 1480 1481 1482 1483 1484 1500 3116 5352,True,kālů,1479,0.25,False
+kāl,061 062 820 821,Kota,Ko,1079 1349 1418 1477 1478 1479 1480 1481 1482 1483 1484 1500 3116 5352,True,ka·l,1479,0.0,True
+kāl,061 062 820 821,Toda,To,1079 1349 1418 1477 1478 1479 1480 1481 1482 1483 1484 1500 3116 5352,True,ka·l-,1349,0.0,True
+kāl,061 062 820 821,Kodagu,Koḍ,1079 1349 1418 1477 1478 1479 1480 1481 1482 1483 1484 1500 3116 5352,True,ka·lï,1479,0.25,False
+kāl,061 062 820 821,Kolami,Kol,1079 1349 1418 1477 1478 1479 1480 1481 1482 1483 1484 1500 3116 5352,True,kāl,1479,0.0,True
+kāl,061 062 820 821,Naikri,Nk,1079 1349 1418 1477 1478 1479 1480 1481 1482 1483 1484 1500 3116 5352,False,,,,False
+kāl,061 062 820 821,Parji,Pa,1079 1349 1418 1477 1478 1479 1480 1481 1482 1483 1484 1500 3116 5352,True,kāl-,1500,0.0,True
+kāl,061 062 820 821,Gadaba,Ga,1079 1349 1418 1477 1478 1479 1480 1481 1482 1483 1484 1500 3116 5352,True,kāl,1479,0.0,True
+kāl,061 062 820 821,Gondi,Go,1079 1349 1418 1477 1478 1479 1480 1481 1482 1483 1484 1500 3116 5352,True,kāl,1479,0.0,True
+kāl,061 062 820 821,Konda,Konḍa,1079 1349 1418 1477 1478 1479 1480 1481 1482 1483 1484 1500 3116 5352,True,kāl,1479,0.0,True
+kāl,061 062 820 821,Pengo,Pe,1079 1349 1418 1477 1478 1479 1480 1481 1482 1483 1484 1500 3116 5352,True,kāl,1479,0.0,True
+kāl,061 062 820 821,Manda,Manḍ,1079 1349 1418 1477 1478 1479 1480 1481 1482 1483 1484 1500 3116 5352,True,kāl,1479,0.0,True
+kāl,061 062 820 821,Kui,Kui,1079 1349 1418 1477 1478 1479 1480 1481 1482 1483 1484 1500 3116 5352,True,kāḍu,1479,0.5,False
+kāl,061 062 820 821,Kuwi,Kuwi,1079 1349 1418 1477 1478 1479 1480 1481 1482 1483 1484 1500 3116 5352,True,kāl,1479,0.0,True
+kāl,061 062 820 821,Kurukh,Kur,1079 1349 1418 1477 1478 1479 1480 1481 1482 1483 1484 1500 3116 5352,True,xār,1478,0.6666666666666666,False
+kāl,061 062 820 821,Malto,Malt,1079 1349 1418 1477 1478 1479 1480 1481 1482 1483 1484 1500 3116 5352,True,qagjre,1079,1.0,False
+kāl,061 062 820 821,Brahui,Br,1079 1349 1418 1477 1478 1479 1480 1481 1482 1483 1484 1500 3116 5352,True,bā,5352,0.6666666666666666,False
+kāṇam,817 861,Tamil,Ta,1444,True,kāṇam,1444,0.0,True
+kāṇam,817 861,Malayalam,Ma,1444,True,kāṇam,1444,0.0,True
+kāṇam,817 861,Kannada,Ka,1444,True,kāṇi,1444,0.4,False
+kāṇam,817 861,Telugu,Te,1444,True,kāṇi,1444,0.4,False
+kāṇam,817 861,Tulu,Tu,1444,True,kāṇi,1444,0.4,False
+kāṇam,817 861,Kota,Ko,1444,False,,,,False
+kāṇam,817 861,Toda,To,1444,True,ko·ṇy,1444,0.6,False
+kāṇam,817 861,Kodagu,Koḍ,1444,False,,,,False
+kāṇam,817 861,Kolami,Kol,1444,False,,,,False
+kāṇam,817 861,Naikri,Nk,1444,False,,,,False
+kāṇam,817 861,Parji,Pa,1444,False,,,,False
+kāṇam,817 861,Gadaba,Ga,1444,False,,,,False
+kāṇam,817 861,Gondi,Go,1444,False,,,,False
+kāṇam,817 861,Konda,Konḍa,1444,False,,,,False
+kāṇam,817 861,Pengo,Pe,1444,False,,,,False
+kāṇam,817 861,Manda,Manḍ,1444,False,,,,False
+kāṇam,817 861,Kui,Kui,1444,False,,,,False
+kāṇam,817 861,Kuwi,Kuwi,1444,False,,,,False
+kāṇam,817 861,Kurukh,Kur,1444,False,,,,False
+kāṇam,817 861,Malto,Malt,1444,False,,,,False
+kāṇam,817 861,Brahui,Br,1444,False,,,,False
+kō,482,Tamil,Ta,1762 2176 2177 2178,True,kō,1762,0.0,True
+kō,482,Malayalam,Ma,1762 2176 2177 2178,True,kō,2177,0.0,True
+kō,482,Kannada,Ka,1762 2176 2177 2178,True,kō,2176,0.0,True
+kō,482,Telugu,Te,1762 2176 2177 2178,True,kōva,2176,0.5,False
+kō,482,Tulu,Tu,1762 2176 2177 2178,True,kōpè,2176,0.5,False
+kō,482,Kota,Ko,1762 2176 2177 2178,True,ko·,1762,0.0,True
+kō,482,Toda,To,1762 2176 2177 2178,True,kwï·,1762,0.6666666666666666,False
+kō,482,Kodagu,Koḍ,1762 2176 2177 2178,True,koya-,2176,0.75,False
+kō,482,Kolami,Kol,1762 2176 2177 2178,True,ko·nz-,2176,0.5,False
+kō,482,Naikri,Nk,1762 2176 2177 2178,True,kōnj-,2176,0.5,False
+kō,482,Parji,Pa,1762 2176 2177 2178,True,kōp-,2176,0.3333333333333333,False
+kō,482,Gadaba,Ga,1762 2176 2177 2178,True,kōsu,2177,0.5,False
+kō,482,Gondi,Go,1762 2176 2177 2178,True,kāc-,2176,0.6666666666666666,False
+kō,482,Konda,Konḍa,1762 2176 2177 2178,True,kūbi,2178,0.75,False
+kō,482,Pengo,Pe,1762 2176 2177 2178,False,,,,False
+kō,482,Manda,Manḍ,1762 2176 2177 2178,False,,,,False
+kō,482,Kui,Kui,1762 2176 2177 2178,True,kūi,2178,0.6666666666666666,False
+kō,482,Kuwi,Kuwi,1762 2176 2177 2178,True,kui,2178,0.6666666666666666,False
+kō,482,Kurukh,Kur,1762 2176 2177 2178,True,kōhā,2177,0.5,False
+kō,482,Malto,Malt,1762 2176 2177 2178,True,kunye,2176,0.8,False
+kō,482,Brahui,Br,1762 2176 2177 2178,False,,,,False
+kōl,142,Tamil,Ta,1479 1484 2237 2238 2239 2240,True,kōl,2237,0.0,True
+kōl,142,Malayalam,Ma,1479 1484 2237 2238 2239 2240,True,kōl,2237,0.0,True
+kōl,142,Kannada,Ka,1479 1484 2237 2238 2239 2240,True,kōl,2237,0.0,True
+kōl,142,Telugu,Te,1479 1484 2237 2238 2239 2240,True,kōla,2237,0.25,False
+kōl,142,Tulu,Tu,1479 1484 2237 2238 2239 2240,True,kōlů,2237,0.25,False
+kōl,142,Kota,Ko,1479 1484 2237 2238 2239 2240,True,ko·l,2237,0.0,True
+kōl,142,Toda,To,1479 1484 2237 2238 2239 2240,True,ko·l,1479,0.0,True
+kōl,142,Kodagu,Koḍ,1479 1484 2237 2238 2239 2240,True,ko·lï,2237,0.25,False
+kōl,142,Kolami,Kol,1479 1484 2237 2238 2239 2240,True,kāl,1479,0.3333333333333333,False
+kōl,142,Naikri,Nk,1479 1484 2237 2238 2239 2240,True,kōl,2237,0.0,True
+kōl,142,Parji,Pa,1479 1484 2237 2238 2239 2240,True,kōl,2237,0.0,True
+kōl,142,Gadaba,Ga,1479 1484 2237 2238 2239 2240,True,kāl,1479,0.3333333333333333,False
+kōl,142,Gondi,Go,1479 1484 2237 2238 2239 2240,True,kōla,2237,0.25,False
+kōl,142,Konda,Konḍa,1479 1484 2237 2238 2239 2240,True,kōl,2237,0.0,True
+kōl,142,Pengo,Pe,1479 1484 2237 2238 2239 2240,True,kōl,2237,0.0,True
+kōl,142,Manda,Manḍ,1479 1484 2237 2238 2239 2240,True,kāl,1479,0.3333333333333333,False
+kōl,142,Kui,Kui,1479 1484 2237 2238 2239 2240,True,kōḍu,2237,0.5,False
+kōl,142,Kuwi,Kuwi,1479 1484 2237 2238 2239 2240,True,kōlū,2237,0.25,False
+kōl,142,Kurukh,Kur,1479 1484 2237 2238 2239 2240,False,,,,False
+kōl,142,Malto,Malt,1479 1484 2237 2238 2239 2240,False,,,,False
+kōl,142,Brahui,Br,1479 1484 2237 2238 2239 2240,True,trikkal,1479,0.7142857142857143,False
+kōṭi,407,Tamil,Ta,2054 2197 2198,True,kōṭi,2054,0.0,True
+kōṭi,407,Malayalam,Ma,2054 2197 2198,True,kōṭi,2198,0.0,True
+kōṭi,407,Kannada,Ka,2054 2197 2198,True,kōḍi,2197,0.25,False
+kōṭi,407,Telugu,Te,2054 2197 2198,True,kōḍi,2197,0.25,False
+kōṭi,407,Tulu,Tu,2054 2197 2198,True,ḍoṅkelů,2054,0.8571428571428571,False
+kōṭi,407,Kota,Ko,2054 2197 2198,True,koṛy,2054,0.75,False
+kōṭi,407,Toda,To,2054 2197 2198,True,kwïṛ,2054,0.75,False
+kōṭi,407,Kodagu,Koḍ,2054 2197 2198,True,koṭṭï,2054,0.6,False
+kōṭi,407,Kolami,Kol,2054 2197 2198,True,koṭe,2054,0.5,False
+kōṭi,407,Naikri,Nk,2054 2197 2198,True,koṛval,2054,0.8333333333333334,False
+kōṭi,407,Parji,Pa,2054 2197 2198,True,koḍka,2054,0.8,False
+kōṭi,407,Gadaba,Ga,2054 2197 2198,True,konḍke,2054,0.8333333333333334,False
+kōṭi,407,Gondi,Go,2054 2197 2198,True,kōr-,2054,0.5,False
+kōṭi,407,Konda,Konḍa,2054 2197 2198,True,koṛveli,2054,0.7142857142857143,False
+kōṭi,407,Pengo,Pe,2054 2197 2198,False,,,,False
+kōṭi,407,Manda,Manḍ,2054 2197 2198,False,,,,False
+kōṭi,407,Kui,Kui,2054 2197 2198,True,gōṭoṛi,2054,0.5,False
+kōṭi,407,Kuwi,Kuwi,2054 2197 2198,True,kōṛi,2198,0.25,False
+kōṭi,407,Kurukh,Kur,2054 2197 2198,False,,,,False
+kōṭi,407,Malto,Malt,2054 2197 2198,False,,,,False
+kōṭi,407,Brahui,Br,2054 2197 2198,True,kōnḍō,2054,0.6,False
+kōṭṭai,575,Tamil,Ta,2208,True,kōṭṭai,2208,0.0,True
+kōṭṭai,575,Malayalam,Ma,2208,True,kōṭṭa,2208,0.16666666666666666,False
+kōṭṭai,575,Kannada,Ka,2208,False,,,,False
+kōṭṭai,575,Telugu,Te,2208,False,,,,False
+kōṭṭai,575,Tulu,Tu,2208,False,,,,False
+kōṭṭai,575,Kota,Ko,2208,False,,,,False
+kōṭṭai,575,Toda,To,2208,False,,,,False
+kōṭṭai,575,Kodagu,Koḍ,2208,False,,,,False
+kōṭṭai,575,Kolami,Kol,2208,False,,,,False
+kōṭṭai,575,Naikri,Nk,2208,False,,,,False
+kōṭṭai,575,Parji,Pa,2208,False,,,,False
+kōṭṭai,575,Gadaba,Ga,2208,False,,,,False
+kōṭṭai,575,Gondi,Go,2208,False,,,,False
+kōṭṭai,575,Konda,Konḍa,2208,False,,,,False
+kōṭṭai,575,Pengo,Pe,2208,False,,,,False
+kōṭṭai,575,Manda,Manḍ,2208,False,,,,False
+kōṭṭai,575,Kui,Kui,2208,False,,,,False
+kōṭṭai,575,Kuwi,Kuwi,2208,False,,,,False
+kōṭṭai,575,Kurukh,Kur,2208,False,,,,False
+kōṭṭai,575,Malto,Malt,2208,False,,,,False
+kōṭṭai,575,Brahui,Br,2208,False,,,,False
+kūṉ,165,Tamil,Ta,1871 1927 1928,True,kūṉ,1871,0.0,True
+kūṉ,165,Malayalam,Ma,1871 1927 1928,True,kūn,1927,0.3333333333333333,False
+kūṉ,165,Kannada,Ka,1871 1927 1928,True,kūn,1927,0.3333333333333333,False
+kūṉ,165,Telugu,Te,1871 1927 1928,True,gūba,1871,0.75,False
+kūṉ,165,Tulu,Tu,1871 1927 1928,True,gūgè,1871,0.75,False
+kūṉ,165,Kota,Ko,1871 1927 1928,True,ku·n-,1927,0.3333333333333333,False
+kūṉ,165,Toda,To,1871 1927 1928,True,ku·n,1927,0.3333333333333333,False
+kūṉ,165,Kodagu,Koḍ,1871 1927 1928,True,kūn,1927,0.3333333333333333,False
+kūṉ,165,Kolami,Kol,1871 1927 1928,True,gu·pa,1871,0.75,False
+kūṉ,165,Naikri,Nk,1871 1927 1928,False,,,,False
+kūṉ,165,Parji,Pa,1871 1927 1928,False,,,,False
+kūṉ,165,Gadaba,Ga,1871 1927 1928,False,,,,False
+kūṉ,165,Gondi,Go,1871 1927 1928,True,gugva,1871,1.0,False
+kūṉ,165,Konda,Konḍa,1871 1927 1928,False,,,,False
+kūṉ,165,Pengo,Pe,1871 1927 1928,False,,,,False
+kūṉ,165,Manda,Manḍ,1871 1927 1928,False,,,,False
+kūṉ,165,Kui,Kui,1871 1927 1928,True,muska,1871,1.0,False
+kūṉ,165,Kuwi,Kuwi,1871 1927 1928,True,gūna,1928,0.75,False
+kūṉ,165,Kurukh,Kur,1871 1927 1928,False,,,,False
+kūṉ,165,Malto,Malt,1871 1927 1928,False,,,,False
+kūṉ,165,Brahui,Br,1871 1927 1928,False,,,,False
+kūṭu,630 632 634 635 637,Tamil,Ta,1882 1883 1884 1885,True,kūṭu,1882,0.0,True
+kūṭu,630 632 634 635 637,Malayalam,Ma,1882 1883 1884 1885,True,kūṭu,1883,0.0,True
+kūṭu,630 632 634 635 637,Kannada,Ka,1882 1883 1884 1885,True,kūḍu,1882,0.25,False
+kūṭu,630 632 634 635 637,Telugu,Te,1882 1883 1884 1885,True,kūḍu,1882,0.25,False
+kūṭu,630 632 634 635 637,Tulu,Tu,1882 1883 1884 1885,True,kūṭu,1885,0.0,True
+kūṭu,630 632 634 635 637,Kota,Ko,1882 1883 1884 1885,True,ku·ṭ-,1882,0.25,False
+kūṭu,630 632 634 635 637,Toda,To,1882 1883 1884 1885,True,ku·ṭ-,1882,0.25,False
+kūṭu,630 632 634 635 637,Kodagu,Koḍ,1882 1883 1884 1885,True,ku·ṭ-,1882,0.25,False
+kūṭu,630 632 634 635 637,Kolami,Kol,1882 1883 1884 1885,True,kūṛ,1882,0.5,False
+kūṭu,630 632 634 635 637,Naikri,Nk,1882 1883 1884 1885,False,,,,False
+kūṭu,630 632 634 635 637,Parji,Pa,1882 1883 1884 1885,True,kūṛ,1882,0.5,False
+kūṭu,630 632 634 635 637,Gadaba,Ga,1882 1883 1884 1885,True,gūḍe,1883,0.75,False
+kūṭu,630 632 634 635 637,Gondi,Go,1882 1883 1884 1885,True,kūṛ-,1882,0.5,False
+kūṭu,630 632 634 635 637,Konda,Konḍa,1882 1883 1884 1885,True,kūṛ-,1882,0.5,False
+kūṭu,630 632 634 635 637,Pengo,Pe,1882 1883 1884 1885,True,kūṛā-,1882,0.5,False
+kūṭu,630 632 634 635 637,Manda,Manḍ,1882 1883 1884 1885,True,kuṭe,1885,0.5,False
+kūṭu,630 632 634 635 637,Kui,Kui,1882 1883 1884 1885,True,kūṭi,1885,0.25,False
+kūṭu,630 632 634 635 637,Kuwi,Kuwi,1882 1883 1884 1885,True,kūṛ-,1882,0.5,False
+kūṭu,630 632 634 635 637,Kurukh,Kur,1882 1883 1884 1885,True,xōṇḍnā,1882,1.0,False
+kūṭu,630 632 634 635 637,Malto,Malt,1882 1883 1884 1885,True,kúṭgle,1883,0.6666666666666666,False
+kūṭu,630 632 634 635 637,Brahui,Br,1882 1883 1884 1885,False,,,,False
+malai,491 495 503,Tamil,Ta,4730 4736 4741 4742 4827,True,malai,4730,0.0,True
+malai,491 495 503,Malayalam,Ma,4730 4736 4741 4742 4827,True,mala,4742,0.2,False
+malai,491 495 503,Kannada,Ka,4730 4736 4741 4742 4827,True,mallaṇi,4736,0.2857142857142857,False
+malai,491 495 503,Telugu,Te,4730 4736 4741 4742 4827,True,mala,4742,0.2,False
+malai,491 495 503,Tulu,Tu,4730 4736 4741 4742 4827,True,malle,4730,0.4,False
+malai,491 495 503,Kota,Ko,4730 4736 4741 4742 4827,True,mal,4742,0.4,False
+malai,491 495 503,Toda,To,4730 4736 4741 4742 4827,True,mal,4742,0.4,False
+malai,491 495 503,Kodagu,Koḍ,4730 4736 4741 4742 4827,True,mallaŋ,4730,0.3333333333333333,False
+malai,491 495 503,Kolami,Kol,4730 4736 4741 4742 4827,True,melg-,4736,0.6,False
+malai,491 495 503,Naikri,Nk,4730 4736 4741 4742 4827,False,,,,False
+malai,491 495 503,Parji,Pa,4730 4736 4741 4742 4827,True,malaŋg,4742,0.3333333333333333,False
+malai,491 495 503,Gadaba,Ga,4730 4736 4741 4742 4827,True,melg-,4736,0.6,False
+malai,491 495 503,Gondi,Go,4730 4736 4741 4742 4827,True,talla,4736,0.6,False
+malai,491 495 503,Konda,Konḍa,4730 4736 4741 4742 4827,False,,,,False
+malai,491 495 503,Pengo,Pe,4730 4736 4741 4742 4827,False,,,,False
+malai,491 495 503,Manda,Manḍ,4730 4736 4741 4742 4827,False,,,,False
+malai,491 495 503,Kui,Kui,4730 4736 4741 4742 4827,False,,,,False
+malai,491 495 503,Kuwi,Kuwi,4730 4736 4741 4742 4827,False,,,,False
+malai,491 495 503,Kurukh,Kur,4730 4736 4741 4742 4827,False,,,,False
+malai,491 495 503,Malto,Malt,4730 4736 4741 4742 4827,False,,,,False
+malai,491 495 503,Brahui,Br,4730 4736 4741 4742 4827,True,mash,4742,0.6,False
+maruppu,923,Tamil,Ta,4720,True,maruppu,4720,0.0,True
+maruppu,923,Malayalam,Ma,4720,False,,,,False
+maruppu,923,Kannada,Ka,4720,False,,,,False
+maruppu,923,Telugu,Te,4720,False,,,,False
+maruppu,923,Tulu,Tu,4720,False,,,,False
+maruppu,923,Kota,Ko,4720,False,,,,False
+maruppu,923,Toda,To,4720,False,,,,False
+maruppu,923,Kodagu,Koḍ,4720,False,,,,False
+maruppu,923,Kolami,Kol,4720,False,,,,False
+maruppu,923,Naikri,Nk,4720,False,,,,False
+maruppu,923,Parji,Pa,4720,False,,,,False
+maruppu,923,Gadaba,Ga,4720,False,,,,False
+maruppu,923,Gondi,Go,4720,False,,,,False
+maruppu,923,Konda,Konḍa,4720,False,,,,False
+maruppu,923,Pengo,Pe,4720,False,,,,False
+maruppu,923,Manda,Manḍ,4720,False,,,,False
+maruppu,923,Kui,Kui,4720,False,,,,False
+maruppu,923,Kuwi,Kuwi,4720,False,,,,False
+maruppu,923,Kurukh,Kur,4720,True,marᵃg,4720,0.5714285714285714,False
+maruppu,923,Malto,Malt,4720,True,margu,4720,0.42857142857142855,False
+maruppu,923,Brahui,Br,4720,True,marg̠ẖ,4720,0.5714285714285714,False
+mukku,440,Tamil,Ta,4897 4898 4899 4993 5007 5024 5127,True,mukku,4897,0.0,True
+mukku,440,Malayalam,Ma,4897 4898 4899 4993 5007 5024 5127,True,mukku,4898,0.0,True
+mukku,440,Kannada,Ka,4897 4898 4899 4993 5007 5024 5127,True,mukku,4897,0.0,True
+mukku,440,Telugu,Te,4897 4898 4899 4993 5007 5024 5127,True,mukku,5007,0.0,True
+mukku,440,Tulu,Tu,4897 4898 4899 4993 5007 5024 5127,True,mukku,4898,0.0,True
+mukku,440,Kota,Ko,4897 4898 4899 4993 5007 5024 5127,True,muḷk-,4993,0.4,False
+mukku,440,Toda,To,4897 4898 4899 4993 5007 5024 5127,True,muk,4898,0.4,False
+mukku,440,Kodagu,Koḍ,4897 4898 4899 4993 5007 5024 5127,True,mukk-,4993,0.2,False
+mukku,440,Kolami,Kol,4897 4898 4899 4993 5007 5024 5127,True,muŋg-,4993,0.6,False
+mukku,440,Naikri,Nk,4897 4898 4899 4993 5007 5024 5127,True,muŋgup-,4993,0.5,False
+mukku,440,Parji,Pa,4897 4898 4899 4993 5007 5024 5127,True,murru,5007,0.4,False
+mukku,440,Gadaba,Ga,4897 4898 4899 4993 5007 5024 5127,True,mulg-,4993,0.6,False
+mukku,440,Gondi,Go,4897 4898 4899 4993 5007 5024 5127,True,murk,5007,0.4,False
+mukku,440,Konda,Konḍa,4897 4898 4899 4993 5007 5024 5127,True,muṛk-,4993,0.4,False
+mukku,440,Pengo,Pe,4897 4898 4899 4993 5007 5024 5127,True,munj-,4993,0.6,False
+mukku,440,Manda,Manḍ,4897 4898 4899 4993 5007 5024 5127,True,munj-,4993,0.6,False
+mukku,440,Kui,Kui,4897 4898 4899 4993 5007 5024 5127,True,muka,4897,0.4,False
+mukku,440,Kuwi,Kuwi,4897 4898 4899 4993 5007 5024 5127,True,buk-,4897,0.6,False
+mukku,440,Kurukh,Kur,4897 4898 4899 4993 5007 5024 5127,True,mulᵘxnā,4993,0.7142857142857143,False
+mukku,440,Malto,Malt,4897 4898 4899 4993 5007 5024 5127,True,muṉyu,5024,0.4,False
+mukku,440,Brahui,Br,4897 4898 4899 4993 5007 5024 5127,False,,,,False
+mutal,255,Tamil,Ta,4950 4951,True,mutal,4950,0.0,True
+mutal,255,Malayalam,Ma,4950 4951,True,mutal,4950,0.0,True
+mutal,255,Kannada,Ka,4950 4951,True,modal,4950,0.4,False
+mutal,255,Telugu,Te,4950 4951,True,modalu,4950,0.5,False
+mutal,255,Tulu,Tu,4950 4951,True,mudelů,4950,0.5,False
+mutal,255,Kota,Ko,4950 4951,False,,,,False
+mutal,255,Toda,To,4950 4951,True,mo,4950,0.8,False
+mutal,255,Kodagu,Koḍ,4950 4951,True,moda,4950,0.6,False
+mutal,255,Kolami,Kol,4950 4951,True,modal,4951,0.4,False
+mutal,255,Naikri,Nk,4950 4951,True,modhal,4951,0.5,False
+mutal,255,Parji,Pa,4950 4951,True,model,4951,0.6,False
+mutal,255,Gadaba,Ga,4950 4951,True,modaṭ,4950,0.6,False
+mutal,255,Gondi,Go,4950 4951,True,modol,4950,0.6,False
+mutal,255,Konda,Konḍa,4950 4951,True,modol,4950,0.6,False
+mutal,255,Pengo,Pe,4950 4951,False,,,,False
+mutal,255,Manda,Manḍ,4950 4951,False,,,,False
+mutal,255,Kui,Kui,4950 4951,True,muduli,4950,0.5,False
+mutal,255,Kuwi,Kuwi,4950 4951,False,,,,False
+mutal,255,Kurukh,Kur,4950 4951,False,,,,False
+mutal,255,Malto,Malt,4950 4951,False,,,,False
+mutal,255,Brahui,Br,4950 4951,False,,,,False
+mīṉ,220 222 226 231 232 233 234 235 236 240 241 242,Tamil,Ta,4876 4885,True,mīṉ,4876,0.0,True
+mīṉ,220 222 226 231 232 233 234 235 236 240 241 242,Malayalam,Ma,4876 4885,True,mīn,4876,0.3333333333333333,False
+mīṉ,220 222 226 231 232 233 234 235 236 240 241 242,Kannada,Ka,4876 4885,True,mīn,4876,0.3333333333333333,False
+mīṉ,220 222 226 231 232 233 234 235 236 240 241 242,Telugu,Te,4876 4885,True,mīnu,4885,0.5,False
+mīṉ,220 222 226 231 232 233 234 235 236 240 241 242,Tulu,Tu,4876 4885,True,mīnů,4885,0.5,False
+mīṉ,220 222 226 231 232 233 234 235 236 240 241 242,Kota,Ko,4876 4885,True,mi·n,4876,0.3333333333333333,False
+mīṉ,220 222 226 231 232 233 234 235 236 240 241 242,Toda,To,4876 4885,True,mi·n,4876,0.3333333333333333,False
+mīṉ,220 222 226 231 232 233 234 235 236 240 241 242,Kodagu,Koḍ,4876 4885,True,mi·nï,4885,0.5,False
+mīṉ,220 222 226 231 232 233 234 235 236 240 241 242,Kolami,Kol,4876 4885,False,,,,False
+mīṉ,220 222 226 231 232 233 234 235 236 240 241 242,Naikri,Nk,4876 4885,False,,,,False
+mīṉ,220 222 226 231 232 233 234 235 236 240 241 242,Parji,Pa,4876 4885,True,mīni,4885,0.5,False
+mīṉ,220 222 226 231 232 233 234 235 236 240 241 242,Gadaba,Ga,4876 4885,True,mīn,4885,0.3333333333333333,False
+mīṉ,220 222 226 231 232 233 234 235 236 240 241 242,Gondi,Go,4876 4885,True,mīn,4885,0.3333333333333333,False
+mīṉ,220 222 226 231 232 233 234 235 236 240 241 242,Konda,Konḍa,4876 4885,True,mīn,4885,0.3333333333333333,False
+mīṉ,220 222 226 231 232 233 234 235 236 240 241 242,Pengo,Pe,4876 4885,True,min,4885,0.6666666666666666,False
+mīṉ,220 222 226 231 232 233 234 235 236 240 241 242,Manda,Manḍ,4876 4885,True,min,4885,0.6666666666666666,False
+mīṉ,220 222 226 231 232 233 234 235 236 240 241 242,Kui,Kui,4876 4885,True,mīnu,4885,0.5,False
+mīṉ,220 222 226 231 232 233 234 235 236 240 241 242,Kuwi,Kuwi,4876 4885,True,mṇīh-,4876,0.5,False
+mīṉ,220 222 226 231 232 233 234 235 236 240 241 242,Kurukh,Kur,4876 4885,True,bīnkō,4876,0.8,False
+mīṉ,220 222 226 231 232 233 234 235 236 240 241 242,Malto,Malt,4876 4885,True,mínu,4885,0.75,False
+mīṉ,220 222 226 231 232 233 234 235 236 240 241 242,Brahui,Br,4876 4885,False,,,,False
+mū,003 013 033 703 745 746 747,Tamil,Ta,4887 4954 5024 5052,True,mū,4954,0.0,True
+mū,003 013 033 703 745 746 747,Malayalam,Ma,4887 4954 5024 5052,True,mūtu,4954,0.5,False
+mū,003 013 033 703 745 746 747,Kannada,Ka,4887 4954 5024 5052,True,mū,5024,0.0,True
+mū,003 013 033 703 745 746 747,Telugu,Te,4887 4954 5024 5052,True,mūḍu,5052,0.5,False
+mū,003 013 033 703 745 746 747,Tulu,Tu,4887 4954 5024 5052,True,mūku,5024,0.5,False
+mū,003 013 033 703 745 746 747,Kota,Ko,4887 4954 5024 5052,True,mu·,5052,0.0,True
+mū,003 013 033 703 745 746 747,Toda,To,4887 4954 5024 5052,True,mu·,4887,0.0,True
+mū,003 013 033 703 745 746 747,Kodagu,Koḍ,4887 4954 5024 5052,True,mu·-,4954,0.0,True
+mū,003 013 033 703 745 746 747,Kolami,Kol,4887 4954 5024 5052,True,mu·nd,5052,0.5,False
+mū,003 013 033 703 745 746 747,Naikri,Nk,4887 4954 5024 5052,True,mū,5052,0.0,True
+mū,003 013 033 703 745 746 747,Parji,Pa,4887 4954 5024 5052,True,mū̃du,5052,0.6,False
+mū,003 013 033 703 745 746 747,Gadaba,Ga,4887 4954 5024 5052,True,mūṇu,5052,0.5,False
+mū,003 013 033 703 745 746 747,Gondi,Go,4887 4954 5024 5052,True,mūnd,5052,0.5,False
+mū,003 013 033 703 745 746 747,Konda,Konḍa,4887 4954 5024 5052,True,dū-,4954,0.5,False
+mū,003 013 033 703 745 746 747,Pengo,Pe,4887 4954 5024 5052,True,muŋgel,5024,0.8333333333333334,False
+mū,003 013 033 703 745 746 747,Manda,Manḍ,4887 4954 5024 5052,True,muŋgel,5024,0.8333333333333334,False
+mū,003 013 033 703 745 746 747,Kui,Kui,4887 4954 5024 5052,True,mū,5052,0.0,True
+mū,003 013 033 703 745 746 747,Kuwi,Kuwi,4887 4954 5024 5052,True,mū'nai,4954,0.6,False
+mū,003 013 033 703 745 746 747,Kurukh,Kur,4887 4954 5024 5052,True,mūnd,5052,0.5,False
+mū,003 013 033 703 745 746 747,Malto,Malt,4887 4954 5024 5052,True,muṉyu,5024,0.8,False
+mū,003 013 033 703 745 746 747,Brahui,Br,4887 4954 5024 5052,True,musiṭ,5052,0.8,False
+mūṭai,590 592 595,Tamil,Ta,4921 5037,True,mūṭai,4921,0.0,True
+mūṭai,590 592 595,Malayalam,Ma,4921 5037,True,mūṭa,5037,0.2,False
+mūṭai,590 592 595,Kannada,Ka,4921 5037,True,mūṭe,5037,0.4,False
+mūṭai,590 592 595,Telugu,Te,4921 5037,True,mūṭa,5037,0.2,False
+mūṭai,590 592 595,Tulu,Tu,4921 5037,True,muḍi,4921,0.6,False
+mūṭai,590 592 595,Kota,Ko,4921 5037,True,mu·ṭ,5037,0.4,False
+mūṭai,590 592 595,Toda,To,4921 5037,True,mu·ṭy,5037,0.4,False
+mūṭai,590 592 595,Kodagu,Koḍ,4921 5037,False,,,,False
+mūṭai,590 592 595,Kolami,Kol,4921 5037,True,muḍi,4921,0.6,False
+mūṭai,590 592 595,Naikri,Nk,4921 5037,False,,,,False
+mūṭai,590 592 595,Parji,Pa,4921 5037,True,mūṭa,5037,0.2,False
+mūṭai,590 592 595,Gadaba,Ga,4921 5037,False,,,,False
+mūṭai,590 592 595,Gondi,Go,4921 5037,True,mūṭa,5037,0.2,False
+mūṭai,590 592 595,Konda,Konḍa,4921 5037,True,mūṭa,5037,0.2,False
+mūṭai,590 592 595,Pengo,Pe,4921 5037,False,,,,False
+mūṭai,590 592 595,Manda,Manḍ,4921 5037,False,,,,False
+mūṭai,590 592 595,Kui,Kui,4921 5037,False,,,,False
+mūṭai,590 592 595,Kuwi,Kuwi,4921 5037,True,mūṭa,5037,0.2,False
+mūṭai,590 592 595,Kurukh,Kur,4921 5037,True,mō̃ṛā,5037,0.8,False
+mūṭai,590 592 595,Malto,Malt,4921 5037,False,,,,False
+mūṭai,590 592 595,Brahui,Br,4921 5037,True,muṭṭux,4921,0.6666666666666666,False
+niṟai,171,Tamil,Ta,3672 3675 3682,True,niṟai,3672,0.0,True
+niṟai,171,Malayalam,Ma,3672 3675 3682,True,niṟa,3682,0.2,False
+niṟai,171,Kannada,Ka,3672 3675 3682,True,nila,3675,0.4,False
+niṟai,171,Telugu,Te,3672 3675 3682,True,neṟa,3672,0.4,False
+niṟai,171,Tulu,Tu,3672 3675 3682,True,nilavu,3675,0.5,False
+niṟai,171,Kota,Ko,3672 3675 3682,True,nil-,3675,0.6,False
+niṟai,171,Toda,To,3672 3675 3682,True,nilc-,3675,0.6,False
+niṟai,171,Kodagu,Koḍ,3672 3675 3682,True,nerap,3672,0.6,False
+niṟai,171,Kolami,Kol,3672 3675 3682,True,neray-,3672,0.6,False
+niṟai,171,Naikri,Nk,3672 3675 3682,True,ninḍ-,3682,0.6,False
+niṟai,171,Parji,Pa,3672 3675 3682,True,nilp-,3675,0.6,False
+niṟai,171,Gadaba,Ga,3672 3675 3682,True,nil-,3675,0.6,False
+niṟai,171,Gondi,Go,3672 3675 3682,True,nilahtānā,3675,0.6666666666666666,False
+niṟai,171,Konda,Konḍa,3672 3675 3682,True,ninṟi-,3682,0.4,False
+niṟai,171,Pengo,Pe,3672 3675 3682,True,nil-,3675,0.6,False
+niṟai,171,Manda,Manḍ,3672 3675 3682,True,li-,3675,0.8,False
+niṟai,171,Kui,Kui,3672 3675 3682,True,nisa,3675,0.4,False
+niṟai,171,Kuwi,Kuwi,3672 3675 3682,True,niphali,3675,0.42857142857142855,False
+niṟai,171,Kurukh,Kur,3672 3675 3682,True,nindnā,3682,0.6666666666666666,False
+niṟai,171,Malto,Malt,3672 3675 3682,True,ninde,3682,0.6,False
+niṟai,171,Brahui,Br,3672 3675 3682,False,,,,False
+nāl,004 014 034 748,Tamil,Ta,2912 2913 3655,True,nāl,2912,0.0,True
+nāl,004 014 034 748,Malayalam,Ma,2912 2913 3655,True,nāl,3655,0.0,True
+nāl,004 014 034 748,Kannada,Ka,2912 2913 3655,True,nāl,3655,0.0,True
+nāl,004 014 034 748,Telugu,Te,2912 2913 3655,True,nēla,2913,0.5,False
+nāl,004 014 034 748,Tulu,Tu,2912 2913 3655,True,nālů,3655,0.25,False
+nāl,004 014 034 748,Kota,Ko,2912 2913 3655,True,na·r,3655,0.3333333333333333,False
+nāl,004 014 034 748,Toda,To,2912 2913 3655,True,nal,3655,0.3333333333333333,False
+nāl,004 014 034 748,Kodagu,Koḍ,2912 2913 3655,True,na·lï,3655,0.25,False
+nāl,004 014 034 748,Kolami,Kol,2912 2913 3655,True,na·l,3655,0.0,True
+nāl,004 014 034 748,Naikri,Nk,2912 2913 3655,True,nāli,3655,0.25,False
+nāl,004 014 034 748,Parji,Pa,2912 2913 3655,True,nālu,3655,0.25,False
+nāl,004 014 034 748,Gadaba,Ga,2912 2913 3655,True,nālig,3655,0.4,False
+nāl,004 014 034 748,Gondi,Go,2912 2913 3655,True,nālk,3655,0.25,False
+nāl,004 014 034 748,Konda,Konḍa,2912 2913 3655,True,nālˀ,3655,0.25,False
+nāl,004 014 034 748,Pengo,Pe,2912 2913 3655,True,nēl,2913,0.3333333333333333,False
+nāl,004 014 034 748,Manda,Manḍ,2912 2913 3655,True,nēl,2913,0.3333333333333333,False
+nāl,004 014 034 748,Kui,Kui,2912 2913 3655,True,nāl,3655,0.0,True
+nāl,004 014 034 748,Kuwi,Kuwi,2912 2913 3655,True,nē'la,2913,0.5,False
+nāl,004 014 034 748,Kurukh,Kur,2912 2913 3655,True,nāl,2913,0.0,True
+nāl,004 014 034 748,Malto,Malt,2912 2913 3655,False,,,,False
+nāl,004 014 034 748,Brahui,Br,2912 2913 3655,False,,,,False
+nāṭu,550 555,Tamil,Ta,2919 3583 3637 3638 3642 3766 3794,True,nāṭu,3637,0.0,True
+nāṭu,550 555,Malayalam,Ma,2919 3583 3637 3638 3642 3766 3794,True,nāṭu,3638,0.0,True
+nāṭu,550 555,Kannada,Ka,2919 3583 3637 3638 3642 3766 3794,True,nāṭu,2919,0.0,True
+nāṭu,550 555,Telugu,Te,2919 3583 3637 3638 3642 3766 3794,True,nāṭu,3583,0.0,True
+nāṭu,550 555,Tulu,Tu,2919 3583 3637 3638 3642 3766 3794,True,nāṭa,3583,0.25,False
+nāṭu,550 555,Kota,Ko,2919 3583 3637 3638 3642 3766 3794,True,na·ṭy,3583,0.25,False
+nāṭu,550 555,Toda,To,2919 3583 3637 3638 3642 3766 3794,True,no·ṛ,3638,0.75,False
+nāṭu,550 555,Kodagu,Koḍ,2919 3583 3637 3638 3642 3766 3794,True,na·ṭi,3583,0.25,False
+nāṭu,550 555,Kolami,Kol,2919 3583 3637 3638 3642 3766 3794,False,,,,False
+nāṭu,550 555,Naikri,Nk,2919 3583 3637 3638 3642 3766 3794,False,,,,False
+nāṭu,550 555,Parji,Pa,2919 3583 3637 3638 3642 3766 3794,True,nã̄ḍ-,3637,0.75,False
+nāṭu,550 555,Gadaba,Ga,2919 3583 3637 3638 3642 3766 3794,False,,,,False
+nāṭu,550 555,Gondi,Go,2919 3583 3637 3638 3642 3766 3794,True,nāṛ-,3637,0.5,False
+nāṭu,550 555,Konda,Konḍa,2919 3583 3637 3638 3642 3766 3794,True,nāru,2919,0.25,False
+nāṭu,550 555,Pengo,Pe,2919 3583 3637 3638 3642 3766 3794,True,nāz,3638,0.5,False
+nāṭu,550 555,Manda,Manḍ,2919 3583 3637 3638 3642 3766 3794,True,nāy,3638,0.5,False
+nāṭu,550 555,Kui,Kui,2919 3583 3637 3638 3642 3766 3794,True,nāju,3638,0.25,False
+nāṭu,550 555,Kuwi,Kuwi,2919 3583 3637 3638 3642 3766 3794,True,ney-,2919,0.75,False
+nāṭu,550 555,Kurukh,Kur,2919 3583 3637 3638 3642 3766 3794,True,aṇḍra'ānā,3642,0.875,False
+nāṭu,550 555,Malto,Malt,2919 3583 3637 3638 3642 3766 3794,True,anḍe,3642,1.0,False
+nāṭu,550 555,Brahui,Br,2919 3583 3637 3638 3642 3766 3794,True,dēṛū,3766,1.0,False
+oru,001 031 741 832,Tamil,Ta,657 990,True,oru,990,0.0,True
+oru,001 031 741 832,Malayalam,Ma,657 990,True,oru,990,0.0,True
+oru,001 031 741 832,Kannada,Ka,657 990,True,orgu,990,0.25,False
+oru,001 031 741 832,Telugu,Te,657 990,True,orumu,990,0.4,False
+oru,001 031 741 832,Tulu,Tu,657 990,True,oru,657,0.0,True
+oru,001 031 741 832,Kota,Ko,657 990,True,orrvi·,990,0.6,False
+oru,001 031 741 832,Toda,To,657 990,True,urp,657,0.6666666666666666,False
+oru,001 031 741 832,Kodagu,Koḍ,657 990,True,orï,990,0.3333333333333333,False
+oru,001 031 741 832,Kolami,Kol,657 990,True,ok,990,0.6666666666666666,False
+oru,001 031 741 832,Naikri,Nk,657 990,True,ok,990,0.6666666666666666,False
+oru,001 031 741 832,Parji,Pa,657 990,True,okur,990,0.5,False
+oru,001 031 741 832,Gadaba,Ga,657 990,True,okuṭ,990,0.5,False
+oru,001 031 741 832,Gondi,Go,657 990,True,oror,990,0.5,False
+oru,001 031 741 832,Konda,Konḍa,657 990,True,orsu,990,0.25,False
+oru,001 031 741 832,Pengo,Pe,657 990,True,ro,990,0.6666666666666666,False
+oru,001 031 741 832,Manda,Manḍ,657 990,True,ru,990,0.3333333333333333,False
+oru,001 031 741 832,Kui,Kui,657 990,True,ro,990,0.6666666666666666,False
+oru,001 031 741 832,Kuwi,Kuwi,657 990,True,rō,990,0.6666666666666666,False
+oru,001 031 741 832,Kurukh,Kur,657 990,True,orᵒt,990,0.5,False
+oru,001 031 741 832,Malto,Malt,657 990,True,ort,990,0.3333333333333333,False
+oru,001 031 741 832,Brahui,Br,657 990,True,asiṭ,990,1.0,False
+oḷi,159 160 161 235 236,Tamil,Ta,1009 1015 1016 1017,True,oḷi,1015,0.0,True
+oḷi,159 160 161 235 236,Malayalam,Ma,1009 1015 1016 1017,True,oḷi,1015,0.0,True
+oḷi,159 160 161 235 236,Kannada,Ka,1009 1015 1016 1017,True,oḍi,1009,0.3333333333333333,False
+oḷi,159 160 161 235 236,Telugu,Te,1009 1015 1016 1017,True,oḷavu,1015,0.6,False
+oḷi,159 160 161 235 236,Tulu,Tu,1009 1015 1016 1017,True,oḷi,1016,0.0,True
+oḷi,159 160 161 235 236,Kota,Ko,1009 1015 1016 1017,True,oḷy,1017,0.3333333333333333,False
+oḷi,159 160 161 235 236,Toda,To,1009 1015 1016 1017,True,wiḷy,1017,0.75,False
+oḷi,159 160 161 235 236,Kodagu,Koḍ,1009 1015 1016 1017,True,oḷi-,1009,0.0,True
+oḷi,159 160 161 235 236,Kolami,Kol,1009 1015 1016 1017,False,,,,False
+oḷi,159 160 161 235 236,Naikri,Nk,1009 1015 1016 1017,False,,,,False
+oḷi,159 160 161 235 236,Parji,Pa,1009 1015 1016 1017,False,,,,False
+oḷi,159 160 161 235 236,Gadaba,Ga,1009 1015 1016 1017,True,olp-,1015,0.6666666666666666,False
+oḷi,159 160 161 235 236,Gondi,Go,1009 1015 1016 1017,True,ol-,1015,0.6666666666666666,False
+oḷi,159 160 161 235 236,Konda,Konḍa,1009 1015 1016 1017,True,oṛini,1016,0.6,False
+oḷi,159 160 161 235 236,Pengo,Pe,1009 1015 1016 1017,False,,,,False
+oḷi,159 160 161 235 236,Manda,Manḍ,1009 1015 1016 1017,False,,,,False
+oḷi,159 160 161 235 236,Kui,Kui,1009 1015 1016 1017,False,,,,False
+oḷi,159 160 161 235 236,Kuwi,Kuwi,1009 1015 1016 1017,False,,,,False
+oḷi,159 160 161 235 236,Kurukh,Kur,1009 1015 1016 1017,True,ōltā,1015,1.0,False
+oḷi,159 160 161 235 236,Malto,Malt,1009 1015 1016 1017,False,,,,False
+oḷi,159 160 161 235 236,Brahui,Br,1009 1015 1016 1017,False,,,,False
+oṉpatu,025 027,Tamil,Ta,1004 1025 3532 990,True,oṉpatu,1004,0.0,True
+oṉpatu,025 027,Malayalam,Ma,1004 1025 3532 990,True,oru,990,0.6666666666666666,False
+oṉpatu,025 027,Kannada,Ka,1004 1025 3532 990,True,tom-battu,3532,0.5,False
+oṉpatu,025 027,Telugu,Te,1004 1025 3532 990,True,okata,990,0.5,False
+oṉpatu,025 027,Tulu,Tu,1004 1025 3532 990,True,orportu,990,0.42857142857142855,False
+oṉpatu,025 027,Kota,Ko,1004 1025 3532 990,True,tombat,3532,0.6666666666666666,False
+oṉpatu,025 027,Toda,To,1004 1025 3532 990,True,oš,990,0.8333333333333334,False
+oṉpatu,025 027,Kodagu,Koḍ,1004 1025 3532 990,True,obba,990,0.6666666666666666,False
+oṉpatu,025 027,Kolami,Kol,1004 1025 3532 990,True,okkon,990,0.8333333333333334,False
+oṉpatu,025 027,Naikri,Nk,1004 1025 3532 990,True,okko,990,0.8333333333333334,False
+oṉpatu,025 027,Parji,Pa,1004 1025 3532 990,True,okal,990,0.6666666666666666,False
+oṉpatu,025 027,Gadaba,Ga,1004 1025 3532 990,True,okal,990,0.6666666666666666,False
+oṉpatu,025 027,Gondi,Go,1004 1025 3532 990,True,orpan,990,0.5,False
+oṉpatu,025 027,Konda,Konḍa,1004 1025 3532 990,True,orsu,990,0.6666666666666666,False
+oṉpatu,025 027,Pengo,Pe,1004 1025 3532 990,True,rokan,990,0.8333333333333334,False
+oṉpatu,025 027,Manda,Manḍ,1004 1025 3532 990,True,ru,990,0.8333333333333334,False
+oṉpatu,025 027,Kui,Kui,1004 1025 3532 990,True,roanju,990,0.8333333333333334,False
+oṉpatu,025 027,Kuwi,Kuwi,1004 1025 3532 990,True,rondi,990,1.0,False
+oṉpatu,025 027,Kurukh,Kur,1004 1025 3532 990,True,orᵒt,990,0.6666666666666666,False
+oṉpatu,025 027,Malto,Malt,1004 1025 3532 990,True,ort,990,0.6666666666666666,False
+oṉpatu,025 027,Brahui,Br,1004 1025 3532 990,True,asi,990,0.8333333333333334,False
+pattu,028,Tamil,Ta,3918 4034,True,pattu,3918,0.0,True
+pattu,028,Malayalam,Ma,3918 4034,True,pattu,3918,0.0,True
+pattu,028,Kannada,Ka,3918 4034,True,pattu,3918,0.0,True
+pattu,028,Telugu,Te,3918 4034,True,hattu,4034,0.2,False
+pattu,028,Tulu,Tu,3918 4034,True,pattů,3918,0.2,False
+pattu,028,Kota,Ko,3918 4034,True,pat,3918,0.4,False
+pattu,028,Toda,To,3918 4034,True,pot,3918,0.6,False
+pattu,028,Kodagu,Koḍ,3918 4034,True,patt,3918,0.2,False
+pattu,028,Kolami,Kol,3918 4034,True,padī,3918,0.6,False
+pattu,028,Naikri,Nk,3918 4034,False,,,,False
+pattu,028,Parji,Pa,3918 4034,True,patt-,4034,0.2,False
+pattu,028,Gadaba,Ga,3918 4034,True,patt-,4034,0.2,False
+pattu,028,Gondi,Go,3918 4034,True,patus-,4034,0.4,False
+pattu,028,Konda,Konḍa,3918 4034,False,,,,False
+pattu,028,Pengo,Pe,3918 4034,False,,,,False
+pattu,028,Manda,Manḍ,3918 4034,False,,,,False
+pattu,028,Kui,Kui,3918 4034,True,pāṇba,4034,0.8,False
+pattu,028,Kuwi,Kuwi,3918 4034,False,,,,False
+pattu,028,Kurukh,Kur,3918 4034,True,paṭnā,4034,0.6,False
+pattu,028,Malto,Malt,3918 4034,True,patye,4034,0.4,False
+pattu,028,Brahui,Br,3918 4034,False,,,,False
+paṉṉiru,055,Tamil,Ta,,False,,,,False
+paṉṉiru,055,Malayalam,Ma,,False,,,,False
+paṉṉiru,055,Kannada,Ka,,False,,,,False
+paṉṉiru,055,Telugu,Te,,False,,,,False
+paṉṉiru,055,Tulu,Tu,,False,,,,False
+paṉṉiru,055,Kota,Ko,,False,,,,False
+paṉṉiru,055,Toda,To,,False,,,,False
+paṉṉiru,055,Kodagu,Koḍ,,False,,,,False
+paṉṉiru,055,Kolami,Kol,,False,,,,False
+paṉṉiru,055,Naikri,Nk,,False,,,,False
+paṉṉiru,055,Parji,Pa,,False,,,,False
+paṉṉiru,055,Gadaba,Ga,,False,,,,False
+paṉṉiru,055,Gondi,Go,,False,,,,False
+paṉṉiru,055,Konda,Konḍa,,False,,,,False
+paṉṉiru,055,Pengo,Pe,,False,,,,False
+paṉṉiru,055,Manda,Manḍ,,False,,,,False
+paṉṉiru,055,Kui,Kui,,False,,,,False
+paṉṉiru,055,Kuwi,Kuwi,,False,,,,False
+paṉṉiru,055,Kurukh,Kur,,False,,,,False
+paṉṉiru,055,Malto,Malt,,False,,,,False
+paṉṉiru,055,Brahui,Br,,False,,,,False
+paṟai,540,Tamil,Ta,4020 4031 4032 4033,True,paṟai,4020,0.0,True
+paṟai,540,Malayalam,Ma,4020 4031 4032 4033,True,paṟa,4020,0.2,False
+paṟai,540,Kannada,Ka,4020 4031 4032 4033,True,paṟi,4020,0.2,False
+paṟai,540,Telugu,Te,4020 4031 4032 4033,True,paṟati,4020,0.16666666666666666,False
+paṟai,540,Tulu,Tu,4020 4031 4032 4033,True,paraṇḍa,4031,0.5714285714285714,False
+paṟai,540,Kota,Ko,4020 4031 4032 4033,True,paraṇ,4020,0.4,False
+paṟai,540,Toda,To,4020 4031 4032 4033,True,paṟ,4032,0.4,False
+paṟai,540,Kodagu,Koḍ,4020 4031 4032 4033,True,pare-,4031,0.6,False
+paṟai,540,Kolami,Kol,4020 4031 4032 4033,False,,,,False
+paṟai,540,Naikri,Nk,4020 4031 4032 4033,False,,,,False
+paṟai,540,Parji,Pa,4020 4031 4032 4033,False,,,,False
+paṟai,540,Gadaba,Ga,4020 4031 4032 4033,True,park-,4031,0.6,False
+paṟai,540,Gondi,Go,4020 4031 4032 4033,True,para,4032,0.4,False
+paṟai,540,Konda,Konḍa,4020 4031 4032 4033,False,,,,False
+paṟai,540,Pengo,Pe,4020 4031 4032 4033,False,,,,False
+paṟai,540,Manda,Manḍ,4020 4031 4032 4033,False,,,,False
+paṟai,540,Kui,Kui,4020 4031 4032 4033,True,bargi,4031,0.6,False
+paṟai,540,Kuwi,Kuwi,4020 4031 4032 4033,True,prāḍ-,4020,0.8,False
+paṟai,540,Kurukh,Kur,4020 4031 4032 4033,False,,,,False
+paṟai,540,Malto,Malt,4020 4031 4032 4033,False,,,,False
+paṟai,540,Brahui,Br,4020 4031 4032 4033,False,,,,False
+paṭi,320 322 323 324 325,Tamil,Ta,3848 3849 3850 3851 3875,True,paṭi,3848,0.0,True
+paṭi,320 322 323 324 325,Malayalam,Ma,3848 3849 3850 3851 3875,True,paṭi,3849,0.0,True
+paṭi,320 322 323 324 325,Kannada,Ka,3848 3849 3850 3851 3875,True,paṭṭi,3875,0.2,False
+paṭi,320 322 323 324 325,Telugu,Te,3848 3849 3850 3851 3875,True,paṭṭi,3875,0.2,False
+paṭi,320 322 323 324 325,Tulu,Tu,3848 3849 3850 3851 3875,True,paṭi,3875,0.0,True
+paṭi,320 322 323 324 325,Kota,Ko,3848 3849 3850 3851 3875,True,paṛy,3849,0.5,False
+paṭi,320 322 323 324 325,Toda,To,3848 3849 3850 3851 3875,True,poṛy,3849,0.75,False
+paṭi,320 322 323 324 325,Kodagu,Koḍ,3848 3849 3850 3851 3875,False,,,,False
+paṭi,320 322 323 324 325,Kolami,Kol,3848 3849 3850 3851 3875,True,paṭṭe,3875,0.4,False
+paṭi,320 322 323 324 325,Naikri,Nk,3848 3849 3850 3851 3875,True,paṭi,3875,0.0,True
+paṭi,320 322 323 324 325,Parji,Pa,3848 3849 3850 3851 3875,True,peṭṭi,3875,0.4,False
+paṭi,320 322 323 324 325,Gadaba,Ga,3848 3849 3850 3851 3875,True,paṭiya,3875,0.3333333333333333,False
+paṭi,320 322 323 324 325,Gondi,Go,3848 3849 3850 3851 3875,False,,,,False
+paṭi,320 322 323 324 325,Konda,Konḍa,3848 3849 3850 3851 3875,False,,,,False
+paṭi,320 322 323 324 325,Pengo,Pe,3848 3849 3850 3851 3875,False,,,,False
+paṭi,320 322 323 324 325,Manda,Manḍ,3848 3849 3850 3851 3875,False,,,,False
+paṭi,320 322 323 324 325,Kui,Kui,3848 3849 3850 3851 3875,True,paṭi,3875,0.0,True
+paṭi,320 322 323 324 325,Kuwi,Kuwi,3848 3849 3850 3851 3875,True,pārva,3848,0.8,False
+paṭi,320 322 323 324 325,Kurukh,Kur,3848 3849 3850 3851 3875,True,paṭṭā,3875,0.4,False
+paṭi,320 322 323 324 325,Malto,Malt,3848 3849 3850 3851 3875,False,,,,False
+paṭi,320 322 323 324 325,Brahui,Br,3848 3849 3850 3851 3875,False,,,,False
+piṇai,690,Tamil,Ta,4436,True,piṇai,4436,0.0,True
+piṇai,690,Malayalam,Ma,4436,True,pēṇam,4436,0.4,False
+piṇai,690,Kannada,Ka,4436,False,,,,False
+piṇai,690,Telugu,Te,4436,True,pempakamu,4436,0.7777777777777778,False
+piṇai,690,Tulu,Tu,4436,False,,,,False
+piṇai,690,Kota,Ko,4436,False,,,,False
+piṇai,690,Toda,To,4436,False,,,,False
+piṇai,690,Kodagu,Koḍ,4436,False,,,,False
+piṇai,690,Kolami,Kol,4436,False,,,,False
+piṇai,690,Naikri,Nk,4436,False,,,,False
+piṇai,690,Parji,Pa,4436,False,,,,False
+piṇai,690,Gadaba,Ga,4436,False,,,,False
+piṇai,690,Gondi,Go,4436,False,,,,False
+piṇai,690,Konda,Konḍa,4436,False,,,,False
+piṇai,690,Pengo,Pe,4436,False,,,,False
+piṇai,690,Manda,Manḍ,4436,False,,,,False
+piṇai,690,Kui,Kui,4436,False,,,,False
+piṇai,690,Kuwi,Kuwi,4436,False,,,,False
+piṇai,690,Kurukh,Kur,4436,False,,,,False
+piṇai,690,Malto,Malt,4436,False,,,,False
+piṇai,690,Brahui,Br,4436,False,,,,False
+pāy,500,Tamil,Ta,4044 4087 4088 4110,True,pāy,4087,0.0,True
+pāy,500,Malayalam,Ma,4044 4087 4088 4110,True,pāy,4088,0.0,True
+pāy,500,Kannada,Ka,4044 4087 4088 4110,True,pāy,4044,0.0,True
+pāy,500,Telugu,Te,4044 4087 4088 4110,True,āsu-mrānu,4088,0.875,False
+pāy,500,Tulu,Tu,4044 4087 4088 4110,True,pāyi,4088,0.25,False
+pāy,500,Kota,Ko,4044 4087 4088 4110,True,pa·y,4088,0.0,True
+pāy,500,Toda,To,4044 4087 4088 4110,True,pa·f,4087,0.3333333333333333,False
+pāy,500,Kodagu,Koḍ,4044 4087 4088 4110,True,pa·y-,4087,0.0,True
+pāy,500,Kolami,Kol,4044 4087 4088 4110,False,,,,False
+pāy,500,Naikri,Nk,4044 4087 4088 4110,True,pāk-,4044,0.3333333333333333,False
+pāy,500,Parji,Pa,4044 4087 4088 4110,False,,,,False
+pāy,500,Gadaba,Ga,4044 4087 4088 4110,False,,,,False
+pāy,500,Gondi,Go,4044 4087 4088 4110,True,pāy-,4044,0.0,True
+pāy,500,Konda,Konḍa,4044 4087 4088 4110,False,,,,False
+pāy,500,Pengo,Pe,4044 4087 4088 4110,True,pāg-,4044,0.3333333333333333,False
+pāy,500,Manda,Manḍ,4044 4087 4088 4110,True,pāg-,4044,0.3333333333333333,False
+pāy,500,Kui,Kui,4044 4087 4088 4110,True,pāga,4044,0.5,False
+pāy,500,Kuwi,Kuwi,4044 4087 4088 4110,True,pāy-,4044,0.0,True
+pāy,500,Kurukh,Kur,4044 4087 4088 4110,False,,,,False
+pāy,500,Malto,Malt,4044 4087 4088 4110,False,,,,False
+pāy,500,Brahui,Br,4044 4087 4088 4110,False,,,,False
+tai,390 392 405 406 408 409,Tamil,Ta,3473 3474,True,tai,3473,0.0,True
+tai,390 392 405 406 408 409,Malayalam,Ma,3473 3474,True,tai,3474,0.0,True
+tai,390 392 405 406 408 409,Kannada,Ka,3473 3474,True,sasi,3474,0.5,False
+tai,390 392 405 406 408 409,Telugu,Te,3473 3474,True,tēga,3474,0.75,False
+tai,390 392 405 406 408 409,Tulu,Tu,3473 3474,True,dai,3474,0.3333333333333333,False
+tai,390 392 405 406 408 409,Kota,Ko,3473 3474,False,,,,False
+tai,390 392 405 406 408 409,Toda,To,3473 3474,False,,,,False
+tai,390 392 405 406 408 409,Kodagu,Koḍ,3473 3474,False,,,,False
+tai,390 392 405 406 408 409,Kolami,Kol,3473 3474,False,,,,False
+tai,390 392 405 406 408 409,Naikri,Nk,3473 3474,False,,,,False
+tai,390 392 405 406 408 409,Parji,Pa,3473 3474,False,,,,False
+tai,390 392 405 406 408 409,Gadaba,Ga,3473 3474,False,,,,False
+tai,390 392 405 406 408 409,Gondi,Go,3473 3474,False,,,,False
+tai,390 392 405 406 408 409,Konda,Konḍa,3473 3474,False,,,,False
+tai,390 392 405 406 408 409,Pengo,Pe,3473 3474,False,,,,False
+tai,390 392 405 406 408 409,Manda,Manḍ,3473 3474,False,,,,False
+tai,390 392 405 406 408 409,Kui,Kui,3473 3474,False,,,,False
+tai,390 392 405 406 408 409,Kuwi,Kuwi,3473 3474,True,tacali,3473,0.5,False
+tai,390 392 405 406 408 409,Kurukh,Kur,3473 3474,False,,,,False
+tai,390 392 405 406 408 409,Malto,Malt,3473 3474,False,,,,False
+tai,390 392 405 406 408 409,Brahui,Br,3473 3474,False,,,,False
+talai,100 101 103,Tamil,Ta,3103,True,talai,3103,0.0,True
+talai,100 101 103,Malayalam,Ma,3103,True,tala,3103,0.2,False
+talai,100 101 103,Kannada,Ka,3103,True,tala,3103,0.2,False
+talai,100 101 103,Telugu,Te,3103,True,tala,3103,0.2,False
+talai,100 101 103,Tulu,Tu,3103,True,tarè,3103,0.6,False
+talai,100 101 103,Kota,Ko,3103,True,tal,3103,0.4,False
+talai,100 101 103,Toda,To,3103,True,tal,3103,0.4,False
+talai,100 101 103,Kodagu,Koḍ,3103,True,tale,3103,0.4,False
+talai,100 101 103,Kolami,Kol,3103,True,tal,3103,0.4,False
+talai,100 101 103,Naikri,Nk,3103,True,tal,3103,0.4,False
+talai,100 101 103,Parji,Pa,3103,True,tel,3103,0.6,False
+talai,100 101 103,Gadaba,Ga,3103,True,tal,3103,0.4,False
+talai,100 101 103,Gondi,Go,3103,True,talla,3103,0.4,False
+talai,100 101 103,Konda,Konḍa,3103,True,tala,3103,0.2,False
+talai,100 101 103,Pengo,Pe,3103,True,pūki,3103,0.8,False
+talai,100 101 103,Manda,Manḍ,3103,False,,,,False
+talai,100 101 103,Kui,Kui,3103,True,tlau,3103,0.4,False
+talai,100 101 103,Kuwi,Kuwi,3103,True,tala,3103,0.2,False
+talai,100 101 103,Kurukh,Kur,3103,False,,,,False
+talai,100 101 103,Malto,Malt,3103,True,tali,3103,0.2,False
+talai,100 101 103,Brahui,Br,3103,False,,,,False
+taṇṭu,104,Tamil,Ta,3031 3054 3055 3056 3057 3058,True,taṇṭu,3031,0.0,True
+taṇṭu,104,Malayalam,Ma,3031 3054 3055 3056 3057 3058,True,taṇṭu,3055,0.0,True
+taṇṭu,104,Kannada,Ka,3031 3054 3055 3056 3057 3058,True,daṇṭu,3056,0.2,False
+taṇṭu,104,Telugu,Te,3031 3054 3055 3056 3057 3058,True,taṇḍu,3054,0.2,False
+taṇṭu,104,Tulu,Tu,3031 3054 3055 3056 3057 3058,True,taṇḍů,3055,0.4,False
+taṇṭu,104,Kota,Ko,3031 3054 3055 3056 3057 3058,True,taṇḍ-,3054,0.4,False
+taṇṭu,104,Toda,To,3031 3054 3055 3056 3057 3058,True,taṛf-,3031,0.6,False
+taṇṭu,104,Kodagu,Koḍ,3031 3054 3055 3056 3057 3058,True,taḍu,3031,0.4,False
+taṇṭu,104,Kolami,Kol,3031 3054 3055 3056 3057 3058,True,denḍe,3056,1.0,False
+taṇṭu,104,Naikri,Nk,3031 3054 3055 3056 3057 3058,False,,,,False
+taṇṭu,104,Parji,Pa,3031 3054 3055 3056 3057 3058,False,,,,False
+taṇṭu,104,Gadaba,Ga,3031 3054 3055 3056 3057 3058,False,,,,False
+taṇṭu,104,Gondi,Go,3031 3054 3055 3056 3057 3058,True,taṭṭi,3031,0.4,False
+taṇṭu,104,Konda,Konḍa,3031 3054 3055 3056 3057 3058,False,,,,False
+taṇṭu,104,Pengo,Pe,3031 3054 3055 3056 3057 3058,False,,,,False
+taṇṭu,104,Manda,Manḍ,3031 3054 3055 3056 3057 3058,False,,,,False
+taṇṭu,104,Kui,Kui,3031 3054 3055 3056 3057 3058,True,ḍaṇḍi,3056,0.6,False
+taṇṭu,104,Kuwi,Kuwi,3031 3054 3055 3056 3057 3058,False,,,,False
+taṇṭu,104,Kurukh,Kur,3031 3054 3055 3056 3057 3058,True,ṭaṇḍnā,3031,0.6666666666666666,False
+taṇṭu,104,Malto,Malt,3031 3054 3055 3056 3057 3058,False,,,,False
+taṇṭu,104,Brahui,Br,3031 3054 3055 3056 3057 3058,True,taḍ,3031,0.6,False
+tiṅkaḷ,899 900 904 920 927,Tamil,Ta,3213,True,tiṅkaḷ,3213,0.0,True
+tiṅkaḷ,899 900 904 920 927,Malayalam,Ma,3213,True,tiṅkaḷ,3213,0.0,True
+tiṅkaḷ,899 900 904 920 927,Kannada,Ka,3213,True,tiṅgaḷ,3213,0.16666666666666666,False
+tiṅkaḷ,899 900 904 920 927,Telugu,Te,3213,False,,,,False
+tiṅkaḷ,899 900 904 920 927,Tulu,Tu,3213,True,tiṅgoḷu,3213,0.42857142857142855,False
+tiṅkaḷ,899 900 904 920 927,Kota,Ko,3213,True,tigḷ,3213,0.5,False
+tiṅkaḷ,899 900 904 920 927,Toda,To,3213,True,tïgïḷ,3213,0.6666666666666666,False
+tiṅkaḷ,899 900 904 920 927,Kodagu,Koḍ,3213,True,tiŋga,3213,0.5,False
+tiṅkaḷ,899 900 904 920 927,Kolami,Kol,3213,False,,,,False
+tiṅkaḷ,899 900 904 920 927,Naikri,Nk,3213,False,,,,False
+tiṅkaḷ,899 900 904 920 927,Parji,Pa,3213,False,,,,False
+tiṅkaḷ,899 900 904 920 927,Gadaba,Ga,3213,False,,,,False
+tiṅkaḷ,899 900 904 920 927,Gondi,Go,3213,False,,,,False
+tiṅkaḷ,899 900 904 920 927,Konda,Konḍa,3213,False,,,,False
+tiṅkaḷ,899 900 904 920 927,Pengo,Pe,3213,False,,,,False
+tiṅkaḷ,899 900 904 920 927,Manda,Manḍ,3213,False,,,,False
+tiṅkaḷ,899 900 904 920 927,Kui,Kui,3213,True,tingal,3213,0.5,False
+tiṅkaḷ,899 900 904 920 927,Kuwi,Kuwi,3213,False,,,,False
+tiṅkaḷ,899 900 904 920 927,Kurukh,Kur,3213,False,,,,False
+tiṅkaḷ,899 900 904 920 927,Malto,Malt,3213,False,,,,False
+tiṅkaḷ,899 900 904 920 927,Brahui,Br,3213,False,,,,False
+toṭu,193 195 797 798,Tamil,Ta,3480 3481 3482 3536 3545 3549,True,toṭu,3480,0.0,True
+toṭu,193 195 797 798,Malayalam,Ma,3480 3481 3482 3536 3545 3549,True,toṭṭu,3480,0.2,False
+toṭu,193 195 797 798,Kannada,Ka,3480 3481 3482 3536 3545 3549,True,toḍu,3481,0.25,False
+toṭu,193 195 797 798,Telugu,Te,3480 3481 3482 3536 3545 3549,True,toṭṭu,3480,0.2,False
+toṭu,193 195 797 798,Tulu,Tu,3480 3481 3482 3536 3545 3549,True,toṭṭuni,3480,0.42857142857142855,False
+toṭu,193 195 797 798,Kota,Ko,3480 3481 3482 3536 3545 3549,True,toṭ,3480,0.25,False
+toṭu,193 195 797 798,Toda,To,3480 3481 3482 3536 3545 3549,True,to·ṭ,3549,0.5,False
+toṭu,193 195 797 798,Kodagu,Koḍ,3480 3481 3482 3536 3545 3549,True,toḍ-,3480,0.5,False
+toṭu,193 195 797 798,Kolami,Kol,3480 3481 3482 3536 3545 3549,True,toḍ-,3482,0.5,False
+toṭu,193 195 797 798,Naikri,Nk,3480 3481 3482 3536 3545 3549,True,toṛ-,3482,0.5,False
+toṭu,193 195 797 798,Parji,Pa,3480 3481 3482 3536 3545 3549,True,ṭoḍu,3480,0.5,False
+toṭu,193 195 797 798,Gadaba,Ga,3480 3481 3482 3536 3545 3549,True,toru,3480,0.25,False
+toṭu,193 195 797 798,Gondi,Go,3480 3481 3482 3536 3545 3549,True,tohtānā,3536,0.7142857142857143,False
+toṭu,193 195 797 798,Konda,Konḍa,3480 3481 3482 3536 3545 3549,True,toR-,3482,0.5,False
+toṭu,193 195 797 798,Pengo,Pe,3480 3481 3482 3536 3545 3549,True,ṭoṭa,3549,0.5,False
+toṭu,193 195 797 798,Manda,Manḍ,3480 3481 3482 3536 3545 3549,True,tuy-,3482,0.75,False
+toṭu,193 195 797 798,Kui,Kui,3480 3481 3482 3536 3545 3549,True,tohpa,3536,0.6,False
+toṭu,193 195 797 798,Kuwi,Kuwi,3480 3481 3482 3536 3545 3549,True,tonta,3549,0.6,False
+toṭu,193 195 797 798,Kurukh,Kur,3480 3481 3482 3536 3545 3549,True,toṛsᵒgnā,3480,0.75,False
+toṭu,193 195 797 798,Malto,Malt,3480 3481 3482 3536 3545 3549,True,toṛge,3481,0.6,False
+toṭu,193 195 797 798,Brahui,Br,3480 3481 3482 3536 3545 3549,True,tōning,3480,0.8333333333333334,False
+toṭṭi,350,Tamil,Ta,3485 3486 3526,True,toṭṭi,3485,0.0,True
+toṭṭi,350,Malayalam,Ma,3485 3486 3526,True,toṭṭi,3485,0.0,True
+toṭṭi,350,Kannada,Ka,3485 3486 3526,True,toṭṭi,3485,0.0,True
+toṭṭi,350,Telugu,Te,3485 3486 3526,True,toṭla,3486,0.4,False
+toṭṭi,350,Tulu,Tu,3485 3486 3526,True,toṭṭilů,3486,0.2857142857142857,False
+toṭṭi,350,Kota,Ko,3485 3486 3526,True,to·y,3526,0.8,False
+toṭṭi,350,Toda,To,3485 3486 3526,True,twïḏy,3485,0.8,False
+toṭṭi,350,Kodagu,Koḍ,3485 3486 3526,True,toṭṭï,3486,0.2,False
+toṭṭi,350,Kolami,Kol,3485 3486 3526,False,,,,False
+toṭṭi,350,Naikri,Nk,3485 3486 3526,False,,,,False
+toṭṭi,350,Parji,Pa,3485 3486 3526,True,-tol,3526,0.6,False
+toṭṭi,350,Gadaba,Ga,3485 3486 3526,False,,,,False
+toṭṭi,350,Gondi,Go,3485 3486 3526,True,ḍoḍi,3485,0.6,False
+toṭṭi,350,Konda,Konḍa,3485 3486 3526,True,ḍoḍi,3485,0.6,False
+toṭṭi,350,Pengo,Pe,3485 3486 3526,False,,,,False
+toṭṭi,350,Manda,Manḍ,3485 3486 3526,False,,,,False
+toṭṭi,350,Kui,Kui,3485 3486 3526,False,,,,False
+toṭṭi,350,Kuwi,Kuwi,3485 3486 3526,True,ḍoḍi,3485,0.6,False
+toṭṭi,350,Kurukh,Kur,3485 3486 3526,False,,,,False
+toṭṭi,350,Malto,Malt,3485 3486 3526,False,,,,False
+toṭṭi,350,Brahui,Br,3485 3486 3526,False,,,,False
+tuṟai,416,Tamil,Ta,3370,True,tuṟai,3370,0.0,True
+tuṟai,416,Malayalam,Ma,3370,True,tuṟa,3370,0.2,False
+tuṟai,416,Kannada,Ka,3370,True,toṟe,3370,0.6,False
+tuṟai,416,Telugu,Te,3370,True,toṟe,3370,0.6,False
+tuṟai,416,Tulu,Tu,3370,True,tudè,3370,0.6,False
+tuṟai,416,Kota,Ko,3370,False,,,,False
+tuṟai,416,Toda,To,3370,False,,,,False
+tuṟai,416,Kodagu,Koḍ,3370,False,,,,False
+tuṟai,416,Kolami,Kol,3370,False,,,,False
+tuṟai,416,Naikri,Nk,3370,False,,,,False
+tuṟai,416,Parji,Pa,3370,False,,,,False
+tuṟai,416,Gadaba,Ga,3370,False,,,,False
+tuṟai,416,Gondi,Go,3370,False,,,,False
+tuṟai,416,Konda,Konḍa,3370,False,,,,False
+tuṟai,416,Pengo,Pe,3370,False,,,,False
+tuṟai,416,Manda,Manḍ,3370,False,,,,False
+tuṟai,416,Kui,Kui,3370,False,,,,False
+tuṟai,416,Kuwi,Kuwi,3370,False,,,,False
+tuṟai,416,Kurukh,Kur,3370,False,,,,False
+tuṟai,416,Malto,Malt,3370,False,,,,False
+tuṟai,416,Brahui,Br,3370,False,,,,False
+tōṭṭi,435 436,Tamil,Ta,3366 3546 3547 3565,True,tōṭṭi,3366,0.0,True
+tōṭṭi,435 436,Malayalam,Ma,3366 3546 3547 3565,True,tōṭṭi,3546,0.0,True
+tōṭṭi,435 436,Kannada,Ka,3366 3546 3547 3565,True,tōṭi,3546,0.2,False
+tōṭṭi,435 436,Telugu,Te,3366 3546 3547 3565,True,tōṭi,3546,0.2,False
+tōṭṭi,435 436,Tulu,Tu,3366 3546 3547 3565,True,tōṭi,3546,0.2,False
+tōṭṭi,435 436,Kota,Ko,3366 3546 3547 3565,False,,,,False
+tōṭṭi,435 436,Toda,To,3366 3546 3547 3565,False,,,,False
+tōṭṭi,435 436,Kodagu,Koḍ,3366 3546 3547 3565,True,to·ṭi,3546,0.2,False
+tōṭṭi,435 436,Kolami,Kol,3366 3546 3547 3565,False,,,,False
+tōṭṭi,435 436,Naikri,Nk,3366 3546 3547 3565,False,,,,False
+tōṭṭi,435 436,Parji,Pa,3366 3546 3547 3565,True,tōṭa,3546,0.4,False
+tōṭṭi,435 436,Gadaba,Ga,3366 3546 3547 3565,False,,,,False
+tōṭṭi,435 436,Gondi,Go,3366 3546 3547 3565,False,,,,False
+tōṭṭi,435 436,Konda,Konḍa,3366 3546 3547 3565,False,,,,False
+tōṭṭi,435 436,Pengo,Pe,3366 3546 3547 3565,False,,,,False
+tōṭṭi,435 436,Manda,Manḍ,3366 3546 3547 3565,False,,,,False
+tōṭṭi,435 436,Kui,Kui,3366 3546 3547 3565,False,,,,False
+tōṭṭi,435 436,Kuwi,Kuwi,3366 3546 3547 3565,False,,,,False
+tōṭṭi,435 436,Kurukh,Kur,3366 3546 3547 3565,True,tūṛsī,3547,0.8,False
+tōṭṭi,435 436,Malto,Malt,3366 3546 3547 3565,False,,,,False
+tōṭṭi,435 436,Brahui,Br,3366 3546 3547 3565,False,,,,False
+tūtai,480,Tamil,Ta,3385,True,tūtai,3385,0.0,True
+tūtai,480,Malayalam,Ma,3385,True,tūta,3385,0.2,False
+tūtai,480,Kannada,Ka,3385,False,,,,False
+tūtai,480,Telugu,Te,3385,True,dutta,3385,0.8,False
+tūtai,480,Tulu,Tu,3385,False,,,,False
+tūtai,480,Kota,Ko,3385,False,,,,False
+tūtai,480,Toda,To,3385,False,,,,False
+tūtai,480,Kodagu,Koḍ,3385,False,,,,False
+tūtai,480,Kolami,Kol,3385,True,duttā,3385,0.8,False
+tūtai,480,Naikri,Nk,3385,False,,,,False
+tūtai,480,Parji,Pa,3385,False,,,,False
+tūtai,480,Gadaba,Ga,3385,False,,,,False
+tūtai,480,Gondi,Go,3385,False,,,,False
+tūtai,480,Konda,Konḍa,3385,False,,,,False
+tūtai,480,Pengo,Pe,3385,False,,,,False
+tūtai,480,Manda,Manḍ,3385,False,,,,False
+tūtai,480,Kui,Kui,3385,False,,,,False
+tūtai,480,Kuwi,Kuwi,3385,False,,,,False
+tūtai,480,Kurukh,Kur,3385,False,,,,False
+tūtai,480,Malto,Malt,3385,False,,,,False
+tūtai,480,Brahui,Br,3385,False,,,,False
+tūṅku,171,Tamil,Ta,3291 3376,True,tūṅku,3291,0.0,True
+tūṅku,171,Malayalam,Ma,3291 3376,True,tūkku,3376,0.2,False
+tūṅku,171,Kannada,Ka,3291 3376,True,tūṅku,3376,0.0,True
+tūṅku,171,Telugu,Te,3291 3376,True,tū̃gu,3376,0.4,False
+tūṅku,171,Tulu,Tu,3291 3376,True,tūṅku,3376,0.0,True
+tūṅku,171,Kota,Ko,3291 3376,True,tu·k-,3376,0.4,False
+tūṅku,171,Toda,To,3291 3376,True,tu·k-,3376,0.4,False
+tūṅku,171,Kodagu,Koḍ,3291 3376,True,tu·k-,3376,0.4,False
+tūṅku,171,Kolami,Kol,3291 3376,False,,,,False
+tūṅku,171,Naikri,Nk,3291 3376,False,,,,False
+tūṅku,171,Parji,Pa,3291 3376,True,tuñ-,3291,0.8,False
+tūṅku,171,Gadaba,Ga,3291 3376,True,tuñ-,3291,0.8,False
+tūṅku,171,Gondi,Go,3291 3376,True,huskaṛ,3291,0.8333333333333334,False
+tūṅku,171,Konda,Konḍa,3291 3376,True,dūk-,3376,0.6,False
+tūṅku,171,Pengo,Pe,3291 3376,True,tūk-,3376,0.4,False
+tūṅku,171,Manda,Manḍ,3291 3376,True,trūk-,3376,0.6,False
+tūṅku,171,Kui,Kui,3291 3376,True,sūsaka,3291,0.6666666666666666,False
+tūṅku,171,Kuwi,Kuwi,3291 3376,True,hūnjali,3291,0.8571428571428571,False
+tūṅku,171,Kurukh,Kur,3291 3376,False,,,,False
+tūṅku,171,Malto,Malt,3291 3376,False,,,,False
+tūṅku,171,Brahui,Br,3291 3376,True,tūling,3291,0.6666666666666666,False
+uḷ,060 093 231 232 832,Tamil,Ta,1015 4491 697 698,True,uḷ,1015,0.0,True
+uḷ,060 093 231 232 832,Malayalam,Ma,1015 4491 697 698,True,uḷ,697,0.0,True
+uḷ,060 093 231 232 832,Kannada,Ka,1015 4491 697 698,True,uḷ,697,0.0,True
+uḷ,060 093 231 232 832,Telugu,Te,1015 4491 697 698,True,uṇḍu,697,0.75,False
+uḷ,060 093 231 232 832,Tulu,Tu,1015 4491 697 698,True,uḷḷ-,697,0.3333333333333333,False
+uḷ,060 093 231 232 832,Kota,Ko,1015 4491 697 698,True,uḷ,4491,0.0,True
+uḷ,060 093 231 232 832,Toda,To,1015 4491 697 698,True,uḷ,698,0.0,True
+uḷ,060 093 231 232 832,Kodagu,Koḍ,1015 4491 697 698,True,uḷḷ-,697,0.3333333333333333,False
+uḷ,060 093 231 232 832,Kolami,Kol,1015 4491 697 698,True,poṭṭ,4491,1.0,False
+uḷ,060 093 231 232 832,Naikri,Nk,1015 4491 697 698,True,lopun,698,0.8,False
+uḷ,060 093 231 232 832,Parji,Pa,1015 4491 697 698,True,ole,698,1.0,False
+uḷ,060 093 231 232 832,Gadaba,Ga,1015 4491 697 698,True,ule,698,0.6666666666666666,False
+uḷ,060 093 231 232 832,Gondi,Go,1015 4491 697 698,True,lōtur,698,0.8,False
+uḷ,060 093 231 232 832,Konda,Konḍa,1015 4491 697 698,True,poṭ,4491,1.0,False
+uḷ,060 093 231 232 832,Pengo,Pe,1015 4491 697 698,True,puṭa,4491,0.75,False
+uḷ,060 093 231 232 832,Manda,Manḍ,1015 4491 697 698,False,,,,False
+uḷ,060 093 231 232 832,Kui,Kui,1015 4491 697 698,True,bōṭi,4491,1.0,False
+uḷ,060 093 231 232 832,Kuwi,Kuwi,1015 4491 697 698,True,loy-,697,1.0,False
+uḷ,060 093 231 232 832,Kurukh,Kur,1015 4491 697 698,True,ulā,698,0.6666666666666666,False
+uḷ,060 093 231 232 832,Malto,Malt,1015 4491 697 698,True,ule,698,0.6666666666666666,False
+uḷ,060 093 231 232 832,Brahui,Br,1015 4491 697 698,True,urā,698,0.6666666666666666,False
+vari,595 845,Tamil,Ta,4639 5261 5263 5264 5265 5266 5287 5513,True,vari,4639,0.0,True
+vari,595 845,Malayalam,Ma,4639 5261 5263 5264 5265 5266 5287 5513,True,vari,5263,0.0,True
+vari,595 845,Kannada,Ka,4639 5261 5263 5264 5265 5266 5287 5513,True,vari,5261,0.0,True
+vari,595 845,Telugu,Te,4639 5261 5263 5264 5265 5266 5287 5513,True,vari,5265,0.0,True
+vari,595 845,Tulu,Tu,4639 5261 5263 5264 5265 5266 5287 5513,True,barè,5261,0.5,False
+vari,595 845,Kota,Ko,4639 5261 5263 5264 5265 5266 5287 5513,True,var,5261,0.25,False
+vari,595 845,Toda,To,4639 5261 5263 5264 5265 5266 5287 5513,True,par,5261,0.5,False
+vari,595 845,Kodagu,Koḍ,4639 5261 5263 5264 5265 5266 5287 5513,True,bari,5513,0.25,False
+vari,595 845,Kolami,Kol,4639 5261 5263 5264 5265 5266 5287 5513,True,val,5287,0.5,False
+vari,595 845,Naikri,Nk,4639 5261 5263 5264 5265 5266 5287 5513,True,vaṭṭi,5513,0.4,False
+vari,595 845,Parji,Pa,4639 5261 5263 5264 5265 5266 5287 5513,True,varc-,5263,0.25,False
+vari,595 845,Gadaba,Ga,4639 5261 5263 5264 5265 5266 5287 5513,True,vars,5265,0.25,False
+vari,595 845,Gondi,Go,4639 5261 5263 5264 5265 5266 5287 5513,True,varrai,5513,0.3333333333333333,False
+vari,595 845,Konda,Konḍa,4639 5261 5263 5264 5265 5266 5287 5513,True,vaRi,5513,0.0,True
+vari,595 845,Pengo,Pe,4639 5261 5263 5264 5265 5266 5287 5513,True,vari,5513,0.0,True
+vari,595 845,Manda,Manḍ,4639 5261 5263 5264 5265 5266 5287 5513,True,veru,5513,0.5,False
+vari,595 845,Kui,Kui,4639 5261 5263 5264 5265 5266 5287 5513,True,vari,5513,0.0,True
+vari,595 845,Kuwi,Kuwi,4639 5261 5263 5264 5265 5266 5287 5513,True,var'i,5513,0.0,True
+vari,595 845,Kurukh,Kur,4639 5261 5263 5264 5265 5266 5287 5513,True,barndī,5264,0.6666666666666666,False
+vari,595 845,Malto,Malt,4639 5261 5263 5264 5265 5266 5287 5513,False,,,,False
+vari,595 845,Brahui,Br,4639 5261 5263 5264 5265 5266 5287 5513,True,bīra,5513,0.75,False
+vaḷai,790 832,Tamil,Ta,5236 5301 5309 5313 5314,True,vaḷai,5236,0.0,True
+vaḷai,790 832,Malayalam,Ma,5236 5301 5309 5313 5314,True,vaḷar,5309,0.2,False
+vaḷai,790 832,Kannada,Ka,5236 5301 5309 5313 5314,True,badaṇi,5301,0.5,False
+vaḷai,790 832,Telugu,Te,5236 5301 5309 5313 5314,True,valayu,5313,0.5,False
+vaḷai,790 832,Tulu,Tu,5236 5301 5309 5313 5314,True,baḷara,5309,0.5,False
+vaḷai,790 832,Kota,Ko,5236 5301 5309 5313 5314,True,vaḷc-,5313,0.4,False
+vaḷai,790 832,Toda,To,5236 5301 5309 5313 5314,True,paḷf-,5313,0.6,False
+vaḷai,790 832,Kodagu,Koḍ,5236 5301 5309 5313 5314,True,baḷe,5313,0.6,False
+vaḷai,790 832,Kolami,Kol,5236 5301 5309 5313 5314,True,vaŋge,5301,0.6,False
+vaḷai,790 832,Naikri,Nk,5236 5301 5309 5313 5314,True,vaŋge,5301,0.6,False
+vaḷai,790 832,Parji,Pa,5236 5301 5309 5313 5314,False,,,,False
+vaḷai,790 832,Gadaba,Ga,5236 5301 5309 5313 5314,False,,,,False
+vaḷai,790 832,Gondi,Go,5236 5301 5309 5313 5314,False,,,,False
+vaḷai,790 832,Konda,Konḍa,5236 5301 5309 5313 5314,False,,,,False
+vaḷai,790 832,Pengo,Pe,5236 5301 5309 5313 5314,True,vāŋga,5301,0.8,False
+vaḷai,790 832,Manda,Manḍ,5236 5301 5309 5313 5314,False,,,,False
+vaḷai,790 832,Kui,Kui,5236 5301 5309 5313 5314,False,,,,False
+vaḷai,790 832,Kuwi,Kuwi,5236 5301 5309 5313 5314,False,,,,False
+vaḷai,790 832,Kurukh,Kur,5236 5301 5309 5313 5314,False,,,,False
+vaḷai,790 832,Malto,Malt,5236 5301 5309 5313 5314,True,baṭaṉgo,5301,0.7142857142857143,False
+vaḷai,790 832,Brahui,Br,5236 5301 5309 5313 5314,False,,,,False
+vaḷḷam,711,Tamil,Ta,5315,True,vaḷḷam,5315,0.0,True
+vaḷḷam,711,Malayalam,Ma,5315,True,vaḷḷam,5315,0.0,True
+vaḷḷam,711,Kannada,Ka,5315,True,baḷḷa,5315,0.3333333333333333,False
+vaḷḷam,711,Telugu,Te,5315,True,baḷḷa,5315,0.3333333333333333,False
+vaḷḷam,711,Tulu,Tu,5315,True,baḷḷa,5315,0.3333333333333333,False
+vaḷḷam,711,Kota,Ko,5315,True,vaḷm,5315,0.3333333333333333,False
+vaḷḷam,711,Toda,To,5315,True,poḷm,5315,0.6666666666666666,False
+vaḷḷam,711,Kodagu,Koḍ,5315,False,,,,False
+vaḷḷam,711,Kolami,Kol,5315,False,,,,False
+vaḷḷam,711,Naikri,Nk,5315,False,,,,False
+vaḷḷam,711,Parji,Pa,5315,False,,,,False
+vaḷḷam,711,Gadaba,Ga,5315,False,,,,False
+vaḷḷam,711,Gondi,Go,5315,False,,,,False
+vaḷḷam,711,Konda,Konḍa,5315,False,,,,False
+vaḷḷam,711,Pengo,Pe,5315,False,,,,False
+vaḷḷam,711,Manda,Manḍ,5315,False,,,,False
+vaḷḷam,711,Kui,Kui,5315,False,,,,False
+vaḷḷam,711,Kuwi,Kuwi,5315,False,,,,False
+vaḷḷam,711,Kurukh,Kur,5315,False,,,,False
+vaḷḷam,711,Malto,Malt,5315,False,,,,False
+vaḷḷam,711,Brahui,Br,5315,False,,,,False
+veṭi,233 234,Tamil,Ta,5473 5475,True,veṭi,5473,0.0,True
+veṭi,233 234,Malayalam,Ma,5473 5475,True,veṭi,5473,0.0,True
+veṭi,233 234,Kannada,Ka,5473 5475,True,bīṭe,5473,0.75,False
+veṭi,233 234,Telugu,Te,5473 5475,True,viḍi,5475,0.5,False
+veṭi,233 234,Tulu,Tu,5473 5475,True,beḍi,5473,0.5,False
+veṭi,233 234,Kota,Ko,5473 5475,True,veyṛ,5473,0.5,False
+veṭi,233 234,Toda,To,5473 5475,True,koš,5475,1.0,False
+veṭi,233 234,Kodagu,Koḍ,5473 5475,True,boḍi,5473,0.75,False
+veṭi,233 234,Kolami,Kol,5473 5475,False,,,,False
+veṭi,233 234,Naikri,Nk,5473 5475,False,,,,False
+veṭi,233 234,Parji,Pa,5473 5475,False,,,,False
+veṭi,233 234,Gadaba,Ga,5473 5475,False,,,,False
+veṭi,233 234,Gondi,Go,5473 5475,False,,,,False
+veṭi,233 234,Konda,Konḍa,5473 5475,False,,,,False
+veṭi,233 234,Pengo,Pe,5473 5475,False,,,,False
+veṭi,233 234,Manda,Manḍ,5473 5475,True,veṭpa-,5473,0.4,False
+veṭi,233 234,Kui,Kui,5473 5475,False,,,,False
+veṭi,233 234,Kuwi,Kuwi,5473 5475,False,,,,False
+veṭi,233 234,Kurukh,Kur,5473 5475,False,,,,False
+veṭi,233 234,Malto,Malt,5473 5475,True,biḍye,5475,1.0,False
+veṭi,233 234,Brahui,Br,5473 5475,False,,,,False
+vil,125 892,Tamil,Ta,5421 5422 5496,True,vil,5421,0.0,True
+vil,125 892,Malayalam,Ma,5421 5422 5496,True,vil,5422,0.0,True
+vil,125 892,Kannada,Ka,5421 5422 5496,True,bil,5421,0.3333333333333333,False
+vil,125 892,Telugu,Te,5421 5422 5496,True,vilu,5422,0.25,False
+vil,125 892,Tulu,Tu,5421 5422 5496,True,bilè,5421,0.5,False
+vil,125 892,Kota,Ko,5421 5422 5496,True,vel,5421,0.3333333333333333,False
+vil,125 892,Toda,To,5421 5422 5496,True,pïl,5421,0.6666666666666666,False
+vil,125 892,Kodagu,Koḍ,5421 5422 5496,True,billï,5422,0.6,False
+vil,125 892,Kolami,Kol,5421 5422 5496,True,vil,5422,0.0,True
+vil,125 892,Naikri,Nk,5421 5422 5496,False,,,,False
+vil,125 892,Parji,Pa,5421 5422 5496,True,vil,5422,0.0,True
+vil,125 892,Gadaba,Ga,5421 5422 5496,True,viled,5496,0.4,False
+vil,125 892,Gondi,Go,5421 5422 5496,True,vīl,5422,0.3333333333333333,False
+vil,125 892,Konda,Konḍa,5421 5422 5496,True,vil,5422,0.0,True
+vil,125 892,Pengo,Pe,5421 5422 5496,True,vil,5422,0.0,True
+vil,125 892,Manda,Manḍ,5421 5422 5496,True,vil,5422,0.0,True
+vil,125 892,Kui,Kui,5421 5422 5496,True,vilu,5422,0.25,False
+vil,125 892,Kuwi,Kuwi,5421 5422 5496,True,vellū,5422,0.6,False
+vil,125 892,Kurukh,Kur,5421 5422 5496,True,billī,5496,0.6,False
+vil,125 892,Malto,Malt,5421 5422 5496,True,bilpu,5496,0.6,False
+vil,125 892,Brahui,Br,5421 5422 5496,True,bil,5422,0.3333333333333333,False
+vēl,520,Tamil,Ta,5368 5528 5536 5537,True,vēl,5536,0.0,True
+vēl,520,Malayalam,Ma,5368 5528 5536 5537,True,vēl,5536,0.0,True
+vēl,520,Kannada,Ka,5368 5528 5536 5537,True,bēr̤,5528,0.6666666666666666,False
+vēl,520,Telugu,Te,5368 5528 5536 5537,True,vālu,5368,0.5,False
+vēl,520,Tulu,Tu,5368 5528 5536 5537,True,bēḍuni,5528,0.8333333333333334,False
+vēl,520,Kota,Ko,5368 5528 5536 5537,True,ve·ṛ-,5528,0.3333333333333333,False
+vēl,520,Toda,To,5368 5528 5536 5537,True,pe·k-,5528,0.6666666666666666,False
+vēl,520,Kodagu,Koḍ,5368 5528 5536 5537,True,bo·ḍ-,5528,1.0,False
+vēl,520,Kolami,Kol,5368 5528 5536 5537,True,ve·l-,5528,0.0,True
+vēl,520,Naikri,Nk,5368 5528 5536 5537,True,vēl-,5528,0.0,True
+vēl,520,Parji,Pa,5368 5528 5536 5537,True,vēl-,5368,0.0,True
+vēl,520,Gadaba,Ga,5368 5528 5536 5537,True,vāl-,5368,0.3333333333333333,False
+vēl,520,Gondi,Go,5368 5528 5536 5537,True,veṛkā,5528,0.8,False
+vēl,520,Konda,Konḍa,5368 5528 5536 5537,True,vēṛika,5528,0.6666666666666666,False
+vēl,520,Pengo,Pe,5368 5528 5536 5537,False,,,,False
+vēl,520,Manda,Manḍ,5368 5528 5536 5537,False,,,,False
+vēl,520,Kui,Kui,5368 5528 5536 5537,False,,,,False
+vēl,520,Kuwi,Kuwi,5368 5528 5536 5537,False,,,,False
+vēl,520,Kurukh,Kur,5368 5528 5536 5537,False,,,,False
+vēl,520,Malto,Malt,5368 5528 5536 5537,False,,,,False
+vēl,520,Brahui,Br,5368 5528 5536 5537,False,,,,False
+vēḷ,520,Tamil,Ta,4444 5507 5528 5544 5545,True,vēḷ,5507,0.0,True
+vēḷ,520,Malayalam,Ma,4444 5507 5528 5544 5545,True,vēḷ,5528,0.0,True
+vēḷ,520,Kannada,Ka,4444 5507 5528 5544 5545,True,bēḷ,5544,0.3333333333333333,False
+vēḷ,520,Telugu,Te,4444 5507 5528 5544 5545,True,vēḷpu,5544,0.4,False
+vēḷ,520,Tulu,Tu,4444 5507 5528 5544 5545,True,bēḷè,4444,0.5,False
+vēḷ,520,Kota,Ko,4444 5507 5528 5544 5545,True,ve·ḷ,4444,0.0,True
+vēḷ,520,Toda,To,4444 5507 5528 5544 5545,True,pa·ḷ,4444,0.6666666666666666,False
+vēḷ,520,Kodagu,Koḍ,4444 5507 5528 5544 5545,True,be·ḷe,4444,0.5,False
+vēḷ,520,Kolami,Kol,4444 5507 5528 5544 5545,True,ve·l-,5528,0.3333333333333333,False
+vēḷ,520,Naikri,Nk,4444 5507 5528 5544 5545,True,vēl-,5528,0.3333333333333333,False
+vēḷ,520,Parji,Pa,4444 5507 5528 5544 5545,True,veṛka,5528,0.8,False
+vēḷ,520,Gadaba,Ga,4444 5507 5528 5544 5545,False,,,,False
+vēḷ,520,Gondi,Go,4444 5507 5528 5544 5545,True,veṛkā,5528,0.8,False
+vēḷ,520,Konda,Konḍa,4444 5507 5528 5544 5545,True,vēṛika,5528,0.6666666666666666,False
+vēḷ,520,Pengo,Pe,4444 5507 5528 5544 5545,False,,,,False
+vēḷ,520,Manda,Manḍ,4444 5507 5528 5544 5545,False,,,,False
+vēḷ,520,Kui,Kui,4444 5507 5528 5544 5545,False,,,,False
+vēḷ,520,Kuwi,Kuwi,4444 5507 5528 5544 5545,False,,,,False
+vēḷ,520,Kurukh,Kur,4444 5507 5528 5544 5545,True,bēlas,5545,0.8,False
+vēḷ,520,Malto,Malt,4444 5507 5528 5544 5545,False,,,,False
+vēḷ,520,Brahui,Br,4444 5507 5528 5544 5545,False,,,,False
+āḷ,090 091 093 097 125 219,Tamil,Ta,356 399 4110 5157,True,āḷ,356,0.0,True
+āḷ,090 091 093 097 125 219,Malayalam,Ma,356 399 4110 5157,True,āḷ,399,0.0,True
+āḷ,090 091 093 097 125 219,Kannada,Ka,356 399 4110 5157,True,āḷ,5157,0.0,True
+āḷ,090 091 093 097 125 219,Telugu,Te,356 399 4110 5157,True,ēḷu,5157,0.6666666666666666,False
+āḷ,090 091 093 097 125 219,Tulu,Tu,356 399 4110 5157,True,āḷuni,5157,0.6,False
+āḷ,090 091 093 097 125 219,Kota,Ko,356 399 4110 5157,True,a·ḷ,399,0.0,True
+āḷ,090 091 093 097 125 219,Toda,To,356 399 4110 5157,True,o·ḷ,399,0.5,False
+āḷ,090 091 093 097 125 219,Kodagu,Koḍ,356 399 4110 5157,True,a·ḷ-,5157,0.0,True
+āḷ,090 091 093 097 125 219,Kolami,Kol,356 399 4110 5157,False,,,,False
+āḷ,090 091 093 097 125 219,Naikri,Nk,356 399 4110 5157,False,,,,False
+āḷ,090 091 093 097 125 219,Parji,Pa,356 399 4110 5157,False,,,,False
+āḷ,090 091 093 097 125 219,Gadaba,Ga,356 399 4110 5157,False,,,,False
+āḷ,090 091 093 097 125 219,Gondi,Go,356 399 4110 5157,False,,,,False
+āḷ,090 091 093 097 125 219,Konda,Konḍa,356 399 4110 5157,False,,,,False
+āḷ,090 091 093 097 125 219,Pengo,Pe,356 399 4110 5157,False,,,,False
+āḷ,090 091 093 097 125 219,Manda,Manḍ,356 399 4110 5157,False,,,,False
+āḷ,090 091 093 097 125 219,Kui,Kui,356 399 4110 5157,False,,,,False
+āḷ,090 091 093 097 125 219,Kuwi,Kuwi,356 399 4110 5157,False,,,,False
+āḷ,090 091 093 097 125 219,Kurukh,Kur,356 399 4110 5157,False,,,,False
+āḷ,090 091 093 097 125 219,Malto,Malt,356 399 4110 5157,False,,,,False
+āḷ,090 091 093 097 125 219,Brahui,Br,356 399 4110 5157,False,,,,False
+ēḻ,007 017,Tamil,Ta,,False,,,,False
+ēḻ,007 017,Malayalam,Ma,,False,,,,False
+ēḻ,007 017,Kannada,Ka,,False,,,,False
+ēḻ,007 017,Telugu,Te,,False,,,,False
+ēḻ,007 017,Tulu,Tu,,False,,,,False
+ēḻ,007 017,Kota,Ko,,False,,,,False
+ēḻ,007 017,Toda,To,,False,,,,False
+ēḻ,007 017,Kodagu,Koḍ,,False,,,,False
+ēḻ,007 017,Kolami,Kol,,False,,,,False
+ēḻ,007 017,Naikri,Nk,,False,,,,False
+ēḻ,007 017,Parji,Pa,,False,,,,False
+ēḻ,007 017,Gadaba,Ga,,False,,,,False
+ēḻ,007 017,Gondi,Go,,False,,,,False
+ēḻ,007 017,Konda,Konḍa,,False,,,,False
+ēḻ,007 017,Pengo,Pe,,False,,,,False
+ēḻ,007 017,Manda,Manḍ,,False,,,,False
+ēḻ,007 017,Kui,Kui,,False,,,,False
+ēḻ,007 017,Kuwi,Kuwi,,False,,,,False
+ēḻ,007 017,Kurukh,Kur,,False,,,,False
+ēḻ,007 017,Malto,Malt,,False,,,,False
+ēḻ,007 017,Brahui,Br,,False,,,,False
