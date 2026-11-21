@@ -51,10 +51,10 @@
       "source_records": 11268,
       "distinct_headword_strings": 9455,
       "dedr_families": 3062,
-      "target_meanings": 43,
-      "two_sided_meanings": 25,
+      "target_meanings": 42,
+      "two_sided_meanings": 24,
       "strict_complete": 7,
-      "one_edit_complete": 17
+      "one_edit_complete": 16
     },
     {
       "language": "Telugu",

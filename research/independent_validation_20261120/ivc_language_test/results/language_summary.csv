@@ -1,7 +1,7 @@
 language,source_records,distinct_headword_strings,dedr_families,target_meanings,two_sided_meanings,strict_complete,one_edit_complete
 Tamil,12196,9611,3516,64,44,24,40
 Malayalam,8210,7164,2749,50,30,8,17
-Kannada,11268,9455,3062,43,25,7,17
+Kannada,11268,9455,3062,42,24,7,16
 Telugu,8305,7309,2726,37,18,1,8
 Tulu,8385,7156,2336,34,14,3,6
 Kota,2657,2206,1287,30,13,3,8

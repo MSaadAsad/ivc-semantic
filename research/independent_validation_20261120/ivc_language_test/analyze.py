@@ -107,6 +107,11 @@ def load(cache,malto):
             eid=r[1][1:] if re.fullmatch(r'd\d+',r[1]) else ''
             notes=' | '.join(v for v in [r[6],r[8],r[9],r[14]] if v)
             flag='loan' if 'loanword' in r[14] else 'questioned' if '?' in r[8] else 'unmarked'
+            # DEDR can place an explicit donor classification in its gloss,
+            # rather than in the structured metadata. A mention of a related
+            # borrowed word is not enough; this phrase labels the headword itself.
+            if 'one of the tatsamas' in r[3].lower():
+                flag='loan';notes+=' | DEDR explicitly labels this headword a tatsama (Sanskrit loan).'
             out.append(dict(language=l,entry=eid,headword=nfc(r[2]),gloss=nfc(r[3]),citation=r[7],source=p.name,row=i+1,notes=notes,flag=flag,linked=bool(eid)))
     # Two independently checked errors in the structured transcription. The
     # original DEDR text has separate Br. urā and ust, and bil id. (= bow).
@@ -146,6 +151,7 @@ def main():
         vocab[r['language']].append(r)
         if r['entry']:index[r['language'],r['entry']].append(r)
     writecsv(results/'candidate_headword_links.csv',({k:v for k,v in r.items() if k!='linked'} for r in links))
+    writecsv(results/'explicit_loan_records.csv',({k:v for k,v in r.items() if k!='linked'} for r in rows if r['flag']=='loan'))
     matrix=[];witness=[];family_witness=[];details=[];alternatives=[];vocab_pairs=[]
     for c in claims:
         for l in LANGS:

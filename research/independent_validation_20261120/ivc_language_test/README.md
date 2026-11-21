@@ -2,6 +2,8 @@
 
 20 November 2026. Continuation of the existing 163-sign proposal at upstream commit `727dfd411a4faa44d193d204757540d45c7b139b`.
 
+**Follow-up:** [chronology, subgrouping and what is genuinely new](chronology_and_branching.md). This check caught Kannada *māle* “garland,” explicitly labelled a Sanskrit tatsama, being counted as inherited; the current matrix and chart exclude it. The northern result and Venn region counts are unchanged.
+
 **The larger comparison identifies specific northern retentions, but no overall northern concentration in the proposal's fixed word families.** The clearest geographically restricted example is the horn family: Tamil **maruppu**, Kurukh **marᵃg**, Malto **margu**, Brahui **marg̠ẖ**. Among the 22 varieties examined, DEDR 4720 documents this family in those four. This is a useful Tamil–northern distribution to follow, not a northern-exclusive innovation. The earlier small-panel report already noted the horn lead; this pass checks its distribution in the larger material.
 
 For the actual proposed meaning pairs, Malto preserves both families/senses for **fish → star**, with different recorded forms, and the **sprout ↔ infant** family, with related derived forms. Brahui and Kurukh have several individual components but no two-sided match to the fixed pairs under the stated sense rules. The result does **not** identify the Indus language as Northern Dravidian, or identify a modern language as its closest descendant.
@@ -69,7 +71,7 @@ Similarly, Malto **musge** “pack up/tie into a bundle,” DEDR 4915, preserves
 |---|---:|---:|---:|---:|---:|
 | Tamil | 12,196 | 64 | 44 | 24 | 40 |
 | Malayalam | 8,210 | 50 | 30 | 8 | 17 |
-| Kannada | 11,268 | 43 | 25 | 7 | 17 |
+| Kannada | 11,268 | 42 | 24 | 7 | 16 |
 | Telugu | 8,305 | 37 | 18 | 1 | 8 |
 | Kurukh | 5,305 | 13 | 0 | 0 | 0 |
 | Malto | 3,637 | 7 | 2 | 0 | 0 |
@@ -85,7 +87,7 @@ The current key was constructed using Tamil-first lexical selection. Tamil's lea
 
 Across the **107 distinct fixed etyma**, root-family presence is Brahui **16**, Kurukh **27**, Malto **20**. At least one northern language appears in **40**, and all three in **8**. These include families retaining different meanings.
 
-We sampled 4,999 rival root inventories from 5,544 numeric DEDR groups, preserving **exact documentation breadth across the 22 varieties and Tamil presence**, jointly, for every stratum. Expected counts were about **15.0**, **26.8**, **24.8**, **38.7**, and **7.2**, respectively. None of the six northern enrichment endpoints is significant; all six Holm-adjusted p-values are **1.0**. Complete results, including the Kurukh–Malto joint endpoint, are in [northern_controls.json](results/northern_controls.json).
+We sampled 4,999 rival root inventories from 5,544 numeric DEDR groups, preserving **exact documentation breadth across the 22 varieties and Tamil presence**, jointly, for every stratum. Expected counts were about **15.1**, **26.7**, **24.7**, **38.6**, and **7.2**, respectively. None of the six northern enrichment endpoints is significant; all six Holm-adjusted p-values are **1.0**. Complete results, including the Kurukh–Malto joint endpoint, are in [northern_controls.json](results/northern_controls.json).
 
 This improves on raw overlap counts by controlling two large dictionary effects. It still tests **documented cognate distribution**, not independently assigned Indus meanings or language ancestry. It cannot remove the original selection of concept pairs or all source biases.
 

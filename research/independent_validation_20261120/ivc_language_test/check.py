@@ -29,6 +29,7 @@ def main():
     assert ix['S171','Brahui']['family_a']=='True' and ix['S171','Brahui']['meaning_b']=='False'
     assert ix['S892','Brahui']['meaning_a']=='True' and ix['S892','Brahui']['meaning_b']=='False'
     assert ix['S400','Tamil']['target_meaning']=='False'
+    assert ix['S503','Kannada']['target_meaning']=='False' # explicitly a tatsama
     assert ix['S060','Brahui']['target_without_questioned']=='False'
     scope=list(csv.DictReader((BASE/'results/key_scope.csv').open()))
     assert len(scope)==163 and sum(bool(r['claim']) for r in scope)==67

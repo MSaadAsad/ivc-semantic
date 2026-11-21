@@ -89,8 +89,8 @@ S154,carrying pole → guard,strict_complete,1,Tamil,Malayalam; Kannada; Telugu;
 S142,staff → smith,target_meaning,1,Tamil,Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
 S142,staff → smith,both_meanings,1,Tamil,Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
 S142,staff → smith,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
-S503,mountain → garland,target_meaning,6,Tamil; Malayalam; Kannada; Telugu; Tulu; Kodagu,Kota; Toda; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
-S503,mountain → garland,both_meanings,6,Tamil; Malayalam; Kannada; Telugu; Tulu; Kodagu,Kota; Toda; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S503,mountain → garland,target_meaning,5,Tamil; Malayalam; Telugu; Tulu; Kodagu,Kannada; Kota; Toda; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
+S503,mountain → garland,both_meanings,5,Tamil; Malayalam; Telugu; Tulu; Kodagu,Kannada; Kota; Toda; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
 S503,mountain → garland,strict_complete,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
 S440,corner → vessel,target_meaning,2,Kannada; Telugu,Tamil; Malayalam; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui
 S440,corner → vessel,both_meanings,0,,Tamil; Malayalam; Kannada; Telugu; Tulu; Kota; Toda; Kodagu; Kolami; Naikri; Naiki; Parji; Gadaba; Gondi; Konda; Pengo; Manda; Kui; Kuwi; Kurukh; Malto; Brahui

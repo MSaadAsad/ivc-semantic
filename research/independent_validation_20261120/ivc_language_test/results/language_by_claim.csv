@@ -661,7 +661,7 @@ S142,142,staff → smith,bridge,Malto,False,False,False,False,False,False,False,
 S142,142,staff → smith,bridge,Brahui,False,False,False,False,False,False,False,False,False,False
 S503,503,mountain → garland,bridge,Tamil,True,True,True,True,True,True,True,False,True,False
 S503,503,mountain → garland,bridge,Malayalam,True,True,True,True,True,True,True,False,True,False
-S503,503,mountain → garland,bridge,Kannada,True,True,True,True,True,True,True,False,True,False
+S503,503,mountain → garland,bridge,Kannada,True,False,True,False,False,False,False,False,False,False
 S503,503,mountain → garland,bridge,Telugu,True,True,True,True,True,True,True,False,True,False
 S503,503,mountain → garland,bridge,Tulu,True,True,True,True,True,True,True,False,True,False
 S503,503,mountain → garland,bridge,Kota,True,False,True,False,False,False,False,False,False,False
