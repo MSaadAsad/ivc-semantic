@@ -1,0 +1,14 @@
+concept,meaning,dedr,root,cognate_classes,annotation_witnesses,manual_anchor,scorable
+26_eye,eye,1159,kaṇ,eye-A,19,False,True
+30_fish,fish,4885,mīṉ,fish-A,13,False,True
+32_foot,foot,1479,kāl,foot-C,6,False,True
+39_head,head,3103,talai,head-A,11,False,True
+42_horn,horn,4720,maruppu,horn-C,3,False,True
+51_man,man,399,āḷ,man-A,4,False,True
+54_moon,moon,3213,tiṅkaḷ,,0,False,False
+55_mountain,mountain,4742,malai,mountain-D,1,False,True
+63_one,one,990,oru,one-A,14,False,True
+80_star,star,4876,mīṉ,star-A,2,False,True
+91_two,two,474,iru,two-A,13,False,True
+74_sit,sit,480,iru,,0,False,False
+72_see,see,1443,kāṇ,see-A,0,True,True

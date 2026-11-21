@@ -1,0 +1,52 @@
+{
+  "repository": "https://github.com/lexibank/dravlex",
+  "commit": "37578075e5ccb09c43022f7f1282125e748de84d",
+  "license": "CC-BY-4.0",
+  "files": [
+    {
+      "path": "cldf/forms.csv",
+      "sha256": "c1b2c7f02cdddd6cfab67373d7eb50b6e27ddb592070b83de3a128899d055fde",
+      "bytes": 240057
+    },
+    {
+      "path": "cldf/parameters.csv",
+      "sha256": "a8749d271220e54619c735d541d77b46ce12d756e3d7067d222f3de8abb98573",
+      "bytes": 2426
+    },
+    {
+      "path": "cldf/cognates.csv",
+      "sha256": "1eb8b6ddc6d07106c509ba38e601a2e18a65a1779336e8b6d47fb0996aff4c48",
+      "bytes": 244798
+    },
+    {
+      "path": "cldf/languages.csv",
+      "sha256": "027c4f1add4bd8c041b97ef492ec529dd2697b2bb5a21f8f23d03c2455c7210d",
+      "bytes": 1672
+    },
+    {
+      "path": "cldf/sources.bib",
+      "sha256": "6b42dbfb9c437d240f518ead736a31b84349a21a357de3164cfd130c945f1edf",
+      "bytes": 1301
+    },
+    {
+      "path": "cldf/cldf-metadata.json",
+      "sha256": "efb124cabded73d010ba8f409f6c891083789613985bb8f28fabce8627979da3",
+      "bytes": 13424
+    },
+    {
+      "path": "README.md",
+      "sha256": "f2cac6362a4def0c8bf7c0f940c76c880d8848cf364b3eabf840828c236c81b4",
+      "bytes": 2662
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "945fbcb37deca05bccd7c3ca0e261679f1f5373515504fdbad68f6f3cf6f49b9",
+      "bytes": 18652
+    },
+    {
+      "path": "TRANSCRIPTION.md",
+      "sha256": "3c51e983e3f655c7236383c0b63ced610c98f3ae9a0fee8c2fc946591e979d31",
+      "bytes": 2283
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "research/independent_validation_20261120/language_overlap/panel.json": "98abe2921ceff457f3f6d2cc2a83657fc9df16ef606d36d7fbaa81a6c539ceb2",
+  "research/independent_validation_20261120/language_affinity/design.json": "803887ee7d92d3fe7c1c63e40aa88a46954c4999d6e97c75c355a1fa8793feb9",
+  "work_data/lexicons/dedr/dedr_entries.tsv": "7084dcfd5ae1aef019325f6edf662e3c99c0669ff757980a55238b0a75652d51",
+  "work_data/key6a/master_lexicon_after_key6a.csv": "0dcf56b8f2d177d5a33ad38d76b3acab2d1f37d2e48b58ac7daccaddc4ca53bd",
+  "research/independent_validation_20261120/language_overlap/external/dravlex/cldf/forms.csv": "c1b2c7f02cdddd6cfab67373d7eb50b6e27ddb592070b83de3a128899d055fde",
+  "research/independent_validation_20261120/language_overlap/external/dravlex/cldf/parameters.csv": "a8749d271220e54619c735d541d77b46ce12d756e3d7067d222f3de8abb98573",
+  "research/independent_validation_20261120/language_overlap/external/dravlex/cldf/cognates.csv": "1eb8b6ddc6d07106c509ba38e601a2e18a65a1779336e8b6d47fb0996aff4c48",
+  "research/independent_validation_20261120/language_overlap/external/dravlex/cldf/languages.csv": "027c4f1add4bd8c041b97ef492ec529dd2697b2bb5a21f8f23d03c2455c7210d",
+  "research/independent_validation_20261120/language_overlap/external/dravlex/cldf/sources.bib": "6b42dbfb9c437d240f518ead736a31b84349a21a357de3164cfd130c945f1edf",
+  "research/independent_validation_20261120/language_overlap/external/dravlex/cldf/cldf-metadata.json": "efb124cabded73d010ba8f409f6c891083789613985bb8f28fabce8627979da3",
+  "research/independent_validation_20261120/language_overlap/external/dravlex/README.md": "f2cac6362a4def0c8bf7c0f940c76c880d8848cf364b3eabf840828c236c81b4",
+  "research/independent_validation_20261120/language_overlap/external/dravlex/LICENSE": "945fbcb37deca05bccd7c3ca0e261679f1f5373515504fdbad68f6f3cf6f49b9",
+  "research/independent_validation_20261120/language_overlap/external/dravlex/TRANSCRIPTION.md": "3c51e983e3f655c7236383c0b63ced610c98f3ae9a0fee8c2fc946591e979d31",
+  "research/independent_validation_20261120/language_overlap/external/dravlex/provenance.json": "a3f61a5d08a4198c996df8f92e0d4fe19cba109e0f2b9cd82fe864454756d9c7"
+}

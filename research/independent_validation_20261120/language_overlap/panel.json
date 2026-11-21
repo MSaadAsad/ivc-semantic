@@ -1,0 +1,19 @@
+{
+  "scope": "Retrospective, meaning-matched basic concepts explicitly represented by the proposed key's literal visual or target meanings. This is not an independent semantic assignment or a preregistration.",
+  "inclusion_rule": "Use distinct ordinary basic meanings in DravLex whose proposed root and sense can be linked to a specific DEDR entry in the existing key. Freeze entries, rather than accepting every homonym of a key spelling. Do not add young plant as generic tree, hump as generic back, or bend as generic nose. General small/cikka is unresolved and omitted. Moon and sit remain listed even if the elicited data do not provide an identifiable target cognate class.",
+  "concepts": [
+    {"concept":"26_eye", "root":"kaṇ", "dedr":"1159", "signs":"850 861", "reason":"Existing eye reading and eye/sight-to-weight proposal."},
+    {"concept":"30_fish", "root":"mīṉ", "dedr":"4885", "signs":"220", "reason":"Fish side of fish/star proposal."},
+    {"concept":"32_foot", "root":"kāl", "dedr":"1479", "signs":"061 820", "reason":"Existing leg/foot-to-quarter proposal."},
+    {"concept":"39_head", "root":"talai", "dedr":"3103", "signs":"100", "reason":"Existing head/chief proposal."},
+    {"concept":"42_horn", "root":"maruppu", "dedr":"4720", "signs":"923", "reason":"Existing tusk/ivory proposal; DEDR includes horn/tusk in this etymon."},
+    {"concept":"51_man", "root":"āḷ", "dedr":"399", "signs":"090", "reason":"Man side of man/manager proposal."},
+    {"concept":"54_moon", "root":"tiṅkaḷ", "dedr":"3213", "signs":"900 920", "reason":"Existing moon/month proposal."},
+    {"concept":"55_mountain", "root":"malai", "dedr":"4742", "signs":"503", "reason":"Mountain side of mountain/garland proposal."},
+    {"concept":"63_one", "root":"oru", "dedr":"990", "signs":"001 031", "reason":"Existing numeral one."},
+    {"concept":"80_star", "root":"mīṉ", "dedr":"4876", "signs":"220", "reason":"Star side of fish/star proposal."},
+    {"concept":"91_two", "root":"iru", "dedr":"474", "signs":"002 032", "reason":"Existing numeral two."},
+    {"concept":"74_sit", "root":"iru", "dedr":"480", "signs":"175 176", "reason":"Seated-person proposal includes iru, remain/sit; do not substitute other sit etyma."},
+    {"concept":"72_see", "root":"kāṇ", "dedr":"1443", "signs":"861", "reason":"Existing kaṇ/kāṇ eye/sight bridge.", "manual_class":"see-A", "manual_anchor":"DravLex Tamil form kāṇ- in see-A matches the key's DEDR 1443 kāṇ 'see'. The source comments do not explicitly cite 1443; report a sensitivity omitting this manual link."}
+  ]
+}

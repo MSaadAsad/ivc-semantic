@@ -1,0 +1,1614 @@
+{
+  "dravlex": {
+    "lexemes": 2127,
+    "languages": 20,
+    "concepts": 100,
+    "panel_concepts": 13,
+    "scorable_concepts": 11,
+    "anchors": [
+      {
+        "concept": "26_eye",
+        "meaning": "eye",
+        "dedr": "1159",
+        "root": "kaṇ",
+        "cognate_classes": "eye-A",
+        "annotation_witnesses": 19,
+        "manual_anchor": false,
+        "scorable": true
+      },
+      {
+        "concept": "30_fish",
+        "meaning": "fish",
+        "dedr": "4885",
+        "root": "mīṉ",
+        "cognate_classes": "fish-A",
+        "annotation_witnesses": 13,
+        "manual_anchor": false,
+        "scorable": true
+      },
+      {
+        "concept": "32_foot",
+        "meaning": "foot",
+        "dedr": "1479",
+        "root": "kāl",
+        "cognate_classes": "foot-C",
+        "annotation_witnesses": 6,
+        "manual_anchor": false,
+        "scorable": true
+      },
+      {
+        "concept": "39_head",
+        "meaning": "head",
+        "dedr": "3103",
+        "root": "talai",
+        "cognate_classes": "head-A",
+        "annotation_witnesses": 11,
+        "manual_anchor": false,
+        "scorable": true
+      },
+      {
+        "concept": "42_horn",
+        "meaning": "horn",
+        "dedr": "4720",
+        "root": "maruppu",
+        "cognate_classes": "horn-C",
+        "annotation_witnesses": 3,
+        "manual_anchor": false,
+        "scorable": true
+      },
+      {
+        "concept": "51_man",
+        "meaning": "man",
+        "dedr": "399",
+        "root": "āḷ",
+        "cognate_classes": "man-A",
+        "annotation_witnesses": 4,
+        "manual_anchor": false,
+        "scorable": true
+      },
+      {
+        "concept": "54_moon",
+        "meaning": "moon",
+        "dedr": "3213",
+        "root": "tiṅkaḷ",
+        "cognate_classes": "",
+        "annotation_witnesses": 0,
+        "manual_anchor": false,
+        "scorable": false
+      },
+      {
+        "concept": "55_mountain",
+        "meaning": "mountain",
+        "dedr": "4742",
+        "root": "malai",
+        "cognate_classes": "mountain-D",
+        "annotation_witnesses": 1,
+        "manual_anchor": false,
+        "scorable": true
+      },
+      {
+        "concept": "63_one",
+        "meaning": "one",
+        "dedr": "990",
+        "root": "oru",
+        "cognate_classes": "one-A",
+        "annotation_witnesses": 14,
+        "manual_anchor": false,
+        "scorable": true
+      },
+      {
+        "concept": "80_star",
+        "meaning": "star",
+        "dedr": "4876",
+        "root": "mīṉ",
+        "cognate_classes": "star-A",
+        "annotation_witnesses": 2,
+        "manual_anchor": false,
+        "scorable": true
+      },
+      {
+        "concept": "91_two",
+        "meaning": "two",
+        "dedr": "474",
+        "root": "iru",
+        "cognate_classes": "two-A",
+        "annotation_witnesses": 13,
+        "manual_anchor": false,
+        "scorable": true
+      },
+      {
+        "concept": "74_sit",
+        "meaning": "sit",
+        "dedr": "480",
+        "root": "iru",
+        "cognate_classes": "",
+        "annotation_witnesses": 0,
+        "manual_anchor": false,
+        "scorable": false
+      },
+      {
+        "concept": "72_see",
+        "meaning": "see",
+        "dedr": "1443",
+        "root": "kāṇ",
+        "cognate_classes": "see-A",
+        "annotation_witnesses": 0,
+        "manual_anchor": true,
+        "scorable": true
+      }
+    ],
+    "summary": [
+      {
+        "language": "Badga",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 11,
+        "matches": 5
+      },
+      {
+        "language": "Betta_Kurumba",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 11,
+        "matches": 6
+      },
+      {
+        "language": "Brahui",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 11,
+        "matches": 5
+      },
+      {
+        "language": "Gondi",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 11,
+        "matches": 5
+      },
+      {
+        "language": "Kannada",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 11,
+        "matches": 5
+      },
+      {
+        "language": "Kodava",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 11,
+        "matches": 5
+      },
+      {
+        "language": "Kolami",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 11,
+        "matches": 3
+      },
+      {
+        "language": "Kota",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 10,
+        "matches": 4
+      },
+      {
+        "language": "Koya",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 11,
+        "matches": 4
+      },
+      {
+        "language": "Kurukh",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 11,
+        "matches": 5
+      },
+      {
+        "language": "Kuwi",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 7,
+        "matches": 4
+      },
+      {
+        "language": "Malayalam",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 11,
+        "matches": 8
+      },
+      {
+        "language": "Malto",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 11,
+        "matches": 5
+      },
+      {
+        "language": "Ollari_Gadba",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 10,
+        "matches": 5
+      },
+      {
+        "language": "Parji",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 6,
+        "matches": 4
+      },
+      {
+        "language": "Tamil",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 11,
+        "matches": 10
+      },
+      {
+        "language": "Telugu",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 11,
+        "matches": 4
+      },
+      {
+        "language": "Toda",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 11,
+        "matches": 4
+      },
+      {
+        "language": "Tulu",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 11,
+        "matches": 5
+      },
+      {
+        "language": "Yeruva",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 11,
+        "matches": 6
+      },
+      {
+        "language": "Badga",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 10,
+        "matches": 5
+      },
+      {
+        "language": "Betta_Kurumba",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 10,
+        "matches": 6
+      },
+      {
+        "language": "Brahui",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 10,
+        "matches": 5
+      },
+      {
+        "language": "Gondi",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 10,
+        "matches": 5
+      },
+      {
+        "language": "Kannada",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 10,
+        "matches": 5
+      },
+      {
+        "language": "Kodava",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 10,
+        "matches": 5
+      },
+      {
+        "language": "Kolami",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 10,
+        "matches": 3
+      },
+      {
+        "language": "Kota",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 9,
+        "matches": 4
+      },
+      {
+        "language": "Koya",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 10,
+        "matches": 4
+      },
+      {
+        "language": "Kurukh",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 10,
+        "matches": 5
+      },
+      {
+        "language": "Kuwi",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 7,
+        "matches": 4
+      },
+      {
+        "language": "Malayalam",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 10,
+        "matches": 7
+      },
+      {
+        "language": "Malto",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 10,
+        "matches": 5
+      },
+      {
+        "language": "Ollari_Gadba",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 9,
+        "matches": 5
+      },
+      {
+        "language": "Parji",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 6,
+        "matches": 4
+      },
+      {
+        "language": "Tamil",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 10,
+        "matches": 9
+      },
+      {
+        "language": "Telugu",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 10,
+        "matches": 4
+      },
+      {
+        "language": "Toda",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 10,
+        "matches": 4
+      },
+      {
+        "language": "Tulu",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 10,
+        "matches": 5
+      },
+      {
+        "language": "Yeruva",
+        "exclude_flagged_loans": false,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 10,
+        "matches": 6
+      },
+      {
+        "language": "Badga",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 11,
+        "matches": 5
+      },
+      {
+        "language": "Betta_Kurumba",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 11,
+        "matches": 6
+      },
+      {
+        "language": "Brahui",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 11,
+        "matches": 5
+      },
+      {
+        "language": "Gondi",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 11,
+        "matches": 5
+      },
+      {
+        "language": "Kannada",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 11,
+        "matches": 5
+      },
+      {
+        "language": "Kodava",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 11,
+        "matches": 5
+      },
+      {
+        "language": "Kolami",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 11,
+        "matches": 3
+      },
+      {
+        "language": "Kota",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 10,
+        "matches": 4
+      },
+      {
+        "language": "Koya",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 11,
+        "matches": 4
+      },
+      {
+        "language": "Kurukh",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 11,
+        "matches": 5
+      },
+      {
+        "language": "Kuwi",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 7,
+        "matches": 4
+      },
+      {
+        "language": "Malayalam",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 11,
+        "matches": 8
+      },
+      {
+        "language": "Malto",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 11,
+        "matches": 5
+      },
+      {
+        "language": "Ollari_Gadba",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 10,
+        "matches": 5
+      },
+      {
+        "language": "Parji",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 6,
+        "matches": 4
+      },
+      {
+        "language": "Tamil",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 11,
+        "matches": 10
+      },
+      {
+        "language": "Telugu",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 11,
+        "matches": 4
+      },
+      {
+        "language": "Toda",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 11,
+        "matches": 4
+      },
+      {
+        "language": "Tulu",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 11,
+        "matches": 5
+      },
+      {
+        "language": "Yeruva",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": false,
+        "concepts": 11,
+        "recorded": 11,
+        "matches": 6
+      },
+      {
+        "language": "Badga",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 10,
+        "matches": 5
+      },
+      {
+        "language": "Betta_Kurumba",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 10,
+        "matches": 6
+      },
+      {
+        "language": "Brahui",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 10,
+        "matches": 5
+      },
+      {
+        "language": "Gondi",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 10,
+        "matches": 5
+      },
+      {
+        "language": "Kannada",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 10,
+        "matches": 5
+      },
+      {
+        "language": "Kodava",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 10,
+        "matches": 5
+      },
+      {
+        "language": "Kolami",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 10,
+        "matches": 3
+      },
+      {
+        "language": "Kota",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 9,
+        "matches": 4
+      },
+      {
+        "language": "Koya",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 10,
+        "matches": 4
+      },
+      {
+        "language": "Kurukh",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 10,
+        "matches": 5
+      },
+      {
+        "language": "Kuwi",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 7,
+        "matches": 4
+      },
+      {
+        "language": "Malayalam",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 10,
+        "matches": 7
+      },
+      {
+        "language": "Malto",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 10,
+        "matches": 5
+      },
+      {
+        "language": "Ollari_Gadba",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 9,
+        "matches": 5
+      },
+      {
+        "language": "Parji",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 6,
+        "matches": 4
+      },
+      {
+        "language": "Tamil",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 10,
+        "matches": 9
+      },
+      {
+        "language": "Telugu",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 10,
+        "matches": 4
+      },
+      {
+        "language": "Toda",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 10,
+        "matches": 4
+      },
+      {
+        "language": "Tulu",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 10,
+        "matches": 5
+      },
+      {
+        "language": "Yeruva",
+        "exclude_flagged_loans": true,
+        "omit_manual_anchor": true,
+        "concepts": 10,
+        "recorded": 10,
+        "matches": 6
+      }
+    ],
+    "holm_significant_pairs": 0
+  },
+  "dedr": {
+    "numbered_entries": 5224,
+    "target_etyma": 73,
+    "matched_draws": 4999,
+    "seed": 20261121,
+    "matching": "Major-language presence pattern; sensitivity additionally matches breadth in 0, 1-3, 4+ other languages, excluding focal and all northern languages. Target entries excluded from controls. These are dictionary-selection diagnostics, not ancient-language tests.",
+    "results": [
+      {
+        "control": "major_pattern",
+        "code": "Ta",
+        "language": "Tamil",
+        "target_etyma": 73,
+        "attested_target_etyma": 70,
+        "background_etyma": 3314,
+        "background_total": 5151,
+        "matched_expected": 70.0,
+        "matched_q025": 70,
+        "matched_q975": 70,
+        "excess_over_matched": 0.0,
+        "ratio_to_matched": 1.0,
+        "conditional_p_upper": 1.0,
+        "p_holm_all42": 1.0
+      },
+      {
+        "control": "major_pattern",
+        "code": "Ma",
+        "language": "Malayalam",
+        "target_etyma": 73,
+        "attested_target_etyma": 63,
+        "background_etyma": 2541,
+        "background_total": 5151,
+        "matched_expected": 63.0,
+        "matched_q025": 63,
+        "matched_q975": 63,
+        "excess_over_matched": 0.0,
+        "ratio_to_matched": 1.0,
+        "conditional_p_upper": 1.0,
+        "p_holm_all42": 1.0
+      },
+      {
+        "control": "major_pattern",
+        "code": "Ka",
+        "language": "Kannada",
+        "target_etyma": 73,
+        "attested_target_etyma": 60,
+        "background_etyma": 2773,
+        "background_total": 5151,
+        "matched_expected": 60.0,
+        "matched_q025": 60,
+        "matched_q975": 60,
+        "excess_over_matched": 0.0,
+        "ratio_to_matched": 1.0,
+        "conditional_p_upper": 1.0,
+        "p_holm_all42": 1.0
+      },
+      {
+        "control": "major_pattern",
+        "code": "Te",
+        "language": "Telugu",
+        "target_etyma": 73,
+        "attested_target_etyma": 62,
+        "background_etyma": 2437,
+        "background_total": 5151,
+        "matched_expected": 62.0,
+        "matched_q025": 62,
+        "matched_q975": 62,
+        "excess_over_matched": 0.0,
+        "ratio_to_matched": 1.0,
+        "conditional_p_upper": 1.0,
+        "p_holm_all42": 1.0
+      },
+      {
+        "control": "major_pattern",
+        "code": "Tu",
+        "language": "Tulu",
+        "target_etyma": 73,
+        "attested_target_etyma": 51,
+        "background_etyma": 2080,
+        "background_total": 5151,
+        "matched_expected": 46.836567313462695,
+        "matched_q025": 40,
+        "matched_q975": 54,
+        "excess_over_matched": 4.1634326865373055,
+        "ratio_to_matched": 1.0888927802644617,
+        "conditional_p_upper": 0.1504,
+        "p_holm_all42": 1.0
+      },
+      {
+        "control": "major_pattern",
+        "code": "Ko",
+        "language": "Kota",
+        "target_etyma": 73,
+        "attested_target_etyma": 44,
+        "background_etyma": 1158,
+        "background_total": 5151,
+        "matched_expected": 30.181636327265455,
+        "matched_q025": 23,
+        "matched_q975": 38,
+        "excess_over_matched": 13.818363672734545,
+        "ratio_to_matched": 1.4578401092273225,
+        "conditional_p_upper": 0.0002,
+        "p_holm_all42": 0.008400000000000001
+      },
+      {
+        "control": "major_pattern",
+        "code": "To",
+        "language": "Toda",
+        "target_etyma": 73,
+        "attested_target_etyma": 40,
+        "background_etyma": 996,
+        "background_total": 5151,
+        "matched_expected": 26.78495699139828,
+        "matched_q025": 19,
+        "matched_q975": 34,
+        "excess_over_matched": 13.215043008601722,
+        "ratio_to_matched": 1.49337555452658,
+        "conditional_p_upper": 0.0006,
+        "p_holm_all42": 0.023999999999999997
+      },
+      {
+        "control": "major_pattern",
+        "code": "Koḍ",
+        "language": "Kodagu",
+        "target_etyma": 73,
+        "attested_target_etyma": 41,
+        "background_etyma": 829,
+        "background_total": 5151,
+        "matched_expected": 25.205841168233647,
+        "matched_q025": 18,
+        "matched_q975": 33,
+        "excess_over_matched": 15.794158831766353,
+        "ratio_to_matched": 1.6266070918383544,
+        "conditional_p_upper": 0.0002,
+        "p_holm_all42": 0.008400000000000001
+      },
+      {
+        "control": "major_pattern",
+        "code": "Kol",
+        "language": "Kolami",
+        "target_etyma": 73,
+        "attested_target_etyma": 14,
+        "background_etyma": 680,
+        "background_total": 5151,
+        "matched_expected": 15.989197839567913,
+        "matched_q025": 10,
+        "matched_q975": 23,
+        "excess_over_matched": -1.9891978395679129,
+        "ratio_to_matched": 0.8755911422494683,
+        "conditional_p_upper": 0.7682,
+        "p_holm_all42": 1.0
+      },
+      {
+        "control": "major_pattern",
+        "code": "Nk",
+        "language": "Naikri",
+        "target_etyma": 73,
+        "attested_target_etyma": 9,
+        "background_etyma": 534,
+        "background_total": 5151,
+        "matched_expected": 12.496099219843968,
+        "matched_q025": 7,
+        "matched_q975": 19,
+        "excess_over_matched": -3.496099219843968,
+        "ratio_to_matched": 0.7202247550745983,
+        "conditional_p_upper": 0.9082,
+        "p_holm_all42": 1.0
+      },
+      {
+        "control": "major_pattern",
+        "code": "Pa",
+        "language": "Parji",
+        "target_etyma": 73,
+        "attested_target_etyma": 24,
+        "background_etyma": 778,
+        "background_total": 5151,
+        "matched_expected": 15.34746949389878,
+        "matched_q025": 9,
+        "matched_q975": 22,
+        "excess_over_matched": 8.65253050610122,
+        "ratio_to_matched": 1.5637757097051692,
+        "conditional_p_upper": 0.0084,
+        "p_holm_all42": 0.31079999999999997
+      },
+      {
+        "control": "major_pattern",
+        "code": "Ga",
+        "language": "Gadaba",
+        "target_etyma": 73,
+        "attested_target_etyma": 22,
+        "background_etyma": 617,
+        "background_total": 5151,
+        "matched_expected": 13.8875775155031,
+        "matched_q025": 8,
+        "matched_q975": 20,
+        "excess_over_matched": 8.1124224844969,
+        "ratio_to_matched": 1.584149573634478,
+        "conditional_p_upper": 0.0102,
+        "p_holm_all42": 0.3672
+      },
+      {
+        "control": "major_pattern",
+        "code": "Go",
+        "language": "Gondi",
+        "target_etyma": 73,
+        "attested_target_etyma": 30,
+        "background_etyma": 1193,
+        "background_total": 5151,
+        "matched_expected": 23.92898579715943,
+        "matched_q025": 17,
+        "matched_q975": 32,
+        "excess_over_matched": 6.071014202840569,
+        "ratio_to_matched": 1.253709632923985,
+        "conditional_p_upper": 0.0754,
+        "p_holm_all42": 1.0
+      },
+      {
+        "control": "major_pattern",
+        "code": "Konḍa",
+        "language": "Konda",
+        "target_etyma": 73,
+        "attested_target_etyma": 22,
+        "background_etyma": 710,
+        "background_total": 5151,
+        "matched_expected": 16.671934386877375,
+        "matched_q025": 10,
+        "matched_q975": 23,
+        "excess_over_matched": 5.328065613122625,
+        "ratio_to_matched": 1.319582928380308,
+        "conditional_p_upper": 0.0818,
+        "p_holm_all42": 1.0
+      },
+      {
+        "control": "major_pattern",
+        "code": "Pe",
+        "language": "Pengo",
+        "target_etyma": 73,
+        "attested_target_etyma": 11,
+        "background_etyma": 524,
+        "background_total": 5151,
+        "matched_expected": 8.881976395279056,
+        "matched_q025": 4,
+        "matched_q975": 15,
+        "excess_over_matched": 2.1180236047209444,
+        "ratio_to_matched": 1.2384630976779802,
+        "conditional_p_upper": 0.2676,
+        "p_holm_all42": 1.0
+      },
+      {
+        "control": "major_pattern",
+        "code": "Manḍ",
+        "language": "Manda",
+        "target_etyma": 73,
+        "attested_target_etyma": 8,
+        "background_etyma": 348,
+        "background_total": 5151,
+        "matched_expected": 6.130426085217043,
+        "matched_q025": 2,
+        "matched_q975": 11,
+        "excess_over_matched": 1.8695739147829569,
+        "ratio_to_matched": 1.304966390393526,
+        "conditional_p_upper": 0.2666,
+        "p_holm_all42": 1.0
+      },
+      {
+        "control": "major_pattern",
+        "code": "Kui",
+        "language": "Kui",
+        "target_etyma": 73,
+        "attested_target_etyma": 23,
+        "background_etyma": 733,
+        "background_total": 5151,
+        "matched_expected": 14.795359071814364,
+        "matched_q025": 8,
+        "matched_q975": 22,
+        "excess_over_matched": 8.204640928185636,
+        "ratio_to_matched": 1.5545415213217597,
+        "conditional_p_upper": 0.013,
+        "p_holm_all42": 0.45499999999999996
+      },
+      {
+        "control": "major_pattern",
+        "code": "Kuwi",
+        "language": "Kuwi",
+        "target_etyma": 73,
+        "attested_target_etyma": 26,
+        "background_etyma": 832,
+        "background_total": 5151,
+        "matched_expected": 16.353470694138828,
+        "matched_q025": 10,
+        "matched_q975": 23,
+        "excess_over_matched": 9.646529305861172,
+        "ratio_to_matched": 1.5898765764333158,
+        "conditional_p_upper": 0.0058,
+        "p_holm_all42": 0.22039999999999998
+      },
+      {
+        "control": "major_pattern",
+        "code": "Kur",
+        "language": "Kurukh",
+        "target_etyma": 73,
+        "attested_target_etyma": 17,
+        "background_etyma": 671,
+        "background_total": 5151,
+        "matched_expected": 11.400680136027205,
+        "matched_q025": 6,
+        "matched_q975": 18,
+        "excess_over_matched": 5.599319863972795,
+        "ratio_to_matched": 1.491139107243122,
+        "conditional_p_upper": 0.056,
+        "p_holm_all42": 1.0
+      },
+      {
+        "control": "major_pattern",
+        "code": "Malt",
+        "language": "Malto",
+        "target_etyma": 73,
+        "attested_target_etyma": 14,
+        "background_etyma": 609,
+        "background_total": 5151,
+        "matched_expected": 9.98239647929586,
+        "matched_q025": 5,
+        "matched_q975": 16,
+        "excess_over_matched": 4.0176035207041405,
+        "ratio_to_matched": 1.4024688389242916,
+        "conditional_p_upper": 0.1098,
+        "p_holm_all42": 1.0
+      },
+      {
+        "control": "major_pattern",
+        "code": "Br",
+        "language": "Brahui",
+        "target_etyma": 73,
+        "attested_target_etyma": 10,
+        "background_etyma": 217,
+        "background_total": 5151,
+        "matched_expected": 6.036007201440288,
+        "matched_q025": 2,
+        "matched_q975": 11,
+        "excess_over_matched": 3.963992798559712,
+        "ratio_to_matched": 1.6567243322065355,
+        "conditional_p_upper": 0.0714,
+        "p_holm_all42": 1.0
+      },
+      {
+        "control": "major_pattern_plus_breadth",
+        "code": "Ta",
+        "language": "Tamil",
+        "target_etyma": 73,
+        "attested_target_etyma": 70,
+        "background_etyma": 3314,
+        "background_total": 5151,
+        "matched_expected": 70.0,
+        "matched_q025": 70,
+        "matched_q975": 70,
+        "excess_over_matched": 0.0,
+        "ratio_to_matched": 1.0,
+        "conditional_p_upper": 1.0,
+        "p_holm_all42": 1.0
+      },
+      {
+        "control": "major_pattern_plus_breadth",
+        "code": "Ma",
+        "language": "Malayalam",
+        "target_etyma": 73,
+        "attested_target_etyma": 63,
+        "background_etyma": 2541,
+        "background_total": 5151,
+        "matched_expected": 63.0,
+        "matched_q025": 63,
+        "matched_q975": 63,
+        "excess_over_matched": 0.0,
+        "ratio_to_matched": 1.0,
+        "conditional_p_upper": 1.0,
+        "p_holm_all42": 1.0
+      },
+      {
+        "control": "major_pattern_plus_breadth",
+        "code": "Ka",
+        "language": "Kannada",
+        "target_etyma": 73,
+        "attested_target_etyma": 60,
+        "background_etyma": 2773,
+        "background_total": 5151,
+        "matched_expected": 60.0,
+        "matched_q025": 60,
+        "matched_q975": 60,
+        "excess_over_matched": 0.0,
+        "ratio_to_matched": 1.0,
+        "conditional_p_upper": 1.0,
+        "p_holm_all42": 1.0
+      },
+      {
+        "control": "major_pattern_plus_breadth",
+        "code": "Te",
+        "language": "Telugu",
+        "target_etyma": 73,
+        "attested_target_etyma": 62,
+        "background_etyma": 2437,
+        "background_total": 5151,
+        "matched_expected": 62.0,
+        "matched_q025": 62,
+        "matched_q975": 62,
+        "excess_over_matched": 0.0,
+        "ratio_to_matched": 1.0,
+        "conditional_p_upper": 1.0,
+        "p_holm_all42": 1.0
+      },
+      {
+        "control": "major_pattern_plus_breadth",
+        "code": "Tu",
+        "language": "Tulu",
+        "target_etyma": 73,
+        "attested_target_etyma": 51,
+        "background_etyma": 2080,
+        "background_total": 5151,
+        "matched_expected": 51.12922584516903,
+        "matched_q025": 45,
+        "matched_q975": 57,
+        "excess_over_matched": -0.12922584516903157,
+        "ratio_to_matched": 0.997472564017293,
+        "conditional_p_upper": 0.5848,
+        "p_holm_all42": 1.0
+      },
+      {
+        "control": "major_pattern_plus_breadth",
+        "code": "Ko",
+        "language": "Kota",
+        "target_etyma": 73,
+        "attested_target_etyma": 44,
+        "background_etyma": 1158,
+        "background_total": 5151,
+        "matched_expected": 35.915183036607324,
+        "matched_q025": 29,
+        "matched_q975": 43,
+        "excess_over_matched": 8.084816963392676,
+        "ratio_to_matched": 1.2251086108945082,
+        "conditional_p_upper": 0.0172,
+        "p_holm_all42": 0.5848
+      },
+      {
+        "control": "major_pattern_plus_breadth",
+        "code": "To",
+        "language": "Toda",
+        "target_etyma": 73,
+        "attested_target_etyma": 40,
+        "background_etyma": 996,
+        "background_total": 5151,
+        "matched_expected": 32.389277855571116,
+        "matched_q025": 25,
+        "matched_q975": 40,
+        "excess_over_matched": 7.610722144428884,
+        "ratio_to_matched": 1.2349765925120741,
+        "conditional_p_upper": 0.0312,
+        "p_holm_all42": 1.0
+      },
+      {
+        "control": "major_pattern_plus_breadth",
+        "code": "Koḍ",
+        "language": "Kodagu",
+        "target_etyma": 73,
+        "attested_target_etyma": 41,
+        "background_etyma": 829,
+        "background_total": 5151,
+        "matched_expected": 29.424284856971394,
+        "matched_q025": 23,
+        "matched_q975": 36,
+        "excess_over_matched": 11.575715143028606,
+        "ratio_to_matched": 1.3934068474152232,
+        "conditional_p_upper": 0.001,
+        "p_holm_all42": 0.039
+      },
+      {
+        "control": "major_pattern_plus_breadth",
+        "code": "Kol",
+        "language": "Kolami",
+        "target_etyma": 73,
+        "attested_target_etyma": 14,
+        "background_etyma": 680,
+        "background_total": 5151,
+        "matched_expected": 19.97239447889578,
+        "matched_q025": 14,
+        "matched_q975": 26,
+        "excess_over_matched": -5.9723944788957795,
+        "ratio_to_matched": 0.7009675286953386,
+        "conditional_p_upper": 0.9762,
+        "p_holm_all42": 1.0
+      },
+      {
+        "control": "major_pattern_plus_breadth",
+        "code": "Nk",
+        "language": "Naikri",
+        "target_etyma": 73,
+        "attested_target_etyma": 9,
+        "background_etyma": 534,
+        "background_total": 5151,
+        "matched_expected": 15.746749349869974,
+        "matched_q025": 10,
+        "matched_q975": 22,
+        "excess_over_matched": -6.746749349869974,
+        "ratio_to_matched": 0.5715465331944409,
+        "conditional_p_upper": 0.9922,
+        "p_holm_all42": 1.0
+      },
+      {
+        "control": "major_pattern_plus_breadth",
+        "code": "Pa",
+        "language": "Parji",
+        "target_etyma": 73,
+        "attested_target_etyma": 24,
+        "background_etyma": 778,
+        "background_total": 5151,
+        "matched_expected": 19.244048809761953,
+        "matched_q025": 13,
+        "matched_q975": 26,
+        "excess_over_matched": 4.755951190238047,
+        "ratio_to_matched": 1.2471388031309445,
+        "conditional_p_upper": 0.1064,
+        "p_holm_all42": 1.0
+      },
+      {
+        "control": "major_pattern_plus_breadth",
+        "code": "Ga",
+        "language": "Gadaba",
+        "target_etyma": 73,
+        "attested_target_etyma": 22,
+        "background_etyma": 617,
+        "background_total": 5151,
+        "matched_expected": 16.720544108821766,
+        "matched_q025": 10,
+        "matched_q975": 23,
+        "excess_over_matched": 5.279455891178234,
+        "ratio_to_matched": 1.3157466561385878,
+        "conditional_p_upper": 0.0724,
+        "p_holm_all42": 1.0
+      },
+      {
+        "control": "major_pattern_plus_breadth",
+        "code": "Go",
+        "language": "Gondi",
+        "target_etyma": 73,
+        "attested_target_etyma": 30,
+        "background_etyma": 1193,
+        "background_total": 5151,
+        "matched_expected": 28.536907381476297,
+        "matched_q025": 22,
+        "matched_q975": 35,
+        "excess_over_matched": 1.463092618523703,
+        "ratio_to_matched": 1.0512701884253028,
+        "conditional_p_upper": 0.3952,
+        "p_holm_all42": 1.0
+      },
+      {
+        "control": "major_pattern_plus_breadth",
+        "code": "Konḍa",
+        "language": "Konda",
+        "target_etyma": 73,
+        "attested_target_etyma": 22,
+        "background_etyma": 710,
+        "background_total": 5151,
+        "matched_expected": 20.582916583316663,
+        "matched_q025": 14,
+        "matched_q975": 27,
+        "excess_over_matched": 1.4170834166833366,
+        "ratio_to_matched": 1.0688475518494762,
+        "conditional_p_upper": 0.3854,
+        "p_holm_all42": 1.0
+      },
+      {
+        "control": "major_pattern_plus_breadth",
+        "code": "Pe",
+        "language": "Pengo",
+        "target_etyma": 73,
+        "attested_target_etyma": 11,
+        "background_etyma": 524,
+        "background_total": 5151,
+        "matched_expected": 11.824564912982597,
+        "matched_q025": 7,
+        "matched_q975": 17,
+        "excess_over_matched": -0.8245649129825967,
+        "ratio_to_matched": 0.9302667862157635,
+        "conditional_p_upper": 0.6746,
+        "p_holm_all42": 1.0
+      },
+      {
+        "control": "major_pattern_plus_breadth",
+        "code": "Manḍ",
+        "language": "Manda",
+        "target_etyma": 73,
+        "attested_target_etyma": 8,
+        "background_etyma": 348,
+        "background_total": 5151,
+        "matched_expected": 7.664532906581316,
+        "matched_q025": 3,
+        "matched_q975": 13,
+        "excess_over_matched": 0.33546709341868386,
+        "ratio_to_matched": 1.0437687589716822,
+        "conditional_p_upper": 0.5136,
+        "p_holm_all42": 1.0
+      },
+      {
+        "control": "major_pattern_plus_breadth",
+        "code": "Kui",
+        "language": "Kui",
+        "target_etyma": 73,
+        "attested_target_etyma": 23,
+        "background_etyma": 733,
+        "background_total": 5151,
+        "matched_expected": 17.744948989797958,
+        "matched_q025": 11,
+        "matched_q975": 24,
+        "excess_over_matched": 5.255051010202042,
+        "ratio_to_matched": 1.2961434836033234,
+        "conditional_p_upper": 0.0784,
+        "p_holm_all42": 1.0
+      },
+      {
+        "control": "major_pattern_plus_breadth",
+        "code": "Kuwi",
+        "language": "Kuwi",
+        "target_etyma": 73,
+        "attested_target_etyma": 26,
+        "background_etyma": 832,
+        "background_total": 5151,
+        "matched_expected": 19.862372474494897,
+        "matched_q025": 14,
+        "matched_q975": 27,
+        "excess_over_matched": 6.137627525505103,
+        "ratio_to_matched": 1.3090077750473352,
+        "conditional_p_upper": 0.0504,
+        "p_holm_all42": 1.0
+      },
+      {
+        "control": "major_pattern_plus_breadth",
+        "code": "Kur",
+        "language": "Kurukh",
+        "target_etyma": 73,
+        "attested_target_etyma": 17,
+        "background_etyma": 671,
+        "background_total": 5151,
+        "matched_expected": 13.47629525905181,
+        "matched_q025": 8,
+        "matched_q975": 20,
+        "excess_over_matched": 3.5237047409481903,
+        "ratio_to_matched": 1.2614742904643155,
+        "conditional_p_upper": 0.1606,
+        "p_holm_all42": 1.0
+      },
+      {
+        "control": "major_pattern_plus_breadth",
+        "code": "Malt",
+        "language": "Malto",
+        "target_etyma": 73,
+        "attested_target_etyma": 14,
+        "background_etyma": 609,
+        "background_total": 5151,
+        "matched_expected": 12.14862972594519,
+        "matched_q025": 7,
+        "matched_q975": 18,
+        "excess_over_matched": 1.8513702740548101,
+        "ratio_to_matched": 1.152393341127266,
+        "conditional_p_upper": 0.3158,
+        "p_holm_all42": 1.0
+      },
+      {
+        "control": "major_pattern_plus_breadth",
+        "code": "Br",
+        "language": "Brahui",
+        "target_etyma": 73,
+        "attested_target_etyma": 10,
+        "background_etyma": 217,
+        "background_total": 5151,
+        "matched_expected": 6.990598119623924,
+        "matched_q025": 3,
+        "matched_q975": 12,
+        "excess_over_matched": 3.0094018803760756,
+        "ratio_to_matched": 1.430492760258685,
+        "conditional_p_upper": 0.1508,
+        "p_holm_all42": 1.0
+      }
+    ],
+    "pair_coverage": [
+      {
+        "language": "Tamil",
+        "pairs": 35,
+        "a_present": 34,
+        "b_present": 33,
+        "both_present": 32
+      },
+      {
+        "language": "Malayalam",
+        "pairs": 35,
+        "a_present": 32,
+        "b_present": 29,
+        "both_present": 26
+      },
+      {
+        "language": "Kannada",
+        "pairs": 35,
+        "a_present": 32,
+        "b_present": 26,
+        "both_present": 25
+      },
+      {
+        "language": "Telugu",
+        "pairs": 35,
+        "a_present": 31,
+        "b_present": 30,
+        "both_present": 27
+      },
+      {
+        "language": "Tulu",
+        "pairs": 35,
+        "a_present": 27,
+        "b_present": 20,
+        "both_present": 16
+      },
+      {
+        "language": "Kota",
+        "pairs": 35,
+        "a_present": 19,
+        "b_present": 19,
+        "both_present": 12
+      },
+      {
+        "language": "Toda",
+        "pairs": 35,
+        "a_present": 21,
+        "b_present": 12,
+        "both_present": 9
+      },
+      {
+        "language": "Kodagu",
+        "pairs": 35,
+        "a_present": 20,
+        "b_present": 16,
+        "both_present": 12
+      },
+      {
+        "language": "Kolami",
+        "pairs": 35,
+        "a_present": 4,
+        "b_present": 6,
+        "both_present": 0
+      },
+      {
+        "language": "Naikri",
+        "pairs": 35,
+        "a_present": 4,
+        "b_present": 1,
+        "both_present": 0
+      },
+      {
+        "language": "Parji",
+        "pairs": 35,
+        "a_present": 11,
+        "b_present": 10,
+        "both_present": 2
+      },
+      {
+        "language": "Gadaba",
+        "pairs": 35,
+        "a_present": 13,
+        "b_present": 7,
+        "both_present": 1
+      },
+      {
+        "language": "Gondi",
+        "pairs": 35,
+        "a_present": 18,
+        "b_present": 11,
+        "both_present": 5
+      },
+      {
+        "language": "Konda",
+        "pairs": 35,
+        "a_present": 11,
+        "b_present": 6,
+        "both_present": 1
+      },
+      {
+        "language": "Pengo",
+        "pairs": 35,
+        "a_present": 3,
+        "b_present": 2,
+        "both_present": 1
+      },
+      {
+        "language": "Manda",
+        "pairs": 35,
+        "a_present": 2,
+        "b_present": 1,
+        "both_present": 0
+      },
+      {
+        "language": "Kui",
+        "pairs": 35,
+        "a_present": 11,
+        "b_present": 8,
+        "both_present": 1
+      },
+      {
+        "language": "Kuwi",
+        "pairs": 35,
+        "a_present": 14,
+        "b_present": 7,
+        "both_present": 3
+      },
+      {
+        "language": "Kurukh",
+        "pairs": 35,
+        "a_present": 4,
+        "b_present": 7,
+        "both_present": 0
+      },
+      {
+        "language": "Malto",
+        "pairs": 35,
+        "a_present": 4,
+        "b_present": 3,
+        "both_present": 0
+      },
+      {
+        "language": "Brahui",
+        "pairs": 35,
+        "a_present": 2,
+        "b_present": 1,
+        "both_present": 0
+      }
+    ]
+  }
+}
