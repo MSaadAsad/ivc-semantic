@@ -1,0 +1,97 @@
+measure,region,count,groups,claims,semantics
+target_meaning,00000,0,,,
+target_meaning,00001,0,Brahui,,
+target_meaning,00010,0,Kurukh–Malto,,
+target_meaning,00011,0,Kurukh–Malto; Brahui,,
+target_meaning,00100,0,Central Dravidian,,
+target_meaning,00101,0,Central Dravidian; Brahui,,
+target_meaning,00110,0,Central Dravidian; Kurukh–Malto,,
+target_meaning,00111,0,Central Dravidian; Kurukh–Malto; Brahui,,
+target_meaning,01000,1,South-Central Dravidian / South II,S798,shell → bind / build house
+target_meaning,01001,0,South-Central Dravidian / South II; Brahui,,
+target_meaning,01010,0,South-Central Dravidian / South II; Kurukh–Malto,,
+target_meaning,01011,0,South-Central Dravidian / South II; Kurukh–Malto; Brahui,,
+target_meaning,01100,0,South-Central Dravidian / South II; Central Dravidian,,
+target_meaning,01101,0,South-Central Dravidian / South II; Central Dravidian; Brahui,,
+target_meaning,01110,0,South-Central Dravidian / South II; Central Dravidian; Kurukh–Malto,,
+target_meaning,01111,0,South-Central Dravidian / South II; Central Dravidian; Kurukh–Malto; Brahui,,
+target_meaning,10000,20,South Dravidian I,S861; S615; S176; S233; S920; S407; S806; S368; S140; S142; S435; S850; S350; S460; S480; S165; S500; S790; S854; S575,eye / sight → weight / property; loom frame → field plot; sit / remain → tribute; split → dawn / light; moon ↔ month; branch → cloth; stalk → millet; flag → give / grant; mother / lady ↔ goddess; staff → smith; hook → attendant; eye → copper; fence → watchman; shoot → garland; point → vessel; bend / snail → cauldron; sail; circle / bangle; sesame; capacity measure kōṭṭai
+target_meaning,10001,0,South Dravidian I; Brahui,,
+target_meaning,10010,1,South Dravidian I; Kurukh–Malto,S520,spear → chief
+target_meaning,10011,1,South Dravidian I; Kurukh–Malto; Brahui,S923,horn / tusk
+target_meaning,10100,0,South Dravidian I; Central Dravidian,,
+target_meaning,10101,0,South Dravidian I; Central Dravidian; Brahui,,
+target_meaning,10110,1,South Dravidian I; Central Dravidian; Kurukh–Malto,S482,mountain → king
+target_meaning,10111,0,South Dravidian I; Central Dravidian; Kurukh–Malto; Brahui,,
+target_meaning,11000,25,South Dravidian I; South-Central Dravidian / South II,S740; S700; S400; S390; S320; S705; S090; S415; S840; S690; S550; S892; S503; S440; S845; S717; S335; S540; S171; S104; S215; S711; S235; S025; S055,jar → house; bowl / hollow → measure; comb → small / junior; tree → sew / weave; step / ladder → ration / measure; threshing floor → vessel / ship; man → manager / ruler; fork / branch → seize; pair ↔ join; tie ↔ bundle / building; waist / middle → district; bow → sell; mountain → garland; corner → vessel; line → tax; foot ↔ servant; frame → pot; drum ↔ capacity measure; hang ↔ weigh; leap → collect / levy; rice; vessel / capacity measure; light component of roofed fish; numeral nine; numeral twelve
+target_meaning,11001,0,South Dravidian I; South-Central Dravidian / South II; Brahui,,
+target_meaning,11010,4,South Dravidian I; South-Central Dravidian / South II; Kurukh–Malto,S220; S590; S760; S831,fish → star; basket / plait → bale / load; sprout ↔ young / child; blade → grain
+target_meaning,11011,0,South Dravidian I; South-Central Dravidian / South II; Kurukh–Malto; Brahui,,
+target_meaning,11100,7,South Dravidian I; South-Central Dravidian / South II; Central Dravidian,S820; S255; S413; S005; S006; S007; S028,wheel → quarter / leg; crocodile → first / principal; grain → tax / cut; numeral five; numeral six; numeral seven; numeral ten
+target_meaning,11101,0,South Dravidian I; South-Central Dravidian / South II; Central Dravidian; Brahui,,
+target_meaning,11110,3,South Dravidian I; South-Central Dravidian / South II; Central Dravidian; Kurukh–Malto,S154; S630; S004,carrying pole → guard; cage → assemble / store; numeral four
+target_meaning,11111,4,South Dravidian I; South-Central Dravidian / South II; Central Dravidian; Kurukh–Malto; Brahui,S060; S001; S002; S003,inside component / locative; numeral one; numeral two; numeral three
+both_meanings,00000,2,,S798; S440,shell → bind / build house; corner → vessel
+both_meanings,00001,0,Brahui,,
+both_meanings,00010,0,Kurukh–Malto,,
+both_meanings,00011,0,Kurukh–Malto; Brahui,,
+both_meanings,00100,0,Central Dravidian,,
+both_meanings,00101,0,Central Dravidian; Brahui,,
+both_meanings,00110,0,Central Dravidian; Kurukh–Malto,,
+both_meanings,00111,0,Central Dravidian; Kurukh–Malto; Brahui,,
+both_meanings,01000,0,South-Central Dravidian / South II,,
+both_meanings,01001,0,South-Central Dravidian / South II; Brahui,,
+both_meanings,01010,0,South-Central Dravidian / South II; Kurukh–Malto,,
+both_meanings,01011,0,South-Central Dravidian / South II; Kurukh–Malto; Brahui,,
+both_meanings,01100,0,South-Central Dravidian / South II; Central Dravidian,,
+both_meanings,01101,0,South-Central Dravidian / South II; Central Dravidian; Brahui,,
+both_meanings,01110,0,South-Central Dravidian / South II; Central Dravidian; Kurukh–Malto,,
+both_meanings,01111,0,South-Central Dravidian / South II; Central Dravidian; Kurukh–Malto; Brahui,,
+both_meanings,10000,26,South Dravidian I,S740; S700; S520; S390; S861; S615; S176; S090; S233; S415; S920; S407; S806; S840; S368; S140; S142; S435; S850; S350; S460; S482; S480; S540; S831; S165,jar → house; bowl / hollow → measure; spear → chief; tree → sew / weave; eye / sight → weight / property; loom frame → field plot; sit / remain → tribute; man → manager / ruler; split → dawn / light; fork / branch → seize; moon ↔ month; branch → cloth; stalk → millet; pair ↔ join; flag → give / grant; mother / lady ↔ goddess; staff → smith; hook → attendant; eye → copper; fence → watchman; shoot → garland; mountain → king; point → vessel; drum ↔ capacity measure; blade → grain; bend / snail → cauldron
+both_meanings,10001,0,South Dravidian I; Brahui,,
+both_meanings,10010,2,South Dravidian I; Kurukh–Malto,S220; S760,fish → star; sprout ↔ young / child
+both_meanings,10011,0,South Dravidian I; Kurukh–Malto; Brahui,,
+both_meanings,10100,0,South Dravidian I; Central Dravidian,,
+both_meanings,10101,0,South Dravidian I; Central Dravidian; Brahui,,
+both_meanings,10110,0,South Dravidian I; Central Dravidian; Kurukh–Malto,,
+both_meanings,10111,0,South Dravidian I; Central Dravidian; Kurukh–Malto; Brahui,,
+both_meanings,11000,16,South Dravidian I; South-Central Dravidian / South II,S400; S820; S320; S590; S705; S255; S690; S550; S892; S503; S845; S717; S413; S335; S171; S104,comb → small / junior; wheel → quarter / leg; step / ladder → ration / measure; basket / plait → bale / load; threshing floor → vessel / ship; crocodile → first / principal; tie ↔ bundle / building; waist / middle → district; bow → sell; mountain → garland; line → tax; foot ↔ servant; grain → tax / cut; frame → pot; hang ↔ weigh; leap → collect / levy
+both_meanings,11001,0,South Dravidian I; South-Central Dravidian / South II; Brahui,,
+both_meanings,11010,0,South Dravidian I; South-Central Dravidian / South II; Kurukh–Malto,,
+both_meanings,11011,0,South Dravidian I; South-Central Dravidian / South II; Kurukh–Malto; Brahui,,
+both_meanings,11100,2,South Dravidian I; South-Central Dravidian / South II; Central Dravidian,S154; S630,carrying pole → guard; cage → assemble / store
+both_meanings,11101,0,South Dravidian I; South-Central Dravidian / South II; Central Dravidian; Brahui,,
+both_meanings,11110,0,South Dravidian I; South-Central Dravidian / South II; Central Dravidian; Kurukh–Malto,,
+both_meanings,11111,0,South Dravidian I; South-Central Dravidian / South II; Central Dravidian; Kurukh–Malto; Brahui,,
+strict_complete,00000,23,,S740; S400; S520; S861; S590; S705; S176; S407; S806; S798; S255; S368; S550; S142; S503; S440; S850; S717; S350; S460; S480; S335; S104,jar → house; comb → small / junior; spear → chief; eye / sight → weight / property; basket / plait → bale / load; threshing floor → vessel / ship; sit / remain → tribute; branch → cloth; stalk → millet; shell → bind / build house; crocodile → first / principal; flag → give / grant; waist / middle → district; staff → smith; mountain → garland; corner → vessel; eye → copper; foot ↔ servant; fence → watchman; shoot → garland; point → vessel; frame → pot; leap → collect / levy
+strict_complete,00001,0,Brahui,,
+strict_complete,00010,0,Kurukh–Malto,,
+strict_complete,00011,0,Kurukh–Malto; Brahui,,
+strict_complete,00100,0,Central Dravidian,,
+strict_complete,00101,0,Central Dravidian; Brahui,,
+strict_complete,00110,0,Central Dravidian; Kurukh–Malto,,
+strict_complete,00111,0,Central Dravidian; Kurukh–Malto; Brahui,,
+strict_complete,01000,0,South-Central Dravidian / South II,,
+strict_complete,01001,0,South-Central Dravidian / South II; Brahui,,
+strict_complete,01010,0,South-Central Dravidian / South II; Kurukh–Malto,,
+strict_complete,01011,0,South-Central Dravidian / South II; Kurukh–Malto; Brahui,,
+strict_complete,01100,0,South-Central Dravidian / South II; Central Dravidian,,
+strict_complete,01101,0,South-Central Dravidian / South II; Central Dravidian; Brahui,,
+strict_complete,01110,0,South-Central Dravidian / South II; Central Dravidian; Kurukh–Malto,,
+strict_complete,01111,0,South-Central Dravidian / South II; Central Dravidian; Kurukh–Malto; Brahui,,
+strict_complete,10000,24,South Dravidian I,S700; S220; S390; S820; S320; S615; S090; S233; S415; S920; S840; S760; S690; S892; S140; S154; S435; S845; S413; S482; S540; S630; S831; S165,bowl / hollow → measure; fish → star; tree → sew / weave; wheel → quarter / leg; step / ladder → ration / measure; loom frame → field plot; man → manager / ruler; split → dawn / light; fork / branch → seize; moon ↔ month; pair ↔ join; sprout ↔ young / child; tie ↔ bundle / building; bow → sell; mother / lady ↔ goddess; carrying pole → guard; hook → attendant; line → tax; grain → tax / cut; mountain → king; drum ↔ capacity measure; cage → assemble / store; blade → grain; bend / snail → cauldron
+strict_complete,10001,0,South Dravidian I; Brahui,,
+strict_complete,10010,0,South Dravidian I; Kurukh–Malto,,
+strict_complete,10011,0,South Dravidian I; Kurukh–Malto; Brahui,,
+strict_complete,10100,0,South Dravidian I; Central Dravidian,,
+strict_complete,10101,0,South Dravidian I; Central Dravidian; Brahui,,
+strict_complete,10110,0,South Dravidian I; Central Dravidian; Kurukh–Malto,,
+strict_complete,10111,0,South Dravidian I; Central Dravidian; Kurukh–Malto; Brahui,,
+strict_complete,11000,1,South Dravidian I; South-Central Dravidian / South II,S171,hang ↔ weigh
+strict_complete,11001,0,South Dravidian I; South-Central Dravidian / South II; Brahui,,
+strict_complete,11010,0,South Dravidian I; South-Central Dravidian / South II; Kurukh–Malto,,
+strict_complete,11011,0,South Dravidian I; South-Central Dravidian / South II; Kurukh–Malto; Brahui,,
+strict_complete,11100,0,South Dravidian I; South-Central Dravidian / South II; Central Dravidian,,
+strict_complete,11101,0,South Dravidian I; South-Central Dravidian / South II; Central Dravidian; Brahui,,
+strict_complete,11110,0,South Dravidian I; South-Central Dravidian / South II; Central Dravidian; Kurukh–Malto,,
+strict_complete,11111,0,South Dravidian I; South-Central Dravidian / South II; Central Dravidian; Kurukh–Malto; Brahui,,

@@ -2,15 +2,15 @@
 
 20 November 2026. Continuation of the existing 163-sign proposal at upstream commit `727dfd411a4faa44d193d204757540d45c7b139b`.
 
-**Follow-up:** [chronology, subgrouping and what is genuinely new](chronology_and_branching.md). This check caught Kannada *māle* “garland,” explicitly labelled a Sanskrit tatsama, being counted as inherited; the current matrix and chart exclude it. The northern result and Venn region counts are unchanged.
+**Diagram correction:** [historical groups and plain-English meanings](diagram_correction.md). The old Kannada/Telugu display set has been withdrawn. The new chart places Kannada with Tamil/Malayalam in South I, Telugu/Gondi/Kui/Kuwi in South II, shows Central languages, and separates Kurukh–Malto from Brahui. Every connection is spelled out in English; the full atlas displays all 22 studied varieties. The existing lexical matrix is unchanged. **Follow-up:** [chronology, subgrouping and what is genuinely new](chronology_and_branching.md), including the corrected Kannada *māle* Sanskrit-loan classification.
 
 **The larger comparison identifies specific northern retentions, but no overall northern concentration in the proposal's fixed word families.** The clearest geographically restricted example is the horn family: Tamil **maruppu**, Kurukh **marᵃg**, Malto **margu**, Brahui **marg̠ẖ**. Among the 22 varieties examined, DEDR 4720 documents this family in those four. This is a useful Tamil–northern distribution to follow, not a northern-exclusive innovation. The earlier small-panel report already noted the horn lead; this pass checks its distribution in the larger material.
 
 For the actual proposed meaning pairs, Malto preserves both families/senses for **fish → star**, with different recorded forms, and the **sprout ↔ infant** family, with related derived forms. Brahui and Kurukh have several individual components but no two-sided match to the fixed pairs under the stated sense rules. The result does **not** identify the Indus language as Northern Dravidian, or identify a modern language as its closest descendant.
 
-![Dictionary overlaps with actual sign outlines](figures/indus_language_overlap.png)
+![Every proposed English meaning, displayed by sourced historical groups](figures/indus_language_overlap.png)
 
-The circles pool languages for readability. Membership means **at least one language** in each named group; it does not mean every member, and the display groups are not proposed phylogenetic branches. The two meanings must occur within the **same individual language** before its group receives credit. All 22 individual results are downloadable below.
+Gold and green cells require both meanings within the **same individual language**. A group credit means **at least one studied language**, not every member. Same written form is an additional modern spelling criterion, not a historical sound law. Conventional classifications and the northern subgroup caveat are sourced in [classification.json](classification.json). The old 45/48, 29/48 and 2/48 display totals counted meanings, not identical-sounding pairs. [Read every proposed meaning without interpreting the glyphs](semantics.md).
 
 ## What was actually compared
 
@@ -48,7 +48,7 @@ The structured source total is **88,249 records**, excluding the separate Grigna
 
 The [complete overlap sets](results/overlap_sets.csv) enumerate languages with and without recorded support for **every tested claim**. “Unattested” means the checked sources did not establish that specific family/sense; it never means the language lacks the word or concept.
 
-![Every tested sign, with individual-language evidence](figures/indus_all_signs.png)
+![Every English meaning and all 22 individual languages, including first-only and second-only records](figures/indus_all_signs.png)
 
 ## Does the full Kurukh dictionary add connections?
 
@@ -99,7 +99,7 @@ For **istār** star, the Ali–Kobayashi glossary prints `[E]` (English), verifi
 
 ## What this adds, and the IVC implication
 
-The underlying etymologies are existing linguistic evidence. New here are the **IVC-specific 67-by-22 family/sense matrix**, the explicit distinction between one-side inheritance and two-side portability, the complete-glossary/full-Kurukh searches, conservative sound comparison, matched northern controls, and sign graphics. This is an extension of the repository's proposal, not a new decipherment and not a rediscovery claim for established Dravidian cognates.
+The underlying etymologies are existing linguistic evidence. New here are the **IVC-specific 67-by-22 family/sense matrix**, the explicit distinction between one-side inheritance and two-side portability, the complete-glossary/full-Kurukh searches, conservative sound comparison, matched northern controls, and sign graphics. The corrected graphics display all 22 varieties by sourced historical groups and include every proposed English meaning; they do not change the underlying lexical judgments. This is an extension of the repository's proposal, not a new decipherment and not a rediscovery claim for established Dravidian cognates.
 
 A replicated concentration of **specific northern innovations** could support a northern relationship if the relevant Indus meanings or sounds were established independently, and competing sources and coverage were controlled. Shared old vocabulary alone does not identify a subgroup. Brahui and Kurukh–Malto should also be examined separately: their common grouping as “North Dravidian” is not an uncontested phylogenetic premise. See [Kobayashi 2020](https://gengo.l.u-tokyo.ac.jp/masatok/JAOS_140_2_Kobayashi.pdf).
 

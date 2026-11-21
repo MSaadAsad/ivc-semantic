@@ -2,6 +2,8 @@
 
 This is a targeted follow-up to the vocabulary portability analysis, not an exhaustive dating of every root or meaning. The comparison established modern dictionary attestations and existing etymological groupings. It did not establish that each proposed sound, specialized sense and rebus pairing existed together during the Mature Harappan period, approximately 2600–1900 BCE.
 
+**Graphic correction:** the old Tamil/Malayalam versus Kannada/Telugu Venn display has been withdrawn. The [corrected subgroup chart and explanation](diagram_correction.md) place Kannada in South I and Telugu in South II and show all 22 varieties with plain-English semantic labels. The lexical matrix is unchanged; old pooled-region statements below describe the prior loan correction, not a current endorsement of those display sets.
+
 ## Chronological flags in the actual proposed readings
 
 | Sign / proposal | Directly checked evidence | Consequence |
@@ -30,7 +32,7 @@ All northern headline counts are unchanged. The earlier modern-portability compa
 
 We did **not infer a phylogenetic tree from the Indus signs**. The matrix locates proposed readings within pre-existing dictionary families. Shared vocabulary can reflect ancestral retention, later loss, contact, or incomplete documentation. Shared innovations and regular sound correspondences are more discriminating for subgrouping than raw overlap.
 
-The horn family's Tamil–Brahui–Kurukh–Malto distribution therefore does not establish a special Tamil–northern branch. It could be an older retention surviving in separated languages. Likewise, the Venn display pools geographical comparison groups, not evolutionary clades.
+The horn family's Tamil–Brahui–Kurukh–Malto distribution therefore does not establish a special Tamil–northern branch. It could be an older retention surviving in separated languages. The corrected display follows conventional historical groups and shows Kurukh–Malto and Brahui separately; it infers no new tree from these word matches.
 
 Kurukh–Malto is a recognized close relationship; grouping it with Brahui into a single North Dravidian clade has been debated. [Kobayashi 2020](https://gengo.l.u-tokyo.ac.jp/masatok/JAOS_140_2_Kobayashi.pdf), pp. 467–468, discusses the distinction and proposed sound changes. Our controlled root inventory finds no overall northern excess, and it supplies no new shared innovation resolving that debate.
 

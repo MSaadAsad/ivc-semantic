@@ -1,0 +1,32 @@
+{
+  "matrix_sha256": "a1303637d398551ce2682e721394aa6829207c9a0d2989852076d2ad899f6f4b",
+  "classification_sha256": "b66d83a844d49d9b9d8b8f1fced7d7fbbf9e8797023cef0fc55873dea84969ad",
+  "font_sha256": "154ea6a5bd0f6e55f60b021466cd8bd76cf0258ccc3507af97f02aca103dd132",
+  "languages": [
+    "Tamil",
+    "Malayalam",
+    "Kannada",
+    "Tulu",
+    "Kota",
+    "Toda",
+    "Kodagu",
+    "Telugu",
+    "Gondi",
+    "Konda",
+    "Pengo",
+    "Manda",
+    "Kui",
+    "Kuwi",
+    "Kolami",
+    "Naikri",
+    "Naiki",
+    "Parji",
+    "Gadaba",
+    "Kurukh",
+    "Malto",
+    "Brahui"
+  ],
+  "primary_connections": 48,
+  "all_claims": 67,
+  "old_display_withdrawn": true
+}

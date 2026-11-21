@@ -1,0 +1,22 @@
+{
+  "status": "Conventional historical subgroup labels for displaying an existing dictionary matrix; no tree inferred from Indus signs.",
+  "sources": [
+    {"title": "Krishnamurti 2003, The Dravidian Languages", "url": "https://assets.cambridge.org/97805217/71115/sample/9780521771115ws.pdf", "printed_pages": "19–20", "pdf_pages": "29–30", "role": "Conventional South I, South II, Central and North classifications; Naiki and Naikri are Central."},
+    {"title": "Kobayashi 2020, Viewing Proto-Dravidian from the Northeast", "url": "https://gengo.l.u-tokyo.ac.jp/masatok/JAOS_140_2_Kobayashi.pdf", "printed_pages": "467–468", "role": "Kurukh–Malto is close; a common North Dravidian subgroup with Brahui is disputed. Display them separately."},
+    {"title": "Kolipakam et al. 2018, A Bayesian phylogenetic study of the Dravidian language family", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5882685/", "role": "Dictionary documentation and meaning changes can bias historical comparisons; DEDR favors the major literary languages."},
+    {"title": "DEDR front matter", "url": "https://dsal.uchicago.edu/dictionaries/burrow/frontmatter/frontmatter.html", "role": "Naikri and Naiki source conventions; not names for unrelated Gondi varieties in this dataset."}
+  ],
+  "groups": [
+    {"id": "south_i", "label": "South Dravidian I", "column_label": "South I", "languages": ["Tamil", "Malayalam", "Kannada", "Tulu", "Kota", "Toda", "Kodagu"]},
+    {"id": "south_ii", "label": "South-Central Dravidian / South II", "column_label": "South II", "languages": ["Telugu", "Gondi", "Konda", "Pengo", "Manda", "Kui", "Kuwi"]},
+    {"id": "central", "label": "Central Dravidian", "column_label": "Central", "languages": ["Kolami", "Naikri", "Naiki", "Parji", "Gadaba"]},
+    {"id": "kurukh_malto", "label": "Kurukh–Malto", "column_label": "Kurukh–Malto", "languages": ["Kurukh", "Malto"], "conventional_northern": true},
+    {"id": "brahui", "label": "Brahui", "column_label": "Brahui", "languages": ["Brahui"], "conventional_northern": true}
+  ],
+  "notes": [
+    "The two final display groups are conventionally grouped as North Dravidian; their common ancestry as a distinct subgroup is not assumed here.",
+    "Kuwi is the source dataset's spelling for Kuvi. Kodagu is also called Kodava. Only the 22 studied varieties are listed, not every language in each subgroup.",
+    "Naiki and Naikri remain separate source varieties, not independent branches. Gadaba includes the Dravidian source dialects collapsed by the existing analysis; this is not Gutob, the Austroasiatic language also called Gadaba.",
+    "A group receives a both-meaning or same-form credit only when one individual language supplies that whole connection. Meanings are not combined across languages."
+  ]
+}

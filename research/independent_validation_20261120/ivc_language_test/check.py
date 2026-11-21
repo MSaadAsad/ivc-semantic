@@ -36,12 +36,42 @@ def main():
     controls=json.loads((BASE/'results/northern_controls.json').read_text())
     assert controls['unique_fixed_etyma']==107 and controls['draws']==4999
     assert all(e['holm_p']==1 for e in controls['endpoints'])
+    classification=json.loads((BASE/'classification.json').read_text())
+    groups=classification['groups'];displayed=[l for g in groups for l in g['languages']]
+    assert len(displayed)==len(set(displayed))==22 and set(displayed)==set(LANGS)
+    group_of={l:g['id'] for g in groups for l in g['languages']}
+    assert group_of['Tamil']==group_of['Malayalam']==group_of['Kannada']=='south_i'
+    assert group_of['Telugu']==group_of['Gondi']==group_of['Kui']==group_of['Kuwi']=='south_ii'
+    assert group_of['Kolami']==group_of['Parji']==group_of['Naiki']==group_of['Naikri']=='central'
+    assert group_of['Kurukh']==group_of['Malto']=='kurukh_malto' and group_of['Brahui']=='brahui'
     counts={}
-    for field,n in [('target_meaning',67),('both_meanings',48)]:
-        bins=list(csv.DictReader((BASE/'results/venn_regions.csv').open()))
+    for field,n in [('target_meaning',67),('both_meanings',48),('strict_complete',48)]:
+        bins=list(csv.DictReader((BASE/'results/branch_overlap_regions.csv').open()))
+        assert sum(r['measure']==field for r in bins)==32
         assert sum(int(r['count']) for r in bins if r['measure']==field)==n
         counts[field]=n
+    grouped=list(csv.DictReader((BASE/'results/branch_by_claim.csv').open()))
+    assert len(grouped)==67*5
+    for r in grouped:
+        ls=next(g['languages'] for g in groups if g['id']==r['group'])
+        for field in ['target_meaning','both_meanings','strict_complete','one_edit_complete']:
+            yes=[l for l in ls if ix[r['claim'],l][field]=='True']
+            assert (r[field]=='True')==bool(yes)
+            assert r[field+'_languages']=='; '.join(yes)
+    semantics=list(csv.DictReader((BASE/'results/semantics_catalogue.csv').open()))
+    assert len(semantics)==67
+    for r in semantics:
+        c=next(c for c in claims if c['sign']==r['sign'])
+        assert r['proposed_picture_or_first_meaning']==' / '.join(c['a'])
+        if c['kind'] in ('bridge','polysemy'):assert r['proposed_intended_meaning']==' / '.join(c['b'])
+    meta=json.loads((BASE/'results/graphic_revision.json').read_text())
+    assert meta['matrix_sha256']==hashlib.sha256((BASE/'results/language_by_claim.csv').read_bytes()).hexdigest()
+    # The correction changes presentation/aggregation, not any source lexical judgments.
+    assert meta['matrix_sha256']=='a1303637d398551ce2682e721394aa6829207c9a0d2989852076d2ad899f6f4b'
+    svg=(BASE/'figures/indus_language_overlap.svg').read_text()
+    assert all(c['title'] in svg for c in claims if c['kind'] in ('bridge','polysemy'))
+    assert all(l in (BASE/'figures/indus_all_signs.svg').read_text() for l in LANGS)
     assert all((BASE/'figures'/name).stat().st_size>10000 for name in ['indus_language_overlap.png','indus_language_overlap.svg','indus_all_signs.png','indus_all_signs.svg'])
-    print('PASS: source freeze; Unicode and sense exclusions; 1,474 cells; northern witnesses; all 163 scope rows; controls; Venn partitions; graphics.')
+    print('PASS: source freeze; unchanged 1,474 lexical cells; historical subgroup assignments; within-language aggregation; all English semantics; all 22 displayed varieties; 163-row scope; controls; corrected set partitions and graphics.')
 
 if __name__=='__main__':main()
