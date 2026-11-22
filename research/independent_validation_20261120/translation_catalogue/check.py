@@ -18,11 +18,14 @@ for r in source:
     rec=lookup[(r['catalogue'],r['id'])]
     assert rec['sign_sequence']==r['signs']
     assert rec['city']==r['site']
+    assert r['site'] in rec['found_at'] or rec['city'] in {'','Unknown'}
     assert rec['reading_validated']=='False'
     assert int(rec['assigned_sign_tokens'])+len(rec['unassigned_signs'].split('; '))*(bool(rec['unassigned_signs']))==int(rec['total_sign_tokens'])
     if r['catalogue']=='Lipi':
         m=meta[r['id']]
         for a,b in [('excavation_area','area-section'),('block_or_house','block-house'),('room_or_grid','room-grid'),('depth_recorded','depth'),('period_recorded','period'),('chronology_recorded','time')]:assert rec[a]==m[b]
+        for field in ['block-house','room-grid']:
+            if m[field] not in {'','-','--','- -'}:assert m[field] in rec['found_at']
     else:
         m=mah[int(r['id'])]
         assert rec['excavation_area']==m['locus'] and rec['depth_recorded']==m['level']

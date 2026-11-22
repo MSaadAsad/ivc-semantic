@@ -66,6 +66,8 @@ This is retrospective work, not preregistered or independently blinded. Sources 
 
 ## Results and reproduction
 
+The searchable `results/word_pairs.html` now includes actual findspot examples for every sign with recorded occurrences: reference, full recorded location, strata, material and existing proposed translation. Each entry links to every occurrence in the complete catalogue. The examples are chosen for metadata completeness, not as evidence that the proposed meaning is correct.
+
 - `pair_summary.csv`: all 178 recipes and source-qualified outcomes.
 - `all_pair_level_results.csv`: every source/level cell, including zeros and missing sides.
 - `all_pair_reconstruction_candidates.csv`, `equal_form_witnesses.csv`: every matching reconstructed row and equality witness.

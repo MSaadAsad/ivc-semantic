@@ -1,0 +1,7 @@
+family,events,targets,words,tests,conditioning_groups,movable_events,primary_global_significant,also_formula_weighted_significant,permutations,seconds
+material,3700,7,81,473,209,3616,1,0,49999,14.46
+city,4449,8,81,646,142,4403,0,0,49999,13.576
+excavation_area,3274,30,81,2292,232,3174,0,0,49999,20.311
+room_or_building,2175,41,81,2763,461,1928,0,0,49999,21.624
+recorded_layer,2366,24,81,1522,638,1990,0,0,49999,20.53
+depth,1212,1,81,77,148,1142,1,0,49999,5.397

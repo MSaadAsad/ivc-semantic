@@ -1,0 +1,92 @@
+{
+  "event_unit": "Existing Lipi physical-object / known-copy-batch representatives; all faces of one object combined.",
+  "n_events": 4476,
+  "n_words": 81,
+  "total_tests": 7773,
+  "permutations": 49999,
+  "axes": [
+    {
+      "family": "material",
+      "events": 3700,
+      "targets": 7,
+      "words": 81,
+      "tests": 473,
+      "conditioning_groups": 209,
+      "movable_events": 3616,
+      "primary_global_significant": 1,
+      "also_formula_weighted_significant": 0,
+      "permutations": 49999,
+      "seconds": 14.46
+    },
+    {
+      "family": "city",
+      "events": 4449,
+      "targets": 8,
+      "words": 81,
+      "tests": 646,
+      "conditioning_groups": 142,
+      "movable_events": 4403,
+      "primary_global_significant": 0,
+      "also_formula_weighted_significant": 0,
+      "permutations": 49999,
+      "seconds": 13.576
+    },
+    {
+      "family": "excavation_area",
+      "events": 3274,
+      "targets": 30,
+      "words": 81,
+      "tests": 2292,
+      "conditioning_groups": 232,
+      "movable_events": 3174,
+      "primary_global_significant": 0,
+      "also_formula_weighted_significant": 0,
+      "permutations": 49999,
+      "seconds": 20.311
+    },
+    {
+      "family": "room_or_building",
+      "events": 2175,
+      "targets": 41,
+      "words": 81,
+      "tests": 2763,
+      "conditioning_groups": 461,
+      "movable_events": 1928,
+      "primary_global_significant": 0,
+      "also_formula_weighted_significant": 0,
+      "permutations": 49999,
+      "seconds": 21.624
+    },
+    {
+      "family": "recorded_layer",
+      "events": 2366,
+      "targets": 24,
+      "words": 81,
+      "tests": 1522,
+      "conditioning_groups": 638,
+      "movable_events": 1990,
+      "primary_global_significant": 0,
+      "also_formula_weighted_significant": 0,
+      "permutations": 49999,
+      "seconds": 20.53
+    },
+    {
+      "family": "depth",
+      "events": 1212,
+      "targets": 1,
+      "words": 81,
+      "tests": 77,
+      "conditioning_groups": 148,
+      "movable_events": 1142,
+      "primary_global_significant": 1,
+      "also_formula_weighted_significant": 0,
+      "permutations": 49999,
+      "seconds": 5.397
+    }
+  ],
+  "total_primary_significant": 2,
+  "both_primary_and_formula_weighted_significant": 0,
+  "source_metadata_sha256": "b3e2a94efdf70eaa893bbbbd35fd057b53f766c82823a3efb8ee37f9365311fe",
+  "seconds": 96.347,
+  "interpretation": "Retrospective proposed-word/sign associations; same corpus used in earlier work. No independent semantic labels or translated words established."
+}

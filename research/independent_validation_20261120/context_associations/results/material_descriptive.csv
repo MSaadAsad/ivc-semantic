@@ -1,0 +1,568 @@
+family,word_id,proposed_meaning,proposed_root,signs,numeral,target,eligible_events,word_events,other_events,target_events,observed_word_target_events,other_target_events,target_share_word_events,target_share_other_events,expected_word_target_events,adjustable,adjustment_status
+material,060_ul,in/of,*-uḷ / *-iṉ (loc.-obl.),060,False,Clay,3700,178,3522,785,10,775,0.056179775280898875,0.22004542873367405,14.41975412603082,True,Tested with recorded context controls
+material,060_ul,in/of,*-uḷ / *-iṉ (loc.-obl.),060,False,Copper,3700,178,3522,177,0,177,0.0,0.05025553662691652,0.25705290969167527,True,Tested with recorded context controls
+material,060_ul,in/of,*-uḷ / *-iṉ (loc.-obl.),060,False,Faience,3700,178,3522,356,11,345,0.06179775280898876,0.09795570698466781,12.704950882083134,True,Tested with recorded context controls
+material,060_ul,in/of,*-uḷ / *-iṉ (loc.-obl.),060,False,Ivory,3700,178,3522,36,1,35,0.0056179775280898875,0.009937535491198184,0.6351351351351351,True,Tested with recorded context controls
+material,060_ul,in/of,*-uḷ / *-iṉ (loc.-obl.),060,False,Steatite,3700,178,3522,2170,154,2016,0.8651685393258427,0.5724020442930153,146.472801856102,True,Tested with recorded context controls
+material,060_ul,in/of,*-uḷ / *-iṉ (loc.-obl.),060,False,Stoneware,3700,178,3522,38,0,38,0.0,0.010789324247586598,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,060_ul,in/of,*-uḷ / *-iṉ (loc.-obl.),060,False,Terracotta,3700,178,3522,84,1,83,0.0056179775280898875,0.023566155593412835,1.346817214858452,True,Tested with recorded context controls
+material,090_al,manager,*āḷ,090; 097; 219,False,Clay,3700,155,3545,785,38,747,0.24516129032258063,0.21071932299012694,32.81096928965924,True,Tested with recorded context controls
+material,090_al,manager,*āḷ,090; 097; 219,False,Copper,3700,155,3545,177,2,175,0.012903225806451613,0.04936530324400564,2.339295302265476,True,Tested with recorded context controls
+material,090_al,manager,*āḷ,090; 097; 219,False,Faience,3700,155,3545,356,18,338,0.11612903225806452,0.09534555712270804,17.776385825761174,True,Tested with recorded context controls
+material,090_al,manager,*āḷ,090; 097; 219,False,Ivory,3700,155,3545,36,2,34,0.012903225806451613,0.009590973201692525,1.9977477477477477,True,Tested with recorded context controls
+material,090_al,manager,*āḷ,090; 097; 219,False,Steatite,3700,155,3545,2170,93,2077,0.6,0.5858956276445698,96.53628198657469,True,Tested with recorded context controls
+material,090_al,manager,*āḷ,090; 097; 219,False,Stoneware,3700,155,3545,38,1,37,0.0064516129032258064,0.010437235543018336,1.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,090_al,manager,*āḷ,090; 097; 219,False,Terracotta,3700,155,3545,84,0,84,0.0,0.02369534555712271,0.6187094310805651,True,Tested with recorded context controls
+material,091_irual,two-managers,*iru-āḷ / *iruvar (2x 090),091,False,Clay,3700,20,3680,785,1,784,0.05,0.21304347826086956,0.46529369857061065,True,Tested with recorded context controls
+material,091_irual,two-managers,*iru-āḷ / *iruvar (2x 090),091,False,Copper,3700,20,3680,177,0,177,0.0,0.04809782608695652,0.008830022075055188,True,Tested with recorded context controls
+material,091_irual,two-managers,*iru-āḷ / *iruvar (2x 090),091,False,Faience,3700,20,3680,356,4,352,0.2,0.09565217391304348,1.649051647057833,True,Tested with recorded context controls
+material,091_irual,two-managers,*iru-āḷ / *iruvar (2x 090),091,False,Ivory,3700,20,3680,36,0,36,0.0,0.009782608695652175,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,091_irual,two-managers,*iru-āḷ / *iruvar (2x 090),091,False,Steatite,3700,20,3680,2170,8,2162,0.4,0.5875,10.611294417571814,True,Tested with recorded context controls
+material,091_irual,two-managers,*iru-āḷ / *iruvar (2x 090),091,False,Stoneware,3700,20,3680,38,0,38,0.0,0.010326086956521738,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,091_irual,two-managers,*iru-āḷ / *iruvar (2x 090),091,False,Terracotta,3700,20,3680,84,7,77,0.35,0.02092391304347826,7.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,100_talai,chief,*talai,100; 101; 103,False,Clay,3700,123,3577,785,17,768,0.13821138211382114,0.21470506010623427,16.058235821242974,True,Tested with recorded context controls
+material,100_talai,chief,*talai,100; 101; 103,False,Copper,3700,123,3577,177,8,169,0.06504065040650407,0.047246295778585405,8.225832808951278,True,Tested with recorded context controls
+material,100_talai,chief,*talai,100; 101; 103,False,Faience,3700,123,3577,356,21,335,0.17073170731707318,0.09365389991613084,14.056629695428175,True,Tested with recorded context controls
+material,100_talai,chief,*talai,100; 101; 103,False,Ivory,3700,123,3577,36,0,36,0.0,0.010064299692479732,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,100_talai,chief,*talai,100; 101; 103,False,Steatite,3700,123,3577,2170,76,2094,0.6178861788617886,0.5854067654459044,82.7335922017841,True,Tested with recorded context controls
+material,100_talai,chief,*talai,100; 101; 103,False,Stoneware,3700,123,3577,38,1,37,0.008130081300813009,0.01034386357282639,1.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,100_talai,chief,*talai,100; 101; 103,False,Terracotta,3700,123,3577,84,0,84,0.0,0.023483365949119372,0.4320510722572578,True,Tested with recorded context controls
+material,125_vilal,merchant,"*vil-āḷ [090 *āḷ + 892 *vil bow/sell, 2-br PhonEx, P=0.049]",125,False,Clay,3700,47,3653,785,1,784,0.02127659574468085,0.2146181220914317,1.3292007890509243,True,Tested with recorded context controls
+material,125_vilal,merchant,"*vil-āḷ [090 *āḷ + 892 *vil bow/sell, 2-br PhonEx, P=0.049]",125,False,Copper,3700,47,3653,177,1,176,0.02127659574468085,0.04817957842868875,1.0216563903478724,True,Tested with recorded context controls
+material,125_vilal,merchant,"*vil-āḷ [090 *āḷ + 892 *vil bow/sell, 2-br PhonEx, P=0.049]",125,False,Faience,3700,47,3653,356,1,355,0.02127659574468085,0.09718039967150287,1.342476040794848,True,Tested with recorded context controls
+material,125_vilal,merchant,"*vil-āḷ [090 *āḷ + 892 *vil bow/sell, 2-br PhonEx, P=0.049]",125,False,Ivory,3700,47,3653,36,0,36,0.0,0.009854913769504517,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,125_vilal,merchant,"*vil-āḷ [090 *āḷ + 892 *vil bow/sell, 2-br PhonEx, P=0.049]",125,False,Steatite,3700,47,3653,2170,43,2127,0.9148936170212766,0.5822611552148919,42.06632940680215,True,Tested with recorded context controls
+material,125_vilal,merchant,"*vil-āḷ [090 *āḷ + 892 *vil bow/sell, 2-br PhonEx, P=0.049]",125,False,Stoneware,3700,47,3653,38,0,38,0.0,0.010402408978921434,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,125_vilal,merchant,"*vil-āḷ [090 *āḷ + 892 *vil bow/sell, 2-br PhonEx, P=0.049]",125,False,Terracotta,3700,47,3653,84,1,83,0.02127659574468085,0.02272105119080208,1.0846560846560847,True,Tested with recorded context controls
+material,140_amma,matron/lady,*ammā,140,False,Clay,3700,95,3605,785,12,773,0.12631578947368421,0.2144244105409154,10.394323895334852,True,Tested with recorded context controls
+material,140_amma,matron/lady,*ammā,140,False,Copper,3700,95,3605,177,0,177,0.0,0.049098474341192785,0.1299042166146881,True,Tested with recorded context controls
+material,140_amma,matron/lady,*ammā,140,False,Faience,3700,95,3605,356,6,350,0.06315789473684211,0.0970873786407767,5.356077450209273,True,Tested with recorded context controls
+material,140_amma,matron/lady,*ammā,140,False,Ivory,3700,95,3605,36,1,35,0.010526315789473684,0.009708737864077669,0.9436936936936937,True,Tested with recorded context controls
+material,140_amma,matron/lady,*ammā,140,False,Steatite,3700,95,3605,2170,73,2097,0.7684210526315789,0.5816920943134536,75.31620843451377,True,Tested with recorded context controls
+material,140_amma,matron/lady,*ammā,140,False,Stoneware,3700,95,3605,38,2,36,0.021052631578947368,0.009986130374479889,1.9411764705882353,True,Tested with recorded context controls
+material,140_amma,matron/lady,*ammā,140,False,Terracotta,3700,95,3605,84,0,84,0.0,0.02330097087378641,0.2970817651230022,True,Tested with recorded context controls
+material,154_ka,guard/porter,"154 *kā (M15 yoke-load/guard allograph, 5 swaps, P=0.0092)",151; 153; 154; 155; 156; 157; 158,False,Clay,3700,226,3474,785,36,749,0.1592920353982301,0.21560161197466898,31.764254704060026,True,Tested with recorded context controls
+material,154_ka,guard/porter,"154 *kā (M15 yoke-load/guard allograph, 5 swaps, P=0.0092)",151; 153; 154; 155; 156; 157; 158,False,Copper,3700,226,3474,177,1,176,0.004424778761061947,0.050662061024755324,2.0974940647574565,True,Tested with recorded context controls
+material,154_ka,guard/porter,"154 *kā (M15 yoke-load/guard allograph, 5 swaps, P=0.0092)",151; 153; 154; 155; 156; 157; 158,False,Faience,3700,226,3474,356,25,331,0.11061946902654868,0.09527921704087507,28.293248982569928,True,Tested with recorded context controls
+material,154_ka,guard/porter,"154 *kā (M15 yoke-load/guard allograph, 5 swaps, P=0.0092)",151; 153; 154; 155; 156; 157; 158,False,Ivory,3700,226,3474,36,2,34,0.008849557522123894,0.00978698906160046,1.9436936936936937,True,Tested with recorded context controls
+material,154_ka,guard/porter,"154 *kā (M15 yoke-load/guard allograph, 5 swaps, P=0.0092)",151; 153; 154; 155; 156; 157; 158,False,Steatite,3700,226,3474,2170,160,2010,0.7079646017699115,0.5785837651122625,157.2670777858384,True,Tested with recorded context controls
+material,154_ka,guard/porter,"154 *kā (M15 yoke-load/guard allograph, 5 swaps, P=0.0092)",151; 153; 154; 155; 156; 157; 158,False,Stoneware,3700,226,3474,38,0,38,0.0,0.010938399539435808,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,154_ka,guard/porter,"154 *kā (M15 yoke-load/guard allograph, 5 swaps, P=0.0092)",151; 153; 154; 155; 156; 157; 158,False,Terracotta,3700,226,3474,84,2,82,0.008849557522123894,0.02360391479562464,2.221884034255168,True,Tested with recorded context controls
+material,161_olika,roofed-guard,*oḷi-kā / *[ROOF]-kā,159; 160; 161,False,Clay,3700,17,3683,785,1,784,0.058823529411764705,0.21286994298126527,1.0268007926173568,True,Tested with recorded context controls
+material,161_olika,roofed-guard,*oḷi-kā / *[ROOF]-kā,159; 160; 161,False,Copper,3700,17,3683,177,0,177,0.0,0.04805864784143361,0.008620689655172414,True,Tested with recorded context controls
+material,161_olika,roofed-guard,*oḷi-kā / *[ROOF]-kā,159; 160; 161,False,Faience,3700,17,3683,356,0,356,0.0,0.09666033125169698,0.2027313167166992,True,Tested with recorded context controls
+material,161_olika,roofed-guard,*oḷi-kā / *[ROOF]-kā,159; 160; 161,False,Ivory,3700,17,3683,36,0,36,0.0,0.00977464023893565,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,161_olika,roofed-guard,*oḷi-kā / *[ROOF]-kā,159; 160; 161,False,Steatite,3700,17,3683,2170,16,2154,0.9411764705882353,0.5848493076296497,15.660761278251991,True,Tested with recorded context controls
+material,161_olika,roofed-guard,*oḷi-kā / *[ROOF]-kā,159; 160; 161,False,Stoneware,3700,17,3683,38,0,38,0.0,0.010317675807765408,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,161_olika,roofed-guard,*oḷi-kā / *[ROOF]-kā,159; 160; 161,False,Terracotta,3700,17,3683,84,0,84,0.0,0.02280749389084985,0.026455026455026454,True,Tested with recorded context controls
+material,176_irai,tax/tribute,*iṟai/*iru,176; 177; 178,False,Clay,3700,166,3534,785,18,767,0.10843373493975904,0.21703452178834182,18.982740787790668,True,Tested with recorded context controls
+material,176_irai,tax/tribute,*iṟai/*iru,176; 177; 178,False,Copper,3700,166,3534,177,18,159,0.10843373493975904,0.04499151103565365,13.446320429891268,True,Tested with recorded context controls
+material,176_irai,tax/tribute,*iṟai/*iru,176; 177; 178,False,Faience,3700,166,3534,356,28,328,0.1686746987951807,0.09281267685342388,31.032004012269102,True,Tested with recorded context controls
+material,176_irai,tax/tribute,*iṟai/*iru,176; 177; 178,False,Ivory,3700,166,3534,36,2,34,0.012048192771084338,0.009620826259196379,1.9166666666666665,True,Tested with recorded context controls
+material,176_irai,tax/tribute,*iṟai/*iru,176; 177; 178,False,Steatite,3700,166,3534,2170,97,2073,0.5843373493975904,0.5865874363327674,98.28913426271798,True,Tested with recorded context controls
+material,176_irai,tax/tribute,*iṟai/*iru,176; 177; 178,False,Stoneware,3700,166,3534,38,0,38,0.0,0.010752688172043012,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,176_irai,tax/tribute,*iṟai/*iru,176; 177; 178,False,Terracotta,3700,166,3534,84,2,82,0.012048192771084338,0.02320316921335597,1.6186930671466755,True,Tested with recorded context controls
+material,215_arici,rice,*arici,215; 216,False,Clay,3700,13,3687,785,2,783,0.15384615384615385,0.21236777868185516,1.0423510088225416,True,Tested with recorded context controls
+material,215_arici,rice,*arici,215; 216,False,Copper,3700,13,3687,177,0,177,0.0,0.04800650935720097,0.05862068965517242,True,Tested with recorded context controls
+material,215_arici,rice,*arici,215; 216,False,Faience,3700,13,3687,356,0,356,0.0,0.09655546514781665,0.16041709579552635,True,Tested with recorded context controls
+material,215_arici,rice,*arici,215; 216,False,Ivory,3700,13,3687,36,0,36,0.0,0.009764035801464606,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,215_arici,rice,*arici,215; 216,False,Steatite,3700,13,3687,2170,11,2159,0.8461538461538461,0.585570924871169,10.469896008804616,True,Tested with recorded context controls
+material,215_arici,rice,*arici,215; 216,False,Stoneware,3700,13,3687,38,0,38,0.0,0.010306482234879306,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,215_arici,rice,*arici,215; 216,False,Terracotta,3700,13,3687,84,0,84,0.0,0.022782750203417412,1.1823529411764706,True,Tested with recorded context controls
+material,220_min,star,*mīṉ,220; 222; 226,False,Clay,3700,408,3292,785,68,717,0.16666666666666666,0.2178007290400972,65.53896566286195,True,Tested with recorded context controls
+material,220_min,star,*mīṉ,220; 222; 226,False,Copper,3700,408,3292,177,18,159,0.04411764705882353,0.04829890643985419,18.94095893026285,True,Tested with recorded context controls
+material,220_min,star,*mīṉ,220; 222; 226,False,Faience,3700,408,3292,356,33,323,0.08088235294117647,0.09811664641555286,38.19486727224353,True,Tested with recorded context controls
+material,220_min,star,*mīṉ,220; 222; 226,False,Ivory,3700,408,3292,36,3,33,0.007352941176470588,0.010024301336573511,2.8873873873873874,True,Tested with recorded context controls
+material,220_min,star,*mīṉ,220; 222; 226,False,Steatite,3700,408,3292,2170,284,1886,0.696078431372549,0.5729040097205347,276.5137262738218,True,Tested with recorded context controls
+material,220_min,star,*mīṉ,220; 222; 226,False,Stoneware,3700,408,3292,38,1,37,0.0024509803921568627,0.011239368165249088,0.9411764705882353,True,Tested with recorded context controls
+material,220_min,star,*mīṉ,220; 222; 226,False,Terracotta,3700,408,3292,84,0,84,0.0,0.02551640340218712,2.885063060381435,True,Tested with recorded context controls
+material,231_ulmin,inner-star,*uḷ-mīṉ / *iṟai-mīṉ [220 + 1 internal stroke],231; 232,False,Clay,3700,82,3618,785,6,779,0.07317073170731707,0.21531232725262575,6.1647982178241945,True,Tested with recorded context controls
+material,231_ulmin,inner-star,*uḷ-mīṉ / *iṟai-mīṉ [220 + 1 internal stroke],231; 232,False,Copper,3700,82,3618,177,14,163,0.17073170731707318,0.045052515201768936,14.065243206211463,True,Tested with recorded context controls
+material,231_ulmin,inner-star,*uḷ-mīṉ / *iṟai-mīṉ [220 + 1 internal stroke],231; 232,False,Faience,3700,82,3618,356,2,354,0.024390243902439025,0.0978441127694859,2.8470746823963524,True,Tested with recorded context controls
+material,231_ulmin,inner-star,*uḷ-mīṉ / *iṟai-mīṉ [220 + 1 internal stroke],231; 232,False,Ivory,3700,82,3618,36,0,36,0.0,0.009950248756218905,0.05405405405405406,True,Tested with recorded context controls
+material,231_ulmin,inner-star,*uḷ-mīṉ / *iṟai-mīṉ [220 + 1 internal stroke],231; 232,False,Steatite,3700,82,3618,2170,59,2111,0.7195121951219512,0.5834715312327252,58.01506044366846,True,Tested with recorded context controls
+material,231_ulmin,inner-star,*uḷ-mīṉ / *iṟai-mīṉ [220 + 1 internal stroke],231; 232,False,Stoneware,3700,82,3618,38,0,38,0.0,0.010503040353786623,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,231_ulmin,inner-star,*uḷ-mīṉ / *iṟai-mīṉ [220 + 1 internal stroke],231; 232,False,Terracotta,3700,82,3618,84,0,84,0.0,0.02321724709784411,0.4005291005291005,True,Tested with recorded context controls
+material,233_vetimin,dawn-star,*veṭi-mīṉ,233; 234,False,Clay,3700,170,3530,785,12,773,0.07058823529411765,0.21898016997167138,11.321736719907127,True,Tested with recorded context controls
+material,233_vetimin,dawn-star,*veṭi-mīṉ,233; 234,False,Copper,3700,170,3530,177,19,158,0.11176470588235295,0.04475920679886686,19.155444918695835,True,Tested with recorded context controls
+material,233_vetimin,dawn-star,*veṭi-mīṉ,233; 234,False,Faience,3700,170,3530,356,14,342,0.08235294117647059,0.09688385269121813,10.42243824590726,True,Tested with recorded context controls
+material,233_vetimin,dawn-star,*veṭi-mīṉ,233; 234,False,Ivory,3700,170,3530,36,0,36,0.0,0.010198300283286119,0.08108108108108109,True,Tested with recorded context controls
+material,233_vetimin,dawn-star,*veṭi-mīṉ,233; 234,False,Steatite,3700,170,3530,2170,124,2046,0.7294117647058823,0.5796033994334278,127.23133236265203,True,Tested with recorded context controls
+material,233_vetimin,dawn-star,*veṭi-mīṉ,233; 234,False,Stoneware,3700,170,3530,38,0,38,0.0,0.01076487252124646,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,233_vetimin,dawn-star,*veṭi-mīṉ,233; 234,False,Terracotta,3700,170,3530,84,1,83,0.0058823529411764705,0.02351274787535411,0.2658321060382916,True,Tested with recorded context controls
+material,235_olimin,bright-star,*oḷi-mīṉ,235; 236,False,Clay,3700,214,3486,785,23,762,0.10747663551401869,0.21858864027538727,24.199052981822287,True,Tested with recorded context controls
+material,235_olimin,bright-star,*oḷi-mīṉ,235; 236,False,Copper,3700,214,3486,177,16,161,0.07476635514018691,0.04618473895582329,16.13120003165911,True,Tested with recorded context controls
+material,235_olimin,bright-star,*oḷi-mīṉ,235; 236,False,Faience,3700,214,3486,356,18,338,0.08411214953271028,0.09695926563396443,15.985059588810326,True,Tested with recorded context controls
+material,235_olimin,bright-star,*oḷi-mīṉ,235; 236,False,Ivory,3700,214,3486,36,0,36,0.0,0.010327022375215147,0.10810810810810811,True,Tested with recorded context controls
+material,235_olimin,bright-star,*oḷi-mīṉ,235; 236,False,Steatite,3700,214,3486,2170,154,2016,0.719626168224299,0.5783132530120482,155.60140995398285,True,Tested with recorded context controls
+material,235_olimin,bright-star,*oḷi-mīṉ,235; 236,False,Stoneware,3700,214,3486,38,0,38,0.0,0.010900745840504877,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,235_olimin,bright-star,*oḷi-mīṉ,235; 236,False,Terracotta,3700,214,3486,84,1,83,0.004672897196261682,0.023809523809523808,0.39522173130420557,True,Tested with recorded context controls
+material,240_katirmin,rayed-star,*katir-mīṉ / *cāy-mīṉ,240; 241; 242,False,Clay,3700,263,3437,785,26,759,0.09885931558935361,0.22083212103578703,26.60407891653848,True,Tested with recorded context controls
+material,240_katirmin,rayed-star,*katir-mīṉ / *cāy-mīṉ,240; 241; 242,False,Copper,3700,263,3437,177,8,169,0.030418250950570342,0.049170788478324116,8.264988560007076,True,Tested with recorded context controls
+material,240_katirmin,rayed-star,*katir-mīṉ / *cāy-mīṉ,240; 241; 242,False,Faience,3700,263,3437,356,29,327,0.11026615969581749,0.09514111143439045,29.68326740865221,True,Tested with recorded context controls
+material,240_katirmin,rayed-star,*katir-mīṉ / *cāy-mīṉ,240; 241; 242,False,Ivory,3700,263,3437,36,3,33,0.011406844106463879,0.009601396566773349,3.7477477477477477,True,Tested with recorded context controls
+material,240_katirmin,rayed-star,*katir-mīṉ / *cāy-mīṉ,240; 241; 242,False,Steatite,3700,263,3437,2170,193,1977,0.7338403041825095,0.5752109397730579,191.61295475215212,True,Tested with recorded context controls
+material,240_katirmin,rayed-star,*katir-mīṉ / *cāy-mīṉ,240; 241; 242,False,Stoneware,3700,263,3437,38,0,38,0.0,0.011056153622345069,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,240_katirmin,rayed-star,*katir-mīṉ / *cāy-mīṉ,240; 241; 242,False,Terracotta,3700,263,3437,84,0,84,0.0,0.024439918533604887,1.0376716639603236,True,Tested with recorded context controls
+material,255_mutal,principal/first,"*mutal [crocodile->first/principal, DEDR 4952/4950, 2-br PhonSt]",255,False,Clay,3700,110,3590,785,13,772,0.11818181818181818,0.215041782729805,12.97804129183949,True,Tested with recorded context controls
+material,255_mutal,principal/first,"*mutal [crocodile->first/principal, DEDR 4952/4950, 2-br PhonSt]",255,False,Copper,3700,110,3590,177,9,168,0.08181818181818182,0.0467966573816156,9.793803216650899,True,Tested with recorded context controls
+material,255_mutal,principal/first,"*mutal [crocodile->first/principal, DEDR 4952/4950, 2-br PhonSt]",255,False,Faience,3700,110,3590,356,13,343,0.11818181818181818,0.09554317548746519,18.436962634884367,True,Tested with recorded context controls
+material,255_mutal,principal/first,"*mutal [crocodile->first/principal, DEDR 4952/4950, 2-br PhonSt]",255,False,Ivory,3700,110,3590,36,0,36,0.0,0.010027855153203343,0.05405405405405406,True,Tested with recorded context controls
+material,255_mutal,principal/first,"*mutal [crocodile->first/principal, DEDR 4952/4950, 2-br PhonSt]",255,False,Steatite,3700,110,3590,2170,74,2096,0.6727272727272727,0.5838440111420613,67.8608081125497,True,Tested with recorded context controls
+material,255_mutal,principal/first,"*mutal [crocodile->first/principal, DEDR 4952/4950, 2-br PhonSt]",255,False,Stoneware,3700,110,3590,38,0,38,0.0,0.010584958217270195,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,255_mutal,principal/first,"*mutal [crocodile->first/principal, DEDR 4952/4950, 2-br PhonSt]",255,False,Terracotta,3700,110,3590,84,1,83,0.00909090909090909,0.023119777158774373,0.3841269841269841,True,Tested with recorded context controls
+material,320_pati,ration/paṭi,*paṭi,320; 322; 323; 324; 325,False,Clay,3700,32,3668,785,4,781,0.125,0.21292257360959652,6.441256474525877,True,Tested with recorded context controls
+material,320_pati,ration/paṭi,*paṭi,320; 322; 323; 324; 325,False,Copper,3700,32,3668,177,0,177,0.0,0.04825517993456925,0.11649321980447808,True,Tested with recorded context controls
+material,320_pati,ration/paṭi,*paṭi,320; 322; 323; 324; 325,False,Faience,3700,32,3668,356,3,353,0.09375,0.09623773173391494,3.237094964862318,True,Tested with recorded context controls
+material,320_pati,ration/paṭi,*paṭi,320; 322; 323; 324; 325,False,Ivory,3700,32,3668,36,0,36,0.0,0.009814612868047983,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,320_pati,ration/paṭi,*paṭi,320; 322; 323; 324; 325,False,Steatite,3700,32,3668,2170,25,2145,0.78125,0.5847873500545256,21.732950800093914,True,Tested with recorded context controls
+material,320_pati,ration/paṭi,*paṭi,320; 322; 323; 324; 325,False,Stoneware,3700,32,3668,38,0,38,0.0,0.010359869138495093,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,320_pati,ration/paṭi,*paṭi,320; 322; 323; 324; 325,False,Terracotta,3700,32,3668,84,0,84,0.0,0.022900763358778626,0.1513227513227513,True,Tested with recorded context controls
+material,368_koti,grant/banner,*koṭi ~ *koṭu,368,False,Clay,3700,91,3609,785,5,780,0.054945054945054944,0.21612635078969245,5.579241448011516,True,Tested with recorded context controls
+material,368_koti,grant/banner,*koṭi ~ *koṭu,368,False,Copper,3700,91,3609,177,3,174,0.03296703296703297,0.04821280133000831,3.108993138246392,True,Tested with recorded context controls
+material,368_koti,grant/banner,*koṭi ~ *koṭu,368,False,Faience,3700,91,3609,356,8,348,0.08791208791208792,0.09642560266001662,10.445946041854583,True,Tested with recorded context controls
+material,368_koti,grant/banner,*koṭi ~ *koṭu,368,False,Ivory,3700,91,3609,36,0,36,0.0,0.00997506234413965,0.02702702702702703,True,Tested with recorded context controls
+material,368_koti,grant/banner,*koṭi ~ *koṭu,368,False,Steatite,3700,91,3609,2170,75,2095,0.8241758241758241,0.5804932114159047,71.34486543732189,True,Tested with recorded context controls
+material,368_koti,grant/banner,*koṭi ~ *koṭu,368,False,Stoneware,3700,91,3609,38,0,38,0.0,0.010529232474369632,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,368_koti,grant/banner,*koṭi ~ *koṭu,368,False,Terracotta,3700,91,3609,84,0,84,0.0,0.023275145469659187,0.0656084656084656,True,Tested with recorded context controls
+material,390_tai,weave/cloth,*tai,390; 392; 405; 406; 408; 409,False,Clay,3700,321,3379,785,53,732,0.16510903426791276,0.21663213968629771,51.441273485144116,True,Tested with recorded context controls
+material,390_tai,weave/cloth,*tai,390; 392; 405; 406; 408; 409,False,Copper,3700,321,3379,177,7,170,0.021806853582554516,0.05031074282332051,6.597593307775103,True,Tested with recorded context controls
+material,390_tai,weave/cloth,*tai,390; 392; 405; 406; 408; 409,False,Faience,3700,321,3379,356,25,331,0.0778816199376947,0.09795797573246523,19.25847201009837,True,Tested with recorded context controls
+material,390_tai,weave/cloth,*tai,390; 392; 405; 406; 408; 409,False,Ivory,3700,321,3379,36,3,33,0.009345794392523364,0.00976620301864457,2.6891891891891895,True,Tested with recorded context controls
+material,390_tai,weave/cloth,*tai,390; 392; 405; 406; 408; 409,False,Steatite,3700,321,3379,2170,216,1954,0.6728971962616822,0.5782775969221663,224.90547035305462,True,Tested with recorded context controls
+material,390_tai,weave/cloth,*tai,390; 392; 405; 406; 408; 409,False,Stoneware,3700,321,3379,38,3,35,0.009345794392523364,0.010358094110683634,2.8156862745098037,True,Tested with recorded context controls
+material,390_tai,weave/cloth,*tai,390; 392; 405; 406; 408; 409,False,Terracotta,3700,321,3379,84,10,74,0.03115264797507788,0.021899970405445397,9.112987089275748,True,Tested with recorded context controls
+material,400_cikka,junior,*cikka/*cikkam,400; 402,False,Clay,3700,397,3303,785,55,730,0.1385390428211587,0.22101120193763246,55.459241479608494,True,Tested with recorded context controls
+material,400_cikka,junior,*cikka/*cikkam,400; 402,False,Copper,3700,397,3303,177,0,177,0.0,0.053587647593097185,1.6827123259659758,True,Tested with recorded context controls
+material,400_cikka,junior,*cikka/*cikkam,400; 402,False,Faience,3700,397,3303,356,115,241,0.28967254408060455,0.07296397214653345,114.34688641361791,True,Tested with recorded context controls
+material,400_cikka,junior,*cikka/*cikkam,400; 402,False,Ivory,3700,397,3303,36,11,25,0.027707808564231738,0.007568876778686043,11.25,True,Tested with recorded context controls
+material,400_cikka,junior,*cikka/*cikkam,400; 402,False,Steatite,3700,397,3303,2170,213,1957,0.5365239294710328,0.5924916742355435,208.30736542086572,True,Tested with recorded context controls
+material,400_cikka,junior,*cikka/*cikkam,400; 402,False,Stoneware,3700,397,3303,38,0,38,0.0,0.011504692703602786,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,400_cikka,junior,*cikka/*cikkam,400; 402,False,Terracotta,3700,397,3303,84,2,82,0.005037783375314861,0.02482591583409022,3.365728467790323,True,Tested with recorded context controls
+material,407_koti,new-cloth,*kōṭi,407,False,Clay,3700,94,3606,785,8,777,0.0851063829787234,0.21547420965058237,3.5644728205258596,True,Tested with recorded context controls
+material,407_koti,new-cloth,*kōṭi,407,False,Copper,3700,94,3606,177,50,127,0.5319148936170213,0.03521907931225735,50.02165639034787,True,Tested with recorded context controls
+material,407_koti,new-cloth,*kōṭi,407,False,Faience,3700,94,3606,356,3,353,0.031914893617021274,0.09789240155296727,4.279780244823238,True,Tested with recorded context controls
+material,407_koti,new-cloth,*kōṭi,407,False,Ivory,3700,94,3606,36,0,36,0.0,0.009983361064891847,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,407_koti,new-cloth,*kōṭi,407,False,Steatite,3700,94,3606,2170,33,2137,0.35106382978723405,0.5926234054353855,35.86841380486137,True,Tested with recorded context controls
+material,407_koti,new-cloth,*kōṭi,407,False,Stoneware,3700,94,3606,38,0,38,0.0,0.010537992235163616,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,407_koti,new-cloth,*kōṭi,407,False,Terracotta,3700,94,3606,84,0,84,0.0,0.02329450915141431,0.026455026455026454,True,Tested with recorded context controls
+material,413_ari,grain-tax/cut,"*ari [ear-of-grain->tax/cut, DEDR 215/216/212, 2-br PhonEx]",413,False,Clay,3700,43,3657,785,8,777,0.18604651162790697,0.2124692370795734,8.637390736487895,True,Tested with recorded context controls
+material,413_ari,grain-tax/cut,"*ari [ear-of-grain->tax/cut, DEDR 215/216/212, 2-br PhonEx]",413,False,Copper,3700,43,3657,177,0,177,0.0,0.04840032813781788,0.061104663070936024,True,Tested with recorded context controls
+material,413_ari,grain-tax/cut,"*ari [ear-of-grain->tax/cut, DEDR 215/216/212, 2-br PhonEx]",413,False,Faience,3700,43,3657,356,15,341,0.3488372093023256,0.09324582991523106,12.64410952533592,True,Tested with recorded context controls
+material,413_ari,grain-tax/cut,"*ari [ear-of-grain->tax/cut, DEDR 215/216/212, 2-br PhonEx]",413,False,Ivory,3700,43,3657,36,0,36,0.0,0.009844134536505332,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,413_ari,grain-tax/cut,"*ari [ear-of-grain->tax/cut, DEDR 215/216/212, 2-br PhonEx]",413,False,Steatite,3700,43,3657,2170,17,2153,0.3953488372093023,0.5887339349193328,18.61859829066051,True,Tested with recorded context controls
+material,413_ari,grain-tax/cut,"*ari [ear-of-grain->tax/cut, DEDR 215/216/212, 2-br PhonEx]",413,False,Stoneware,3700,43,3657,38,1,37,0.023255813953488372,0.010117582718074924,0.9411764705882353,True,Tested with recorded context controls
+material,413_ari,grain-tax/cut,"*ari [ear-of-grain->tax/cut, DEDR 215/216/212, 2-br PhonEx]",413,False,Terracotta,3700,43,3657,84,2,82,0.046511627906976744,0.02242275088870659,1.9109080058140093,True,Tested with recorded context controls
+material,415_kavar,branch/control,*kavar,415,False,Clay,3700,141,3559,785,20,765,0.14184397163120568,0.21494801910649058,16.740930875253675,True,Tested with recorded context controls
+material,415_kavar,branch/control,*kavar,415,False,Copper,3700,141,3559,177,3,174,0.02127659574468085,0.04889013767912335,3.278609304034306,True,Tested with recorded context controls
+material,415_kavar,branch/control,*kavar,415,False,Faience,3700,141,3559,356,15,341,0.10638297872340426,0.09581343073897162,22.253894730231337,True,Tested with recorded context controls
+material,415_kavar,branch/control,*kavar,415,False,Ivory,3700,141,3559,36,3,33,0.02127659574468085,0.009272267490868222,2.8873873873873874,True,Tested with recorded context controls
+material,415_kavar,branch/control,*kavar,415,False,Steatite,3700,141,3559,2170,99,2071,0.7021276595744681,0.5819050295026693,93.57648033090169,True,Tested with recorded context controls
+material,415_kavar,branch/control,*kavar,415,False,Stoneware,3700,141,3559,38,0,38,0.0,0.010677156504636133,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,415_kavar,branch/control,*kavar,415,False,Terracotta,3700,141,3559,84,0,84,0.0,0.02360213543130093,0.3245459008345606,True,Tested with recorded context controls
+material,416_turai,port/double-branch,*iru-kavar / *tuṟai,416,False,Clay,3700,44,3656,785,3,782,0.06818181818181818,0.21389496717724288,4.803783596617943,True,Tested with recorded context controls
+material,416_turai,port/double-branch,*iru-kavar / *tuṟai,416,False,Copper,3700,44,3656,177,0,177,0.0,0.048413566739606125,0.08055354790004465,True,Tested with recorded context controls
+material,416_turai,port/double-branch,*iru-kavar / *tuṟai,416,False,Faience,3700,44,3656,356,3,353,0.06818181818181818,0.09655361050328228,6.252405732747966,True,Tested with recorded context controls
+material,416_turai,port/double-branch,*iru-kavar / *tuṟai,416,False,Ivory,3700,44,3656,36,0,36,0.0,0.009846827133479213,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,416_turai,port/double-branch,*iru-kavar / *tuṟai,416,False,Steatite,3700,44,3656,2170,38,2132,0.8636363636363636,0.5831509846827133,32.66246910097898,True,Tested with recorded context controls
+material,416_turai,port/double-branch,*iru-kavar / *tuṟai,416,False,Stoneware,3700,44,3656,38,0,38,0.0,0.010393873085339168,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,416_turai,port/double-branch,*iru-kavar / *tuṟai,416,False,Terracotta,3700,44,3656,84,0,84,0.0,0.022975929978118162,0.03913707521954944,True,Tested with recorded context controls
+material,435_totti,attendant,*tōṭṭi,435; 436,False,Clay,3700,73,3627,785,11,774,0.1506849315068493,0.21339950372208435,10.297616277463849,True,Tested with recorded context controls
+material,435_totti,attendant,*tōṭṭi,435; 436,False,Copper,3700,73,3627,177,9,168,0.1232876712328767,0.04631927212572374,9.05285398927783,True,Tested with recorded context controls
+material,435_totti,attendant,*tōṭṭi,435; 436,False,Faience,3700,73,3627,356,10,346,0.136986301369863,0.09539564378274056,12.589357526167309,True,Tested with recorded context controls
+material,435_totti,attendant,*tōṭṭi,435; 436,False,Ivory,3700,73,3627,36,1,35,0.0136986301369863,0.00964984835952578,0.9166666666666666,True,Tested with recorded context controls
+material,435_totti,attendant,*tōṭṭi,435; 436,False,Steatite,3700,73,3627,2170,42,2128,0.5753424657534246,0.5867107802591673,39.7159649530651,True,Tested with recorded context controls
+material,435_totti,attendant,*tōṭṭi,435; 436,False,Stoneware,3700,73,3627,38,0,38,0.0,0.010476978218913703,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,435_totti,attendant,*tōṭṭi,435; 436,False,Terracotta,3700,73,3627,84,0,84,0.0,0.02315963606286187,0.09206349206349206,True,Tested with recorded context controls
+material,440_mukku,goblet/corner,*mukku,440,False,Clay,3700,41,3659,785,11,774,0.2682926829268293,0.21153320579393275,8.92961712974813,True,Tested with recorded context controls
+material,440_mukku,goblet/corner,*mukku,440,False,Copper,3700,41,3659,177,0,177,0.0,0.04837387264279858,0.05227464099588084,True,Tested with recorded context controls
+material,440_mukku,goblet/corner,*mukku,440,False,Faience,3700,41,3659,356,5,351,0.12195121951219512,0.09592784913910904,2.8725068553720305,True,Tested with recorded context controls
+material,440_mukku,goblet/corner,*mukku,440,False,Ivory,3700,41,3659,36,0,36,0.0,0.009838753757857338,0.02702702702702703,True,Tested with recorded context controls
+material,440_mukku,goblet/corner,*mukku,440,False,Steatite,3700,41,3659,2170,23,2147,0.5609756097560976,0.5867723421699919,27.95512728472078,True,Tested with recorded context controls
+material,440_mukku,goblet/corner,*mukku,440,False,Stoneware,3700,41,3659,38,1,37,0.024390243902439025,0.010112052473353375,0.9411764705882353,True,Tested with recorded context controls
+material,440_mukku,goblet/corner,*mukku,440,False,Terracotta,3700,41,3659,84,0,84,0.0,0.02295709210166712,0.020618556701030927,True,Tested with recorded context controls
+material,500_pay,sail/voyage,*pāy,500,False,Clay,3700,16,3684,785,7,778,0.4375,0.21118349619978286,7.20843180459324,True,Tested with recorded context controls
+material,500_pay,sail/voyage,*pāy,500,False,Copper,3700,16,3684,177,0,177,0.0,0.04804560260586319,0.004415011037527594,True,Tested with recorded context controls
+material,500_pay,sail/voyage,*pāy,500,False,Faience,3700,16,3684,356,2,354,0.125,0.09609120521172639,0.8603306318937054,True,Tested with recorded context controls
+material,500_pay,sail/voyage,*pāy,500,False,Ivory,3700,16,3684,36,0,36,0.0,0.009771986970684038,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,500_pay,sail/voyage,*pāy,500,False,Steatite,3700,16,3684,2170,6,2164,0.375,0.5874049945711184,6.964992037136861,True,Tested with recorded context controls
+material,500_pay,sail/voyage,*pāy,500,False,Stoneware,3700,16,3684,38,1,37,0.0625,0.01004343105320304,0.9411764705882353,True,Tested with recorded context controls
+material,500_pay,sail/voyage,*pāy,500,False,Terracotta,3700,16,3684,84,0,84,0.0,0.02280130293159609,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,503_malai,garland/bead-strand,*malai ~ *mālai,491; 495; 503,False,Clay,3700,107,3593,785,16,769,0.14953271028037382,0.21402727525744503,10.635387303959119,True,Tested with recorded context controls
+material,503_malai,garland/bead-strand,*malai ~ *mālai,491; 495; 503,False,Copper,3700,107,3593,177,23,154,0.21495327102803738,0.04286111884219315,22.839055162750142,True,Tested with recorded context controls
+material,503_malai,garland/bead-strand,*malai ~ *mālai,491; 495; 503,False,Faience,3700,107,3593,356,6,350,0.056074766355140186,0.09741163373225717,9.699793910282054,True,Tested with recorded context controls
+material,503_malai,garland/bead-strand,*malai ~ *mālai,491; 495; 503,False,Ivory,3700,107,3593,36,0,36,0.0,0.01001948232674645,0.02702702702702703,True,Tested with recorded context controls
+material,503_malai,garland/bead-strand,*malai ~ *mālai,491; 495; 503,False,Steatite,3700,107,3593,2170,62,2108,0.5794392523364486,0.5866963540217088,62.598134560423,True,Tested with recorded context controls
+material,503_malai,garland/bead-strand,*malai ~ *mālai,491; 495; 503,False,Stoneware,3700,107,3593,38,0,38,0.0,0.010576120233787921,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,503_malai,garland/bead-strand,*malai ~ *mālai,491; 495; 503,False,Terracotta,3700,107,3593,84,0,84,0.0,0.02337879209574172,0.511623847706322,True,Tested with recorded context controls
+material,520_vel,lord,*vēḷ/*vēl,520,False,Clay,3700,243,3457,785,24,761,0.09876543209876543,0.22013306334972518,23.523209074892964,True,Tested with recorded context controls
+material,520_vel,lord,*vēḷ/*vēl,520,False,Copper,3700,243,3457,177,10,167,0.0411522633744856,0.048307781313277405,10.434504580313302,True,Tested with recorded context controls
+material,520_vel,lord,*vēḷ/*vēl,520,False,Faience,3700,243,3457,356,21,335,0.08641975308641975,0.09690483077813133,22.422383599372708,True,Tested with recorded context controls
+material,520_vel,lord,*vēḷ/*vēl,520,False,Ivory,3700,243,3457,36,0,36,0.0,0.01041365345675441,0.08108108108108109,True,Tested with recorded context controls
+material,520_vel,lord,*vēḷ/*vēl,520,False,Steatite,3700,243,3457,2170,186,1984,0.7654320987654321,0.5739080127277987,182.8622142170493,True,Tested with recorded context controls
+material,520_vel,lord,*vēḷ/*vēl,520,False,Stoneware,3700,243,3457,38,0,38,0.0,0.010992189759907435,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,520_vel,lord,*vēḷ/*vēl,520,False,Terracotta,3700,243,3457,84,0,84,0.0,0.02429852473242696,0.9798205421916762,True,Tested with recorded context controls
+material,550_natu,district,*nāṭu,550; 555,False,Clay,3700,127,3573,785,16,769,0.12598425196850394,0.21522530086761824,18.641516235882996,True,Tested with recorded context controls
+material,550_natu,district,*nāṭu,550; 555,False,Copper,3700,127,3573,177,0,177,0.0,0.04953820319059614,0.31036538433439764,True,Tested with recorded context controls
+material,550_natu,district,*nāṭu,550; 555,False,Faience,3700,127,3573,356,12,344,0.09448818897637795,0.09627763783935069,11.87786079688317,True,Tested with recorded context controls
+material,550_natu,district,*nāṭu,550; 555,False,Ivory,3700,127,3573,36,3,33,0.023622047244094488,0.009235936188077247,2.635135135135135,True,Tested with recorded context controls
+material,550_natu,district,*nāṭu,550; 555,False,Steatite,3700,127,3573,2170,92,2078,0.7244094488188977,0.5815841029946823,88.36117313141622,True,Tested with recorded context controls
+material,550_natu,district,*nāṭu,550; 555,False,Stoneware,3700,127,3573,38,0,38,0.0,0.010635320458998041,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,550_natu,district,*nāṭu,550; 555,False,Terracotta,3700,127,3573,84,2,82,0.015748031496062992,0.022949902043101034,2.317443953526428,True,Tested with recorded context controls
+material,575_kottai,kōṭṭai(665L),*kōṭṭai,575,False,Clay,3700,60,3640,785,10,775,0.16666666666666666,0.2129120879120879,8.976040862165666,True,Tested with recorded context controls
+material,575_kottai,kōṭṭai(665L),*kōṭṭai,575,False,Copper,3700,60,3640,177,0,177,0.0,0.04862637362637363,0.013035700692700007,True,Tested with recorded context controls
+material,575_kottai,kōṭṭai(665L),*kōṭṭai,575,False,Faience,3700,60,3640,356,12,344,0.2,0.0945054945054945,8.805845342184554,True,Tested with recorded context controls
+material,575_kottai,kōṭṭai(665L),*kōṭṭai,575,False,Ivory,3700,60,3640,36,0,36,0.0,0.00989010989010989,0.05405405405405406,True,Tested with recorded context controls
+material,575_kottai,kōṭṭai(665L),*kōṭṭai,575,False,Steatite,3700,60,3640,2170,38,2132,0.6333333333333333,0.5857142857142857,41.42824844777542,True,Tested with recorded context controls
+material,575_kottai,kōṭṭai(665L),*kōṭṭai,575,False,Stoneware,3700,60,3640,38,0,38,0.0,0.010439560439560439,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,575_kottai,kōṭṭai(665L),*kōṭṭai,575,False,Terracotta,3700,60,3640,84,0,84,0.0,0.023076923076923078,0.23465608465608465,True,Tested with recorded context controls
+material,590_mutai,bale/sack-load,*mūṭai,590; 592,False,Clay,3700,186,3514,785,26,759,0.13978494623655913,0.2159931701764371,24.839056988327123,True,Tested with recorded context controls
+material,590_mutai,bale/sack-load,*mūṭai,590; 592,False,Copper,3700,186,3514,177,4,173,0.021505376344086023,0.04923164484917473,4.294823208415494,True,Tested with recorded context controls
+material,590_mutai,bale/sack-load,*mūṭai,590; 592,False,Faience,3700,186,3514,356,23,333,0.12365591397849462,0.09476380193511667,24.40271157619993,True,Tested with recorded context controls
+material,590_mutai,bale/sack-load,*mūṭai,590; 592,False,Ivory,3700,186,3514,36,0,36,0.0,0.010244735344336939,0.05405405405405406,True,Tested with recorded context controls
+material,590_mutai,bale/sack-load,*mūṭai,590; 592,False,Steatite,3700,186,3514,2170,129,2041,0.6935483870967742,0.580819578827547,128.5149968096352,True,Tested with recorded context controls
+material,590_mutai,bale/sack-load,*mūṭai,590; 592,False,Stoneware,3700,186,3514,38,2,36,0.010752688172043012,0.010244735344336939,1.8823529411764706,True,Tested with recorded context controls
+material,590_mutai,bale/sack-load,*mūṭai,590; 592,False,Terracotta,3700,186,3514,84,1,83,0.005376344086021506,0.023619806488332385,0.6465281186930671,True,Tested with recorded context controls
+material,615_accu,loom-reed/plot,*accu,615,False,Clay,3700,55,3645,785,6,779,0.10909090909090909,0.21371742112482853,6.2371839299275305,True,Tested with recorded context controls
+material,615_accu,loom-reed/plot,*accu,615,False,Copper,3700,55,3645,177,20,157,0.36363636363636365,0.043072702331961595,20.058478492712407,True,Tested with recorded context controls
+material,615_accu,loom-reed/plot,*accu,615,False,Faience,3700,55,3645,356,3,353,0.05454545454545454,0.09684499314128944,1.5853424490411643,True,Tested with recorded context controls
+material,615_accu,loom-reed/plot,*accu,615,False,Ivory,3700,55,3645,36,0,36,0.0,0.009876543209876543,0.02702702702702703,True,Tested with recorded context controls
+material,615_accu,loom-reed/plot,*accu,615,False,Steatite,3700,55,3645,2170,26,2144,0.4727272727272727,0.5882030178326475,26.698353517321404,True,Tested with recorded context controls
+material,615_accu,loom-reed/plot,*accu,615,False,Stoneware,3700,55,3645,38,0,38,0.0,0.010425240054869684,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,615_accu,loom-reed/plot,*accu,615,False,Terracotta,3700,55,3645,84,0,84,0.0,0.023045267489711935,0.09204712812960235,True,Tested with recorded context controls
+material,617_iruaccu,twin-plot/loom,*iru-accu (2x 615),617,False,Clay,3700,63,3637,785,7,778,0.1111111111111111,0.2139125653010723,7.05982260387242,True,Tested with recorded context controls
+material,617_iruaccu,twin-plot/loom,*iru-accu (2x 615),617,False,Copper,3700,63,3637,177,12,165,0.19047619047619047,0.04536706076436624,12.086089581831796,True,Tested with recorded context controls
+material,617_iruaccu,twin-plot/loom,*iru-accu (2x 615),617,False,Faience,3700,63,3637,356,6,350,0.09523809523809523,0.0962331591971405,5.512660970171463,True,Tested with recorded context controls
+material,617_iruaccu,twin-plot/loom,*iru-accu (2x 615),617,False,Ivory,3700,63,3637,36,0,36,0.0,0.009898267803134452,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,617_iruaccu,twin-plot/loom,*iru-accu (2x 615),617,False,Steatite,3700,63,3637,2170,37,2133,0.5873015873015873,0.5864723673357163,37.9352368101461,True,Tested with recorded context controls
+material,617_iruaccu,twin-plot/loom,*iru-accu (2x 615),617,False,Stoneware,3700,63,3637,38,0,38,0.0,0.010448171569975254,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,617_iruaccu,twin-plot/loom,*iru-accu (2x 615),617,False,Terracotta,3700,63,3637,84,1,83,0.015873015873015872,0.02282100632389332,0.057399225440462553,True,Tested with recorded context controls
+material,690_kattu,bundle/store,*kaṭṭu / *piṇai,690,False,Clay,3700,94,3606,785,10,775,0.10638297872340426,0.2149195784803106,11.153991642472931,True,Tested with recorded context controls
+material,690_kattu,bundle/store,*kaṭṭu / *piṇai,690,False,Copper,3700,94,3606,177,10,167,0.10638297872340426,0.046311702717692735,10.272659683725031,True,Tested with recorded context controls
+material,690_kattu,bundle/store,*kaṭṭu / *piṇai,690,False,Faience,3700,94,3606,356,12,344,0.1276595744680851,0.09539656128674431,19.03887816186209,True,Tested with recorded context controls
+material,690_kattu,bundle/store,*kaṭṭu / *piṇai,690,False,Ivory,3700,94,3606,36,1,35,0.010638297872340425,0.009706045479755962,0.9166666666666666,True,Tested with recorded context controls
+material,690_kattu,bundle/store,*kaṭṭu / *piṇai,690,False,Steatite,3700,94,3606,2170,60,2110,0.6382978723404256,0.5851358846367166,51.50858866238945,True,Tested with recorded context controls
+material,690_kattu,bundle/store,*kaṭṭu / *piṇai,690,False,Stoneware,3700,94,3606,38,0,38,0.0,0.010537992235163616,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,690_kattu,bundle/store,*kaṭṭu / *piṇai,690,False,Terracotta,3700,94,3606,84,1,83,0.010638297872340425,0.023017193566278425,0.5536955217367587,True,Tested with recorded context controls
+material,700_ala,measure,*aḷa / *akal,700,False,Clay,3700,435,3265,785,44,741,0.10114942528735632,0.22695252679938743,68.20078241062986,True,Tested with recorded context controls
+material,700_ala,measure,*aḷa / *akal,700,False,Copper,3700,435,3265,177,2,175,0.004597701149425287,0.05359877488514548,3.238149285041081,True,Tested with recorded context controls
+material,700_ala,measure,*aḷa / *akal,700,False,Faience,3700,435,3265,356,182,174,0.41839080459770117,0.05329249617151608,155.3218991998779,True,Tested with recorded context controls
+material,700_ala,measure,*aḷa / *akal,700,False,Ivory,3700,435,3265,36,1,35,0.0022988505747126436,0.010719754977029096,1.4166666666666665,True,Tested with recorded context controls
+material,700_ala,measure,*aḷa / *akal,700,False,Steatite,3700,435,3265,2170,204,1966,0.4689655172413793,0.6021439509954059,203.52063178901867,True,Tested with recorded context controls
+material,700_ala,measure,*aḷa / *akal,700,False,Stoneware,3700,435,3265,38,0,38,0.0,0.011638591117917305,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,700_ala,measure,*aḷa / *akal,700,False,Terracotta,3700,435,3265,84,0,84,0.0,0.02572741194486983,1.441791703905106,True,Tested with recorded context controls
+material,703_muala,three-measures,*mū-aḷa / *mū-akal,703,False,Clay,3700,12,3688,785,1,784,0.08333333333333333,0.21258134490238612,0.9566818418268844,True,Tested with recorded context controls
+material,703_muala,three-measures,*mū-aḷa / *mū-akal,703,False,Copper,3700,12,3688,177,0,177,0.0,0.04799349240780911,0.008620689655172414,True,Tested with recorded context controls
+material,703_muala,three-measures,*mū-aḷa / *mū-akal,703,False,Faience,3700,12,3688,356,2,354,0.16666666666666666,0.09598698481561822,1.147703076470217,True,Tested with recorded context controls
+material,703_muala,three-measures,*mū-aḷa / *mū-akal,703,False,Ivory,3700,12,3688,36,0,36,0.0,0.009761388286334056,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,703_muala,three-measures,*mū-aḷa / *mū-akal,703,False,Steatite,3700,12,3688,2170,9,2161,0.75,0.5859544468546638,9.82364608091288,True,Tested with recorded context controls
+material,703_muala,three-measures,*mū-aḷa / *mū-akal,703,False,Stoneware,3700,12,3688,38,0,38,0.0,0.010303687635574838,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,703_muala,three-measures,*mū-aḷa / *mū-akal,703,False,Terracotta,3700,12,3688,84,0,84,0.0,0.0227765726681128,0.018518518518518517,True,Tested with recorded context controls
+material,705_kalam,ship/kalam-measure,*kalam/*kaḷam,704; 705; 706; 707,False,Clay,3700,250,3450,785,37,748,0.148,0.21681159420289856,35.6082750214408,True,Tested with recorded context controls
+material,705_kalam,ship/kalam-measure,*kalam/*kaḷam,704; 705; 706; 707,False,Copper,3700,250,3450,177,24,153,0.096,0.04434782608695652,24.527373866263197,True,Tested with recorded context controls
+material,705_kalam,ship/kalam-measure,*kalam/*kaḷam,704; 705; 706; 707,False,Faience,3700,250,3450,356,20,336,0.08,0.09739130434782609,22.81685539787109,True,Tested with recorded context controls
+material,705_kalam,ship/kalam-measure,*kalam/*kaḷam,704; 705; 706; 707,False,Ivory,3700,250,3450,36,1,35,0.004,0.010144927536231883,1.027027027027027,True,Tested with recorded context controls
+material,705_kalam,ship/kalam-measure,*kalam/*kaḷam,704; 705; 706; 707,False,Steatite,3700,250,3450,2170,155,2015,0.62,0.5840579710144927,154.24353143725853,True,Tested with recorded context controls
+material,705_kalam,ship/kalam-measure,*kalam/*kaḷam,704; 705; 706; 707,False,Stoneware,3700,250,3450,38,3,35,0.012,0.010144927536231883,2.8823529411764706,True,Tested with recorded context controls
+material,705_kalam,ship/kalam-measure,*kalam/*kaḷam,704; 705; 706; 707,False,Terracotta,3700,250,3450,84,7,77,0.028,0.022318840579710144,6.227073289444424,True,Tested with recorded context controls
+material,711_vallam,vaḷḷam(37L),*vaḷḷam,711,False,Clay,3700,17,3683,785,2,783,0.11764705882352941,0.2125984251968504,2.877531432959017,True,Tested with recorded context controls
+material,711_vallam,vaḷḷam(37L),*vaḷḷam,711,False,Copper,3700,17,3683,177,0,177,0.0,0.04805864784143361,0.002207505518763797,True,Tested with recorded context controls
+material,711_vallam,vaḷḷam(37L),*vaḷḷam,711,False,Faience,3700,17,3683,356,14,342,0.8235294117647058,0.09285908226988868,7.126403685574431,True,Tested with recorded context controls
+material,711_vallam,vaḷḷam(37L),*vaḷḷam,711,False,Ivory,3700,17,3683,36,0,36,0.0,0.00977464023893565,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,711_vallam,vaḷḷam(37L),*vaḷḷam,711,False,Steatite,3700,17,3683,2170,1,2169,0.058823529411764705,0.588922074395873,6.87791534696228,True,Tested with recorded context controls
+material,711_vallam,vaḷḷam(37L),*vaḷḷam,711,False,Stoneware,3700,17,3683,38,0,38,0.0,0.010317675807765408,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,711_vallam,vaḷḷam(37L),*vaḷḷam,711,False,Terracotta,3700,17,3683,84,0,84,0.0,0.02280749389084985,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,717_ati,base/foundational,*aṭi,716; 717,False,Clay,3700,46,3654,785,5,780,0.10869565217391304,0.2134646962233169,3.149379487282905,True,Tested with recorded context controls
+material,717_ati,base/foundational,*aṭi,716; 717,False,Copper,3700,46,3654,177,3,174,0.06521739130434782,0.047619047619047616,3.0695160203062257,True,Tested with recorded context controls
+material,717_ati,base/foundational,*aṭi,716; 717,False,Faience,3700,46,3654,356,4,352,0.08695652173913043,0.0963327859879584,3.8456656418609816,True,Tested with recorded context controls
+material,717_ati,base/foundational,*aṭi,716; 717,False,Ivory,3700,46,3654,36,0,36,0.0,0.009852216748768473,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,717_ati,base/foundational,*aṭi,716; 717,False,Steatite,3700,46,3654,2170,34,2136,0.7391304347826086,0.5845648604269293,35.71861863291785,True,Tested with recorded context controls
+material,717_ati,base/foundational,*aṭi,716; 717,False,Stoneware,3700,46,3654,38,0,38,0.0,0.010399562123700055,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,717_ati,base/foundational,*aṭi,716; 717,False,Terracotta,3700,46,3654,84,0,84,0.0,0.022988505747126436,0.08675612283859706,True,Tested with recorded context controls
+material,740_kuti,house,*kuṭi/*kuṭam,740,False,Clay,3700,1453,2247,785,212,573,0.1459050240880936,0.25500667556742324,211.73009457317977,True,Tested with recorded context controls
+material,740_kuti,house,*kuṭi/*kuṭam,740,False,Copper,3700,1453,2247,177,94,83,0.06469373709566414,0.03693813974187806,94.38204002575628,True,Tested with recorded context controls
+material,740_kuti,house,*kuṭi/*kuṭam,740,False,Faience,3700,1453,2247,356,181,175,0.12456985547143841,0.0778816199376947,179.5304379802208,True,Tested with recorded context controls
+material,740_kuti,house,*kuṭi/*kuṭam,740,False,Ivory,3700,1453,2247,36,10,26,0.006882312456985547,0.011570983533600357,11.24099099099099,True,Tested with recorded context controls
+material,740_kuti,house,*kuṭi/*kuṭam,740,False,Steatite,3700,1453,2247,2170,925,1245,0.6366139022711631,0.5540720961281709,925.4714435717899,True,Tested with recorded context controls
+material,740_kuti,house,*kuṭi/*kuṭam,740,False,Stoneware,3700,1453,2247,38,0,38,0.0,0.016911437472185136,0.9333333333333333,True,Tested with recorded context controls
+material,740_kuti,house,*kuṭi/*kuṭam,740,False,Terracotta,3700,1453,2247,84,18,66,0.012388162422573986,0.029372496662216287,18.49992646719451,True,Tested with recorded context controls
+material,741_orukuti,single-house,*oru-kuṭi,741,False,Clay,3700,171,3529,785,22,763,0.1286549707602339,0.21620855766506092,21.633015878408376,True,Tested with recorded context controls
+material,741_orukuti,single-house,*oru-kuṭi,741,False,Copper,3700,171,3529,177,0,177,0.0,0.0501558515160102,0.05331247464272233,True,Tested with recorded context controls
+material,741_orukuti,single-house,*oru-kuṭi,741,False,Faience,3700,171,3529,356,11,345,0.06432748538011696,0.09776140549730802,11.823662867806433,True,Tested with recorded context controls
+material,741_orukuti,single-house,*oru-kuṭi,741,False,Ivory,3700,171,3529,36,0,36,0.0,0.010201190138849533,0.08108108108108109,True,Tested with recorded context controls
+material,741_orukuti,single-house,*oru-kuṭi,741,False,Steatite,3700,171,3529,2170,135,2035,0.7894736842105263,0.5766506092377444,134.6153131825539,True,Tested with recorded context controls
+material,741_orukuti,single-house,*oru-kuṭi,741,False,Stoneware,3700,171,3529,38,1,37,0.005847953216374269,0.010484556531595354,1.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,741_orukuti,single-house,*oru-kuṭi,741,False,Terracotta,3700,171,3529,84,1,83,0.005847953216374269,0.02351941059790309,0.5320838001250372,True,Tested with recorded context controls
+material,742_irukuti,twin-house,*iru-kuṭi [740 + 2 internal strokes],742; 743; 744,False,Clay,3700,48,3652,785,7,778,0.14583333333333334,0.21303395399780942,6.42263081603648,True,Tested with recorded context controls
+material,742_irukuti,twin-house,*iru-kuṭi [740 + 2 internal strokes],742; 743; 744,False,Copper,3700,48,3652,177,2,175,0.041666666666666664,0.04791894852135816,2.006622516556291,True,Tested with recorded context controls
+material,742_irukuti,twin-house,*iru-kuṭi [740 + 2 internal strokes],742; 743; 744,False,Faience,3700,48,3652,356,2,354,0.041666666666666664,0.09693318729463307,2.479419314742657,True,Tested with recorded context controls
+material,742_irukuti,twin-house,*iru-kuṭi [740 + 2 internal strokes],742; 743; 744,False,Ivory,3700,48,3652,36,1,35,0.020833333333333332,0.009583789704271631,1.027027027027027,True,Tested with recorded context controls
+material,742_irukuti,twin-house,*iru-kuṭi [740 + 2 internal strokes],742; 743; 744,False,Steatite,3700,48,3652,2170,35,2135,0.7291666666666666,0.5846111719605696,34.36467861684071,True,Tested with recorded context controls
+material,742_irukuti,twin-house,*iru-kuṭi [740 + 2 internal strokes],742; 743; 744,False,Stoneware,3700,48,3652,38,1,37,0.020833333333333332,0.010131434830230011,0.9411764705882353,True,Tested with recorded context controls
+material,742_irukuti,twin-house,*iru-kuṭi [740 + 2 internal strokes],742; 743; 744,False,Terracotta,3700,48,3652,84,0,84,0.0,0.023001095290251915,0.06613756613756613,True,Tested with recorded context controls
+material,745_mukuti,three-house,*mū-kuṭi [740 + 3 internal strokes],745; 746; 747,False,Clay,3700,43,3657,785,8,777,0.18604651162790697,0.2124692370795734,7.532301203264696,True,Tested with recorded context controls
+material,745_mukuti,three-house,*mū-kuṭi [740 + 3 internal strokes],745; 746; 747,False,Copper,3700,43,3657,177,3,174,0.06976744186046512,0.0475799835931091,3.006622516556291,True,Tested with recorded context controls
+material,745_mukuti,three-house,*mū-kuṭi [740 + 3 internal strokes],745; 746; 747,False,Faience,3700,43,3657,356,4,352,0.09302325581395349,0.09625375991249659,2.4585336020325186,True,Tested with recorded context controls
+material,745_mukuti,three-house,*mū-kuṭi [740 + 3 internal strokes],745; 746; 747,False,Ivory,3700,43,3657,36,0,36,0.0,0.009844134536505332,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,745_mukuti,three-house,*mū-kuṭi [740 + 3 internal strokes],745; 746; 747,False,Steatite,3700,43,3657,2170,28,2142,0.6511627906976745,0.5857260049220673,29.66189763976262,True,Tested with recorded context controls
+material,745_mukuti,three-house,*mū-kuṭi [740 + 3 internal strokes],745; 746; 747,False,Stoneware,3700,43,3657,38,0,38,0.0,0.010391030899644518,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,745_mukuti,three-house,*mū-kuṭi [740 + 3 internal strokes],745; 746; 747,False,Terracotta,3700,43,3657,84,0,84,0.0,0.022969647251845776,0.05026455026455026,True,Tested with recorded context controls
+material,760_kuruku,youth/scion,*kuruku / *koḻuntu,752; 760,False,Clay,3700,145,3555,785,17,768,0.11724137931034483,0.2160337552742616,14.68628949181425,True,Tested with recorded context controls
+material,760_kuruku,youth/scion,*kuruku / *koḻuntu,752; 760,False,Copper,3700,145,3555,177,20,157,0.13793103448275862,0.044163150492264415,20.16293930520134,True,Tested with recorded context controls
+material,760_kuruku,youth/scion,*kuruku / *koḻuntu,752; 760,False,Faience,3700,145,3555,356,9,347,0.06206896551724138,0.09760900140646976,14.234247421072165,True,Tested with recorded context controls
+material,760_kuruku,youth/scion,*kuruku / *koḻuntu,752; 760,False,Ivory,3700,145,3555,36,3,33,0.020689655172413793,0.009282700421940928,2.8873873873873874,True,Tested with recorded context controls
+material,760_kuruku,youth/scion,*kuruku / *koḻuntu,752; 760,False,Steatite,3700,145,3555,2170,94,2076,0.6482758620689655,0.5839662447257384,91.58079121709841,True,Tested with recorded context controls
+material,760_kuruku,youth/scion,*kuruku / *koḻuntu,752; 760,False,Stoneware,3700,145,3555,38,0,38,0.0,0.010689170182841068,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,760_kuruku,youth/scion,*kuruku / *koḻuntu,752; 760,False,Terracotta,3700,145,3555,84,0,84,0.0,0.02362869198312236,0.5880706921944034,True,Tested with recorded context controls
+material,790_valai,bangle,*vaḷai,790,False,Clay,3700,40,3660,785,8,777,0.2,0.2122950819672131,7.645936262096255,True,Tested with recorded context controls
+material,790_valai,bangle,*vaḷai,790,False,Copper,3700,40,3660,177,9,168,0.225,0.04590163934426229,4.127994513018632,True,Tested with recorded context controls
+material,790_valai,bangle,*vaḷai,790,False,Faience,3700,40,3660,356,3,353,0.075,0.09644808743169399,3.3216946691309874,True,Tested with recorded context controls
+material,790_valai,bangle,*vaḷai,790,False,Ivory,3700,40,3660,36,0,36,0.0,0.009836065573770493,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,790_valai,bangle,*vaḷai,790,False,Steatite,3700,40,3660,2170,14,2156,0.35,0.5890710382513661,19.49645748723749,True,Tested with recorded context controls
+material,790_valai,bangle,*vaḷai,790,False,Stoneware,3700,40,3660,38,4,34,0.1,0.009289617486338797,4.307843137254902,True,Tested with recorded context controls
+material,790_valai,bangle,*vaḷai,790,False,Terracotta,3700,40,3660,84,2,82,0.05,0.022404371584699455,0.5471894943544428,True,Tested with recorded context controls
+material,798_totu,bound-guild,*toṭu / *iṭukku,193; 195; 797; 798,False,Clay,3700,126,3574,785,14,771,0.1111111111111111,0.21572467823167318,15.27104982330246,True,Tested with recorded context controls
+material,798_totu,bound-guild,*toṭu / *iṭukku,193; 195; 797; 798,False,Copper,3700,126,3574,177,10,167,0.07936507936507936,0.046726357022943484,10.090713925289206,True,Tested with recorded context controls
+material,798_totu,bound-guild,*toṭu / *iṭukku,193; 195; 797; 798,False,Faience,3700,126,3574,356,14,342,0.1111111111111111,0.09569110240626749,9.591428870084014,True,Tested with recorded context controls
+material,798_totu,bound-guild,*toṭu / *iṭukku,193; 195; 797; 798,False,Ivory,3700,126,3574,36,1,35,0.007936507936507936,0.009792949076664802,1.0810810810810811,True,Tested with recorded context controls
+material,798_totu,bound-guild,*toṭu / *iṭukku,193; 195; 797; 798,False,Steatite,3700,126,3574,2170,84,2086,0.6666666666666666,0.5836597649692221,88.67449474431396,True,Tested with recorded context controls
+material,798_totu,bound-guild,*toṭu / *iṭukku,193; 195; 797; 798,False,Stoneware,3700,126,3574,38,0,38,0.0,0.010632344711807499,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,798_totu,bound-guild,*toṭu / *iṭukku,193; 195; 797; 798,False,Terracotta,3700,126,3574,84,0,84,0.0,0.023503077783995522,0.23200240004363715,True,Tested with recorded context controls
+material,806_kampu,millet/grain,*kampu ~ *kāmpu,803; 804; 806; 807,False,Clay,3700,214,3486,785,26,759,0.12149532710280374,0.21772805507745266,19.11747864818867,True,Tested with recorded context controls
+material,806_kampu,millet/grain,*kampu ~ *kāmpu,803; 804; 806; 807,False,Copper,3700,214,3486,177,21,156,0.09813084112149532,0.04475043029259897,21.380848502296462,True,Tested with recorded context controls
+material,806_kampu,millet/grain,*kampu ~ *kāmpu,803; 804; 806; 807,False,Faience,3700,214,3486,356,20,336,0.09345794392523364,0.0963855421686747,17.574570637911137,True,Tested with recorded context controls
+material,806_kampu,millet/grain,*kampu ~ *kāmpu,803; 804; 806; 807,False,Ivory,3700,214,3486,36,1,35,0.004672897196261682,0.010040160642570281,1.0810810810810811,True,Tested with recorded context controls
+material,806_kampu,millet/grain,*kampu ~ *kāmpu,803; 804; 806; 807,False,Steatite,3700,214,3486,2170,142,2028,0.6635514018691588,0.5817555938037866,152.45615680726303,True,Tested with recorded context controls
+material,806_kampu,millet/grain,*kampu ~ *kāmpu,803; 804; 806; 807,False,Stoneware,3700,214,3486,38,0,38,0.0,0.010900745840504877,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,806_kampu,millet/grain,*kampu ~ *kāmpu,803; 804; 806; 807,False,Terracotta,3700,214,3486,84,2,82,0.009345794392523364,0.023522662076878944,1.0315301536951023,True,Tested with recorded context controls
+material,820_kal,quarter-share,*kāl,061; 062; 820,False,Clay,3700,266,3434,785,23,762,0.08646616541353383,0.22189866045428072,25.219047640496697,True,Tested with recorded context controls
+material,820_kal,quarter-share,*kāl,061; 062; 820,False,Copper,3700,266,3434,177,16,161,0.06015037593984962,0.04688410017472335,16.184893497471926,True,Tested with recorded context controls
+material,820_kal,quarter-share,*kāl,061; 062; 820,False,Faience,3700,266,3434,356,18,338,0.06766917293233082,0.09842748980780432,15.148577020535052,True,Tested with recorded context controls
+material,820_kal,quarter-share,*kāl,061; 062; 820,False,Ivory,3700,266,3434,36,1,35,0.0037593984962406013,0.01019219569015725,1.135135135135135,True,Tested with recorded context controls
+material,820_kal,quarter-share,*kāl,061; 062; 820,False,Steatite,3700,266,3434,2170,195,1975,0.7330827067669173,0.5751310425160163,200.0809731061082,True,Tested with recorded context controls
+material,820_kal,quarter-share,*kāl,061; 062; 820,False,Stoneware,3700,266,3434,38,1,37,0.0037593984962406013,0.010774606872451952,0.9333333333333333,True,Tested with recorded context controls
+material,820_kal,quarter-share,*kāl,061; 062; 820,False,Terracotta,3700,266,3434,84,4,80,0.015037593984962405,0.023296447291788,3.2814323896798125,True,Tested with recorded context controls
+material,821_irukal,two-quarters,*iru-kāl (2x 820),821,False,Clay,3700,13,3687,785,2,783,0.15384615384615385,0.21236777868185516,1.106535124296893,True,Tested with recorded context controls
+material,821_irukal,two-quarters,*iru-kāl (2x 820),821,False,Copper,3700,13,3687,177,3,174,0.23076923076923078,0.047192839707078924,2.3539518900343643,True,Tested with recorded context controls
+material,821_irukal,two-quarters,*iru-kāl (2x 820),821,False,Faience,3700,13,3687,356,1,355,0.07692307692307693,0.09628424193110931,1.3819336173967498,True,Tested with recorded context controls
+material,821_irukal,two-quarters,*iru-kāl (2x 820),821,False,Ivory,3700,13,3687,36,0,36,0.0,0.009764035801464606,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,821_irukal,two-quarters,*iru-kāl (2x 820),821,False,Steatite,3700,13,3687,2170,6,2164,0.46153846153846156,0.5869270409547057,6.949542993805436,True,Tested with recorded context controls
+material,821_irukal,two-quarters,*iru-kāl (2x 820),821,False,Stoneware,3700,13,3687,38,0,38,0.0,0.010306482234879306,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,821_irukal,two-quarters,*iru-kāl (2x 820),821,False,Terracotta,3700,13,3687,84,0,84,0.0,0.022782750203417412,0.010309278350515464,True,Tested with recorded context controls
+material,832_ulvalai,inner-bangle,*uḷ-vaḷai / *oru-vaḷai,832,False,Clay,3700,32,3668,785,9,776,0.28125,0.21155943293347873,5.36539718272257,True,Tested with recorded context controls
+material,832_ulvalai,inner-bangle,*uḷ-vaḷai / *oru-vaḷai,832,False,Copper,3700,32,3668,177,0,177,0.0,0.04825517993456925,0.010828195173936211,True,Tested with recorded context controls
+material,832_ulvalai,inner-bangle,*uḷ-vaḷai / *oru-vaḷai,832,False,Faience,3700,32,3668,356,1,355,0.03125,0.09678298800436205,2.1524469261703145,True,Tested with recorded context controls
+material,832_ulvalai,inner-bangle,*uḷ-vaḷai / *oru-vaḷai,832,False,Ivory,3700,32,3668,36,0,36,0.0,0.009814612868047983,0.02702702702702703,True,Tested with recorded context controls
+material,832_ulvalai,inner-bangle,*uḷ-vaḷai / *oru-vaḷai,832,False,Steatite,3700,32,3668,2170,21,2149,0.65625,0.5858778625954199,23.762772332303566,True,Tested with recorded context controls
+material,832_ulvalai,inner-bangle,*uḷ-vaḷai / *oru-vaḷai,832,False,Stoneware,3700,32,3668,38,0,38,0.0,0.010359869138495093,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,832_ulvalai,inner-bangle,*uḷ-vaḷai / *oru-vaḷai,832,False,Terracotta,3700,32,3668,84,0,84,0.0,0.022900763358778626,0.23870573870573872,True,Tested with recorded context controls
+material,840_inai,pair/pact,*iṇai,840,False,Clay,3700,103,3597,785,17,768,0.1650485436893204,0.213511259382819,16.976257416843122,True,Tested with recorded context controls
+material,840_inai,pair/pact,*iṇai,840,False,Copper,3700,103,3597,177,0,177,0.0,0.04920767306088407,0.2305403416560697,True,Tested with recorded context controls
+material,840_inai,pair/pact,*iṇai,840,False,Faience,3700,103,3597,356,13,343,0.1262135922330097,0.09535724214623297,13.856786856242415,True,Tested with recorded context controls
+material,840_inai,pair/pact,*iṇai,840,False,Ivory,3700,103,3597,36,2,34,0.019417475728155338,0.009452321378926884,1.8333333333333333,True,Tested with recorded context controls
+material,840_inai,pair/pact,*iṇai,840,False,Steatite,3700,103,3597,2170,62,2108,0.6019417475728155,0.5860439254934667,60.948524514833096,True,Tested with recorded context controls
+material,840_inai,pair/pact,*iṇai,840,False,Stoneware,3700,103,3597,38,7,31,0.06796116504854369,0.008618293021962747,6.1156862745098035,True,Tested with recorded context controls
+material,840_inai,pair/pact,*iṇai,840,False,Terracotta,3700,103,3597,84,2,82,0.019417475728155338,0.02279677509035307,1.6437726839788696,True,Tested with recorded context controls
+material,845_vari,tax/levy,*vari (hatched 840),845,False,Clay,3700,38,3662,785,1,784,0.02631578947368421,0.21409066084107045,0.24516351118760757,True,Tested with recorded context controls
+material,845_vari,tax/levy,*vari (hatched 840),845,False,Copper,3700,38,3662,177,29,148,0.7631578947368421,0.040415073730202075,29.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,845_vari,tax/levy,*vari (hatched 840),845,False,Faience,3700,38,3662,356,0,356,0.0,0.09721463681048607,0.13867690751867567,True,Tested with recorded context controls
+material,845_vari,tax/levy,*vari (hatched 840),845,False,Ivory,3700,38,3662,36,0,36,0.0,0.009830693610049153,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,845_vari,tax/levy,*vari (hatched 840),845,False,Steatite,3700,38,3662,2170,7,2163,0.18421052631578946,0.5906608410704534,7.60568353281384,True,Tested with recorded context controls
+material,845_vari,tax/levy,*vari (hatched 840),845,False,Stoneware,3700,38,3662,38,1,37,0.02631578947368421,0.010103768432550519,0.9411764705882353,True,Tested with recorded context controls
+material,845_vari,tax/levy,*vari (hatched 840),845,False,Terracotta,3700,38,3662,84,0,84,0.0,0.022938285090114693,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,850_kan,copper/eye,*kaṇ/*kaṉ,850,False,Clay,3700,45,3655,785,9,776,0.2,0.21231190150478796,7.494721042348296,True,Tested with recorded context controls
+material,850_kan,copper/eye,*kaṇ/*kaṉ,850,False,Copper,3700,45,3655,177,16,161,0.35555555555555557,0.04404924760601915,14.419715436832394,True,Tested with recorded context controls
+material,850_kan,copper/eye,*kaṇ/*kaṉ,850,False,Faience,3700,45,3655,356,1,355,0.022222222222222223,0.09712722298221614,1.985675153742126,True,Tested with recorded context controls
+material,850_kan,copper/eye,*kaṇ/*kaṉ,850,False,Ivory,3700,45,3655,36,0,36,0.0,0.00984952120383037,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,850_kan,copper/eye,*kaṇ/*kaṉ,850,False,Steatite,3700,45,3655,2170,16,2154,0.35555555555555557,0.5893296853625171,17.746570568020207,True,Tested with recorded context controls
+material,850_kan,copper/eye,*kaṇ/*kaṉ,850,False,Stoneware,3700,45,3655,38,1,37,0.022222222222222223,0.01012311901504788,0.9333333333333333,True,Tested with recorded context controls
+material,850_kan,copper/eye,*kaṇ/*kaṉ,850,False,Terracotta,3700,45,3655,84,1,83,0.022222222222222223,0.02270861833105335,0.9868421137068802,True,Tested with recorded context controls
+material,861_kanam,kāṇam-share,*kāṇam / *kaṇ,817; 861,False,Clay,3700,391,3309,785,53,732,0.13554987212276215,0.22121486854034453,52.65339218748691,True,Tested with recorded context controls
+material,861_kanam,kāṇam-share,*kāṇam / *kaṇ,817; 861,False,Copper,3700,391,3309,177,3,174,0.0076726342710997444,0.05258386219401632,3.8154882111851056,True,Tested with recorded context controls
+material,861_kanam,kāṇam-share,*kāṇam / *kaṇ,817; 861,False,Faience,3700,391,3309,356,24,332,0.061381074168797956,0.10033242671501964,31.445362624406833,True,Tested with recorded context controls
+material,861_kanam,kāṇam-share,*kāṇam / *kaṇ,817; 861,False,Ivory,3700,391,3309,36,3,33,0.0076726342710997444,0.009972801450589302,3.135135135135135,True,Tested with recorded context controls
+material,861_kanam,kāṇam-share,*kāṇam / *kaṇ,817; 861,False,Steatite,3700,391,3309,2170,302,1868,0.7723785166240409,0.5645210033242671,293.3448874840732,True,Tested with recorded context controls
+material,861_kanam,kāṇam-share,*kāṇam / *kaṇ,817; 861,False,Stoneware,3700,391,3309,38,0,38,0.0,0.011483831973405863,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,861_kanam,kāṇam-share,*kāṇam / *kaṇ,817; 861,False,Terracotta,3700,391,3309,84,3,81,0.0076726342710997444,0.024478694469628286,3.5439881424417505,True,Tested with recorded context controls
+material,892_vil,sale/price,*vil,892,False,Clay,3700,73,3627,785,9,776,0.1232876712328767,0.21395092362834298,11.511594577687386,True,Tested with recorded context controls
+material,892_vil,sale/price,*vil,892,False,Copper,3700,73,3627,177,0,177,0.0,0.04880066170388751,0.1480713951073893,True,Tested with recorded context controls
+material,892_vil,sale/price,*vil,892,False,Faience,3700,73,3627,356,12,344,0.1643835616438356,0.09484422387648195,12.50991549464384,True,Tested with recorded context controls
+material,892_vil,sale/price,*vil,892,False,Ivory,3700,73,3627,36,0,36,0.0,0.009925558312655087,0.02702702702702703,True,Tested with recorded context controls
+material,892_vil,sale/price,*vil,892,False,Steatite,3700,73,3627,2170,43,2127,0.589041095890411,0.586435070306038,39.12330399711025,True,Tested with recorded context controls
+material,892_vil,sale/price,*vil,892,False,Stoneware,3700,73,3627,38,2,36,0.0273972602739726,0.009925558312655087,1.8823529411764706,True,Tested with recorded context controls
+material,892_vil,sale/price,*vil,892,False,Terracotta,3700,73,3627,84,7,77,0.0958904109589041,0.021229666390956713,7.475893198058147,True,Tested with recorded context controls
+material,900_tinkal,month/moon,*tiṅkaḷ,899; 900; 920,False,Clay,3700,218,3482,785,24,761,0.11009174311926606,0.21855255600229753,21.480431429241456,True,Tested with recorded context controls
+material,900_tinkal,month/moon,*tiṅkaḷ,899; 900; 920,False,Copper,3700,218,3482,177,28,149,0.12844036697247707,0.04279149913842619,28.0503539620918,True,Tested with recorded context controls
+material,900_tinkal,month/moon,*tiṅkaḷ,899; 900; 920,False,Faience,3700,218,3482,356,10,346,0.045871559633027525,0.0993681792073521,16.743253861785917,True,Tested with recorded context controls
+material,900_tinkal,month/moon,*tiṅkaḷ,899; 900; 920,False,Ivory,3700,218,3482,36,0,36,0.0,0.010338885697874785,0.02702702702702703,True,Tested with recorded context controls
+material,900_tinkal,month/moon,*tiṅkaḷ,899; 900; 920,False,Steatite,3700,218,3482,2170,150,2020,0.6880733944954128,0.5801263641585296,145.57823330915988,True,Tested with recorded context controls
+material,900_tinkal,month/moon,*tiṅkaḷ,899; 900; 920,False,Stoneware,3700,218,3482,38,3,35,0.013761467889908258,0.010051694428489374,2.9411764705882355,True,Tested with recorded context controls
+material,900_tinkal,month/moon,*tiṅkaḷ,899; 900; 920,False,Terracotta,3700,218,3482,84,2,82,0.009174311926605505,0.023549684089603676,1.7962962962962963,True,Tested with recorded context controls
+material,904_irutinkal,two-month,"*iru-tiṅkaḷ [2× 900 *tiṅkaḷ, cR=0.905, P_cR=0.049]",904; 927,False,Clay,3700,60,3640,785,16,769,0.26666666666666666,0.21126373626373626,9.765553521351336,True,Tested with recorded context controls
+material,904_irutinkal,two-month,"*iru-tiṅkaḷ [2× 900 *tiṅkaḷ, cR=0.905, P_cR=0.049]",904; 927,False,Copper,3700,60,3640,177,4,173,0.06666666666666667,0.047527472527472525,4.144014361472685,True,Tested with recorded context controls
+material,904_irutinkal,two-month,"*iru-tiṅkaḷ [2× 900 *tiṅkaḷ, cR=0.905, P_cR=0.049]",904; 927,False,Faience,3700,60,3640,356,4,352,0.06666666666666667,0.0967032967032967,6.790453354028439,True,Tested with recorded context controls
+material,904_irutinkal,two-month,"*iru-tiṅkaḷ [2× 900 *tiṅkaḷ, cR=0.905, P_cR=0.049]",904; 927,False,Ivory,3700,60,3640,36,1,35,0.016666666666666666,0.009615384615384616,1.027027027027027,True,Tested with recorded context controls
+material,904_irutinkal,two-month,"*iru-tiṅkaḷ [2× 900 *tiṅkaḷ, cR=0.905, P_cR=0.049]",904; 927,False,Steatite,3700,60,3640,2170,34,2136,0.5666666666666667,0.5868131868131868,37.18048977677511,True,Tested with recorded context controls
+material,904_irutinkal,two-month,"*iru-tiṅkaḷ [2× 900 *tiṅkaḷ, cR=0.905, P_cR=0.049]",904; 927,False,Stoneware,3700,60,3640,38,0,38,0.0,0.010439560439560439,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,904_irutinkal,two-month,"*iru-tiṅkaḷ [2× 900 *tiṅkaḷ, cR=0.905, P_cR=0.049]",904; 927,False,Terracotta,3700,60,3640,84,0,84,0.0,0.023076923076923078,0.14814814814814814,True,Tested with recorded context controls
+material,923_maruppu,ivory/tusk,*maruppu,923,False,Clay,3700,35,3665,785,2,783,0.05714285714285714,0.2136425648021828,1.1995718574153664,True,Tested with recorded context controls
+material,923_maruppu,ivory/tusk,*maruppu,923,False,Copper,3700,35,3665,177,8,169,0.22857142857142856,0.0461118690313779,8.0130357006927,True,Tested with recorded context controls
+material,923_maruppu,ivory/tusk,*maruppu,923,False,Faience,3700,35,3665,356,2,354,0.05714285714285714,0.0965893587994543,1.2671296178294063,True,Tested with recorded context controls
+material,923_maruppu,ivory/tusk,*maruppu,923,False,Ivory,3700,35,3665,36,0,36,0.0,0.009822646657571623,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,923_maruppu,ivory/tusk,*maruppu,923,False,Steatite,3700,35,3665,2170,23,2147,0.6571428571428571,0.5858117326057298,24.37869919407944,True,Tested with recorded context controls
+material,923_maruppu,ivory/tusk,*maruppu,923,False,Stoneware,3700,35,3665,38,0,38,0.0,0.010368349249658937,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,923_maruppu,ivory/tusk,*maruppu,923,False,Terracotta,3700,35,3665,84,0,84,0.0,0.02291950886766712,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,NUM_1,1,*oru,001; 031,True,Clay,3700,350,3350,785,63,722,0.18,0.2155223880597015,64.24331794340131,True,Tested with recorded context controls
+material,NUM_1,1,*oru,001; 031,True,Copper,3700,350,3350,177,18,159,0.05142857142857143,0.04746268656716418,17.971405034493745,True,Tested with recorded context controls
+material,NUM_1,1,*oru,001; 031,True,Faience,3700,350,3350,356,22,334,0.06285714285714286,0.09970149253731343,19.819880514248048,True,Tested with recorded context controls
+material,NUM_1,1,*oru,001; 031,True,Ivory,3700,350,3350,36,3,33,0.008571428571428572,0.009850746268656717,3.1328828828828827,True,Tested with recorded context controls
+material,NUM_1,1,*oru,001; 031,True,Steatite,3700,350,3350,2170,233,1937,0.6657142857142857,0.5782089552238806,231.8348849950433,True,Tested with recorded context controls
+material,NUM_1,1,*oru,001; 031,True,Stoneware,3700,350,3350,38,1,37,0.002857142857142857,0.011044776119402985,0.9411764705882353,True,Tested with recorded context controls
+material,NUM_1,1,*oru,001; 031,True,Terracotta,3700,350,3350,84,6,78,0.017142857142857144,0.023283582089552238,5.399873703997415,True,Tested with recorded context controls
+material,NUM_12,12,*paṉṉiru,055,True,Clay,3700,49,3651,785,11,774,0.22448979591836735,0.21199671322925226,11.658710945281053,True,Tested with recorded context controls
+material,NUM_12,12,*paṉṉiru,055,True,Copper,3700,49,3651,177,0,177,0.0,0.04847986852917009,0.060828195173936214,True,Tested with recorded context controls
+material,NUM_12,12,*paṉṉiru,055,True,Faience,3700,49,3651,356,3,353,0.061224489795918366,0.09668583949602849,1.713860493413272,True,Tested with recorded context controls
+material,NUM_12,12,*paṉṉiru,055,True,Ivory,3700,49,3651,36,0,36,0.0,0.009860312243221035,0.02702702702702703,True,Tested with recorded context controls
+material,NUM_12,12,*paṉṉiru,055,True,Steatite,3700,49,3651,2170,35,2135,0.7142857142857143,0.5847712955354697,34.64076051808144,True,Tested with recorded context controls
+material,NUM_12,12,*paṉṉiru,055,True,Stoneware,3700,49,3651,38,0,38,0.0,0.010408107367844427,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,NUM_12,12,*paṉṉiru,055,True,Terracotta,3700,49,3651,84,0,84,0.0,0.023007395234182416,0.3925925925925926,True,Tested with recorded context controls
+material,NUM_2,2,*iru,002; 032,True,Clay,3700,1004,2696,785,152,633,0.15139442231075698,0.23479228486646883,160.92346136597683,True,Tested with recorded context controls
+material,NUM_2,2,*iru,002; 032,True,Copper,3700,1004,2696,177,27,150,0.026892430278884463,0.055637982195845696,27.828092532197882,True,Tested with recorded context controls
+material,NUM_2,2,*iru,002; 032,True,Faience,3700,1004,2696,356,97,259,0.09661354581673307,0.09606824925816024,91.33181685137835,True,Tested with recorded context controls
+material,NUM_2,2,*iru,002; 032,True,Ivory,3700,1004,2696,36,9,27,0.008964143426294821,0.010014836795252226,7.795045045045045,True,Tested with recorded context controls
+material,NUM_2,2,*iru,002; 032,True,Steatite,3700,1004,2696,2170,680,1490,0.6772908366533864,0.5526706231454006,680.0199856082568,True,Tested with recorded context controls
+material,NUM_2,2,*iru,002; 032,True,Stoneware,3700,1004,2696,38,8,30,0.00796812749003984,0.01112759643916914,7.741176470588235,True,Tested with recorded context controls
+material,NUM_2,2,*iru,002; 032,True,Terracotta,3700,1004,2696,84,19,65,0.018924302788844622,0.02410979228486647,18.331236651855207,True,Tested with recorded context controls
+material,NUM_3,3,*mū,003; 013; 033,True,Clay,3700,574,3126,785,101,684,0.1759581881533101,0.21880998080614203,109.44039869892282,True,Tested with recorded context controls
+material,NUM_3,3,*mū,003; 013; 033,True,Copper,3700,574,3126,177,38,139,0.06620209059233449,0.044465770953294945,39.14958715166243,True,Tested with recorded context controls
+material,NUM_3,3,*mū,003; 013; 033,True,Faience,3700,574,3126,356,103,253,0.1794425087108014,0.08093410108765195,84.120261996351,True,Tested with recorded context controls
+material,NUM_3,3,*mū,003; 013; 033,True,Ivory,3700,574,3126,36,6,30,0.010452961672473868,0.009596928982725527,5.804054054054054,True,Tested with recorded context controls
+material,NUM_3,3,*mū,003; 013; 033,True,Steatite,3700,574,3126,2170,316,1854,0.5505226480836237,0.5930902111324377,322.0444054694703,True,Tested with recorded context controls
+material,NUM_3,3,*mū,003; 013; 033,True,Stoneware,3700,574,3126,38,1,37,0.0017421602787456446,0.011836212412028152,1.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,NUM_3,3,*mū,003; 013; 033,True,Terracotta,3700,574,3126,84,4,80,0.006968641114982578,0.025591810620601407,5.679358261059291,True,Tested with recorded context controls
+material,NUM_4,4,*nāl,004; 014; 034,True,Clay,3700,215,3485,785,48,737,0.22325581395348837,0.2114777618364419,54.391281509142104,True,Tested with recorded context controls
+material,NUM_4,4,*nāl,004; 014; 034,True,Copper,3700,215,3485,177,4,173,0.018604651162790697,0.049641319942611194,4.650516788652526,True,Tested with recorded context controls
+material,NUM_4,4,*nāl,004; 014; 034,True,Faience,3700,215,3485,356,46,310,0.21395348837209302,0.08895265423242468,48.89678428760567,True,Tested with recorded context controls
+material,NUM_4,4,*nāl,004; 014; 034,True,Ivory,3700,215,3485,36,2,34,0.009302325581395349,0.00975609756097561,2.4166666666666665,True,Tested with recorded context controls
+material,NUM_4,4,*nāl,004; 014; 034,True,Steatite,3700,215,3485,2170,112,2058,0.5209302325581395,0.5905308464849355,101.34286802877006,True,Tested with recorded context controls
+material,NUM_4,4,*nāl,004; 014; 034,True,Stoneware,3700,215,3485,38,0,38,0.0,0.0109038737446198,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,NUM_4,4,*nāl,004; 014; 034,True,Terracotta,3700,215,3485,84,0,84,0.0,0.02410329985652798,0.9351115474826815,True,Tested with recorded context controls
+material,NUM_5,5,*ai,005; 015; 035,True,Clay,3700,78,3622,785,19,766,0.24358974358974358,0.21148536720044175,19.089948086352436,True,Tested with recorded context controls
+material,NUM_5,5,*ai,005; 015; 035,True,Copper,3700,78,3622,177,7,170,0.08974358974358974,0.046935394809497516,7.240417492944432,True,Tested with recorded context controls
+material,NUM_5,5,*ai,005; 015; 035,True,Faience,3700,78,3622,356,3,353,0.038461538461538464,0.09745996686913308,3.8061694983782863,True,Tested with recorded context controls
+material,NUM_5,5,*ai,005; 015; 035,True,Ivory,3700,78,3622,36,2,34,0.02564102564102564,0.009387078961899503,1.527027027027027,True,Tested with recorded context controls
+material,NUM_5,5,*ai,005; 015; 035,True,Steatite,3700,78,3622,2170,44,2126,0.5641025641025641,0.5869685256764219,43.613525175590134,True,Tested with recorded context controls
+material,NUM_5,5,*ai,005; 015; 035,True,Stoneware,3700,78,3622,38,0,38,0.0,0.010491441192711209,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,NUM_5,5,*ai,005; 015; 035,True,Terracotta,3700,78,3622,84,1,83,0.01282051282051282,0.022915516289342904,0.8475945017182129,True,Tested with recorded context controls
+material,NUM_6,6,*aṟu,006; 016,True,Clay,3700,46,3654,785,10,775,0.21739130434782608,0.21209633278598797,6.986326027797019,True,Tested with recorded context controls
+material,NUM_6,6,*aṟu,006; 016,True,Copper,3700,46,3654,177,2,175,0.043478260869565216,0.04789272030651341,2.135421764047021,True,Tested with recorded context controls
+material,NUM_6,6,*aṟu,006; 016,True,Faience,3700,46,3654,356,2,354,0.043478260869565216,0.09688013136288999,3.637057178098006,True,Tested with recorded context controls
+material,NUM_6,6,*aṟu,006; 016,True,Ivory,3700,46,3654,36,0,36,0.0,0.009852216748768473,0.05405405405405406,True,Tested with recorded context controls
+material,NUM_6,6,*aṟu,006; 016,True,Steatite,3700,46,3654,2170,31,2139,0.6739130434782609,0.5853858784893268,32.42651181427422,True,Tested with recorded context controls
+material,NUM_6,6,*aṟu,006; 016,True,Stoneware,3700,46,3654,38,0,38,0.0,0.010399562123700055,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,NUM_6,6,*aṟu,006; 016,True,Terracotta,3700,46,3654,84,0,84,0.0,0.022988505747126436,0.373015873015873,True,Tested with recorded context controls
+material,NUM_7,7,*ēḻ,007; 017,True,Clay,3700,75,3625,785,13,772,0.17333333333333334,0.2129655172413793,11.65240068229725,True,Tested with recorded context controls
+material,NUM_7,7,*ēḻ,007; 017,True,Copper,3700,75,3625,177,12,165,0.16,0.04551724137931035,12.416987590727064,True,Tested with recorded context controls
+material,NUM_7,7,*ēḻ,007; 017,True,Faience,3700,75,3625,356,1,355,0.013333333333333334,0.09793103448275862,3.1530389766316023,True,Tested with recorded context controls
+material,NUM_7,7,*ēḻ,007; 017,True,Ivory,3700,75,3625,36,0,36,0.0,0.009931034482758621,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,NUM_7,7,*ēḻ,007; 017,True,Steatite,3700,75,3625,2170,48,2122,0.64,0.5853793103448276,46.411884470101874,True,Tested with recorded context controls
+material,NUM_7,7,*ēḻ,007; 017,True,Stoneware,3700,75,3625,38,0,38,0.0,0.010482758620689656,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,NUM_7,7,*ēḻ,007; 017,True,Terracotta,3700,75,3625,84,0,84,0.0,0.023172413793103447,0.5060764741177112,True,Tested with recorded context controls
+material,new:*alaku,grain / paddy,*alaku,831; 833,False,Clay,3700,17,3683,785,1,784,0.058823529411764705,0.21286994298126527,1.423622404830014,True,Tested with recorded context controls
+material,new:*alaku,grain / paddy,*alaku,831; 833,False,Copper,3700,17,3683,177,2,175,0.11764705882352941,0.047515612272603855,2.015243206211464,True,Tested with recorded context controls
+material,new:*alaku,grain / paddy,*alaku,831; 833,False,Faience,3700,17,3683,356,3,353,0.17647058823529413,0.09584577789845235,1.782209674947741,True,Tested with recorded context controls
+material,new:*alaku,grain / paddy,*alaku,831; 833,False,Ivory,3700,17,3683,36,0,36,0.0,0.00977464023893565,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,new:*alaku,grain / paddy,*alaku,831; 833,False,Steatite,3700,17,3683,2170,10,2160,0.5882352941176471,0.586478414336139,10.770516533944116,True,Tested with recorded context controls
+material,new:*alaku,grain / paddy,*alaku,831; 833,False,Stoneware,3700,17,3683,38,1,37,0.058823529411764705,0.01004615802335053,0.9411764705882353,True,Tested with recorded context controls
+material,new:*alaku,grain / paddy,*alaku,831; 833,False,Terracotta,3700,17,3683,84,0,84,0.0,0.02280749389084985,0.018518518518518517,True,Tested with recorded context controls
+material,new:*iru / *iṟai,sit / tribute (alternative readings),*iru / *iṟai (plain base),175,False,Clay,3700,22,3678,785,7,778,0.3181818181818182,0.2115280043501903,4.115155051006908,True,Tested with recorded context controls
+material,new:*iru / *iṟai,sit / tribute (alternative readings),*iru / *iṟai (plain base),175,False,Copper,3700,22,3678,177,0,177,0.0,0.04812398042414356,0.03806926843125853,True,Tested with recorded context controls
+material,new:*iru / *iṟai,sit / tribute (alternative readings),*iru / *iṟai (plain base),175,False,Faience,3700,22,3678,356,4,352,0.18181818181818182,0.0957041870581838,3.27228235733373,True,Tested with recorded context controls
+material,new:*iru / *iṟai,sit / tribute (alternative readings),*iru / *iṟai (plain base),175,False,Ivory,3700,22,3678,36,0,36,0.0,0.009787928221859706,0.02702702702702703,True,Tested with recorded context controls
+material,new:*iru / *iṟai,sit / tribute (alternative readings),*iru / *iṟai (plain base),175,False,Steatite,3700,22,3678,2170,10,2160,0.45454545454545453,0.5872756933115824,13.303329862096248,True,Tested with recorded context controls
+material,new:*iru / *iṟai,sit / tribute (alternative readings),*iru / *iṟai (plain base),175,False,Stoneware,3700,22,3678,38,1,37,0.045454545454545456,0.010059815116911366,1.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,new:*iru / *iṟai,sit / tribute (alternative readings),*iru / *iṟai (plain base),175,False,Terracotta,3700,22,3678,84,0,84,0.0,0.022838499184339316,0.02882779686903398,True,Tested with recorded context controls
+material,new:*kaṇṇi,garland / wreath / neckrope,*kaṇṇi,460; 463,False,Clay,3700,57,3643,785,7,778,0.12280701754385964,0.21356025253911612,4.826033217030729,True,Tested with recorded context controls
+material,new:*kaṇṇi,garland / wreath / neckrope,*kaṇṇi,460; 463,False,Copper,3700,57,3643,177,3,174,0.05263157894736842,0.047762832830085096,2.706943440616689,True,Tested with recorded context controls
+material,new:*kaṇṇi,garland / wreath / neckrope,*kaṇṇi,460; 463,False,Faience,3700,57,3643,356,4,352,0.07017543859649122,0.09662366181718364,3.3685684385412613,True,Tested with recorded context controls
+material,new:*kaṇṇi,garland / wreath / neckrope,*kaṇṇi,460; 463,False,Ivory,3700,57,3643,36,0,36,0.0,0.009881965413121054,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,new:*kaṇṇi,garland / wreath / neckrope,*kaṇṇi,460; 463,False,Steatite,3700,57,3643,2170,43,2127,0.7543859649122807,0.5838594564919023,45.75758895082739,True,Tested with recorded context controls
+material,new:*kaṇṇi,garland / wreath / neckrope,*kaṇṇi,460; 463,False,Stoneware,3700,57,3643,38,0,38,0.0,0.01043096349162778,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,new:*kaṇṇi,garland / wreath / neckrope,*kaṇṇi,460; 463,False,Terracotta,3700,57,3643,84,0,84,0.0,0.02305791929728246,0.08438335242458953,True,Tested with recorded context controls
+material,new:*koḍame / *caṭṭi,pot / vessel / pan,*koḍame / *caṭṭi (grain-bin rung),335,False,Clay,3700,33,3667,785,7,778,0.21212121212121213,0.21216253067902918,7.944620942946646,True,Tested with recorded context controls
+material,new:*koḍame / *caṭṭi,pot / vessel / pan,*koḍame / *caṭṭi (grain-bin rung),335,False,Copper,3700,33,3667,177,0,177,0.0,0.0482683392418871,0.06155786818038474,True,Tested with recorded context controls
+material,new:*koḍame / *caṭṭi,pot / vessel / pan,*koḍame / *caṭṭi (grain-bin rung),335,False,Faience,3700,33,3667,356,17,339,0.5151515151515151,0.09244614125988547,8.800817226094807,True,Tested with recorded context controls
+material,new:*koḍame / *caṭṭi,pot / vessel / pan,*koḍame / *caṭṭi (grain-bin rung),335,False,Ivory,3700,33,3667,36,0,36,0.0,0.00981728933733297,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,new:*koḍame / *caṭṭi,pot / vessel / pan,*koḍame / *caṭṭi (grain-bin rung),335,False,Steatite,3700,33,3667,2170,9,2161,0.2727272727272727,0.5893100627215707,15.864286059410704,True,Tested with recorded context controls
+material,new:*koḍame / *caṭṭi,pot / vessel / pan,*koḍame / *caṭṭi (grain-bin rung),335,False,Stoneware,3700,33,3667,38,0,38,0.0,0.010362694300518135,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,new:*koḍame / *caṭṭi,pot / vessel / pan,*koḍame / *caṭṭi (grain-bin rung),335,False,Terracotta,3700,33,3667,84,0,84,0.0,0.02290700845377693,0.06507936507936507,True,Tested with recorded context controls
+material,new:*kō,king / emperor / chief / leadership,*kō,482,False,Clay,3700,28,3672,785,6,779,0.21428571428571427,0.21214596949891068,4.52452208759961,True,Tested with recorded context controls
+material,new:*kō,king / emperor / chief / leadership,*kō,482,False,Copper,3700,28,3672,177,0,177,0.0,0.04820261437908497,0.015243206211463804,True,Tested with recorded context controls
+material,new:*kō,king / emperor / chief / leadership,*kō,482,False,Faience,3700,28,3672,356,6,350,0.21428571428571427,0.09531590413943355,3.9383605990331576,True,Tested with recorded context controls
+material,new:*kō,king / emperor / chief / leadership,*kō,482,False,Ivory,3700,28,3672,36,1,35,0.03571428571428571,0.009531590413943355,1.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,new:*kō,king / emperor / chief / leadership,*kō,482,False,Steatite,3700,28,3672,2170,15,2155,0.5357142857142857,0.5868736383442266,18.356361841367576,True,Tested with recorded context controls
+material,new:*kō,king / emperor / chief / leadership,*kō,482,False,Stoneware,3700,28,3672,38,0,38,0.0,0.010348583877995643,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,new:*kō,king / emperor / chief / leadership,*kō,482,False,Terracotta,3700,28,3672,84,0,84,0.0,0.02287581699346405,0.026455026455026454,True,Tested with recorded context controls
+material,new:*kōl / *kol,smith / iron,*kōl / *kol,142,False,Clay,3700,67,3633,785,7,778,0.1044776119402985,0.21414808698045693,7.389112526479073,True,Tested with recorded context controls
+material,new:*kōl / *kol,smith / iron,*kōl / *kol,142,False,Copper,3700,67,3633,177,15,162,0.22388059701492538,0.04459124690338563,15.067308514787463,True,Tested with recorded context controls
+material,new:*kōl / *kol,smith / iron,*kōl / *kol,142,False,Faience,3700,67,3633,356,7,349,0.1044776119402985,0.09606385906963942,4.958975652136813,True,Tested with recorded context controls
+material,new:*kōl / *kol,smith / iron,*kōl / *kol,142,False,Ivory,3700,67,3633,36,0,36,0.0,0.00990916597853014,0.02702702702702703,True,Tested with recorded context controls
+material,new:*kōl / *kol,smith / iron,*kōl / *kol,142,False,Steatite,3700,67,3633,2170,38,2132,0.5671641791044776,0.5868428296173961,38.78465369556882,True,Tested with recorded context controls
+material,new:*kōl / *kol,smith / iron,*kōl / *kol,142,False,Stoneware,3700,67,3633,38,0,38,0.0,0.010459675199559593,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,new:*kōl / *kol,smith / iron,*kōl / *kol,142,False,Terracotta,3700,67,3633,84,0,84,0.0,0.023121387283236993,0.2778428139252881,True,Tested with recorded context controls
+material,new:*kūṉ,cauldron,*kūṉ,165,False,Clay,3700,25,3675,785,3,782,0.12,0.2127891156462585,2.0771455827634626,True,Tested with recorded context controls
+material,new:*kūṉ,cauldron,*kūṉ,165,False,Copper,3700,25,3675,177,5,172,0.2,0.046802721088435376,5.010828195173936,True,Tested with recorded context controls
+material,new:*kūṉ,cauldron,*kūṉ,165,False,Faience,3700,25,3675,356,0,356,0.0,0.09687074829931973,1.1629216407812968,True,Tested with recorded context controls
+material,new:*kūṉ,cauldron,*kūṉ,165,False,Ivory,3700,25,3675,36,0,36,0.0,0.009795918367346938,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,new:*kūṉ,cauldron,*kūṉ,165,False,Steatite,3700,25,3675,2170,16,2154,0.64,0.5861224489795919,15.584035503769618,True,Tested with recorded context controls
+material,new:*kūṉ,cauldron,*kūṉ,165,False,Stoneware,3700,25,3675,38,0,38,0.0,0.010340136054421769,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,new:*kūṉ,cauldron,*kūṉ,165,False,Terracotta,3700,25,3675,84,1,83,0.04,0.022585034013605444,1.037037037037037,True,Tested with recorded context controls
+material,new:*kūṭu,assemble / join / store / stored / together,*kūṭu,630; 632; 634; 635; 637,False,Clay,3700,58,3642,785,6,779,0.10344827586206896,0.21389346512904997,7.947040630971294,True,Tested with recorded context controls
+material,new:*kūṭu,assemble / join / store / stored / together,*kūṭu,630; 632; 634; 635; 637,False,Copper,3700,58,3642,177,3,174,0.05172413793103448,0.047775947281713346,3.0999249385343512,True,Tested with recorded context controls
+material,new:*kūṭu,assemble / join / store / stored / together,*kūṭu,630; 632; 634; 635; 637,False,Faience,3700,58,3642,356,7,349,0.1206896551724138,0.0958264689730917,6.662795399760848,True,Tested with recorded context controls
+material,new:*kūṭu,assemble / join / store / stored / together,*kūṭu,630; 632; 634; 635; 637,False,Ivory,3700,58,3642,36,0,36,0.0,0.009884678747940691,0.02702702702702703,True,Tested with recorded context controls
+material,new:*kūṭu,assemble / join / store / stored / together,*kūṭu,630; 632; 634; 635; 637,False,Steatite,3700,58,3642,2170,39,2131,0.6724137931034483,0.585118066996156,37.049043715160245,True,Tested with recorded context controls
+material,new:*kūṭu,assemble / join / store / stored / together,*kūṭu,630; 632; 634; 635; 637,False,Stoneware,3700,58,3642,38,2,36,0.034482758620689655,0.009884678747940691,1.8823529411764706,True,Tested with recorded context controls
+material,new:*kūṭu,assemble / join / store / stored / together,*kūṭu,630; 632; 634; 635; 637,False,Terracotta,3700,58,3642,84,1,83,0.017241379310344827,0.022789676002196595,0.9735122456771942,True,Tested with recorded context controls
+material,new:*mūṭai-vari,bale tax / marked bale,*mūṭai-vari,595,False,Clay,3700,41,3659,785,3,782,0.07317073170731707,0.21371959551790107,2.4511789930015966,True,Tested with recorded context controls
+material,new:*mūṭai-vari,bale tax / marked bale,*mūṭai-vari,595,False,Copper,3700,41,3659,177,9,168,0.21951219512195122,0.04591418420333424,8.379813958999883,True,Tested with recorded context controls
+material,new:*mūṭai-vari,bale tax / marked bale,*mūṭai-vari,595,False,Faience,3700,41,3659,356,0,356,0.0,0.09729434271658924,0.593399882340617,True,Tested with recorded context controls
+material,new:*mūṭai-vari,bale tax / marked bale,*mūṭai-vari,595,False,Ivory,3700,41,3659,36,0,36,0.0,0.009838753757857338,0.02702702702702703,True,Tested with recorded context controls
+material,new:*mūṭai-vari,bale tax / marked bale,*mūṭai-vari,595,False,Steatite,3700,41,3659,2170,27,2143,0.6585365853658537,0.5856791473080076,27.1382337196103,True,Tested with recorded context controls
+material,new:*mūṭai-vari,bale tax / marked bale,*mūṭai-vari,595,False,Stoneware,3700,41,3659,38,1,37,0.024390243902439025,0.010112052473353375,1.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,new:*mūṭai-vari,bale tax / marked bale,*mūṭai-vari,595,False,Terracotta,3700,41,3659,84,0,84,0.0,0.02295709210166712,0.06586483390607102,True,Tested with recorded context controls
+material,new:*paṟai,measure / capacity,*paṟai,540,False,Clay,3700,17,3683,785,7,778,0.4117647058823529,0.211240836274776,6.382235323663257,True,Tested with recorded context controls
+material,new:*paṟai,measure / capacity,*paṟai,540,False,Copper,3700,17,3683,177,1,176,0.058823529411764705,0.047787130057018734,1.0679710523167933,True,Tested with recorded context controls
+material,new:*paṟai,measure / capacity,*paṟai,540,False,Faience,3700,17,3683,356,3,353,0.17647058823529413,0.09584577789845235,1.2197402194437728,True,Tested with recorded context controls
+material,new:*paṟai,measure / capacity,*paṟai,540,False,Ivory,3700,17,3683,36,0,36,0.0,0.00977464023893565,0.02702702702702703,True,Tested with recorded context controls
+material,new:*paṟai,measure / capacity,*paṟai,540,False,Steatite,3700,17,3683,2170,4,2166,0.23529411764705882,0.5881075210426283,5.493834883212614,True,Tested with recorded context controls
+material,new:*paṟai,measure / capacity,*paṟai,540,False,Stoneware,3700,17,3683,38,0,38,0.0,0.010317675807765408,0.5,True,Tested with recorded context controls
+material,new:*paṟai,measure / capacity,*paṟai,540,False,Terracotta,3700,17,3683,84,1,83,0.058823529411764705,0.02253597610643497,0.9474323062558356,True,Tested with recorded context controls
+material,new:*taṇṭu,collect / levy / recover,*taṇṭu,104,False,Clay,3700,16,3684,785,3,782,0.1875,0.21226927252985886,4.89053944527028,True,Tested with recorded context controls
+material,new:*taṇṭu,collect / levy / recover,*taṇṭu,104,False,Copper,3700,16,3684,177,0,177,0.0,0.04804560260586319,0.010828195173936211,True,Tested with recorded context controls
+material,new:*taṇṭu,collect / levy / recover,*taṇṭu,104,False,Faience,3700,16,3684,356,3,353,0.1875,0.09581976112920738,0.7846580872193334,True,Tested with recorded context controls
+material,new:*taṇṭu,collect / levy / recover,*taṇṭu,104,False,Ivory,3700,16,3684,36,0,36,0.0,0.009771986970684038,0.02702702702702703,True,Tested with recorded context controls
+material,new:*taṇṭu,collect / levy / recover,*taṇṭu,104,False,Steatite,3700,16,3684,2170,9,2161,0.5625,0.5865906623235614,9.048513142814226,True,Tested with recorded context controls
+material,new:*taṇṭu,collect / levy / recover,*taṇṭu,104,False,Stoneware,3700,16,3684,38,0,38,0.0,0.01031487513572204,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,new:*taṇṭu,collect / levy / recover,*taṇṭu,104,False,Terracotta,3700,16,3684,84,1,83,0.0625,0.02252985884907709,1.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,new:*toṭṭi / *koṭṭakai,watchman / servant / messenger,*toṭṭi / *koṭṭakai,350,False,Clay,3700,39,3661,785,2,783,0.05128205128205128,0.21387599016662115,2.102209983164975,True,Tested with recorded context controls
+material,new:*toṭṭi / *koṭṭakai,watchman / servant / messenger,*toṭṭi / *koṭṭakai,350,False,Copper,3700,39,3661,177,1,176,0.02564102564102564,0.04807429664026222,0.05,True,Tested with recorded context controls
+material,new:*toṭṭi / *koṭṭakai,watchman / servant / messenger,*toṭṭi / *koṭṭakai,350,False,Faience,3700,39,3661,356,2,354,0.05128205128205128,0.09669489210598198,1.726130118242462,True,Tested with recorded context controls
+material,new:*toṭṭi / *koṭṭakai,watchman / servant / messenger,*toṭṭi / *koṭṭakai,350,False,Ivory,3700,39,3661,36,0,36,0.0,0.009833378858235455,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,new:*toṭṭi / *koṭṭakai,watchman / servant / messenger,*toṭṭi / *koṭṭakai,350,False,Steatite,3700,39,3661,2170,33,2137,0.8461538461538461,0.5837202950013658,33.183255855912854,True,Tested with recorded context controls
+material,new:*toṭṭi / *koṭṭakai,watchman / servant / messenger,*toṭṭi / *koṭṭakai,350,False,Stoneware,3700,39,3661,38,0,38,0.0,0.01037967768369298,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,new:*toṭṭi / *koṭṭakai,watchman / servant / messenger,*toṭṭi / *koṭṭakai,350,False,Terracotta,3700,39,3661,84,1,83,0.02564102564102564,0.022671401256487297,1.8185185185185186,True,Tested with recorded context controls
+material,new:*tūtai,vessel / capacity / measure,*tūtai (metal/vessel unit),480,False,Clay,3700,37,3663,785,19,766,0.5135135135135135,0.2091182091182091,18.806730454947974,True,Tested with recorded context controls
+material,new:*tūtai,vessel / capacity / measure,*tūtai (metal/vessel unit),480,False,Copper,3700,37,3663,177,3,174,0.08108108108108109,0.0475020475020475,2.3421633554083883,True,Tested with recorded context controls
+material,new:*tūtai,vessel / capacity / measure,*tūtai (metal/vessel unit),480,False,Faience,3700,37,3663,356,1,355,0.02702702702702703,0.09691509691509692,2.2301102764988334,True,Tested with recorded context controls
+material,new:*tūtai,vessel / capacity / measure,*tūtai (metal/vessel unit),480,False,Ivory,3700,37,3663,36,0,36,0.0,0.009828009828009828,0.02702702702702703,True,Tested with recorded context controls
+material,new:*tūtai,vessel / capacity / measure,*tūtai (metal/vessel unit),480,False,Steatite,3700,37,3663,2170,9,2161,0.24324324324324326,0.5899535899535899,8.168749743840506,True,Tested with recorded context controls
+material,new:*tūtai,vessel / capacity / measure,*tūtai (metal/vessel unit),480,False,Stoneware,3700,37,3663,38,0,38,0.0,0.010374010374010374,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,new:*tūtai,vessel / capacity / measure,*tūtai (metal/vessel unit),480,False,Terracotta,3700,37,3663,84,5,79,0.13513513513513514,0.021567021567021567,4.435574229691877,True,Tested with recorded context controls
+material,new:*tūṅku / *niṟai,weigh / weight / balance / scales,*tūṅku / *niṟai (weight std),171,False,Clay,3700,23,3677,785,1,784,0.043478260869565216,0.21321729670927386,3.496483705084791,True,Tested with recorded context controls
+material,new:*tūṅku / *niṟai,weigh / weight / balance / scales,*tūṅku / *niṟai (weight std),171,False,Copper,3700,23,3677,177,0,177,0.0,0.04813706826217025,0.04344461892082565,True,Tested with recorded context controls
+material,new:*tūṅku / *niṟai,weigh / weight / balance / scales,*tūṅku / *niṟai (weight std),171,False,Faience,3700,23,3677,356,1,355,0.043478260869565216,0.09654609736197987,3.5613889389217586,True,Tested with recorded context controls
+material,new:*tūṅku / *niṟai,weigh / weight / balance / scales,*tūṅku / *niṟai (weight std),171,False,Ivory,3700,23,3677,36,0,36,0.0,0.009790590155017678,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,new:*tūṅku / *niṟai,weigh / weight / balance / scales,*tūṅku / *niṟai (weight std),171,False,Steatite,3700,23,3677,2170,19,2151,0.8260869565217391,0.5849877617623063,15.447082682986121,True,Tested with recorded context controls
+material,new:*tūṅku / *niṟai,weigh / weight / balance / scales,*tūṅku / *niṟai (weight std),171,False,Stoneware,3700,23,3677,38,0,38,0.0,0.010334511830296437,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+material,new:*tūṅku / *niṟai,weigh / weight / balance / scales,*tūṅku / *niṟai (weight std),171,False,Terracotta,3700,23,3677,84,1,83,0.043478260869565216,0.022572749524068535,0.17061855670103093,True,Tested with recorded context controls

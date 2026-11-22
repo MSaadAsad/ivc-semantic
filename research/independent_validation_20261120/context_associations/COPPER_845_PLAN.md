@@ -1,0 +1,11 @@
+# Sign 845 within copper tablets: analysis specification
+
+Recorded 2026-11-21 before running `copper845.py`. This is a retrospective extension, not a preregistered or fresh-corpus test. Counts and the absence of overlapping exact remainder families were inspected before this specification.
+
+- Unit: the existing Lipi physical-object / known-copy-batch representatives. Select material Copper and kind ctab. Preserve unknown metadata; exclude it separately for each endpoint. Do not pool Harappa's cast copper objects into Mohenjo-daro's incised-tablet genre.
+- Exposure: recorded sign 845, without filling damaged signs from other copies. Control sign 407 explicitly.
+- Outcomes: the recorded excavation area, recorded phase/period combination, and existing catalogue animal/motif category. These are descriptive archaeological/iconographic categories, not independent labels for taxation.
+- Nested comparisons: site; site plus 407; site plus 407 plus motif; those variables plus the complete inscription with 845 removed. Omit the motif-controlled model when motif is the outcome. The final control deliberately looks for otherwise identical inscriptions that differ in 845. It may leave no comparison; report that as non-identifiability, not p=1 or evidence against the meaning.
+- Statistic: sum of squared category residuals divided by conditional category variances. Randomize 845 presence within each control group, preserving each group's exposure count. Use 19,999 permutations with a fixed seed and plus-one p values; Bonferroni factor 12 covers all planned endpoint/model combinations. Report both object counts and a sensitivity giving each complete formula total weight one. Weighting is a sensitivity, not a new independent corpus.
+- Publish every copper-tablet row, all 29 845-copper specimen references/findspots, motif counts, remainder-family overlap, all statistics and all permutation statistics. Name pre-existing copper/text/motif and findspot work; do not present their broad conclusions as new.
+- Archaeological function must come from an excavation-source crosswalk. A room code, a motif, or an inscription translated as tax is insufficient to label a findspot tax office, gateway, workshop or storeroom. If no such crosswalk is established for these objects, leave function unknown and state that the decisive semantic test remains unperformed.

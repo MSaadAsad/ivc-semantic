@@ -47,7 +47,7 @@
     "work_data/key6a/newly_glossed_wave4.csv": 272,
     "work_data/key5a/newly_glossed_inscriptions.csv": 559
   },
-  "source_commit": "d37d9d95a629d6ec02dd8652e9b3b2afec53004e",
+  "source_commit": "2f7666c7cfbd39fceebcfb28b0d8091ac511bb50",
   "metadata_sha256": "b3e2a94efdf70eaa893bbbbd35fd057b53f766c82823a3efb8ee37f9365311fe",
   "count_unit": "catalogue face/line records; paired catalogues and repeated objects are retained, not independent artifacts",
   "caution": "All translations remain proposals. Zero unassigned signs is a mapping-completeness count, not evidence of decipherment."

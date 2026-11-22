@@ -6,6 +6,8 @@ This continuation starts from work-branch commit **`727dfd411a4faa44d193d2047575
 
 ## Deliverables
 
+- [Word/context associations and actual findspots](context_associations/README.md): 81 frozen word/allograph groups, 4,476 representative objects, all 7,773 estimable contrasts across six context axes, 49,999 conditional permutations, full-screen correction and a complete-formula repetition sensitivity. The known tax/copper pattern is retained as a descriptive result; two primary borderline contrasts do not remain below the cutoff after formula weighting. The catalogue and word-pair HTML now show actual locations beside readings and link association results to the matching records. The [845-specific copper-tablet audit](context_associations/results/COPPER_845.md) also lists every one of the 29 specimens and tests site/407/motif controls; no exact remainder family supplies both 845-present and 845-absent tablets.
+
 - [Complete proposed-reading and findspot catalogue](translation_catalogue/README.md), prepared before the reconstruction comparison: all 9,252 catalogue face/line observations, 163 sign meanings, 50,340 archived versions from 31 structured sources, and 17 additional unjoined frontier reading records.
 - [Full reconstruction-table screen](proto_reconstruction/README.md): all 15,629 records, 178 existing pair recipes across 93 candidate sign IDs, every current sign and all 9,252 corpus observations. Preserves source/ancestral-level distinctions, corrects one imported fish/DEDR link against the publisher's index, distinguishes exact-form equality from missing evidence and semantic ambiguity, and releases the full exploratory alternative-pair search.
 

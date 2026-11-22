@@ -1,0 +1,82 @@
+word_id,proposed_meaning,original_frozen_label,proposed_root,signs,events,numeral
+060_ul,in/of,in/of,*-uḷ / *-iṉ (loc.-obl.),060,217,False
+090_al,manager,manager,*āḷ,090; 097; 219,192,False
+091_irual,two-managers,two-managers,*iru-āḷ / *iruvar (2x 090),091,27,False
+100_talai,chief,chief,*talai,100; 101; 103,143,False
+125_vilal,merchant,merchant,"*vil-āḷ [090 *āḷ + 892 *vil bow/sell, 2-br PhonEx, P=0.049]",125,58,False
+140_amma,matron/lady,matron/lady,*ammā,140,108,False
+154_ka,guard/porter,guard/porter,"154 *kā (M15 yoke-load/guard allograph, 5 swaps, P=0.0092)",151; 153; 154; 155; 156; 157; 158,269,False
+161_olika,roofed-guard,roofed-guard,*oḷi-kā / *[ROOF]-kā,159; 160; 161,24,False
+176_irai,tax/tribute,tax/tribute,*iṟai/*iru,176; 177; 178,198,False
+215_arici,rice,rice,*arici,215; 216,14,False
+220_min,star,star,*mīṉ,220; 222; 226,493,False
+231_ulmin,inner-star,inner-star,*uḷ-mīṉ / *iṟai-mīṉ [220 + 1 internal stroke],231; 232,101,False
+233_vetimin,dawn-star,dawn-star,*veṭi-mīṉ,233; 234,197,False
+235_olimin,bright-star,bright-star,*oḷi-mīṉ,235; 236,259,False
+240_katirmin,rayed-star,rayed-star,*katir-mīṉ / *cāy-mīṉ,240; 241; 242,332,False
+255_mutal,principal/first,principal/first,"*mutal [crocodile->first/principal, DEDR 4952/4950, 2-br PhonSt]",255,133,False
+320_pati,ration/paṭi,ration/paṭi,*paṭi,320; 322; 323; 324; 325,35,False
+368_koti,grant/banner,grant/banner,*koṭi ~ *koṭu,368,115,False
+390_tai,weave/cloth,weave/cloth,*tai,390; 392; 405; 406; 408; 409,398,False
+400_cikka,junior,junior,*cikka/*cikkam,400; 402,476,False
+407_koti,new-cloth,new-cloth,*kōṭi,407,110,False
+413_ari,grain-tax/cut,grain-tax/cut,"*ari [ear-of-grain->tax/cut, DEDR 215/216/212, 2-br PhonEx]",413,53,False
+415_kavar,branch/control,branch/control,*kavar,415,170,False
+416_turai,port/double-branch,port/double-branch,*iru-kavar / *tuṟai,416,53,False
+435_totti,attendant,attendant,*tōṭṭi,435; 436,89,False
+440_mukku,goblet/corner,goblet/corner,*mukku,440,51,False
+500_pay,sail/voyage,sail/voyage,*pāy,500,19,False
+503_malai,garland/bead-strand,garland/bead-strand,*malai ~ *mālai,491; 495; 503,117,False
+520_vel,lord,lord,*vēḷ/*vēl,520,291,False
+550_natu,district,district,*nāṭu,550; 555,143,False
+575_kottai,kōṭṭai(665L),kōṭṭai(665L),*kōṭṭai,575,73,False
+590_mutai,bale/sack-load,bale/sack-load,*mūṭai,590; 592,228,False
+615_accu,loom-reed/plot,loom-reed/plot,*accu,615,59,False
+617_iruaccu,twin-plot/loom,twin-plot/loom,*iru-accu (2x 615),617,73,False
+690_kattu,bundle/store,bundle/store,*kaṭṭu / *piṇai,690,109,False
+700_ala,measure,measure,*aḷa / *akal,700,524,False
+703_muala,three-measures,three-measures,*mū-aḷa / *mū-akal,703,12,False
+705_kalam,ship/kalam-measure,ship/kalam-measure,*kalam/*kaḷam,704; 705; 706; 707,296,False
+711_vallam,vaḷḷam(37L),vaḷḷam(37L),*vaḷḷam,711,18,False
+717_ati,base/foundational,base/foundational,*aṭi,716; 717,57,False
+740_kuti,house,house,*kuṭi/*kuṭam,740,1746,False
+741_orukuti,single-house,single-house,*oru-kuṭi,741,207,False
+742_irukuti,twin-house,twin-house,*iru-kuṭi [740 + 2 internal strokes],742; 743; 744,56,False
+745_mukuti,three-house,three-house,*mū-kuṭi [740 + 3 internal strokes],745; 746; 747,52,False
+760_kuruku,youth/scion,youth/scion,*kuruku / *koḻuntu,752; 760,167,False
+790_valai,bangle,bangle,*vaḷai,790,48,False
+798_totu,bound-guild,bound-guild,*toṭu / *iṭukku,193; 195; 797; 798,156,False
+806_kampu,millet/grain,millet/grain,*kampu ~ *kāmpu,803; 804; 806; 807,268,False
+820_kal,quarter-share,quarter-share,*kāl,061; 062; 820,319,False
+821_irukal,two-quarters,two-quarters,*iru-kāl (2x 820),821,13,False
+832_ulvalai,inner-bangle,inner-bangle,*uḷ-vaḷai / *oru-vaḷai,832,43,False
+840_inai,pair/pact,pair/pact,*iṇai,840,126,False
+845_vari,tax/levy,tax/levy,*vari (hatched 840),845,43,False
+850_kan,copper/eye,copper/eye,*kaṇ/*kaṉ,850,51,False
+861_kanam,kāṇam-share,kāṇam-share,*kāṇam / *kaṇ,817; 861,465,False
+892_vil,sale/price,sale/price,*vil,892,87,False
+900_tinkal,month/moon,month/moon,*tiṅkaḷ,899; 900; 920,255,False
+904_irutinkal,two-month,two-month,"*iru-tiṅkaḷ [2× 900 *tiṅkaḷ, cR=0.905, P_cR=0.049]",904; 927,71,False
+923_maruppu,ivory/tusk,ivory/tusk,*maruppu,923,40,False
+NUM_1,1,1,*oru,001; 031,414,True
+NUM_12,12,12,*paṉṉiru,055,56,True
+NUM_2,2,2,*iru,002; 032,1198,True
+NUM_3,3,3,*mū,003; 013; 033,692,True
+NUM_4,4,4,*nāl,004; 014; 034,249,True
+NUM_5,5,5,*ai,005; 015; 035,90,True
+NUM_6,6,6,*aṟu,006; 016,54,True
+NUM_7,7,7,*ēḻ,007; 017,85,True
+new:*alaku,grain / paddy,"Leaf w/ diagonal central rib / blade-feather (M379): exact 2-br PhonEx (Fixed & Raw) DEDR 237 alaku ('blade, weaver's stay') <-> 255 alaku ('grains of paddy, ear of paddy'); 831-892 (*vil sale, 4x), 831-615 (*accu field-plot, 4x), Foreign Export Circuit (Luristan); triggers Key 4D PureAllo 833",*alaku,831; 833,20,False
+new:*iru / *iṟai,sit / tribute (alternative readings),"T6 HOLD RESCUED: Plain seated person (M47) is exact uncaged base of locked 176 (M48 seated + 4 strokes): inverse cage_4corners signature cosL=0.910, cosR=0.195, cL-cR=+0.714, dF400=+0.663 (exact 5,000-shuf P_score=0.00480, P_joint=0.00240, matching all 5 locked cage pairs)",*iru / *iṟai (plain base),175,27,False
+new:*kaṇṇi,garland / wreath / neckrope,"Three triangular shoots (M230): exact 2-br PhonEx DEDR 1353 kaṇṇi ('shoot or branch growing') <-> 1184 kaṇṇi ('wreath, garland, neckrope') + DIRECT 3119 taḻai; 11/99 of locked 503/495 *mālai immediately precede 460 (OR=56.9x, Fisher P=5.96e-15); triggers Key 4D WorkshopAllo 463",*kaṇṇi,460; 463,66,False
+new:*koḍame / *caṭṭi,pot / vessel / pan,"Double-chamber M-bin (M192): Track B metrology ladder lock — 13/28 (46.4%) precede 711 *vaḷḷam vs 0/11,012 bg (Fisher P=6.49e-36, 100% of all 711 occurrences!), 16/60 of 575 *kōṭṭai precede 335 (OR=332.4x, P=1.89e-30); DIRECT 2047 koḍame ('double basket') + PhonSt 2304/2306; unlocks 413-575-335-711-033-700 (10x)",*koḍame / *caṭṭi (grain-bin rung),335,38,False
+new:*kō,king / emperor / chief / leadership,"Crowned mountain caret w/ diamond at apex (M135): exact 2-br PhonEx (Fixed & Raw) DEDR 2178 kō ('mountain') <-> 2177 kō ('emperor, king, great man, leadership') + PhonEx 5552/5549 vai ('point <-> store'); Sangam TAM23 kōṉ; 19/497 of 240/235 *mīṉ precede 482 (OR=29.9x, P=8.46e-18), 31/33 (93.9%) precede 740/752 *kuṭi (OR=98.9x, P=6.43e-25)",*kō,482,40,False
+new:*kōl / *kol,smith / iron,"HOLDOUT RESCUED: Person w/ vertical staff (M25): exact 2-br PhonEx (Fixed & Raw) DEDR 2237 kōl ('stick, staff') <-> 2133 kol ('working in iron, blacksmith') + DIRECT 4660 maṭṭam ('measure, rule, gauging rod'); MD copper tablets L OR=7.34x, N OR=22.41x; 46/76 (60.5% non-final, 55.4% all 83) precede 615/617 *accu (OR=101.6x, Fisher P=2.43e-61)",*kōl / *kol,142,79,False
+new:*kūṉ,cauldron,"Curved dome w/ inward spiral curl / snail (M319): exact 2-br PhonEx (Fixed & Raw) DEDR 1927 kūṉ ('bend, curve, hump, snail') <-> 1928 kūṉ ('cauldron'); 900 *tiṅkaḷ precedes 165 8/92x (OR=148.9x, Fisher P=1.05e-13), MD copper tablets (5x)",*kūṉ,165,29,False
+new:*kūṭu,assemble / join / store / stored / together,"Tall rectangle w/ top+bottom teeth / cage-coop (M244/P270): exact 2-br PhonEx (Fixed & Raw) DEDR 1883 kūṭu ('birdcage, coop, pen, receptacle') <-> 1882 kūṭu ('assemble, join, be stored up') + PhonSt 1883/1655 kuṭi + Sangam TAM55 kūṭu ('granary, store-enclosure'); 630-740 (13/25), Harappa Depot Ration; cascades Key 4D cluster 630|632|637|634|635",*kūṭu,630; 632; 634; 635; 637,75,False
+new:*mūṭai-vari,bale tax / marked bale,"HOLDOUT RESCUED: Horizontally striped 590 chest (M252): exact 2-br PhonEx (Fixed & Raw) DEDR 5263 vari ('line, stripe, draw') <-> 5266 vari ('tax, impost, duty, toll'); Track B proves unseen ctab jump 0/42->9/25 (P=4.78e-5) & post-numeral {001,002} jump 1/177 (0.6%)->19/38 (50.0%) (vs 590 OR=176.0x, P=8.55e-16; vs bg OR=12.2x, P=4.98e-12)",*mūṭai-vari,595,47,False
+new:*paṟai,measure / capacity,"Bowtie / hourglass drum (M214): exact 2-br DIRECT (Fixed & Raw) DEDR 4032 paṟai ('drum; a measure of capacity') + Sangam TAM77 paṟai; TIER-1 unseen-replicated Bulk Ceramic Vessel / Dry-Measure Container Mark (Pottery, L OR=3.46x, N OR=6.06x); 41% standalone (540 11x, 540-540 2x); cosL=0.92, cosR=0.92 w/ locked goblet-stamp 440 *mukku",*paṟai,540,18,False
+new:*taṇṭu,collect / levy / recover,"Person w/ half-height caret at right foot / striding man (M41): exact 2-br PhonEx (Fixed & Raw) DEDR 3158 tāṇṭu ('step over, leap across, stride') <-> 3054 taṇṭu ('collect, levy, recover'); 104 precedes 645 7/19 non-final (36.8%, OR=428.0x, Fisher P=2.14e-15), Bar-Seal Commodity/Allotment anchor",*taṇṭu,104,22,False
+new:*toṭṭi / *koṭṭakai,watchman / servant / messenger,"Fence/cattle-yard (M175): exact 2-br PhonEx (Fixed & Raw) DEDR 3485 toṭṭi ('fence, yard, pound, enclosure, small village') <-> 3546 tōṭṭi ('village watchman') + DIRECT 3485 & 2058 koṭṭakai ('cattle-shed'); TIER-1 unseen-replicated Ghaggar-Hakra Agro-Pastoral Headwaters (L OR=4.99x, N OR=5.05x)",*toṭṭi / *koṭṭakai,350,47,False
+new:*tūtai,vessel / capacity / measure,"Tall narrow caret/point (M134): Track B metrology lock — 19/23 (82.6%) non-final tokens immediately precede numerals {001,031,032,003} vs 5.9% bg (OR=75.5x, Fisher P=4.30e-20); TIER-1 unseen-replicated Copper-Tool Weight & Vessel Capacity Unit + PhonSt DEDR 3314 tuti ('point') <-> 3385 tūtai ('small vessel, measure')",*tūtai (metal/vessel unit),480,42,False
+new:*tūṅku / *niṟai,weigh / weight / balance / scales,"Balance-beam T w/ two hanging pans (M409): Track B metrology lock — 20/21 (95.2%) non-final tokens immediately precede tall numerals {035,032,033} (5 or 3) vs 4.6% bg (OR=415.5x, Fisher P=5.15e-26); DIRECT DEDR 3376 tūṅku ('hang, suspend, weigh') + Sangam TAM85 niṟai ('weight standard, balance')",*tūṅku / *niṟai (weight std),171,28,False

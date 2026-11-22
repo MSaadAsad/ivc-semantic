@@ -1,0 +1,24 @@
+{
+  "copper_tablets": 150,
+  "copper_tablet_sites": {
+    "Mohenjo-daro": 149,
+    "Kalibangan": 1
+  },
+  "sign845_copper_objects": 29,
+  "sign845_unique_recorded_formulas": 13,
+  "sign845_without407": 0,
+  "remainder_families": 90,
+  "remainder_families_with_both_exposures": 0,
+  "tax_objects_with_area": 21,
+  "tax_objects_with_room_or_grid": 10,
+  "tax_objects_with_recorded_layer": 4,
+  "verified_function_objects": 0,
+  "permutations": 19999,
+  "seed": 8454072026,
+  "runtime_seconds": 0.605743334,
+  "source_sha256": {
+    "research/independent_validation_20261120/context_associations/results/events.csv": "ededfd037e6044701a5e90f8d55863d44697b0185a392551142a02bb9af05ab3",
+    "work_data/sem/objects_lipi.csv": "5172af7bcce8afc13a245af450d064ca2264cea8e3a77c8e241b8b46cacbdae1",
+    "research/independent_validation_20261120/context_associations/COPPER_845_PLAN.md": "bafd8c288d75c6c05783fdf1037583d11ee526c3964219e3324c789c4ccd3fd7"
+  }
+}

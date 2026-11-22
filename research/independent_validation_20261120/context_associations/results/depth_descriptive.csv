@@ -1,0 +1,81 @@
+family,word_id,proposed_meaning,proposed_root,signs,numeral,target,eligible_events,word_events,other_events,target_events,observed_word_target_events,other_target_events,target_share_word_events,target_share_other_events,expected_word_target_events,adjustable,adjustment_status
+depth,060_ul,in/of,*-uḷ / *-iṉ (loc.-obl.),060,False,Deeper within the same Mohenjo-daro excavation area,1212,96,1116,,,,,,,True,Tested with recorded context controls
+depth,090_al,manager,*āḷ,090; 097; 219,False,Deeper within the same Mohenjo-daro excavation area,1212,56,1156,,,,,,,True,Tested with recorded context controls
+depth,091_irual,two-managers,*iru-āḷ / *iruvar (2x 090),091,False,Deeper within the same Mohenjo-daro excavation area,1212,3,1209,,,,,,,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+depth,100_talai,chief,*talai,100; 101; 103,False,Deeper within the same Mohenjo-daro excavation area,1212,60,1152,,,,,,,True,Tested with recorded context controls
+depth,125_vilal,merchant,"*vil-āḷ [090 *āḷ + 892 *vil bow/sell, 2-br PhonEx, P=0.049]",125,False,Deeper within the same Mohenjo-daro excavation area,1212,23,1189,,,,,,,True,Tested with recorded context controls
+depth,140_amma,matron/lady,*ammā,140,False,Deeper within the same Mohenjo-daro excavation area,1212,49,1163,,,,,,,True,Tested with recorded context controls
+depth,154_ka,guard/porter,"154 *kā (M15 yoke-load/guard allograph, 5 swaps, P=0.0092)",151; 153; 154; 155; 156; 157; 158,False,Deeper within the same Mohenjo-daro excavation area,1212,80,1132,,,,,,,True,Tested with recorded context controls
+depth,161_olika,roofed-guard,*oḷi-kā / *[ROOF]-kā,159; 160; 161,False,Deeper within the same Mohenjo-daro excavation area,1212,9,1203,,,,,,,True,Tested with recorded context controls
+depth,176_irai,tax/tribute,*iṟai/*iru,176; 177; 178,False,Deeper within the same Mohenjo-daro excavation area,1212,45,1167,,,,,,,True,Tested with recorded context controls
+depth,215_arici,rice,*arici,215; 216,False,Deeper within the same Mohenjo-daro excavation area,1212,6,1206,,,,,,,True,Tested with recorded context controls
+depth,220_min,star,*mīṉ,220; 222; 226,False,Deeper within the same Mohenjo-daro excavation area,1212,162,1050,,,,,,,True,Tested with recorded context controls
+depth,231_ulmin,inner-star,*uḷ-mīṉ / *iṟai-mīṉ [220 + 1 internal stroke],231; 232,False,Deeper within the same Mohenjo-daro excavation area,1212,36,1176,,,,,,,True,Tested with recorded context controls
+depth,233_vetimin,dawn-star,*veṭi-mīṉ,233; 234,False,Deeper within the same Mohenjo-daro excavation area,1212,84,1128,,,,,,,True,Tested with recorded context controls
+depth,235_olimin,bright-star,*oḷi-mīṉ,235; 236,False,Deeper within the same Mohenjo-daro excavation area,1212,102,1110,,,,,,,True,Tested with recorded context controls
+depth,240_katirmin,rayed-star,*katir-mīṉ / *cāy-mīṉ,240; 241; 242,False,Deeper within the same Mohenjo-daro excavation area,1212,116,1096,,,,,,,True,Tested with recorded context controls
+depth,255_mutal,principal/first,"*mutal [crocodile->first/principal, DEDR 4952/4950, 2-br PhonSt]",255,False,Deeper within the same Mohenjo-daro excavation area,1212,39,1173,,,,,,,True,Tested with recorded context controls
+depth,320_pati,ration/paṭi,*paṭi,320; 322; 323; 324; 325,False,Deeper within the same Mohenjo-daro excavation area,1212,21,1191,,,,,,,True,Tested with recorded context controls
+depth,368_koti,grant/banner,*koṭi ~ *koṭu,368,False,Deeper within the same Mohenjo-daro excavation area,1212,37,1175,,,,,,,True,Tested with recorded context controls
+depth,390_tai,weave/cloth,*tai,390; 392; 405; 406; 408; 409,False,Deeper within the same Mohenjo-daro excavation area,1212,135,1077,,,,,,,True,Tested with recorded context controls
+depth,400_cikka,junior,*cikka/*cikkam,400; 402,False,Deeper within the same Mohenjo-daro excavation area,1212,56,1156,,,,,,,True,Tested with recorded context controls
+depth,407_koti,new-cloth,*kōṭi,407,False,Deeper within the same Mohenjo-daro excavation area,1212,39,1173,,,,,,,True,Tested with recorded context controls
+depth,413_ari,grain-tax/cut,"*ari [ear-of-grain->tax/cut, DEDR 215/216/212, 2-br PhonEx]",413,False,Deeper within the same Mohenjo-daro excavation area,1212,3,1209,,,,,,,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+depth,415_kavar,branch/control,*kavar,415,False,Deeper within the same Mohenjo-daro excavation area,1212,59,1153,,,,,,,True,Tested with recorded context controls
+depth,416_turai,port/double-branch,*iru-kavar / *tuṟai,416,False,Deeper within the same Mohenjo-daro excavation area,1212,15,1197,,,,,,,True,Tested with recorded context controls
+depth,435_totti,attendant,*tōṭṭi,435; 436,False,Deeper within the same Mohenjo-daro excavation area,1212,24,1188,,,,,,,True,Tested with recorded context controls
+depth,440_mukku,goblet/corner,*mukku,440,False,Deeper within the same Mohenjo-daro excavation area,1212,15,1197,,,,,,,True,Tested with recorded context controls
+depth,500_pay,sail/voyage,*pāy,500,False,Deeper within the same Mohenjo-daro excavation area,1212,4,1208,,,,,,,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+depth,503_malai,garland/bead-strand,*malai ~ *mālai,491; 495; 503,False,Deeper within the same Mohenjo-daro excavation area,1212,39,1173,,,,,,,True,Tested with recorded context controls
+depth,520_vel,lord,*vēḷ/*vēl,520,False,Deeper within the same Mohenjo-daro excavation area,1212,107,1105,,,,,,,True,Tested with recorded context controls
+depth,550_natu,district,*nāṭu,550; 555,False,Deeper within the same Mohenjo-daro excavation area,1212,50,1162,,,,,,,True,Tested with recorded context controls
+depth,575_kottai,kōṭṭai(665L),*kōṭṭai,575,False,Deeper within the same Mohenjo-daro excavation area,1212,22,1190,,,,,,,True,Tested with recorded context controls
+depth,590_mutai,bale/sack-load,*mūṭai,590; 592,False,Deeper within the same Mohenjo-daro excavation area,1212,68,1144,,,,,,,True,Tested with recorded context controls
+depth,615_accu,loom-reed/plot,*accu,615,False,Deeper within the same Mohenjo-daro excavation area,1212,27,1185,,,,,,,True,Tested with recorded context controls
+depth,617_iruaccu,twin-plot/loom,*iru-accu (2x 615),617,False,Deeper within the same Mohenjo-daro excavation area,1212,28,1184,,,,,,,True,Tested with recorded context controls
+depth,690_kattu,bundle/store,*kaṭṭu / *piṇai,690,False,Deeper within the same Mohenjo-daro excavation area,1212,29,1183,,,,,,,True,Tested with recorded context controls
+depth,700_ala,measure,*aḷa / *akal,700,False,Deeper within the same Mohenjo-daro excavation area,1212,13,1199,,,,,,,True,Tested with recorded context controls
+depth,703_muala,three-measures,*mū-aḷa / *mū-akal,703,False,Deeper within the same Mohenjo-daro excavation area,1212,5,1207,,,,,,,True,Tested with recorded context controls
+depth,705_kalam,ship/kalam-measure,*kalam/*kaḷam,704; 705; 706; 707,False,Deeper within the same Mohenjo-daro excavation area,1212,104,1108,,,,,,,True,Tested with recorded context controls
+depth,717_ati,base/foundational,*aṭi,716; 717,False,Deeper within the same Mohenjo-daro excavation area,1212,17,1195,,,,,,,True,Tested with recorded context controls
+depth,740_kuti,house,*kuṭi/*kuṭam,740,False,Deeper within the same Mohenjo-daro excavation area,1212,536,676,,,,,,,True,Tested with recorded context controls
+depth,741_orukuti,single-house,*oru-kuṭi,741,False,Deeper within the same Mohenjo-daro excavation area,1212,87,1125,,,,,,,True,Tested with recorded context controls
+depth,742_irukuti,twin-house,*iru-kuṭi [740 + 2 internal strokes],742; 743; 744,False,Deeper within the same Mohenjo-daro excavation area,1212,24,1188,,,,,,,True,Tested with recorded context controls
+depth,745_mukuti,three-house,*mū-kuṭi [740 + 3 internal strokes],745; 746; 747,False,Deeper within the same Mohenjo-daro excavation area,1212,21,1191,,,,,,,True,Tested with recorded context controls
+depth,760_kuruku,youth/scion,*kuruku / *koḻuntu,752; 760,False,Deeper within the same Mohenjo-daro excavation area,1212,64,1148,,,,,,,True,Tested with recorded context controls
+depth,790_valai,bangle,*vaḷai,790,False,Deeper within the same Mohenjo-daro excavation area,1212,9,1203,,,,,,,True,Tested with recorded context controls
+depth,798_totu,bound-guild,*toṭu / *iṭukku,193; 195; 797; 798,False,Deeper within the same Mohenjo-daro excavation area,1212,55,1157,,,,,,,True,Tested with recorded context controls
+depth,806_kampu,millet/grain,*kampu ~ *kāmpu,803; 804; 806; 807,False,Deeper within the same Mohenjo-daro excavation area,1212,105,1107,,,,,,,True,Tested with recorded context controls
+depth,820_kal,quarter-share,*kāl,061; 062; 820,False,Deeper within the same Mohenjo-daro excavation area,1212,133,1079,,,,,,,True,Tested with recorded context controls
+depth,821_irukal,two-quarters,*iru-kāl (2x 820),821,False,Deeper within the same Mohenjo-daro excavation area,1212,7,1205,,,,,,,True,Tested with recorded context controls
+depth,832_ulvalai,inner-bangle,*uḷ-vaḷai / *oru-vaḷai,832,False,Deeper within the same Mohenjo-daro excavation area,1212,14,1198,,,,,,,True,Tested with recorded context controls
+depth,840_inai,pair/pact,*iṇai,840,False,Deeper within the same Mohenjo-daro excavation area,1212,39,1173,,,,,,,True,Tested with recorded context controls
+depth,845_vari,tax/levy,*vari (hatched 840),845,False,Deeper within the same Mohenjo-daro excavation area,1212,16,1196,,,,,,,True,Tested with recorded context controls
+depth,850_kan,copper/eye,*kaṇ/*kaṉ,850,False,Deeper within the same Mohenjo-daro excavation area,1212,18,1194,,,,,,,True,Tested with recorded context controls
+depth,861_kanam,kāṇam-share,*kāṇam / *kaṇ,817; 861,False,Deeper within the same Mohenjo-daro excavation area,1212,174,1038,,,,,,,True,Tested with recorded context controls
+depth,892_vil,sale/price,*vil,892,False,Deeper within the same Mohenjo-daro excavation area,1212,14,1198,,,,,,,True,Tested with recorded context controls
+depth,900_tinkal,month/moon,*tiṅkaḷ,899; 900; 920,False,Deeper within the same Mohenjo-daro excavation area,1212,96,1116,,,,,,,True,Tested with recorded context controls
+depth,904_irutinkal,two-month,"*iru-tiṅkaḷ [2× 900 *tiṅkaḷ, cR=0.905, P_cR=0.049]",904; 927,False,Deeper within the same Mohenjo-daro excavation area,1212,23,1189,,,,,,,True,Tested with recorded context controls
+depth,923_maruppu,ivory/tusk,*maruppu,923,False,Deeper within the same Mohenjo-daro excavation area,1212,25,1187,,,,,,,True,Tested with recorded context controls
+depth,NUM_1,1,*oru,001; 031,True,Deeper within the same Mohenjo-daro excavation area,1212,136,1076,,,,,,,True,Tested with recorded context controls
+depth,NUM_12,12,*paṉṉiru,055,True,Deeper within the same Mohenjo-daro excavation area,1212,20,1192,,,,,,,True,Tested with recorded context controls
+depth,NUM_2,2,*iru,002; 032,True,Deeper within the same Mohenjo-daro excavation area,1212,387,825,,,,,,,True,Tested with recorded context controls
+depth,NUM_3,3,*mū,003; 013; 033,True,Deeper within the same Mohenjo-daro excavation area,1212,149,1063,,,,,,,True,Tested with recorded context controls
+depth,NUM_4,4,*nāl,004; 014; 034,True,Deeper within the same Mohenjo-daro excavation area,1212,31,1181,,,,,,,True,Tested with recorded context controls
+depth,NUM_5,5,*ai,005; 015; 035,True,Deeper within the same Mohenjo-daro excavation area,1212,37,1175,,,,,,,True,Tested with recorded context controls
+depth,NUM_6,6,*aṟu,006; 016,True,Deeper within the same Mohenjo-daro excavation area,1212,20,1192,,,,,,,True,Tested with recorded context controls
+depth,NUM_7,7,*ēḻ,007; 017,True,Deeper within the same Mohenjo-daro excavation area,1212,30,1182,,,,,,,True,Tested with recorded context controls
+depth,new:*alaku,grain / paddy,*alaku,831; 833,False,Deeper within the same Mohenjo-daro excavation area,1212,5,1207,,,,,,,True,Tested with recorded context controls
+depth,new:*iru / *iṟai,sit / tribute (alternative readings),*iru / *iṟai (plain base),175,False,Deeper within the same Mohenjo-daro excavation area,1212,5,1207,,,,,,,True,Tested with recorded context controls
+depth,new:*kaṇṇi,garland / wreath / neckrope,*kaṇṇi,460; 463,False,Deeper within the same Mohenjo-daro excavation area,1212,29,1183,,,,,,,True,Tested with recorded context controls
+depth,new:*koḍame / *caṭṭi,pot / vessel / pan,*koḍame / *caṭṭi (grain-bin rung),335,False,Deeper within the same Mohenjo-daro excavation area,1212,7,1205,,,,,,,True,Tested with recorded context controls
+depth,new:*kō,king / emperor / chief / leadership,*kō,482,False,Deeper within the same Mohenjo-daro excavation area,1212,11,1201,,,,,,,True,Tested with recorded context controls
+depth,new:*kōl / *kol,smith / iron,*kōl / *kol,142,False,Deeper within the same Mohenjo-daro excavation area,1212,25,1187,,,,,,,True,Tested with recorded context controls
+depth,new:*kūṉ,cauldron,*kūṉ,165,False,Deeper within the same Mohenjo-daro excavation area,1212,13,1199,,,,,,,True,Tested with recorded context controls
+depth,new:*kūṭu,assemble / join / store / stored / together,*kūṭu,630; 632; 634; 635; 637,False,Deeper within the same Mohenjo-daro excavation area,1212,22,1190,,,,,,,True,Tested with recorded context controls
+depth,new:*mūṭai-vari,bale tax / marked bale,*mūṭai-vari,595,False,Deeper within the same Mohenjo-daro excavation area,1212,18,1194,,,,,,,True,Tested with recorded context controls
+depth,new:*paṟai,measure / capacity,*paṟai,540,False,Deeper within the same Mohenjo-daro excavation area,1212,5,1207,,,,,,,True,Tested with recorded context controls
+depth,new:*taṇṭu,collect / levy / recover,*taṇṭu,104,False,Deeper within the same Mohenjo-daro excavation area,1212,8,1204,,,,,,,True,Tested with recorded context controls
+depth,new:*toṭṭi / *koṭṭakai,watchman / servant / messenger,*toṭṭi / *koṭṭakai,350,False,Deeper within the same Mohenjo-daro excavation area,1212,20,1192,,,,,,,True,Tested with recorded context controls
+depth,new:*tūtai,vessel / capacity / measure,*tūtai (metal/vessel unit),480,False,Deeper within the same Mohenjo-daro excavation area,1212,9,1203,,,,,,,True,Tested with recorded context controls
+depth,new:*tūṅku / *niṟai,weigh / weight / balance / scales,*tūṅku / *niṟai (weight std),171,False,Deeper within the same Mohenjo-daro excavation area,1212,13,1199,,,,,,,True,Tested with recorded context controls

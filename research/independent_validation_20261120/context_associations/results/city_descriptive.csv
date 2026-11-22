@@ -1,0 +1,649 @@
+family,word_id,proposed_meaning,proposed_root,signs,numeral,target,eligible_events,word_events,other_events,target_events,observed_word_target_events,other_target_events,target_share_word_events,target_share_other_events,expected_word_target_events,adjustable,adjustment_status
+city,060_ul,in/of,*-uḷ / *-iṉ (loc.-obl.),060,False,Banawali,4449,214,4235,26,1,25,0.004672897196261682,0.0059031877213695395,0.6656316049003326,True,Tested with recorded context controls
+city,060_ul,in/of,*-uḷ / *-iṉ (loc.-obl.),060,False,Chanhu-daro,4449,214,4235,70,8,62,0.037383177570093455,0.014639905548996458,5.092150092971943,True,Tested with recorded context controls
+city,060_ul,in/of,*-uḷ / *-iṉ (loc.-obl.),060,False,Dholavira,4449,214,4235,230,6,224,0.028037383177570093,0.05289256198347107,10.085051480561104,True,Tested with recorded context controls
+city,060_ul,in/of,*-uḷ / *-iṉ (loc.-obl.),060,False,Harappa,4449,214,4235,1778,55,1723,0.2570093457943925,0.40684769775678864,63.529788152062125,True,Tested with recorded context controls
+city,060_ul,in/of,*-uḷ / *-iṉ (loc.-obl.),060,False,Kalibangan,4449,214,4235,195,3,192,0.014018691588785047,0.045336481700118066,5.400088727881624,True,Tested with recorded context controls
+city,060_ul,in/of,*-uḷ / *-iṉ (loc.-obl.),060,False,Lothal,4449,214,4235,177,13,164,0.06074766355140187,0.03872491145218418,9.354868411938263,True,Tested with recorded context controls
+city,060_ul,in/of,*-uḷ / *-iṉ (loc.-obl.),060,False,Mohenjo-daro,4449,214,4235,1729,115,1614,0.5373831775700935,0.3811097992916175,110.58696594904426,True,Tested with recorded context controls
+city,060_ul,in/of,*-uḷ / *-iṉ (loc.-obl.),060,False,Nausharo,4449,214,4235,38,3,35,0.014018691588785047,0.008264462809917356,1.60425098312274,True,Tested with recorded context controls
+city,090_al,manager,*āḷ,090; 097; 219,False,Banawali,4449,188,4261,26,2,24,0.010638297872340425,0.005632480638347806,0.6653186333100107,True,Tested with recorded context controls
+city,090_al,manager,*āḷ,090; 097; 219,False,Chanhu-daro,4449,188,4261,70,0,70,0.0,0.016428068528514434,2.8571607149434795,True,Tested with recorded context controls
+city,090_al,manager,*āḷ,090; 097; 219,False,Dholavira,4449,188,4261,230,11,219,0.05851063829787234,0.05139638582492373,9.700999151001461,True,Tested with recorded context controls
+city,090_al,manager,*āḷ,090; 097; 219,False,Harappa,4449,188,4261,1778,71,1707,0.3776595744680851,0.40061018540248766,74.36421956044603,True,Tested with recorded context controls
+city,090_al,manager,*āḷ,090; 097; 219,False,Kalibangan,4449,188,4261,195,4,191,0.02127659574468085,0.04482515841351795,5.779150461116114,True,Tested with recorded context controls
+city,090_al,manager,*āḷ,090; 097; 219,False,Lothal,4449,188,4261,177,12,165,0.06382978723404255,0.03872330438864116,10.108271446880307,True,Tested with recorded context controls
+city,090_al,manager,*āḷ,090; 097; 219,False,Mohenjo-daro,4449,188,4261,1729,77,1652,0.4095744680851064,0.38770241727294064,75.7392205636849,True,Tested with recorded context controls
+city,090_al,manager,*āḷ,090; 097; 219,False,Nausharo,4449,188,4261,38,3,35,0.015957446808510637,0.008214034264257217,1.4734117201239623,True,Tested with recorded context controls
+city,091_irual,two-managers,*iru-āḷ / *iruvar (2x 090),091,False,Banawali,4449,26,4423,26,0,26,0.0,0.005878363101966991,0.20779748615658244,True,Tested with recorded context controls
+city,091_irual,two-managers,*iru-āḷ / *iruvar (2x 090),091,False,Chanhu-daro,4449,26,4423,70,0,70,0.0,0.015826362197603437,0.2316692713541703,True,Tested with recorded context controls
+city,091_irual,two-managers,*iru-āḷ / *iruvar (2x 090),091,False,Dholavira,4449,26,4423,230,3,227,0.11538461538461539,0.05132263169794257,2.9524389765816217,True,Tested with recorded context controls
+city,091_irual,two-managers,*iru-āḷ / *iruvar (2x 090),091,False,Harappa,4449,26,4423,1778,6,1772,0.23076923076923078,0.40063305448790415,7.429598309950892,True,Tested with recorded context controls
+city,091_irual,two-managers,*iru-āḷ / *iruvar (2x 090),091,False,Kalibangan,4449,26,4423,195,7,188,0.2692307692307692,0.04250508704499208,4.1376607665266425,True,Tested with recorded context controls
+city,091_irual,two-managers,*iru-āḷ / *iruvar (2x 090),091,False,Lothal,4449,26,4423,177,0,177,0.0,0.040018087271082976,0.3353304042033767,True,Tested with recorded context controls
+city,091_irual,two-managers,*iru-āḷ / *iruvar (2x 090),091,False,Mohenjo-daro,4449,26,4423,1729,5,1724,0.19230769230769232,0.3897806918381189,7.880299172185253,True,Tested with recorded context controls
+city,091_irual,two-managers,*iru-āḷ / *iruvar (2x 090),091,False,Nausharo,4449,26,4423,38,0,38,0.0,0.008591453764413294,0.02449968457697352,True,Tested with recorded context controls
+city,100_talai,chief,*talai,100; 101; 103,False,Banawali,4449,141,4308,26,0,26,0.0,0.0060352831940575676,0.4693190825330562,True,Tested with recorded context controls
+city,100_talai,chief,*talai,100; 101; 103,False,Chanhu-daro,4449,141,4308,70,4,66,0.028368794326241134,0.01532033426183844,2.7398703610982538,True,Tested with recorded context controls
+city,100_talai,chief,*talai,100; 101; 103,False,Dholavira,4449,141,4308,230,3,227,0.02127659574468085,0.05269266480965645,6.012877964702351,True,Tested with recorded context controls
+city,100_talai,chief,*talai,100; 101; 103,False,Harappa,4449,141,4308,1778,47,1731,0.3333333333333333,0.40181058495821725,51.09372492380369,True,Tested with recorded context controls
+city,100_talai,chief,*talai,100; 101; 103,False,Kalibangan,4449,141,4308,195,2,193,0.014184397163120567,0.04480037140204271,2.5233170598124772,True,Tested with recorded context controls
+city,100_talai,chief,*talai,100; 101; 103,False,Lothal,4449,141,4308,177,5,172,0.03546099290780142,0.039925719591457756,6.2361258516044344,True,Tested with recorded context controls
+city,100_talai,chief,*talai,100; 101; 103,False,Mohenjo-daro,4449,141,4308,1729,77,1652,0.5460992907801419,0.38347260909935005,66.59776595344515,True,Tested with recorded context controls
+city,100_talai,chief,*talai,100; 101; 103,False,Nausharo,4449,141,4308,38,1,37,0.0070921985815602835,0.008588672237697307,1.133998097810471,True,Tested with recorded context controls
+city,125_vilal,merchant,"*vil-āḷ [090 *āḷ + 892 *vil bow/sell, 2-br PhonEx, P=0.049]",125,False,Banawali,4449,58,4391,26,0,26,0.0,0.005921202459576406,0.30344090382734856,True,Tested with recorded context controls
+city,125_vilal,merchant,"*vil-āḷ [090 *āḷ + 892 *vil bow/sell, 2-br PhonEx, P=0.049]",125,False,Chanhu-daro,4449,58,4391,70,1,69,0.017241379310344827,0.015713960373491234,1.5043059745794585,True,Tested with recorded context controls
+city,125_vilal,merchant,"*vil-āḷ [090 *āḷ + 892 *vil bow/sell, 2-br PhonEx, P=0.049]",125,False,Dholavira,4449,58,4391,230,4,226,0.06896551724137931,0.051468913687087225,2.5141858682069405,True,Tested with recorded context controls
+city,125_vilal,merchant,"*vil-āḷ [090 *āḷ + 892 *vil bow/sell, 2-br PhonEx, P=0.049]",125,False,Harappa,4449,58,4391,1778,16,1762,0.27586206896551724,0.4012753359143703,14.517169213999498,True,Tested with recorded context controls
+city,125_vilal,merchant,"*vil-āḷ [090 *āḷ + 892 *vil bow/sell, 2-br PhonEx, P=0.049]",125,False,Kalibangan,4449,58,4391,195,1,194,0.017241379310344827,0.044181279890685494,1.1503551603462219,True,Tested with recorded context controls
+city,125_vilal,merchant,"*vil-āḷ [090 *āḷ + 892 *vil bow/sell, 2-br PhonEx, P=0.049]",125,False,Lothal,4449,58,4391,177,1,176,0.017241379310344827,0.04008198588020952,1.9989206994681161,True,Tested with recorded context controls
+city,125_vilal,merchant,"*vil-āḷ [090 *āḷ + 892 *vil bow/sell, 2-br PhonEx, P=0.049]",125,False,Mohenjo-daro,4449,58,4391,1729,27,1702,0.46551724137931033,0.38761102254611707,32.48816596365136,True,Tested with recorded context controls
+city,125_vilal,merchant,"*vil-āḷ [090 *āḷ + 892 *vil bow/sell, 2-br PhonEx, P=0.049]",125,False,Nausharo,4449,58,4391,38,1,37,0.017241379310344827,0.0084263265770895,0.3629783891377233,True,Tested with recorded context controls
+city,140_amma,matron/lady,*ammā,140,False,Banawali,4449,107,4342,26,0,26,0.0,0.005988023952095809,0.510394794914871,True,Tested with recorded context controls
+city,140_amma,matron/lady,*ammā,140,False,Chanhu-daro,4449,107,4342,70,3,67,0.028037383177570093,0.015430677107323813,2.614165558859913,True,Tested with recorded context controls
+city,140_amma,matron/lady,*ammā,140,False,Dholavira,4449,107,4342,230,1,229,0.009345794392523364,0.052740672501151546,4.445555513256668,True,Tested with recorded context controls
+city,140_amma,matron/lady,*ammā,140,False,Harappa,4449,107,4342,1778,27,1751,0.2523364485981308,0.4032703823122985,29.262058530373764,True,Tested with recorded context controls
+city,140_amma,matron/lady,*ammā,140,False,Kalibangan,4449,107,4342,195,4,191,0.037383177570093455,0.04398894518654998,2.4757915698358173,True,Tested with recorded context controls
+city,140_amma,matron/lady,*ammā,140,False,Lothal,4449,107,4342,177,7,170,0.06542056074766354,0.0391524643021649,5.640722858711439,True,Tested with recorded context controls
+city,140_amma,matron/lady,*ammā,140,False,Mohenjo-daro,4449,107,4342,1729,64,1665,0.5981308411214953,0.3834638415476739,57.40818817155289,True,Tested with recorded context controls
+city,140_amma,matron/lady,*ammā,140,False,Nausharo,4449,107,4342,38,0,38,0.0,0.008751727314601566,0.8305526257430174,True,Tested with recorded context controls
+city,154_ka,guard/porter,"154 *kā (M15 yoke-load/guard allograph, 5 swaps, P=0.0092)",151; 153; 154; 155; 156; 157; 158,False,Banawali,4449,267,4182,26,1,25,0.003745318352059925,0.005978000956480153,1.7994932514282616,True,Tested with recorded context controls
+city,154_ka,guard/porter,"154 *kā (M15 yoke-load/guard allograph, 5 swaps, P=0.0092)",151; 153; 154; 155; 156; 157; 158,False,Chanhu-daro,4449,267,4182,70,5,65,0.018726591760299626,0.015542802486848398,5.018859829812229,True,Tested with recorded context controls
+city,154_ka,guard/porter,"154 *kā (M15 yoke-load/guard allograph, 5 swaps, P=0.0092)",151; 153; 154; 155; 156; 157; 158,False,Dholavira,4449,267,4182,230,12,218,0.0449438202247191,0.05212816834050694,12.52669206874322,True,Tested with recorded context controls
+city,154_ka,guard/porter,"154 *kā (M15 yoke-load/guard allograph, 5 swaps, P=0.0092)",151; 153; 154; 155; 156; 157; 158,False,Harappa,4449,267,4182,1778,121,1657,0.45318352059925093,0.39622190339550456,115.41970754986974,True,Tested with recorded context controls
+city,154_ka,guard/porter,"154 *kā (M15 yoke-load/guard allograph, 5 swaps, P=0.0092)",151; 153; 154; 155; 156; 157; 158,False,Kalibangan,4449,267,4182,195,7,188,0.026217228464419477,0.04495456719273075,6.7563524065643055,True,Tested with recorded context controls
+city,154_ka,guard/porter,"154 *kā (M15 yoke-load/guard allograph, 5 swaps, P=0.0092)",151; 153; 154; 155; 156; 157; 158,False,Lothal,4449,267,4182,177,10,167,0.03745318352059925,0.03993304638928742,7.909581899755307,True,Tested with recorded context controls
+city,154_ka,guard/porter,"154 *kā (M15 yoke-load/guard allograph, 5 swaps, P=0.0092)",151; 153; 154; 155; 156; 157; 158,False,Mohenjo-daro,4449,267,4182,1729,105,1624,0.39325842696629215,0.3883309421329507,107.1192634758637,True,Tested with recorded context controls
+city,154_ka,guard/porter,"154 *kā (M15 yoke-load/guard allograph, 5 swaps, P=0.0092)",151; 153; 154; 155; 156; 157; 158,False,Nausharo,4449,267,4182,38,1,37,0.003745318352059925,0.008847441415590627,1.9470602041824503,True,Tested with recorded context controls
+city,161_olika,roofed-guard,*oḷi-kā / *[ROOF]-kā,159; 160; 161,False,Banawali,4449,23,4426,26,0,26,0.0,0.00587437867148667,0.20368890120727434,True,Tested with recorded context controls
+city,161_olika,roofed-guard,*oḷi-kā / *[ROOF]-kā,159; 160; 161,False,Chanhu-daro,4449,23,4426,70,2,68,0.08695652173913043,0.015363759602349751,0.5300536592010454,True,Tested with recorded context controls
+city,161_olika,roofed-guard,*oḷi-kā / *[ROOF]-kā,159; 160; 161,False,Dholavira,4449,23,4426,230,1,229,0.043478260869565216,0.0517397198373249,1.6087136731424134,True,Tested with recorded context controls
+city,161_olika,roofed-guard,*oḷi-kā / *[ROOF]-kā,159; 160; 161,False,Harappa,4449,23,4426,1778,7,1771,0.30434782608695654,0.4001355625847266,5.023277996613346,True,Tested with recorded context controls
+city,161_olika,roofed-guard,*oḷi-kā / *[ROOF]-kā,159; 160; 161,False,Kalibangan,4449,23,4426,195,0,195,0.0,0.04405784003615002,0.6704223240463405,True,Tested with recorded context controls
+city,161_olika,roofed-guard,*oḷi-kā / *[ROOF]-kā,159; 160; 161,False,Lothal,4449,23,4426,177,0,177,0.0,0.03999096249435156,1.0107929211955191,True,Tested with recorded context controls
+city,161_olika,roofed-guard,*oḷi-kā / *[ROOF]-kā,159; 160; 161,False,Mohenjo-daro,4449,23,4426,1729,11,1718,0.4782608695652174,0.38816086760054225,12.355394438498088,True,Tested with recorded context controls
+city,161_olika,roofed-guard,*oḷi-kā / *[ROOF]-kā,159; 160; 161,False,Nausharo,4449,23,4426,38,1,37,0.043478260869565216,0.008359692724807953,0.195855408892456,True,Tested with recorded context controls
+city,176_irai,tax/tribute,*iṟai/*iru,176; 177; 178,False,Banawali,4449,197,4252,26,0,26,0.0,0.0061147695202257765,0.588578547320292,True,Tested with recorded context controls
+city,176_irai,tax/tribute,*iṟai/*iru,176; 177; 178,False,Chanhu-daro,4449,197,4252,70,3,67,0.015228426395939087,0.015757290686735655,2.379053139487547,True,Tested with recorded context controls
+city,176_irai,tax/tribute,*iṟai/*iru,176; 177; 178,False,Dholavira,4449,197,4252,230,3,227,0.015228426395939087,0.053386641580432735,4.810091485004721,True,Tested with recorded context controls
+city,176_irai,tax/tribute,*iṟai/*iru,176; 177; 178,False,Harappa,4449,197,4252,1778,111,1667,0.5634517766497462,0.3920507996237065,106.45949164999331,True,Tested with recorded context controls
+city,176_irai,tax/tribute,*iṟai/*iru,176; 177; 178,False,Kalibangan,4449,197,4252,195,5,190,0.025380710659898477,0.044684854186265284,3.853853009316407,True,Tested with recorded context controls
+city,176_irai,tax/tribute,*iṟai/*iru,176; 177; 178,False,Lothal,4449,197,4252,177,4,173,0.02030456852791878,0.04068673565380997,2.3435059358701658,True,Tested with recorded context controls
+city,176_irai,tax/tribute,*iṟai/*iru,176; 177; 178,False,Mohenjo-daro,4449,197,4252,1729,68,1661,0.34517766497461927,0.39063969896519285,70.990764086231,True,Tested with recorded context controls
+city,176_irai,tax/tribute,*iṟai/*iru,176; 177; 178,False,Nausharo,4449,197,4252,38,1,37,0.005076142131979695,0.008701787394167451,0.88718003139855,True,Tested with recorded context controls
+city,215_arici,rice,*arici,215; 216,False,Banawali,4449,14,4435,26,0,26,0.0,0.005862457722660654,0.0655644414419109,True,Tested with recorded context controls
+city,215_arici,rice,*arici,215; 216,False,Chanhu-daro,4449,14,4435,70,0,70,0.0,0.015783540022547914,0.39851219234447754,True,Tested with recorded context controls
+city,215_arici,rice,*arici,215; 216,False,Dholavira,4449,14,4435,230,0,230,0.0,0.05186020293122886,0.5007923616879121,True,Tested with recorded context controls
+city,215_arici,rice,*arici,215; 216,False,Harappa,4449,14,4435,1778,3,1775,0.21428571428571427,0.40022547914317924,3.2508939862647512,True,Tested with recorded context controls
+city,215_arici,rice,*arici,215; 216,False,Kalibangan,4449,14,4435,195,2,193,0.14285714285714285,0.04351747463359639,0.7794648282231007,True,Tested with recorded context controls
+city,215_arici,rice,*arici,215; 216,False,Lothal,4449,14,4435,177,0,177,0.0,0.039909808342728295,0.35577964873446444,True,Tested with recorded context controls
+city,215_arici,rice,*arici,215; 216,False,Mohenjo-daro,4449,14,4435,1729,8,1721,0.5714285714285714,0.3880496054114994,7.865334113078706,True,Tested with recorded context controls
+city,215_arici,rice,*arici,215; 216,False,Nausharo,4449,14,4435,38,0,38,0.0,0.008568207440811725,0.14611739423173029,True,Tested with recorded context controls
+city,220_min,star,*mīṉ,220; 222; 226,False,Banawali,4449,490,3959,26,4,22,0.00816326530612245,0.0055569588279868656,2.4096560061035,True,Tested with recorded context controls
+city,220_min,star,*mīṉ,220; 222; 226,False,Chanhu-daro,4449,490,3959,70,11,59,0.022448979591836733,0.01490275322051023,10.38860378196729,True,Tested with recorded context controls
+city,220_min,star,*mīṉ,220; 222; 226,False,Dholavira,4449,490,3959,230,17,213,0.03469387755102041,0.05380146501641829,22.501700066155706,True,Tested with recorded context controls
+city,220_min,star,*mīṉ,220; 222; 226,False,Harappa,4449,490,3959,1778,167,1611,0.3408163265306122,0.40692093963122,173.40409917049092,True,Tested with recorded context controls
+city,220_min,star,*mīṉ,220; 222; 226,False,Kalibangan,4449,490,3959,195,15,180,0.030612244897959183,0.04546602677443799,14.37897098872115,True,Tested with recorded context controls
+city,220_min,star,*mīṉ,220; 222; 226,False,Lothal,4449,490,3959,177,25,152,0.05102040816326531,0.03839353372063652,24.560486956290234,True,Tested with recorded context controls
+city,220_min,star,*mīṉ,220; 222; 226,False,Mohenjo-daro,4449,490,3959,1729,223,1506,0.45510204081632655,0.38039909067946454,220.4954641576213,True,Tested with recorded context controls
+city,220_min,star,*mīṉ,220; 222; 226,False,Nausharo,4449,490,3959,38,4,34,0.00816326530612245,0.008588027279616064,3.8089122374345674,True,Tested with recorded context controls
+city,231_ulmin,inner-star,*uḷ-mīṉ / *iṟai-mīṉ [220 + 1 internal stroke],231; 232,False,Banawali,4449,100,4349,26,0,26,0.0,0.005978385835824327,0.39751455637413263,True,Tested with recorded context controls
+city,231_ulmin,inner-star,*uḷ-mīṉ / *iṟai-mīṉ [220 + 1 internal stroke],231; 232,False,Chanhu-daro,4449,100,4349,70,1,69,0.01,0.015865716256610714,1.983487995795848,True,Tested with recorded context controls
+city,231_ulmin,inner-star,*uḷ-mīṉ / *iṟai-mīṉ [220 + 1 internal stroke],231; 232,False,Dholavira,4449,100,4349,230,5,225,0.05,0.05173603127155668,4.011085430164034,True,Tested with recorded context controls
+city,231_ulmin,inner-star,*uḷ-mīṉ / *iṟai-mīṉ [220 + 1 internal stroke],231; 232,False,Harappa,4449,100,4349,1778,31,1747,0.31,0.4017015405840423,24.40488544736923,True,Tested with recorded context controls
+city,231_ulmin,inner-star,*uḷ-mīṉ / *iṟai-mīṉ [220 + 1 internal stroke],231; 232,False,Kalibangan,4449,100,4349,195,4,191,0.04,0.04391814210163256,2.1127693697642718,True,Tested with recorded context controls
+city,231_ulmin,inner-star,*uḷ-mīṉ / *iṟai-mīṉ [220 + 1 internal stroke],231; 232,False,Lothal,4449,100,4349,177,3,174,0.03,0.0400091975166705,3.873620455842316,True,Tested with recorded context controls
+city,231_ulmin,inner-star,*uḷ-mīṉ / *iṟai-mīṉ [220 + 1 internal stroke],231; 232,False,Mohenjo-daro,4449,100,4349,1729,56,1673,0.56,0.38468613474361923,59.06355508847394,True,Tested with recorded context controls
+city,231_ulmin,inner-star,*uḷ-mīṉ / *iṟai-mīṉ [220 + 1 internal stroke],231; 232,False,Nausharo,4449,100,4349,38,0,38,0.0,0.008737640836974018,0.653142899374008,True,Tested with recorded context controls
+city,233_vetimin,dawn-star,*veṭi-mīṉ,233; 234,False,Banawali,4449,195,4254,26,1,25,0.005128205128205128,0.005876821814762577,0.6739709948911901,True,Tested with recorded context controls
+city,233_vetimin,dawn-star,*veṭi-mīṉ,233; 234,False,Chanhu-daro,4449,195,4254,70,3,67,0.015384615384615385,0.015749882463563705,4.220468516171823,True,Tested with recorded context controls
+city,233_vetimin,dawn-star,*veṭi-mīṉ,233; 234,False,Dholavira,4449,195,4254,230,7,223,0.035897435897435895,0.05242125058768218,8.812439549070087,True,Tested with recorded context controls
+city,233_vetimin,dawn-star,*veṭi-mīṉ,233; 234,False,Harappa,4449,195,4254,1778,53,1725,0.2717948717948718,0.40550070521861775,52.02953988887174,True,Tested with recorded context controls
+city,233_vetimin,dawn-star,*veṭi-mīṉ,233; 234,False,Kalibangan,4449,195,4254,195,2,193,0.010256410256410256,0.04536906440996709,4.573417950995781,True,Tested with recorded context controls
+city,233_vetimin,dawn-star,*veṭi-mīṉ,233; 234,False,Lothal,4449,195,4254,177,14,163,0.07179487179487179,0.038316878232252,8.12261845455636,True,Tested with recorded context controls
+city,233_vetimin,dawn-star,*veṭi-mīṉ,233; 234,False,Mohenjo-daro,4449,195,4254,1729,112,1617,0.5743589743589743,0.38011283497884346,108.97969477266597,True,Tested with recorded context controls
+city,233_vetimin,dawn-star,*veṭi-mīṉ,233; 234,False,Nausharo,4449,195,4254,38,0,38,0.0,0.008932769158439116,1.1416310261447253,True,Tested with recorded context controls
+city,235_olimin,bright-star,*oḷi-mīṉ,235; 236,False,Banawali,4449,258,4191,26,1,25,0.003875968992248062,0.005965163445478406,1.1056572161082352,True,Tested with recorded context controls
+city,235_olimin,bright-star,*oḷi-mīṉ,235; 236,False,Chanhu-daro,4449,258,4191,70,6,64,0.023255813953488372,0.01527081842042472,5.751743101169954,True,Tested with recorded context controls
+city,235_olimin,bright-star,*oḷi-mīṉ,235; 236,False,Dholavira,4449,258,4191,230,10,220,0.03875968992248062,0.05249343832020997,12.070493974377161,True,Tested with recorded context controls
+city,235_olimin,bright-star,*oḷi-mīṉ,235; 236,False,Harappa,4449,258,4191,1778,78,1700,0.3023255813953488,0.4056311142925316,81.96468888203619,True,Tested with recorded context controls
+city,235_olimin,bright-star,*oḷi-mīṉ,235; 236,False,Kalibangan,4449,258,4191,195,2,193,0.007751937984496124,0.046051061799093296,5.926822421752244,True,Tested with recorded context controls
+city,235_olimin,bright-star,*oḷi-mīṉ,235; 236,False,Lothal,4449,258,4191,177,11,166,0.04263565891472868,0.03960868527797662,10.96168998714937,True,Tested with recorded context controls
+city,235_olimin,bright-star,*oḷi-mīṉ,235; 236,False,Mohenjo-daro,4449,258,4191,1729,139,1590,0.5387596899224806,0.3793843951324266,130.16025804665387,True,Tested with recorded context controls
+city,235_olimin,bright-star,*oḷi-mīṉ,235; 236,False,Nausharo,4449,258,4191,38,1,37,0.003875968992248062,0.00882844189930804,1.7394896226474406,True,Tested with recorded context controls
+city,240_katirmin,rayed-star,*katir-mīṉ / *cāy-mīṉ,240; 241; 242,False,Banawali,4449,330,4119,26,0,26,0.0,0.006312211701869385,1.2953866719251783,True,Tested with recorded context controls
+city,240_katirmin,rayed-star,*katir-mīṉ / *cāy-mīṉ,240; 241; 242,False,Chanhu-daro,4449,330,4119,70,8,62,0.024242424242424242,0.015052197135226996,6.653634934128756,True,Tested with recorded context controls
+city,240_katirmin,rayed-star,*katir-mīṉ / *cāy-mīṉ,240; 241; 242,False,Dholavira,4449,330,4119,230,5,225,0.015151515151515152,0.05462490895848507,12.103131682980628,True,Tested with recorded context controls
+city,240_katirmin,rayed-star,*katir-mīṉ / *cāy-mīṉ,240; 241; 242,False,Harappa,4449,330,4119,1778,146,1632,0.44242424242424244,0.39621267297887836,137.6313135429406,True,Tested with recorded context controls
+city,240_katirmin,rayed-star,*katir-mīṉ / *cāy-mīṉ,240; 241; 242,False,Kalibangan,4449,330,4119,195,2,193,0.006060606060606061,0.046856033017722745,6.342323823251947,True,Tested with recorded context controls
+city,240_katirmin,rayed-star,*katir-mīṉ / *cāy-mīṉ,240; 241; 242,False,Lothal,4449,330,4119,177,10,167,0.030303030303030304,0.040543821315853365,12.680977613645007,True,Tested with recorded context controls
+city,240_katirmin,rayed-star,*katir-mīṉ / *cāy-mīṉ,240; 241; 242,False,Mohenjo-daro,4449,330,4119,1729,150,1579,0.45454545454545453,0.3833454722019908,142.57891176455058,True,Tested with recorded context controls
+city,240_katirmin,rayed-star,*katir-mīṉ / *cāy-mīṉ,240; 241; 242,False,Nausharo,4449,330,4119,38,1,37,0.0030303030303030303,0.008982762806506433,1.8480060567517396,True,Tested with recorded context controls
+city,255_mutal,principal/first,"*mutal [crocodile->first/principal, DEDR 4952/4950, 2-br PhonSt]",255,False,Banawali,4449,132,4317,26,0,26,0.0,0.006022700949733611,0.4758233794510889,True,Tested with recorded context controls
+city,255_mutal,principal/first,"*mutal [crocodile->first/principal, DEDR 4952/4950, 2-br PhonSt]",255,False,Chanhu-daro,4449,132,4317,70,2,68,0.015151515151515152,0.015751679406995598,2.398823428967191,True,Tested with recorded context controls
+city,255_mutal,principal/first,"*mutal [crocodile->first/principal, DEDR 4952/4950, 2-br PhonSt]",255,False,Dholavira,4449,132,4317,230,3,227,0.022727272727272728,0.052582812138058835,3.508147203712996,True,Tested with recorded context controls
+city,255_mutal,principal/first,"*mutal [crocodile->first/principal, DEDR 4952/4950, 2-br PhonSt]",255,False,Harappa,4449,132,4317,1778,58,1720,0.4393939393939394,0.39842483205930046,62.808992679804135,True,Tested with recorded context controls
+city,255_mutal,principal/first,"*mutal [crocodile->first/principal, DEDR 4952/4950, 2-br PhonSt]",255,False,Kalibangan,4449,132,4317,195,3,192,0.022727272727272728,0.04447533009034051,2.897176513980579,True,Tested with recorded context controls
+city,255_mutal,principal/first,"*mutal [crocodile->first/principal, DEDR 4952/4950, 2-br PhonSt]",255,False,Lothal,4449,132,4317,177,5,172,0.03787878787878788,0.03984248320593004,3.2131461394542216,True,Tested with recorded context controls
+city,255_mutal,principal/first,"*mutal [crocodile->first/principal, DEDR 4952/4950, 2-br PhonSt]",255,False,Mohenjo-daro,4449,132,4317,1729,57,1672,0.4318181818181818,0.3873059995367153,52.7091015488236,True,Tested with recorded context controls
+city,255_mutal,principal/first,"*mutal [crocodile->first/principal, DEDR 4952/4950, 2-br PhonSt]",255,False,Nausharo,4449,132,4317,38,0,38,0.0,0.008802409080379893,0.7245950014419851,True,Tested with recorded context controls
+city,320_pati,ration/paṭi,*paṭi,320; 322; 323; 324; 325,False,Banawali,4449,35,4414,26,0,26,0.0,0.0058903488898957865,0.10452449719744823,True,Tested with recorded context controls
+city,320_pati,ration/paṭi,*paṭi,320; 322; 323; 324; 325,False,Chanhu-daro,4449,35,4414,70,0,70,0.0,0.0158586316266425,0.7242099664667463,True,Tested with recorded context controls
+city,320_pati,ration/paṭi,*paṭi,320; 322; 323; 324; 325,False,Dholavira,4449,35,4414,230,1,229,0.02857142857142857,0.05188038060715904,1.3399007584345746,True,Tested with recorded context controls
+city,320_pati,ration/paṭi,*paṭi,320; 322; 323; 324; 325,False,Harappa,4449,35,4414,1778,8,1770,0.22857142857142856,0.40099682827367467,13.14819512511195,True,Tested with recorded context controls
+city,320_pati,ration/paṭi,*paṭi,320; 322; 323; 324; 325,False,Kalibangan,4449,35,4414,195,0,195,0.0,0.0441776166742184,0.8336040028050823,True,Tested with recorded context controls
+city,320_pati,ration/paṭi,*paṭi,320; 322; 323; 324; 325,False,Lothal,4449,35,4414,177,1,176,0.02857142857142857,0.03987313094698686,1.8300824100990043,True,Tested with recorded context controls
+city,320_pati,ration/paṭi,*paṭi,320; 322; 323; 324; 325,False,Mohenjo-daro,4449,35,4414,1729,23,1706,0.6571428571428571,0.3864975079293158,15.462449327404709,True,Tested with recorded context controls
+city,320_pati,ration/paṭi,*paṭi,320; 322; 323; 324; 325,False,Nausharo,4449,35,4414,38,0,38,0.0,0.008608971454463071,0.2828738600631654,True,Tested with recorded context controls
+city,368_koti,grant/banner,*koṭi ~ *koṭu,368,False,Banawali,4449,112,4337,26,2,24,0.017857142857142856,0.00553377910998386,0.4618041659361517,True,Tested with recorded context controls
+city,368_koti,grant/banner,*koṭi ~ *koṭu,368,False,Chanhu-daro,4449,112,4337,70,1,69,0.008928571428571428,0.015909614941203597,2.3805602357921027,True,Tested with recorded context controls
+city,368_koti,grant/banner,*koṭi ~ *koṭu,368,False,Dholavira,4449,112,4337,230,5,225,0.044642857142857144,0.05187917915609869,6.022857479701321,True,Tested with recorded context controls
+city,368_koti,grant/banner,*koṭi ~ *koṭu,368,False,Harappa,4449,112,4337,1778,46,1732,0.4107142857142857,0.3993543924371685,41.79723180364555,True,Tested with recorded context controls
+city,368_koti,grant/banner,*koṭi ~ *koṭu,368,False,Kalibangan,4449,112,4337,195,2,193,0.017857142857142856,0.04450080700945354,2.0590346316325103,True,Tested with recorded context controls
+city,368_koti,grant/banner,*koṭi ~ *koṭu,368,False,Lothal,4449,112,4337,177,2,175,0.017857142857142856,0.04035047267696564,3.4356580257060645,True,Tested with recorded context controls
+city,368_koti,grant/banner,*koṭi ~ *koṭu,368,False,Mohenjo-daro,4449,112,4337,1729,50,1679,0.44642857142857145,0.38713396356928753,51.83784167035211,True,Tested with recorded context controls
+city,368_koti,grant/banner,*koṭi ~ *koṭu,368,False,Nausharo,4449,112,4337,38,0,38,0.0,0.008761816924141111,0.5193036066995639,True,Tested with recorded context controls
+city,390_tai,weave/cloth,*tai,390; 392; 405; 406; 408; 409,False,Banawali,4449,396,4053,26,1,25,0.0025252525252525255,0.00616827041697508,1.72697675696357,True,Tested with recorded context controls
+city,390_tai,weave/cloth,*tai,390; 392; 405; 406; 408; 409,False,Chanhu-daro,4449,396,4053,70,10,60,0.025252525252525252,0.014803849000740192,7.842801218706519,True,Tested with recorded context controls
+city,390_tai,weave/cloth,*tai,390; 392; 405; 406; 408; 409,False,Dholavira,4449,396,4053,230,16,214,0.04040404040404041,0.05280039476930669,18.58755104562728,True,Tested with recorded context controls
+city,390_tai,weave/cloth,*tai,390; 392; 405; 406; 408; 409,False,Harappa,4449,396,4053,1778,125,1653,0.31565656565656564,0.4078460399703923,127.3275022622562,True,Tested with recorded context controls
+city,390_tai,weave/cloth,*tai,390; 392; 405; 406; 408; 409,False,Kalibangan,4449,396,4053,195,15,180,0.03787878787878788,0.04441154700222058,18.742749832910583,True,Tested with recorded context controls
+city,390_tai,weave/cloth,*tai,390; 392; 405; 406; 408; 409,False,Lothal,4449,396,4053,177,21,156,0.05303030303030303,0.0384900074019245,16.028915972959883,True,Tested with recorded context controls
+city,390_tai,weave/cloth,*tai,390; 392; 405; 406; 408; 409,False,Mohenjo-daro,4449,396,4053,1729,172,1557,0.43434343434343436,0.384159881569208,183.82354062070564,True,Tested with recorded context controls
+city,390_tai,weave/cloth,*tai,390; 392; 405; 406; 408; 409,False,Nausharo,4449,396,4053,38,3,35,0.007575757575757576,0.008635578583765112,3.9976376916953194,True,Tested with recorded context controls
+city,400_cikka,junior,*cikka/*cikkam,400; 402,False,Banawali,4449,475,3974,26,0,26,0.0,0.006542526421741319,1.3360809856996947,True,Tested with recorded context controls
+city,400_cikka,junior,*cikka/*cikkam,400; 402,False,Chanhu-daro,4449,475,3974,70,2,68,0.004210526315789474,0.017111222949169603,2.9089242388096683,True,Tested with recorded context controls
+city,400_cikka,junior,*cikka/*cikkam,400; 402,False,Dholavira,4449,475,3974,230,5,225,0.010526315789473684,0.05661801711122295,9.772730479846793,True,Tested with recorded context controls
+city,400_cikka,junior,*cikka/*cikkam,400; 402,False,Harappa,4449,475,3974,1778,367,1411,0.7726315789473684,0.35505787619526924,352.27143497584706,True,Tested with recorded context controls
+city,400_cikka,junior,*cikka/*cikkam,400; 402,False,Kalibangan,4449,475,3974,195,8,187,0.016842105263157894,0.04705586311021641,6.242708025163109,True,Tested with recorded context controls
+city,400_cikka,junior,*cikka/*cikkam,400; 402,False,Lothal,4449,475,3974,177,2,175,0.004210526315789474,0.044036235530951186,5.344865838353352,True,Tested with recorded context controls
+city,400_cikka,junior,*cikka/*cikkam,400; 402,False,Mohenjo-daro,4449,475,3974,1729,82,1647,0.1726315789473684,0.414443885254152,87.9999854715571,True,Tested with recorded context controls
+city,400_cikka,junior,*cikka/*cikkam,400; 402,False,Nausharo,4449,475,3974,38,3,35,0.00631578947368421,0.008807247106190236,1.5513336890989675,True,Tested with recorded context controls
+city,407_koti,new-cloth,*kōṭi,407,False,Banawali,4449,110,4339,26,0,26,0.0,0.005992164093109011,0.534441006409439,True,Tested with recorded context controls
+city,407_koti,new-cloth,*kōṭi,407,False,Chanhu-daro,4449,110,4339,70,0,70,0.0,0.01613274948144734,1.2440840597653342,True,Tested with recorded context controls
+city,407_koti,new-cloth,*kōṭi,407,False,Dholavira,4449,110,4339,230,3,227,0.02727272727272727,0.05231620188983637,3.8208947151348855,True,Tested with recorded context controls
+city,407_koti,new-cloth,*kōṭi,407,False,Harappa,4449,110,4339,1778,24,1754,0.21818181818181817,0.4042406084351233,18.70993691568614,True,Tested with recorded context controls
+city,407_koti,new-cloth,*kōṭi,407,False,Kalibangan,4449,110,4339,195,0,195,0.0,0.04494123069831758,1.408422015739116,True,Tested with recorded context controls
+city,407_koti,new-cloth,*kōṭi,407,False,Lothal,4449,110,4339,177,2,175,0.01818181818181818,0.04033187370361835,1.9783657259024157,True,Tested with recorded context controls
+city,407_koti,new-cloth,*kōṭi,407,False,Mohenjo-daro,4449,110,4339,1729,77,1652,0.7,0.3807328877621572,78.87967373450361,True,Tested with recorded context controls
+city,407_koti,new-cloth,*kōṭi,407,False,Nausharo,4449,110,4339,38,1,37,0.00909090909090909,0.008527310440193593,0.37496687754262764,True,Tested with recorded context controls
+city,413_ari,grain-tax/cut,"*ari [ear-of-grain->tax/cut, DEDR 215/216/212, 2-br PhonEx]",413,False,Banawali,4449,53,4396,26,0,26,0.0,0.005914467697907188,0.13064958846038993,True,Tested with recorded context controls
+city,413_ari,grain-tax/cut,"*ari [ear-of-grain->tax/cut, DEDR 215/216/212, 2-br PhonEx]",413,False,Chanhu-daro,4449,53,4396,70,0,70,0.0,0.01592356687898089,0.27975374280859217,True,Tested with recorded context controls
+city,413_ari,grain-tax/cut,"*ari [ear-of-grain->tax/cut, DEDR 215/216/212, 2-br PhonEx]",413,False,Dholavira,4449,53,4396,230,0,230,0.0,0.05232029117379436,0.955711114398068,True,Tested with recorded context controls
+city,413_ari,grain-tax/cut,"*ari [ear-of-grain->tax/cut, DEDR 215/216/212, 2-br PhonEx]",413,False,Harappa,4449,53,4396,1778,41,1737,0.7735849056603774,0.3951319381255687,36.99197269793946,True,Tested with recorded context controls
+city,413_ari,grain-tax/cut,"*ari [ear-of-grain->tax/cut, DEDR 215/216/212, 2-br PhonEx]",413,False,Kalibangan,4449,53,4396,195,1,194,0.018867924528301886,0.04413102820746133,1.35285288202738,True,Tested with recorded context controls
+city,413_ari,grain-tax/cut,"*ari [ear-of-grain->tax/cut, DEDR 215/216/212, 2-br PhonEx]",413,False,Lothal,4449,53,4396,177,0,177,0.0,0.0402638762511374,0.9555683203994205,True,Tested with recorded context controls
+city,413_ari,grain-tax/cut,"*ari [ear-of-grain->tax/cut, DEDR 215/216/212, 2-br PhonEx]",413,False,Mohenjo-daro,4449,53,4396,1729,5,1724,0.09433962264150944,0.3921747042766151,9.47797142406419,True,Tested with recorded context controls
+city,413_ari,grain-tax/cut,"*ari [ear-of-grain->tax/cut, DEDR 215/216/212, 2-br PhonEx]",413,False,Nausharo,4449,53,4396,38,2,36,0.03773584905660377,0.00818926296633303,0.15425372812777122,True,Tested with recorded context controls
+city,415_kavar,branch/control,*kavar,415,False,Banawali,4449,168,4281,26,0,26,0.0,0.006073347348750292,0.4799413724508277,True,Tested with recorded context controls
+city,415_kavar,branch/control,*kavar,415,False,Chanhu-daro,4449,168,4281,70,1,69,0.005952380952380952,0.0161177295024527,2.9205311945953465,True,Tested with recorded context controls
+city,415_kavar,branch/control,*kavar,415,False,Dholavira,4449,168,4281,230,1,229,0.005952380952380952,0.053492174725531416,6.24288240346889,True,Tested with recorded context controls
+city,415_kavar,branch/control,*kavar,415,False,Harappa,4449,168,4281,1778,70,1708,0.4166666666666667,0.39897220275636536,75.37788704389406,True,Tested with recorded context controls
+city,415_kavar,branch/control,*kavar,415,False,Kalibangan,4449,168,4281,195,1,194,0.005952380952380952,0.04531651483298295,2.863834098790862,True,Tested with recorded context controls
+city,415_kavar,branch/control,*kavar,415,False,Lothal,4449,168,4281,177,5,172,0.02976190476190476,0.040177528614809624,5.551532109449902,True,Tested with recorded context controls
+city,415_kavar,branch/control,*kavar,415,False,Mohenjo-daro,4449,168,4281,1729,80,1649,0.47619047619047616,0.38519037608035506,67.8467242466553,True,Tested with recorded context controls
+city,415_kavar,branch/control,*kavar,415,False,Nausharo,4449,168,4281,38,0,38,0.0,0.008876430740481197,0.7950760342748521,True,Tested with recorded context controls
+city,416_turai,port/double-branch,*iru-kavar / *tuṟai,416,False,Banawali,4449,53,4396,26,0,26,0.0,0.005914467697907188,0.2193807994340886,True,Tested with recorded context controls
+city,416_turai,port/double-branch,*iru-kavar / *tuṟai,416,False,Chanhu-daro,4449,53,4396,70,0,70,0.0,0.01592356687898089,0.9081541490032908,True,Tested with recorded context controls
+city,416_turai,port/double-branch,*iru-kavar / *tuṟai,416,False,Dholavira,4449,53,4396,230,5,225,0.09433962264150944,0.051182893539581435,2.024069554213542,True,Tested with recorded context controls
+city,416_turai,port/double-branch,*iru-kavar / *tuṟai,416,False,Harappa,4449,53,4396,1778,23,1755,0.4339622641509434,0.3992265696087352,24.301160223527553,True,Tested with recorded context controls
+city,416_turai,port/double-branch,*iru-kavar / *tuṟai,416,False,Kalibangan,4449,53,4396,195,0,195,0.0,0.044358507734303915,1.2454499095207943,True,Tested with recorded context controls
+city,416_turai,port/double-branch,*iru-kavar / *tuṟai,416,False,Lothal,4449,53,4396,177,2,175,0.03773584905660377,0.03980891719745223,0.9432192363280558,True,Tested with recorded context controls
+city,416_turai,port/double-branch,*iru-kavar / *tuṟai,416,False,Mohenjo-daro,4449,53,4396,1729,18,1711,0.33962264150943394,0.3892174704276615,21.067154260081647,True,Tested with recorded context controls
+city,416_turai,port/double-branch,*iru-kavar / *tuṟai,416,False,Nausharo,4449,53,4396,38,0,38,0.0,0.008644222020018199,0.2955070586912269,True,Tested with recorded context controls
+city,435_totti,attendant,*tōṭṭi,435; 436,False,Banawali,4449,89,4360,26,0,26,0.0,0.005963302752293578,0.3494445547737294,True,Tested with recorded context controls
+city,435_totti,attendant,*tōṭṭi,435; 436,False,Chanhu-daro,4449,89,4360,70,0,70,0.0,0.016055045871559634,1.3037764033315802,True,Tested with recorded context controls
+city,435_totti,attendant,*tōṭṭi,435; 436,False,Dholavira,4449,89,4360,230,0,230,0.0,0.052752293577981654,2.031950937920316,True,Tested with recorded context controls
+city,435_totti,attendant,*tōṭṭi,435; 436,False,Harappa,4449,89,4360,1778,44,1734,0.4943820224719101,0.3977064220183486,42.83457602348283,True,Tested with recorded context controls
+city,435_totti,attendant,*tōṭṭi,435; 436,False,Kalibangan,4449,89,4360,195,2,193,0.02247191011235955,0.04426605504587156,1.4466764081745802,True,Tested with recorded context controls
+city,435_totti,attendant,*tōṭṭi,435; 436,False,Lothal,4449,89,4360,177,1,176,0.011235955056179775,0.04036697247706422,1.7294939698916025,True,Tested with recorded context controls
+city,435_totti,attendant,*tōṭṭi,435; 436,False,Mohenjo-daro,4449,89,4360,1729,40,1689,0.449438202247191,0.38738532110091745,36.590704783471836,True,Tested with recorded context controls
+city,435_totti,attendant,*tōṭṭi,435; 436,False,Nausharo,4449,89,4360,38,0,38,0.0,0.00871559633027523,0.3722460054685711,True,Tested with recorded context controls
+city,440_mukku,goblet/corner,*mukku,440,False,Banawali,4449,51,4398,26,0,26,0.0,0.005911778080945885,0.24589936701778942,True,Tested with recorded context controls
+city,440_mukku,goblet/corner,*mukku,440,False,Chanhu-daro,4449,51,4398,70,1,69,0.0196078431372549,0.015688949522510234,0.8109185635240053,True,Tested with recorded context controls
+city,440_mukku,goblet/corner,*mukku,440,False,Dholavira,4449,51,4398,230,1,229,0.0196078431372549,0.05206912232833106,2.1109059553654914,True,Tested with recorded context controls
+city,440_mukku,goblet/corner,*mukku,440,False,Harappa,4449,51,4398,1778,22,1756,0.43137254901960786,0.3992723965438836,17.844704180949197,True,Tested with recorded context controls
+city,440_mukku,goblet/corner,*mukku,440,False,Kalibangan,4449,51,4398,195,2,193,0.0392156862745098,0.043883583447021375,1.5175344430046072,True,Tested with recorded context controls
+city,440_mukku,goblet/corner,*mukku,440,False,Lothal,4449,51,4398,177,1,176,0.0196078431372549,0.04001819008640291,1.4243194342658867,True,Tested with recorded context controls
+city,440_mukku,goblet/corner,*mukku,440,False,Mohenjo-daro,4449,51,4398,1729,20,1709,0.39215686274509803,0.38858572078217374,23.596098978995776,True,Tested with recorded context controls
+city,440_mukku,goblet/corner,*mukku,440,False,Nausharo,4449,51,4398,38,0,38,0.0,0.008640291041382447,0.7009620969444827,True,Tested with recorded context controls
+city,500_pay,sail/voyage,*pāy,500,False,Banawali,4449,19,4430,26,0,26,0.0,0.005869074492099322,0.07020370736890619,True,Tested with recorded context controls
+city,500_pay,sail/voyage,*pāy,500,False,Chanhu-daro,4449,19,4430,70,1,69,0.05263157894736842,0.015575620767494356,0.22101262975222546,True,Tested with recorded context controls
+city,500_pay,sail/voyage,*pāy,500,False,Dholavira,4449,19,4430,230,1,229,0.05263157894736842,0.05169300225733634,0.9455032705094402,True,Tested with recorded context controls
+city,500_pay,sail/voyage,*pāy,500,False,Harappa,4449,19,4430,1778,4,1774,0.21052631578947367,0.400451467268623,5.277616644579443,True,Tested with recorded context controls
+city,500_pay,sail/voyage,*pāy,500,False,Kalibangan,4449,19,4430,195,0,195,0.0,0.04401805869074492,0.33802520462914176,True,Tested with recorded context controls
+city,500_pay,sail/voyage,*pāy,500,False,Lothal,4449,19,4430,177,6,171,0.3157894736842105,0.03860045146726862,3.7500412090956186,True,Tested with recorded context controls
+city,500_pay,sail/voyage,*pāy,500,False,Mohenjo-daro,4449,19,4430,1729,6,1723,0.3157894736842105,0.3889390519187359,7.348155938909867,True,Tested with recorded context controls
+city,500_pay,sail/voyage,*pāy,500,False,Nausharo,4449,19,4430,38,0,38,0.0,0.008577878103837472,0.08567532344210634,True,Tested with recorded context controls
+city,503_malai,garland/bead-strand,*malai ~ *mālai,491; 495; 503,False,Banawali,4449,117,4332,26,0,26,0.0,0.006001846722068329,0.3599088053319963,True,Tested with recorded context controls
+city,503_malai,garland/bead-strand,*malai ~ *mālai,491; 495; 503,False,Chanhu-daro,4449,117,4332,70,2,68,0.017094017094017096,0.01569713758079409,2.5721272933426085,True,Tested with recorded context controls
+city,503_malai,garland/bead-strand,*malai ~ *mālai,491; 495; 503,False,Dholavira,4449,117,4332,230,1,229,0.008547008547008548,0.05286241920590951,3.7271824111257486,True,Tested with recorded context controls
+city,503_malai,garland/bead-strand,*malai ~ *mālai,491; 495; 503,False,Harappa,4449,117,4332,1778,41,1737,0.3504273504273504,0.4009695290858726,35.23666758637999,True,Tested with recorded context controls
+city,503_malai,garland/bead-strand,*malai ~ *mālai,491; 495; 503,False,Kalibangan,4449,117,4332,195,3,192,0.02564102564102564,0.0443213296398892,3.1075639198665486,True,Tested with recorded context controls
+city,503_malai,garland/bead-strand,*malai ~ *mālai,491; 495; 503,False,Lothal,4449,117,4332,177,5,172,0.042735042735042736,0.03970452446906741,3.663456954721414,True,Tested with recorded context controls
+city,503_malai,garland/bead-strand,*malai ~ *mālai,491; 495; 503,False,Mohenjo-daro,4449,117,4332,1729,60,1669,0.5128205128205128,0.38527239150507847,64.58808907220919,True,Tested with recorded context controls
+city,503_malai,garland/bead-strand,*malai ~ *mālai,491; 495; 503,False,Nausharo,4449,117,4332,38,2,36,0.017094017094017096,0.008310249307479225,0.7285963918953942,True,Tested with recorded context controls
+city,520_vel,lord,*vēḷ/*vēl,520,False,Banawali,4449,289,4160,26,3,23,0.010380622837370242,0.005528846153846154,1.3126316581526942,True,Tested with recorded context controls
+city,520_vel,lord,*vēḷ/*vēl,520,False,Chanhu-daro,4449,289,4160,70,4,66,0.01384083044982699,0.015865384615384615,5.69508321296465,True,Tested with recorded context controls
+city,520_vel,lord,*vēḷ/*vēl,520,False,Dholavira,4449,289,4160,230,19,211,0.0657439446366782,0.050721153846153846,13.990796640828295,True,Tested with recorded context controls
+city,520_vel,lord,*vēḷ/*vēl,520,False,Harappa,4449,289,4160,1778,97,1681,0.3356401384083045,0.40408653846153847,103.48702396716068,True,Tested with recorded context controls
+city,520_vel,lord,*vēḷ/*vēl,520,False,Kalibangan,4449,289,4160,195,6,189,0.020761245674740483,0.045432692307692306,7.076966793473607,True,Tested with recorded context controls
+city,520_vel,lord,*vēḷ/*vēl,520,False,Lothal,4449,289,4160,177,9,168,0.031141868512110725,0.04038461538461539,12.595663829585465,True,Tested with recorded context controls
+city,520_vel,lord,*vēḷ/*vēl,520,False,Mohenjo-daro,4449,289,4160,1729,140,1589,0.4844290657439446,0.3819711538461538,133.35425659914864,True,Tested with recorded context controls
+city,520_vel,lord,*vēḷ/*vēl,520,False,Nausharo,4449,289,4160,38,2,36,0.006920415224913495,0.008653846153846154,1.7907308184747515,True,Tested with recorded context controls
+city,550_natu,district,*nāṭu,550; 555,False,Banawali,4449,141,4308,26,1,25,0.0070921985815602835,0.005803156917363045,0.6007955442797767,True,Tested with recorded context controls
+city,550_natu,district,*nāṭu,550; 555,False,Chanhu-daro,4449,141,4308,70,0,70,0.0,0.016248839368616527,2.741353169287752,True,Tested with recorded context controls
+city,550_natu,district,*nāṭu,550; 555,False,Dholavira,4449,141,4308,230,4,226,0.028368794326241134,0.05246053853296193,5.102212786063317,True,Tested with recorded context controls
+city,550_natu,district,*nāṭu,550; 555,False,Harappa,4449,141,4308,1778,46,1732,0.3262411347517731,0.4020427112349118,52.98326529058755,True,Tested with recorded context controls
+city,550_natu,district,*nāṭu,550; 555,False,Kalibangan,4449,141,4308,195,5,190,0.03546099290780142,0.04410399257195915,6.280065597367933,True,Tested with recorded context controls
+city,550_natu,district,*nāṭu,550; 555,False,Lothal,4449,141,4308,177,13,164,0.09219858156028368,0.03806870937790158,8.190900488484987,True,Tested with recorded context controls
+city,550_natu,district,*nāṭu,550; 555,False,Mohenjo-daro,4449,141,4308,1729,70,1659,0.49645390070921985,0.3850974930362117,59.97879112773588,True,Tested with recorded context controls
+city,550_natu,district,*nāṭu,550; 555,False,Nausharo,4449,141,4308,38,0,38,0.0,0.008820798514391829,1.0687923346980275,True,Tested with recorded context controls
+city,575_kottai,kōṭṭai(665L),*kōṭṭai,575,False,Banawali,4449,73,4376,26,0,26,0.0,0.005941499085923218,0.3132844396072696,True,Tested with recorded context controls
+city,575_kottai,kōṭṭai(665L),*kōṭṭai,575,False,Chanhu-daro,4449,73,4376,70,1,69,0.0136986301369863,0.01576782449725777,1.2972512512643308,True,Tested with recorded context controls
+city,575_kottai,kōṭṭai(665L),*kōṭṭai,575,False,Dholavira,4449,73,4376,230,4,226,0.0547945205479452,0.051645338208409504,3.6622236505758354,True,Tested with recorded context controls
+city,575_kottai,kōṭṭai(665L),*kōṭṭai,575,False,Harappa,4449,73,4376,1778,32,1746,0.4383561643835616,0.3989945155393053,30.782357631051973,True,Tested with recorded context controls
+city,575_kottai,kōṭṭai(665L),*kōṭṭai,575,False,Kalibangan,4449,73,4376,195,1,194,0.0136986301369863,0.0443327239488117,1.1399436657539068,True,Tested with recorded context controls
+city,575_kottai,kōṭṭai(665L),*kōṭṭai,575,False,Lothal,4449,73,4376,177,6,171,0.0821917808219178,0.039076782449725775,4.501983890562364,True,Tested with recorded context controls
+city,575_kottai,kōṭṭai(665L),*kōṭṭai,575,False,Mohenjo-daro,4449,73,4376,1729,28,1701,0.3835616438356164,0.38871115173674586,28.34199479851645,True,Tested with recorded context controls
+city,575_kottai,kōṭṭai(665L),*kōṭṭai,575,False,Nausharo,4449,73,4376,38,0,38,0.0,0.008683729433272395,0.4686099674555065,True,Tested with recorded context controls
+city,590_mutai,bale/sack-load,*mūṭai,590; 592,False,Banawali,4449,226,4223,26,0,26,0.0,0.006156760596732181,0.7591444624908444,True,Tested with recorded context controls
+city,590_mutai,bale/sack-load,*mūṭai,590; 592,False,Chanhu-daro,4449,226,4223,70,4,66,0.017699115044247787,0.015628699976320153,3.96708235951299,True,Tested with recorded context controls
+city,590_mutai,bale/sack-load,*mūṭai,590; 592,False,Dholavira,4449,226,4223,230,13,217,0.05752212389380531,0.05138527113426474,8.41804322025774,True,Tested with recorded context controls
+city,590_mutai,bale/sack-load,*mūṭai,590; 592,False,Harappa,4449,226,4223,1778,101,1677,0.4469026548672566,0.3971110584892257,98.45857981892367,True,Tested with recorded context controls
+city,590_mutai,bale/sack-load,*mūṭai,590; 592,False,Kalibangan,4449,226,4223,195,3,192,0.01327433628318584,0.04546530902202226,5.2354743183711845,True,Tested with recorded context controls
+city,590_mutai,bale/sack-load,*mūṭai,590; 592,False,Lothal,4449,226,4223,177,10,167,0.04424778761061947,0.039545346909779774,9.107167301076482,True,Tested with recorded context controls
+city,590_mutai,bale/sack-load,*mūṭai,590; 592,False,Mohenjo-daro,4449,226,4223,1729,85,1644,0.37610619469026546,0.38929670850106557,92.5937471442733,True,Tested with recorded context controls
+city,590_mutai,bale/sack-load,*mūṭai,590; 592,False,Nausharo,4449,226,4223,38,0,38,0.0,0.008998342410608573,1.444916460448891,True,Tested with recorded context controls
+city,615_accu,loom-reed/plot,*accu,615,False,Banawali,4449,59,4390,26,0,26,0.0,0.00592255125284738,0.22125592201555985,True,Tested with recorded context controls
+city,615_accu,loom-reed/plot,*accu,615,False,Chanhu-daro,4449,59,4390,70,1,69,0.01694915254237288,0.01571753986332574,0.9622821439468667,True,Tested with recorded context controls
+city,615_accu,loom-reed/plot,*accu,615,False,Dholavira,4449,59,4390,230,1,229,0.01694915254237288,0.05216400911161731,1.5716198101531091,True,Tested with recorded context controls
+city,615_accu,loom-reed/plot,*accu,615,False,Harappa,4449,59,4390,1778,14,1764,0.23728813559322035,0.4018223234624146,11.316203690229894,True,Tested with recorded context controls
+city,615_accu,loom-reed/plot,*accu,615,False,Kalibangan,4449,59,4390,195,0,195,0.0,0.04441913439635535,1.4217972153684248,True,Tested with recorded context controls
+city,615_accu,loom-reed/plot,*accu,615,False,Lothal,4449,59,4390,177,1,176,0.01694915254237288,0.04009111617312073,1.5040757204500472,True,Tested with recorded context controls
+city,615_accu,loom-reed/plot,*accu,615,False,Mohenjo-daro,4449,59,4390,1729,40,1689,0.6779661016949152,0.38473804100227793,40.1421926618364,True,Tested with recorded context controls
+city,615_accu,loom-reed/plot,*accu,615,False,Nausharo,4449,59,4390,38,0,38,0.0,0.008656036446469248,0.33979555352025015,True,Tested with recorded context controls
+city,617_iruaccu,twin-plot/loom,*iru-accu (2x 615),617,False,Banawali,4449,73,4376,26,0,26,0.0,0.005941499085923218,0.2663733191235591,True,Tested with recorded context controls
+city,617_iruaccu,twin-plot/loom,*iru-accu (2x 615),617,False,Chanhu-daro,4449,73,4376,70,0,70,0.0,0.015996343692870202,1.2422324888380831,True,Tested with recorded context controls
+city,617_iruaccu,twin-plot/loom,*iru-accu (2x 615),617,False,Dholavira,4449,73,4376,230,2,228,0.0273972602739726,0.05210237659963437,4.10016150840572,True,Tested with recorded context controls
+city,617_iruaccu,twin-plot/loom,*iru-accu (2x 615),617,False,Harappa,4449,73,4376,1778,20,1758,0.273972602739726,0.4017367458866545,21.742020273239753,True,Tested with recorded context controls
+city,617_iruaccu,twin-plot/loom,*iru-accu (2x 615),617,False,Kalibangan,4449,73,4376,195,0,195,0.0,0.04456124314442413,1.7220406521023335,True,Tested with recorded context controls
+city,617_iruaccu,twin-plot/loom,*iru-accu (2x 615),617,False,Lothal,4449,73,4376,177,4,173,0.0547945205479452,0.03953382084095064,3.3843072338263305,True,Tested with recorded context controls
+city,617_iruaccu,twin-plot/loom,*iru-accu (2x 615),617,False,Mohenjo-daro,4449,73,4376,1729,46,1683,0.6301369863013698,0.3845978062157221,38.083523658287135,True,Tested with recorded context controls
+city,617_iruaccu,twin-plot/loom,*iru-accu (2x 615),617,False,Nausharo,4449,73,4376,38,0,38,0.0,0.008683729433272395,0.40145223018487775,True,Tested with recorded context controls
+city,690_kattu,bundle/store,*kaṭṭu / *piṇai,690,False,Banawali,4449,109,4340,26,0,26,0.0,0.005990783410138249,0.29589770685246525,True,Tested with recorded context controls
+city,690_kattu,bundle/store,*kaṭṭu / *piṇai,690,False,Chanhu-daro,4449,109,4340,70,0,70,0.0,0.016129032258064516,1.435619216153257,True,Tested with recorded context controls
+city,690_kattu,bundle/store,*kaṭṭu / *piṇai,690,False,Dholavira,4449,109,4340,230,1,229,0.009174311926605505,0.05276497695852535,1.9466366679069802,True,Tested with recorded context controls
+city,690_kattu,bundle/store,*kaṭṭu / *piṇai,690,False,Harappa,4449,109,4340,1778,61,1717,0.5596330275229358,0.3956221198156682,59.46177529190702,True,Tested with recorded context controls
+city,690_kattu,bundle/store,*kaṭṭu / *piṇai,690,False,Kalibangan,4449,109,4340,195,2,193,0.01834862385321101,0.044470046082949306,1.9688530118195995,True,Tested with recorded context controls
+city,690_kattu,bundle/store,*kaṭṭu / *piṇai,690,False,Lothal,4449,109,4340,177,0,177,0.0,0.04078341013824885,1.8385155528279187,True,Tested with recorded context controls
+city,690_kattu,bundle/store,*kaṭṭu / *piṇai,690,False,Mohenjo-daro,4449,109,4340,1729,43,1686,0.3944954128440367,0.3884792626728111,39.76883388610336,True,Tested with recorded context controls
+city,690_kattu,bundle/store,*kaṭṭu / *piṇai,690,False,Nausharo,4449,109,4340,38,0,38,0.0,0.008755760368663594,0.5190814011161287,True,Tested with recorded context controls
+city,700_ala,measure,*aḷa / *akal,700,False,Banawali,4449,523,3926,26,2,24,0.0038240917782026767,0.006113092205807438,1.096419647294461,True,Tested with recorded context controls
+city,700_ala,measure,*aḷa / *akal,700,False,Chanhu-daro,4449,523,3926,70,1,69,0.0019120458891013384,0.017575140091696383,1.19429479958732,True,Tested with recorded context controls
+city,700_ala,measure,*aḷa / *akal,700,False,Dholavira,4449,523,3926,230,4,226,0.0076481835564053535,0.05756495160468671,5.451858115090504,True,Tested with recorded context controls
+city,700_ala,measure,*aḷa / *akal,700,False,Harappa,4449,523,3926,1778,486,1292,0.9292543021032504,0.32908813041263374,453.1648314627126,True,Tested with recorded context controls
+city,700_ala,measure,*aḷa / *akal,700,False,Kalibangan,4449,523,3926,195,3,192,0.0057361376673040155,0.0489047376464595,5.920419243682379,True,Tested with recorded context controls
+city,700_ala,measure,*aḷa / *akal,700,False,Lothal,4449,523,3926,177,5,172,0.009560229445506692,0.04381049414161997,5.42518075496517,True,Tested with recorded context controls
+city,700_ala,measure,*aḷa / *akal,700,False,Mohenjo-daro,4449,523,3926,1729,18,1711,0.03441682600382409,0.4358125318390219,44.90896998489447,True,Tested with recorded context controls
+city,700_ala,measure,*aḷa / *akal,700,False,Nausharo,4449,523,3926,38,0,38,0.0,0.00967906265919511,1.046772668870851,True,Tested with recorded context controls
+city,703_muala,three-measures,*mū-aḷa / *mū-akal,703,False,Banawali,4449,12,4437,26,0,26,0.0,0.005859815190443994,0.046381884818270075,True,Tested with recorded context controls
+city,703_muala,three-measures,*mū-aḷa / *mū-akal,703,False,Chanhu-daro,4449,12,4437,70,0,70,0.0,0.015776425512733828,0.31987660361619935,True,Tested with recorded context controls
+city,703_muala,three-measures,*mū-aḷa / *mū-akal,703,False,Dholavira,4449,12,4437,230,1,229,0.08333333333333333,0.0516114491773721,0.3218074439834249,True,Tested with recorded context controls
+city,703_muala,three-measures,*mū-aḷa / *mū-akal,703,False,Harappa,4449,12,4437,1778,2,1776,0.16666666666666666,0.4002704530087897,3.3746668924759997,True,Tested with recorded context controls
+city,703_muala,three-measures,*mū-aḷa / *mū-akal,703,False,Kalibangan,4449,12,4437,195,1,194,0.08333333333333333,0.04372323642100518,0.30579219318230255,True,Tested with recorded context controls
+city,703_muala,three-measures,*mū-aḷa / *mū-akal,703,False,Lothal,4449,12,4437,177,1,176,0.08333333333333333,0.03966644128915934,0.3127200592527779,True,Tested with recorded context controls
+city,703_muala,three-measures,*mū-aḷa / *mū-akal,703,False,Mohenjo-daro,4449,12,4437,1729,7,1722,0.5833333333333334,0.3881000676132522,6.967428003411707,True,Tested with recorded context controls
+city,703_muala,three-measures,*mū-aḷa / *mū-akal,703,False,Nausharo,4449,12,4437,38,0,38,0.0,0.00856434527834122,0.12971792371560406,True,Tested with recorded context controls
+city,705_kalam,ship/kalam-measure,*kalam/*kaḷam,704; 705; 706; 707,False,Banawali,4449,296,4153,26,0,26,0.0,0.0062605345533349385,0.9877708945869321,True,Tested with recorded context controls
+city,705_kalam,ship/kalam-measure,*kalam/*kaḷam,704; 705; 706; 707,False,Chanhu-daro,4449,296,4153,70,5,65,0.016891891891891893,0.015651336383337346,5.7573622657511265,True,Tested with recorded context controls
+city,705_kalam,ship/kalam-measure,*kalam/*kaḷam,704; 705; 706; 707,False,Dholavira,4449,296,4153,230,15,215,0.05067567567567568,0.051769804960269686,15.944482877424054,True,Tested with recorded context controls
+city,705_kalam,ship/kalam-measure,*kalam/*kaḷam,704; 705; 706; 707,False,Harappa,4449,296,4153,1778,88,1690,0.2972972972972973,0.406934745966771,93.89772465918062,True,Tested with recorded context controls
+city,705_kalam,ship/kalam-measure,*kalam/*kaḷam,704; 705; 706; 707,False,Kalibangan,4449,296,4153,195,1,194,0.0033783783783783786,0.04671321935949916,8.467029158484163,True,Tested with recorded context controls
+city,705_kalam,ship/kalam-measure,*kalam/*kaḷam,704; 705; 706; 707,False,Lothal,4449,296,4153,177,13,164,0.04391891891891892,0.03948952564411269,13.400676561336134,True,Tested with recorded context controls
+city,705_kalam,ship/kalam-measure,*kalam/*kaḷam,704; 705; 706; 707,False,Mohenjo-daro,4449,296,4153,1729,160,1569,0.5405405405405406,0.37779918131471224,143.53248854923797,True,Tested with recorded context controls
+city,705_kalam,ship/kalam-measure,*kalam/*kaḷam,704; 705; 706; 707,False,Nausharo,4449,296,4153,38,0,38,0.0,0.009150012039489525,1.699157055887712,True,Tested with recorded context controls
+city,711_vallam,vaḷḷam(37L),*vaḷḷam,711,False,Banawali,4449,18,4431,26,0,26,0.0,0.005867749943579328,0.025,True,Tested with recorded context controls
+city,711_vallam,vaḷḷam(37L),*vaḷḷam,711,False,Chanhu-daro,4449,18,4431,70,0,70,0.0,0.01579778830963665,0.05128205128205128,True,Tested with recorded context controls
+city,711_vallam,vaḷḷam(37L),*vaḷḷam,711,False,Dholavira,4449,18,4431,230,0,230,0.0,0.051907018731663285,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+city,711_vallam,vaḷḷam(37L),*vaḷḷam,711,False,Harappa,4449,18,4431,1778,18,1760,1.0,0.39720153464229296,16.32475830180748,True,Tested with recorded context controls
+city,711_vallam,vaḷḷam(37L),*vaḷḷam,711,False,Kalibangan,4449,18,4431,195,0,195,0.0,0.044008124576844956,0.010256410256410256,True,Tested with recorded context controls
+city,711_vallam,vaḷḷam(37L),*vaḷḷam,711,False,Lothal,4449,18,4431,177,0,177,0.0,0.03994583615436696,0.21311475409836067,True,Tested with recorded context controls
+city,711_vallam,vaḷḷam(37L),*vaḷḷam,711,False,Mohenjo-daro,4449,18,4431,1729,0,1729,0.0,0.3902053712480253,1.3505884825556957,True,Tested with recorded context controls
+city,711_vallam,vaḷḷam(37L),*vaḷḷam,711,False,Nausharo,4449,18,4431,38,0,38,0.0,0.008575942225231325,0.0,False,"No separable within-group contrast, or fewer than five eligible word occurrences"
+city,717_ati,base/foundational,*aṭi,716; 717,False,Banawali,4449,57,4392,26,0,26,0.0,0.005919854280510018,0.179935082409437,True,Tested with recorded context controls
+city,717_ati,base/foundational,*aṭi,716; 717,False,Chanhu-daro,4449,57,4392,70,2,68,0.03508771929824561,0.015482695810564663,1.082134042092425,True,Tested with recorded context controls
+city,717_ati,base/foundational,*aṭi,716; 717,False,Dholavira,4449,57,4392,230,1,229,0.017543859649122806,0.05214025500910747,3.192785774173697,True,Tested with recorded context controls
+city,717_ati,base/foundational,*aṭi,716; 717,False,Harappa,4449,57,4392,1778,22,1756,0.38596491228070173,0.3998178506375228,18.201107823648893,True,Tested with recorded context controls
+city,717_ati,base/foundational,*aṭi,716; 717,False,Kalibangan,4449,57,4392,195,3,192,0.05263157894736842,0.04371584699453552,1.2334292481054783,True,Tested with recorded context controls
+city,717_ati,base/foundational,*aṭi,716; 717,False,Lothal,4449,57,4392,177,1,176,0.017543859649122806,0.04007285974499089,2.431510543804505,True,Tested with recorded context controls
+city,717_ati,base/foundational,*aṭi,716; 717,False,Mohenjo-daro,4449,57,4392,1729,25,1704,0.43859649122807015,0.3879781420765027,27.931457196215003,True,Tested with recorded context controls
+city,717_ati,base/foundational,*aṭi,716; 717,False,Nausharo,4449,57,4392,38,0,38,0.0,0.008652094717668488,0.3385180222122724,True,Tested with recorded context controls
+city,740_kuti,house,*kuṭi/*kuṭam,740,False,Banawali,4449,1737,2712,26,5,21,0.0028785261945883708,0.007743362831858407,7.194876297530058,True,Tested with recorded context controls
+city,740_kuti,house,*kuṭi/*kuṭam,740,False,Chanhu-daro,4449,1737,2712,70,25,45,0.014392630972941854,0.016592920353982302,28.40252060799482,True,Tested with recorded context controls
+city,740_kuti,house,*kuṭi/*kuṭam,740,False,Dholavira,4449,1737,2712,230,56,174,0.03223949337938975,0.06415929203539823,74.8351262595995,True,Tested with recorded context controls
+city,740_kuti,house,*kuṭi/*kuṭam,740,False,Harappa,4449,1737,2712,1778,721,1057,0.41508347725964306,0.38974926253687314,725.341476706548,True,Tested with recorded context controls
+city,740_kuti,house,*kuṭi/*kuṭam,740,False,Kalibangan,4449,1737,2712,195,55,140,0.03166378814047208,0.051622418879056046,50.34925686182282,True,Tested with recorded context controls
+city,740_kuti,house,*kuṭi/*kuṭam,740,False,Lothal,4449,1737,2712,177,63,114,0.03626943005181347,0.0420353982300885,65.18240846700826,True,Tested with recorded context controls
+city,740_kuti,house,*kuṭi/*kuṭam,740,False,Mohenjo-daro,4449,1737,2712,1729,748,981,0.43062751871042027,0.36172566371681414,717.7966276782693,True,Tested with recorded context controls
+city,740_kuti,house,*kuṭi/*kuṭam,740,False,Nausharo,4449,1737,2712,38,11,27,0.0063327576280944155,0.00995575221238938,11.686036089007992,True,Tested with recorded context controls
+city,741_orukuti,single-house,*oru-kuṭi,741,False,Banawali,4449,202,4247,26,0,26,0.0,0.006121968448316459,0.6765469902525258,True,Tested with recorded context controls
+city,741_orukuti,single-house,*oru-kuṭi,741,False,Chanhu-daro,4449,202,4247,70,5,65,0.024752475247524754,0.015304921120791147,4.900558218737595,True,Tested with recorded context controls
+city,741_orukuti,single-house,*oru-kuṭi,741,False,Dholavira,4449,202,4247,230,10,220,0.04950495049504951,0.05180127148575465,9.255377509534853,True,Tested with recorded context controls
+city,741_orukuti,single-house,*oru-kuṭi,741,False,Harappa,4449,202,4247,1778,48,1730,0.2376237623762376,0.40734636213797976,55.02129258183285,True,Tested with recorded context controls
+city,741_orukuti,single-house,*oru-kuṭi,741,False,Kalibangan,4449,202,4247,195,6,189,0.0297029702970297,0.04450200141276195,4.912211927847149,True,Tested with recorded context controls
+city,741_orukuti,single-house,*oru-kuṭi,741,False,Lothal,4449,202,4247,177,10,167,0.04950495049504951,0.039321874264186485,11.467628484782,True,Tested with recorded context controls
+city,741_orukuti,single-house,*oru-kuṭi,741,False,Mohenjo-daro,4449,202,4247,1729,110,1619,0.5445544554455446,0.38121026607016717,104.42605346649368,True,Tested with recorded context controls
+city,741_orukuti,single-house,*oru-kuṭi,741,False,Nausharo,4449,202,4247,38,3,35,0.01485148514851485,0.008241111372733695,2.2125826776450674,True,Tested with recorded context controls
+city,742_irukuti,twin-house,*iru-kuṭi [740 + 2 internal strokes],742; 743; 744,False,Banawali,4449,56,4393,26,0,26,0.0,0.005918506715228773,0.33046265924659224,True,Tested with recorded context controls
+city,742_irukuti,twin-house,*iru-kuṭi [740 + 2 internal strokes],742; 743; 744,False,Chanhu-daro,4449,56,4393,70,0,70,0.0,0.01593444115638516,1.2603050227471815,True,Tested with recorded context controls
+city,742_irukuti,twin-house,*iru-kuṭi [740 + 2 internal strokes],742; 743; 744,False,Dholavira,4449,56,4393,230,5,225,0.08928571428571429,0.05121784657409515,2.101988224344068,True,Tested with recorded context controls
+city,742_irukuti,twin-house,*iru-kuṭi [740 + 2 internal strokes],742; 743; 744,False,Harappa,4449,56,4393,1778,11,1767,0.19642857142857142,0.4022308217618939,16.00650096505127,True,Tested with recorded context controls
+city,742_irukuti,twin-house,*iru-kuṭi [740 + 2 internal strokes],742; 743; 744,False,Kalibangan,4449,56,4393,195,3,192,0.05357142857142857,0.04370589574322786,1.7403671805320395,True,Tested with recorded context controls
+city,742_irukuti,twin-house,*iru-kuṭi [740 + 2 internal strokes],742; 743; 744,False,Lothal,4449,56,4393,177,2,175,0.03571428571428571,0.0398361028909629,1.6970073368781766,True,Tested with recorded context controls
+city,742_irukuti,twin-house,*iru-kuṭi [740 + 2 internal strokes],742; 743; 744,False,Mohenjo-daro,4449,56,4393,1729,30,1699,0.5357142857142857,0.38675165035283404,29.609668761865947,True,Tested with recorded context controls
+city,742_irukuti,twin-house,*iru-kuṭi [740 + 2 internal strokes],742; 743; 744,False,Nausharo,4449,56,4393,38,2,36,0.03571428571428571,0.008194855451855224,0.854709744967038,True,Tested with recorded context controls
+city,745_mukuti,three-house,*mū-kuṭi [740 + 3 internal strokes],745; 746; 747,False,Banawali,4449,52,4397,26,0,26,0.0,0.005913122583579713,0.30954935770953707,True,Tested with recorded context controls
+city,745_mukuti,three-house,*mū-kuṭi [740 + 3 internal strokes],745; 746; 747,False,Chanhu-daro,4449,52,4397,70,0,70,0.0,0.01591994541733,1.0386276269780559,True,Tested with recorded context controls
+city,745_mukuti,three-house,*mū-kuṭi [740 + 3 internal strokes],745; 746; 747,False,Dholavira,4449,52,4397,230,1,229,0.019230769230769232,0.052080964293836705,1.6623928325843838,True,Tested with recorded context controls
+city,745_mukuti,three-house,*mū-kuṭi [740 + 3 internal strokes],745; 746; 747,False,Harappa,4449,52,4397,1778,22,1756,0.4230769230769231,0.3993632021833068,18.218773025954864,True,Tested with recorded context controls
+city,745_mukuti,three-house,*mū-kuṭi [740 + 3 internal strokes],745; 746; 747,False,Kalibangan,4449,52,4397,195,1,194,0.019230769230769232,0.04412099158517171,2.093950037082036,True,Tested with recorded context controls
+city,745_mukuti,three-house,*mū-kuṭi [740 + 3 internal strokes],745; 746; 747,False,Lothal,4449,52,4397,177,0,177,0.0,0.04025471912667728,1.0036712732073316,True,Tested with recorded context controls
+city,745_mukuti,three-house,*mū-kuṭi [740 + 3 internal strokes],745; 746; 747,False,Mohenjo-daro,4449,52,4397,1729,27,1702,0.5192307692307693,0.3870821014327951,25.1283327203951,True,Tested with recorded context controls
+city,745_mukuti,three-house,*mū-kuṭi [740 + 3 internal strokes],745; 746; 747,False,Nausharo,4449,52,4397,38,0,38,0.0,0.008642256083693428,0.5792346252952543,True,Tested with recorded context controls
+city,760_kuruku,youth/scion,*kuruku / *koḻuntu,752; 760,False,Banawali,4449,167,4282,26,0,26,0.0,0.006071929005137786,0.4961058259974496,True,Tested with recorded context controls
+city,760_kuruku,youth/scion,*kuruku / *koḻuntu,752; 760,False,Chanhu-daro,4449,167,4282,70,0,70,0.0,0.016347501167678656,2.884055878305409,True,Tested with recorded context controls
+city,760_kuruku,youth/scion,*kuruku / *koḻuntu,752; 760,False,Dholavira,4449,167,4282,230,8,222,0.04790419161676647,0.05184493227463802,6.7609781510469045,True,Tested with recorded context controls
+city,760_kuruku,youth/scion,*kuruku / *koḻuntu,752; 760,False,Harappa,4449,167,4282,1778,51,1727,0.30538922155688625,0.4033162073797291,54.51217967412635,True,Tested with recorded context controls
+city,760_kuruku,youth/scion,*kuruku / *koḻuntu,752; 760,False,Kalibangan,4449,167,4282,195,4,191,0.023952095808383235,0.04460532461466604,3.4036836923607985,True,Tested with recorded context controls
+city,760_kuruku,youth/scion,*kuruku / *koḻuntu,752; 760,False,Lothal,4449,167,4282,177,6,171,0.03592814371257485,0.03993460999532929,5.52208206088321,True,Tested with recorded context controls
+city,760_kuruku,youth/scion,*kuruku / *koḻuntu,752; 760,False,Mohenjo-daro,4449,167,4282,1729,93,1636,0.5568862275449101,0.38206445586174687,87.61418985405595,True,Tested with recorded context controls
+city,760_kuruku,youth/scion,*kuruku / *koḻuntu,752; 760,False,Nausharo,4449,167,4282,38,1,37,0.005988023952095809,0.008640822045773003,0.9521175569267354,True,Tested with recorded context controls
+city,790_valai,bangle,*vaḷai,790,False,Banawali,4449,48,4401,26,0,26,0.0,0.005907748239036582,0.10083864152099041,True,Tested with recorded context controls
+city,790_valai,bangle,*vaḷai,790,False,Chanhu-daro,4449,48,4401,70,2,68,0.041666666666666664,0.01545103385594183,0.45416176677179276,True,Tested with recorded context controls
+city,790_valai,bangle,*vaḷai,790,False,Dholavira,4449,48,4401,230,2,228,0.041666666666666664,0.051806407634628494,1.459177534549838,True,Tested with recorded context controls
+city,790_valai,bangle,*vaḷai,790,False,Harappa,4449,48,4401,1778,21,1757,0.4375,0.3992274483072029,17.750102320963954,True,Tested with recorded context controls
+city,790_valai,bangle,*vaḷai,790,False,Kalibangan,4449,48,4401,195,2,193,0.041666666666666664,0.04385366962054078,2.9920426191425022,True,Tested with recorded context controls
+city,790_valai,bangle,*vaḷai,790,False,Lothal,4449,48,4401,177,2,175,0.041666666666666664,0.039763690070438534,1.8745379344789301,True,Tested with recorded context controls
+city,790_valai,bangle,*vaḷai,790,False,Mohenjo-daro,4449,48,4401,1729,17,1712,0.3541666666666667,0.38900249943194726,20.249704664621625,True,Tested with recorded context controls
+city,790_valai,bangle,*vaḷai,790,False,Nausharo,4449,48,4401,38,1,37,0.020833333333333332,0.00840718018632129,0.45134208852344293,True,Tested with recorded context controls
+city,798_totu,bound-guild,*toṭu / *iṭukku,193; 195; 797; 798,False,Banawali,4449,156,4293,26,1,25,0.00641025641025641,0.0058234334963894714,0.5753097625284351,True,Tested with recorded context controls
+city,798_totu,bound-guild,*toṭu / *iṭukku,193; 195; 797; 798,False,Chanhu-daro,4449,156,4293,70,1,69,0.00641025641025641,0.01607267645003494,3.2633505153432663,True,Tested with recorded context controls
+city,798_totu,bound-guild,*toṭu / *iṭukku,193; 195; 797; 798,False,Dholavira,4449,156,4293,230,8,222,0.05128205128205128,0.0517120894479385,7.590120535041875,True,Tested with recorded context controls
+city,798_totu,bound-guild,*toṭu / *iṭukku,193; 195; 797; 798,False,Harappa,4449,156,4293,1778,51,1727,0.3269230769230769,0.4022827859305847,48.82506335407362,True,Tested with recorded context controls
+city,798_totu,bound-guild,*toṭu / *iṭukku,193; 195; 797; 798,False,Kalibangan,4449,156,4293,195,3,192,0.019230769230769232,0.04472396925227114,3.3740835424175635,True,Tested with recorded context controls
+city,798_totu,bound-guild,*toṭu / *iṭukku,193; 195; 797; 798,False,Lothal,4449,156,4293,177,7,170,0.04487179487179487,0.03959934777544841,6.211550747424155,True,Tested with recorded context controls
+city,798_totu,bound-guild,*toṭu / *iṭukku,193; 195; 797; 798,False,Mohenjo-daro,4449,156,4293,1729,81,1648,0.5192307692307693,0.38388073608199397,79.8260271095088,True,Tested with recorded context controls
+city,798_totu,bound-guild,*toṭu / *iṭukku,193; 195; 797; 798,False,Nausharo,4449,156,4293,38,1,37,0.00641025641025641,0.008618681574656418,0.9088239364438094,True,Tested with recorded context controls
+city,806_kampu,millet/grain,*kampu ~ *kāmpu,803; 804; 806; 807,False,Banawali,4449,268,4181,26,1,25,0.0037313432835820895,0.00597943075819182,1.154212171558131,True,Tested with recorded context controls
+city,806_kampu,millet/grain,*kampu ~ *kāmpu,803; 804; 806; 807,False,Chanhu-daro,4449,268,4181,70,5,65,0.018656716417910446,0.015546519971298732,5.49957525544678,True,Tested with recorded context controls
+city,806_kampu,millet/grain,*kampu ~ *kāmpu,803; 804; 806; 807,False,Dholavira,4449,268,4181,230,11,219,0.041044776119402986,0.05237981344176035,12.642320403029158,True,Tested with recorded context controls
+city,806_kampu,millet/grain,*kampu ~ *kāmpu,803; 804; 806; 807,False,Harappa,4449,268,4181,1778,90,1688,0.3358208955223881,0.4037311647931117,86.19760694946065,True,Tested with recorded context controls
+city,806_kampu,millet/grain,*kampu ~ *kāmpu,803; 804; 806; 807,False,Kalibangan,4449,268,4181,195,2,193,0.007462686567164179,0.04616120545324085,5.3631263530538105,True,Tested with recorded context controls
+city,806_kampu,millet/grain,*kampu ~ *kāmpu,803; 804; 806; 807,False,Lothal,4449,268,4181,177,6,171,0.022388059701492536,0.04089930638603205,9.305720079639476,True,Tested with recorded context controls
+city,806_kampu,millet/grain,*kampu ~ *kāmpu,803; 804; 806; 807,False,Mohenjo-daro,4449,268,4181,1729,148,1581,0.5522388059701493,0.3781392011480507,137.13660987180992,True,Tested with recorded context controls
+city,806_kampu,millet/grain,*kampu ~ *kāmpu,803; 804; 806; 807,False,Nausharo,4449,268,4181,38,0,38,0.0,0.009088734752451567,1.4451292463375767,True,Tested with recorded context controls
+city,820_kal,quarter-share,*kāl,061; 062; 820,False,Banawali,4449,314,4135,26,1,25,0.0031847133757961785,0.006045949214026602,1.4299453262981676,True,Tested with recorded context controls
+city,820_kal,quarter-share,*kāl,061; 062; 820,False,Chanhu-daro,4449,314,4135,70,1,69,0.0031847133757961785,0.016686819830713424,6.632935953330492,True,Tested with recorded context controls
+city,820_kal,quarter-share,*kāl,061; 062; 820,False,Dholavira,4449,314,4135,230,17,213,0.054140127388535034,0.05151148730350665,17.462216878966387,True,Tested with recorded context controls
+city,820_kal,quarter-share,*kāl,061; 062; 820,False,Harappa,4449,314,4135,1778,85,1693,0.27070063694267515,0.4094316807738815,85.44619805021878,True,Tested with recorded context controls
+city,820_kal,quarter-share,*kāl,061; 062; 820,False,Kalibangan,4449,314,4135,195,10,185,0.03184713375796178,0.044740024183796856,8.074170191554343,True,Tested with recorded context controls
+city,820_kal,quarter-share,*kāl,061; 062; 820,False,Lothal,4449,314,4135,177,10,167,0.03184713375796178,0.0403869407496977,14.00435752129163,True,Tested with recorded context controls
+city,820_kal,quarter-share,*kāl,061; 062; 820,False,Mohenjo-daro,4449,314,4135,1729,171,1558,0.5445859872611465,0.3767835550181379,164.93261787541016,True,Tested with recorded context controls
+city,820_kal,quarter-share,*kāl,061; 062; 820,False,Nausharo,4449,314,4135,38,3,35,0.009554140127388535,0.008464328899637243,2.504589166600686,True,Tested with recorded context controls
+city,821_irukal,two-quarters,*iru-kāl (2x 820),821,False,Banawali,4449,13,4436,26,1,25,0.07692307692307693,0.00563570784490532,0.035869142587335215,True,Tested with recorded context controls
+city,821_irukal,two-quarters,*iru-kāl (2x 820),821,False,Chanhu-daro,4449,13,4436,70,0,70,0.0,0.015779981965734897,0.7093702887400866,True,Tested with recorded context controls
+city,821_irukal,two-quarters,*iru-kāl (2x 820),821,False,Dholavira,4449,13,4436,230,1,229,0.07692307692307693,0.05162308385933273,1.266276952364943,True,Tested with recorded context controls
+city,821_irukal,two-quarters,*iru-kāl (2x 820),821,False,Harappa,4449,13,4436,1778,1,1777,0.07692307692307693,0.40058611361587015,3.3827688332717476,True,Tested with recorded context controls
+city,821_irukal,two-quarters,*iru-kāl (2x 820),821,False,Kalibangan,4449,13,4436,195,0,195,0.0,0.043958521190261494,0.6492355273568116,True,Tested with recorded context controls
+city,821_irukal,two-quarters,*iru-kāl (2x 820),821,False,Lothal,4449,13,4436,177,1,176,0.07692307692307693,0.03967538322813345,0.7930279419090553,True,Tested with recorded context controls
+city,821_irukal,two-quarters,*iru-kāl (2x 820),821,False,Mohenjo-daro,4449,13,4436,1729,9,1720,0.6923076923076923,0.38773669972948605,5.948574482959777,True,Tested with recorded context controls
+city,821_irukal,two-quarters,*iru-kāl (2x 820),821,False,Nausharo,4449,13,4436,38,0,38,0.0,0.008566275924256087,0.04899936915394704,True,Tested with recorded context controls
+city,832_ulvalai,inner-bangle,*uḷ-vaḷai / *oru-vaḷai,832,False,Banawali,4449,42,4407,26,0,26,0.0,0.0058997050147492625,0.39025168528843157,True,Tested with recorded context controls
+city,832_ulvalai,inner-bangle,*uḷ-vaḷai / *oru-vaḷai,832,False,Chanhu-daro,4449,42,4407,70,0,70,0.0,0.015883821193555706,0.8769200102147827,True,Tested with recorded context controls
+city,832_ulvalai,inner-bangle,*uḷ-vaḷai / *oru-vaḷai,832,False,Dholavira,4449,42,4407,230,4,226,0.09523809523809523,0.05128205128205128,2.610356614977409,True,Tested with recorded context controls
+city,832_ulvalai,inner-bangle,*uḷ-vaḷai / *oru-vaḷai,832,False,Harappa,4449,42,4407,1778,15,1763,0.35714285714285715,0.4000453823462673,12.236027981429997,True,Tested with recorded context controls
+city,832_ulvalai,inner-bangle,*uḷ-vaḷai / *oru-vaḷai,832,False,Kalibangan,4449,42,4407,195,2,193,0.047619047619047616,0.04379396414794645,1.5049522281210734,True,Tested with recorded context controls
+city,832_ulvalai,inner-bangle,*uḷ-vaḷai / *oru-vaḷai,832,False,Lothal,4449,42,4407,177,3,174,0.07142857142857142,0.039482641252552755,2.9156151598206836,True,Tested with recorded context controls
+city,832_ulvalai,inner-bangle,*uḷ-vaḷai / *oru-vaḷai,832,False,Mohenjo-daro,4449,42,4407,1729,18,1711,0.42857142857142855,0.3882459723167688,19.516120446967072,True,Tested with recorded context controls
+city,832_ulvalai,inner-bangle,*uḷ-vaḷai / *oru-vaḷai,832,False,Nausharo,4449,42,4407,38,0,38,0.0,0.008622645790787383,0.28096683204092626,True,Tested with recorded context controls
+city,840_inai,pair/pact,*iṇai,840,False,Banawali,4449,124,4325,26,0,26,0.0,0.006011560693641618,0.31031653866836273,True,Tested with recorded context controls
+city,840_inai,pair/pact,*iṇai,840,False,Chanhu-daro,4449,124,4325,70,3,67,0.024193548387096774,0.015491329479768785,1.9186599430388462,True,Tested with recorded context controls
+city,840_inai,pair/pact,*iṇai,840,False,Dholavira,4449,124,4325,230,8,222,0.06451612903225806,0.05132947976878613,4.252310588507268,True,Tested with recorded context controls
+city,840_inai,pair/pact,*iṇai,840,False,Harappa,4449,124,4325,1778,52,1726,0.41935483870967744,0.39907514450867054,57.27554469300207,True,Tested with recorded context controls
+city,840_inai,pair/pact,*iṇai,840,False,Kalibangan,4449,124,4325,195,2,193,0.016129032258064516,0.0446242774566474,3.692586388623818,True,Tested with recorded context controls
+city,840_inai,pair/pact,*iṇai,840,False,Lothal,4449,124,4325,177,4,173,0.03225806451612903,0.04,2.7363749852444332,True,Tested with recorded context controls
+city,840_inai,pair/pact,*iṇai,840,False,Mohenjo-daro,4449,124,4325,1729,48,1681,0.3870967741935484,0.38867052023121385,49.95562496806706,True,Tested with recorded context controls
+city,840_inai,pair/pact,*iṇai,840,False,Nausharo,4449,124,4325,38,1,37,0.008064516129032258,0.008554913294797687,0.6049806941663296,True,Tested with recorded context controls
+city,845_vari,tax/levy,*vari (hatched 840),845,False,Banawali,4449,43,4406,26,0,26,0.0,0.005901044030866999,0.031825691902980846,True,Tested with recorded context controls
+city,845_vari,tax/levy,*vari (hatched 840),845,False,Chanhu-daro,4449,43,4406,70,0,70,0.0,0.015887426236949616,0.259110378165075,True,Tested with recorded context controls
+city,845_vari,tax/levy,*vari (hatched 840),845,False,Dholavira,4449,43,4406,230,0,230,0.0,0.05220154334997731,0.7544857967756773,True,Tested with recorded context controls
+city,845_vari,tax/levy,*vari (hatched 840),845,False,Harappa,4449,43,4406,1778,4,1774,0.09302325581395349,0.4026327734906945,2.431427561592429,True,Tested with recorded context controls
+city,845_vari,tax/levy,*vari (hatched 840),845,False,Kalibangan,4449,43,4406,195,0,195,0.0,0.044257830231502496,0.26395354166178375,True,Tested with recorded context controls
+city,845_vari,tax/levy,*vari (hatched 840),845,False,Lothal,4449,43,4406,177,1,176,0.023255813953488372,0.03994552882433046,1.0907759247533324,True,Tested with recorded context controls
+city,845_vari,tax/levy,*vari (hatched 840),845,False,Mohenjo-daro,4449,43,4406,1729,38,1691,0.8837209302325582,0.3837948252383114,36.87974765573304,True,Tested with recorded context controls
+city,845_vari,tax/levy,*vari (hatched 840),845,False,Nausharo,4449,43,4406,38,0,38,0.0,0.008624602814344077,0.06617304640491323,True,Tested with recorded context controls
+city,850_kan,copper/eye,*kaṇ/*kaṉ,850,False,Banawali,4449,51,4398,26,0,26,0.0,0.005911778080945885,0.20832671156797627,True,Tested with recorded context controls
+city,850_kan,copper/eye,*kaṇ/*kaṉ,850,False,Chanhu-daro,4449,51,4398,70,1,69,0.0196078431372549,0.015688949522510234,1.1389486988189765,True,Tested with recorded context controls
+city,850_kan,copper/eye,*kaṇ/*kaṉ,850,False,Dholavira,4449,51,4398,230,3,227,0.058823529411764705,0.051614370168258296,2.601816392131603,True,Tested with recorded context controls
+city,850_kan,copper/eye,*kaṇ/*kaṉ,850,False,Harappa,4449,51,4398,1778,9,1769,0.17647058823529413,0.4022282855843565,11.791494939365235,True,Tested with recorded context controls
+city,850_kan,copper/eye,*kaṇ/*kaṉ,850,False,Kalibangan,4449,51,4398,195,3,192,0.058823529411764705,0.04365620736698499,2.7664400019954556,True,Tested with recorded context controls
+city,850_kan,copper/eye,*kaṇ/*kaṉ,850,False,Lothal,4449,51,4398,177,1,176,0.0196078431372549,0.04001819008640291,1.6219542085863148,True,Tested with recorded context controls
+city,850_kan,copper/eye,*kaṇ/*kaṉ,850,False,Mohenjo-daro,4449,51,4398,1729,33,1696,0.6470588235294118,0.3856298317417008,28.08567199839873,True,Tested with recorded context controls
+city,850_kan,copper/eye,*kaṇ/*kaṉ,850,False,Nausharo,4449,51,4398,38,0,38,0.0,0.008640291041382447,0.6684343514990503,True,Tested with recorded context controls
+city,861_kanam,kāṇam-share,*kāṇam / *kaṇ,817; 861,False,Banawali,4449,461,3988,26,4,22,0.008676789587852495,0.005516549648946841,2.380020295677753,True,Tested with recorded context controls
+city,861_kanam,kāṇam-share,*kāṇam / *kaṇ,817; 861,False,Chanhu-daro,4449,461,3988,70,14,56,0.03036876355748373,0.014042126379137413,9.877577054365343,True,Tested with recorded context controls
+city,861_kanam,kāṇam-share,*kāṇam / *kaṇ,817; 861,False,Dholavira,4449,461,3988,230,22,208,0.04772234273318872,0.05215646940822467,25.174037711251195,True,Tested with recorded context controls
+city,861_kanam,kāṇam-share,*kāṇam / *kaṇ,817; 861,False,Harappa,4449,461,3988,1778,142,1636,0.3080260303687636,0.4102306920762287,146.96177810831819,True,Tested with recorded context controls
+city,861_kanam,kāṇam-share,*kāṇam / *kaṇ,817; 861,False,Kalibangan,4449,461,3988,195,15,180,0.03253796095444685,0.04513540621865597,13.379342596911096,True,Tested with recorded context controls
+city,861_kanam,kāṇam-share,*kāṇam / *kaṇ,817; 861,False,Lothal,4449,461,3988,177,31,146,0.06724511930585683,0.0366098294884654,23.968492178658312,True,Tested with recorded context controls
+city,861_kanam,kāṇam-share,*kāṇam / *kaṇ,817; 861,False,Mohenjo-daro,4449,461,3988,1729,215,1514,0.46637744034707157,0.37963891675025074,217.6855520770274,True,Tested with recorded context controls
+city,861_kanam,kāṇam-share,*kāṇam / *kaṇ,817; 861,False,Nausharo,4449,461,3988,38,5,33,0.010845986984815618,0.008274824473420261,3.8213403376614163,True,Tested with recorded context controls
+city,892_vil,sale/price,*vil,892,False,Banawali,4449,87,4362,26,0,26,0.0,0.005960568546538285,0.32496027196526633,True,Tested with recorded context controls
+city,892_vil,sale/price,*vil,892,False,Chanhu-daro,4449,87,4362,70,2,68,0.022988505747126436,0.015589179275561669,0.9112722901972649,True,Tested with recorded context controls
+city,892_vil,sale/price,*vil,892,False,Dholavira,4449,87,4362,230,5,225,0.05747126436781609,0.0515818431911967,4.6774654490436305,True,Tested with recorded context controls
+city,892_vil,sale/price,*vil,892,False,Harappa,4449,87,4362,1778,45,1733,0.5172413793103449,0.39729481889041723,45.71593281448716,True,Tested with recorded context controls
+city,892_vil,sale/price,*vil,892,False,Kalibangan,4449,87,4362,195,10,185,0.11494252873563218,0.042411737734983954,5.939503487261842,True,Tested with recorded context controls
+city,892_vil,sale/price,*vil,892,False,Lothal,4449,87,4362,177,2,175,0.022988505747126436,0.04011921137093077,2.099406949602961,True,Tested with recorded context controls
+city,892_vil,sale/price,*vil,892,False,Mohenjo-daro,4449,87,4362,1729,17,1712,0.19540229885057472,0.39248051352590557,22.629688476196172,True,Tested with recorded context controls
+city,892_vil,sale/price,*vil,892,False,Nausharo,4449,87,4362,38,2,36,0.022988505747126436,0.008253094910591471,0.782768609749532,True,Tested with recorded context controls
+city,900_tinkal,month/moon,*tiṅkaḷ,899; 900; 920,False,Banawali,4449,253,4196,26,1,25,0.003952569169960474,0.005958055290753098,1.0405303220723048,True,Tested with recorded context controls
+city,900_tinkal,month/moon,*tiṅkaḷ,899; 900; 920,False,Chanhu-daro,4449,253,4196,70,8,62,0.03162055335968379,0.014775977121067683,5.504228232857017,True,Tested with recorded context controls
+city,900_tinkal,month/moon,*tiṅkaḷ,899; 900; 920,False,Dholavira,4449,253,4196,230,10,220,0.039525691699604744,0.052430886558627265,10.792582515720124,True,Tested with recorded context controls
+city,900_tinkal,month/moon,*tiṅkaḷ,899; 900; 920,False,Harappa,4449,253,4196,1778,70,1708,0.2766798418972332,0.4070543374642517,73.20379278182949,True,Tested with recorded context controls
+city,900_tinkal,month/moon,*tiṅkaḷ,899; 900; 920,False,Kalibangan,4449,253,4196,195,3,192,0.011857707509881422,0.04575786463298379,5.370865839833636,True,Tested with recorded context controls
+city,900_tinkal,month/moon,*tiṅkaḷ,899; 900; 920,False,Lothal,4449,253,4196,177,8,169,0.03162055335968379,0.040276453765490945,9.607990341868868,True,Tested with recorded context controls
+city,900_tinkal,month/moon,*tiṅkaḷ,899; 900; 920,False,Mohenjo-daro,4449,253,4196,1729,143,1586,0.5652173913043478,0.37797902764537655,137.41903833033223,True,Tested with recorded context controls
+city,900_tinkal,month/moon,*tiṅkaḷ,899; 900; 920,False,Nausharo,4449,253,4196,38,1,37,0.003952569169960474,0.008817921830314586,2.002148464767697,True,Tested with recorded context controls
+city,904_irutinkal,two-month,"*iru-tiṅkaḷ [2× 900 *tiṅkaḷ, cR=0.905, P_cR=0.049]",904; 927,False,Banawali,4449,70,4379,26,0,26,0.0,0.00593742863667504,0.21170451545005647,True,Tested with recorded context controls
+city,904_irutinkal,two-month,"*iru-tiṅkaḷ [2× 900 *tiṅkaḷ, cR=0.905, P_cR=0.049]",904; 927,False,Chanhu-daro,4449,70,4379,70,0,70,0.0,0.015985384791048184,1.1568700418284248,True,Tested with recorded context controls
+city,904_irutinkal,two-month,"*iru-tiṅkaḷ [2× 900 *tiṅkaḷ, cR=0.905, P_cR=0.049]",904; 927,False,Dholavira,4449,70,4379,230,2,228,0.02857142857142857,0.05206668189084266,2.2380772871289123,True,Tested with recorded context controls
+city,904_irutinkal,two-month,"*iru-tiṅkaḷ [2× 900 *tiṅkaḷ, cR=0.905, P_cR=0.049]",904; 927,False,Harappa,4449,70,4379,1778,29,1749,0.4142857142857143,0.3994062571363325,26.054061488028367,True,Tested with recorded context controls
+city,904_irutinkal,two-month,"*iru-tiṅkaḷ [2× 900 *tiṅkaḷ, cR=0.905, P_cR=0.049]",904; 927,False,Kalibangan,4449,70,4379,195,0,195,0.0,0.0445307147750628,1.1458974943997653,True,Tested with recorded context controls
+city,904_irutinkal,two-month,"*iru-tiṅkaḷ [2× 900 *tiṅkaḷ, cR=0.905, P_cR=0.049]",904; 927,False,Lothal,4449,70,4379,177,4,173,0.05714285714285714,0.03950673669787623,3.761122472195855,True,Tested with recorded context controls
+city,904_irutinkal,two-month,"*iru-tiṅkaḷ [2× 900 *tiṅkaḷ, cR=0.905, P_cR=0.049]",904; 927,False,Mohenjo-daro,4449,70,4379,1729,34,1695,0.4857142857142857,0.3870746745832382,32.52992363041328,True,Tested with recorded context controls
+city,904_irutinkal,two-month,"*iru-tiṅkaḷ [2× 900 *tiṅkaḷ, cR=0.905, P_cR=0.049]",904; 927,False,Nausharo,4449,70,4379,38,0,38,0.0,0.008677780315140443,0.43110607840827525,True,Tested with recorded context controls
+city,923_maruppu,ivory/tusk,*maruppu,923,False,Banawali,4449,40,4409,26,0,26,0.0,0.005897028804717623,0.15571149266155213,True,Tested with recorded context controls
+city,923_maruppu,ivory/tusk,*maruppu,923,False,Chanhu-daro,4449,40,4409,70,0,70,0.0,0.015876616012701295,0.8110257475596359,True,Tested with recorded context controls
+city,923_maruppu,ivory/tusk,*maruppu,923,False,Dholavira,4449,40,4409,230,1,229,0.025,0.05193921524155137,2.462951194727099,True,Tested with recorded context controls
+city,923_maruppu,ivory/tusk,*maruppu,923,False,Harappa,4449,40,4409,1778,5,1773,0.125,0.40213200272170563,7.758560592555965,True,Tested with recorded context controls
+city,923_maruppu,ivory/tusk,*maruppu,923,False,Kalibangan,4449,40,4409,195,0,195,0.0,0.04422771603538217,0.784250840944293,True,Tested with recorded context controls
+city,923_maruppu,ivory/tusk,*maruppu,923,False,Lothal,4449,40,4409,177,0,177,0.0,0.040145157632116124,1.5145405928980065,True,Tested with recorded context controls
+city,923_maruppu,ivory/tusk,*maruppu,923,False,Mohenjo-daro,4449,40,4409,1729,33,1696,0.825,0.38466772510773417,25.165370614336386,True,Tested with recorded context controls
+city,923_maruppu,ivory/tusk,*maruppu,923,False,Nausharo,4449,40,4409,38,0,38,0.0,0.008618734406894988,0.25615829569699866,True,Tested with recorded context controls
+city,NUM_1,1,*oru,001; 031,True,Banawali,4449,409,4040,26,4,22,0.009779951100244499,0.005445544554455445,1.7132011504264701,True,Tested with recorded context controls
+city,NUM_1,1,*oru,001; 031,True,Chanhu-daro,4449,409,4040,70,14,56,0.034229828850855744,0.013861386138613862,9.155304021781507,True,Tested with recorded context controls
+city,NUM_1,1,*oru,001; 031,True,Dholavira,4449,409,4040,230,25,205,0.061124694376528114,0.050742574257425746,18.401999505883108,True,Tested with recorded context controls
+city,NUM_1,1,*oru,001; 031,True,Harappa,4449,409,4040,1778,112,1666,0.27383863080684595,0.41237623762376235,124.6395955608713,True,Tested with recorded context controls
+city,NUM_1,1,*oru,001; 031,True,Kalibangan,4449,409,4040,195,11,184,0.02689486552567237,0.04554455445544554,13.09007129227003,True,Tested with recorded context controls
+city,NUM_1,1,*oru,001; 031,True,Lothal,4449,409,4040,177,25,152,0.061124694376528114,0.03762376237623762,20.879746289113406,True,Tested with recorded context controls
+city,NUM_1,1,*oru,001; 031,True,Mohenjo-daro,4449,409,4040,1729,192,1537,0.46943765281173594,0.38044554455445545,194.45647290895076,True,Tested with recorded context controls
+city,NUM_1,1,*oru,001; 031,True,Nausharo,4449,409,4040,38,8,30,0.019559902200488997,0.007425742574257425,4.413034106403357,True,Tested with recorded context controls
+city,NUM_12,12,*paṉṉiru,055,True,Banawali,4449,55,4394,26,0,26,0.0,0.005917159763313609,0.2556040424362703,True,Tested with recorded context controls
+city,NUM_12,12,*paṉṉiru,055,True,Chanhu-daro,4449,55,4394,70,2,68,0.03636363636363636,0.015475648611743286,1.2757293574486246,True,Tested with recorded context controls
+city,NUM_12,12,*paṉṉiru,055,True,Dholavira,4449,55,4394,230,3,227,0.05454545454545454,0.05166135639508421,3.1785353822886577,True,Tested with recorded context controls
+city,NUM_12,12,*paṉṉiru,055,True,Harappa,4449,55,4394,1778,11,1767,0.2,0.40213928083750566,12.222872741724041,True,Tested with recorded context controls
+city,NUM_12,12,*paṉṉiru,055,True,Kalibangan,4449,55,4394,195,2,193,0.03636363636363636,0.04392353208921256,2.42768642541923,True,Tested with recorded context controls
+city,NUM_12,12,*paṉṉiru,055,True,Lothal,4449,55,4394,177,8,169,0.14545454545454545,0.038461538461538464,5.952130651363499,True,Tested with recorded context controls
+city,NUM_12,12,*paṉṉiru,055,True,Mohenjo-daro,4449,55,4394,1729,25,1704,0.45454545454545453,0.3878015475648612,27.06910427905418,True,Tested with recorded context controls
+city,NUM_12,12,*paṉṉiru,055,True,Nausharo,4449,55,4394,38,0,38,0.0,0.00864815657715066,0.4582638384129019,True,Tested with recorded context controls
+city,NUM_2,2,*iru,002; 032,True,Banawali,4449,1187,3262,26,7,19,0.005897219882055603,0.005824647455548743,4.174564904438435,True,Tested with recorded context controls
+city,NUM_2,2,*iru,002; 032,True,Chanhu-daro,4449,1187,3262,70,25,45,0.02106149957877001,0.013795217657878603,22.129599632865695,True,Tested with recorded context controls
+city,NUM_2,2,*iru,002; 032,True,Dholavira,4449,1187,3262,230,59,171,0.04970513900589722,0.052421827099938687,63.667867997143375,True,Tested with recorded context controls
+city,NUM_2,2,*iru,002; 032,True,Harappa,4449,1187,3262,1778,418,1360,0.35214827295703455,0.4169221336603311,415.9407626159507,True,Tested with recorded context controls
+city,NUM_2,2,*iru,002; 032,True,Kalibangan,4449,1187,3262,195,47,148,0.039595619208087615,0.045370938074800735,40.5291186672428,True,Tested with recorded context controls
+city,NUM_2,2,*iru,002; 032,True,Lothal,4449,1187,3262,177,69,108,0.05812973883740522,0.03310852237890864,62.58470291143284,True,Tested with recorded context controls
+city,NUM_2,2,*iru,002; 032,True,Mohenjo-daro,4449,1187,3262,1729,515,1214,0.43386689132266215,0.37216431637032493,523.0160544661276,True,Tested with recorded context controls
+city,NUM_2,2,*iru,002; 032,True,Nausharo,4449,1187,3262,38,14,24,0.011794439764111205,0.007357449417535254,9.981070206013905,True,Tested with recorded context controls
+city,NUM_3,3,*mū,003; 013; 033,True,Banawali,4449,689,3760,26,1,25,0.001451378809869376,0.006648936170212766,2.920359327897898,True,Tested with recorded context controls
+city,NUM_3,3,*mū,003; 013; 033,True,Chanhu-daro,4449,689,3760,70,8,62,0.011611030478955007,0.01648936170212766,9.113397577600637,True,Tested with recorded context controls
+city,NUM_3,3,*mū,003; 013; 033,True,Dholavira,4449,689,3760,230,25,205,0.036284470246734396,0.05452127659574468,24.24666925924313,True,Tested with recorded context controls
+city,NUM_3,3,*mū,003; 013; 033,True,Harappa,4449,689,3760,1778,367,1411,0.532656023222061,0.3752659574468085,332.47204641120624,True,Tested with recorded context controls
+city,NUM_3,3,*mū,003; 013; 033,True,Kalibangan,4449,689,3760,195,26,169,0.03773584905660377,0.0449468085106383,23.043854335297777,True,Tested with recorded context controls
+city,NUM_3,3,*mū,003; 013; 033,True,Lothal,4449,689,3760,177,12,165,0.01741654571843251,0.043882978723404256,16.39876132308886,True,Tested with recorded context controls
+city,NUM_3,3,*mū,003; 013; 033,True,Mohenjo-daro,4449,689,3760,1729,223,1506,0.32365747460087085,0.400531914893617,249.92096731443348,True,Tested with recorded context controls
+city,NUM_3,3,*mū,003; 013; 033,True,Nausharo,4449,689,3760,38,5,33,0.00725689404934688,0.008776595744680852,6.456777468047408,True,Tested with recorded context controls
+city,NUM_4,4,*nāl,004; 014; 034,True,Banawali,4449,249,4200,26,2,24,0.008032128514056224,0.005714285714285714,0.8274681649428183,True,Tested with recorded context controls
+city,NUM_4,4,*nāl,004; 014; 034,True,Chanhu-daro,4449,249,4200,70,2,68,0.008032128514056224,0.01619047619047619,1.9744106107635695,True,Tested with recorded context controls
+city,NUM_4,4,*nāl,004; 014; 034,True,Dholavira,4449,249,4200,230,4,226,0.01606425702811245,0.05380952380952381,5.527546683162107,True,Tested with recorded context controls
+city,NUM_4,4,*nāl,004; 014; 034,True,Harappa,4449,249,4200,1778,172,1606,0.6907630522088354,0.3823809523809524,166.0600488318907,True,Tested with recorded context controls
+city,NUM_4,4,*nāl,004; 014; 034,True,Kalibangan,4449,249,4200,195,7,188,0.028112449799196786,0.04476190476190476,7.84966159777404,True,Tested with recorded context controls
+city,NUM_4,4,*nāl,004; 014; 034,True,Lothal,4449,249,4200,177,3,174,0.012048192771084338,0.041428571428571426,3.689023228390348,True,Tested with recorded context controls
+city,NUM_4,4,*nāl,004; 014; 034,True,Mohenjo-daro,4449,249,4200,1729,48,1681,0.1927710843373494,0.4002380952380952,53.42194298550647,True,Tested with recorded context controls
+city,NUM_4,4,*nāl,004; 014; 034,True,Nausharo,4449,249,4200,38,2,36,0.008032128514056224,0.008571428571428572,1.7476843650222567,True,Tested with recorded context controls
+city,NUM_5,5,*ai,005; 015; 035,True,Banawali,4449,89,4360,26,0,26,0.0,0.005963302752293578,0.5765839376447695,True,Tested with recorded context controls
+city,NUM_5,5,*ai,005; 015; 035,True,Chanhu-daro,4449,89,4360,70,2,68,0.02247191011235955,0.015596330275229359,1.99199653720054,True,Tested with recorded context controls
+city,NUM_5,5,*ai,005; 015; 035,True,Dholavira,4449,89,4360,230,4,226,0.0449438202247191,0.051834862385321104,3.67447038797582,True,Tested with recorded context controls
+city,NUM_5,5,*ai,005; 015; 035,True,Harappa,4449,89,4360,1778,22,1756,0.24719101123595505,0.40275229357798165,30.64429528431248,True,Tested with recorded context controls
+city,NUM_5,5,*ai,005; 015; 035,True,Kalibangan,4449,89,4360,195,8,187,0.0898876404494382,0.042889908256880736,4.659674519363617,True,Tested with recorded context controls
+city,NUM_5,5,*ai,005; 015; 035,True,Lothal,4449,89,4360,177,5,172,0.056179775280898875,0.03944954128440367,2.261231563794598,True,Tested with recorded context controls
+city,NUM_5,5,*ai,005; 015; 035,True,Mohenjo-daro,4449,89,4360,1729,47,1682,0.5280898876404494,0.3857798165137615,40.49657018063947,True,Tested with recorded context controls
+city,NUM_5,5,*ai,005; 015; 035,True,Nausharo,4449,89,4360,38,0,38,0.0,0.00871559633027523,0.9186228224583103,True,Tested with recorded context controls
+city,NUM_6,6,*aṟu,006; 016,True,Banawali,4449,54,4395,26,0,26,0.0,0.005915813424345847,0.6804770748442188,True,Tested with recorded context controls
+city,NUM_6,6,*aṟu,006; 016,True,Chanhu-daro,4449,54,4395,70,2,68,0.037037037037037035,0.01547212741751991,1.5609262617002255,True,Tested with recorded context controls
+city,NUM_6,6,*aṟu,006; 016,True,Dholavira,4449,54,4395,230,4,226,0.07407407407407407,0.05142207053469852,2.3297369377153463,True,Tested with recorded context controls
+city,NUM_6,6,*aṟu,006; 016,True,Harappa,4449,54,4395,1778,15,1763,0.2777777777777778,0.40113765642775884,17.488197698970158,True,Tested with recorded context controls
+city,NUM_6,6,*aṟu,006; 016,True,Kalibangan,4449,54,4395,195,1,194,0.018518518518518517,0.04414106939704209,1.5249729275103927,True,Tested with recorded context controls
+city,NUM_6,6,*aṟu,006; 016,True,Lothal,4449,54,4395,177,2,175,0.037037037037037035,0.03981797497155859,1.1648847993679454,True,Tested with recorded context controls
+city,NUM_6,6,*aṟu,006; 016,True,Mohenjo-daro,4449,54,4395,1729,27,1702,0.5,0.38725824800910125,27.041731474550144,True,Tested with recorded context controls
+city,NUM_6,6,*aṟu,006; 016,True,Nausharo,4449,54,4395,38,1,37,0.018518518518518517,0.008418657565415245,0.4024956791033391,True,Tested with recorded context controls
+city,NUM_7,7,*ēḻ,007; 017,True,Banawali,4449,84,4365,26,1,25,0.011904761904761904,0.0057273768613974796,0.3479907312281995,True,Tested with recorded context controls
+city,NUM_7,7,*ēḻ,007; 017,True,Chanhu-daro,4449,84,4365,70,0,70,0.0,0.016036655211912942,1.738870071275197,True,Tested with recorded context controls
+city,NUM_7,7,*ēḻ,007; 017,True,Dholavira,4449,84,4365,230,2,228,0.023809523809523808,0.05223367697594502,2.9984976778218657,True,Tested with recorded context controls
+city,NUM_7,7,*ēḻ,007; 017,True,Harappa,4449,84,4365,1778,24,1754,0.2857142857142857,0.4018327605956472,21.3853055777022,True,Tested with recorded context controls
+city,NUM_7,7,*ēḻ,007; 017,True,Kalibangan,4449,84,4365,195,5,190,0.05952380952380952,0.043528064146620846,2.446191790800082,True,Tested with recorded context controls
+city,NUM_7,7,*ēḻ,007; 017,True,Lothal,4449,84,4365,177,0,177,0.0,0.04054982817869416,2.742557076158696,True,Tested with recorded context controls
+city,NUM_7,7,*ēḻ,007; 017,True,Mohenjo-daro,4449,84,4365,1729,46,1683,0.5476190476190477,0.38556701030927837,48.467482118736356,True,Tested with recorded context controls
+city,NUM_7,7,*ēḻ,007; 017,True,Nausharo,4449,84,4365,38,0,38,0.0,0.00870561282932417,1.0114956340996053,True,Tested with recorded context controls
+city,new:*alaku,grain / paddy,*alaku,831; 833,False,Banawali,4449,20,4429,26,0,26,0.0,0.005870399638744638,0.06883617555436819,True,Tested with recorded context controls
+city,new:*alaku,grain / paddy,*alaku,831; 833,False,Chanhu-daro,4449,20,4429,70,0,70,0.0,0.015804922104312485,0.291787871157669,True,Tested with recorded context controls
+city,new:*alaku,grain / paddy,*alaku,831; 833,False,Dholavira,4449,20,4429,230,0,230,0.0,0.05193045834274102,0.784772028953366,True,Tested with recorded context controls
+city,new:*alaku,grain / paddy,*alaku,831; 833,False,Harappa,4449,20,4429,1778,8,1770,0.4,0.39963874463761573,6.722613956720556,True,Tested with recorded context controls
+city,new:*alaku,grain / paddy,*alaku,831; 833,False,Kalibangan,4449,20,4429,195,0,195,0.0,0.044027997290584785,0.3645211598873038,True,Tested with recorded context controls
+city,new:*alaku,grain / paddy,*alaku,831; 833,False,Lothal,4449,20,4429,177,0,177,0.0,0.039963874463761574,0.32129527206317793,True,Tested with recorded context controls
+city,new:*alaku,grain / paddy,*alaku,831; 833,False,Mohenjo-daro,4449,20,4429,1729,10,1719,0.5,0.3881237299616166,10.440525730449737,True,Tested with recorded context controls
+city,new:*alaku,grain / paddy,*alaku,831; 833,False,Nausharo,4449,20,4429,38,0,38,0.0,0.008579814856626778,0.10916870801181049,True,Tested with recorded context controls
+city,new:*iru / *iṟai,sit / tribute (alternative readings),*iru / *iṟai (plain base),175,False,Banawali,4449,27,4422,26,0,26,0.0,0.005879692446856626,0.07028946681253889,True,Tested with recorded context controls
+city,new:*iru / *iṟai,sit / tribute (alternative readings),*iru / *iṟai (plain base),175,False,Chanhu-daro,4449,27,4422,70,0,70,0.0,0.015829941203075532,0.39494511809265687,True,Tested with recorded context controls
+city,new:*iru / *iṟai,sit / tribute (alternative readings),*iru / *iṟai (plain base),175,False,Dholavira,4449,27,4422,230,5,225,0.18518518518518517,0.05088195386702849,1.0722228014500224,True,Tested with recorded context controls
+city,new:*iru / *iṟai,sit / tribute (alternative readings),*iru / *iṟai (plain base),175,False,Harappa,4449,27,4422,1778,12,1766,0.4444444444444444,0.399366802351877,12.21229835461511,True,Tested with recorded context controls
+city,new:*iru / *iṟai,sit / tribute (alternative readings),*iru / *iṟai (plain base),175,False,Kalibangan,4449,27,4422,195,1,194,0.037037037037037035,0.0438715513342379,0.7590554478420766,True,Tested with recorded context controls
+city,new:*iru / *iṟai,sit / tribute (alternative readings),*iru / *iṟai (plain base),175,False,Lothal,4449,27,4422,177,1,176,0.037037037037037035,0.03980099502487562,1.0157944310044402,True,Tested with recorded context controls
+city,new:*iru / *iṟai,sit / tribute (alternative readings),*iru / *iṟai (plain base),175,False,Mohenjo-daro,4449,27,4422,1729,8,1721,0.2962962962962963,0.3891904115784713,10.178253771252873,True,Tested with recorded context controls
+city,new:*iru / *iṟai,sit / tribute (alternative readings),*iru / *iṟai (plain base),175,False,Nausharo,4449,27,4422,38,0,38,0.0,0.008593396653098146,0.21750492672652297,True,Tested with recorded context controls
+city,new:*kaṇṇi,garland / wreath / neckrope,*kaṇṇi,460; 463,False,Banawali,4449,66,4383,26,0,26,0.0,0.00593201003878622,0.3011127343099805,True,Tested with recorded context controls
+city,new:*kaṇṇi,garland / wreath / neckrope,*kaṇṇi,460; 463,False,Chanhu-daro,4449,66,4383,70,1,69,0.015151515151515152,0.01574264202600958,2.2462290619103364,True,Tested with recorded context controls
+city,new:*kaṇṇi,garland / wreath / neckrope,*kaṇṇi,460; 463,False,Dholavira,4449,66,4383,230,4,226,0.06060606060606061,0.05156285649098791,2.670537361994147,True,Tested with recorded context controls
+city,new:*kaṇṇi,garland / wreath / neckrope,*kaṇṇi,460; 463,False,Harappa,4449,66,4383,1778,16,1762,0.24242424242424243,0.40200775724389687,20.027275985115747,True,Tested with recorded context controls
+city,new:*kaṇṇi,garland / wreath / neckrope,*kaṇṇi,460; 463,False,Kalibangan,4449,66,4383,195,3,192,0.045454545454545456,0.04380561259411362,2.0922188347607595,True,Tested with recorded context controls
+city,new:*kaṇṇi,garland / wreath / neckrope,*kaṇṇi,460; 463,False,Lothal,4449,66,4383,177,1,176,0.015151515151515152,0.04015514487793748,2.3407682395058655,True,Tested with recorded context controls
+city,new:*kaṇṇi,garland / wreath / neckrope,*kaṇṇi,460; 463,False,Mohenjo-daro,4449,66,4383,1729,37,1692,0.5606060606060606,0.3860369609856263,33.99592734903476,True,Tested with recorded context controls
+city,new:*kaṇṇi,garland / wreath / neckrope,*kaṇṇi,460; 463,False,Nausharo,4449,66,4383,38,0,38,0.0,0.008669860825918321,0.5244343744677517,True,Tested with recorded context controls
+city,new:*koḍame / *caṭṭi,pot / vessel / pan,*koḍame / *caṭṭi (grain-bin rung),335,False,Banawali,4449,38,4411,26,0,26,0.0,0.005894355021537067,0.09762987014824329,True,Tested with recorded context controls
+city,new:*koḍame / *caṭṭi,pot / vessel / pan,*koḍame / *caṭṭi (grain-bin rung),335,False,Chanhu-daro,4449,38,4411,70,0,70,0.0,0.01586941736567672,0.39639115053853674,True,Tested with recorded context controls
+city,new:*koḍame / *caṭṭi,pot / vessel / pan,*koḍame / *caṭṭi (grain-bin rung),335,False,Dholavira,4449,38,4411,230,0,230,0.0,0.052142371344366355,0.7775474510593835,True,Tested with recorded context controls
+city,new:*koḍame / *caṭṭi,pot / vessel / pan,*koḍame / *caṭṭi (grain-bin rung),335,False,Harappa,4449,38,4411,1778,24,1754,0.631578947368421,0.3976422579913852,24.353536111644903,True,Tested with recorded context controls
+city,new:*koḍame / *caṭṭi,pot / vessel / pan,*koḍame / *caṭṭi (grain-bin rung),335,False,Kalibangan,4449,38,4411,195,2,193,0.05263157894736842,0.04375425073679438,0.5547042493230055,True,Tested with recorded context controls
+city,new:*koḍame / *caṭṭi,pot / vessel / pan,*koḍame / *caṭṭi (grain-bin rung),335,False,Lothal,4449,38,4411,177,1,176,0.02631578947368421,0.0399002493765586,1.0585403849265895,True,Tested with recorded context controls
+city,new:*koḍame / *caṭṭi,pot / vessel / pan,*koḍame / *caṭṭi (grain-bin rung),335,False,Mohenjo-daro,4449,38,4411,1729,9,1720,0.23684210526315788,0.38993425527091363,9.563161055544116,True,Tested with recorded context controls
+city,new:*koḍame / *caṭṭi,pot / vessel / pan,*koḍame / *caṭṭi (grain-bin rung),335,False,Nausharo,4449,38,4411,38,0,38,0.0,0.00861482656993879,0.17079803752360923,True,Tested with recorded context controls
+city,new:*kō,king / emperor / chief / leadership,*kō,482,False,Banawali,4449,40,4409,26,0,26,0.0,0.005897028804717623,0.2841428783021551,True,Tested with recorded context controls
+city,new:*kō,king / emperor / chief / leadership,*kō,482,False,Chanhu-daro,4449,40,4409,70,1,69,0.025,0.015649807212519847,0.5809347953972827,True,Tested with recorded context controls
+city,new:*kō,king / emperor / chief / leadership,*kō,482,False,Dholavira,4449,40,4409,230,0,230,0.0,0.05216602404173282,1.1783732372298026,True,Tested with recorded context controls
+city,new:*kō,king / emperor / chief / leadership,*kō,482,False,Harappa,4449,40,4409,1778,23,1755,0.575,0.3980494443184396,20.32348118526294,True,Tested with recorded context controls
+city,new:*kō,king / emperor / chief / leadership,*kō,482,False,Kalibangan,4449,40,4409,195,0,195,0.0,0.04422771603538217,0.7042496079209295,True,Tested with recorded context controls
+city,new:*kō,king / emperor / chief / leadership,*kō,482,False,Lothal,4449,40,4409,177,2,175,0.05,0.03969154003175323,1.1395995427945351,True,Tested with recorded context controls
+city,new:*kō,king / emperor / chief / leadership,*kō,482,False,Mohenjo-daro,4449,40,4409,1729,14,1715,0.35,0.38897709231118166,14.470894857457246,True,Tested with recorded context controls
+city,new:*kō,king / emperor / chief / leadership,*kō,482,False,Nausharo,4449,40,4409,38,0,38,0.0,0.008618734406894988,0.20881691546519823,True,Tested with recorded context controls
+city,new:*kōl / *kol,smith / iron,*kōl / *kol,142,False,Banawali,4449,77,4372,26,0,26,0.0,0.005946935041171089,0.2611599955105965,True,Tested with recorded context controls
+city,new:*kōl / *kol,smith / iron,*kōl / *kol,142,False,Chanhu-daro,4449,77,4372,70,0,70,0.0,0.016010978956999086,1.2352057490135786,True,Tested with recorded context controls
+city,new:*kōl / *kol,smith / iron,*kōl / *kol,142,False,Dholavira,4449,77,4372,230,4,226,0.05194805194805195,0.05169258920402562,3.645376774113241,True,Tested with recorded context controls
+city,new:*kōl / *kol,smith / iron,*kōl / *kol,142,False,Harappa,4449,77,4372,1778,24,1754,0.3116883116883117,0.4011893870082342,22.65080482130144,True,Tested with recorded context controls
+city,new:*kōl / *kol,smith / iron,*kōl / *kol,142,False,Kalibangan,4449,77,4372,195,0,195,0.0,0.04460201280878317,1.6258043350558926,True,Tested with recorded context controls
+city,new:*kōl / *kol,smith / iron,*kōl / *kol,142,False,Lothal,4449,77,4372,177,1,176,0.012987012987012988,0.04025617566331199,2.0941898536827477,True,Tested with recorded context controls
+city,new:*kōl / *kol,smith / iron,*kōl / *kol,142,False,Mohenjo-daro,4449,77,4372,1729,45,1684,0.5844155844155844,0.38517840805123515,42.53913224521382,True,Tested with recorded context controls
+city,new:*kōl / *kol,smith / iron,*kōl / *kol,142,False,Nausharo,4449,77,4372,38,2,36,0.025974025974025976,0.008234217749313814,0.5238285170146276,True,Tested with recorded context controls
+city,new:*kūṉ,cauldron,*kūṉ,165,False,Banawali,4449,29,4420,26,0,26,0.0,0.0058823529411764705,0.5102901279630789,True,Tested with recorded context controls
+city,new:*kūṉ,cauldron,*kūṉ,165,False,Chanhu-daro,4449,29,4420,70,0,70,0.0,0.01583710407239819,0.5631491804059602,True,Tested with recorded context controls
+city,new:*kūṉ,cauldron,*kūṉ,165,False,Dholavira,4449,29,4420,230,0,230,0.0,0.05203619909502263,0.8265318288768637,True,Tested with recorded context controls
+city,new:*kūṉ,cauldron,*kūṉ,165,False,Harappa,4449,29,4420,1778,9,1769,0.3103448275862069,0.4002262443438914,6.720430931649147,True,Tested with recorded context controls
+city,new:*kūṉ,cauldron,*kūṉ,165,False,Kalibangan,4449,29,4420,195,1,194,0.034482758620689655,0.04389140271493212,1.6039985980600808,True,Tested with recorded context controls
+city,new:*kūṉ,cauldron,*kūṉ,165,False,Lothal,4449,29,4420,177,0,177,0.0,0.040045248868778284,0.5547785293623582,True,Tested with recorded context controls
+city,new:*kūṉ,cauldron,*kūṉ,165,False,Mohenjo-daro,4449,29,4420,1729,19,1710,0.6551724137931034,0.38687782805429866,17.387617786079712,True,Tested with recorded context controls
+city,new:*kūṉ,cauldron,*kūṉ,165,False,Nausharo,4449,29,4420,38,0,38,0.0,0.008597285067873304,0.19596211946290024,True,Tested with recorded context controls
+city,new:*kūṭu,assemble / join / store / stored / together,*kūṭu,630; 632; 634; 635; 637,False,Banawali,4449,75,4374,26,0,26,0.0,0.00594421582075903,0.22888269176913648,True,Tested with recorded context controls
+city,new:*kūṭu,assemble / join / store / stored / together,*kūṭu,630; 632; 634; 635; 637,False,Chanhu-daro,4449,75,4374,70,2,68,0.02666666666666667,0.015546410608139003,1.2910258392404996,True,Tested with recorded context controls
+city,new:*kūṭu,assemble / join / store / stored / together,*kūṭu,630; 632; 634; 635; 637,False,Dholavira,4449,75,4374,230,6,224,0.08,0.051211705532693184,5.211424195314409,True,Tested with recorded context controls
+city,new:*kūṭu,assemble / join / store / stored / together,*kūṭu,630; 632; 634; 635; 637,False,Harappa,4449,75,4374,1778,28,1750,0.37333333333333335,0.40009144947416553,29.022938722820953,True,Tested with recorded context controls
+city,new:*kūṭu,assemble / join / store / stored / together,*kūṭu,630; 632; 634; 635; 637,False,Kalibangan,4449,75,4374,195,4,191,0.05333333333333334,0.043667123914037494,1.5864571360485138,True,Tested with recorded context controls
+city,new:*kūṭu,assemble / join / store / stored / together,*kūṭu,630; 632; 634; 635; 637,False,Lothal,4449,75,4374,177,1,176,0.013333333333333334,0.040237768632830365,2.279079465862577,True,Tested with recorded context controls
+city,new:*kūṭu,assemble / join / store / stored / together,*kūṭu,630; 632; 634; 635; 637,False,Mohenjo-daro,4449,75,4374,1729,28,1701,0.37333333333333335,0.3888888888888889,31.31475788904472,True,Tested with recorded context controls
+city,new:*kūṭu,assemble / join / store / stored / together,*kūṭu,630; 632; 634; 635; 637,False,Nausharo,4449,75,4374,38,1,37,0.013333333333333334,0.008459076360310928,0.5386259471623305,True,Tested with recorded context controls
+city,new:*mūṭai-vari,bale tax / marked bale,*mūṭai-vari,595,False,Banawali,4449,47,4402,26,0,26,0.0,0.005906406179009541,0.1775908529772977,True,Tested with recorded context controls
+city,new:*mūṭai-vari,bale tax / marked bale,*mūṭai-vari,595,False,Chanhu-daro,4449,47,4402,70,0,70,0.0,0.01590186278964107,1.427754148027632,True,Tested with recorded context controls
+city,new:*mūṭai-vari,bale tax / marked bale,*mūṭai-vari,595,False,Dholavira,4449,47,4402,230,1,229,0.02127659574468085,0.05202180826896865,2.3366629932464575,True,Tested with recorded context controls
+city,new:*mūṭai-vari,bale tax / marked bale,*mūṭai-vari,595,False,Harappa,4449,47,4402,1778,16,1762,0.3404255319148936,0.4002726033621081,8.437101104522498,True,Tested with recorded context controls
+city,new:*mūṭai-vari,bale tax / marked bale,*mūṭai-vari,595,False,Kalibangan,4449,47,4402,195,1,194,0.02127659574468085,0.04407087687414812,1.7912220151157578,True,Tested with recorded context controls
+city,new:*mūṭai-vari,bale tax / marked bale,*mūṭai-vari,595,False,Lothal,4449,47,4402,177,1,176,0.02127659574468085,0.039981826442526125,2.1164310150916394,True,Tested with recorded context controls
+city,new:*mūṭai-vari,bale tax / marked bale,*mūṭai-vari,595,False,Mohenjo-daro,4449,47,4402,1729,27,1702,0.574468085106383,0.3866424352567015,29.010845748728784,True,Tested with recorded context controls
+city,new:*mūṭai-vari,bale tax / marked bale,*mūṭai-vari,595,False,Nausharo,4449,47,4402,38,0,38,0.0,0.008632439800090867,0.2433120194713536,True,Tested with recorded context controls
+city,new:*paṟai,measure / capacity,*paṟai,540,False,Banawali,4449,18,4431,26,0,26,0.0,0.005867749943579328,0.1306970088186117,True,Tested with recorded context controls
+city,new:*paṟai,measure / capacity,*paṟai,540,False,Chanhu-daro,4449,18,4431,70,2,68,0.1111111111111111,0.015346422929361317,1.3127162535318344,True,Tested with recorded context controls
+city,new:*paṟai,measure / capacity,*paṟai,540,False,Dholavira,4449,18,4431,230,0,230,0.0,0.051907018731663285,0.3591019201899107,True,Tested with recorded context controls
+city,new:*paṟai,measure / capacity,*paṟai,540,False,Harappa,4449,18,4431,1778,7,1771,0.3888888888888889,0.39968404423380727,7.961491751273859,True,Tested with recorded context controls
+city,new:*paṟai,measure / capacity,*paṟai,540,False,Kalibangan,4449,18,4431,195,1,194,0.05555555555555555,0.04378244188670729,1.6718777865265364,True,Tested with recorded context controls
+city,new:*paṟai,measure / capacity,*paṟai,540,False,Lothal,4449,18,4431,177,1,176,0.05555555555555555,0.039720153464229295,1.1825483289287477,True,Tested with recorded context controls
+city,new:*paṟai,measure / capacity,*paṟai,540,False,Mohenjo-daro,4449,18,4431,1729,7,1722,0.3888888888888889,0.3886255924170616,3.8614949188959775,True,Tested with recorded context controls
+city,new:*paṟai,measure / capacity,*paṟai,540,False,Nausharo,4449,18,4431,38,0,38,0.0,0.008575942225231325,0.16875238412342108,True,Tested with recorded context controls
+city,new:*taṇṭu,collect / levy / recover,*taṇṭu,104,False,Banawali,4449,21,4428,26,0,26,0.0,0.005871725383920506,0.17675717328024537,True,Tested with recorded context controls
+city,new:*taṇṭu,collect / levy / recover,*taṇṭu,104,False,Chanhu-daro,4449,21,4428,70,0,70,0.0,0.015808491418247517,0.30953254003301994,True,Tested with recorded context controls
+city,new:*taṇṭu,collect / levy / recover,*taṇṭu,104,False,Dholavira,4449,21,4428,230,2,228,0.09523809523809523,0.051490514905149054,0.9159388398768554,True,Tested with recorded context controls
+city,new:*taṇṭu,collect / levy / recover,*taṇṭu,104,False,Harappa,4449,21,4428,1778,5,1773,0.23809523809523808,0.40040650406504064,8.083886555824769,True,Tested with recorded context controls
+city,new:*taṇṭu,collect / levy / recover,*taṇṭu,104,False,Kalibangan,4449,21,4428,195,1,194,0.047619047619047616,0.043812104787714544,1.7001074558597509,True,Tested with recorded context controls
+city,new:*taṇṭu,collect / levy / recover,*taṇṭu,104,False,Lothal,4449,21,4428,177,2,175,0.09523809523809523,0.03952122854561879,0.9892884776116943,True,Tested with recorded context controls
+city,new:*taṇṭu,collect / levy / recover,*taṇṭu,104,False,Mohenjo-daro,4449,21,4428,1729,10,1719,0.47619047619047616,0.3882113821138211,7.6732793084101045,True,Tested with recorded context controls
+city,new:*taṇṭu,collect / levy / recover,*taṇṭu,104,False,Nausharo,4449,21,4428,38,0,38,0.0,0.008581752484191508,0.14524520077827244,True,Tested with recorded context controls
+city,new:*toṭṭi / *koṭṭakai,watchman / servant / messenger,*toṭṭi / *koṭṭakai,350,False,Banawali,4449,47,4402,26,1,25,0.02127659574468085,0.005679236710586098,0.15240941187784446,True,Tested with recorded context controls
+city,new:*toṭṭi / *koṭṭakai,watchman / servant / messenger,*toṭṭi / *koṭṭakai,350,False,Chanhu-daro,4449,47,4402,70,1,69,0.02127659574468085,0.01567469332121763,1.1870847527660273,True,Tested with recorded context controls
+city,new:*toṭṭi / *koṭṭakai,watchman / servant / messenger,*toṭṭi / *koṭṭakai,350,False,Dholavira,4449,47,4402,230,2,228,0.0425531914893617,0.051794638800545204,2.3616566931740377,True,Tested with recorded context controls
+city,new:*toṭṭi / *koṭṭakai,watchman / servant / messenger,*toṭṭi / *koṭṭakai,350,False,Harappa,4449,47,4402,1778,6,1772,0.1276595744680851,0.40254429804634256,12.32353468654049,True,Tested with recorded context controls
+city,new:*toṭṭi / *koṭṭakai,watchman / servant / messenger,*toṭṭi / *koṭṭakai,350,False,Kalibangan,4449,47,4402,195,4,191,0.0851063829787234,0.04338936846887778,2.047751536768663,True,Tested with recorded context controls
+city,new:*toṭṭi / *koṭṭakai,watchman / servant / messenger,*toṭṭi / *koṭṭakai,350,False,Lothal,4449,47,4402,177,0,177,0.0,0.04020899591094957,1.0704122354017551,True,Tested with recorded context controls
+city,new:*toṭṭi / *koṭṭakai,watchman / servant / messenger,*toṭṭi / *koṭṭakai,350,False,Mohenjo-daro,4449,47,4402,1729,27,1702,0.574468085106383,0.3866424352567015,24.877938746336756,True,Tested with recorded context controls
+city,new:*toṭṭi / *koṭṭakai,watchman / servant / messenger,*toṭṭi / *koṭṭakai,350,False,Nausharo,4449,47,4402,38,2,36,0.0425531914893617,0.00817810086324398,0.3609563348435603,True,Tested with recorded context controls
+city,new:*tūtai,vessel / capacity / measure,*tūtai (metal/vessel unit),480,False,Banawali,4449,42,4407,26,0,26,0.0,0.0058997050147492625,0.13963228959124188,True,Tested with recorded context controls
+city,new:*tūtai,vessel / capacity / measure,*tūtai (metal/vessel unit),480,False,Chanhu-daro,4449,42,4407,70,1,69,0.023809523809523808,0.015656909462219197,0.886511861664792,True,Tested with recorded context controls
+city,new:*tūtai,vessel / capacity / measure,*tūtai (metal/vessel unit),480,False,Dholavira,4449,42,4407,230,0,230,0.0,0.05218969820739732,0.9740625444733896,True,Tested with recorded context controls
+city,new:*tūtai,vessel / capacity / measure,*tūtai (metal/vessel unit),480,False,Harappa,4449,42,4407,1778,13,1765,0.30952380952380953,0.40049920580894033,15.886039551381547,True,Tested with recorded context controls
+city,new:*tūtai,vessel / capacity / measure,*tūtai (metal/vessel unit),480,False,Kalibangan,4449,42,4407,195,5,190,0.11904761904761904,0.04311322895393692,6.538940923012095,True,Tested with recorded context controls
+city,new:*tūtai,vessel / capacity / measure,*tūtai (metal/vessel unit),480,False,Lothal,4449,42,4407,177,3,174,0.07142857142857142,0.039482641252552755,1.751331449598661,True,Tested with recorded context controls
+city,new:*tūtai,vessel / capacity / measure,*tūtai (metal/vessel unit),480,False,Mohenjo-daro,4449,42,4407,1729,13,1716,0.30952380952380953,0.3893805309734513,10.521431353250886,True,Tested with recorded context controls
+city,new:*tūtai,vessel / capacity / measure,*tūtai (metal/vessel unit),480,False,Nausharo,4449,42,4407,38,2,36,0.047619047619047616,0.008168822328114363,1.111977193005943,True,Tested with recorded context controls
+city,new:*tūṅku / *niṟai,weigh / weight / balance / scales,*tūṅku / *niṟai (weight std),171,False,Banawali,4449,27,4422,26,0,26,0.0,0.005879692446856626,0.061332187209656656,True,Tested with recorded context controls
+city,new:*tūṅku / *niṟai,weigh / weight / balance / scales,*tūṅku / *niṟai (weight std),171,False,Chanhu-daro,4449,27,4422,70,0,70,0.0,0.015829941203075532,0.4588775027097879,True,Tested with recorded context controls
+city,new:*tūṅku / *niṟai,weigh / weight / balance / scales,*tūṅku / *niṟai (weight std),171,False,Dholavira,4449,27,4422,230,1,229,0.037037037037037035,0.05178652193577567,1.2734053131879979,True,Tested with recorded context controls
+city,new:*tūṅku / *niṟai,weigh / weight / balance / scales,*tūṅku / *niṟai (weight std),171,False,Harappa,4449,27,4422,1778,12,1766,0.4444444444444444,0.399366802351877,13.29510764992182,True,Tested with recorded context controls
+city,new:*tūṅku / *niṟai,weigh / weight / balance / scales,*tūṅku / *niṟai (weight std),171,False,Kalibangan,4449,27,4422,195,0,195,0.0,0.044097693351424695,0.6896635982033997,True,Tested with recorded context controls
+city,new:*tūṅku / *niṟai,weigh / weight / balance / scales,*tūṅku / *niṟai (weight std),171,False,Lothal,4449,27,4422,177,0,177,0.0,0.04002713704206241,0.40342624826785645,True,Tested with recorded context controls
+city,new:*tūṅku / *niṟai,weigh / weight / balance / scales,*tūṅku / *niṟai (weight std),171,False,Mohenjo-daro,4449,27,4422,1729,14,1715,0.5185185185185185,0.38783355947535053,9.833364365648329,True,Tested with recorded context controls
+city,new:*tūṅku / *niṟai,weigh / weight / balance / scales,*tūṅku / *niṟai (weight std),171,False,Nausharo,4449,27,4422,38,0,38,0.0,0.008593396653098146,0.16272466083899692,True,Tested with recorded context controls

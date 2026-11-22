@@ -1,0 +1,23 @@
+endpoint,controls,weighting,eligible_objects,sign845_objects,categories,mixed_exposure_strata,objects_in_mixed_strata,statistic,p_conditional,p_bonferroni_12,status
+area,city,objects,108,21,15,1,107,12.555419022085497,0.5504,1.0,Exploratory conditional comparison
+area,city,formula_weighted,108,21,15,1,107,10.193893228846935,0.74625,1.0,Exploratory conditional comparison
+area,city + has_407,objects,108,21,15,1,33,3.6766878794528566,0.917,1.0,Exploratory conditional comparison
+area,city + has_407,formula_weighted,108,21,15,1,33,5.513860881393176,0.7701,1.0,Exploratory conditional comparison
+area,city + has_407 + motif,objects,108,21,15,3,15,7.8844907219836315,0.49965,1.0,Exploratory conditional comparison
+area,city + has_407 + motif,formula_weighted,108,21,15,3,15,8.116771104617392,0.3051,1.0,Exploratory conditional comparison
+area,city + has_407 + motif + remainder_family,objects,108,21,15,0,0,,,,No comparable variation after these controls
+area,city + has_407 + motif + remainder_family,formula_weighted,108,21,15,0,0,,,,No comparable variation after these controls
+recorded_layer,city,objects,20,4,6,1,20,5.248672385620916,0.5189,1.0,Exploratory conditional comparison
+recorded_layer,city,formula_weighted,20,4,6,1,20,5.9916468019736575,0.4179,1.0,Exploratory conditional comparison
+recorded_layer,city + has_407,objects,20,4,6,1,7,2.3000000000000003,1.0,1.0,Exploratory conditional comparison
+recorded_layer,city + has_407,formula_weighted,20,4,6,1,7,3.148936170212766,0.7461,1.0,Exploratory conditional comparison
+recorded_layer,city + has_407 + motif,objects,20,4,6,2,5,2.9999999999999996,1.0,1.0,Exploratory conditional comparison
+recorded_layer,city + has_407 + motif,formula_weighted,20,4,6,2,5,3.0000000000000004,1.0,1.0,Exploratory conditional comparison
+recorded_layer,city + has_407 + motif + remainder_family,objects,20,4,6,0,0,,,,No comparable variation after these controls
+recorded_layer,city + has_407 + motif + remainder_family,formula_weighted,20,4,6,0,0,,,,No comparable variation after these controls
+motif,city,objects,107,26,14,1,107,56.22881226884233,5e-05,0.0006000000000000001,Exploratory conditional comparison
+motif,city,formula_weighted,107,26,14,1,107,36.183819297131215,0.0005,0.006,Exploratory conditional comparison
+motif,city + has_407,objects,107,26,14,1,44,24.264423175620756,0.00095,0.0114,Exploratory conditional comparison
+motif,city + has_407,formula_weighted,107,26,14,1,44,19.011334088965892,0.00665,0.0798,Exploratory conditional comparison
+motif,city + has_407 + remainder_family,objects,107,26,14,0,0,,,,No comparable variation after these controls
+motif,city + has_407 + remainder_family,formula_weighted,107,26,14,0,0,,,,No comparable variation after these controls
