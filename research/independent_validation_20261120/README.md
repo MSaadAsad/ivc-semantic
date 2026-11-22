@@ -6,6 +6,8 @@ This continuation starts from work-branch commit **`727dfd411a4faa44d193d2047575
 
 ## Deliverables
 
+- [Complete proposed-reading and findspot catalogue](translation_catalogue/README.md), prepared before the reconstruction comparison: all 9,252 catalogue face/line observations, 163 sign meanings, 49,249 archived versions from 26 structured sources, and 33 additional unjoined reading records.
+
 1. [Executive verdict and all nine assessment questions](reports/assessment.md).
 2. [Literature and novelty review through 20 November 2026](reports/literature_review.md).
 3. [Reproducibility audit and reconciliation of positive/negative findings](reports/reproducibility_audit.md).

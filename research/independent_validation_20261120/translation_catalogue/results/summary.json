@@ -1,0 +1,49 @@
+{
+  "catalogue_face_records": 9252,
+  "catalogues": {
+    "Lipi": 5679,
+    "Mahadevan": 3573
+  },
+  "cities": 79,
+  "assignment_counts": {
+    "Partial proposed sign assignment": 4345,
+    "Full proposed sign assignment": 4302,
+    "No proposed 163-key assignment": 605
+  },
+  "archived_reading_records": 49249,
+  "existing_language_reading_faces": 6794,
+  "detailed_context_available": 8919,
+  "reading_records_outside_main_corpus": 33,
+  "sources": {
+    "work_data/reader_v3/corpus_soundfree_readings.csv": 9252,
+    "work_data/mahadevan_parsed.csv": 3573,
+    "work_data/abroad2/foreign_read_whole.csv": 69,
+    "work_data/corpus_draw40.csv": 40,
+    "work_data/corpus_english.csv": 5679,
+    "work_data/corpus_english2.csv": 5679,
+    "work_data/corpus_english3.csv": 5679,
+    "work_data/early/early_level_read.csv": 38,
+    "work_data/gloss2_all.csv": 5679,
+    "work_data/key4d/newly_unlocked_100pct_sound_faces.csv": 110,
+    "work_data/key4e/frontier_expanded_corpus.csv": 36,
+    "work_data/key4e/test5b_frontier_glosses.csv": 25,
+    "work_data/key5b/decoded_1776_corpus.csv": 1776,
+    "work_data/key6b/decoded_2262_corpus.csv": 2262,
+    "work_data/masters/tags.csv": 262,
+    "work_data/measures/m2_records.csv": 1758,
+    "work_data/odd/corpus_draw60.csv": 60,
+    "work_data/odd/corpus_draw60b.csv": 60,
+    "work_data/registry/names_all.csv": 3422,
+    "work_data/registry/people.csv": 1190,
+    "work_data/stars/star_seal_readings.csv": 147,
+    "work_data/time/early_late_readings.csv": 23,
+    "research/independent_validation_20261120/results/inscription_tests_60.csv": 60,
+    "work_data/key5b/decoded_recurring_phrases.csv": 1539,
+    "work_data/key6a/newly_glossed_wave4.csv": 272,
+    "work_data/key5a/newly_glossed_inscriptions.csv": 559
+  },
+  "source_commit": "d16d038d2287bf3f054f113efb967dcc1a6fda5c",
+  "metadata_sha256": "b3e2a94efdf70eaa893bbbbd35fd057b53f766c82823a3efb8ee37f9365311fe",
+  "count_unit": "catalogue face/line records; paired catalogues and repeated objects are retained, not independent artifacts",
+  "caution": "All translations remain proposals. Zero unassigned signs is a mapping-completeness count, not evidence of decipherment."
+}
