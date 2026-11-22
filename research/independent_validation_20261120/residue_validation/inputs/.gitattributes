@@ -1,0 +1,3 @@
+# Preserve the original CSV download and source extracts byte-for-byte,
+# including CRLF endings and whitespace inside published cell values.
+*.csv -text -whitespace

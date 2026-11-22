@@ -1,0 +1,41 @@
+{
+  "catalogue_observations": 9252,
+  "lipi_inscribed_pottery_objects": 629,
+  "lipi_pottery_face_records": 635,
+  "core_studies": 3,
+  "reported_pottery_samples_across_three_studies": 259,
+  "available_archaeological_sample_rows": 209,
+  "excluded_modern_reference_rows": 2,
+  "main_northwest_study_reported_fragments": 172,
+  "available_northwest_archaeological_rows": 122,
+  "northwest_reported_minus_csv_count": 50,
+  "northwest_SI3_low_yield_IDs_recovered": 49,
+  "northwest_count_difference_unreconciled": 1,
+  "same_site_inscribed_pots": 13,
+  "same_site_pots_with_frozen_food_signs": 0,
+  "identifier_equality_hits": 0,
+  "verified_same_object_pairs": 0,
+  "weak_unverified_grid_candidates": 3,
+  "whole_corpus_food_sign_pottery_shortlist": 6,
+  "additional_thesis_collection_samples": 10,
+  "additional_site_label_candidate_pottery_objects": 159,
+  "additional_site_label_candidate_pots_with_food_signs": 3,
+  "additional_verified_object_pairs": 0,
+  "hypothesis_tests_run": 0,
+  "decision": "Direct contents validation cannot run on the verified public joins recovered here. No positive or negative decipherment result.",
+  "limitations": [
+    "No same-object crosswalk recovered; this does not prove every residue sample is uninscribed.",
+    "The nine rice/millet/paddy/sesame readings come from the pre-existing frozen key; this feasibility grouping was curated after publication of the chemical results.",
+    "413 is grain-tax/cut in the frozen key, not a direct cereal-content prediction; star/fish pictures do not imply fish contents.",
+    "Broad fat categories do not identify sesame; negative plant detection is not evidence of historical absence.",
+    "The 2022 supplementary vessel-description table was not recovered. The 42-page 2021 SI3 register was recovered; its listed excluded IDs leave a one-entry count discrepancy.",
+    "The 2025 Karanpura/Ropar full sample tables and the full 1995 Nausharo paper were not recovered."
+  ],
+  "input_sha256": {
+    "gujarat2022_table2.csv": "84b3ab745deb9820fe6b03d36045298e8d40ffdf17a1de60298b6e20426f64a7",
+    "kotada2020_tableS1.csv": "35d009831d832afcc50759f8440d8d1e1626efef28267b7102427a7e3a6eb584",
+    "northwest2021_SI3_low_yield_IDs.csv": "19af4673fe466fd866f2644d1c636e73782bb7c0eade9906bbc9f49153f8a5ca",
+    "northwest2021_original_data.csv": "47cdc35c688bf523ab1a2b067d538bcb8e4b03401bc4a2e02e2b5c5d76425945",
+    "thesis2019_groupI.csv": "a24456c4ff66a9b3545622ed67e587597203cdcfc7206decbb6281fc50c9ff16"
+  }
+}

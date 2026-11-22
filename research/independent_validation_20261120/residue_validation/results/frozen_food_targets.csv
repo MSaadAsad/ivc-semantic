@@ -1,0 +1,10 @@
+family,sign,proposed_root,frozen_short_gloss
+rice,215,*arici,rice
+rice,216,*arici,rice
+millet/grain,803,*kampu ~ *kāmpu,millet/grain
+millet/grain,804,*kampu-[CAGE],millet(caged)
+millet/grain,806,*kampu ~ *kāmpu,millet/grain
+millet/grain,807,*kampu-[CAGE],millet(caged)
+paddy/ear of paddy,831,*alaku,"Leaf w/ diagonal central rib / blade-feather (M379): exact 2-br PhonEx (Fixed & Raw) DEDR 237 alaku ('blade, weaver's stay') <-> 255 alaku ('grains of paddy, ear of paddy'); 831-892 (*vil sale, 4x), 831-615 (*accu field-plot, 4x), Foreign Export Circuit (Luristan); triggers Key 4D PureAllo 833"
+paddy/ear of paddy,833,*alaku,Key 4D PureAllo inherited from newly locked 831 (*alaku)
+sesame,854,*eḷ,sesame

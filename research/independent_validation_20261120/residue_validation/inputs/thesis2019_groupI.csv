@@ -1,0 +1,11 @@
+sample_id,site_label,vessel_part,source_table,source_pdf_page,provenance_status,published_lipid_ug_g,interpretation_status
+MD01,Mohenjo-daro,body,6.2 and B.2,190 and 371,Teaching collection; site label not independently confirmed; excavation context unknown,82.1,No specific commodity assigned here
+MD02,Mohenjo-daro,rim,6.2 and B.2,190 and 371,Teaching collection; site label not independently confirmed; excavation context unknown,41.4,No specific commodity assigned here
+MD03,Mohenjo-daro,stem/base,6.2 and B.2,190 and 371,Teaching collection; site label not independently confirmed; excavation context unknown,15.6,No specific commodity assigned here
+MD04,Mohenjo-daro,body,6.2 and B.2,190 and 371,Teaching collection; site label not independently confirmed; excavation context unknown,28.8,No specific commodity assigned here
+MD05,Mohenjo-daro,body,6.2 and B.2,190 and 371,Teaching collection; site label not independently confirmed; excavation context unknown,36.5,No specific commodity assigned here
+KLB01,Kalibangan,rim,5.2 and 6.1,166 and 189,Teaching collection; site label not independently confirmed; excavation context unknown,,Quantitative values not imported; compare Tables 6.1 and F.1
+KLB02,Kalibangan,rim,5.2 and 6.1,166 and 189,Teaching collection; site label not independently confirmed; excavation context unknown,,Quantitative values not imported; compare Tables 6.1 and F.1
+KLB03,Kalibangan,rim,5.2 and 6.1,166 and 189,Teaching collection; site label not independently confirmed; excavation context unknown,,Quantitative values not imported; compare Tables 6.1 and F.1
+KLB04,Kalibangan,rim,5.2 and 6.1,166 and 189,Teaching collection; site label not independently confirmed; excavation context unknown,,Quantitative values not imported; compare Tables 6.1 and F.1
+KLB05,Kalibangan,base/rim discrepancy,5.2 and 6.1 and F.1,166 and 189 and 437,Teaching collection; site label not independently confirmed; excavation context unknown,,Quantitative values not imported; compare Tables 6.1 and F.1
