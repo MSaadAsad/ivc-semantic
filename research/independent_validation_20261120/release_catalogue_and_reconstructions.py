@@ -25,8 +25,9 @@ for name,dest in folders:
             else:shutil.copy2(f,dest/f.name)
     readme=(src/'README.md').read_text().replace('../translation_catalogue/README.md','../ivc-translation-catalogue/README.md').replace('../proto_reconstruction/results/','../ivc-proto-reconstruction/').replace('../context_associations/results/','../ivc-context-associations/')
     (dest/'README.md').write_text(readme.replace('(results/','('))
-    if (src/'CLUE_FOLLOWUP.md').exists():
-        (dest/'CLUE_FOLLOWUP.md').write_text((src/'CLUE_FOLLOWUP.md').read_text().replace('(results/','('))
+    for extra in ['CLUE_FOLLOWUP.md','SCREENSHOT_READINGS.md','PHYSICAL_NEXT_TESTS.md']:
+        if (src/extra).exists():
+            (dest/extra).write_text((src/extra).read_text().replace('(results/','('))
     for f in ['SOURCE_README.md','source_corrections.json','SOURCES.md']:
         if (src/f).exists():shutil.copy2(src/f,dest/f)
     if name=='residue_validation':shutil.copytree(src/'inputs',dest/'inputs',dirs_exist_ok=True)

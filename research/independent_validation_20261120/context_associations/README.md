@@ -1,5 +1,7 @@
 # Proposed words, materials and recorded findspots
 
+The [six screenshot contrasts, full readings and actual locations](SCREENSHOT_READINGS.md) now have a [complete HTML table](results/screenshot_followup/readings_and_locations.html). It corrects one ambiguous bangle counted under two signs, distinguishes faces from objects, and shows local denominators. This is descriptive source collation, not another association test. [Remaining physical-data experiments](PHYSICAL_NEXT_TESTS.md) distinguish an immediately feasible city-exclusion extension from image/source work and capacity tests needing additional measurements.
+
 **The descriptive patterns are real, but the stricter comparisons are less decisive.** The proposed tax/levy sign is concentrated on copper objects, and the proposed measure sign is concentrated at Harappa. Those patterns overlap object-type and material differences. Two contrasts pass the primary whole-screen cutoff; neither remains below 0.05 when repeated complete inscription formulas are downweighted.
 
 The screen uses **4,476 Lipi physical-object / known-copy-batch representatives**, combines all faces of each object, and tests **81 proposed word/allograph groups**. It evaluates **7,773 contrasts**, using **49,999 conditional permutations** per axis and maximum-statistic correction within each axis plus correction across all six axes. These are retrospective associations, not independently established translations.

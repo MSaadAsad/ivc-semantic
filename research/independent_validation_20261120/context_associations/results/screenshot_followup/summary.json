@@ -1,0 +1,95 @@
+{
+  "summary": [
+    {
+      "sign": "790",
+      "label": "Bangle",
+      "target_faces": 50,
+      "target_object_ids": 49,
+      "certain_sign_faces": 6,
+      "possible_additional_faces": 1,
+      "screenshot_count_including_alternatives": 7,
+      "certain_distinct_formulas": 4,
+      "certain_city_counts": {
+        "Harappa": 2,
+        "Mohenjo-daro": 4
+      }
+    },
+    {
+      "sign": "840",
+      "label": "Pair/pact",
+      "target_faces": 50,
+      "target_object_ids": 49,
+      "certain_sign_faces": 9,
+      "possible_additional_faces": 1,
+      "screenshot_count_including_alternatives": 10,
+      "certain_distinct_formulas": 3,
+      "certain_city_counts": {
+        "Harappa": 2,
+        "Mohenjo-daro": 7
+      }
+    },
+    {
+      "sign": "838",
+      "label": "Bone (older proposal; later produce)",
+      "target_faces": 42,
+      "target_object_ids": 41,
+      "certain_sign_faces": 4,
+      "possible_additional_faces": 0,
+      "screenshot_count_including_alternatives": 4,
+      "certain_distinct_formulas": 2,
+      "certain_city_counts": {
+        "Mohenjo-daro": 4
+      }
+    },
+    {
+      "sign": "540",
+      "label": "Capacity measure",
+      "target_faces": 635,
+      "target_object_ids": 629,
+      "certain_sign_faces": 7,
+      "possible_additional_faces": 0,
+      "screenshot_count_including_alternatives": 7,
+      "certain_distinct_formulas": 3,
+      "certain_city_counts": {
+        "Harappa": 4,
+        "Mohenjo-daro": 2,
+        "Chanhu-daro": 1
+      }
+    },
+    {
+      "sign": "440",
+      "label": "Earthen vessel / goblet/corner",
+      "target_faces": 635,
+      "target_object_ids": 629,
+      "certain_sign_faces": 13,
+      "possible_additional_faces": 0,
+      "screenshot_count_including_alternatives": 13,
+      "certain_distinct_formulas": 2,
+      "certain_city_counts": {
+        "Harappa": 12,
+        "Mohenjo-daro": 1
+      }
+    },
+    {
+      "sign": "645",
+      "label": "Gold weight (proposal)",
+      "target_faces": 2,
+      "target_object_ids": 2,
+      "certain_sign_faces": 1,
+      "possible_additional_faces": 0,
+      "screenshot_count_including_alternatives": 1,
+      "certain_distinct_formulas": 1,
+      "certain_city_counts": {
+        "Mohenjo-daro": 1
+      }
+    }
+  ],
+  "match_rows": 42,
+  "distinct_face_ids_including_uncertain": 41,
+  "unambiguous_match_rows": 40,
+  "ambiguous_specimen": "M-1644: raw +840/790+, normalized ALT; one specimen, not two confirmations",
+  "statistical_tests_run": 0,
+  "new_translations": 0,
+  "metadata_sha256": "b3e2a94efdf70eaa893bbbbd35fd057b53f766c82823a3efb8ee37f9365311fe",
+  "limits": "Descriptive face-level reconciliation of screenshot counts. 635 pottery faces are 629 object IDs; 42 rod faces are 41 object IDs. Meaning versions are retained; site counts are not a corrected test of geographical enrichment."
+}
