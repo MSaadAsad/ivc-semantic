@@ -1,0 +1,25 @@
+{
+  "original_upstream_work_commit": "727dfd411a4faa44d193d204757540d45c7b139b",
+  "original_upstream_work_checked_utc_date": "2026-11-21",
+  "live_work_comparison": "identical: ahead_by=0, behind_by=0",
+  "catalogue_records": 9252,
+  "gold_records": 2,
+  "gold_references": [
+    "M-2129",
+    "M-2128"
+  ],
+  "sign645_lipi_faces": 26,
+  "sign645_lipi_objects": 26,
+  "sign898_lipi_objects": 4,
+  "original_source_files_searched": 696,
+  "source_match_counts": {
+    "gold_object_used_in_reading": 7,
+    "C87_specific": 1,
+    "gold_hoard_area_test": 2
+  },
+  "search_limits": "Materialized original script/report text searched; GitHub default-branch index also consulted, which returns an older commit. Negative searches do not establish that Cuuper never considered a clue or that a cap is not catalogued under unknown material.",
+  "gold_caps_status": "Two inscribed caps are described by Kenoyer and Miller 1999 p.134; no gold-labelled cap rows identified here. No museum crosswalk or sign transcriptions recovered. Not added to the corpus.",
+  "gold_mass_status": "Existing physical export supplies dimensions, not measured masses, for these two records. No numerical mass test performed.",
+  "statistical_tests_run": 0,
+  "new_accepted_translations": 0
+}

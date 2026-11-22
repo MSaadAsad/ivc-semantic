@@ -15,11 +15,14 @@ if (BASE/'context_associations/results/associations.html').exists():folders.appe
 for name,dest in folders:
     src=BASE/name;dest.mkdir(parents=True,exist_ok=True)
     for f in (src/'results').iterdir():
+        if f.is_dir():shutil.copytree(f,dest/f.name,dirs_exist_ok=True)
         if f.is_file() and f.name!='workbook_data.json':
             if f.suffix=='.html':(dest/f.name).write_text(f.read_text().replace('../../translation_catalogue/results/','../ivc-translation-catalogue/').replace('../../context_associations/results/','../ivc-context-associations/'))
             else:shutil.copy2(f,dest/f.name)
     readme=(src/'README.md').read_text().replace('../translation_catalogue/README.md','../ivc-translation-catalogue/README.md').replace('../proto_reconstruction/results/','../ivc-proto-reconstruction/').replace('../context_associations/results/','../ivc-context-associations/')
     (dest/'README.md').write_text(readme.replace('(results/','('))
+    if (src/'CLUE_FOLLOWUP.md').exists():
+        (dest/'CLUE_FOLLOWUP.md').write_text((src/'CLUE_FOLLOWUP.md').read_text().replace('(results/','('))
     for f in ['SOURCE_README.md','source_corrections.json']:
         if (src/f).exists():shutil.copy2(src/f,dest/f)
 books=catout/'original_reading_books';books.mkdir(exist_ok=True)

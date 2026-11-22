@@ -82,3 +82,7 @@ The calculation took about 96 seconds with one BLAS thread. No Colab units were 
 ## Narrow copper-tablet comparison
 
 [All 29 sign-845 copper specimens and the within-copper controls](results/COPPER_845.md) are released separately, with a [readable HTML table](results/copper845.html). All 29 contain 407. There is no exact 845-removed inscription family with both positive and negative specimens, so the fully matched semantic effect cannot be estimated. No independent archaeological function is assigned from a room code or a proposed translation. Reproduce with `python research/independent_validation_20261120/context_associations/copper845.py`, then `check_copper845.py`.
+
+## Additional archaeological source evidence
+
+[Which clues were already considered?](CLUE_FOLLOWUP.md) distinguishes old tests from remaining source work. The [accession-linked production table](results/archaeology.html) adds published context for 16 existing Harappa objects, including a four-tablet partial-production group and a proposed mould/product pair. The gold-hoard study identifies bead-cap inscriptions not yet joined to catalogue rows. These are retrospective source annotations and recovery leads, not new accepted meanings. Reproduce the inventories with `clue_followup.py` and `archaeology_followup.py`.

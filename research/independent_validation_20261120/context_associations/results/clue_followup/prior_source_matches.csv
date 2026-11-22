@@ -1,0 +1,11 @@
+term,path,line,excerpt
+gold_object_used_in_reading,jobs/out/goods.md,93,"- Beads and carnelian: no sign is enriched at both bead towns except the opener 817. At Chanhu-daro the excess is on openers and the cap: 817 (9 faces, x3.1), 920 (7, x3.6), 060 (8, x2.8). `guess`: the craft towns' seals are the offices' seals; goods names sit on tags, not seals. Two gold objects and one shell bangle exist; too few to test."
+gold_object_used_in_reading,jobs/out/goods.md,138,"| 20 | M-2129: gold object, Mohenjo-daro DKE | Mohenjo-daro; DKE | IMPL, Gold | `817 002 645 017 898` | Two shares, X-unit, seven, 898. |"
+C87_specific,jobs/out/sound_list.md,232,| 405 | kiḷai | kindred | 4 | 3 | C-87 |
+gold_object_used_in_reading,jobs/out/sound_list_v3.md,154,"- **645**: *kaṭṭu* ""bundle"": a count before it 1 of 4 (direction), a number on the face 2 of 6 against 35%. New word *kar̤añcu* ""gold weight"" (DEDR 1348; X counted seven on the gold object M-2129): too few new texts with a sign after it. Under test."
+gold_hoard_area_test,jobs/out/sound_list_v5.md,82,| A | 645 | *kar̤añcu* | the gold hoards: Mohenjo-daro objects with 645 lie in the DK area | direction only | Mohenjo-daro objects from area DK* 10/13 = 77% against 70% | 0.42 | fresh |
+gold_object_used_in_reading,work_scripts/goods_6_reads.py,37," (dict(cisi='M-2129',text='817 002 645 017 898'),'Two shares, X-unit, seven, 898.','gold object, Mohenjo-daro DKE'),"
+gold_object_used_in_reading,work_scripts/goods_out/thirty_reads.md,22,"| 20 | M-2129: gold object, Mohenjo-daro DKE | Mohenjo-daro; DKE | IMPL, Gold | `817 002 645 017 898` | Two shares, X-unit, seven, 898. |"
+gold_object_used_in_reading,work_scripts/sound_v3_c.py,14," '645': ('kar̤añcu', 'a gold weight (1348); X counted seven on the gold object M-2129',"
+gold_object_used_in_reading,work_scripts/sound_v3_report_tail.md,15,"- **645**: *kaṭṭu* ""bundle"": a count before it 1 of 4 (direction), a number on the face 2 of 6 against 35%. New word *kar̤añcu* ""gold weight"" (DEDR 1348; X counted seven on the gold object M-2129): too few new texts with a sign after it. Under test."
+gold_hoard_area_test,work_scripts/sound_v5_job2.py,62,"   ('A', 'kar̤añcu', 'a gold weight (1/6 oz)', '1348', 'the gold hoards: Mohenjo-daro objects with 645 lie in the DK area', 'fresh', lambda: moh_area('645', 'DK')),"

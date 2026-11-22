@@ -1,0 +1,23 @@
+{
+  "source_items": 19,
+  "linked_existing_objects": 16,
+  "linked_faces": 25,
+  "unmatched_items": [
+    "H2001-5187",
+    "H2001-5135",
+    "H2000-4440"
+  ],
+  "source_partial_batch_objects": 4,
+  "source_partial_batch_observed_forms": 3,
+  "partial_batch_already_flagged_not_intact": 2,
+  "proposed_mould_pair": {
+    "mould": "H-2191",
+    "tablet": "H-1912",
+    "shared_sequence": "700-033",
+    "existing_proposed_reading": "3 measures"
+  },
+  "new_translations": 0,
+  "blind_semantic_assignments": 0,
+  "statistical_tests": 0,
+  "novelty_scope": "Specific accession-linked production assemblage and reported production relations. General unfinished seals, material correlations and workshop zones were already studied."
+}
