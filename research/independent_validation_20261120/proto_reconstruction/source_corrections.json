@@ -1,0 +1,15 @@
+{
+  "dataset": "Merriam and Fuls v1.2, pdr_04.csv",
+  "corrections": [
+    {
+      "id_pdr": "6460",
+      "field": "number",
+      "original": "4876",
+      "corrected": "4885",
+      "reason": "The publisher's reconstruction index explicitly assigns mīn 'fish' to DEDR 4885; 4876 belongs to miHn 'star' / min- 'shine'. The downloaded compilation links this fish record to 4876.",
+      "source_url": "https://assets.cambridge.org/97805217/71115/index/9780521771115_index.pdf",
+      "printed_page": 530,
+      "pdf_page": 8
+    }
+  ]
+}

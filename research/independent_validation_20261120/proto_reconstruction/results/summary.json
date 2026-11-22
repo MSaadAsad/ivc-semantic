@@ -1,0 +1,93 @@
+{
+  "source_url": "https://zenodo.org/records/22682542",
+  "source_version": "1.2",
+  "source_sha256": "a58da57e52458439beb394ecd3f076279defd1ee7d1f115f15740768475dcffd",
+  "source_records": 15629,
+  "unique_linked_DEDR_etyma": 5085,
+  "source_PD_records": 3512,
+  "published_PD_records": 2966,
+  "existing_pair_recipes": 178,
+  "candidate_sign_ids": 93,
+  "current_signs": 163,
+  "current_signs_with_reconstruction_links": 132,
+  "current_signs_with_component_links": 161,
+  "total_explicit_components": 231,
+  "explicit_components_with_lexical_links": 225,
+  "panels": [
+    {
+      "panel": "fixed48",
+      "recipes": 48,
+      "sign_ids": 48,
+      "published_PD_equal": 4,
+      "published_PD_equal_attestation_flags": 1,
+      "qualified_published_PD_equal": 3,
+      "qualified_published_PD_equal_attestation_flags": 0,
+      "published_subgroup_equal": 11,
+      "incomplete_two_sided": 15
+    },
+    {
+      "panel": "auto51",
+      "recipes": 51,
+      "sign_ids": 51,
+      "published_PD_equal": 3,
+      "published_PD_equal_attestation_flags": 2,
+      "qualified_published_PD_equal": 3,
+      "qualified_published_PD_equal_attestation_flags": 2,
+      "published_subgroup_equal": 9,
+      "incomplete_two_sided": 0
+    },
+    {
+      "panel": "legacy12",
+      "recipes": 12,
+      "sign_ids": 12,
+      "published_PD_equal": 2,
+      "published_PD_equal_attestation_flags": 1,
+      "qualified_published_PD_equal": 2,
+      "qualified_published_PD_equal_attestation_flags": 1,
+      "published_subgroup_equal": 5,
+      "incomplete_two_sided": 0
+    },
+    {
+      "panel": "key4b30",
+      "recipes": 30,
+      "sign_ids": 30,
+      "published_PD_equal": 6,
+      "published_PD_equal_attestation_flags": 2,
+      "qualified_published_PD_equal": 5,
+      "qualified_published_PD_equal_attestation_flags": 1,
+      "published_subgroup_equal": 19,
+      "incomplete_two_sided": 0
+    },
+    {
+      "panel": "key5a13",
+      "recipes": 13,
+      "sign_ids": 13,
+      "published_PD_equal": 0,
+      "published_PD_equal_attestation_flags": 0,
+      "qualified_published_PD_equal": 0,
+      "qualified_published_PD_equal_attestation_flags": 0,
+      "published_subgroup_equal": 6,
+      "incomplete_two_sided": 0
+    },
+    {
+      "panel": "key6a24",
+      "recipes": 24,
+      "sign_ids": 24,
+      "published_PD_equal": 4,
+      "published_PD_equal_attestation_flags": 3,
+      "qualified_published_PD_equal": 3,
+      "qualified_published_PD_equal_attestation_flags": 2,
+      "published_subgroup_equal": 6,
+      "incomplete_two_sided": 0
+    }
+  ],
+  "full_table_equal_form_pairs": 4236,
+  "published_PD_equal_form_pairs": 662,
+  "picture_anchored_alternatives": 3476,
+  "published_PD_picture_anchored_alternatives": 441,
+  "corpus_records_screened": 9252,
+  "corpus_records_with_at_least_one_PD_equal_pair": 244,
+  "dating": "No absolute date inferred from a reconstruction label.",
+  "independence": "Older lexical reconstructions predate Cuper key; original proposed sign meanings remain selected hypotheses.",
+  "interpretation": "A full-table lexical screen, not newly performed historical reconstruction, sound-law dating, or independent decipherment."
+}

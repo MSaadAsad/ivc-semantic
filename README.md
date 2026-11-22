@@ -4,7 +4,9 @@ By Cúper (Yousef) Anas · [Website](https://cuuper22.github.io/ivc/) · [Cite t
 
 ## Independent semantic validation (2026-11-20)
 
-The [complete proposed-reading catalogue](research/independent_validation_20261120/translation_catalogue/README.md) collects all 9,252 catalogue face/line records with recorded excavation context, the current 163 sign values, and 49,249 archived reading-version records from 26 structured sources. It preserves earlier interpretations and unknown signs, distinguishes paired catalogues from independent artifacts, and supplies a searchable local catalogue. These remain proposed translations.
+The [complete proposed-reading catalogue](research/independent_validation_20261120/translation_catalogue/README.md) collects all 9,252 catalogue face/line records with recorded excavation context, the current 163 sign values, and 50,340 archived reading-version records from 31 structured sources. It preserves earlier interpretations and unknown signs, distinguishes paired catalogues from independent artifacts, and supplies a searchable local catalogue. These remain proposed translations.
+
+The [reconstructed-vocabulary extension](research/independent_validation_20261120/proto_reconstruction/README.md) screens all 15,629 records of the larger reconstruction table against 178 existing pair formulations, all 163 current sign values and every corpus observation. Bow/sell has a directly corroborated older scholarly reconstruction; exact ancestral-form support is narrower than modern dictionary matches. Differing forms, subgroup-only entries, incomplete coverage and exploratory new alternatives remain separate, with no claim of a new deciphered inscription.
 
 A separate [independent continuation](research/independent_validation_20261120/README.md) freezes the Key #6 163-sign proposal, audits 45 signs and 60 additional inscriptions, and tests archaeological prediction against sign identities, positional roles and matched rival mappings. It reports both positive and negative results, corrected coverage, and the independent semantic validation still required.
 

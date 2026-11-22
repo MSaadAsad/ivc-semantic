@@ -6,7 +6,8 @@ This continuation starts from work-branch commit **`727dfd411a4faa44d193d2047575
 
 ## Deliverables
 
-- [Complete proposed-reading and findspot catalogue](translation_catalogue/README.md), prepared before the reconstruction comparison: all 9,252 catalogue face/line observations, 163 sign meanings, 49,249 archived versions from 26 structured sources, and 33 additional unjoined reading records.
+- [Complete proposed-reading and findspot catalogue](translation_catalogue/README.md), prepared before the reconstruction comparison: all 9,252 catalogue face/line observations, 163 sign meanings, 50,340 archived versions from 31 structured sources, and 17 additional unjoined frontier reading records.
+- [Full reconstruction-table screen](proto_reconstruction/README.md): all 15,629 records, 178 existing pair recipes across 93 candidate sign IDs, every current sign and all 9,252 corpus observations. Preserves source/ancestral-level distinctions, corrects one imported fish/DEDR link against the publisher's index, distinguishes exact-form equality from missing evidence and semantic ambiguity, and releases the full exploratory alternative-pair search.
 
 1. [Executive verdict and all nine assessment questions](reports/assessment.md).
 2. [Literature and novelty review through 20 November 2026](reports/literature_review.md).

@@ -1,0 +1,7 @@
+panel,recipes,sign_ids,published_PD_equal,published_PD_equal_attestation_flags,qualified_published_PD_equal,qualified_published_PD_equal_attestation_flags,published_subgroup_equal,incomplete_two_sided
+fixed48,48,48,4,1,3,0,11,15
+auto51,51,51,3,2,3,2,9,0
+legacy12,12,12,2,1,2,1,5,0
+key4b30,30,30,6,2,5,1,19,0
+key5a13,13,13,0,0,0,0,6,0
+key6a24,24,24,4,3,3,2,6,0

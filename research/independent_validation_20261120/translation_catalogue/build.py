@@ -42,6 +42,7 @@ def build(metadata):
         if len(keys)>1 and seq:
             exact=[k for k in keys if next(r['signs'] for r in corpus if (r['catalogue'],r['id'])==k)==seq]
             if exact: return exact
+            return []
         return keys
     archived = []; by_key = collections.defaultdict(list); source_counts = collections.Counter()
     sequence_readings = collections.defaultdict(list)
@@ -64,7 +65,8 @@ def build(metadata):
 
     # Discover all object/face English exports in work_data, including earlier
     # registers and selected examples. Sign dictionaries are handled separately.
-    for p in sorted((REPO/'work_data').rglob('*.csv')):
+    csv_paths=sorted((REPO/'work_data').rglob('*.csv'))+sorted((REPO/'work_scripts').rglob('*.csv'))
+    for p in csv_paths:
         data = rows(p)
         if not data: continue
         source = str(p.relative_to(REPO)); fields = data[0]
@@ -75,6 +77,8 @@ def build(metadata):
         elif 'english' in fields and 'face_id' in fields and 'signs' in fields:
             for i,r in enumerate(data,2):
                 add(('Lipi',r['face_id']),source,i,r['english'],r.get('sounds',''),r['signs'],r.get('grade_strict',r.get('grade','')))
+                if r.get('old_english'):
+                    add(('Lipi',r['face_id']),source,i,r['old_english'],'',r['signs'],'earlier English preserved in old_english field','earlier reading')
         elif 'english' in fields and 'src' in fields and 'id' in fields:
             for i,r in enumerate(data,2):
                 keys=resolve_reference(r['id'],r.get('text','')) or [('Unresolved reference',r['id'])]
@@ -87,11 +91,16 @@ def build(metadata):
             for i,r in enumerate(data,2): add((r['catalogue'],r['id']),source,i,r['gloss'],'',r.get('signs',''),'existing literal roots','literal reading')
         elif 'gloss' in fields and 'reading_order_text' in fields and 'id' in fields:
             for i,r in enumerate(data,2): add(('Lipi',r['id']),source,i,r['gloss'],'',r['reading_order_text'],'structural interpretation','structural reading')
+        elif 'id' in fields and 'cisi' in fields and ('english' in fields or 'gloss' in fields):
+            for i,r in enumerate(data,2):
+                add(('Lipi',r['id']),source,i,r.get('english',r.get('gloss','')),r.get('sounds',''),r.get('text',''),
+                    'earlier interpretation retained verbatim','recorded reading' if 'english' in fields else 'structural reading')
         elif 'gloss' in fields and 'cisi' in fields and 'cat' in fields:
             for i,r in enumerate(data,2):
-                ref=r['cisi'] if r['cat']=='L' else ('Mah '+r['cisi'].removeprefix('Mah '))
+                ref=r['cisi'] if r['cat']=='L' else ('Mah '+re.sub(r'^(?:Mah\s+)?M?', '',r['cisi']))
                 for key in resolve_reference(ref,r.get('text','')) or [('Unresolved reference',ref)]:
                     add(key,source,i,r['gloss'],r.get('sound',''),r.get('text',''),'earlier star reading')
+                    archived[-1].update(source_city=r['site'],source_reference=r['cisi'])
         elif source=='work_data/abroad2/foreign_read_whole.csv':
             for i,r in enumerate(data,2): add(('Lipi',r['id']),source,i,r['reading'],'',r['text'],'earlier foreign-object interpretation')
         elif 'museum_or_lipi_id' in fields and ('gloss' in fields or 'gloss_19_locked' in fields):
