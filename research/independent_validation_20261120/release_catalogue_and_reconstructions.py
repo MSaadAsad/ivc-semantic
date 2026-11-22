@@ -25,7 +25,7 @@ for name,dest in folders:
             else:shutil.copy2(f,dest/f.name)
     readme=(src/'README.md').read_text().replace('../translation_catalogue/README.md','../ivc-translation-catalogue/README.md').replace('../proto_reconstruction/results/','../ivc-proto-reconstruction/').replace('../context_associations/results/','../ivc-context-associations/')
     (dest/'README.md').write_text(readme.replace('(results/','('))
-    for extra in ['CLUE_FOLLOWUP.md','SCREENSHOT_READINGS.md','PHYSICAL_NEXT_TESTS.md']:
+    for extra in ['CLUE_FOLLOWUP.md','SCREENSHOT_READINGS.md','PHYSICAL_NEXT_TESTS.md','SAME_CONTEXT_READINGS.md']:
         if (src/extra).exists():
             (dest/extra).write_text((src/extra).read_text().replace('(results/','('))
     for f in ['SOURCE_README.md','source_corrections.json','SOURCES.md']:

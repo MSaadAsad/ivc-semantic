@@ -1,0 +1,158 @@
+{
+  "total_bangle_and_pot_faces": 685,
+  "catalogue_object_ids": 678,
+  "bangles": 49,
+  "pots": 629,
+  "distinct_objects_in_selected_contexts": 126,
+  "context_memberships": 148,
+  "rice_sign_pots": [
+    "M-1599"
+  ],
+  "bangle_with_older_rice_measure_reading": [
+    "H-2574"
+  ],
+  "groups": [
+    {
+      "group": "Bangles: Mohenjo-daro MN area",
+      "objects": 8,
+      "with_bangle_word": 2,
+      "with_pair_word": 1,
+      "with_rice_sign": 0,
+      "with_measure_540": 0,
+      "with_goblet_440": 1,
+      "scope": "Same recorded excavation area/trench; not demonstrated same room, deposit, workshop or date",
+      "subtype_filter": "All recorded subtypes"
+    },
+    {
+      "group": "Bangles: Mohenjo-daro HR area",
+      "objects": 3,
+      "with_bangle_word": 1,
+      "with_pair_word": 1,
+      "with_rice_sign": 0,
+      "with_measure_540": 0,
+      "with_goblet_440": 0,
+      "scope": "Same recorded excavation area/trench; not demonstrated same room, deposit, workshop or date",
+      "subtype_filter": "All recorded subtypes"
+    },
+    {
+      "group": "Bangles: Mohenjo-daro DK area",
+      "objects": 6,
+      "with_bangle_word": 0,
+      "with_pair_word": 1,
+      "with_rice_sign": 0,
+      "with_measure_540": 0,
+      "with_goblet_440": 0,
+      "scope": "Same recorded excavation area/trench; not demonstrated same room, deposit, workshop or date",
+      "subtype_filter": "All recorded subtypes"
+    },
+    {
+      "group": "Bangles: Mohenjo-daro DKG (S)",
+      "objects": 4,
+      "with_bangle_word": 0,
+      "with_pair_word": 2,
+      "with_rice_sign": 0,
+      "with_measure_540": 0,
+      "with_goblet_440": 0,
+      "scope": "Same recorded excavation area/trench; not demonstrated same room, deposit, workshop or date",
+      "subtype_filter": "All recorded subtypes"
+    },
+    {
+      "group": "Bangles: Mohenjo-daro SD area",
+      "objects": 4,
+      "with_bangle_word": 0,
+      "with_pair_word": 2,
+      "with_rice_sign": 0,
+      "with_measure_540": 0,
+      "with_goblet_440": 0,
+      "scope": "Same recorded excavation area/trench; not demonstrated same room, deposit, workshop or date",
+      "subtype_filter": "All recorded subtypes"
+    },
+    {
+      "group": "Bangles: Harappa E area",
+      "objects": 2,
+      "with_bangle_word": 1,
+      "with_pair_word": 0,
+      "with_rice_sign": 0,
+      "with_measure_540": 0,
+      "with_goblet_440": 0,
+      "scope": "Same recorded excavation area/trench; not demonstrated same room, deposit, workshop or date",
+      "subtype_filter": "All recorded subtypes"
+    },
+    {
+      "group": "All pots: Harappa F Trench 43",
+      "objects": 38,
+      "with_bangle_word": 0,
+      "with_pair_word": 0,
+      "with_rice_sign": 0,
+      "with_measure_540": 2,
+      "with_goblet_440": 7,
+      "scope": "Same recorded excavation area/trench; not demonstrated same room, deposit, workshop or date",
+      "subtype_filter": "All recorded subtypes"
+    },
+    {
+      "group": "Stamped pots only: Harappa F Trench 43",
+      "objects": 22,
+      "with_bangle_word": 0,
+      "with_pair_word": 0,
+      "with_rice_sign": 0,
+      "with_measure_540": 2,
+      "with_goblet_440": 7,
+      "scope": "Same recorded excavation area/trench; not demonstrated same room, deposit, workshop or date",
+      "subtype_filter": "POT:T:s"
+    },
+    {
+      "group": "Pots: Mohenjo-daro MN area",
+      "objects": 3,
+      "with_bangle_word": 0,
+      "with_pair_word": 0,
+      "with_rice_sign": 0,
+      "with_measure_540": 0,
+      "with_goblet_440": 0,
+      "scope": "Same recorded excavation area/trench; not demonstrated same room, deposit, workshop or date",
+      "subtype_filter": "All recorded subtypes"
+    },
+    {
+      "group": "Pots: Mohenjo-daro SD area",
+      "objects": 1,
+      "with_bangle_word": 0,
+      "with_pair_word": 0,
+      "with_rice_sign": 1,
+      "with_measure_540": 0,
+      "with_goblet_440": 0,
+      "scope": "Same recorded excavation area/trench; not demonstrated same room, deposit, workshop or date",
+      "subtype_filter": "All recorded subtypes"
+    },
+    {
+      "group": "Pots: Harappa E Trench 36",
+      "objects": 1,
+      "with_bangle_word": 0,
+      "with_pair_word": 0,
+      "with_rice_sign": 0,
+      "with_measure_540": 0,
+      "with_goblet_440": 0,
+      "scope": "Same recorded excavation area/trench; not demonstrated same room, deposit, workshop or date",
+      "subtype_filter": "All recorded subtypes"
+    },
+    {
+      "group": "Pots: Harappa AB Trench 39N",
+      "objects": 56,
+      "with_bangle_word": 0,
+      "with_pair_word": 0,
+      "with_rice_sign": 0,
+      "with_measure_540": 0,
+      "with_goblet_440": 1,
+      "scope": "Same recorded excavation area/trench; not demonstrated same room, deposit, workshop or date",
+      "subtype_filter": "All recorded subtypes"
+    }
+  ],
+  "source_sha256": "6f14e14fd1cfb59e825074ba60cc3459c71a35dc6c2e39dbcd3a4ba73729e5c6",
+  "statistical_tests_run": 0,
+  "new_translations": 0,
+  "interpretation_limits": [
+    "Proposed readings retained verbatim; unknown signs remain visible.",
+    "Rice sign presence, older English rice wording and measured rice contents are different variables.",
+    "Selected context groups overlap: the 22 stamped F Trench 43 pots are a subset of the 38 total pots.",
+    "Same recorded area does not establish contemporaneity or physical proximity within the area.",
+    "Absence of a proposed sign does not establish a concept was absent, particularly in incomplete or unassigned texts."
+  ]
+}

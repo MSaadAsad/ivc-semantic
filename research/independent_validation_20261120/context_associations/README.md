@@ -1,5 +1,7 @@
 # Proposed words, materials and recorded findspots
 
+The [other inscriptions on the same object types at those locations](SAME_CONTEXT_READINGS.md) supply complete local comparison groups, including all 22 stamped F Trench 43 pots and eight MN bangles. They distinguish actual proposed rice-sign presence from older English “rice measure” wording, expose the latter on a bangle, and retain all 678 bangle/pot object records rather than only matching examples.
+
 The [six screenshot contrasts, full readings and actual locations](SCREENSHOT_READINGS.md) now have a [complete HTML table](results/screenshot_followup/readings_and_locations.html). It corrects one ambiguous bangle counted under two signs, distinguishes faces from objects, and shows local denominators. This is descriptive source collation, not another association test. [Remaining physical-data experiments](PHYSICAL_NEXT_TESTS.md) distinguish an immediately feasible city-exclusion extension from image/source work and capacity tests needing additional measurements.
 
 **The descriptive patterns are real, but the stricter comparisons are less decisive.** The proposed tax/levy sign is concentrated on copper objects, and the proposed measure sign is concentrated at Harappa. Those patterns overlap object-type and material differences. Two contrasts pass the primary whole-screen cutoff; neither remains below 0.05 when repeated complete inscription formulas are downweighted.
