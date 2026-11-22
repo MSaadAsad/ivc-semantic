@@ -1,0 +1,23 @@
+{
+  "source_context_records": 37,
+  "source_specimen_records": 37,
+  "matched_source_records": 30,
+  "matched_existing_objects": 30,
+  "matched_existing_faces": 43,
+  "unmatched_exact_accession_records": 6,
+  "unverified_candidate_records": 1,
+  "linked_objects_by_site": {
+    "Harappa": 23,
+    "Gola Dhoro (Bagasra)": 6,
+    "Rakhigarhi": 1
+  },
+  "house_objects": 11,
+  "house_faces": 17,
+  "house_independent_assemblages": 1,
+  "bagasra_inscribed_seals_near_faience": 2,
+  "bagasra_shell_associated_source_fragments": 2,
+  "bagasra_shell_associated_readable_inscriptions": 0,
+  "independently_rated_contexts": 0,
+  "semantic_validation_tests_run": 0,
+  "interpretation": "Additional source annotations and descriptive readings; not fresh blind validation."
+}

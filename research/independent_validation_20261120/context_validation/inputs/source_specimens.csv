@@ -1,0 +1,38 @@
+source_specimen_id,context_id,source_id,pages,unit_item,specimen_deposition,source_note,match_policy,preserved_inscription_as_reported
+H90-1578,H90-house-r1,DK1991,252; Fig.13.46,3038-1,Room1 pit,,exact_accession,
+H90-1672,H90-house-r1,DK1991,252; Fig.13.46,3063-5,Room1 pit,,exact_accession,
+H90-1594,H90-house-r2,DK1991,252; Fig.13.46,3064-10,floor debris/fill; individual surface unresolved,,exact_accession,
+H90-1690,H90-house-r2,DK1991,252; Fig.13.46,3064-11,floor debris/fill; individual surface unresolved,,exact_accession,
+H90-1712,H90-house-r3,DK1991,252; Fig.13.46,3255-4,floor debris/fill; individual surface unresolved,,exact_accession,
+H90-1627,H90-house-r3,DK1991,252; Fig.13.46,3255-1,floor debris/fill; individual surface unresolved,,exact_accession,
+H90-1597,H90-house-r3,DK1991,252; Fig.13.46,3157-1,floor debris/fill; individual surface unresolved,,exact_accession,
+H90-1592,H90-house-r3,DK1991,252; Fig.13.46,3042-4,floor debris/fill; individual surface unresolved,,exact_accession,
+H90-1595,H90-house-r3,DK1991,252; Fig.13.46,3155-3,floor debris/fill; individual surface unresolved,,exact_accession,
+H90-1596,H90-house-r3,DK1991,252; Fig.13.46,3155-4,floor debris/fill; individual surface unresolved,,exact_accession,
+H90-1593,H90-house-r3,DK1991,252; Fig.13.46,3064-9,floor debris/fill; individual surface unresolved,,exact_accession,
+H90-1618,H90-C-upper,DK1991,249; Fig.13.44,3250-1,,Period3B/C,exact_accession,
+H90-1686,H90-C-upper,DK1991,249; Fig.13.44,3043-35,,Period3B/C; OCR caption unit304.3-35 normalized to3043-35,exact_accession,
+H90-1619,H90-C-drain,DK1991,249; Fig.13.44,3154-1,,under drain Feature14,exact_accession,
+H90-1688,H90-C-upper,DK1991,249; Fig.13.44,3056-18,,upper street,exact_accession,
+H90-1600,H90-C-lower,DK1991,249; Fig.13.44,3166-1,,Period3A,exact_accession,
+H90-1628,H90-A-houses,DK1991,249; Fig.13.44,3124-4,,Period3B,exact_accession,
+H90-1687,H90-A-surface,DK1991,249; Fig.13.44,3103-1,,Period3B/C,exact_accession,
+H90-1601,H90-B-houses,DK1991,249; Fig.13.44,3094-1,,Period3B,exact_accession,
+H90-1591,H90-B-houses,DK1991,249; Fig.13.44,3033-1,,Period3B,exact_accession,
+H90-1575,H90-surface-houses,DK1991,260; Fig.13.53,3014-2,,stoneware bangle,exact_accession,
+H90-1576,H90-surface-street,DK1991,260; Fig.13.53,3011-17,,three-sided faience token,exact_accession,
+H90-1590,H90-surface-street,DK1991,260; Fig.13.53,3011-95,,stamped potsherd,exact_accession,
+H90-1571,H90-slope-wash,DK1991,260; Fig.13.53,2074-8,,round token,exact_accession,
+H90-1572,H90-surface-unknown,DK1991,260; Fig.13.53,3000-1,,rectangular token,exact_accession,
+BSR2037,B-SE-near,J2017,7 Fig.4;15 Appendix1;18,3,100 cm below datum,El15; near faience/lithic area; not Eq2 floor,exact_accession,two signs
+BSR5555,B-shell,J2017,7 Fig.4;15 Appendix1;18,10,300 cm below datum,Eg2; fragment preserves standard/animal only,exact_accession,no preserved inscription
+BSR6719,B-outer,J2017,7 Fig.4;15 Appendix1;18,not recorded,66 cm below datum,Eo11 in narrative/Fig.4/catalogue; El15 in Appendix1,exact_accession,seven signs
+BSR6952,B-shell,J2017,7 Fig.4;15 Appendix1;18,5,70-75 cm below datum,Ea12 western baulk; upper half and inscription lost,exact_accession,inscription lost
+BSR7197,B-gateway,J2017,7 Fig.4;15 Appendix1;18,1,26 cm below datum,Eh1; likely secondary deposit,exact_accession,nine signs
+BSR7368,B-gateway,J2017,7 Fig.4;15 Appendix1;18,Pit1 sealed by Layer1,223 cm below datum,Eh1; sealed pit; distinct episode from shallow7197,exact_accession,five signs
+BSR8288,B-SE-near,J2017,7 Fig.4;15 Appendix1;18,4,105 cm below datum,El14 in Fig.4/Appendix/context paragraph; Ei14 in individual narrative and catalogue,exact_accession,six signs
+RGR573.B,R-RGR2,NLG2014,79-81; Table1,,surface,steatite manufacturing debris,exact_accession,blank/debris
+RGR-s1,R-RGR2,NLG2014,79-81; Table1,,surface,unnumbered sliver designated RGR-s1,exact_accession,blank/debris
+RGR3607,R-RGR2,NLG2014,79-81; Table1,,Mature Harappan levels,probable seal blank/roughout,exact_accession,blank/debris
+RGR6304,R-RGR2,NLG2014,79-81; Table1,,Mature Harappan levels,unicorn seal fragment; INAA source predicted Hazara; not RGR1 bead factory,exact_accession,fragment
+RGR1-elephant-sealings-pair,R-beads,N2014draft,116-117,,,Two sealings on floor; exact accession identifiers absent. Lipi5560.1 has elephant motif but identity not established.,unverified_candidate_only,two reported sealings; transcription not recovered
