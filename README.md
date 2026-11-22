@@ -4,6 +4,8 @@ By Cúper (Yousef) Anas · [Website](https://cuuper22.github.io/ivc/) · [Cite t
 
 ## Independent semantic validation (2026-11-20)
 
+The [complete proposed-reading catalogue](research/independent_validation_20261120/translation_catalogue/README.md) collects all 9,252 catalogue face/line records with recorded excavation context, the current 163 sign values, and 49,249 archived reading-version records from 26 structured sources. It preserves earlier interpretations and unknown signs, distinguishes paired catalogues from independent artifacts, and supplies a searchable local catalogue. These remain proposed translations.
+
 A separate [independent continuation](research/independent_validation_20261120/README.md) freezes the Key #6 163-sign proposal, audits 45 signs and 60 additional inscriptions, and tests archaeological prediction against sign identities, positional roles and matched rival mappings. It reports both positive and negative results, corrected coverage, and the independent semantic validation still required.
 
 A subsequent [21-language Dravidian comparison](research/independent_validation_20261120/language_affinity/README.md) finds the proposed key closest to recorded Tamil forms (83/87 distinct components), documents the Tamil-first source selection, and checks 35 fixed claimed etymon pairs. It distinguishes the proposal's lexical preference from identifying the language of the inscriptions.
