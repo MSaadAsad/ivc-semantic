@@ -181,6 +181,27 @@ def main():
                         predicted_minus_reconstructed_litres=count*unit-observed)
                    for model, count, unit in predictions]
     write_csv('h95_fixed_predictions.csv', comparisons)
+    # These are alternative unit assignments, not newly deciphered words.
+    # Fuls's22.6L group mean includes an earlier calculation of this same H95 jar.
+    md1374 = next(r for r in source_inventory if r['source_vessel_id'] == 'MD-1374')
+    alternatives = [
+        ('repo_fixed', 9.24, False, 'Original repo conversion, trained on older reports of the three calibration jars.'),
+        ('later_Wells', 40.4, False, 'Later primary unit from the original three jars.'),
+        ('Fuls2012_pooled_vase_unit', 22.6, True, 'Published pooled estimate includes H95 itself; close agreement is not independent validation.'),
+        ('MD1374_only_conditional', float(md1374['source_volume_l'])/float(md1374['source_strokes']), False,
+         'Excludes H95, but assumes three vertical and three oblique marks are six equivalent units; source profile not retraced and exact catalogue join absent.'),
+        ('H95_fitted_exact', observed/4, True, 'Divides the target capacity by four; exact agreement is fitted, not evidence.'),
+    ]
+    alternative_rows = [dict(model=name, proposed_text='four units; unit name unknown',
+                             unit_litres=unit, predicted_litres=4*unit,
+                             reconstructed_litres=observed,
+                             absolute_error_litres=abs(4*unit-observed),
+                             error_percent_of_reconstructed=100*abs(4*unit-observed)/observed,
+                             calibration_includes_this_vessel=includes_target, interpretation=note)
+                        for name, unit, includes_target, note in alternatives]
+    assert math.isclose(alternative_rows[2]['predicted_litres'], 90.4)
+    assert math.isclose(alternative_rows[3]['predicted_litres'], 92.53333333333333)
+    write_csv('alternative_unit_assignments.csv', alternative_rows)
     s = trace['sensitivity']
     scenarios = [dict(radial_offset_px=r, scale_length_offset_px=sc, vertical_multiplier=v,
                       capacity_litres=volume(geometry(trace, r, sc, v)))
@@ -275,6 +296,7 @@ body{{margin:0;background:#f4f4ee;color:#213237;font:16px/1.6 system-ui,sans-ser
 <div class="result"><b>This weakens the fixed 9.24 L-per-stroke interpretation of full jar capacity.</b> It does not establish whether the marks record quantities placed in the jar, different units, something else, or a particular language.</div>
 <p>The jar drawing is labelled <b>H95-2661/6640-501</b>, matching the catalogue accession prefix for <b>H-2263</b>. Its caption instead says 2662, and the catalogue's unit string differs. These discrepancies are retained. The rim reading is <b>4</b>; the drawing also shows separate body graffiti and potter's marks.</p><p>The fixed prediction is <b>4 × 9.24 = 36.96 L</b>, compared with <b>{observed:.2f} L</b> reconstructed from the interior drawing.</p></div>
 <div class="figures"><figure><img src="h95_profile_overlay.svg" alt="Traced inner wall, axis and20cm scale on Kenoyer's published jar drawing"><figcaption>Published inner profile, not outer height×width. Trace coordinates, the superseded first trace and the source caption conflict are released. Prior published capacities were already known; this is not blind replication.</figcaption></figure><figure><img src="h95_capacity_comparison.svg" alt="37L repo prediction, approximately89L reconstructed capacity,162L later Wells prediction"><p><b>Geometry sensitivity:</b> {sensitivity_min:.1f}–{sensitivity_max:.1f} L across 27 combinations of ±3px radius, ±2px scale-bar length and ±2% vertical scaling. This is an analyst-selected range, not a confidence interval.</p><p><b>Broader size sensitivity:</b> changing all linear dimensions by ±10% gives {observed*0.9**3:.1f}–{observed*1.1**3:.1f} L. The 37 L prediction remains below that range.</p><p><b>Partial filling:</b> 37 L is about {36.96/observed:.0%} of reconstructed capacity. It could fit inside the jar; no fill mark or prior fill-level rule establishes that this was the intended reading.</p></figure></div>
+<h2>Does another proposed unit fit?</h2><div class="intro"><p><b>Yes, numerically.</b> Fuls's published22.6L unit gives <b>4 ×22.6=90.4L</b>, close to our88.9L reconstruction. His22.6L estimate partly uses the same H95 jar, so this is not independent validation. Using only his other vase, MD-1374, gives138.8/6=23.13L per unit and predicts92.53L here; that remains conditional on treating its mixed vertical/oblique marks as equivalent counts and on its unverified source profile.</p><p>The rim transcription still says <b>four</b>. This comparison changes the assumed unit, not the sign's reading. No Tamil or other language's unit name has been established. A stronger test needs a rule selecting the unit from inscription/context before inspecting another capacity. <a href="alternative_unit_assignments.csv">All alternative assignments and dependence flags</a>.</p></div>
 <h2>The original calibration needs correction</h2><div class="intro"><p>The repo's 9.24 L/stroke anchor comes from an older news summary. Wells's 2015 primary account instead reports about <b>40.4 L per tall stroke</b>. Fuls 2012 also reports roughly40L/stroke for the same three old jars. Those are repeated analyses of the calibration objects, not three new test vessels.</p></div>
 <table><thead><tr><th>Original jar</th><th>Repo's news-derived litres</th><th>Fuls's reported profile litres</th></tr></thead><tbody>{calibration_rows}</tbody></table><p><small>Fuls table cells were recovered from author-posted public text, not a visually verified PDF table. Wells's 2015 running text independently states the later 40.4 L unit. No reason for the older discrepancy has been established here.</small></p>
 <h2>All eight source vessels, including every exclusion</h2><p>Five are additional to the original three. Only the H95 jar currently combines an identified inscription, numeric interpretation and independently labelled interior profile. K-90's two rim strokes were checked in the catalogue photograph, but its scale units are unlabelled. MD-1374 is not silently equated with CISI M-1374. The two Mackay pots have complex readings, not an established1-unit capacity inscription.</p>

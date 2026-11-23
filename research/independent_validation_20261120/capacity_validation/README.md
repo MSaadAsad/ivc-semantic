@@ -22,6 +22,14 @@ The calculated capacity is **2.41 times** the repo's prediction. The mismatch su
 
 **Partial filling remains possible.**37L is about42% of the jar's reconstructed capacity, reached at roughly56% of its interior height. A claim that the marks record an amount put into the jar is different from a claim that they record its full capacity. No fill mark or independently specified fill rule was recovered. Neither a particular commodity nor a new unit is chosen after seeing the result.
 
+## Does another proposed unit fit better?
+
+**Fuls's previously proposed22.6L unit predicts90.4L for four marks**, only1.50L (1.7%) above our88.90L reconstruction. The sign transcription remains **“four”**; this changes the unit assigned to each count, not its spoken reading.
+
+However,22.6L was calculated using this same H95 jar together with MD-1374, so its close fit is not independent validation. A conditional comparison excluding H95 uses only MD-1374's138.8L divided by six marks:23.13L/unit, predicting92.53L here (4.1% high). That assumes its three vertical/three oblique marks are equivalent counts, and relies on a source profile not independently retraced here. The exact catalogue join for MD-1374 remains absent.
+
+The [alternative-unit table](results/alternative_unit_assignments.csv) retains these dependencies and the deliberately target-fitted22.225L/unit value, whose perfect fit proves nothing. No named Dravidian unit is identified by fitting litres. The next discriminator is a prior rule for deciding **which unit applies** from other inscription/context evidence, followed by a different vessel.
+
 ## A correction to the old calibration
 
 The continuation previously repeated the repo's9.24L figure and described its three source jars as measured27.30/55.56/65.89L. That source description needs correction: the repo obtained those numbers from older news reporting. **Wells's later primary account explicitly gives about40.4L per tall stroke**, and Fuls2012 reports profile capacities121.0/240.6/283.8L for the same three jars.
@@ -70,4 +78,4 @@ python3 research/independent_validation_20261120/capacity_validation/run.py --so
 
 All computation took less than a second locally. Colab units used:0. The standalone export is a viewing/data bundle; reproduction uses the repository layout.
 
-The geometry/parser checks passed. Browser verification loaded both scientific figures and all eight source rows, resolved all six report links, and found no script errors or mobile page overflow. The source overlay was visually checked against the inner wall; the first trace is retained as superseded rather than silently discarded.
+The geometry/parser checks passed. Browser verification loaded both scientific figures and all eight source rows, resolved the report links, and found no script errors or mobile page overflow. The source overlay was visually checked against the inner wall; the first trace is retained as superseded rather than silently discarded.

@@ -1,0 +1,6 @@
+model,proposed_text,unit_litres,predicted_litres,reconstructed_litres,absolute_error_litres,error_percent_of_reconstructed,calibration_includes_this_vessel,interpretation
+repo_fixed,four units; unit name unknown,9.24,36.96,88.90136720072964,51.94136720072964,58.42583622302643,False,"Original repo conversion, trained on older reports of the three calibration jars."
+later_Wells,four units; unit name unknown,40.4,161.6,88.90136720072964,72.69863279927036,81.77448231490605,False,Later primary unit from the original three jars.
+Fuls2012_pooled_vase_unit,four units; unit name unknown,22.6,90.4,88.90136720072964,1.4986327992703679,1.685725255368253,True,Published pooled estimate includes H95 itself; close agreement is not independent validation.
+MD1374_only_conditional,four units; unit name unknown,23.133333333333336,92.53333333333335,88.90136720072964,3.631966132603708,4.085388388238307,False,"Excludes H95, but assumes three vertical and three oblique marks are six equivalent units; source profile not retraced and exact catalogue join absent."
+H95_fitted_exact,four units; unit name unknown,22.22534180018241,88.90136720072964,88.90136720072964,0.0,0.0,True,"Divides the target capacity by four; exact agreement is fitted, not evidence."
