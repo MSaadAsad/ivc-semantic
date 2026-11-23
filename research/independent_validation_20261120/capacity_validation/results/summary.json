@@ -1,0 +1,34 @@
+{
+  "pottery_faces_screened": 635,
+  "pottery_objects_screened": 629,
+  "objects_given_numeric_parser_prediction": 190,
+  "source_vessels_recovered": 8,
+  "original_calibration_objects": 3,
+  "additional_source_vessels": 5,
+  "additional_vessels_with_labelled_interior_profile": 1,
+  "additional_vessels_with_primary_numeric_comparison": 1,
+  "primary_reference": "H-2263 (drawing H95-2661/6640-501; caption H95-2662)",
+  "profile_reconstructed_litres": 88.90136720072964,
+  "predicted_repo_litres": 36.96,
+  "predicted_later_wells_litres": 161.6,
+  "actual_over_repo_prediction": 2.4053400216647627,
+  "trace_sensitivity_litres": [
+    80.69209933853367,
+    97.90584167375256
+  ],
+  "broad_10_percent_linear_scale_sensitivity_litres": [
+    64.80909668933191,
+    118.32771974417119
+  ],
+  "implied_unit_if_four_strokes_litres": 22.22534180018241,
+  "original_trace_before_contour_review_litres": 80.7157371064821,
+  "source_reported_fuls_h95_litres": 88.3,
+  "internal_height_cm": 67.78523489932886,
+  "partial_fill_to_equal_36_96_litres_height_fraction": 0.5632196710433389,
+  "parser_K90_cups_original_face_order": 1,
+  "parser_K90_cups_reversed_face_order": 2,
+  "statistical_significance_tests_run": 0,
+  "independent_direct_liquid_measurements_made": 0,
+  "blinded": false,
+  "finding": "The fixed9.24L/stroke full-capacity prediction mismatches this additional scaled profile. The proposed Dravidian language is not identified or excluded."
+}

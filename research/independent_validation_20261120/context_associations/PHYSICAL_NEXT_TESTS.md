@@ -2,6 +2,8 @@
 
 This responds to the request for physical-data experiments beyond completed work. It is a design assessment, **not experiment results**. The prior-work check covers materialized upstream scripts/reports at `727dfd4` and the repository filename inventory; it does not establish absence from every unmaterialized archived file.
 
+**Subsequent work,22 November:** the [capacity extension](../capacity_validation/README.md) has now recovered one additional labelled interior profile and compared it with the fixed prediction. The H95 jar reconstructs to88.90L versus36.96L predicted. The five additional source vessels do not become five clean tests: others have missing joins, uncertain numbers or an unlabelled scale. Later primary sources also contradict the news-derived absolute unit used in the old calibration. The assessment below records what was available before that source recovery; do not present this one-vessel extension as still unattempted.
+
 Do not rerun broad seal size, pot-wall thickness, tablet-volume, boss/material, animal-motif, same-text location or numeral-series tests as new discoveries. `size_1_models.py` through `size_8_decide.py`, **including `size_3b_redesign.py`**, `stand_2_cutting.py`, `met_01_ladder.py` through `met_03_physical.py`, and `stamps_2_match.py` already cover those subjects.
 
 ## Correction: cross-city seal-size/rank testing already exists

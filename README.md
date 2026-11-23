@@ -4,6 +4,8 @@ By Cúper (Yousef) Anas · [Website](https://cuuper22.github.io/ivc/) · [Cite t
 
 ## Independent semantic validation (2026-11-20)
 
+The [additional inscribed-jar capacity check](research/independent_validation_20261120/capacity_validation/README.md) reconstructs the H95 four-stroke jar at88.90L against the unchanged36.96L prediction. Its labelled interior profile supplies one additional case; the complete eight-vessel source inventory and all exclusions are retained. The mismatch survives the tested tracing/scale variations and weakens that full-capacity rule. Later primary sources also place the original three-jar unit near40.4L rather than the news-derived9.24L used in the repo. This is not a test of the ancient language, and the retrospective trace is not blind.
+
 The [exact-context source expansion](research/independent_validation_20261120/context_validation/README.md) links 30 existing objects / 43 faces to additional primary-source annotations: eleven Harappa objects in one house, six Bagasra seals/fragments and one Rakhigarhi mound/provenance identification. Full proposed readings appear beside source locations and deposit qualifications. Near-faience finds, unreadable shell-associated fragments and surface/gateway deposits remain distinct; no independent semantic test is claimed.
 
 The [vessel-contents feasibility check](research/independent_validation_20261120/residue_validation/README.md) assembles residue/starch data and searches for the same physical objects in the inscription catalogue. No verified inscription–residue pair was recovered, so no semantic test was run. Six catalogued pots carrying proposed millet, paddy or rice readings are listed with their recorded excavation identifiers as future source/laboratory targets.
