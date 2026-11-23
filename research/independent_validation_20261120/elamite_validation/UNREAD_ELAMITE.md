@@ -4,6 +4,8 @@
 
 [Open the sign illustrations and actual inscription examples](results/unread_elamite.html). [Six focused candidates](results/unread_focus_candidates.csv). [Complete unresolved-sign inventory](results/unread_Elamite_rebus_candidates.csv).
 
+[Subsequent coherence review](COHERENCE_REVIEW.md): 362 court is the clearest conditional contextual fit; 621 remains an institutional alternative, while 202 offspring and 484 protection have no demonstrated overall gain. All127 contexts and one-candidate-at-a-time gap fills are released. Generic institution/name alternatives and the provisional surrounding readings limit this assessment.
+
 ## Concrete candidates
 
 | Unresolved sign | Proposed Elamite source | Actual context | Why investigate / main qualification |

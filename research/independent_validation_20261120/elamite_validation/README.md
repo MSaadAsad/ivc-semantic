@@ -4,6 +4,8 @@
 
 The separate modern-Dravidian portability screen does not answer this loanword question and is retained as a [scope-corrected appendix](PORTABILITY_SCOPE_CORRECTION.md). No surviving Dravidian counterpart is required for the new search.
 
+[Do these values improve the actual readings?](COHERENCE_REVIEW.md) A review of all 127 shortlisted sign–catalogue-face contexts finds 362 court the clearest conditional institutional fit, while temple/other institutional labels remain rivals. 621 court has no demonstrated advantage over stored/registrar;202 offspring is mixed and 484 protection leaves most phrases unexplained. No objective coherence score, new validated reading or loan claim is made.
+
 **New: [unrestricted Elamite rebus discovery](OPEN_REBUS.md)** extends beyond Cúper’s target meanings. It inventories 417 drawings and searches all available lexical targets, with anchors for 24/73 picture nouns. Two priority leads are **roof ku-uk → protection** (recorded polysemy) and **jar pi-ti → enemy piti-r** (same stem after a documented noun-class ending, not identical whole words). Both directions are absent from the inspected older Elamite candidate table. Six weaker directions, all 680 raw witnesses, source traps and dating limits remain visible. These are candidates to validate, not translated inscriptions or evidence identifying the Indus language. [Open the sign illustrations and audit](results/open_rebus.html).
 
 The earlier experiments below answer narrower or different questions and are retained with their limitations.

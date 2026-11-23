@@ -1,6 +1,7 @@
 # Unresolved-sign Elamite terms, recipient language unspecified (2026-11-23)
 
 - `measured` The unresolved-key search finds 48 sign/direction rows touching25 IDs, with348 recorded sign–catalogue-face contexts. These are candidate mappings, not decoded words. [Illustrated report](research/independent_validation_20261120/elamite_validation/results/unread_elamite.html).
+- `measured` A qualitative review retains all127 shortlisted sign–catalogue-face contexts without adding grammar.362 court is the clearest conditional institutional fit;621 remains competitive with older guesses, and202/484 have no demonstrated general coherence gain. Generic institution/name rivals remain. [Review](research/independent_validation_20261120/elamite_validation/COHERENCE_REVIEW.md).
 - `guess` Investigate362 or621 as Elamite hi-el/hu-el “court,” potentially a borrowed term in an unidentified Indus language. H-345 supplies an actual [362] blank in the existing proposed manager/house formula. Keep202 offspring and weak484 protection as alternatives; recover early attestations and test specific predictions before assigning values. Modern Dravidian survival is not required.
 
 # Independent continuation: additional Elamite candidates (2026-11-23)
