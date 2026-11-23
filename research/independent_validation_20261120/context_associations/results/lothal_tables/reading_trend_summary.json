@@ -1,0 +1,47 @@
+{
+  "700": {
+    "frozen_label": "measure",
+    "object_records": 3,
+    "supports": {
+      "structure": 1,
+      "pottery_jar": 1,
+      "undiagnostic": 1
+    },
+    "inference": "Descriptive literal-sign count; repeated dies retained; no independent prediction test."
+  },
+  "390": {
+    "frozen_label": "weave/cloth",
+    "object_records": 5,
+    "supports": {
+      "pottery_jar": 2,
+      "structure": 2,
+      "undiagnostic": 1
+    },
+    "inference": "Descriptive literal-sign count; repeated dies retained; no independent prediction test."
+  },
+  "590": {
+    "frozen_label": "bale/sack-load",
+    "object_records": 4,
+    "supports": {
+      "pottery_jar": 2,
+      "structure": 1,
+      "undiagnostic": 1
+    },
+    "inference": "Descriptive literal-sign count; repeated dies retained; no independent prediction test."
+  },
+  "manager_formula": {
+    "formula": "705-500-741-001-055-220-740-090",
+    "encoded_object_records": 11,
+    "supports": {
+      "other_types": 1,
+      "wooden_box": 1,
+      "leather_sack": 1,
+      "undiagnostic": 2,
+      "pottery_jar": 2,
+      "structure": 3,
+      "pegs_on_wall": 1
+    },
+    "specific_support_categories": 5,
+    "prior_work": "Cuper jobs/out/stamps.md already identifies11 Lothal objects; the detailed source-support join is additional."
+  }
+}

@@ -1,0 +1,13 @@
+sign,frozen_label,cisi,container,sign_sequences,existing_proposed_readings,published_die_groups_on_object
+700,measure,L-141,structure,000-000-700-031-552-740,Of the [lost sign]-[lost sign]-Cup house (allowance: one [552]).,
+700,measure,L-177,pottery_jar,032-700-000,Two cups; [lost sign].,
+700,measure,L-182,undiagnostic,700-899-617,"Cup, [899], king's servant.",
+390,weave/cloth,L-139,pottery_jar,880-002-032-590-390,"Four [880]; Chest, cotton.",unicorn_5
+390,weave/cloth,L-145,structure,550-002-415-390,District 2 Branch/Control Weave/Cloth,
+390,weave/cloth,L-196,pottery_jar,000-002-032-590-390 | 861-002,[lost sign]; Four chests; Cotton. | two shares.,unicorn_2; unicorn_5
+390,weave/cloth,L-198,structure,000-000-055 | 000-002-032-590-390-740,"Two [lost sign], dozen. | Of the [lost sign]-Four-Chest-Cotton house.",unicorn_1; unicorn_5
+390,weave/cloth,L-202,undiagnostic,220-590-390-000 | 861-002-236,"Star, chest, cotton, [lost sign]. | two shares: [236].",unicorn_2
+590,bale/sack-load,L-139,pottery_jar,880-002-032-590-390,"Four [880]; Chest, cotton.",unicorn_5
+590,bale/sack-load,L-196,pottery_jar,000-002-032-590-390 | 861-002,[lost sign]; Four chests; Cotton. | two shares.,unicorn_2; unicorn_5
+590,bale/sack-load,L-198,structure,000-000-055 | 000-002-032-590-390-740,"Two [lost sign], dozen. | Of the [lost sign]-Four-Chest-Cotton house.",unicorn_1; unicorn_5
+590,bale/sack-load,L-202,undiagnostic,220-590-390-000 | 861-002-236,"Star, chest, cotton, [lost sign]. | two shares: [236].",unicorn_2
