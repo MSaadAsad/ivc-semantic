@@ -1,0 +1,23 @@
+catalogue,reference,object_or_text_id,text,other_text,complete,status
+objects,-,2488,705-033-923-740-001,003-422,True,excluded: known formula or connected near-variant
+objects,M-527,3001,706-033-923-740-001,,True,excluded: known formula or connected near-variant
+objects,M-528,3002,706-033-923-740-001,,True,excluded: known formula or connected near-variant
+objects,M-529,3003,706-033-923-740-001,,True,excluded: known formula or connected near-variant
+objects,M-530,3004,706-033-923-740-001,,True,excluded: known formula or connected near-variant
+objects,M-531,3005,000-923-000,,False,excluded: incomplete; family identity unresolved
+objects,M-1482,3747,706-033-923-740,,True,excluded: known formula or connected near-variant
+objects,M-1483,3748,706-033-923-740,,True,excluded: known formula or connected near-variant
+objects,M-1484,3749,706-033-923-740,,True,excluded: known formula or connected near-variant
+objects,M-1485,3750,706-033-923-740,,True,excluded: known formula or connected near-variant
+objects,M-1486,3751,706-033-923-740,,True,excluded: known formula or connected near-variant
+objects,M-1488,3752,706-033-923-740,,True,excluded: known formula or connected near-variant
+objects,M-2042,4023,706-033-923-740,,True,excluded: known formula or connected near-variant
+m77_objects,1704,1704,705-033-923-740-001,003-422,True,excluded: known formula or connected near-variant
+m77_objects,1711,1711,705-033-923-740,,True,excluded: known formula or connected near-variant
+m77_objects,3328,3328,705-033-923-740-001,,True,excluded: known formula or connected near-variant
+m77_objects,3336,3336,705-033-923-740-001,,True,excluded: known formula or connected near-variant
+m77_objects,3356,3356,705-033-923-740,,True,excluded: known formula or connected near-variant
+m77_objects,3368,3368,705-033-923-740-001,,True,excluded: known formula or connected near-variant
+m77_objects,3388,3388,705-033-923-740,,True,excluded: known formula or connected near-variant
+m77_objects,3390,3390,705-033-923-740-001,,True,excluded: known formula or connected near-variant
+m77_objects,3392,3392,705-033-923-740,,True,excluded: known formula or connected near-variant

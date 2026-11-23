@@ -1,5 +1,7 @@
 # Diary
 
+- 2026-11-23: Executed frozen 923 copper-family eligibility screen:22 raw candidate records across overlapping catalogues,21 known-family exclusions and one incomplete,zero new-family trials. New-event pool has38 copper/85 other tablet events and zero923 cases. Recovered20 catalogue image files; inspected three previously unverified candidate pairs without establishing physical identity and retained two missing-image candidates. Added three published Lothal links with object-specific support/context labels from Frenez2020 tables, retaining a later L-6/L-208 prose discrepancy. These are source recovery,not new die discoveries. No independently identified contents; neither proposed semantic experiment run. Colab units:0.
+
 Dated one-liners of what was tried. Newest at the bottom.
 
 - 2026-11-17: Findspot test. Mohenjo-daro seals from the same room within 3 ft of depth share an uncommon middle sign in 5 pairs against 0.73 by chance. `research/extensions_20261117/findspot_room/`.

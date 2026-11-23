@@ -1,0 +1,64 @@
+{
+  "raw_first_catalogue_rows": 189,
+  "raw_second_catalogue_rows": 135,
+  "sign923_raw_rows": 22,
+  "known_formula_rows": 21,
+  "incomplete_rows": 1,
+  "eligible_different_formula_rows": 0,
+  "animal_prediction_trials": 0,
+  "animal_prediction_test_run": false,
+  "event_counts": [
+    {
+      "event_source": "lipi",
+      "kind": "ctab",
+      "event_rows": 151,
+      "sign923_event_rows": 8,
+      "note": "Copy-events, not raw objects. Sources overlap; never sum as independent finds."
+    },
+    {
+      "event_source": "lipi",
+      "kind": "mtab",
+      "event_rows": 1138,
+      "sign923_event_rows": 2,
+      "note": "Copy-events, not raw objects. Sources overlap; never sum as independent finds."
+    },
+    {
+      "event_source": "new",
+      "kind": "ctab",
+      "event_rows": 38,
+      "sign923_event_rows": 0,
+      "note": "Copy-events, not raw objects. Sources overlap; never sum as independent finds."
+    },
+    {
+      "event_source": "new",
+      "kind": "mtab",
+      "event_rows": 85,
+      "sign923_event_rows": 0,
+      "note": "Copy-events, not raw objects. Sources overlap; never sum as independent finds."
+    },
+    {
+      "event_source": "mah_all",
+      "kind": "ctab",
+      "event_rows": 110,
+      "sign923_event_rows": 7,
+      "note": "Copy-events, not raw objects. Sources overlap; never sum as independent finds."
+    },
+    {
+      "event_source": "mah_all",
+      "kind": "mtab",
+      "event_rows": 228,
+      "sign923_event_rows": 1,
+      "note": "Copy-events, not raw objects. Sources overlap; never sum as independent finds."
+    }
+  ],
+  "warning": "Catalogue rows overlap. Zero eligible trials is absence of a test, not failed prediction.",
+  "exact_text_candidates": 15,
+  "existing_candidate_physical_matches_verified_here": 0,
+  "candidate_pairs_both_images_reviewed_here": 3,
+  "published_seal_impression_links_recovered": 3,
+  "published_links_with_source_conflict": 1,
+  "independently_verified_new_die_matches": 0,
+  "issuer_contents_test_run": false,
+  "issuer_contents_eligible_trials": 0,
+  "colab_units": 0
+}

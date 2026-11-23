@@ -6,6 +6,8 @@ This continuation starts from work-branch commit **`727dfd411a4faa44d193d2047575
 
 ## Deliverables
 
+The [animal/die follow-up](context_associations/results/animal_die_followup.html) checks the two proposed experiments against actual source eligibility. It finds no fresh 923 copper family, recovers candidate photographs and three published Lothal physical links, and joins their support/context labels. No independent contents labels were recovered. Neither semantic experiment is falsely reported as run; prior animal work and published identifications are credited.
+
 The [Elamite unresolved-sign extension](elamite_validation/UNREAD_ELAMITE.md) searches possible borrowed terms without requiring a Dravidian recipient or modern cognate. It inventories 541 uncovered sign IDs, with reviewed rebus directions touching 25, and releases 348 sign–catalogue-face contexts. Potential court values for 362/621 and offspring for 202 remain candidates. [Actual signs and proposed gap fills](elamite_validation/results/unread_elamite.html).
 
 The [open-target Elamite rebus discovery](elamite_validation/OPEN_REBUS.md) searches new picture-to-meaning directions instead of rechecking the frozen Dravidian-oriented pairs. Roof ku-uk → protection and jar pi-ti → enemy piti-r are its priority lexical leads; neither is in the inspected old Elamite candidate table. All 417 drawings, 24/73 covered picture nouns, 680 raw witnesses and a qualified source review are released. The candidates are not new translations. [Open the sign illustrations](elamite_validation/results/open_rebus.html).

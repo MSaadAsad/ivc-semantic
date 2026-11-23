@@ -36,7 +36,9 @@ for name,dest in folders:
             if f in {'DIMENSION_TEST.md','CONCORDANCE.md','OPEN_REBUS.md','NEAR_MATCHES.md','MEANING_COMPARISON.md','UNREAD_ELAMITE.md','COHERENCE_REVIEW.md'}:(dest/f).write_text((src/f).read_text().replace('(results/','('))
             else:shutil.copy2(src/f,dest/f)
     if name in {'context_validation','capacity_validation'}:shutil.copy2(src/'run.py',dest/'run.py')
-    if name=='context_associations':shutil.copy2(src/'animal_followup_feasibility.py',dest/'animal_followup_feasibility.py')
+    if name=='context_associations':
+        for script in ['animal_followup_feasibility.py','animal_die_followup.py']:
+            shutil.copy2(src/script,dest/script)
     if name=='capacity_validation':
         for script in ['dimensions.py','illustrate_dimensions.py']:shutil.copy2(src/script,dest/script)
     if name=='elamite_validation':

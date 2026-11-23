@@ -1,0 +1,7 @@
+event_source,kind,event_rows,sign923_event_rows,note
+lipi,ctab,151,8,"Copy-events, not raw objects. Sources overlap; never sum as independent finds."
+lipi,mtab,1138,2,"Copy-events, not raw objects. Sources overlap; never sum as independent finds."
+new,ctab,38,0,"Copy-events, not raw objects. Sources overlap; never sum as independent finds."
+new,mtab,85,0,"Copy-events, not raw objects. Sources overlap; never sum as independent finds."
+mah_all,ctab,110,7,"Copy-events, not raw objects. Sources overlap; never sum as independent finds."
+mah_all,mtab,228,1,"Copy-events, not raw objects. Sources overlap; never sum as independent finds."
