@@ -1,0 +1,16 @@
+{
+  "reviewed_upstream_snapshot": "727dfd411a4faa44d193d204757540d45c7b139b",
+  "pictured_copper_subset_rows": 90,
+  "motif_labels": 17,
+  "elephant_subset_rows": 11,
+  "elephant_set_texts": 2,
+  "elephant_existing_families": 1,
+  "exact_text_die_candidate_pairs": 15,
+  "impression_faces": 13,
+  "seal_faces": 6,
+  "physical_die_matches_verified_here": 0,
+  "new_animal_prediction_test_run": false,
+  "existing_transfer_test_rows_released": 5,
+  "interpretation": "Prior-work/feasibility check only. Existing text-family observations and matches are credited to Cuper.",
+  "colab_units": 0
+}

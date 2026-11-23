@@ -1,3 +1,8 @@
+# Animal research: existing results and pending work (2026-11-23)
+
+- `measured` Cúper already tests animal/sign associations and cross-object transfer. In his pictured-copper table,11 elephant records occupy two near texts and one existing family. Fifteen exact-text seal/impression candidate pairs still lack physical die verification in this continuation. [Prior work and feasible extensions](research/independent_validation_20261120/context_associations/PHYSICAL_NEXT_TESTS.md).
+- `guess` Seek genuinely new elephant-tablet designs before testing a frozen923 animal prediction. Physical die identification on the existing candidate pairs is a separate first step toward comparing a seal's fixed text with independent package/use contexts; neither is a completed decipherment test.
+
 # Unresolved-sign Elamite terms, recipient language unspecified (2026-11-23)
 
 - `measured` The unresolved-key search finds 48 sign/direction rows touching25 IDs, with348 recorded sign–catalogue-face contexts. These are candidate mappings, not decoded words. [Illustrated report](research/independent_validation_20261120/elamite_validation/results/unread_elamite.html).

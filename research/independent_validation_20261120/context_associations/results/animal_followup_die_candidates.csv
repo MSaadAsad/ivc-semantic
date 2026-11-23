@@ -1,0 +1,16 @@
+imp_face,imp_cisi,imp_type,imp_site,imp_area,imp_building,imp_bin,imp_animal,imp_signs,n,match,seal_face,seal_cisi,seal_site,seal_area,seal_building,seal_bin,seal_animal,seal_signs,seal_kind,animal_agree,place
+1938.1,K-82,TAG:L,Kalibangan,KLB-1,Kalibangan|KLB-1|XA1,middle,unicorn,861-002-003-390,4,exact,2228.1,M-1697,Mohenjo-daro,DKG. (S),Mohenjo-daro|DKG. (S)|8III,late,unicorn,861-002-003-390,other,yes,other city
+1938.1,K-82,TAG:L,Kalibangan,KLB-1,Kalibangan|KLB-1|XA1,middle,unicorn,861-002-003-390,4,exact,3137.1,M-712,Mohenjo-daro,DKB,Mohenjo-daro|DKB|4IX,early,unicorn,861-002-003-390,other,yes,other city
+2088.1,L-146,TAG:O,Lothal,SRG 3L 5,,,unicorn,705-033-520,3,exact,2649.1,M-122,Mohenjo-daro,DKG. (N),Mohenjo-daro|DKG. (N)|20I,late,unicorn,705-033-520,name,yes,other city
+2088.1,L-146,TAG:O,Lothal,SRG 3L 5,,,unicorn,705-033-520,3,exact,3658.1,M-1359,Mohenjo-daro,DKG. (S),Mohenjo-daro|DKG. (S)|12V,middle,,705-033-520,name,,other city
+2093.1,L-161,TAG:B,Lothal,SRG 3GX 10,,,elephant,817-002-048-740,4,exact,3300.1,M-895,Mohenjo-daro,DKG. (S),Mohenjo-daro|DKG. (S)|7I,late,unicorn,817-002-048-740,name,no,other city
+2094.1,L-162,TAG:B,Lothal,,,,elephant,817-002-048-740,4,exact,3300.1,M-895,Mohenjo-daro,DKG. (S),Mohenjo-daro|DKG. (S)|7I,late,unicorn,817-002-048-740,name,no,other city
+2095.1,L-163,TAG:B,Lothal,,,,elephant,817-002-048-740,4,exact,3300.1,M-895,Mohenjo-daro,DKG. (S),Mohenjo-daro|DKG. (S)|7I,late,unicorn,817-002-048-740,name,no,other city
+2096.1,L-164,TAG:B,Lothal,,,,elephant,817-002-048-740,4,exact,3300.1,M-895,Mohenjo-daro,DKG. (S),Mohenjo-daro|DKG. (S)|7I,late,unicorn,817-002-048-740,name,no,other city
+2097.1,L-165,TAG:B,Lothal,,,,elephant,817-002-048-740,4,exact,3300.1,M-895,Mohenjo-daro,DKG. (S),Mohenjo-daro|DKG. (S)|7I,late,unicorn,817-002-048-740,name,no,other city
+2098.1,L-166,TAG:B,Lothal,,,,elephant,817-002-048-740,4,exact,3300.1,M-895,Mohenjo-daro,DKG. (S),Mohenjo-daro|DKG. (S)|7I,late,unicorn,817-002-048-740,name,no,other city
+2099.1,L-167,TAG:B,Lothal,,,,elephant,817-002-048-740,4,exact,3300.1,M-895,Mohenjo-daro,DKG. (S),Mohenjo-daro|DKG. (S)|7I,late,unicorn,817-002-048-740,name,no,other city
+2100.1,L-168,TAG:B,Lothal,,,,elephant,817-002-048-740,4,exact,3300.1,M-895,Mohenjo-daro,DKG. (S),Mohenjo-daro|DKG. (S)|7I,late,unicorn,817-002-048-740,name,no,other city
+2101.1,L-169,TAG:B,Lothal,,,,elephant,817-002-048-740,4,exact,3300.1,M-895,Mohenjo-daro,DKG. (S),Mohenjo-daro|DKG. (S)|7I,late,unicorn,817-002-048-740,name,no,other city
+2102.1,L-170,TAG:B,Lothal,,,,elephant,817-002-048-740,4,exact,3300.1,M-895,Mohenjo-daro,DKG. (S),Mohenjo-daro|DKG. (S)|7I,late,unicorn,817-002-048-740,name,no,other city
+3872.2,-,TAG:L,Rupar,,,,unicorn,017-585-740,3,exact,2324.1,M-1777,Mohenjo-daro,DKG. (S),Mohenjo-daro|DKG. (S)|7I,late,unicorn,017-585-740,name,yes,other city
