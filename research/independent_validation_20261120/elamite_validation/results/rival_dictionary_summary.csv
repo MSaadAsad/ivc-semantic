@@ -1,0 +1,7 @@
+language,scope,covered,mean_similarity,exact_hits,dictionary_form_head_pairs,interpretation
+Elamite,all_covered,34,0.21020074696545285,0,3536,descriptive control; unequal dictionaries; no language ranking inference
+Elamite,common_coverage,24,0.21438492063492062,0,3536,descriptive control; unequal dictionaries; no language ranking inference
+Sumerian,all_covered,43,0.1267995570321152,0,974,descriptive control; unequal dictionaries; no language ranking inference
+Sumerian,common_coverage,24,0.10763888888888888,0,974,descriptive control; unequal dictionaries; no language ranking inference
+Akkadian,all_covered,53,0.155360886492962,0,720,descriptive control; unequal dictionaries; no language ranking inference
+Akkadian,common_coverage,24,0.14325396825396822,0,720,descriptive control; unequal dictionaries; no language ranking inference

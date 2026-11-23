@@ -1,0 +1,11 @@
+category,filename,rows,morphology_populated,semantics_populated,cognate_flagged
+ADJ,ADJ-EWB-EJSmith.csv,581,452,1,75
+DN,DN-EWB-EJSmith.csv,337,215,323,50
+GN,GN-EWB-EJSmith.csv,1755,922,1612,575
+Magic,Magic-EWB-EJSmith.csv,64,17,0,1
+N,N-EWB-EJSmith.csv,4190,3265,309,1136
+Other,Other-EWB-EJSmith.csv,786,587,24,42
+PN,PN-hyp-EWB-EJSmith.csv,30,22,28,1
+ScribalError,ScribalError-EWB-EJSmith.csv,68,33,6,14
+Uncalss,Uncalss-EWB-EJSmith.csv,927,519,5,10
+V,V-EWB-EJSmith.csv,1700,1651,0,15

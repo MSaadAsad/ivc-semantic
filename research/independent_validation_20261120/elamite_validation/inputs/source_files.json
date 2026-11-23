@@ -1,0 +1,63 @@
+{
+  "repository": "DigitalPasts/ALP-MEGA2024",
+  "commit": "3160b20f5cd84b387343d071749bb90419148743",
+  "files": [
+    {
+      "path": "Elamite_materials/EWB-EJSmithFiles/ADJ-EWB-EJSmith.csv",
+      "blob_sha": "82406fdf07e7aff33900f0a0ef03783fff7ac1f4",
+      "size_bytes": 104955
+    },
+    {
+      "path": "Elamite_materials/EWB-EJSmithFiles/DN-EWB-EJSmith.csv",
+      "blob_sha": "916bc8f570924a80ea0d8b0fbb8378e149d557ce",
+      "size_bytes": 67304
+    },
+    {
+      "path": "Elamite_materials/EWB-EJSmithFiles/GN-EWB-EJSmith.csv",
+      "blob_sha": "e5c8941d52b6853016c35278fb9ab58f4648ed95",
+      "size_bytes": 392832
+    },
+    {
+      "path": "Elamite_materials/EWB-EJSmithFiles/Magic-EWB-EJSmith.csv",
+      "blob_sha": "615f7ff6b4833573a0518ab38f8e955264297f15",
+      "size_bytes": 9169
+    },
+    {
+      "path": "Elamite_materials/EWB-EJSmithFiles/N-EWB-EJSmith.csv",
+      "blob_sha": "aee3b66fe71023d8893d5d87ca38553f582f3028",
+      "size_bytes": 817496
+    },
+    {
+      "path": "Elamite_materials/EWB-EJSmithFiles/Other-EWB-EJSmith.csv",
+      "blob_sha": "c5227dbe912934de390e74b21f5a700ff6760927",
+      "size_bytes": 122406
+    },
+    {
+      "path": "Elamite_materials/EWB-EJSmithFiles/PN-EWB-EJSmith.csv",
+      "blob_sha": "5a7893ca43dd3910a7128c96133ad3b12f4c828c",
+      "size_bytes": 1286044
+    },
+    {
+      "path": "Elamite_materials/EWB-EJSmithFiles/PN-hyp-EWB-EJSmith.csv",
+      "blob_sha": "09634081a94bd31c43ea0abbb2962072c421de2b",
+      "size_bytes": 5018
+    },
+    {
+      "path": "Elamite_materials/EWB-EJSmithFiles/ScribalError-EWB-EJSmith.csv",
+      "blob_sha": "53b082cfcca65cb8f2399b88dd125d13645646ba",
+      "size_bytes": 13998
+    },
+    {
+      "path": "Elamite_materials/EWB-EJSmithFiles/Uncalss-EWB-EJSmith.csv",
+      "blob_sha": "dcdc28e14c6f81cb7dbc3e20d8f0cd1b6bf12ec0",
+      "size_bytes": 106782
+    },
+    {
+      "path": "Elamite_materials/EWB-EJSmithFiles/V-EWB-EJSmith.csv",
+      "blob_sha": "6c0d3ba14e11b965dfc1ac7c6b4c91ad86d4b67b",
+      "size_bytes": 295068
+    }
+  ],
+  "retrieved_date": "2026-11-22",
+  "note": "Personal-name CSV exceeds connector file limit and is not needed for lexical testing; excluded. Raw CSVs cached outside the research repo."
+}

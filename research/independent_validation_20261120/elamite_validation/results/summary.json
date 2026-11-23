@@ -1,0 +1,75 @@
+{
+  "source_rows_retrieved": 10438,
+  "common_category_rows": 8184,
+  "eligible_source_rows": 4158,
+  "pool_sizes": [
+    {
+      "pool": "all",
+      "eligible_source_rows": 4158,
+      "unique_form_head_pairs": 4035,
+      "unique_phon_forms": 3975,
+      "unique_heads": 1571
+    },
+    {
+      "pool": "unflagged",
+      "eligible_source_rows": 3649,
+      "unique_form_head_pairs": 3536,
+      "unique_phon_forms": 3482,
+      "unique_heads": 1248
+    },
+    {
+      "pool": "pre_achaemenid_unflagged",
+      "eligible_source_rows": 2254,
+      "unique_form_head_pairs": 2175,
+      "unique_phon_forms": 2154,
+      "unique_heads": 912
+    },
+    {
+      "pool": "old_labelled_unflagged",
+      "eligible_source_rows": 320,
+      "unique_form_head_pairs": 312,
+      "unique_phon_forms": 312,
+      "unique_heads": 204
+    }
+  ],
+  "pair_formulations": 178,
+  "current_sign_inventory": 163,
+  "direct_claims": 67,
+  "primary_rebus": {
+    "pool": "unflagged",
+    "mode": "phon",
+    "panel": "fixed48",
+    "claims": 48,
+    "both_covered": 12,
+    "hits": 0,
+    "target_null_mean": 0.0,
+    "target_p": 1.0,
+    "sound_null_mean": 0.0023002300230023,
+    "sound_p": 1.0
+  },
+  "primary_direct": {
+    "pool": "unflagged",
+    "mode": "phon",
+    "claims": 67,
+    "covered": 34,
+    "mean_similarity": 0.21020074696545285,
+    "exact_hits": 0,
+    "similarity_null_mean": 0.2046054838910595,
+    "similarity_p": 0.3647,
+    "exact_null_mean": 0.0,
+    "exact_p": 1.0
+  },
+  "primary_holm": {
+    "rebus_target": 1.0,
+    "rebus_sound": 1.0,
+    "direct_similarity": 1.0,
+    "direct_exact": 1.0
+  },
+  "controls_per_test": 9999,
+  "primary_gloss_field": "morphology lexical head; full-head matching",
+  "missing_personal_name_file_excluded": true,
+  "historical_sound_correspondence_test_run": false,
+  "independent_indus_semantic_assignment": false,
+  "runtime_seconds": 39.05,
+  "colab_units": 0
+}

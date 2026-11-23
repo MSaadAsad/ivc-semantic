@@ -1,0 +1,135 @@
+language,sign,title,proposed_root,covered,similarity,exact_hit,best_word,best_head
+Sumerian,740,jar → house,*kuṭi/*kuṭam,True,0.19999999999999996,False,ma,house; temple
+Sumerian,700,bowl / hollow → measure,*aḷa / *akal,False,0,False,,
+Sumerian,400,comb → small / junior,*cikka/*cikkam,True,0.19999999999999996,False,banda₃,child; infant; junior; minor; offspring; progeny; short; small; young; young one
+Sumerian,220,fish → star,*mīṉ,True,0.33333333333333337,False,mul,constellation; glitter; radiate; sparkle; star; to be radiant; to shine
+Sumerian,520,spear → chief,*vēḷ/*vēl,True,0.33333333333333337,False,mes,); alternative form of 𒄑𒈩 (^mes; hero; lad; vigorous youth; young man; ⁠mes⁠
+Sumerian,390,tree → sew / weave,*tai,False,0,False,,
+Sumerian,861,eye / sight → weight / property,*kāṇam / *kaṇ,True,0.0,False,nig̃₂-gur₁₁,property
+Sumerian,820,wheel → quarter / leg,*kāl,True,0.0,False,g̃ir₃,foot; path; route; way
+Sumerian,320,step / ladder → ration / measure,*paṭi,True,0.0,False,šuku,field; food allocation; plot; ration; subsistence allotment
+Sumerian,590,basket / plait → bale / load,*mūṭai,True,0.2857142857142857,False,gu-nig̃in₂,bale
+Sumerian,615,loom frame → field plot,*accu,True,0.25,False,a-gar₃,arable land; field; irrigation district; meadow
+Sumerian,705,threshing floor → vessel / ship,*kalam/*kaḷam,True,0.19999999999999996,False,ma₂,boat; ship
+Sumerian,176,sit / remain → tribute,*iṟai/*iru,False,0,False,,
+Sumerian,090,man → manager / ruler,*āḷ,False,0,False,,
+Sumerian,233,split → dawn / light,*veṭi-mīṉ,False,0,False,,
+Sumerian,415,fork / branch → seize,*kavar,False,0,False,,
+Sumerian,920,moon ↔ month,*tiṅkaḷ,True,0.16666666666666663,False,itu,month; moon
+Sumerian,407,branch → cloth,*kōṭi,False,0,False,,
+Sumerian,806,stalk → millet,*kampu ~ *kāmpu,True,0.0,False,še,180 𒂅; 20 gr; a weight measure; barley; ca. 1; equal to 1; grain; that
+Sumerian,798,shell → bind / build house,*toṭu / *iṭukku,True,0.0,False,ma,house; temple
+Sumerian,255,crocodile → first / principal,"*mutal [crocodile->first/principal, DEDR 4952/4950, 2-br PhonSt]",True,0.19999999999999996,False,sag̃,beginning; fore; front; head
+Sumerian,840,pair ↔ join,*iṇai,False,0,False,,
+Sumerian,760,sprout ↔ young / child,*kuruku / *koḻuntu,True,0.33333333333333337,False,dumu,child; citizen; daughter; son
+Sumerian,368,flag → give / grant,*koṭi ~ *koṭu,False,0,False,,
+Sumerian,690,tie ↔ bundle / building,*kaṭṭu / *piṇai,False,0,False,,
+Sumerian,550,waist / middle → district,*nāṭu,True,0.25,False,ma-da,country; countryside; district; frontier; land; territory
+Sumerian,892,bow → sell,*vil,True,0.0,False,sam₂,alternative form of 𒉛; price
+Sumerian,140,mother / lady ↔ goddess,*ammā,True,0.0,False,dig̃ir,deity; god; goddess
+Sumerian,154,carrying pole → guard,*kā,False,0,False,,
+Sumerian,142,staff → smith,*kōl / *kol,True,0.0,False,an-bar,iron
+Sumerian,503,mountain → garland,*malai ~ *mālai,False,0,False,,
+Sumerian,440,corner → vessel,*mukku,True,0.19999999999999996,False,uri,vessel
+Sumerian,435,hook → attendant,*tōṭṭi,True,0.0,False,subur,servant; slave
+Sumerian,845,line → tax,*vari (hatched 840),False,0,False,,
+Sumerian,850,eye → copper,*kaṇ/*kaṉ,True,0.19999999999999996,False,zabar,bronze; bronze vessel; bronze-ware; bronzes
+Sumerian,717,foot ↔ servant,*aṭi,True,0.0,False,subur,servant; slave
+Sumerian,413,grain → tax / cut,"*ari [ear-of-grain->tax/cut, DEDR 215/216/212, 2-br PhonEx]",True,0.33333333333333337,False,tar,cut; cut down; loosen; separate; to divide; to untie
+Sumerian,350,fence → watchman,*toṭṭi / *koṭṭakai,True,0.0,False,subur,servant; slave
+Sumerian,460,shoot → garland,*kaṇṇi,False,0,False,,
+Sumerian,482,mountain → king,*kō,True,0.0,False,lugal,king; lord
+Sumerian,480,point → vessel,*tūtai (metal/vessel unit),True,0.4,False,uri,vessel
+Sumerian,335,frame → pot,*koḍame / *caṭṭi (grain-bin rung),True,0.19999999999999996,False,uri,vessel
+Sumerian,540,drum ↔ capacity measure,*paṟai,False,0,False,,
+Sumerian,630,cage → assemble / store,*kūṭu,False,0,False,,
+Sumerian,171,hang ↔ weigh,*tūṅku / *niṟai (weight std),True,0.16666666666666663,False,g̃eš-rin₂,scales
+Sumerian,831,blade → grain,*alaku,True,0.0,False,še,180 𒂅; 20 gr; a weight measure; barley; ca. 1; equal to 1; grain; that
+Sumerian,165,bend / snail → cauldron,*kūṉ,True,0.0,False,ᵘʳᵘᵈšen,cauldron
+Sumerian,104,leap → collect / levy,*taṇṭu,True,0.19999999999999996,False,šab,collect; dig; draw; incise; make clear; peel; to cut
+Sumerian,923,horn / tusk,*maruppu,True,0.0,False,si,finger; horn; to fill
+Sumerian,500,sail,*pāy,False,0,False,,
+Sumerian,790,circle / bangle,*vaḷai,False,0,False,,
+Sumerian,215,rice,*arici,False,0,False,,
+Sumerian,854,sesame,*eḷ,False,0,False,,
+Sumerian,711,vessel / capacity measure,*vaḷḷam,True,0.16666666666666663,False,ma₂,boat; ship
+Sumerian,575,capacity measure kōṭṭai,*kōṭṭai,False,0,False,,
+Sumerian,235,light component of roofed fish,*oḷi-mīṉ,True,0.0,False,g̃eš-nu₁₁,light
+Sumerian,060,inside component / locative,*-uḷ / *-iṉ (loc.-obl.),True,0.0,False,ša₃,heart; inside; interior; middle; womb
+Sumerian,001,numeral one,*oru,True,0.33333333333333337,False,ur₅,he; liver; one; that; this same; to smell
+Sumerian,002,numeral two,*iru,True,0.0,False,min,2; two
+Sumerian,003,numeral three,*mū,True,0.0,False,eš₅,3; three
+Sumerian,004,numeral four,*nāl,True,0.0,False,limmu₅,4; four
+Sumerian,005,numeral five,*ai,False,0,False,,
+Sumerian,006,numeral six,*aṟu,True,0.33333333333333337,False,aš₃,6; six
+Sumerian,007,numeral seven,*ēḻ,True,0.0,False,imin,7; all; many; seven
+Sumerian,025,numeral nine,*oṉpatu,True,0.16666666666666663,False,ilimmu,9; alternative form of 𒑆; nine
+Sumerian,028,numeral ten,*pattu,False,0,False,,
+Sumerian,055,numeral twelve,*paṉṉiru,False,0,False,,
+Akkadian,740,jar → house,*kuṭi/*kuṭam,True,0.33333333333333337,False,kimtum,family; kin
+Akkadian,700,bowl / hollow → measure,*aḷa / *akal,True,0.2857142857142857,False,madādum,measure; pay; survey; to measure out
+Akkadian,400,comb → small / junior,*cikka/*cikkam,True,0.1428571428571429,False,ṣeḫērum,a minor; childhood; few; little; to be small; to be underage; to be young
+Akkadian,220,fish → star,*mīṉ,True,0.16666666666666663,False,bibbum,plague; planet; star; wild sheep
+Akkadian,520,spear → chief,*vēḷ/*vēl,True,0.16666666666666663,False,malkum,king; prince; ruler
+Akkadian,390,tree → sew / weave,*tai,False,0,False,,
+Akkadian,861,eye / sight → weight / property,*kāṇam / *kaṇ,True,0.25,False,makkūrum,assets; property; valuables
+Akkadian,820,wheel → quarter / leg,*kāl,True,0.0,False,šēpum,"""foot""; access; approach; attack; conveyance; foot; leg; person; rank; routing; self; transport"
+Akkadian,320,step / ladder → ration / measure,*paṭi,True,0.1428571428571429,False,madādum,measure; pay; survey; to measure out
+Akkadian,590,basket / plait → bale / load,*mūṭai,True,0.1428571428571429,False,narūqum,a business partnership; a dry measure; bag; sack
+Akkadian,615,loom frame → field plot,*accu,True,0.19999999999999996,False,mātum,flat country; foreign country; home country; inhabitants of a country; land; native land; territory
+Akkadian,705,threshing floor → vessel / ship,*kalam/*kaḷam,True,0.1428571428571429,False,eleppum,boat; ship
+Akkadian,176,sit / remain → tribute,*iṟai/*iru,True,0.2222222222222222,False,argamannu,red purple; tribute
+Akkadian,090,man → manager / ruler,*āḷ,True,0.1428571428571429,False,gamārum,annihilate; completeness; control; end; finality; to bring to an end; to come to an end; to do something completely; to encompass; to finish; to use up
+Akkadian,233,split → dawn / light,*veṭi-mīṉ,True,0.2857142857142857,False,šērum,dawn; morning; morning star
+Akkadian,415,fork / branch → seize,*kavar,True,0.4285714285714286,False,gamārum,annihilate; completeness; control; end; finality; to bring to an end; to come to an end; to do something completely; to encompass; to finish; to use up
+Akkadian,920,moon ↔ month,*tiṅkaḷ,True,0.0,False,warḫum,month; moon; new moon
+Akkadian,407,branch → cloth,*kōṭi,False,0,False,,
+Akkadian,806,stalk → millet,*kampu ~ *kāmpu,True,0.19999999999999996,False,ûm,barley; grain; grain as unit of measure; pine nut
+Akkadian,798,shell → bind / build house,*toṭu / *iṭukku,True,0.25,False,markasum,bond; cable; closure; rope; tie
+Akkadian,255,crocodile → first / principal,"*mutal [crocodile->first/principal, DEDR 4952/4950, 2-br PhonSt]",True,0.16666666666666663,False,šīmtum,death; destiny; determined order; divine decree; fate; nature of things; original amount; principal; testament; will
+Akkadian,840,pair ↔ join,*iṇai,False,0,False,,
+Akkadian,760,sprout ↔ young / child,*kuruku / *koḻuntu,True,0.16666666666666663,False,ṣeḫrum,child; servant; verbal adjective of ṣeḫērum:
+Akkadian,368,flag → give / grant,*koṭi ~ *koṭu,True,0.16666666666666663,False,qiāšum,give; grant; make a votive offering; to bestow
+Akkadian,690,tie ↔ bundle / building,*kaṭṭu / *piṇai,True,0.19999999999999996,False,ašrum,building; city; country; locale; location; place; region; setting; site
+Akkadian,550,waist / middle → district,*nāṭu,True,0.19999999999999996,False,ašrum,building; city; country; locale; location; place; region; setting; site
+Akkadian,892,bow → sell,*vil,False,0,False,,
+Akkadian,140,mother / lady ↔ goddess,*ammā,True,0.0,False,iltum,goddess
+Akkadian,154,carrying pole → guard,*kā,True,0.1428571428571429,False,naṣārum,protect; to watch over
+Akkadian,142,staff → smith,*kōl / *kol,True,0.11111111111111116,False,parzillum,"""iron stone""; a kind of stone or bead; iron"
+Akkadian,503,mountain → garland,*malai ~ *mālai,False,0,False,,
+Akkadian,440,corner → vessel,*mukku,True,0.0,False,kāsum,a cup; bowl; cup; goblet
+Akkadian,435,hook → attendant,*tōṭṭi,True,0.0,False,abdu,servant; slave
+Akkadian,845,line → tax,*vari (hatched 840),False,0,False,,
+Akkadian,850,eye → copper,*kaṇ/*kaṉ,True,0.125,False,siparrum,bronze; fetters
+Akkadian,717,foot ↔ servant,*aṭi,True,0.25,False,abdu,servant; slave
+Akkadian,413,grain → tax / cut,"*ari [ear-of-grain->tax/cut, DEDR 215/216/212, 2-br PhonEx]",False,0,False,,
+Akkadian,350,fence → watchman,*toṭṭi / *koṭṭakai,True,0.125,False,abdu,servant; slave
+Akkadian,460,shoot → garland,*kaṇṇi,False,0,False,,
+Akkadian,482,mountain → king,*kō,True,0.16666666666666663,False,malkum,king; prince; ruler
+Akkadian,480,point → vessel,*tūtai (metal/vessel unit),True,0.1428571428571429,False,madādum,measure; pay; survey; to measure out
+Akkadian,335,frame → pot,*koḍame / *caṭṭi (grain-bin rung),False,0,False,,
+Akkadian,540,drum ↔ capacity measure,*paṟai,True,0.2857142857142857,False,madādum,measure; pay; survey; to measure out
+Akkadian,630,cage → assemble / store,*kūṭu,False,0,False,,
+Akkadian,171,hang ↔ weigh,*tūṅku / *niṟai (weight std),True,0.2222222222222222,False,gišrinnum,scales
+Akkadian,831,blade → grain,*alaku,True,0.0,False,ûm,barley; grain; grain as unit of measure; pine nut
+Akkadian,165,bend / snail → cauldron,*kūṉ,True,0.1428571428571429,False,agannum,a large bowl; cauldron
+Akkadian,104,leap → collect / levy,*taṇṭu,True,0.4285714285714286,False,balāṭum,be alive; be healthy; good health; life; lifetime; recover; to get well; to live; vigor
+Akkadian,923,horn / tusk,*maruppu,True,0.2857142857142857,False,qarnum,fringe; horn; power; shoot
+Akkadian,500,sail,*pāy,False,0,False,,
+Akkadian,790,circle / bangle,*vaḷai,True,0.0,False,idum,arm; border; bracelet; edge; fathom; handle of an instrument; side; span; strength; wing
+Akkadian,215,rice,*arici,False,0,False,,
+Akkadian,854,sesame,*eḷ,False,0,False,,
+Akkadian,711,vessel / capacity measure,*vaḷḷam,True,0.2857142857142857,False,madādum,measure; pay; survey; to measure out
+Akkadian,575,capacity measure kōṭṭai,*kōṭṭai,True,0.0,False,madādum,measure; pay; survey; to measure out
+Akkadian,235,light component of roofed fish,*oḷi-mīṉ,True,0.0,False,nūrum,fire; lamp; light
+Akkadian,060,inside component / locative,*-uḷ / *-iṉ (loc.-obl.),True,0.16666666666666663,False,libbum,abdomen; desire; heart; inner part; inside; intention; mind; preference; thought; wish; womb
+Akkadian,001,numeral one,*oru,True,0.16666666666666663,False,mannum,anyone; each; every person; one; someone; who; whoever
+Akkadian,002,numeral two,*iru,True,0.25,False,šinā,2; two
+Akkadian,003,numeral three,*mū,True,0.0,False,šalāšat,3; three
+Akkadian,004,numeral four,*nāl,True,0.0,False,erbet,4; four
+Akkadian,005,numeral five,*ai,True,0.16666666666666663,False,ḫamšat,5; five
+Akkadian,006,numeral six,*aṟu,True,0.0,False,šeššet,6; six
+Akkadian,007,numeral seven,*ēḻ,True,0.19999999999999996,False,sebet,7; seven
+Akkadian,025,numeral nine,*oṉpatu,True,0.16666666666666663,False,tišīt,9; nine
+Akkadian,028,numeral ten,*pattu,True,0.0,False,ešeret,10; ten
+Akkadian,055,numeral twelve,*paṉṉiru,False,0,False,,

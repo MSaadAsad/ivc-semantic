@@ -1,0 +1,164 @@
+sign,proposed_root,proposed_meaning,direct_claim_tested,has_frozen_pair_recipe,scope
+740,*kuṭi/*kuṭam,house,True,True,fixed direct claim
+002,*iru,2,True,False,fixed direct claim
+700,*aḷa / *akal,measure,True,True,fixed direct claim
+032,*iru,2,False,False,inventory only; no frozen standalone claim
+033,*mū,3,False,False,inventory only; no frozen standalone claim
+400,*cikka/*cikkam,junior,True,True,fixed direct claim
+220,*mīṉ,star,True,True,fixed direct claim
+240,*katir-mīṉ / *cāy-mīṉ,rayed-star,False,True,additional pair recipe only
+520,*vēḷ/*vēl,lord,True,True,fixed direct claim
+390,*tai,weave/cloth,True,True,fixed direct claim
+861,*kāṇam / *kaṇ,kāṇam-share,True,True,fixed direct claim
+003,*mū,3,True,False,fixed direct claim
+820,*kāl,quarter-share,True,True,fixed direct claim
+001,*oru,1,True,False,fixed direct claim
+235,*oḷi-mīṉ,bright-star,True,True,fixed direct claim
+031,*oru,1,False,False,inventory only; no frozen standalone claim
+060,*-uḷ / *-iṉ (loc.-obl.),in/of,True,True,fixed direct claim
+590,*mūṭai,bale/sack-load,True,True,fixed direct claim
+741,*oru-kuṭi,single-house,False,True,additional pair recipe only
+615,*accu,loom-reed/plot,True,True,fixed direct claim
+705,*kalam/*kaḷam,ship/kalam-measure,True,True,fixed direct claim
+176,*iṟai/*iru,tax/tribute,True,True,fixed direct claim
+817,*kāṇam / *kaṇ,kāṇam-share,False,True,additional pair recipe only
+090,*āḷ,manager,True,True,fixed direct claim
+233,*veṭi-mīṉ,dawn-star,True,True,fixed direct claim
+034,*nāl,4,False,False,inventory only; no frozen standalone claim
+415,*kavar,branch/control,True,True,fixed direct claim
+920,*tiṅkaḷ,month/moon,True,True,fixed direct claim
+405,"390 *tai (M169 tree allograph, 13 swaps, P=0.0050)",weave/cloth,False,True,additional pair recipe only
+407,*kōṭi,new-cloth,True,True,fixed direct claim
+806,*kampu ~ *kāmpu,millet/grain,True,True,fixed direct claim
+798,*toṭu / *iṭukku,bound-guild,True,True,fixed direct claim
+255,"*mutal [crocodile->first/principal, DEDR 4952/4950, 2-br PhonSt]",principal/first,True,True,fixed direct claim
+803,*kampu ~ *kāmpu,millet/grain,False,True,additional pair recipe only
+100,*talai,chief,False,True,additional pair recipe only
+156,"154 *kā (M15 yoke-load/guard allograph, 5 swaps, P=0.0092)",guard/porter,False,True,additional pair recipe only
+840,*iṇai,pair/pact,True,True,fixed direct claim
+760,*kuruku / *koḻuntu,youth/scion,True,True,fixed direct claim
+368,*koṭi ~ *koṭu,grant/banner,True,True,fixed direct claim
+690,*kaṭṭu / *piṇai,bundle/store,True,True,fixed direct claim
+550,*nāṭu,district,True,True,fixed direct claim
+900,*tiṅkaḷ,month/moon,False,True,additional pair recipe only
+892,*vil,sale/price,True,True,fixed direct claim
+140,*ammā,matron/lady,True,True,fixed direct claim
+004,*nāl,4,True,False,fixed direct claim
+151,*kā,guard/porter,False,True,additional pair recipe only
+142,*kōl / *kol,"HOLDOUT RESCUED: Person w/ vertical staff (M25): exact 2-br PhonEx (Fixed & Raw) DEDR 2237 kōl ('stick, staff') <-> 2133 kol ('working in iron, blacksmith') + DIRECT 4660 maṭṭam ('measure, rule, gauging rod'); MD copper tablets L OR=7.34x, N OR=22.41x; 46/76 (60.5% non-final, 55.4% all 83) precede 615/617 *accu (OR=101.6x, Fisher P=2.43e-61)",True,True,fixed direct claim
+061,*kāl,quarter-share,False,False,inventory only; no frozen standalone claim
+503,*malai ~ *mālai,garland/bead-strand,True,True,fixed direct claim
+706,"705 *kalam (M336 allograph, 17 swaps, P=0.0024)",ship/kalam-measure,False,True,additional pair recipe only
+231,*uḷ-mīṉ / *iṟai-mīṉ [220 + 1 internal stroke],inner-star,False,True,additional pair recipe only
+055,*paṉṉiru,12,True,False,fixed direct claim
+017,*ēḻ,7,False,False,inventory only; no frozen standalone claim
+575,*kōṭṭai,kōṭṭai(665L),True,False,fixed direct claim
+440,*mukku,goblet/corner,True,True,fixed direct claim
+435,*tōṭṭi,attendant,True,True,fixed direct claim
+617,*iru-accu (2x 615),twin-plot/loom,False,False,inventory only; no frozen standalone claim
+790,*vaḷai,bangle,True,True,fixed direct claim
+125,"*vil-āḷ [090 *āḷ + 892 *vil bow/sell, 2-br PhonEx, P=0.049]",merchant,False,True,additional pair recipe only
+845,*vari (hatched 840),tax/levy,True,True,fixed direct claim
+595,*mūṭai-vari,"HOLDOUT RESCUED: Horizontally striped 590 chest (M252): exact 2-br PhonEx (Fixed & Raw) DEDR 5263 vari ('line, stripe, draw') <-> 5266 vari ('tax, impost, duty, toll'); Track B proves unseen ctab jump 0/42->9/25 (P=4.78e-5) & post-numeral {001,002} jump 1/177 (0.6%)->19/38 (50.0%) (vs 590 OR=176.0x, P=8.55e-16; vs bg OR=12.2x, P=4.98e-12)",False,True,additional pair recipe only
+904,"*iru-tiṅkaḷ [2× 900 *tiṅkaḷ, cR=0.905, P_cR=0.049]",two-month,False,False,inventory only; no frozen standalone claim
+850,*kaṇ/*kaṉ,copper/eye,True,True,fixed direct claim
+717,*aṭi,base/foundational,True,True,fixed direct claim
+005,*ai,5,True,False,fixed direct claim
+752,*kuruku / *koḻuntu,youth/scion,False,True,additional pair recipe only
+416,*iru-kavar / *tuṟai,port/double-branch,False,True,additional pair recipe only
+413,"*ari [ear-of-grain->tax/cut, DEDR 215/216/212, 2-br PhonEx]",grain-tax/cut,True,True,fixed direct claim
+016,*aṟu,6,False,False,inventory only; no frozen standalone claim
+013,*mū (stacked 3),3,False,False,inventory only; no frozen standalone claim
+832,*uḷ-vaḷai / *oru-vaḷai,inner-bangle,False,False,inventory only; no frozen standalone claim
+742,*iru-kuṭi [740 + 2 internal strokes],twin-house,False,True,additional pair recipe only
+350,*toṭṭi / *koṭṭakai,"Fence/cattle-yard (M175): exact 2-br PhonEx (Fixed & Raw) DEDR 3485 toṭṭi ('fence, yard, pound, enclosure, small village') <-> 3546 tōṭṭi ('village watchman') + DIRECT 3485 & 2058 koṭṭakai ('cattle-shed'); TIER-1 unseen-replicated Ghaggar-Hakra Agro-Pastoral Headwaters (L OR=4.99x, N OR=5.05x)",True,True,fixed direct claim
+154,*kā,guard/porter,True,True,fixed direct claim
+460,*kaṇṇi,"Three triangular shoots (M230): exact 2-br PhonEx DEDR 1353 kaṇṇi ('shoot or branch growing') <-> 1184 kaṇṇi ('wreath, garland, neckrope') + DIRECT 3119 taḻai; 11/99 of locked 503/495 *mālai immediately precede 460 (OR=56.9x, Fisher P=5.96e-15); triggers Key 4D WorkshopAllo 463",True,True,fixed direct claim
+923,*maruppu,ivory/tusk,True,True,fixed direct claim
+226,*mīṉ-[CAGE] [220 + 4-corner finalizer],caged-star,False,False,inventory only; no frozen standalone claim
+158,"154 *kā (M15 closer allograph, 6 swaps, P=0.0024)",guard/porter,False,False,inventory only; no frozen standalone claim
+745,*mū-kuṭi [740 + 3 internal strokes],three-house,False,False,inventory only; no frozen standalone claim
+482,*kō,"Crowned mountain caret w/ diamond at apex (M135): exact 2-br PhonEx (Fixed & Raw) DEDR 2178 kō ('mountain') <-> 2177 kō ('emperor, king, great man, leadership') + PhonEx 5552/5549 vai ('point <-> store'); Sangam TAM23 kōṉ; 19/497 of 240/235 *mīṉ precede 482 (OR=29.9x, P=8.46e-18), 31/33 (93.9%) precede 740/752 *kuṭi (OR=98.9x, P=6.43e-25)",True,True,fixed direct claim
+480,*tūtai (metal/vessel unit),"Tall narrow caret/point (M134): Track B metrology lock — 19/23 (82.6%) non-final tokens immediately precede numerals {001,031,032,003} vs 5.9% bg (OR=75.5x, Fisher P=4.30e-20); TIER-1 unseen-replicated Copper-Tool Weight & Vessel Capacity Unit + PhonSt DEDR 3314 tuti ('point') <-> 3385 tūtai ('small vessel, measure')",True,True,fixed direct claim
+335,*koḍame / *caṭṭi (grain-bin rung),"Double-chamber M-bin (M192): Track B metrology ladder lock — 13/28 (46.4%) precede 711 *vaḷḷam vs 0/11,012 bg (Fisher P=6.49e-36, 100% of all 711 occurrences!), 16/60 of 575 *kōṭṭai precede 335 (OR=332.4x, P=1.89e-30); DIRECT 2047 koḍame ('double basket') + PhonSt 2304/2306; unlocks 413-575-335-711-033-700 (10x)",True,True,fixed direct claim
+540,*paṟai,"Bowtie / hourglass drum (M214): exact 2-br DIRECT (Fixed & Raw) DEDR 4032 paṟai ('drum; a measure of capacity') + Sangam TAM77 paṟai; TIER-1 unseen-replicated Bulk Ceramic Vessel / Dry-Measure Container Mark (Pottery, L OR=3.46x, N OR=6.06x); 41% standalone (540 11x, 540-540 2x); cosL=0.92, cosR=0.92 w/ locked goblet-stamp 440 *mukku",True,True,fixed direct claim
+630,*kūṭu,"Tall rectangle w/ top+bottom teeth / cage-coop (M244/P270): exact 2-br PhonEx (Fixed & Raw) DEDR 1883 kūṭu ('birdcage, coop, pen, receptacle') <-> 1882 kūṭu ('assemble, join, be stored up') + PhonSt 1883/1655 kuṭi + Sangam TAM55 kūṭu ('granary, store-enclosure'); 630-740 (13/25), Harappa Depot Ration; cascades Key 4D cluster 630|632|637|634|635",True,True,fixed direct claim
+236,*oḷi-mīṉ-[CAGE] [235 + 4-corner finalizer],bright-star(caged),False,True,additional pair recipe only
+091,*iru-āḷ / *iruvar (2x 090),two-managers,False,False,inventory only; no frozen standalone claim
+171,*tūṅku / *niṟai (weight std),"Balance-beam T w/ two hanging pans (M409): Track B metrology lock — 20/21 (95.2%) non-final tokens immediately precede tall numerals {035,032,033} (5 or 3) vs 4.6% bg (OR=415.5x, Fisher P=5.15e-26); DIRECT DEDR 3376 tūṅku ('hang, suspend, weigh') + Sangam TAM85 niṟai ('weight standard, balance')",True,True,fixed direct claim
+632,*kūṭu,"Verified M244/P270 Key 4D cluster twin of newly locked 630 *kūṭu (identical shape_desc, TIER-1 unseen-replicated Bronze/Copper Tool Registry Enclosure Sign, 16L/6N intact)",False,False,inventory only; no frozen standalone claim
+831,*alaku,"Leaf w/ diagonal central rib / blade-feather (M379): exact 2-br PhonEx (Fixed & Raw) DEDR 237 alaku ('blade, weaver's stay') <-> 255 alaku ('grains of paddy, ear of paddy'); 831-892 (*vil sale, 4x), 831-615 (*accu field-plot, 4x), Foreign Export Circuit (Luristan); triggers Key 4D PureAllo 833",True,True,fixed direct claim
+165,*kūṉ,"Curved dome w/ inward spiral curl / snail (M319): exact 2-br PhonEx (Fixed & Raw) DEDR 1927 kūṉ ('bend, curve, hump, snail') <-> 1928 kūṉ ('cauldron'); 900 *tiṅkaḷ precedes 165 8/92x (OR=148.9x, Fisher P=1.05e-13), MD copper tablets (5x)",True,True,fixed direct claim
+104,*taṇṭu,"Person w/ half-height caret at right foot / striding man (M41): exact 2-br PhonEx (Fixed & Raw) DEDR 3158 tāṇṭu ('step over, leap across, stride') <-> 3054 taṇṭu ('collect, levy, recover'); 104 precedes 645 7/19 non-final (36.8%, OR=428.0x, Fisher P=2.14e-15), Bar-Seal Commodity/Allotment anchor",True,True,fixed direct claim
+500,*pāy,sail/voyage,True,True,fixed direct claim
+035,*ai,5,False,False,inventory only; no frozen standalone claim
+495,*malai ~ *mālai,"Verified Track B allograph of locked 503 *malai ~ *mālai (adjacent M205/M204): cosL=0.964, cosR=0.786 (Rank 1/169, 5,000-shuf P=0.00020) & 8 exact (L,R) frame swaps (Rank 1/169, P=0.00020); triggers Key 4D PureAllo 491",False,False,inventory only; no frozen standalone claim
+175,*iru / *iṟai (plain base),"T6 HOLD RESCUED: Plain seated person (M47) is exact uncaged base of locked 176 (M48 seated + 4 strokes): inverse cage_4corners signature cosL=0.910, cosR=0.195, cL-cR=+0.714, dF400=+0.663 (exact 5,000-shuf P_score=0.00480, P_joint=0.00240, matching all 5 locked cage pairs)",False,False,inventory only; no frozen standalone claim
+097,*[BRACKET]-āḷ [090 + side brackets],bracketed-manager,False,False,inventory only; no frozen standalone claim
+555,*nāṭu (gate-bound var.),"Contextual allograph of newly locked 550 *nāṭu (identical pincer shape M222/M216): 9 exact (L,R) frame swaps w/ 550 (Rank 1/169, 5,000-shuf P=0.00020) & 19/19 (100.0%) immediately precede 527/526 (Fisher P=5.60e-45)",False,False,inventory only; no frozen standalone claim
+320,*paṭi,ration/paṭi,True,True,fixed direct claim
+436,*tōṭṭi,attendant,False,False,inventory only; no frozen standalone claim
+491,*malai ~ *mālai,Key 4D PureAllo inherited from newly locked 495 (*malai ~ *mālai),False,False,inventory only; no frozen standalone claim
+463,*kaṇṇi,Key 4D WorkshopAllo inherited from newly locked 460 (*kaṇṇi),False,False,inventory only; no frozen standalone claim
+222,*[BRACKET]-mīṉ [220 + side brackets],bracketed-star,False,True,additional pair recipe only
+711,*vaḷḷam,vaḷḷam(37L),True,False,fixed direct claim
+241,*katir-mīṉ-[CAGE],rayed-star(caged),False,False,inventory only; no frozen standalone claim
+161,*oḷi-kā / *[ROOF]-kā,roofed-guard,False,False,inventory only; no frozen standalone claim
+821,*iru-kāl (2x 820),two-quarters,False,False,inventory only; no frozen standalone claim
+703,*mū-aḷa / *mū-akal,three-measures,False,False,inventory only; no frozen standalone claim
+592,*mūṭai-[CAGE],bale(caged),False,False,inventory only; no frozen standalone claim
+101,"*[BRACKET]-talai [100 + side brackets, cR=0.95]",bracketed-chief,False,False,inventory only; no frozen standalone claim
+056,*24,24,False,False,inventory only; no frozen standalone claim
+215,*arici,rice,True,False,fixed direct claim
+015,*ai,5,False,False,inventory only; no frozen standalone claim
+093,*uḷ-āḷ [090 + 1 internal stroke],inner-manager,False,False,inventory only; no frozen standalone claim
+927,"*iru-tiṅkaḷ [2× 900 *tiṅkaḷ, M294, cR=0.947, P=0.0038]",two-month,False,False,inventory only; no frozen standalone claim
+406,"390 *tai (M169 tree allograph, 5 swaps, P=0.0074)",weave/cloth,False,False,inventory only; no frozen standalone claim
+232,*uḷ-mīṉ-[CAGE] [231 + 4-corner finalizer],inner-star(caged),False,False,inventory only; no frozen standalone claim
+234,*veṭi-mīṉ-[CAGE] [233 + 4-corner finalizer],dawn-star(caged),False,False,inventory only; no frozen standalone claim
+408,"390 *tai (M169 tree allograph, 5 swaps, P=0.0074)",weave/cloth,False,False,inventory only; no frozen standalone claim
+323,*paṭi,ration/paṭi,False,False,inventory only; no frozen standalone claim
+219,*[BRACKET]-āḷ [090 + side brackets],bracketed-manager,False,False,inventory only; no frozen standalone claim
+155,"154 *kā (M15 allograph, cM=0.76, P=0.0076)",guard/porter,False,False,inventory only; no frozen standalone claim
+014,*nāl,4,False,False,inventory only; no frozen standalone claim
+006,*aṟu,6,True,False,fixed direct claim
+007,*ēḻ,7,True,False,fixed direct claim
+804,*kampu-[CAGE],millet(caged),False,False,inventory only; no frozen standalone claim
+704,"705 *kalam (M336 allograph, shares rare R:167/255)",ship/kalam-measure,False,False,inventory only; no frozen standalone claim
+153,"154 *kā (M15 allograph, cR=1.00, P=0.0036)",guard/porter,False,False,inventory only; no frozen standalone claim
+027,*oṉpatu,9,False,False,inventory only; no frozen standalone claim
+392,"390 *tai (M162 allograph, cM=0.74, P=0.0116)",weave/cloth,False,False,inventory only; no frozen standalone claim
+746,"*mū-kuṭi [740 + 3 internal strokes, M345]",three-house,False,False,inventory only; no frozen standalone claim
+103,"*[BRACKET]-talai [100 + side brackets, cR=0.82]",bracketed-chief,False,False,inventory only; no frozen standalone claim
+322,*paṭi,ration/paṭi,False,False,inventory only; no frozen standalone claim
+409,"390 *tai (M169 tree allograph, 5 swaps, P=0.0074)",weave/cloth,False,False,inventory only; no frozen standalone claim
+216,*arici,rice,False,False,inventory only; no frozen standalone claim
+028,*pattu,10,True,False,fixed direct claim
+159,*oḷi-kā / *[ROOF]-kā,roofed-guard,False,False,inventory only; no frozen standalone claim
+637,*kūṭu,Key 4D PureAllo inherited from newly locked 630 (*kūṭu),False,False,inventory only; no frozen standalone claim
+744,*iru-kuṭi [740 + 2 internal strokes],twin-house,False,False,inventory only; no frozen standalone claim
+899,*tiṅkaḷ,month/moon,False,False,inventory only; no frozen standalone claim
+177,*iṟai/*iru,tax/tribute,False,False,inventory only; no frozen standalone claim
+025,*oṉpatu,9,True,False,fixed direct claim
+193,*toṭu / *iṭukku,bound-guild,False,False,inventory only; no frozen standalone claim
+797,*toṭu / *iṭukku,bound-guild,False,False,inventory only; no frozen standalone claim
+160,*oḷi-kā / *[ROOF]-kā,roofed-guard,False,False,inventory only; no frozen standalone claim
+634,*kūṭu,Key 4D WorkshopAllo inherited from newly locked 630 (*kūṭu),False,False,inventory only; no frozen standalone claim
+747,*mū-kuṭi [740 + 3 internal strokes],three-house,False,False,inventory only; no frozen standalone claim
+178,*iṟai/*iru,tax/tribute,False,False,inventory only; no frozen standalone claim
+157,"154 *kā (M15 yoke-load/guard allograph, 5 swaps, P=0.0092)",guard/porter,False,False,inventory only; no frozen standalone claim
+062,*kāl,quarter-share,False,False,inventory only; no frozen standalone claim
+324,*paṭi,ration/paṭi,False,False,inventory only; no frozen standalone claim
+402,*cikka/*cikkam,junior,False,False,inventory only; no frozen standalone claim
+242,*katir-mīṉ (variant),rayed-star,False,False,inventory only; no frozen standalone claim
+807,*kampu-[CAGE],millet(caged),False,False,inventory only; no frozen standalone claim
+195,*toṭu / *iṭukku,bound-guild,False,False,inventory only; no frozen standalone claim
+854,*eḷ,sesame,True,False,fixed direct claim
+743,*iru-kuṭi [740 + 2 internal strokes],twin-house,False,False,inventory only; no frozen standalone claim
+748,*nāl-kuṭi [740 + 4 internal strokes],four-house,False,False,inventory only; no frozen standalone claim
+707,*kalam/*kaḷam,ship/kalam-measure,False,False,inventory only; no frozen standalone claim
+325,*paṭi,ration/paṭi,False,False,inventory only; no frozen standalone claim
+716,*aṭi,base/foundational,False,False,inventory only; no frozen standalone claim
+635,*kūṭu,Key 4D PureAllo inherited from newly locked 630 (*kūṭu),False,False,inventory only; no frozen standalone claim
+833,*alaku,Key 4D PureAllo inherited from newly locked 831 (*alaku),False,False,inventory only; no frozen standalone claim
+008,*eṇ,8,False,False,inventory only; no frozen standalone claim
