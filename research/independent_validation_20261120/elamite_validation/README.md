@@ -4,6 +4,8 @@
 
 The earlier experiments below answer narrower or different questions and are retained with their limitations.
 
+[How close are the one-edit candidates, and do they beat other languages?](NEAR_MATCHES.md) The 496 witnesses reduce to 185 distinct written pairs; 111 are one conservative character apart, 66 are two and eight are three. The “one-edit” rule applies after permissive spelling simplification. The unrestricted search has not been run across the other languages under matched conditions, so it establishes no Elamite advantage.
+
 **A direct sequence experiment has now been run:** the [Elamite-style written-agreement check](CONCORDANCE.md) fits1,373 distinct Lipi formulas and evaluates183 New formulas absent from Lipi, without any proposed words or meanings. Internal validation selects zero weight for repeating earlier candidate grammatical markers; the selected model adds no gain over its word-free baseline. The graphical-cage representation lacks marked test pairs. This checks two conditional written representations, not all possible Elamite grammar or a full reading model. [Open its results](results/concordance.html).
 
 **The user's question is whether Elamite can explain the Indus inscriptions. The dictionary comparison below does not provide a full test of that hypothesis.** An Elamite reading must be allowed to use Elamite words and pronunciations; it need not resemble Cúper's proposed Dravidian sounds. Likewise, Cúper's individual semantic assignments are hypotheses, not independently known translations that every candidate language must reproduce.

@@ -1,0 +1,186 @@
+picture_word,target_word,conservative_picture_key,conservative_target_key,permissive_picture_key,permissive_target_key,conservative_edits,permissive_edits,longer_permissive_length,witness_rows,picture_nouns,picture_heads,target_heads
+a-a-ni-ip,a-ni-ir,anip,anir,anip,anir,1,1,4,1,house,house,anir
+a-a-ni-ip,in-ni-ip,anip,innip,anip,inip,2,1,4,1,house,house,power
+a-a-ni-ri,a-an-ri,aniri,anri,aniri,anri,1,1,5,2,house,house,anbringt;einer
+a-a-ni-ri,a-ni-ir,aniri,anir,aniri,anir,1,1,5,1,house,house,anir
+a-a-ni-ri,aa-an-ri,aniri,anri,aniri,anri,1,1,5,2,house,house,er als sagender = er sagt;sagte
+a-a-ni-ri,ana-ri,aniri,anari,aniri,anari,1,1,5,3,house,house,"= ma-ir;mar;mar-ra zwei""! s 345:rs"
+a-h-in,a-h-iš,ahin,ahiš,ahin,ahiš,1,1,4,2,house,haus;house,pasture
+a-h-in,a-ha-an,ahin,ahan,ahin,ahan,1,1,4,6,house,haus;house,here-n;hier es;hier sie (acc
+a-h-in,a-hi-an,ahin,ahian,ahin,ahian,1,1,5,4,house,haus;house,fruchte  omen rs;fruit
+a-h-in,a-hi-ir,ahin,ahir,ahin,ahir,1,1,4,4,house,haus;house,aha-ir;sandhi-schreibung
+a-h-in,a-hir,ahin,ahir,ahin,ahir,1,1,4,2,house,haus;house,sandhi-schreibung
+a-hi-in,a-h-iš,ahin,ahiš,ahin,ahiš,1,1,4,2,house,haus;house,pasture
+a-hi-in,a-ha-an,ahin,ahan,ahin,ahan,1,1,4,6,house,haus;house,here-n;hier es;hier sie (acc
+a-hi-in,a-hi-an,ahin,ahian,ahin,ahian,1,1,5,4,house,haus;house,fruchte  omen rs;fruit
+a-hi-in,a-hi-ir,ahin,ahir,ahin,ahir,1,1,4,4,house,haus;house,aha-ir;sandhi-schreibung
+a-hi-in,a-hir,ahin,ahir,ahin,ahir,1,1,4,2,house,haus;house,sandhi-schreibung
+ba-ar-e,ba-me,bare,bame,pare,pame,1,1,4,1,seed,seed,work
+ba-ar-e,ba-ra,bare,bara,pare,para,1,1,4,1,seed,seed,bāra
+ba-ar-e,ba-ri,bare,bari,pare,pari,1,1,4,1,seed,seed,bārya
+ba-ar-e,bar-ri,bare,barri,pare,pari,2,1,4,2,seed,seed,glas;offensichtlich ein material
+ba-ar-e,pa-ru,bare,paru,pare,paru,2,1,4,4,seed,seed,gelangend;go-u;reisend;ziehend
+ba-ir,ba-hi-ir,bair,bahir,pair,pahir,1,1,5,2,seed,seed,benefactor;wohltater
+ba-ir,pa-iš,bair,paiš,pair,paiš,2,1,4,1,seed,seed,go
+ba-ri-e,ba-ri,barie,bari,parie,pari,1,1,5,1,seed,seed,bārya
+ba-ri-e,ba-ti-e,barie,batie,parie,patie,1,1,5,1,seed,seed,foot
+ba-ri-e,bar-ri,barie,barri,parie,pari,2,1,5,2,seed,seed,glas;offensichtlich ein material
+ba-ri-e,pa-ri-h,barie,parih,parie,parih,2,1,5,1,seed,seed,go
+ba-ri-e,pa-ri-ik,barie,parik,parie,parik,2,1,5,3,seed,seed,er   gelangte;go;traf ein
+ba-ri-e,pa-ri-ip,barie,parip,parie,parip,2,1,5,4,seed,seed,gelangten zu;go;sie kamen hin;trafen ein
+ba-ri-e,pa-ri-iš,barie,pariš,parie,pariš,2,1,5,1,seed,seed,go
+e-ri-en-tu4-um,e-ri-en-tu4-um-ma,erientum,erientumma,erientum,erientuma,2,1,9,1,brick,brick,brick-in
+e-ri-en-tum4,e-ri-en-tu4-um-ma,erientum,erientumma,erientum,erientuma,2,1,9,1,brick,brick,brick-in
+e-ri-en-tum4-e,e-ri-en-tu4-um,erientume,erientum,erientume,erientum,1,1,9,2,brick,brick,backsteine;gebrannte ziegel
+e-ri-en-tum4-e,e-ri-en-tu4-um-ma,erientume,erientumma,erientume,erientuma,2,1,9,1,brick,brick,brick-in
+el-ti,el-pi,elti,elpi,elti,elpi,1,1,4,3,eye,eye,"bezeichnung eines werkzeuges;hallock  : ""evid;sage{l)"
+el-ti,el-te,elti,elte,elti,elte,1,1,4,1,eye,eye,elt
+ha-a-in,ha-ni-in,hain,hanin,hain,hanin,1,1,5,4,house,haus;house,ich werde heben;love
+ha-a-in,ha-tin,hain,hatin,hain,hatin,1,1,5,2,house,haus;house,east
+ha-al-te-te,ha-al-ti-te,haltete,haltite,haltete,haltite,1,1,7,2,door;gate,door,tiir
+ha-al-te-te,hal-te-me,haltete,halteme,haltete,halteme,1,1,7,2,door;gate,door,harvest
+ha-at-ti,ha-al-li,hatti,halli,hati,hali,2,1,4,3,staff,sceptre,artwork;geschaffenes;werk
+ha-at-ti,ha-ap-ti,hatti,hapti,hati,hapti,1,1,5,6,staff,sceptre,"34 anm;erhore! - aber auch du erhortest ist moglich;erhoret;franchise grillot  : ""ecoute  \ aber (in ja 1974;hear;konig  : ""du erhorst"""
+ha-at-ti,ha-mi,hatti,hami,hati,hami,2,1,4,4,staff,sceptre,ap;da;dort;there
+ha-at-ti,ha-ni,hatti,hani,hati,hani,2,1,4,1,staff,sceptre,love
+ha-at-ti,ha-pi,hatti,hapi,hati,hapi,2,1,4,5,staff,sceptre,ausquetschen;ich presste;press;pressen;quetschte
+ha-at-ti,ha-si,hatti,hasi,hati,hasi,2,1,4,1,staff,sceptre,hazi
+ha-at-ti,ha-te,hatti,hate,hati,hate,2,1,4,1,staff,sceptre,ha-ti
+ha-at-ti,ha-ti-ik,hatti,hatik,hati,hatik,2,1,5,1,staff,sceptre,love2
+ha-at-ti,ha-ti-ir,hatti,hatir,hati,hatir,2,1,5,1,staff,sceptre,within
+ha-at-ti,ha-tin,hatti,hatin,hati,hatin,2,1,5,1,staff,sceptre,east
+ha-at-ti,ha-tu,hatti,hatu,hati,hatu,2,1,4,2,staff,sceptre,in;meistens als locativ ha-tu-ma belegt
+ha-at-ti,ha-zí,hatti,hazi,hati,hazi,2,1,4,1,staff,sceptre,hazi
+ha-at-ti,hal-ti,hatti,halti,hati,halti,1,1,5,1,staff,sceptre,door
+ha-at-ti,hap-ti,hatti,hapti,hati,hapti,1,1,5,1,staff,sceptre,hear
+ha-at-ti,hu-ti,hatti,huti,hati,huti,2,1,4,3,staff,sceptre,in ae strichschrift;werk[?);work
+ha-at-ti,hu-ut-ti,hatti,hutti,hati,huti,1,1,4,2,staff,sceptre,make;werk
+ha-at-ti,hu-ut-ti-ii,hatti,hutti,hati,huti,1,1,4,1,staff,sceptre,er macht
+ha-ra-at,ha-la-at,harat,halat,harat,halat,1,1,5,1,weight,weight,clay
+ha-ra-at,ha-ra-ak,harat,harak,harat,harak,1,1,5,3,weight,weight,es wurde auferlegt;press2;wortlich aufgedruckt
+ha-ra-at,ha-ra-an,harat,haran,harat,haran,1,1,5,2,weight,weight,druck[l);pressure
+ha-ra-at,ha-ra-h,harat,harah,harat,harah,1,1,5,3,weight,weight,druckte;ich presste;press2
+ha-ra-at,ha-ras,harat,haras,harat,haras,1,1,5,1,weight,weight,er druckte
+ha-ra-at,ha-rák,harat,harak,harat,harak,1,1,5,1,weight,weight,press2
+ha-ra-at,ha-ráš,harat,haraš,harat,haraš,1,1,5,1,weight,weight,press2
+hal-ti,ha-al-ki,halti,halki,halti,halki,1,1,5,2,door;gate,door,halki
+hal-ti,ha-al-li,halti,halli,halti,hali,1,1,5,6,door;gate,door,artwork;geschaffenes;werk
+hal-ti,ha-ap-ti,halti,hapti,halti,hapti,1,1,5,12,door;gate,door,"34 anm;erhore! - aber auch du erhortest ist moglich;erhoret;franchise grillot  : ""ecoute  \ aber (in ja 1974;hear;konig  : ""du erhorst"""
+hal-ti,ha-at-ti,halti,hatti,halti,hati,1,1,5,2,door;gate,door,sceptre
+hal-ti,ha-ti,halti,hati,halti,hati,1,1,5,8,door;gate,door,affection;in;innigkeit;zuneigung
+hal-ti,hal-ki,halti,halki,halti,halki,1,1,5,4,door;gate,door,halki;suss (ami n
+hal-ti,hal-mi,halti,halmi,halti,halmi,1,1,5,4,door;gate,door,sealed.document
+hal-ti,hal-pi,halti,halpi,halti,halpi,1,1,5,12,door;gate,door,erschlug;gemetzel;ich schlug;massaker;smite;sterben
+hal-ti,hap-ti,halti,hapti,halti,hapti,1,1,5,2,door;gate,door,hear
+hi-el,hi-en,hiel,hien,hiel,hien,1,1,4,4,door;gate,door;tor,obtain
+hi-el,hu-el,hiel,huel,hiel,huel,1,1,4,12,door;gate,door;tor,pforte;portat;ubertragen   hof
+hu-el,hi-el,huel,hiel,huel,hiel,1,1,4,12,door;gate,door;tor,pforte;portal;ubertragen  hof
+hu-sa-a,hu-ma,husa,huma,husa,huma,1,1,4,1,tree,tree,entnahme
+hu-sa-a,hu-pa,husa,hupa,husa,hupa,1,1,4,1,tree,tree,follow
+hu-sa-a,hu-qa,husa,huqa,husa,huqa,1,1,4,1,tree,tree,hu-ka
+hu-sa-a,hu-si,husa,husi,husa,husi,1,1,4,1,tree,tree,bypassing
+hu-sa-a,hu-su,husa,husu,husa,husu,1,1,4,2,tree,tree,in ae strichschrift;vergeltung{l)
+hu-sa-a,hu-ud-da,husa,hudda,husa,huta,2,1,4,5,tree,tree,auch sache;ich tat;machte;make;werk
+kas-su-ip,kar-ru-ip,kassuip,karruip,kasuip,karuip,2,1,6,4,horn,horn,berufsbezeichnung;kar;verscheucher = polizisten;vertrciber
+kas-su-ip,kar-su-ip,kassuip,karsuip,kasuip,karsuip,1,1,7,1,horn,horn,karsu
+kas-su-ip,kás-zí-ip,kassuip,kaszip,kasuip,kaszip,2,1,6,1,horn,horn,strike
+ku-iš,ku-ir,kuiš,kuir,kuiš,kuir,1,1,4,1,house,house,kuir
+ku-iš,ku-iz,kuiš,kuiz,kuiš,kuiz,1,1,4,4,house,house,bear;er brachte;verschliffen;wie schon r
+ku-iš,ku-iš-h,kuiš,kuišh,kuiš,kuišh,1,1,5,1,house,house,butcher
+ku-iš,ku-si-iš,kuiš,kusiš,kuiš,kusiš,1,1,5,1,house,house,build
+ku-iš,ku-ti-iš,kuiš,kutiš,kuiš,kutiš,1,1,5,1,house,house,bear
+ku-iš,ku-ši-iš,kuiš,kušiš,kuiš,kušiš,1,1,5,1,house,house,build
+ku-iš,kur-ri-iš,kuiš,kurriš,kuiš,kuriš,2,1,5,1,house,house,order2
+kás-su,gal-lu,kassu,gallu,kasu,kalu,3,1,4,1,horn,horn,gal
+mi-mu-ra-gi-ir,mi-mu-ra-ši-ir,mimuragir,mimurašir,mimurakir,mimurašir,1,1,9,1,man,mann,mimuraš
+na-b-hu-un-te,na-h-hu-un-de,nabhunte,nahhunde,naphunte,nahunte,2,1,8,1,sun,sonne,nahhunte
+na-b-hu-un-te,na-h-hu-un-te,nabhunte,nahhunte,naphunte,nahunte,1,1,8,1,sun,sonne,nahhunte
+na-h-hu-te,na-h-hu-un-de,nahhute,nahhunde,nahute,nahunte,2,1,7,1,sun,sonne,nahhunte
+na-h-hu-te,na-h-hu-un-te,nahhute,nahhunte,nahute,nahunte,1,1,7,1,sun,sonne,nahhunte
+na-h-hu-te,na-ru-de,nahhute,narude,nahute,narute,3,1,6,1,sun,sonne,gottin narunde
+na-h-hu-te,na-ru-te,nahhute,narute,nahute,narute,2,1,6,1,sun,sonne,gottin narundc
+na-hu-te,na-h-hu-un-de,nahute,nahhunde,nahute,nahunte,3,1,7,1,sun,sun,nahhunte
+na-hu-te,na-h-hu-un-te,nahute,nahhunte,nahute,nahunte,2,1,7,1,sun,sun,nahhunte
+na-hu-te,na-ru-de,nahute,narude,nahute,narute,2,1,6,1,sun,sun,gottin narunde
+na-hu-te,na-ru-te,nahute,narute,nahute,narute,1,1,6,1,sun,sun,gottin narundc
+pi-ti,ba-ti,piti,bati,piti,pati,2,1,4,4,jar,gefass;jug,bati;bezirk{?) falls — h
+pi-ti,be-ti,piti,beti,piti,peti,2,1,4,6,jar,gefass;jug,enemy;feind;oruru rs
+pi-ti,bi-ti-ir,piti,bitir,piti,pitir,2,1,5,6,jar,gefass;jug,enemy;feind;so richtig schon v
+pi-ti,pi-da,piti,pida,piti,pita,2,1,4,6,jar,gefass;jug,ick scharfte ein;pida;proklamierte
+pi-ti,pi-hi,piti,pihi,piti,pihi,1,1,4,4,jar,gefass;jug,"hailock  : ""evid;weinkeller"
+pi-ti,pi-ik-ti,piti,pikti,piti,pikti,1,1,5,6,jar,gefass;jug,assistance;beistand;unterstutzung
+pi-ti,pi-ir-ri,piti,pirri,piti,piri,2,1,4,4,jar,gefass;jug,datteln{l)\ s;piri
+pi-ti,pi-is-si,piti,pissi,piti,pisi,2,1,4,6,jar,gefass;jug,gedenktafel;pišši;schrifttafet
+pi-ti,pi-li,piti,pili,piti,pili,1,1,4,2,jar,gefass;jug,work
+pi-ti,pi-ri,piti,piri,piti,piri,1,1,4,2,jar,gefass;jug,piri
+pi-ti,pi-ti-ik,piti,pitik,piti,pitik,1,1,5,4,jar,gefass;jug,er   ging verloren;lose
+pi-ti,pi-ti-ir,piti,pitir,piti,pitir,1,1,5,4,jar,gefass;jug,enemy;feind
+pi-ti,pi-tu4,piti,pitu,piti,pitu,1,1,4,2,jar,gefass;jug,goat
+pi-ti,pi-tú,piti,pitu,piti,pitu,1,1,4,2,jar,gefass;jug,goat
+pi-ti,pi-ut-ti,piti,piutti,piti,piuti,2,1,5,4,jar,gefass;jug,feigen;piut
+pi-ti,pil-li,piti,pilli,piti,pili,2,1,4,2,jar,gefass;jug,bedeutung unbekannt
+pi-ti,pu-ti,piti,puti,piti,puti,1,1,4,6,jar,gefass;jug,ausdruck hal-mi;seal;stegel
+pi-tu4,pi-da,pitu,pida,pitu,pita,2,1,4,3,goat,goat,ick scharfte ein;pida;proklamierte
+pi-tu4,pi-ti,pitu,piti,pitu,piti,1,1,4,4,goat,goat,auch krug;gefass;jug;unsicher
+pi-tu4,pi-tu4-um,pitu,pitum,pitu,pitum,1,1,5,1,goat,goat,bītānū
+pi-tu4,pír-ru,pitu,pirru,pitu,piru,2,1,4,1,goat,goat,together
+pi-tú,pi-da,pitu,pida,pitu,pita,2,1,4,3,goat,goat,ick scharfte ein;pida;proklamierte
+pi-tú,pi-ti,pitu,piti,pitu,piti,1,1,4,4,goat,goat,auch krug;gefass;jug;unsicher
+pi-tú,pi-tu4-um,pitu,pitum,pitu,pitum,1,1,5,1,goat,goat,bītānū
+pi-tú,pír-ru,pitu,pirru,pitu,piru,2,1,4,1,goat,goat,together
+pu-tu4,pu-hu,putu,puhu,putu,puhu,1,1,4,5,goat,goat,"boy;cameron  : u girl "";child;in strichschrift des 23;madchen"
+pu-tu4,pu-ti,putu,puti,putu,puti,1,1,4,3,goat,goat,ausdruck hal-mi;seal;stegel
+pu-tu4,pu-ud-da,putu,pudda,putu,puta,3,1,4,1,goat,goat,again
+pu-tu4,pu-uk-tu4,putu,puktu,putu,puktu,1,1,5,1,goat,goat,assistance
+pu-tu4-ba,bu-gu-pa,putuba,bugupa,putupa,pukupa,3,1,6,1,goat,goat,vergeltende(p]
+pu-tú,pu-hu,putu,puhu,putu,puhu,1,1,4,5,goat,goat,"boy;cameron  : u girl "";child;in strichschrift des 23;madchen"
+pu-tú,pu-ti,putu,puti,putu,puti,1,1,4,3,goat,goat,ausdruck hal-mi;seal;stegel
+pu-tú,pu-ud-da,putu,pudda,putu,puta,3,1,4,1,goat,goat,again
+pu-tú,pu-uk-tu4,putu,puktu,putu,puktu,1,1,5,1,goat,goat,assistance
+qa-as-su,qa-am-su,qassu,qamsu,qasu,qamsu,1,1,5,2,horn,horn,kamusaš
+qa-bar,qa-ap-pa-ak,qabar,qappak,qapar,qapak,3,1,5,2,box,kasten,eingeschlossen;include
+qa-bar,qa-ap-pa-áš,qabar,qappaš,qapar,qapaš,3,1,5,1,box,kasten,include
+si-h-ha,si-ba,sihha,siba,siha,sipa,2,1,4,12,teeth,tooth;zahn;zahne,"favour;gunst erweis;koch (ami erg;konig  : ""zur weihe  n"
+si-h-ha,si-i-la,sihha,sila,siha,sila,2,1,4,3,teeth,tooth;zahn;zahne,likeness
+si-h-ha,si-ik-ka,sihha,sikka,siha,sika,2,1,4,3,teeth,tooth;zahn;zahne,aus einem vermutlich ae beschworungstext
+si-h-ha,si-il-ha,sihha,silha,siha,silha,1,1,5,6,teeth,tooth;zahn;zahne,"konig  : ""starke 7 "";stark"
+si-h-ha,si-ip-pa,sihha,sippa,siha,sipa,2,1,4,3,teeth,tooth;zahn;zahne,favour
+si-h-ha,si-it-ta,sihha,sitta,siha,sita,2,1,4,9,teeth,tooth;zahn;zahne,gunstig;heil;sit
+si-h-ha,si-la,sihha,sila,siha,sila,2,1,4,9,teeth,tooth;zahn;zahne,in strichschrift;lesung nicht gesichert;likeness
+si-h-ha,si-ma,sihha,sima,siha,sima,2,1,4,6,teeth,tooth;zahn;zahne,front-in;vor
+si-h-ha,si-ra,sihha,sira,siha,sira,2,1,4,12,teeth,tooth;zahn;zahne,einer;front;ich hangte;vor
+si-h-ha,si11-ma,sihha,sima,siha,sima,2,1,4,3,teeth,tooth;zahn;zahne,front
+si-h-ha,siii-ma,sihha,sima,siha,sima,2,1,4,3,teeth,tooth;zahn;zahne,vor
+si-ik-qa,si-ik-ka,sikqa,sikka,sikqa,sika,1,1,5,1,pillar,pfeiler,aus einem vermutlich ae beschworungstext
+si-ik-qa,si-ik-na,sikqa,sikna,sikqa,sikna,1,1,5,2,pillar,pfeiler,es moge verfestigt werden!  -ut-ki-en za-ra-ak hu-ul tu-ut-ki-en si-ik-na;si
+si-ik-qa,si-ik-qa-h,sikqa,sikqah,sikqa,sikqah,1,1,6,1,pillar,pfeiler,erect
+si-ir-ri,sa-ri,sirri,sari,siri,sari,2,1,4,6,cup,schale,= sanri ein kommender;= sar;ich zerstorte;in ae strichschrift;sa-ri-h;travel-
+si-ir-ri,saii-ri,sirri,sairi,siri,sairi,2,1,5,2,cup,schale,falls za-h-ru-um waage bedeuten sollte;wager{l)
+si-ir-ri,si-it-ti,sirri,sitti,siri,siti,2,1,4,3,cup,schale,gesund;heil;sit
+si-ir-ri,si-mi,sirri,simi,siri,simi,2,1,4,3,cup,schale,alt si-mu (fs;enjoying;geniess cntf
+si-ir-ri,si-ra,sirri,sira,siri,sira,2,1,4,4,cup,schale,einer;front;ich hangte;vor
+si-ir-ri,si-ti-i,sirri,siti,siri,siti,2,1,4,5,cup,schale,"gesund;heil;in wohlbehagen;konig  : ""wohlbehagen   7 "";sit"
+sir-ri-me,sir-me,sirrime,sirme,sirime,sirme,2,1,6,1,weight,gewicht,hang
+uk-ku-ra-ap,u-uk-ku-ra,ukkurap,ukkura,ukurap,ukura,1,1,6,3,shield,schild,auf etwas ist;eigentlich ri-ukku-ra;einer
+uk-ku-ra-ap,uk-ku-ap,ukkurap,ukkuap,ukurap,ukuap,1,1,6,2,shield,schild,konto;unter uk-ap
+uk-ku-ra-ap,uk-ku-ra,ukkurap,ukkura,ukurap,ukura,1,1,6,1,shield,schild,uber   ist
+ú-pa-at,i-bat,upat,ibat,upat,ipat,2,1,4,3,brick,brick,dass dieses wort dem logogramm gis;stoppelfeld] hallock   hat gesehen;strohweide
+ú-pa-at,ú-pa-at-ta,upat,upatta,upat,upata,2,1,5,1,brick,brick,clay
+ú-pa-at,ú-pa-áš,upat,upaš,upat,upaš,1,1,4,1,brick,brick,step
+šà-ma,šu-ma,šama,šuma,šama,šuma,1,1,4,1,heart,heart,triumph
+šà-ma,šá-da,šama,šada,šama,šata,1,1,4,1,heart,heart,šyāta
+šà-ma,šá-ma-ak,šama,šamak,šama,šamak,1,1,5,1,heart,heart,line
+šà-ma,šá-pa,šama,šapa,šama,šapa,1,1,4,1,heart,heart,«šapa»
+šà-ma,šá-ra,šama,šara,šama,šara,1,1,4,1,heart,heart,under
+šà-ma,šá-áš-šá,šama,šašša,šama,šaša,2,1,4,1,heart,heart,heretofore
+šà-ri,ša-li,šari,šali,šari,šali,1,1,4,1,heart,heart,spear
+šà-ri,ša-ri-h,šari,šarih,šari,šarih,1,1,5,1,heart,heart,pour
+šà-ri,ša-ri-ik,šari,šarik,šari,šarik,1,1,5,1,heart,heart,pour
+šà-ri,ši-ri,šari,širi,šari,širi,1,1,4,1,heart,heart,benefit
+šà-ri,šà-ni,šari,šani,šari,šani,1,1,4,1,heart,heart,«šani»
+šà-ri,šà-ri-ir,šari,šarir,šari,šarir,1,1,5,1,heart,heart,ša
+šà-ri,šà-ti,šari,šati,šari,šati,1,1,4,1,heart,heart,priest
+šà-ri,šá-ag-gi,šari,šaggi,šari,šaki,2,1,4,1,heart,heart,substitute
+šà-ri,šá-ak-ri,šari,šakri,šari,šakri,1,1,5,2,heart,heart,son
+šà-ri,šá-gi,šari,šagi,šari,šaki,1,1,4,1,heart,heart,šak
+šà-ri,šá-ra,šari,šara,šari,šara,1,1,4,1,heart,heart,under
