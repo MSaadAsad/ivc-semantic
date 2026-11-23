@@ -1,0 +1,297 @@
+{
+  "research_question": "Does an explicit Elamite-style agreement representation improve prediction of Indus signs?",
+  "primary_direction": "as_stored",
+  "uses_dravidian_words": false,
+  "uses_proposed_sign_meanings": false,
+  "fits_elamite_pronunciations": false,
+  "language_identified": false,
+  "source_sha256": {
+    "work_data/sense/events_lipi.json": "40522e3054d8d10a648aeb6d18478fef60313bbb49162c4284c1cc363026b552",
+    "work_data/sense/events_new.json": "f0a193dcc4873ba420076b7300236fcc60f3772c043fead5c3bf2f1b7adc1cdb",
+    "work_data/signlist/mark_families.csv": "f135a6b040bcb10e9e7627cd26c2d9f5b25b4e0e499b1744471e7615f950f38e"
+  },
+  "train_counts": {
+    "raw_objects": 4476,
+    "raw_faces": 5403,
+    "eligible_faces": 1654,
+    "unique_eligible_formulas": 1373,
+    "rejected": {
+      "fewer_than_four_signs": 3096,
+      "damaged_or_non_numeric_ID_transcription": 653
+    }
+  },
+  "new_counts": {
+    "raw_objects": 990,
+    "raw_faces": 1121,
+    "eligible_faces": 205,
+    "unique_eligible_formulas": 189,
+    "rejected": {
+      "damaged_or_non_numeric_ID_transcription": 314,
+      "fewer_than_four_signs": 602
+    }
+  },
+  "new_formulas_excluded_for_training_overlap": 6,
+  "training_formulas": 1373,
+  "test_formulas": 183,
+  "linear_models": [
+    {
+      "direction": "as_stored",
+      "inner_train_formulas": 1109,
+      "inner_validation_formulas": 264,
+      "candidate_suffix_count": 55,
+      "candidate_suffixes": [
+        "060",
+        "061",
+        "070",
+        "090",
+        "100",
+        "125",
+        "140",
+        "142",
+        "151",
+        "176",
+        "220",
+        "231",
+        "233",
+        "235",
+        "240",
+        "255",
+        "350",
+        "368",
+        "388",
+        "390",
+        "400",
+        "405",
+        "407",
+        "415",
+        "435",
+        "440",
+        "455",
+        "503",
+        "520",
+        "527",
+        "550",
+        "575",
+        "590",
+        "595",
+        "617",
+        "690",
+        "692",
+        "700",
+        "705",
+        "706",
+        "717",
+        "740",
+        "741",
+        "760",
+        "798",
+        "803",
+        "806",
+        "817",
+        "820",
+        "840",
+        "861",
+        "892",
+        "900",
+        "904",
+        "920"
+      ],
+      "fitted_copy_coefficient": 0.0,
+      "validation": {
+        "formulas": 264,
+        "predicted_positions": 670,
+        "copy_opportunities": 468,
+        "actual_copy_repeats": 7,
+        "mean_gain_bits_per_predicted_sign": 0.0,
+        "mean_joint_gain_bits_per_formula": 0.0,
+        "formula_bootstrap_95_percentile_interval": [
+          0.0,
+          0.0
+        ]
+      },
+      "test": {
+        "formulas": 183,
+        "predicted_positions": 496,
+        "copy_opportunities": 326,
+        "actual_copy_repeats": 6,
+        "mean_gain_bits_per_predicted_sign": 0.0,
+        "mean_joint_gain_bits_per_formula": 0.0,
+        "formula_bootstrap_95_percentile_interval": [
+          0.0,
+          0.0
+        ]
+      },
+      "zero_coefficient_interpretation": "If coefficient=0, agreement and baseline predictions are identical by construction; a zero interval is not precise evidence against all agreement."
+    },
+    {
+      "direction": "reversed",
+      "inner_train_formulas": 1109,
+      "inner_validation_formulas": 264,
+      "candidate_suffix_count": 55,
+      "candidate_suffixes": [
+        "060",
+        "061",
+        "070",
+        "090",
+        "100",
+        "125",
+        "140",
+        "142",
+        "151",
+        "176",
+        "220",
+        "231",
+        "233",
+        "235",
+        "240",
+        "255",
+        "350",
+        "368",
+        "388",
+        "390",
+        "400",
+        "405",
+        "407",
+        "415",
+        "435",
+        "440",
+        "455",
+        "503",
+        "520",
+        "527",
+        "550",
+        "575",
+        "590",
+        "595",
+        "617",
+        "690",
+        "692",
+        "700",
+        "705",
+        "706",
+        "717",
+        "740",
+        "741",
+        "760",
+        "798",
+        "803",
+        "806",
+        "817",
+        "820",
+        "840",
+        "861",
+        "892",
+        "900",
+        "904",
+        "920"
+      ],
+      "fitted_copy_coefficient": 0.0,
+      "validation": {
+        "formulas": 264,
+        "predicted_positions": 670,
+        "copy_opportunities": 499,
+        "actual_copy_repeats": 6,
+        "mean_gain_bits_per_predicted_sign": 0.0,
+        "mean_joint_gain_bits_per_formula": 0.0,
+        "formula_bootstrap_95_percentile_interval": [
+          0.0,
+          0.0
+        ]
+      },
+      "test": {
+        "formulas": 183,
+        "predicted_positions": 496,
+        "copy_opportunities": 351,
+        "actual_copy_repeats": 5,
+        "mean_gain_bits_per_predicted_sign": 0.0,
+        "mean_joint_gain_bits_per_formula": 0.0,
+        "formula_bootstrap_95_percentile_interval": [
+          0.0,
+          0.0
+        ]
+      },
+      "zero_coefficient_interpretation": "If coefficient=0, agreement and baseline predictions are identical by construction; a zero interval is not precise evidence against all agreement."
+    }
+  ],
+  "sparse_refinement": {
+    "description": "Post-hoc sparse refinement; all sign/weight selection uses Lipi only",
+    "maximum_markers": 6,
+    "selected_markers": [
+      "407"
+    ],
+    "fitted_copy_coefficient": 0.9500000000000001,
+    "validation": {
+      "formulas": 264,
+      "predicted_positions": 670,
+      "copy_opportunities": 1,
+      "actual_copy_repeats": 1,
+      "mean_gain_bits_per_predicted_sign": 0.003990996952430715,
+      "mean_joint_gain_bits_per_formula": 0.01596398780972286,
+      "formula_bootstrap_95_percentile_interval": [
+        0.0,
+        0.011972990857292145
+      ]
+    },
+    "test": {
+      "formulas": 183,
+      "predicted_positions": 496,
+      "copy_opportunities": 0,
+      "actual_copy_repeats": 0,
+      "mean_gain_bits_per_predicted_sign": 0.0,
+      "mean_joint_gain_bits_per_formula": 0.0,
+      "formula_bootstrap_95_percentile_interval": [
+        0.0,
+        0.0
+      ]
+    },
+    "selection_steps": [
+      {
+        "step": 1,
+        "added_marker": "407",
+        "selected_markers": "407",
+        "coefficient": 0.9500000000000001,
+        "validation_total_formula_weighted_gain": 1.0536231954417088
+      }
+    ]
+  },
+  "graphic_representation": {
+    "admitted_graphic_rows": 9,
+    "suffix_sound_assignment": false,
+    "corpora": [
+      {
+        "corpus": "Lipi_train",
+        "plain_plain": 50,
+        "plain_caged": 6,
+        "caged_plain": 0,
+        "caged_caged": 0,
+        "total_eligible_pairs": 56
+      },
+      {
+        "corpus": "New_formula_test",
+        "plain_plain": 4,
+        "plain_caged": 0,
+        "caged_plain": 0,
+        "caged_caged": 0,
+        "total_eligible_pairs": 4
+      }
+    ]
+  },
+  "synthetic_verification": {
+    "positive_copy_coefficient": 0.9500000000000001,
+    "positive_test_gain": 1.5490985381339994,
+    "independent_control_coefficient": 0.05,
+    "independent_control_test_gain": 0.0023828886572406028,
+    "sparse_positive_selected_markers": [
+      "800",
+      "801",
+      "802"
+    ],
+    "sparse_positive_test_gain": 1.5744205216612677,
+    "note": "Synthetic engine verification, not recovery of a known Elamite corpus."
+  },
+  "bootstrap_unit": "unique full inscription formula; 9999 resamples",
+  "principal_score": "mean bits per predicted sign, averaged equally over formulas",
+  "scope": "Conditional written agreement models; agreement is not unique to Elamite and may be omitted or written differently.",
+  "runtime_seconds": 0.62,
+  "colab_units": 0
+}
