@@ -58,6 +58,16 @@ The general approach is published, and another public repository already traced 
 
 The initial trace was revised once because its overlay visibly missed the inner wall. Both coordinate sets are retained; the corrected contour was not fitted to a target volume. The result is88.90L, compared with Fuls's reported88.3 and the other repository's85.96. Seeing these prior results limits independence.
 
+## What this adds to Cúper's work
+
+This continuation improves the checking of one specific capacity claim. It exposes conflicting source values for the original calibration, compares the unchanged9.24L rule with one additional scaled interior profile, and releases tracing uncertainty, source disagreements and excluded cases. The37L prediction versus approximately89L reconstructed is evidence against applying that fixed rule to this jar's full capacity, subject to the stated identity and geometry assumptions.
+
+The alternative22–23L pattern appears on two vessels from different cities: H95-2661 at Harappa gives22.2L per mark in our reconstruction, while the published MD-1374 estimate at Mohenjo-daro gives23.1L if its six mixed marks are equivalent counts. Both vessels contributed to Fuls's earlier22.6L proposal. They therefore do not provide an independent dataset validating that proposal. The original three Harappa jars instead give about40.1–40.5L per mark in Fuls's reported profiles;22.6L is not a universal fit to the recovered data.
+
+Fuls proposed the alternative before this continuation, and another public project already traced the H95 drawing. Neither the unit nor the general approach is claimed as our discovery. The fresh comparison with Cúper's fixed conversion and the explicit source qualifications are the additions here.
+
+This is a stronger source check on a numerical interpretation, not an established replacement decipherment. No new translation, sign pronunciation, named ancient unit or language identification has been demonstrated.
+
 ## Reproduce
 
 The calculations use Python's standard library and extract only the original metrology parser's pure definitions from `work_scripts/met_common.py` and `met_03_physical.py`. They neither import those modules nor create/overwrite upstream logs. Mathematical checks cover cylinders, cones, frustum subdivision, partial filling and cubic scale dependence. Inventory, identity-exclusion, parser-order and uncertainty checks also run.
