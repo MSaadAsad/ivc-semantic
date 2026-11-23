@@ -1,0 +1,56 @@
+{
+  "source_rows": 33,
+  "primary_anchors": 6,
+  "additional_workbook_variants": 19,
+  "parsed_dorsal_frontal_anchors": 17,
+  "searched_target_rows": 3267,
+  "searched_distinct_target_formulas": 1870,
+  "target_rows_by_channel": {
+    "Lipi rank-1 crosswalk": 1338,
+    "Direct Mahadevan": 1929
+  },
+  "raw_candidate_rows": 64,
+  "unique_anchor_channel_target_matches": 17,
+  "primary_candidate_rows": 0,
+  "primary_anchor_references_with_candidates": [],
+  "sensitivity_anchor_references_with_candidates": [
+    "B-10",
+    "K-26",
+    "M-1904"
+  ],
+  "candidate_target_references": [
+    "H-71",
+    "M-1200",
+    "M-1365",
+    "M-178",
+    "M-1782",
+    "M-1799",
+    "M-822",
+    "M-987",
+    "Mahadevan 1243 / line 0",
+    "Mahadevan 1249 / line 0",
+    "Mahadevan 2658 / line 10",
+    "Mahadevan 2705 / line 0",
+    "Mahadevan 2819 / line 20",
+    "Mahadevan 2819 / line 30",
+    "Mahadevan 3078 / line 20",
+    "Mahadevan 5054 / line 0",
+    "Mahadevan 6121 / line 0"
+  ],
+  "representation_counts": {
+    "no exact corpus object link": 5,
+    "frontal glyph represented in at least one stored face": 5,
+    "frontal glyph absent from all mapped stored faces": 12,
+    "uncertain frontal code; not classified": 3,
+    "not detected; incomplete numerical crosswalk": 8
+  },
+  "primary_spatial_pairs_verified": 0,
+  "exploratory_spatial_pair_comparisons_supported": 4,
+  "exploratory_source_layouts_supported": 1,
+  "distinct_count_patterns_supported": 1,
+  "independently_blind_reviewed_pairs": 0,
+  "semantic_substitutions_validated": 0,
+  "heldout_prediction_trials": 0,
+  "colab_units": 0,
+  "interpretation": "Four reviewed comparisons support one short six-stroke/trident spatial pattern. No primary longer-remainder match or independent validation of cloth, a language, or seven strokes."
+}
