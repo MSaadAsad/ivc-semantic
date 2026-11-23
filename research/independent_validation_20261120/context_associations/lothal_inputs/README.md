@@ -1,0 +1,11 @@
+# Lothal source inputs
+
+`containers.csv` is a complete manual transcription of table2 in Dennys Frenez2020, *Mirrored signs*, printed pp31–32. It contains every row from L-124 to L-216, the published number of impressions, the physical support/closure category, and the original discovery-context symbol. No missing source object is silently dropped.
+
+`source_tables/table-30.png`, `table-40.png` and `table-44.png` are the native raster objects extracted from PDF pages9,11,12 respectively. They reproduce the factual table grids for verification. Table1 is physically oriented vertically in its native raster; no interpolation is required to read its object/group cells. `lothal_tables.py` measures grid cells directly and checks all93 manual support/context entries against their source positions and marker shapes; it also recovers the whole repeated-seal matrix. The PDF's internal image object numbers explain the filenames.
+
+Source and attribution: [Dennys Frenez2020, National Fund for Mohenjodaro, pp21–38](https://doi.org/10.5281/zenodo.5513821). The complete paper remains in the adjacent source cache, not redistributed here. The source's question mark means unknown discovery context, not unknown container type. Blank contents are not filled from a proposed reading.
+
+`recovered_photos/` contains19 unmodified image files, covering20 of the25 source objects absent from the machine-readable corpus. They were already tracked in the upstream CISI-image trace. Source paths and the fixed upstream commit are exported in `results/lothal_tables/recovered_photo_sources.csv`. The common file for L-172 and L-173 depicts both objects. Image filenames are catalogue labels, not new accession assignments. `photo_review.csv` records the inspection for all25 missing objects, including the five with no recovered photo.
+
+Some visible painted numbers and arrows are modern collection annotations. They have not been turned into ancient signs. The photographs preserve partial sign traces for later epigraphic work, but this expansion does not invent their encodings. Published die group membership is stored at object level; an individual encoded face on a multistamp sealing is not assigned to a physical die without additional evidence.

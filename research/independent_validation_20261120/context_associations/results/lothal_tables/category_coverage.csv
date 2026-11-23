@@ -1,0 +1,12 @@
+container,source_objects,corpus_joined_objects,missing_transcriptions,newly_supplied_labels,warehouse,other_context,unknown_context
+pegs_on_wall,9,3,6,8,8,0,1
+locker,9,6,3,8,4,2,3
+structure,10,10,0,8,8,2,0
+parallel_reeds,4,4,0,3,3,1,0
+wooden_box,16,14,2,3,14,0,2
+pottery_jar,21,14,7,21,16,1,4
+leather_sack,2,1,1,1,1,1,0
+basket,1,1,0,1,0,0,1
+single_rope,1,1,0,0,0,1,0
+other_types,2,1,1,1,1,0,1
+undiagnostic,18,13,5,15,9,3,6

@@ -6,6 +6,8 @@ This continuation starts from work-branch commit **`727dfd411a4faa44d193d2047575
 
 ## Deliverables
 
+The [full Lothal physical-context expansion](context_associations/results/lothal_tables/lothal.html) transcribes all 93 source sealings, joins 68 to existing texts, adds 44 new backing/use labels (34 specific categories), and keeps the 25 missing transcriptions visible. It releases the seven published repeated-die groups, all 86 existing face readings and photo reviews, and three differences from the old subtype assumptions. The two fixed 440/690 predictions remain untested because neither sign occurs among joined inscriptions.
+
 The [animal/die follow-up](context_associations/results/animal_die_followup.html) checks the two proposed experiments against actual source eligibility. It finds no fresh 923 copper family, recovers candidate photographs and three published Lothal physical links, and joins their support/context labels. No independent contents labels were recovered. Neither semantic experiment is falsely reported as run; prior animal work and published identifications are credited.
 
 The [Elamite unresolved-sign extension](elamite_validation/UNREAD_ELAMITE.md) searches possible borrowed terms without requiring a Dravidian recipient or modern cognate. It inventories 541 uncovered sign IDs, with reviewed rebus directions touching 25, and releases 348 sign–catalogue-face contexts. Potential court values for 362/621 and offspring for 202 remain candidates. [Actual signs and proposed gap fills](elamite_validation/results/unread_elamite.html).

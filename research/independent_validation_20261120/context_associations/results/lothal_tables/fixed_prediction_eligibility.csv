@@ -1,0 +1,3 @@
+sign,proposed_meaning,positive_use_categories,source_rows,objects_with_joined_text,sign_bearing_joined_objects,target_objects,missing_transcription_objects,test_run,p_value,reason
+440,literal vessel (frozen key: goblet/corner),pottery_jar,93,68,0,,25,False,,No sign-bearing exposure among joined objects; missing transcriptions remain unknown.
+690,narrow storehouse (frozen key: bundle/store),locker; pegs_on_wall,93,68,0,,25,False,,No sign-bearing exposure among joined objects; missing transcriptions remain unknown.
