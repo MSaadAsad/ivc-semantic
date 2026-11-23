@@ -1,0 +1,18 @@
+kind,source,handling
+Repeated source reference,m-2014,2 named rows retained; never count them as 2 independent objects
+Repeated source reference,k-151,2 named rows retained; never count them as 2 independent objects
+Repeated source reference,l-161,4 named rows retained; never count them as 4 independent objects
+Repeated source reference,l-162,4 named rows retained; never count them as 4 independent objects
+Repeated source reference,l-163,3 named rows retained; never count them as 3 independent objects
+Unparsed source identifier,M-325i,Retain source spelling; no inferred catalogue identity
+Unparsed source identifier,1534,Retain source spelling; no inferred catalogue identity
+Unparsed source identifier,M-446i,Retain source spelling; no inferred catalogue identity
+Unparsed source identifier,M-447i,Retain source spelling; no inferred catalogue identity
+Unparsed source identifier,M-2017i,Retain source spelling; no inferred catalogue identity
+Unparsed source identifier,M-2018i,Retain source spelling; no inferred catalogue identity
+Unparsed source identifier,M-2019i,Retain source spelling; no inferred catalogue identity
+Unparsed source identifier,H-1955i,Retain source spelling; no inferred catalogue identity
+Unparsed source identifier,M-1423i,Retain source spelling; no inferred catalogue identity
+Unparsed source identifier,M-442i,Retain source spelling; no inferred catalogue identity
+Publication/source denominator,Paper reports 2023 animal-bearing objects; extracted sheet has 2022 named rows plus continuation and legend rows,Report extracted row/reference counts separately; do not force agreement or claim every row is a new specimen.
+ESM1 versus ESM13,The separate 33-object illustrated list is not identical to workbook F3 rows; some signs and animal labels differ,Keep both source versions and explicit disagreements; do not merge into a single authoritative glyph transcription.

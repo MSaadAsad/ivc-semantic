@@ -1,0 +1,6 @@
+source_row,cisi,source_pdf_page,animal,orientation,frontal_mahadevan,dorsal_mahadevan,qualification,source_disagreement,existing_object_ids,existing_face_ids,existing_sign_sequences,existing_proposed_readings,current_key_literal_meanings,old_symbol_labels,old_field_object_labels,found_at,join_status,face_alignment_verified,independent_validation_eligible,source_photo
+1,K-37,1,Goat,right,59,,source classification,,,,,,,,,,No exact CISI match recovered,False,False,images/frontal-01.jpg
+2,K-34,1,Markhor,left,59,,source classification,,,,,,,,,,No exact CISI match recovered,False,False,images/frontal-02.jpg
+3,B-14,1,Urus?,left,59?,,animal and sign qualified,Workbook says Goat? rather than Urus?.,,,,,,,,,No exact CISI match recovered,False,False,images/frontal-03.jpg
+5,B-11,1,Markhor,right,171,,source classification,,,,,,,,,,No exact CISI match recovered,False,False,images/frontal-05.jpg
+23,M-1718,5,Unicorn,right,397,120;342;391;100,source disputes ICIT initial numeral,Workbook gives 121 and 99 where illustrated PDF gives 120 and 100; do not overwrite original coding.,,,,,,,,,No exact CISI match recovered,False,False,images/frontal-23.jpg

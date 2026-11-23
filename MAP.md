@@ -1,3 +1,8 @@
+# Additional online animal/layout data (2026-11-23)
+
+- `measured` Compared Bhaskar 2024 with the byte-identical archived 2022 baseline: 32 new sign-coding rows and 421 common reference groups with label revisions, many terminological. Imported 2,022 named rows / 353 continuations, linking 1,733 existing objects / 1,833 faces. Separate illustrated register has 33 rows, 28 with current CISI-reference matches; five unmatched references were already listed in the older source. Recovered one unjoined Binjor unicorn-seal photo; official eleven-seal aggregate does not supply eleven texts. Zero newly scored semantic predictions. [Images, meanings and source coverage](research/independent_validation_20261120/context_associations/results/online_expansion/online_expansion.html).
+- `guess` Investigate alternate IDs for K-37/K-34/B-14/B-11/M-1718 and recover a primary Binjor accession register. Spatial annotations may help separate scene glyphs from running text before testing literal versus rebus readings. The frozen elephant/copper test still needs a genuinely new formula family.
+
 # Western-site physical context (2026-11-23)
 
 - `measured` Imported 61 Dholavira register entries (60 distinct accession strings) plus four named Bagasra/Shikarpur fastening observations. Existing coverage is 69 tag objects / 76 encoded faces. Completed review of 21 source/object possibilities supports two documentary links using source-labelled signs and findspots: 4608/4156 box attachment and 20502/4292.1 textile contact. Nineteen remain unresolved; no new transcriptions, physical specimen authentication or semantic tests. [Completed image review](research/independent_validation_20261120/context_associations/results/western_sites/identity_review.html).
