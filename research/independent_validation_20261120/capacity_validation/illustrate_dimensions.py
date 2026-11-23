@@ -44,7 +44,8 @@ def main():
     src = overlay.find('{http://www.w3.org/2000/svg}image').attrib['href']
     drawing = Image.open(io.BytesIO(base64.b64decode(src.split(',', 1)[1])))
 
-    plt.rcParams.update({'font.family': 'DejaVu Sans', 'svg.fonttype': 'none'})
+    plt.rcParams.update({'font.family': 'DejaVu Sans', 'svg.fonttype': 'none',
+                         'svg.hashsalt': 'ivc-jar-marks-comparison'})
     fig = plt.figure(figsize=(16, 18), dpi=140, facecolor=BG)
     ax = fig.add_axes([0, 0, 1, 1])
     ax.set(xlim=(0, W), ylim=(H, 0))
@@ -145,7 +146,11 @@ def main():
     txt(60, 1730, 'Source limits: Fuls table layout not visually verified; H95 accession/caption conflict and candidate H-2263 join retained in the source notes.', 9, MUTED)
     txt(60, 1754, 'One drawing shown; four objects tested. Redrawn marks show the numerical hypothesis only. Calculations and source links accompany this chart.', 9, MUTED)
     for ext in ['png', 'svg']:
-        fig.savefig(OUT / f'jar_marks_comparison.{ext}', dpi=140, facecolor=BG)
+        destination = OUT / f'jar_marks_comparison.{ext}'
+        metadata = {'Date': None} if ext == 'svg' else None
+        fig.savefig(destination, dpi=140, facecolor=BG, metadata=metadata)
+        if ext == 'svg':
+            destination.write_text('\n'.join(line.rstrip() for line in destination.read_text().splitlines())+'\n')
     plt.close(fig)
     print('Created jar_marks_comparison.png and jar_marks_comparison.svg from released results.')
 
