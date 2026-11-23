@@ -2,6 +2,7 @@
 
 - `measured` The open-target lexical search inventories 417 drawings, covers 24/73 picture nouns and releases 680 raw witnesses. The inspected older Elamite candidate table lacks roof → protection and jar → enemy. These counts do not identify a language. [Results and source review](research/independent_validation_20261120/elamite_validation/OPEN_REBUS.md).
 - `measured` The 496 permissive one-edit witnesses reduce to 185 written pairs: 111 are one conservative character apart, 66 two and eight three. No matched open-target comparison currently shows Elamite exceeding other languages. [Size audit](research/independent_validation_20261120/elamite_validation/NEAR_MATCHES.md).
+- `measured` Substituting the four representative Elamite candidate labels covers three multi-sign Lipi formulas on four faces, including482–740 at Harappa and Mohenjo-daro. No connecting grammar or full translation recovered; none of the four same-sign meanings equals the current Cúper target. [Comparison](research/independent_validation_20261120/elamite_validation/MEANING_COMPARISON.md).
 - `guess` Test roof ku-uk → protection and jar pi-ti → enemy piti-r as alternative sign values. First resolve the picture-word dates and whether the -r noun-class ending would be written; then require predictions for excluded surrounding sequences. No coherent Elamite inscription or independent archaeological validation has yet been obtained from these leads.
 
 # STANDING NOTE (2026-11-19, after Key #6A–#6C: 85.9% / 88.3% Unseen, READINGS_KEY5 & Preprint Audit)

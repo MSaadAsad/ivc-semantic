@@ -1,0 +1,18 @@
+{
+  "representative_signs": 4,
+  "identical_same_sign_meanings": 0,
+  "semantic_scope": "Four representative sign assignments, not all words of either language.",
+  "fully_candidate_labelled_Lipi_faces": 4,
+  "unique_multi_sign_formulas": 3,
+  "formulas": {
+    "142-740": 1,
+    "482-740": 2,
+    "740-790": 1
+  },
+  "ordered_482_740_Lipi_faces": 23,
+  "ordered_482_740_unique_formulas": 13,
+  "validated_Elamite_translations": 0,
+  "grammar_test_run": false,
+  "note": "Existing catalogue wording can predate the current master proposal. No connecting English words, verbs or class endings were inferred.",
+  "colab_units": 0
+}

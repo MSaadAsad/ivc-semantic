@@ -4,6 +4,8 @@
 
 The earlier experiments below answer narrower or different questions and are retained with their limitations.
 
+[Actual short sequences and same-sign meaning overlap](MEANING_COMPARISON.md): the four representative Elamite candidates produce three complete label combinations on four Lipi faces, including 482–740 “protection — enemy” at Harappa and Mohenjo-daro. No connecting grammar or full translation has been recovered. Their proposed meanings differ from Cúper’s on all four representative signs; broader seed / offspring overlap involves different sign assignments.
+
 [How close are the one-edit candidates, and do they beat other languages?](NEAR_MATCHES.md) The 496 witnesses reduce to 185 distinct written pairs; 111 are one conservative character apart, 66 are two and eight are three. The “one-edit” rule applies after permissive spelling simplification. The unrestricted search has not been run across the other languages under matched conditions, so it establishes no Elamite advantage.
 
 **A direct sequence experiment has now been run:** the [Elamite-style written-agreement check](CONCORDANCE.md) fits1,373 distinct Lipi formulas and evaluates183 New formulas absent from Lipi, without any proposed words or meanings. Internal validation selects zero weight for repeating earlier candidate grammatical markers; the selected model adds no gain over its word-free baseline. The graphical-cage representation lacks marked test pairs. This checks two conditional written representations, not all possible Elamite grammar or a full reading model. [Open its results](results/concordance.html).
