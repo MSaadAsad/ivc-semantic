@@ -6,6 +6,8 @@ This continuation starts from work-branch commit **`727dfd411a4faa44d193d2047575
 
 ## Deliverables
 
+The [Elamite unresolved-sign extension](elamite_validation/UNREAD_ELAMITE.md) searches possible borrowed terms without requiring a Dravidian recipient or modern cognate. It inventories 541 uncovered sign IDs, with reviewed rebus directions touching 25, and releases 348 sign–catalogue-face contexts. Potential court values for 362/621 and offspring for 202 remain candidates. [Actual signs and proposed gap fills](elamite_validation/results/unread_elamite.html).
+
 The [open-target Elamite rebus discovery](elamite_validation/OPEN_REBUS.md) searches new picture-to-meaning directions instead of rechecking the frozen Dravidian-oriented pairs. Roof ku-uk → protection and jar pi-ti → enemy piti-r are its priority lexical leads; neither is in the inspected old Elamite candidate table. All 417 drawings, 24/73 covered picture nouns, 680 raw witnesses and a qualified source review are released. The candidates are not new translations. [Open the sign illustrations](elamite_validation/results/open_rebus.html).
 
 - [Direct Elamite-style concordance prediction](elamite_validation/CONCORDANCE.md):1,373 raw-sequence training formulas (1,109 inner fitting/264 validation),183 non-overlapping New formulas/496 predicted positions. No proposed sign meanings or Dravidian forms enter. Both directions select zero copying weight; primary test has six admissible repetitions in326 opportunities and no selected-model gain. Full post-fit coefficient curves preserve a tiny positive test-set exception without promoting it. Nine strict graphical cages yield no marked test pairs. A conditional writing-model check, not a language identification or new translation.

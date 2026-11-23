@@ -1,0 +1,474 @@
+sign,canonical_sign,mahadevan,picture_noun,picture_votes,crosswalk_share,source,source_id,word,raw_gloss,lexical_head,period,cognate_flag,flags,status
+063,063,343,jar,jar:2;cup:1,0.2,DigitalPasts,N:888,pi-ti,jug,jug,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+063,063,343,jar,jar:2;cup:1,0.2,HinzKoch_existing,HK:338,pi-ti,"gefäß, vielleicht auch krug, unsicher",gefass,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+063,063,343,cup,jar:2;cup:1,0.2,DigitalPasts,N:1813,qa-pu-ut,cup?,cup,nE,,uncertain_gloss,Literal dictionary anchor only; not a recovered Indus word.
+063,063,343,cup,jar:2;cup:1,0.2,HinzKoch_existing,HK:2094,si-ir-ri,"vielleicht schale mit flüsing (quellen, 1916, 68); könig (drei altelarn, stelen, 1925, 42) riet auf ""weihkessel""",schale,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+064,064,161,tree,tree:1;forked:1;branch:1,0.364,DigitalPasts,N:2568,hu-sa-a,tree,tree,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+064,064,161,tree,tree:1;forked:1;branch:1,0.364,DigitalPasts,N:2570,hu-sa-me,tree-INANIM,tree,"oE, mE",,,Literal dictionary anchor only; not a recovered Indus word.
+067,067,136,roof,ladder:2;abstract:1,0.4,DigitalPasts,N:3060,me-nu-me,roof?,roof,nE,,uncertain_gloss,Literal dictionary anchor only; not a recovered Indus word.
+067,067,136,roof,ladder:2;abstract:1,0.4,HinzKoch_existing,HK:1021,ku-uk,"ne dach (wörtliche bedeutung), schutz (übertragene bedeutung); g",dach,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+070,070,155,tree,arrow:3,0.769,DigitalPasts,N:2568,hu-sa-a,tree,tree,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+070,070,155,tree,arrow:3,0.769,DigitalPasts,N:2570,hu-sa-me,tree-INANIM,tree,"oE, mE",,,Literal dictionary anchor only; not a recovered Indus word.
+072,070,155,tree,arrow:3,0.667,DigitalPasts,N:2568,hu-sa-a,tree,tree,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+072,070,155,tree,arrow:3,0.667,DigitalPasts,N:2570,hu-sa-me,tree-INANIM,tree,"oE, mE",,,Literal dictionary anchor only; not a recovered Indus word.
+095,095,18,man,man:3,0.6,DigitalPasts,N:3399,ru-h,man,man,achE,,putative_determinative_prefix_removed:v,Literal dictionary anchor only; not a recovered Indus word.
+095,095,18,man,man:3,0.6,HinzKoch_existing,HK:200,ba-nu-mi-in-pi-ra,"der mann von den leuten des banumt; vgl, hw",mann,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+095,095,18,man,man:3,0.6,HinzKoch_existing,HK:1193,har-ku-ra,"mann aus harku, herkunftsbezeichnung als eigenname",mann,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+095,095,18,man,man:3,0.6,HinzKoch_existing,HK:1441,r-w-i-da-li-ra,mann aus hidali,mann,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+095,095,18,man,man:3,0.6,HinzKoch_existing,HK:1766,mi-mu-ra-gi-ir,"ein mann aus mimuras(i), nachbarort von sali und luppun",mann,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+111,111,32,man,man:3,0.545,DigitalPasts,N:3399,ru-h,man,man,achE,,putative_determinative_prefix_removed:v,Literal dictionary anchor only; not a recovered Indus word.
+111,111,32,man,man:3,0.545,HinzKoch_existing,HK:200,ba-nu-mi-in-pi-ra,"der mann von den leuten des banumt; vgl, hw",mann,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+111,111,32,man,man:3,0.545,HinzKoch_existing,HK:1193,har-ku-ra,"mann aus harku, herkunftsbezeichnung als eigenname",mann,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+111,111,32,man,man:3,0.545,HinzKoch_existing,HK:1441,r-w-i-da-li-ra,mann aus hidali,mann,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+111,111,32,man,man:3,0.545,HinzKoch_existing,HK:1766,mi-mu-ra-gi-ir,"ein mann aus mimuras(i), nachbarort von sali und luppun",mann,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+111,111,32,cup,man:3,0.545,DigitalPasts,N:1813,qa-pu-ut,cup?,cup,nE,,uncertain_gloss,Literal dictionary anchor only; not a recovered Indus word.
+111,111,32,cup,man:3,0.545,HinzKoch_existing,HK:2094,si-ir-ri,"vielleicht schale mit flüsing (quellen, 1916, 68); könig (drei altelarn, stelen, 1925, 42) riet auf ""weihkessel""",schale,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+112,112,34,man,man:3,1.0,DigitalPasts,N:3399,ru-h,man,man,achE,,putative_determinative_prefix_removed:v,Literal dictionary anchor only; not a recovered Indus word.
+112,112,34,man,man:3,1.0,HinzKoch_existing,HK:200,ba-nu-mi-in-pi-ra,"der mann von den leuten des banumt; vgl, hw",mann,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+112,112,34,man,man:3,1.0,HinzKoch_existing,HK:1193,har-ku-ra,"mann aus harku, herkunftsbezeichnung als eigenname",mann,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+112,112,34,man,man:3,1.0,HinzKoch_existing,HK:1441,r-w-i-da-li-ra,mann aus hidali,mann,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+112,112,34,man,man:3,1.0,HinzKoch_existing,HK:1766,mi-mu-ra-gi-ir,"ein mann aus mimuras(i), nachbarort von sali und luppun",mann,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+112,112,34,cup,man:3,1.0,DigitalPasts,N:1813,qa-pu-ut,cup?,cup,nE,,uncertain_gloss,Literal dictionary anchor only; not a recovered Indus word.
+112,112,34,cup,man:3,1.0,HinzKoch_existing,HK:2094,si-ir-ri,"vielleicht schale mit flüsing (quellen, 1916, 68); könig (drei altelarn, stelen, 1925, 42) riet auf ""weihkessel""",schale,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+118,118,42,man,man:3,1.0,DigitalPasts,N:3399,ru-h,man,man,achE,,putative_determinative_prefix_removed:v,Literal dictionary anchor only; not a recovered Indus word.
+118,118,42,man,man:3,1.0,HinzKoch_existing,HK:200,ba-nu-mi-in-pi-ra,"der mann von den leuten des banumt; vgl, hw",mann,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+118,118,42,man,man:3,1.0,HinzKoch_existing,HK:1193,har-ku-ra,"mann aus harku, herkunftsbezeichnung als eigenname",mann,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+118,118,42,man,man:3,1.0,HinzKoch_existing,HK:1441,r-w-i-da-li-ra,mann aus hidali,mann,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+118,118,42,man,man:3,1.0,HinzKoch_existing,HK:1766,mi-mu-ra-gi-ir,"ein mann aus mimuras(i), nachbarort von sali und luppun",mann,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+130,130,19,comb,man:3,0.75,DigitalPasts,N:112,a-h-hu-im,comb,comb,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+130,130,19,comb,man:3,0.75,DigitalPasts,N:114,ah-hu-um,comb,comb,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+130,130,19,comb,man:3,0.75,HinzKoch_existing,HK:38,a-h-hu-im,kamm; s,kamm,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+130,130,19,comb,man:3,0.75,HinzKoch_existing,HK:39,ah-hu-um,kamm; s,kamm,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+130,130,19,man,man:3,0.75,DigitalPasts,N:3399,ru-h,man,man,achE,,putative_determinative_prefix_removed:v,Literal dictionary anchor only; not a recovered Indus word.
+130,130,19,man,man:3,0.75,HinzKoch_existing,HK:200,ba-nu-mi-in-pi-ra,"der mann von den leuten des banumt; vgl, hw",mann,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+130,130,19,man,man:3,0.75,HinzKoch_existing,HK:1193,har-ku-ra,"mann aus harku, herkunftsbezeichnung als eigenname",mann,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+130,130,19,man,man:3,0.75,HinzKoch_existing,HK:1441,r-w-i-da-li-ra,mann aus hidali,mann,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+130,130,19,man,man:3,0.75,HinzKoch_existing,HK:1766,mi-mu-ra-gi-ir,"ein mann aus mimuras(i), nachbarort von sali und luppun",mann,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+132,132,22,man,man:3,0.6,DigitalPasts,N:3399,ru-h,man,man,achE,,putative_determinative_prefix_removed:v,Literal dictionary anchor only; not a recovered Indus word.
+132,132,22,man,man:3,0.6,HinzKoch_existing,HK:200,ba-nu-mi-in-pi-ra,"der mann von den leuten des banumt; vgl, hw",mann,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+132,132,22,man,man:3,0.6,HinzKoch_existing,HK:1193,har-ku-ra,"mann aus harku, herkunftsbezeichnung als eigenname",mann,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+132,132,22,man,man:3,0.6,HinzKoch_existing,HK:1441,r-w-i-da-li-ra,mann aus hidali,mann,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+132,132,22,man,man:3,0.6,HinzKoch_existing,HK:1766,mi-mu-ra-gi-ir,"ein mann aus mimuras(i), nachbarort von sali und luppun",mann,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+132,132,22,comb,man:3,0.6,DigitalPasts,N:112,a-h-hu-im,comb,comb,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+132,132,22,comb,man:3,0.6,DigitalPasts,N:114,ah-hu-um,comb,comb,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+132,132,22,comb,man:3,0.6,HinzKoch_existing,HK:38,a-h-hu-im,kamm; s,kamm,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+132,132,22,comb,man:3,0.6,HinzKoch_existing,HK:39,ah-hu-um,kamm; s,kamm,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+137,137,40,man,man:3,0.8,DigitalPasts,N:3399,ru-h,man,man,achE,,putative_determinative_prefix_removed:v,Literal dictionary anchor only; not a recovered Indus word.
+137,137,40,man,man:3,0.8,HinzKoch_existing,HK:200,ba-nu-mi-in-pi-ra,"der mann von den leuten des banumt; vgl, hw",mann,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+137,137,40,man,man:3,0.8,HinzKoch_existing,HK:1193,har-ku-ra,"mann aus harku, herkunftsbezeichnung als eigenname",mann,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+137,137,40,man,man:3,0.8,HinzKoch_existing,HK:1441,r-w-i-da-li-ra,mann aus hidali,mann,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+137,137,40,man,man:3,0.8,HinzKoch_existing,HK:1766,mi-mu-ra-gi-ir,"ein mann aus mimuras(i), nachbarort von sali und luppun",mann,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+137,137,40,box,man:3,0.8,HinzKoch_existing,HK:773,qa-bar,"truhe, kasten, kiste o",kasten,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+139,139,40,man,man:3,0.75,DigitalPasts,N:3399,ru-h,man,man,achE,,putative_determinative_prefix_removed:v,Literal dictionary anchor only; not a recovered Indus word.
+139,139,40,man,man:3,0.75,HinzKoch_existing,HK:200,ba-nu-mi-in-pi-ra,"der mann von den leuten des banumt; vgl, hw",mann,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+139,139,40,man,man:3,0.75,HinzKoch_existing,HK:1193,har-ku-ra,"mann aus harku, herkunftsbezeichnung als eigenname",mann,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+139,139,40,man,man:3,0.75,HinzKoch_existing,HK:1441,r-w-i-da-li-ra,mann aus hidali,mann,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+139,139,40,man,man:3,0.75,HinzKoch_existing,HK:1766,mi-mu-ra-gi-ir,"ein mann aus mimuras(i), nachbarort von sali und luppun",mann,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+139,139,40,box,man:3,0.75,HinzKoch_existing,HK:773,qa-bar,"truhe, kasten, kiste o",kasten,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+146,146,27,man,man:3,0.667,DigitalPasts,N:3399,ru-h,man,man,achE,,putative_determinative_prefix_removed:v,Literal dictionary anchor only; not a recovered Indus word.
+146,146,27,man,man:3,0.667,HinzKoch_existing,HK:200,ba-nu-mi-in-pi-ra,"der mann von den leuten des banumt; vgl, hw",mann,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+146,146,27,man,man:3,0.667,HinzKoch_existing,HK:1193,har-ku-ra,"mann aus harku, herkunftsbezeichnung als eigenname",mann,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+146,146,27,man,man:3,0.667,HinzKoch_existing,HK:1441,r-w-i-da-li-ra,mann aus hidali,mann,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+146,146,27,man,man:3,0.667,HinzKoch_existing,HK:1766,mi-mu-ra-gi-ir,"ein mann aus mimuras(i), nachbarort von sali und luppun",mann,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+150,150,10,man,man:3,0.4,DigitalPasts,N:3399,ru-h,man,man,achE,,putative_determinative_prefix_removed:v,Literal dictionary anchor only; not a recovered Indus word.
+150,150,10,man,man:3,0.4,HinzKoch_existing,HK:200,ba-nu-mi-in-pi-ra,"der mann von den leuten des banumt; vgl, hw",mann,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+150,150,10,man,man:3,0.4,HinzKoch_existing,HK:1193,har-ku-ra,"mann aus harku, herkunftsbezeichnung als eigenname",mann,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+150,150,10,man,man:3,0.4,HinzKoch_existing,HK:1441,r-w-i-da-li-ra,mann aus hidali,mann,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+150,150,10,man,man:3,0.4,HinzKoch_existing,HK:1766,mi-mu-ra-gi-ir,"ein mann aus mimuras(i), nachbarort von sali und luppun",mann,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+150,150,10,box,man:3,0.4,HinzKoch_existing,HK:773,qa-bar,"truhe, kasten, kiste o",kasten,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+190,190,54,eye,eye:2;fish:1,0.7,DigitalPasts,N:1641,el-ti,eye?,eye,mE,,uncertain_gloss,Literal dictionary anchor only; not a recovered Indus word.
+202,202,268,seed,seed:2;chain:1,1.0,DigitalPasts,N:314,pa-a-ar,seed,seed,,,,Literal dictionary anchor only; not a recovered Indus word.
+202,202,268,seed,seed:2;chain:1,1.0,DigitalPasts,N:439,ba-ar-e,seed-3SG.POSS,seed,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+202,202,268,seed,seed:2;chain:1,1.0,DigitalPasts,N:441,pa-ar,seed,seed,,,,Literal dictionary anchor only; not a recovered Indus word.
+202,202,268,seed,seed:2;chain:1,1.0,DigitalPasts,N:512,ba-ir,seed,seed,achE,,,Literal dictionary anchor only; not a recovered Indus word.
+202,202,268,seed,seed:2;chain:1,1.0,DigitalPasts,N:609,ba-ri-e,seed-3SG.POSS,seed,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+345,345,50,goat,goat:2;animal:1,0.667,DigitalPasts,N:891,pi-tu4,goat,goat,achE,,,Literal dictionary anchor only; not a recovered Indus word.
+345,345,50,goat,goat:2;animal:1,0.667,DigitalPasts,N:892,pi-tú,goat,goat,achE,,,Literal dictionary anchor only; not a recovered Indus word.
+345,345,50,goat,goat:2;animal:1,0.667,DigitalPasts,N:944,pu-tu4,goat,goat,achE,,,Literal dictionary anchor only; not a recovered Indus word.
+345,345,50,goat,goat:2;animal:1,0.667,DigitalPasts,N:947,pu-tú,goat,goat,achE,,,Literal dictionary anchor only; not a recovered Indus word.
+345,345,50,goat,goat:2;animal:1,0.667,DigitalPasts,N:948,pu-tu4-ba,goat-PL,goat,achE,,,Literal dictionary anchor only; not a recovered Indus word.
+345,345,50,goat,goat:2;animal:1,0.667,DigitalPasts,N:950,pu-tu4-ra,goat-SG,goat,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+346,346,50,goat,goat:2;animal:1,0.5,DigitalPasts,N:891,pi-tu4,goat,goat,achE,,,Literal dictionary anchor only; not a recovered Indus word.
+346,346,50,goat,goat:2;animal:1,0.5,DigitalPasts,N:892,pi-tú,goat,goat,achE,,,Literal dictionary anchor only; not a recovered Indus word.
+346,346,50,goat,goat:2;animal:1,0.5,DigitalPasts,N:944,pu-tu4,goat,goat,achE,,,Literal dictionary anchor only; not a recovered Indus word.
+346,346,50,goat,goat:2;animal:1,0.5,DigitalPasts,N:947,pu-tú,goat,goat,achE,,,Literal dictionary anchor only; not a recovered Indus word.
+346,346,50,goat,goat:2;animal:1,0.5,DigitalPasts,N:948,pu-tu4-ba,goat-PL,goat,achE,,,Literal dictionary anchor only; not a recovered Indus word.
+346,346,50,goat,goat:2;animal:1,0.5,DigitalPasts,N:950,pu-tu4-ra,goat-SG,goat,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+354,354,174,comb,plough:1;fork:1;comb:1,0.714,DigitalPasts,N:112,a-h-hu-im,comb,comb,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+354,354,174,comb,plough:1;fork:1;comb:1,0.714,DigitalPasts,N:114,ah-hu-um,comb,comb,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+354,354,174,comb,plough:1;fork:1;comb:1,0.714,HinzKoch_existing,HK:38,a-h-hu-im,kamm; s,kamm,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+354,354,174,comb,plough:1;fork:1;comb:1,0.714,HinzKoch_existing,HK:39,ah-hu-um,kamm; s,kamm,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+360,360,202,gate,gate:2;table:1,0.75,DigitalPasts,N:383,ha-al-te-te,door,door,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+360,360,202,gate,gate:2;table:1,0.75,DigitalPasts,N:384,ha-al-ti-te,door,door,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+360,360,202,gate,gate:2;table:1,0.75,DigitalPasts,N:1620,e-el,door,door,achE,,putative_determinative_prefix_removed:h,Literal dictionary anchor only; not a recovered Indus word.
+360,360,202,gate,gate:2;table:1,0.75,DigitalPasts,N:1628,el,door,door,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+360,360,202,gate,gate:2;table:1,0.75,DigitalPasts,N:1667,e-ul,door,door,achE,,,Literal dictionary anchor only; not a recovered Indus word.
+360,360,202,gate,gate:2;table:1,0.75,DigitalPasts,N:2320,hal-ti,door,door,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+360,360,202,gate,gate:2;table:1,0.75,DigitalPasts,N:2471,hi-el,door,door,"mE, nE",,,Literal dictionary anchor only; not a recovered Indus word.
+360,360,202,gate,gate:2;table:1,0.75,DigitalPasts,N:2525,hu-el,door,door,"mE, nE, achE",,,Literal dictionary anchor only; not a recovered Indus word.
+360,360,202,gate,gate:2;table:1,0.75,DigitalPasts,N:3539,si-ip,door,door,"mE, nE",sippu,,Literal dictionary anchor only; not a recovered Indus word.
+360,360,202,gate,gate:2;table:1,0.75,DigitalPasts,N:4123,zí-ip,door,door,achE,sippu,putative_determinative_prefix_removed:h,Literal dictionary anchor only; not a recovered Indus word.
+360,360,202,gate,gate:2;table:1,0.75,DigitalPasts,N:4151,zip,door,door,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+360,360,202,gate,gate:2;table:1,0.75,HinzKoch_existing,HK:711,e-el,"tor, pforte, ap",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+360,360,202,gate,gate:2;table:1,0.75,HinzKoch_existing,HK:714,el,"tor, pforte; s; ache auge(n) als kurzschreibung für eigentlich gemeintes elt; vgl, el-te ki sein eines auge; mehl; vgl",tor,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+360,360,202,gate,gate:2;table:1,0.75,HinzKoch_existing,HK:1236,hi-el,"ne tor, pforte, portal, übertragen (königs-)hof (or 36, 1967, 324; or 38, 1970, 433); f",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+360,360,202,gate,gate:2;table:1,0.75,HinzKoch_existing,HK:1270,hu-el,"ne, ache tor, pforte, portat, übertragen (königs-) hof ; s",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+360,360,202,gate,gate:2;table:1,0.75,HinzKoch_existing,HK:2092,si-ip,"ne portal, tor(gcbäudc), vgl",tor,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+360,360,202,gate,gate:2;table:1,0.75,HinzKoch_existing,HK:2389,zi-ip,"portal, tor(gebäude); s; (königliche) unterstützung, dürfte ap",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+361,361,203,house,house:2;table:1,0.667,DigitalPasts,N:4,a-a-in,house,house,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+361,361,203,house,house:2;table:1,0.667,DigitalPasts,N:18,a-a-ni-ip,house-PL,house,"oE, mE",,,Literal dictionary anchor only; not a recovered Indus word.
+361,361,203,house,house:2;table:1,0.667,DigitalPasts,N:19,a-a-ni-ri,house-SG-3SG.POSS,house,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+361,361,203,house,house:2;table:1,0.667,DigitalPasts,N:24,a-a-ni-ip-ù-be,house-PL-1SG-3PL.AGR,house,"oE, mE",,,Literal dictionary anchor only; not a recovered Indus word.
+361,361,203,house,house:2;table:1,0.667,DigitalPasts,N:25,a-hi-in,house,house,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+361,361,203,house,house:2;table:1,0.667,DigitalPasts,N:26,a-h-in,house,house,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+361,361,203,house,house:2;table:1,0.667,DigitalPasts,N:36,a-a-ni,house-3SG.POSS,house,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+361,361,203,house,house:2;table:1,0.667,DigitalPasts,N:45,ha-a-in,house,house,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+361,361,203,house,house:2;table:1,0.667,DigitalPasts,N:123,a-i-in,house,house,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+361,361,203,house,house:2;table:1,0.667,DigitalPasts,N:2052,ku-iš,house(=dynasty),house,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+361,361,203,house,house:2;table:1,0.667,DigitalPasts,N:2213,ku-uš,house(=dynasty),house,"oE, mE",,,Literal dictionary anchor only; not a recovered Indus word.
+361,361,203,house,house:2;table:1,0.667,DigitalPasts,Uncalss:31,a-a-ni-ip-me,house-PL-INANIM.AGR,house,oE,,,Literal dictionary anchor only; not a recovered Indus word.
+361,361,203,house,house:2;table:1,0.667,HinzKoch_existing,HK:1,a-a-in,"haus, s",haus,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+361,361,203,house,house:2;table:1,0.667,HinzKoch_existing,HK:5,a-a-ni,sein haus; s,haus,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+361,361,203,house,house:2;table:1,0.667,HinzKoch_existing,HK:42,a-hi-in,haus; s,haus,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+361,361,203,house,house:2;table:1,0.667,HinzKoch_existing,HK:44,a-h-in,"haus, s",haus,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+361,361,203,house,house:2;table:1,0.667,HinzKoch_existing,HK:1059,ha-a-in,haus; s,haus,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+362,362,201,house,door:2;doorway:1,1.0,DigitalPasts,N:4,a-a-in,house,house,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+362,362,201,house,door:2;doorway:1,1.0,DigitalPasts,N:18,a-a-ni-ip,house-PL,house,"oE, mE",,,Literal dictionary anchor only; not a recovered Indus word.
+362,362,201,house,door:2;doorway:1,1.0,DigitalPasts,N:19,a-a-ni-ri,house-SG-3SG.POSS,house,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+362,362,201,house,door:2;doorway:1,1.0,DigitalPasts,N:24,a-a-ni-ip-ù-be,house-PL-1SG-3PL.AGR,house,"oE, mE",,,Literal dictionary anchor only; not a recovered Indus word.
+362,362,201,house,door:2;doorway:1,1.0,DigitalPasts,N:25,a-hi-in,house,house,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+362,362,201,house,door:2;doorway:1,1.0,DigitalPasts,N:26,a-h-in,house,house,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+362,362,201,house,door:2;doorway:1,1.0,DigitalPasts,N:36,a-a-ni,house-3SG.POSS,house,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+362,362,201,house,door:2;doorway:1,1.0,DigitalPasts,N:45,ha-a-in,house,house,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+362,362,201,house,door:2;doorway:1,1.0,DigitalPasts,N:123,a-i-in,house,house,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+362,362,201,house,door:2;doorway:1,1.0,DigitalPasts,N:2052,ku-iš,house(=dynasty),house,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+362,362,201,house,door:2;doorway:1,1.0,DigitalPasts,N:2213,ku-uš,house(=dynasty),house,"oE, mE",,,Literal dictionary anchor only; not a recovered Indus word.
+362,362,201,house,door:2;doorway:1,1.0,DigitalPasts,Uncalss:31,a-a-ni-ip-me,house-PL-INANIM.AGR,house,oE,,,Literal dictionary anchor only; not a recovered Indus word.
+362,362,201,house,door:2;doorway:1,1.0,HinzKoch_existing,HK:1,a-a-in,"haus, s",haus,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+362,362,201,house,door:2;doorway:1,1.0,HinzKoch_existing,HK:5,a-a-ni,sein haus; s,haus,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+362,362,201,house,door:2;doorway:1,1.0,HinzKoch_existing,HK:42,a-hi-in,haus; s,haus,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+362,362,201,house,door:2;doorway:1,1.0,HinzKoch_existing,HK:44,a-h-in,"haus, s",haus,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+362,362,201,house,door:2;doorway:1,1.0,HinzKoch_existing,HK:1059,ha-a-in,haus; s,haus,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+362,362,201,door,door:2;doorway:1,1.0,DigitalPasts,N:383,ha-al-te-te,door,door,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+362,362,201,door,door:2;doorway:1,1.0,DigitalPasts,N:384,ha-al-ti-te,door,door,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+362,362,201,door,door:2;doorway:1,1.0,DigitalPasts,N:1620,e-el,door,door,achE,,putative_determinative_prefix_removed:h,Literal dictionary anchor only; not a recovered Indus word.
+362,362,201,door,door:2;doorway:1,1.0,DigitalPasts,N:1628,el,door,door,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+362,362,201,door,door:2;doorway:1,1.0,DigitalPasts,N:1667,e-ul,door,door,achE,,,Literal dictionary anchor only; not a recovered Indus word.
+362,362,201,door,door:2;doorway:1,1.0,DigitalPasts,N:2320,hal-ti,door,door,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+362,362,201,door,door:2;doorway:1,1.0,DigitalPasts,N:2471,hi-el,door,door,"mE, nE",,,Literal dictionary anchor only; not a recovered Indus word.
+362,362,201,door,door:2;doorway:1,1.0,DigitalPasts,N:2525,hu-el,door,door,"mE, nE, achE",,,Literal dictionary anchor only; not a recovered Indus word.
+362,362,201,door,door:2;doorway:1,1.0,DigitalPasts,N:3539,si-ip,door,door,"mE, nE",sippu,,Literal dictionary anchor only; not a recovered Indus word.
+362,362,201,door,door:2;doorway:1,1.0,DigitalPasts,N:4123,zí-ip,door,door,achE,sippu,putative_determinative_prefix_removed:h,Literal dictionary anchor only; not a recovered Indus word.
+362,362,201,door,door:2;doorway:1,1.0,DigitalPasts,N:4151,zip,door,door,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+362,362,201,door,door:2;doorway:1,1.0,HinzKoch_existing,HK:711,e-el,"tor, pforte, ap",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+362,362,201,door,door:2;doorway:1,1.0,HinzKoch_existing,HK:714,el,"tor, pforte; s; ache auge(n) als kurzschreibung für eigentlich gemeintes elt; vgl, el-te ki sein eines auge; mehl; vgl",tor,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+362,362,201,door,door:2;doorway:1,1.0,HinzKoch_existing,HK:1236,hi-el,"ne tor, pforte, portal, übertragen (königs-)hof (or 36, 1967, 324; or 38, 1970, 433); f",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+362,362,201,door,door:2;doorway:1,1.0,HinzKoch_existing,HK:1270,hu-el,"ne, ache tor, pforte, portat, übertragen (königs-) hof ; s",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+362,362,201,door,door:2;doorway:1,1.0,HinzKoch_existing,HK:2092,si-ip,"ne portal, tor(gcbäudc), vgl",tor,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+362,362,201,door,door:2;doorway:1,1.0,HinzKoch_existing,HK:2389,zi-ip,"portal, tor(gebäude); s; (königliche) unterstützung, dürfte ap",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+370,371,397,eye,bead:1;abstract:1;spindle:1,0.429,DigitalPasts,N:1641,el-ti,eye?,eye,mE,,uncertain_gloss,Literal dictionary anchor only; not a recovered Indus word.
+371,371,397,eye,bead:1;abstract:1;spindle:1,0.7,DigitalPasts,N:1641,el-ti,eye?,eye,mE,,uncertain_gloss,Literal dictionary anchor only; not a recovered Indus word.
+380,380,323,heart,leaf:2;heart:1,0.4,DigitalPasts,Other:707,šà-ma,heart-LOC,heart,"nE, achE",,,Literal dictionary anchor only; not a recovered Indus word.
+380,380,323,heart,leaf:2;heart:1,0.4,DigitalPasts,V:1536,šà-ri,heart-3SG.AGR,heart,"nE, achE",,,Literal dictionary anchor only; not a recovered Indus word.
+382,382,325,heart,leaf:2;spade:1,0.533,DigitalPasts,Other:707,šà-ma,heart-LOC,heart,"nE, achE",,,Literal dictionary anchor only; not a recovered Indus word.
+382,382,325,heart,leaf:2;spade:1,0.533,DigitalPasts,V:1536,šà-ri,heart-3SG.AGR,heart,"nE, achE",,,Literal dictionary anchor only; not a recovered Indus word.
+384,384,326,tree,leaf:3,0.55,DigitalPasts,N:2568,hu-sa-a,tree,tree,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+384,384,326,tree,leaf:3,0.55,DigitalPasts,N:2570,hu-sa-me,tree-INANIM,tree,"oE, mE",,,Literal dictionary anchor only; not a recovered Indus word.
+388,388,327,tree,leaf:3,0.658,DigitalPasts,N:2568,hu-sa-a,tree,tree,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+388,388,327,tree,leaf:3,0.658,DigitalPasts,N:2570,hu-sa-me,tree-INANIM,tree,"oE, mE",,,Literal dictionary anchor only; not a recovered Indus word.
+401,401,342,jar,cup:2;jar:1,0.333,DigitalPasts,N:888,pi-ti,jug,jug,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+401,401,342,jar,cup:2;jar:1,0.333,HinzKoch_existing,HK:338,pi-ti,"gefäß, vielleicht auch krug, unsicher",gefass,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+401,401,342,cup,cup:2;jar:1,0.333,DigitalPasts,N:1813,qa-pu-ut,cup?,cup,nE,,uncertain_gloss,Literal dictionary anchor only; not a recovered Indus word.
+401,401,342,cup,cup:2;jar:1,0.333,HinzKoch_existing,HK:2094,si-ir-ri,"vielleicht schale mit flüsing (quellen, 1916, 68); könig (drei altelarn, stelen, 1925, 42) riet auf ""weihkessel""",schale,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+411,411,328,cup,cup:2;jar:1,0.5,DigitalPasts,N:1813,qa-pu-ut,cup?,cup,nE,,uncertain_gloss,Literal dictionary anchor only; not a recovered Indus word.
+411,411,328,cup,cup:2;jar:1,0.5,HinzKoch_existing,HK:2094,si-ir-ri,"vielleicht schale mit flüsing (quellen, 1916, 68); könig (drei altelarn, stelen, 1925, 42) riet auf ""weihkessel""",schale,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+411,411,328,jar,cup:2;jar:1,0.5,DigitalPasts,N:888,pi-ti,jug,jug,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+411,411,328,jar,cup:2;jar:1,0.5,HinzKoch_existing,HK:338,pi-ti,"gefäß, vielleicht auch krug, unsicher",gefass,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+420,420,189,comb,gate:1;fence:1;comb:1,0.75,DigitalPasts,N:112,a-h-hu-im,comb,comb,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+420,420,189,comb,gate:1;fence:1;comb:1,0.75,DigitalPasts,N:114,ah-hu-um,comb,comb,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+420,420,189,comb,gate:1;fence:1;comb:1,0.75,HinzKoch_existing,HK:38,a-h-hu-im,kamm; s,kamm,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+420,420,189,comb,gate:1;fence:1;comb:1,0.75,HinzKoch_existing,HK:39,ah-hu-um,kamm; s,kamm,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+420,420,189,gate,gate:1;fence:1;comb:1,0.75,DigitalPasts,N:383,ha-al-te-te,door,door,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+420,420,189,gate,gate:1;fence:1;comb:1,0.75,DigitalPasts,N:384,ha-al-ti-te,door,door,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+420,420,189,gate,gate:1;fence:1;comb:1,0.75,DigitalPasts,N:1620,e-el,door,door,achE,,putative_determinative_prefix_removed:h,Literal dictionary anchor only; not a recovered Indus word.
+420,420,189,gate,gate:1;fence:1;comb:1,0.75,DigitalPasts,N:1628,el,door,door,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+420,420,189,gate,gate:1;fence:1;comb:1,0.75,DigitalPasts,N:1667,e-ul,door,door,achE,,,Literal dictionary anchor only; not a recovered Indus word.
+420,420,189,gate,gate:1;fence:1;comb:1,0.75,DigitalPasts,N:2320,hal-ti,door,door,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+420,420,189,gate,gate:1;fence:1;comb:1,0.75,DigitalPasts,N:2471,hi-el,door,door,"mE, nE",,,Literal dictionary anchor only; not a recovered Indus word.
+420,420,189,gate,gate:1;fence:1;comb:1,0.75,DigitalPasts,N:2525,hu-el,door,door,"mE, nE, achE",,,Literal dictionary anchor only; not a recovered Indus word.
+420,420,189,gate,gate:1;fence:1;comb:1,0.75,DigitalPasts,N:3539,si-ip,door,door,"mE, nE",sippu,,Literal dictionary anchor only; not a recovered Indus word.
+420,420,189,gate,gate:1;fence:1;comb:1,0.75,DigitalPasts,N:4123,zí-ip,door,door,achE,sippu,putative_determinative_prefix_removed:h,Literal dictionary anchor only; not a recovered Indus word.
+420,420,189,gate,gate:1;fence:1;comb:1,0.75,DigitalPasts,N:4151,zip,door,door,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+420,420,189,gate,gate:1;fence:1;comb:1,0.75,HinzKoch_existing,HK:711,e-el,"tor, pforte, ap",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+420,420,189,gate,gate:1;fence:1;comb:1,0.75,HinzKoch_existing,HK:714,el,"tor, pforte; s; ache auge(n) als kurzschreibung für eigentlich gemeintes elt; vgl, el-te ki sein eines auge; mehl; vgl",tor,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+420,420,189,gate,gate:1;fence:1;comb:1,0.75,HinzKoch_existing,HK:1236,hi-el,"ne tor, pforte, portal, übertragen (königs-)hof (or 36, 1967, 324; or 38, 1970, 433); f",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+420,420,189,gate,gate:1;fence:1;comb:1,0.75,HinzKoch_existing,HK:1270,hu-el,"ne, ache tor, pforte, portat, übertragen (königs-) hof ; s",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+420,420,189,gate,gate:1;fence:1;comb:1,0.75,HinzKoch_existing,HK:2092,si-ip,"ne portal, tor(gcbäudc), vgl",tor,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+420,420,189,gate,gate:1;fence:1;comb:1,0.75,HinzKoch_existing,HK:2389,zi-ip,"portal, tor(gebäude); s; (königliche) unterstützung, dürfte ap",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+421,422,190,comb,comb:1;fence:1;sheaf:1,0.667,DigitalPasts,N:112,a-h-hu-im,comb,comb,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+421,422,190,comb,comb:1;fence:1;sheaf:1,0.667,DigitalPasts,N:114,ah-hu-um,comb,comb,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+421,422,190,comb,comb:1;fence:1;sheaf:1,0.667,HinzKoch_existing,HK:38,a-h-hu-im,kamm; s,kamm,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+421,422,190,comb,comb:1;fence:1;sheaf:1,0.667,HinzKoch_existing,HK:39,ah-hu-um,kamm; s,kamm,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+421,422,190,gate,comb:1;fence:1;sheaf:1,0.667,DigitalPasts,N:383,ha-al-te-te,door,door,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+421,422,190,gate,comb:1;fence:1;sheaf:1,0.667,DigitalPasts,N:384,ha-al-ti-te,door,door,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+421,422,190,gate,comb:1;fence:1;sheaf:1,0.667,DigitalPasts,N:1620,e-el,door,door,achE,,putative_determinative_prefix_removed:h,Literal dictionary anchor only; not a recovered Indus word.
+421,422,190,gate,comb:1;fence:1;sheaf:1,0.667,DigitalPasts,N:1628,el,door,door,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+421,422,190,gate,comb:1;fence:1;sheaf:1,0.667,DigitalPasts,N:1667,e-ul,door,door,achE,,,Literal dictionary anchor only; not a recovered Indus word.
+421,422,190,gate,comb:1;fence:1;sheaf:1,0.667,DigitalPasts,N:2320,hal-ti,door,door,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+421,422,190,gate,comb:1;fence:1;sheaf:1,0.667,DigitalPasts,N:2471,hi-el,door,door,"mE, nE",,,Literal dictionary anchor only; not a recovered Indus word.
+421,422,190,gate,comb:1;fence:1;sheaf:1,0.667,DigitalPasts,N:2525,hu-el,door,door,"mE, nE, achE",,,Literal dictionary anchor only; not a recovered Indus word.
+421,422,190,gate,comb:1;fence:1;sheaf:1,0.667,DigitalPasts,N:3539,si-ip,door,door,"mE, nE",sippu,,Literal dictionary anchor only; not a recovered Indus word.
+421,422,190,gate,comb:1;fence:1;sheaf:1,0.667,DigitalPasts,N:4123,zí-ip,door,door,achE,sippu,putative_determinative_prefix_removed:h,Literal dictionary anchor only; not a recovered Indus word.
+421,422,190,gate,comb:1;fence:1;sheaf:1,0.667,DigitalPasts,N:4151,zip,door,door,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+421,422,190,gate,comb:1;fence:1;sheaf:1,0.667,HinzKoch_existing,HK:711,e-el,"tor, pforte, ap",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+421,422,190,gate,comb:1;fence:1;sheaf:1,0.667,HinzKoch_existing,HK:714,el,"tor, pforte; s; ache auge(n) als kurzschreibung für eigentlich gemeintes elt; vgl, el-te ki sein eines auge; mehl; vgl",tor,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+421,422,190,gate,comb:1;fence:1;sheaf:1,0.667,HinzKoch_existing,HK:1236,hi-el,"ne tor, pforte, portal, übertragen (königs-)hof (or 36, 1967, 324; or 38, 1970, 433); f",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+421,422,190,gate,comb:1;fence:1;sheaf:1,0.667,HinzKoch_existing,HK:1270,hu-el,"ne, ache tor, pforte, portat, übertragen (königs-) hof ; s",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+421,422,190,gate,comb:1;fence:1;sheaf:1,0.667,HinzKoch_existing,HK:2092,si-ip,"ne portal, tor(gcbäudc), vgl",tor,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+421,422,190,gate,comb:1;fence:1;sheaf:1,0.667,HinzKoch_existing,HK:2389,zi-ip,"portal, tor(gebäude); s; (königliche) unterstützung, dürfte ap",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+422,422,190,comb,comb:1;fence:1;sheaf:1,0.6,DigitalPasts,N:112,a-h-hu-im,comb,comb,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+422,422,190,comb,comb:1;fence:1;sheaf:1,0.6,DigitalPasts,N:114,ah-hu-um,comb,comb,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+422,422,190,comb,comb:1;fence:1;sheaf:1,0.6,HinzKoch_existing,HK:38,a-h-hu-im,kamm; s,kamm,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+422,422,190,comb,comb:1;fence:1;sheaf:1,0.6,HinzKoch_existing,HK:39,ah-hu-um,kamm; s,kamm,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+422,422,190,gate,comb:1;fence:1;sheaf:1,0.6,DigitalPasts,N:383,ha-al-te-te,door,door,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+422,422,190,gate,comb:1;fence:1;sheaf:1,0.6,DigitalPasts,N:384,ha-al-ti-te,door,door,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+422,422,190,gate,comb:1;fence:1;sheaf:1,0.6,DigitalPasts,N:1620,e-el,door,door,achE,,putative_determinative_prefix_removed:h,Literal dictionary anchor only; not a recovered Indus word.
+422,422,190,gate,comb:1;fence:1;sheaf:1,0.6,DigitalPasts,N:1628,el,door,door,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+422,422,190,gate,comb:1;fence:1;sheaf:1,0.6,DigitalPasts,N:1667,e-ul,door,door,achE,,,Literal dictionary anchor only; not a recovered Indus word.
+422,422,190,gate,comb:1;fence:1;sheaf:1,0.6,DigitalPasts,N:2320,hal-ti,door,door,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+422,422,190,gate,comb:1;fence:1;sheaf:1,0.6,DigitalPasts,N:2471,hi-el,door,door,"mE, nE",,,Literal dictionary anchor only; not a recovered Indus word.
+422,422,190,gate,comb:1;fence:1;sheaf:1,0.6,DigitalPasts,N:2525,hu-el,door,door,"mE, nE, achE",,,Literal dictionary anchor only; not a recovered Indus word.
+422,422,190,gate,comb:1;fence:1;sheaf:1,0.6,DigitalPasts,N:3539,si-ip,door,door,"mE, nE",sippu,,Literal dictionary anchor only; not a recovered Indus word.
+422,422,190,gate,comb:1;fence:1;sheaf:1,0.6,DigitalPasts,N:4123,zí-ip,door,door,achE,sippu,putative_determinative_prefix_removed:h,Literal dictionary anchor only; not a recovered Indus word.
+422,422,190,gate,comb:1;fence:1;sheaf:1,0.6,DigitalPasts,N:4151,zip,door,door,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+422,422,190,gate,comb:1;fence:1;sheaf:1,0.6,HinzKoch_existing,HK:711,e-el,"tor, pforte, ap",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+422,422,190,gate,comb:1;fence:1;sheaf:1,0.6,HinzKoch_existing,HK:714,el,"tor, pforte; s; ache auge(n) als kurzschreibung für eigentlich gemeintes elt; vgl, el-te ki sein eines auge; mehl; vgl",tor,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+422,422,190,gate,comb:1;fence:1;sheaf:1,0.6,HinzKoch_existing,HK:1236,hi-el,"ne tor, pforte, portal, übertragen (königs-)hof (or 36, 1967, 324; or 38, 1970, 433); f",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+422,422,190,gate,comb:1;fence:1;sheaf:1,0.6,HinzKoch_existing,HK:1270,hu-el,"ne, ache tor, pforte, portat, übertragen (königs-) hof ; s",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+422,422,190,gate,comb:1;fence:1;sheaf:1,0.6,HinzKoch_existing,HK:2092,si-ip,"ne portal, tor(gcbäudc), vgl",tor,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+422,422,190,gate,comb:1;fence:1;sheaf:1,0.6,HinzKoch_existing,HK:2389,zi-ip,"portal, tor(gebäude); s; (königliche) unterstützung, dürfte ap",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+423,422,190,comb,comb:1;fence:1;sheaf:1,1.0,DigitalPasts,N:112,a-h-hu-im,comb,comb,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+423,422,190,comb,comb:1;fence:1;sheaf:1,1.0,DigitalPasts,N:114,ah-hu-um,comb,comb,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+423,422,190,comb,comb:1;fence:1;sheaf:1,1.0,HinzKoch_existing,HK:38,a-h-hu-im,kamm; s,kamm,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+423,422,190,comb,comb:1;fence:1;sheaf:1,1.0,HinzKoch_existing,HK:39,ah-hu-um,kamm; s,kamm,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+423,422,190,gate,comb:1;fence:1;sheaf:1,1.0,DigitalPasts,N:383,ha-al-te-te,door,door,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+423,422,190,gate,comb:1;fence:1;sheaf:1,1.0,DigitalPasts,N:384,ha-al-ti-te,door,door,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+423,422,190,gate,comb:1;fence:1;sheaf:1,1.0,DigitalPasts,N:1620,e-el,door,door,achE,,putative_determinative_prefix_removed:h,Literal dictionary anchor only; not a recovered Indus word.
+423,422,190,gate,comb:1;fence:1;sheaf:1,1.0,DigitalPasts,N:1628,el,door,door,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+423,422,190,gate,comb:1;fence:1;sheaf:1,1.0,DigitalPasts,N:1667,e-ul,door,door,achE,,,Literal dictionary anchor only; not a recovered Indus word.
+423,422,190,gate,comb:1;fence:1;sheaf:1,1.0,DigitalPasts,N:2320,hal-ti,door,door,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+423,422,190,gate,comb:1;fence:1;sheaf:1,1.0,DigitalPasts,N:2471,hi-el,door,door,"mE, nE",,,Literal dictionary anchor only; not a recovered Indus word.
+423,422,190,gate,comb:1;fence:1;sheaf:1,1.0,DigitalPasts,N:2525,hu-el,door,door,"mE, nE, achE",,,Literal dictionary anchor only; not a recovered Indus word.
+423,422,190,gate,comb:1;fence:1;sheaf:1,1.0,DigitalPasts,N:3539,si-ip,door,door,"mE, nE",sippu,,Literal dictionary anchor only; not a recovered Indus word.
+423,422,190,gate,comb:1;fence:1;sheaf:1,1.0,DigitalPasts,N:4123,zí-ip,door,door,achE,sippu,putative_determinative_prefix_removed:h,Literal dictionary anchor only; not a recovered Indus word.
+423,422,190,gate,comb:1;fence:1;sheaf:1,1.0,DigitalPasts,N:4151,zip,door,door,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+423,422,190,gate,comb:1;fence:1;sheaf:1,1.0,HinzKoch_existing,HK:711,e-el,"tor, pforte, ap",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+423,422,190,gate,comb:1;fence:1;sheaf:1,1.0,HinzKoch_existing,HK:714,el,"tor, pforte; s; ache auge(n) als kurzschreibung für eigentlich gemeintes elt; vgl, el-te ki sein eines auge; mehl; vgl",tor,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+423,422,190,gate,comb:1;fence:1;sheaf:1,1.0,HinzKoch_existing,HK:1236,hi-el,"ne tor, pforte, portal, übertragen (königs-)hof (or 36, 1967, 324; or 38, 1970, 433); f",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+423,422,190,gate,comb:1;fence:1;sheaf:1,1.0,HinzKoch_existing,HK:1270,hu-el,"ne, ache tor, pforte, portat, übertragen (königs-) hof ; s",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+423,422,190,gate,comb:1;fence:1;sheaf:1,1.0,HinzKoch_existing,HK:2092,si-ip,"ne portal, tor(gcbäudc), vgl",tor,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+423,422,190,gate,comb:1;fence:1;sheaf:1,1.0,HinzKoch_existing,HK:2389,zi-ip,"portal, tor(gebäude); s; (königliche) unterstützung, dürfte ap",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+426,422,190,comb,comb:1;fence:1;sheaf:1,0.333,DigitalPasts,N:112,a-h-hu-im,comb,comb,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+426,422,190,comb,comb:1;fence:1;sheaf:1,0.333,DigitalPasts,N:114,ah-hu-um,comb,comb,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+426,422,190,comb,comb:1;fence:1;sheaf:1,0.333,HinzKoch_existing,HK:38,a-h-hu-im,kamm; s,kamm,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+426,422,190,comb,comb:1;fence:1;sheaf:1,0.333,HinzKoch_existing,HK:39,ah-hu-um,kamm; s,kamm,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+426,422,190,gate,comb:1;fence:1;sheaf:1,0.333,DigitalPasts,N:383,ha-al-te-te,door,door,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+426,422,190,gate,comb:1;fence:1;sheaf:1,0.333,DigitalPasts,N:384,ha-al-ti-te,door,door,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+426,422,190,gate,comb:1;fence:1;sheaf:1,0.333,DigitalPasts,N:1620,e-el,door,door,achE,,putative_determinative_prefix_removed:h,Literal dictionary anchor only; not a recovered Indus word.
+426,422,190,gate,comb:1;fence:1;sheaf:1,0.333,DigitalPasts,N:1628,el,door,door,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+426,422,190,gate,comb:1;fence:1;sheaf:1,0.333,DigitalPasts,N:1667,e-ul,door,door,achE,,,Literal dictionary anchor only; not a recovered Indus word.
+426,422,190,gate,comb:1;fence:1;sheaf:1,0.333,DigitalPasts,N:2320,hal-ti,door,door,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+426,422,190,gate,comb:1;fence:1;sheaf:1,0.333,DigitalPasts,N:2471,hi-el,door,door,"mE, nE",,,Literal dictionary anchor only; not a recovered Indus word.
+426,422,190,gate,comb:1;fence:1;sheaf:1,0.333,DigitalPasts,N:2525,hu-el,door,door,"mE, nE, achE",,,Literal dictionary anchor only; not a recovered Indus word.
+426,422,190,gate,comb:1;fence:1;sheaf:1,0.333,DigitalPasts,N:3539,si-ip,door,door,"mE, nE",sippu,,Literal dictionary anchor only; not a recovered Indus word.
+426,422,190,gate,comb:1;fence:1;sheaf:1,0.333,DigitalPasts,N:4123,zí-ip,door,door,achE,sippu,putative_determinative_prefix_removed:h,Literal dictionary anchor only; not a recovered Indus word.
+426,422,190,gate,comb:1;fence:1;sheaf:1,0.333,DigitalPasts,N:4151,zip,door,door,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+426,422,190,gate,comb:1;fence:1;sheaf:1,0.333,HinzKoch_existing,HK:711,e-el,"tor, pforte, ap",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+426,422,190,gate,comb:1;fence:1;sheaf:1,0.333,HinzKoch_existing,HK:714,el,"tor, pforte; s; ache auge(n) als kurzschreibung für eigentlich gemeintes elt; vgl, el-te ki sein eines auge; mehl; vgl",tor,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+426,422,190,gate,comb:1;fence:1;sheaf:1,0.333,HinzKoch_existing,HK:1236,hi-el,"ne tor, pforte, portal, übertragen (königs-)hof (or 36, 1967, 324; or 38, 1970, 433); f",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+426,422,190,gate,comb:1;fence:1;sheaf:1,0.333,HinzKoch_existing,HK:1270,hu-el,"ne, ache tor, pforte, portat, übertragen (königs-) hof ; s",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+426,422,190,gate,comb:1;fence:1;sheaf:1,0.333,HinzKoch_existing,HK:2092,si-ip,"ne portal, tor(gcbäudc), vgl",tor,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+426,422,190,gate,comb:1;fence:1;sheaf:1,0.333,HinzKoch_existing,HK:2389,zi-ip,"portal, tor(gebäude); s; (königliche) unterstützung, dürfte ap",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+467,468,178,comb,tent:2;house:1,0.75,DigitalPasts,N:112,a-h-hu-im,comb,comb,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+467,468,178,comb,tent:2;house:1,0.75,DigitalPasts,N:114,ah-hu-um,comb,comb,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+467,468,178,comb,tent:2;house:1,0.75,HinzKoch_existing,HK:38,a-h-hu-im,kamm; s,kamm,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+467,468,178,comb,tent:2;house:1,0.75,HinzKoch_existing,HK:39,ah-hu-um,kamm; s,kamm,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+468,468,178,comb,tent:2;house:1,1.0,DigitalPasts,N:112,a-h-hu-im,comb,comb,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+468,468,178,comb,tent:2;house:1,1.0,DigitalPasts,N:114,ah-hu-um,comb,comb,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+468,468,178,comb,tent:2;house:1,1.0,HinzKoch_existing,HK:38,a-h-hu-im,kamm; s,kamm,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+468,468,178,comb,tent:2;house:1,1.0,HinzKoch_existing,HK:39,ah-hu-um,kamm; s,kamm,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+470,468,178,comb,tent:2;house:1,0.75,DigitalPasts,N:112,a-h-hu-im,comb,comb,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+470,468,178,comb,tent:2;house:1,0.75,DigitalPasts,N:114,ah-hu-um,comb,comb,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+470,468,178,comb,tent:2;house:1,0.75,HinzKoch_existing,HK:38,a-h-hu-im,kamm; s,kamm,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+470,468,178,comb,tent:2;house:1,0.75,HinzKoch_existing,HK:39,ah-hu-um,kamm; s,kamm,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+472,468,178,comb,tent:2;house:1,0.75,DigitalPasts,N:112,a-h-hu-im,comb,comb,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+472,468,178,comb,tent:2;house:1,0.75,DigitalPasts,N:114,ah-hu-um,comb,comb,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+472,468,178,comb,tent:2;house:1,0.75,HinzKoch_existing,HK:38,a-h-hu-im,kamm; s,kamm,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+472,468,178,comb,tent:2;house:1,0.75,HinzKoch_existing,HK:39,ah-hu-um,kamm; s,kamm,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+475,468,178,comb,tent:2;house:1,1.0,DigitalPasts,N:112,a-h-hu-im,comb,comb,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+475,468,178,comb,tent:2;house:1,1.0,DigitalPasts,N:114,ah-hu-um,comb,comb,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+475,468,178,comb,tent:2;house:1,1.0,HinzKoch_existing,HK:38,a-h-hu-im,kamm; s,kamm,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+475,468,178,comb,tent:2;house:1,1.0,HinzKoch_existing,HK:39,ah-hu-um,kamm; s,kamm,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+484,484,136,roof,ladder:2;abstract:1,0.778,DigitalPasts,N:3060,me-nu-me,roof?,roof,nE,,uncertain_gloss,Literal dictionary anchor only; not a recovered Indus word.
+484,484,136,roof,ladder:2;abstract:1,0.778,HinzKoch_existing,HK:1021,ku-uk,"ne dach (wörtliche bedeutung), schutz (übertragene bedeutung); g",dach,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+504,504,206,tree,tree:1;tower:1;tent:1,0.857,DigitalPasts,N:2568,hu-sa-a,tree,tree,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+504,504,206,tree,tree:1;tower:1;tent:1,0.857,DigitalPasts,N:2570,hu-sa-me,tree-INANIM,tree,"oE, mE",,,Literal dictionary anchor only; not a recovered Indus word.
+515,070,155,tree,arrow:3,0.333,DigitalPasts,N:2568,hu-sa-a,tree,tree,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+515,070,155,tree,arrow:3,0.333,DigitalPasts,N:2570,hu-sa-me,tree-INANIM,tree,"oE, mE",,,Literal dictionary anchor only; not a recovered Indus word.
+521,521,212,tree,plough:1;lamp:1;arrow:1,1.0,DigitalPasts,N:2568,hu-sa-a,tree,tree,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+521,521,212,tree,plough:1;lamp:1;arrow:1,1.0,DigitalPasts,N:2570,hu-sa-me,tree-INANIM,tree,"oE, mE",,,Literal dictionary anchor only; not a recovered Indus word.
+564,564,223,comb,comb:1;rake:1;arrow:1,0.75,DigitalPasts,N:112,a-h-hu-im,comb,comb,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+564,564,223,comb,comb:1;rake:1;arrow:1,0.75,DigitalPasts,N:114,ah-hu-um,comb,comb,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+564,564,223,comb,comb:1;rake:1;arrow:1,0.75,HinzKoch_existing,HK:38,a-h-hu-im,kamm; s,kamm,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+564,564,223,comb,comb:1;rake:1;arrow:1,0.75,HinzKoch_existing,HK:39,ah-hu-um,kamm; s,kamm,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+565,565,224,comb,rake:2;arrow:1,0.833,DigitalPasts,N:112,a-h-hu-im,comb,comb,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+565,565,224,comb,rake:2;arrow:1,0.833,DigitalPasts,N:114,ah-hu-um,comb,comb,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+565,565,224,comb,rake:2;arrow:1,0.833,HinzKoch_existing,HK:38,a-h-hu-im,kamm; s,kamm,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+565,565,224,comb,rake:2;arrow:1,0.833,HinzKoch_existing,HK:39,ah-hu-um,kamm; s,kamm,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+570,570,199,tree,gate:2;tree:1,1.0,DigitalPasts,N:2568,hu-sa-a,tree,tree,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+570,570,199,tree,gate:2;tree:1,1.0,DigitalPasts,N:2570,hu-sa-me,tree-INANIM,tree,"oE, mE",,,Literal dictionary anchor only; not a recovered Indus word.
+570,570,199,gate,gate:2;tree:1,1.0,DigitalPasts,N:383,ha-al-te-te,door,door,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+570,570,199,gate,gate:2;tree:1,1.0,DigitalPasts,N:384,ha-al-ti-te,door,door,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+570,570,199,gate,gate:2;tree:1,1.0,DigitalPasts,N:1620,e-el,door,door,achE,,putative_determinative_prefix_removed:h,Literal dictionary anchor only; not a recovered Indus word.
+570,570,199,gate,gate:2;tree:1,1.0,DigitalPasts,N:1628,el,door,door,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+570,570,199,gate,gate:2;tree:1,1.0,DigitalPasts,N:1667,e-ul,door,door,achE,,,Literal dictionary anchor only; not a recovered Indus word.
+570,570,199,gate,gate:2;tree:1,1.0,DigitalPasts,N:2320,hal-ti,door,door,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+570,570,199,gate,gate:2;tree:1,1.0,DigitalPasts,N:2471,hi-el,door,door,"mE, nE",,,Literal dictionary anchor only; not a recovered Indus word.
+570,570,199,gate,gate:2;tree:1,1.0,DigitalPasts,N:2525,hu-el,door,door,"mE, nE, achE",,,Literal dictionary anchor only; not a recovered Indus word.
+570,570,199,gate,gate:2;tree:1,1.0,DigitalPasts,N:3539,si-ip,door,door,"mE, nE",sippu,,Literal dictionary anchor only; not a recovered Indus word.
+570,570,199,gate,gate:2;tree:1,1.0,DigitalPasts,N:4123,zí-ip,door,door,achE,sippu,putative_determinative_prefix_removed:h,Literal dictionary anchor only; not a recovered Indus word.
+570,570,199,gate,gate:2;tree:1,1.0,DigitalPasts,N:4151,zip,door,door,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+570,570,199,gate,gate:2;tree:1,1.0,HinzKoch_existing,HK:711,e-el,"tor, pforte, ap",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+570,570,199,gate,gate:2;tree:1,1.0,HinzKoch_existing,HK:714,el,"tor, pforte; s; ache auge(n) als kurzschreibung für eigentlich gemeintes elt; vgl, el-te ki sein eines auge; mehl; vgl",tor,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+570,570,199,gate,gate:2;tree:1,1.0,HinzKoch_existing,HK:1236,hi-el,"ne tor, pforte, portal, übertragen (königs-)hof (or 36, 1967, 324; or 38, 1970, 433); f",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+570,570,199,gate,gate:2;tree:1,1.0,HinzKoch_existing,HK:1270,hu-el,"ne, ache tor, pforte, portat, übertragen (königs-) hof ; s",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+570,570,199,gate,gate:2;tree:1,1.0,HinzKoch_existing,HK:2092,si-ip,"ne portal, tor(gcbäudc), vgl",tor,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+570,570,199,gate,gate:2;tree:1,1.0,HinzKoch_existing,HK:2389,zi-ip,"portal, tor(gebäude); s; (königliche) unterstützung, dürfte ap",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+572,572,195,door,door:2;arrow:1,1.0,DigitalPasts,N:383,ha-al-te-te,door,door,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+572,572,195,door,door:2;arrow:1,1.0,DigitalPasts,N:384,ha-al-ti-te,door,door,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+572,572,195,door,door:2;arrow:1,1.0,DigitalPasts,N:1620,e-el,door,door,achE,,putative_determinative_prefix_removed:h,Literal dictionary anchor only; not a recovered Indus word.
+572,572,195,door,door:2;arrow:1,1.0,DigitalPasts,N:1628,el,door,door,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+572,572,195,door,door:2;arrow:1,1.0,DigitalPasts,N:1667,e-ul,door,door,achE,,,Literal dictionary anchor only; not a recovered Indus word.
+572,572,195,door,door:2;arrow:1,1.0,DigitalPasts,N:2320,hal-ti,door,door,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+572,572,195,door,door:2;arrow:1,1.0,DigitalPasts,N:2471,hi-el,door,door,"mE, nE",,,Literal dictionary anchor only; not a recovered Indus word.
+572,572,195,door,door:2;arrow:1,1.0,DigitalPasts,N:2525,hu-el,door,door,"mE, nE, achE",,,Literal dictionary anchor only; not a recovered Indus word.
+572,572,195,door,door:2;arrow:1,1.0,DigitalPasts,N:3539,si-ip,door,door,"mE, nE",sippu,,Literal dictionary anchor only; not a recovered Indus word.
+572,572,195,door,door:2;arrow:1,1.0,DigitalPasts,N:4123,zí-ip,door,door,achE,sippu,putative_determinative_prefix_removed:h,Literal dictionary anchor only; not a recovered Indus word.
+572,572,195,door,door:2;arrow:1,1.0,DigitalPasts,N:4151,zip,door,door,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+572,572,195,door,door:2;arrow:1,1.0,HinzKoch_existing,HK:711,e-el,"tor, pforte, ap",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+572,572,195,door,door:2;arrow:1,1.0,HinzKoch_existing,HK:714,el,"tor, pforte; s; ache auge(n) als kurzschreibung für eigentlich gemeintes elt; vgl, el-te ki sein eines auge; mehl; vgl",tor,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+572,572,195,door,door:2;arrow:1,1.0,HinzKoch_existing,HK:1236,hi-el,"ne tor, pforte, portal, übertragen (königs-)hof (or 36, 1967, 324; or 38, 1970, 433); f",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+572,572,195,door,door:2;arrow:1,1.0,HinzKoch_existing,HK:1270,hu-el,"ne, ache tor, pforte, portat, übertragen (königs-) hof ; s",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+572,572,195,door,door:2;arrow:1,1.0,HinzKoch_existing,HK:2092,si-ip,"ne portal, tor(gcbäudc), vgl",tor,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+572,572,195,door,door:2;arrow:1,1.0,HinzKoch_existing,HK:2389,zi-ip,"portal, tor(gebäude); s; (königliche) unterstützung, dürfte ap",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+572,572,195,house,door:2;arrow:1,1.0,DigitalPasts,N:4,a-a-in,house,house,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+572,572,195,house,door:2;arrow:1,1.0,DigitalPasts,N:18,a-a-ni-ip,house-PL,house,"oE, mE",,,Literal dictionary anchor only; not a recovered Indus word.
+572,572,195,house,door:2;arrow:1,1.0,DigitalPasts,N:19,a-a-ni-ri,house-SG-3SG.POSS,house,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+572,572,195,house,door:2;arrow:1,1.0,DigitalPasts,N:24,a-a-ni-ip-ù-be,house-PL-1SG-3PL.AGR,house,"oE, mE",,,Literal dictionary anchor only; not a recovered Indus word.
+572,572,195,house,door:2;arrow:1,1.0,DigitalPasts,N:25,a-hi-in,house,house,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+572,572,195,house,door:2;arrow:1,1.0,DigitalPasts,N:26,a-h-in,house,house,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+572,572,195,house,door:2;arrow:1,1.0,DigitalPasts,N:36,a-a-ni,house-3SG.POSS,house,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+572,572,195,house,door:2;arrow:1,1.0,DigitalPasts,N:45,ha-a-in,house,house,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+572,572,195,house,door:2;arrow:1,1.0,DigitalPasts,N:123,a-i-in,house,house,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+572,572,195,house,door:2;arrow:1,1.0,DigitalPasts,N:2052,ku-iš,house(=dynasty),house,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+572,572,195,house,door:2;arrow:1,1.0,DigitalPasts,N:2213,ku-uš,house(=dynasty),house,"oE, mE",,,Literal dictionary anchor only; not a recovered Indus word.
+572,572,195,house,door:2;arrow:1,1.0,DigitalPasts,Uncalss:31,a-a-ni-ip-me,house-PL-INANIM.AGR,house,oE,,,Literal dictionary anchor only; not a recovered Indus word.
+572,572,195,house,door:2;arrow:1,1.0,HinzKoch_existing,HK:1,a-a-in,"haus, s",haus,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+572,572,195,house,door:2;arrow:1,1.0,HinzKoch_existing,HK:5,a-a-ni,sein haus; s,haus,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+572,572,195,house,door:2;arrow:1,1.0,HinzKoch_existing,HK:42,a-hi-in,haus; s,haus,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+572,572,195,house,door:2;arrow:1,1.0,HinzKoch_existing,HK:44,a-h-in,"haus, s",haus,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+572,572,195,house,door:2;arrow:1,1.0,HinzKoch_existing,HK:1059,ha-a-in,haus; s,haus,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+603,603,238,door,box:1;brick:1;door:1,0.6,DigitalPasts,N:383,ha-al-te-te,door,door,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+603,603,238,door,box:1;brick:1;door:1,0.6,DigitalPasts,N:384,ha-al-ti-te,door,door,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+603,603,238,door,box:1;brick:1;door:1,0.6,DigitalPasts,N:1620,e-el,door,door,achE,,putative_determinative_prefix_removed:h,Literal dictionary anchor only; not a recovered Indus word.
+603,603,238,door,box:1;brick:1;door:1,0.6,DigitalPasts,N:1628,el,door,door,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+603,603,238,door,box:1;brick:1;door:1,0.6,DigitalPasts,N:1667,e-ul,door,door,achE,,,Literal dictionary anchor only; not a recovered Indus word.
+603,603,238,door,box:1;brick:1;door:1,0.6,DigitalPasts,N:2320,hal-ti,door,door,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+603,603,238,door,box:1;brick:1;door:1,0.6,DigitalPasts,N:2471,hi-el,door,door,"mE, nE",,,Literal dictionary anchor only; not a recovered Indus word.
+603,603,238,door,box:1;brick:1;door:1,0.6,DigitalPasts,N:2525,hu-el,door,door,"mE, nE, achE",,,Literal dictionary anchor only; not a recovered Indus word.
+603,603,238,door,box:1;brick:1;door:1,0.6,DigitalPasts,N:3539,si-ip,door,door,"mE, nE",sippu,,Literal dictionary anchor only; not a recovered Indus word.
+603,603,238,door,box:1;brick:1;door:1,0.6,DigitalPasts,N:4123,zí-ip,door,door,achE,sippu,putative_determinative_prefix_removed:h,Literal dictionary anchor only; not a recovered Indus word.
+603,603,238,door,box:1;brick:1;door:1,0.6,DigitalPasts,N:4151,zip,door,door,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+603,603,238,door,box:1;brick:1;door:1,0.6,HinzKoch_existing,HK:711,e-el,"tor, pforte, ap",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+603,603,238,door,box:1;brick:1;door:1,0.6,HinzKoch_existing,HK:714,el,"tor, pforte; s; ache auge(n) als kurzschreibung für eigentlich gemeintes elt; vgl, el-te ki sein eines auge; mehl; vgl",tor,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+603,603,238,door,box:1;brick:1;door:1,0.6,HinzKoch_existing,HK:1236,hi-el,"ne tor, pforte, portal, übertragen (königs-)hof (or 36, 1967, 324; or 38, 1970, 433); f",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+603,603,238,door,box:1;brick:1;door:1,0.6,HinzKoch_existing,HK:1270,hu-el,"ne, ache tor, pforte, portat, übertragen (königs-) hof ; s",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+603,603,238,door,box:1;brick:1;door:1,0.6,HinzKoch_existing,HK:2092,si-ip,"ne portal, tor(gcbäudc), vgl",tor,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+603,603,238,door,box:1;brick:1;door:1,0.6,HinzKoch_existing,HK:2389,zi-ip,"portal, tor(gebäude); s; (königliche) unterstützung, dürfte ap",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+603,603,238,box,box:1;brick:1;door:1,0.6,HinzKoch_existing,HK:773,qa-bar,"truhe, kasten, kiste o",kasten,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+621,621,242,door,door:3,0.833,DigitalPasts,N:383,ha-al-te-te,door,door,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+621,621,242,door,door:3,0.833,DigitalPasts,N:384,ha-al-ti-te,door,door,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+621,621,242,door,door:3,0.833,DigitalPasts,N:1620,e-el,door,door,achE,,putative_determinative_prefix_removed:h,Literal dictionary anchor only; not a recovered Indus word.
+621,621,242,door,door:3,0.833,DigitalPasts,N:1628,el,door,door,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+621,621,242,door,door:3,0.833,DigitalPasts,N:1667,e-ul,door,door,achE,,,Literal dictionary anchor only; not a recovered Indus word.
+621,621,242,door,door:3,0.833,DigitalPasts,N:2320,hal-ti,door,door,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+621,621,242,door,door:3,0.833,DigitalPasts,N:2471,hi-el,door,door,"mE, nE",,,Literal dictionary anchor only; not a recovered Indus word.
+621,621,242,door,door:3,0.833,DigitalPasts,N:2525,hu-el,door,door,"mE, nE, achE",,,Literal dictionary anchor only; not a recovered Indus word.
+621,621,242,door,door:3,0.833,DigitalPasts,N:3539,si-ip,door,door,"mE, nE",sippu,,Literal dictionary anchor only; not a recovered Indus word.
+621,621,242,door,door:3,0.833,DigitalPasts,N:4123,zí-ip,door,door,achE,sippu,putative_determinative_prefix_removed:h,Literal dictionary anchor only; not a recovered Indus word.
+621,621,242,door,door:3,0.833,DigitalPasts,N:4151,zip,door,door,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+621,621,242,door,door:3,0.833,HinzKoch_existing,HK:711,e-el,"tor, pforte, ap",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+621,621,242,door,door:3,0.833,HinzKoch_existing,HK:714,el,"tor, pforte; s; ache auge(n) als kurzschreibung für eigentlich gemeintes elt; vgl, el-te ki sein eines auge; mehl; vgl",tor,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+621,621,242,door,door:3,0.833,HinzKoch_existing,HK:1236,hi-el,"ne tor, pforte, portal, übertragen (königs-)hof (or 36, 1967, 324; or 38, 1970, 433); f",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+621,621,242,door,door:3,0.833,HinzKoch_existing,HK:1270,hu-el,"ne, ache tor, pforte, portat, übertragen (königs-) hof ; s",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+621,621,242,door,door:3,0.833,HinzKoch_existing,HK:2092,si-ip,"ne portal, tor(gcbäudc), vgl",tor,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+621,621,242,door,door:3,0.833,HinzKoch_existing,HK:2389,zi-ip,"portal, tor(gebäude); s; (königliche) unterstützung, dürfte ap",tor,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+698,698,6,man,man:3,0.75,DigitalPasts,N:3399,ru-h,man,man,achE,,putative_determinative_prefix_removed:v,Literal dictionary anchor only; not a recovered Indus word.
+698,698,6,man,man:3,0.75,HinzKoch_existing,HK:200,ba-nu-mi-in-pi-ra,"der mann von den leuten des banumt; vgl, hw",mann,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+698,698,6,man,man:3,0.75,HinzKoch_existing,HK:1193,har-ku-ra,"mann aus harku, herkunftsbezeichnung als eigenname",mann,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+698,698,6,man,man:3,0.75,HinzKoch_existing,HK:1441,r-w-i-da-li-ra,mann aus hidali,mann,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+698,698,6,man,man:3,0.75,HinzKoch_existing,HK:1766,mi-mu-ra-gi-ir,"ein mann aus mimuras(i), nachbarort von sali und luppun",mann,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+702,702,329,jar,comb:1;jar:1;cup:1,0.571,DigitalPasts,N:888,pi-ti,jug,jug,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+702,702,329,jar,comb:1;jar:1;cup:1,0.571,HinzKoch_existing,HK:338,pi-ti,"gefäß, vielleicht auch krug, unsicher",gefass,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+702,702,329,cup,comb:1;jar:1;cup:1,0.571,DigitalPasts,N:1813,qa-pu-ut,cup?,cup,nE,,uncertain_gloss,Literal dictionary anchor only; not a recovered Indus word.
+702,702,329,cup,comb:1;jar:1;cup:1,0.571,HinzKoch_existing,HK:2094,si-ir-ri,"vielleicht schale mit flüsing (quellen, 1916, 68); könig (drei altelarn, stelen, 1925, 42) riet auf ""weihkessel""",schale,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+710,710,331,tree,fork:1;tree:1;cup:1,0.667,DigitalPasts,N:2568,hu-sa-a,tree,tree,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+710,710,331,tree,fork:1;tree:1;cup:1,0.667,DigitalPasts,N:2570,hu-sa-me,tree-INANIM,tree,"oE, mE",,,Literal dictionary anchor only; not a recovered Indus word.
+710,710,331,cup,fork:1;tree:1;cup:1,0.667,DigitalPasts,N:1813,qa-pu-ut,cup?,cup,nE,,uncertain_gloss,Literal dictionary anchor only; not a recovered Indus word.
+710,710,331,cup,fork:1;tree:1;cup:1,0.667,HinzKoch_existing,HK:2094,si-ir-ri,"vielleicht schale mit flüsing (quellen, 1916, 68); könig (drei altelarn, stelen, 1925, 42) riet auf ""weihkessel""",schale,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+770,770,359,comb,cup:2;comb:1,1.0,DigitalPasts,N:112,a-h-hu-im,comb,comb,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+770,770,359,comb,cup:2;comb:1,1.0,DigitalPasts,N:114,ah-hu-um,comb,comb,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+770,770,359,comb,cup:2;comb:1,1.0,HinzKoch_existing,HK:38,a-h-hu-im,kamm; s,kamm,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+770,770,359,comb,cup:2;comb:1,1.0,HinzKoch_existing,HK:39,ah-hu-um,kamm; s,kamm,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+770,770,359,cup,cup:2;comb:1,1.0,DigitalPasts,N:1813,qa-pu-ut,cup?,cup,nE,,uncertain_gloss,Literal dictionary anchor only; not a recovered Indus word.
+770,770,359,cup,cup:2;comb:1,1.0,HinzKoch_existing,HK:2094,si-ir-ri,"vielleicht schale mit flüsing (quellen, 1916, 68); könig (drei altelarn, stelen, 1925, 42) riet auf ""weihkessel""",schale,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+772,772,348,tree,jar:2;cup:1,0.889,DigitalPasts,N:2568,hu-sa-a,tree,tree,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+772,772,348,tree,jar:2;cup:1,0.889,DigitalPasts,N:2570,hu-sa-me,tree-INANIM,tree,"oE, mE",,,Literal dictionary anchor only; not a recovered Indus word.
+772,772,348,jar,jar:2;cup:1,0.889,DigitalPasts,N:888,pi-ti,jug,jug,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+772,772,348,jar,jar:2;cup:1,0.889,HinzKoch_existing,HK:338,pi-ti,"gefäß, vielleicht auch krug, unsicher",gefass,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+773,772,348,tree,jar:2;cup:1,1.0,DigitalPasts,N:2568,hu-sa-a,tree,tree,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+773,772,348,tree,jar:2;cup:1,1.0,DigitalPasts,N:2570,hu-sa-me,tree-INANIM,tree,"oE, mE",,,Literal dictionary anchor only; not a recovered Indus word.
+773,772,348,jar,jar:2;cup:1,1.0,DigitalPasts,N:888,pi-ti,jug,jug,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+773,772,348,jar,jar:2;cup:1,1.0,HinzKoch_existing,HK:338,pi-ti,"gefäß, vielleicht auch krug, unsicher",gefass,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+776,776,367,tree,tree:2;flower:1,0.75,DigitalPasts,N:2568,hu-sa-a,tree,tree,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+776,776,367,tree,tree:2;flower:1,0.75,DigitalPasts,N:2570,hu-sa-me,tree-INANIM,tree,"oE, mE",,,Literal dictionary anchor only; not a recovered Indus word.
+786,786,371,comb,comb:2;jar:1,1.0,DigitalPasts,N:112,a-h-hu-im,comb,comb,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+786,786,371,comb,comb:2;jar:1,1.0,DigitalPasts,N:114,ah-hu-um,comb,comb,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+786,786,371,comb,comb:2;jar:1,1.0,HinzKoch_existing,HK:38,a-h-hu-im,kamm; s,kamm,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+786,786,371,comb,comb:2;jar:1,1.0,HinzKoch_existing,HK:39,ah-hu-um,kamm; s,kamm,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+808,808,375,seed,seed:1;leaf:1;grain:1,0.667,DigitalPasts,N:314,pa-a-ar,seed,seed,,,,Literal dictionary anchor only; not a recovered Indus word.
+808,808,375,seed,seed:1;leaf:1;grain:1,0.667,DigitalPasts,N:439,ba-ar-e,seed-3SG.POSS,seed,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+808,808,375,seed,seed:1;leaf:1;grain:1,0.667,DigitalPasts,N:441,pa-ar,seed,seed,,,,Literal dictionary anchor only; not a recovered Indus word.
+808,808,375,seed,seed:1;leaf:1;grain:1,0.667,DigitalPasts,N:512,ba-ir,seed,seed,achE,,,Literal dictionary anchor only; not a recovered Indus word.
+808,808,375,seed,seed:1;leaf:1;grain:1,0.667,DigitalPasts,N:609,ba-ri-e,seed-3SG.POSS,seed,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+868,868,275,box,book:2;diamond:1,1.0,HinzKoch_existing,HK:773,qa-bar,"truhe, kasten, kiste o",kasten,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+880,880,286,sun,wheel:3,0.875,DigitalPasts,N:1012,na-hu-te,sun,sun,oE,,,Literal dictionary anchor only; not a recovered Indus word.
+880,880,286,sun,wheel:3,0.875,HinzKoch_existing,HK:1858,na-h-hu-te,"sonne, variante zu d",sonne,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+880,880,286,sun,wheel:3,0.875,HinzKoch_existing,HK:1859,na-b-hu-un-te,sonne; zur herkunft des wortes s,sonne,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+880,880,286,sun,wheel:3,0.875,HinzKoch_existing,HK:1860,uah-hu-un-te,"ne sonne, sonnengott; s",sonne,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+880,880,286,sun,wheel:3,0.875,HinzKoch_existing,HK:1862,aalhiti-ri,"in ae strichschrift, der (einer) der sonne, des sonnengottes, ganz ungesichert; cur lesung s",sonne,,,German_OCR_gloss_requires_review; grammatical_or_editorial_context,Literal dictionary anchor only; not a recovered Indus word.
+890,890,304,shield,halfmoon:1;shield:1;moon:1,0.5,HinzKoch_existing,HK:2252,uk-ku-ra-ap,schild mit f,schild,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+891,891,305,comb,comb:1;bow:1;moon:1,1.0,DigitalPasts,N:112,a-h-hu-im,comb,comb,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+891,891,305,comb,comb:1;bow:1;moon:1,1.0,DigitalPasts,N:114,ah-hu-um,comb,comb,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+891,891,305,comb,comb:1;bow:1;moon:1,1.0,HinzKoch_existing,HK:38,a-h-hu-im,kamm; s,kamm,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+891,891,305,comb,comb:1;bow:1;moon:1,1.0,HinzKoch_existing,HK:39,ah-hu-um,kamm; s,kamm,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+903,903,290,comb,bow:1;comb:1;branch:1,0.75,DigitalPasts,N:112,a-h-hu-im,comb,comb,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+903,903,290,comb,bow:1;comb:1;branch:1,0.75,DigitalPasts,N:114,ah-hu-um,comb,comb,mE,,,Literal dictionary anchor only; not a recovered Indus word.
+903,903,290,comb,bow:1;comb:1;branch:1,0.75,HinzKoch_existing,HK:38,a-h-hu-im,kamm; s,kamm,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+903,903,290,comb,bow:1;comb:1;branch:1,0.75,HinzKoch_existing,HK:39,ah-hu-um,kamm; s,kamm,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.
+905,905,295,horn,bow:2;horn:1,0.333,DigitalPasts,ADJ:210,kás-su-na,horn-GEN,horn,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+905,905,295,horn,bow:2;horn:1,0.333,DigitalPasts,N:1690,qa-as-su,horn,horn,"mE, nE",,,Literal dictionary anchor only; not a recovered Indus word.
+905,905,295,horn,bow:2;horn:1,0.333,DigitalPasts,N:1870,kás-su,horn,horn,nE,,,Literal dictionary anchor only; not a recovered Indus word.
+905,905,295,horn,bow:2;horn:1,0.333,DigitalPasts,N:1871,kas-su-ip,horn-PL,horn,achE,,putative_determinative_prefix_removed:hh,Literal dictionary anchor only; not a recovered Indus word.
+905,905,295,horn,bow:2;horn:1,0.333,DigitalPasts,Uncalss:478,qa-su-mu,horn,horn,nE,,putative_determinative_prefix_removed:h,Literal dictionary anchor only; not a recovered Indus word.
+905,905,295,horn,bow:2;horn:1,0.333,HinzKoch_existing,HK:767,qa-as-su,ne hörn; die bedeutung war lange umstritten; die richtige lösung fand schon 1901 v,horn,,,German_OCR_gloss_requires_review,Literal dictionary anchor only; not a recovered Indus word.

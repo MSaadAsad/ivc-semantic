@@ -1,0 +1,1073 @@
+case,side,language,key,headword,gloss,source,row,entry,flag,matched_heads
+roof_protection,picture,Tamil,aṇṇam,aṇṇam,"palate, roof of the mouth, uvula",dedr_new.csv,2032,110,unmarked,roof
+roof_protection,picture,Tamil,vey,"vēy (-v-, -nt-)","to cover (as a building), roof, thatch, put on (as a garland)",dedr_new.csv,75018,5532,unmarked,roof
+roof_protection,picture,Tamil,mey,"mēy (-v-, -nt-)","to cover fully, thatch, roof (as with tiles)",dedr_new.csv,75021,5532,unmarked,roof
+roof_protection,target,Tamil,aṭaikkalam,aṭaikkalam,"refuge, shelter, deposit",dedr_new.csv,1586,79,unmarked,shelter
+roof_protection,target,Tamil,aṇai,aṇai,"support, prop, protection, help",dedr_new.csv,2222,123,unmarked,protection
+roof_protection,target,Tamil,aḷi,"aḷi (-v-, -nt-)","to be attached; (-pp-, -tt-) to protect, nourish, be gracious, show favour, create desire; love, grace, desire",dedr_new.csv,4398,301,unmarked,protect
+roof_protection,target,Tamil,ompu,ōmpu (ōmpi-),"to protect, cherish, bring up",dedr_new.csv,15702,1056,unmarked,protect
+roof_protection,target,Tamil,kaṭi,kaṭi,"protection, safeguard, defence",dedr_new.csv,16513,1127,unmarked,protection
+roof_protection,target,Tamil,ka,"kā (-pp-, -tt-)","to preserve, shelter, watch, guard, ward off, rescue, wait for; preservation, protection",dedr_new.csv,20223,1416,unmarked,guard; protection; shelter
+roof_protection,target,Tamil,kappu,kāppu,"watching, caution, preservation, defence, guard, protection, that which serves as a protection, amulet, fence, fortification, prison",dedr_new.csv,20225,1416,unmarked,guard; protection
+roof_protection,target,Tamil,kaval,kāval,"watching, caution, preservation, defence, guard, protection, that which serves as a protection, amulet, fence, fortification, prison",dedr_new.csv,20226,1416,unmarked,guard; protection
+roof_protection,target,Tamil,kappaṟṟu,kāppāṟṟu (kāppāṟṟi-),"to guard, protect, save",dedr_new.csv,20229,1416,unmarked,guard; protect
+roof_protection,target,Tamil,ciṟai,"ciṟai (-pp-, -tt-)","to restrain, imprison, dam up; guard, confinement, prison, captivity; dam, bank, tank, boundary",dedr_new.csv,27441,1980,unmarked,guard
+roof_protection,target,Tamil,carpu,cārpu,"place, side, help, support, refuge, shelter, attachment, birth, bias, partiality, friendship, approximation, nearness",dedr_new.csv,32500,2460,unmarked,shelter
+roof_protection,target,Tamil,taṭai,"taṭai (-v-, -nt-)","to hinder, stop; (-pp-, -tt-) id.; resisting, obstructing, hindrance, obstacle, impediment, objection, coat of mail, guard, watch, door, gate, bund, embankment",dedr_new.csv,39416,3031,unmarked,guard
+roof_protection,target,Tamil,taṅku,tāṅku (tāṅki-),"to uphold, bear up, support, protect, guard, give shelter, endure, bear, assume, wear (as crown), delay, hinder, prevent, resist, ward off; bearing, supporting, support",dedr_new.csv,40961,3153,unmarked,guard; protect
+roof_protection,target,Tamil,tuṇai,tuṇai,"association, company, help, assistance, support, protection, companion, escort, friend, pair, couple, husband, wife, mate, brother or sister, comparison, similitude, conjugal union; (-v-, -nt-; -pp-, -tt-) to resemble, be like",dedr_new.csv,43006,3308,unmarked,protection
+roof_protection,target,Tamil,niraṟṟu,nir̤aṟṟu (nir̤aṟṟi-),"to shed radiance, shade, protect",dedr_new.csv,48294,3679,unmarked,protect
+roof_protection,target,Tamil,nokku,nōkku (nōkki-),"to see, look at, behold, view, consider, reflect, regard, pay attention to, arrange, put in order, keep, protect, save, do, perform, resemble, compare, read, desire; eye, sight, look, beauty, meaning, intention, knowledge, greatness, mode, style",dedr_new.csv,50329,3794,unmarked,protect
+roof_protection,target,Tamil,pura,"pura (-pp-, -nt-)","to keep, preserve, protect, govern, bestow, reverence",dedr_new.csv,56177,4283,unmarked,protect
+roof_protection,target,Tamil,purappu,purappu,"keeping, protection",dedr_new.csv,56179,4283,unmarked,protection
+roof_protection,target,Tamil,puravu,puravu,"care, protection, gift, boon, tax, land given free of rent by a king",dedr_new.csv,56180,4283,unmarked,protection
+roof_protection,target,Tamil,peṇ,pēṇ,protection,dedr_new.csv,58436,4436,unmarked,protection
+roof_protection,target,Tamil,peṇu,pēṇu (pēṇi-),"to treat tenderly, cherish, foster, protect, regard, esteem, honour, treat courteously, worship, care for",dedr_new.csv,58437,4436,unmarked,protect
+roof_protection,target,Tamil,peḷ,"peḷ (peṭp-, peṭṭ-)",to protect,dedr_new.csv,58441,4436,unmarked,protect
+roof_protection,target,Tamil,peṭpu,peṭpu,protection,dedr_new.csv,58442,4436,unmarked,protection
+roof_protection,target,Tamil,poṟṟu,pōṟṟu (pōṟṟi-),"to praise, applaud, worship, protect, cherish, nourish, entertain; protection, praise",dedr_new.csv,60637,4605,unmarked,protect; protection
+roof_protection,target,Tamil,maṟai,"maṟai (-v-, -nt-)","to be hidden, shrouded, disappear, recede (as from sight); (-pp-, -tt-) to hide, conceal, cover, shelter, protect; concealment, secret, disguise, refuge, fraud",dedr_new.csv,62500,4760,unmarked,protect; shelter
+roof_protection,target,Tamil,miḷai,miḷai,"wood, forest serving as a defence, thicket, copse, bush, fenced enclosure; guard, watch",dedr_new.csv,64281,4873,unmarked,guard
+roof_protection,picture,Malayalam,mukaḷ,mukaḷ,"top, summit, ridge, roof",dedr_new.csv,64598,4888,unmarked,roof
+roof_protection,target,Malayalam,aṭakkaḷam,aṭakkaḷam,shelter,dedr_new.csv,1598,79,unmarked,shelter
+roof_protection,target,Malayalam,aṭa,aṭa,"incubation; bail, pledge; shelter, refuge",dedr_new.csv,1602,79,unmarked,shelter
+roof_protection,target,Malayalam,aḷikkuka,aḷikkuka,"to grant, bestow, protect",dedr_new.csv,4404,301,unmarked,protect
+roof_protection,target,Malayalam,otukku,otukku,shelter,dedr_new.csv,14542,973,unmarked,shelter
+roof_protection,target,Malayalam,kappikka,kāppikka,"to cause to watch, protect, etc",dedr_new.csv,20234,1416,unmarked,protect
+roof_protection,target,Malayalam,kappattuka,kāppāttuka,"to protect, save, take care of, watch, guard",dedr_new.csv,20235,1416,unmarked,guard; protect
+roof_protection,target,Malayalam,kaval,kāval,"custody, guard, prison",dedr_new.csv,20236,1416,unmarked,guard
+roof_protection,target,Malayalam,taṅṅal,taṅṅal,"rest, shelter",dedr_new.csv,39155,3014,unmarked,shelter
+roof_protection,target,Malayalam,tuṇa,tuṇa,"match, companion, help, assistance, guard, convoy",dedr_new.csv,43014,3308,unmarked,guard
+roof_protection,target,Malayalam,tuṇekka,tuṇekka,"to help, succour, protect, accompany",dedr_new.csv,43016,3308,unmarked,protect
+roof_protection,target,Malayalam,poṟṟuka,pōṟṟuka,"to preserve, protect, adore",dedr_new.csv,60640,4605,unmarked,protect
+roof_protection,target,Malayalam,maṟa,maṟa,"a screen, shelter, covering, secret",dedr_new.csv,62503,4760,unmarked,shelter
+roof_protection,target,Malayalam,maṟavu,maṟavu,"shelter, cover, concealment",dedr_new.csv,62505,4760,unmarked,shelter
+roof_protection,target,Malayalam,maṟeppu,maṟeppu,"coverlet, shelter, protection",dedr_new.csv,62507,4760,unmarked,protection; shelter
+roof_protection,target,Malayalam,maṟappu,maṟappu,"coverlet, shelter, protection",dedr_new.csv,62508,4760,unmarked,protection; shelter
+roof_protection,picture,Kannada,eṟakil,eṟakil,"a roof, thatch",dedr_new.csv,8393,528,unmarked,roof
+roof_protection,picture,Kannada,eṟake,eṟake,"a roof, thatch",dedr_new.csv,8394,528,unmarked,roof
+roof_protection,picture,Kannada,podake,podake,"cover, wrapper, thatch, roof",dedr_new.csv,59442,4509,unmarked,roof
+roof_protection,target,Kannada,anisu,ānisu,"to bend or hold towards, make lean against, cause to recline on, cause to be upheld, protect",dedr_new.csv,5863,408,unmarked,protect
+roof_protection,target,Kannada,apu,āpu,"an object to lean on, refuge, protection",dedr_new.csv,5865,408,unmarked,protection
+roof_protection,target,Kannada,uppu,uppu,"love, esp. doting affection; being, abiding; protection, esp. of a place marked out by lines in a game",dedr_new.csv,11069,710,unmarked,protection
+roof_protection,target,Kannada,ovu,ōvu,"to take care of, guard, protect, cherish",dedr_new.csv,15707,1056,unmarked,guard; protect
+roof_protection,target,Kannada,ka,kā (kād-),"to guard, protect, keep, save, tend, watch, keep in check",dedr_new.csv,20245,1416,unmarked,guard; protect
+roof_protection,target,Kannada,kay,kāy (kād-/kāyd-),"to guard, protect, keep, save, tend, watch, keep in check",dedr_new.csv,20246,1416,unmarked,guard; protect
+roof_protection,target,Kannada,kayi,kāyi (kāyid-),"to guard, protect, keep, save, tend, watch, keep in check",dedr_new.csv,20247,1416,unmarked,guard; protect
+roof_protection,target,Kannada,kayi,kāyi,"person who tends, watches, guards",dedr_new.csv,20253,1416,unmarked,guards
+roof_protection,target,Kannada,kayu,kāyu (kād-),"to guard, protect, keep, save, tend, watch, keep in check, to wait",dedr_new.csv,20248,1416,unmarked,guard; protect
+roof_protection,target,Kannada,kapaḍu,kāpāḍu,"to guard, take care of",dedr_new.csv,20252,1416,unmarked,guard
+roof_protection,target,Kannada,kahi,kāhi,"person who tends, watches, guards",dedr_new.csv,20254,1416,unmarked,guards
+roof_protection,target,Kannada,kaval,kāval,"guarding, protecting, watching, a guard, custody, place where anything is guarded",dedr_new.csv,20256,1416,unmarked,guard
+roof_protection,target,Kannada,kavala,kāvala,"guarding, protecting, watching, a guard, custody, place where anything is guarded",dedr_new.csv,20257,1416,unmarked,guard
+roof_protection,target,Kannada,kavali,kāvali,"guarding, protecting, watching, a guard, custody, place where anything is guarded",dedr_new.csv,20258,1416,unmarked,guard
+roof_protection,target,Kannada,kavalu,kāvalu,"guarding, protecting, watching, a guard, custody, place where anything is guarded",dedr_new.csv,20259,1416,unmarked,guard
+roof_protection,target,Kannada,saku,sāku,"to bring up, foster, rear, nurse, keep, protect, preserve; bringing up, fostering, etc",dedr_new.csv,32221,2427,unmarked,protect
+roof_protection,target,Kannada,caṭu,cāṭu,"a refuge, shelter, anything that screens from rain, wind or heat of the sun",dedr_new.csv,32347,2441,unmarked,shelter
+roof_protection,target,Kannada,seṟaṅgu,seṟaṅgu,"either end of a piece of cotton or silk cloth used as a garment, the loose end of a garment, that end which is put over the shoulder or head, the ornamental coloured cross stripes near each of the ends; cover, protection, refuge",dedr_new.csv,36528,2796,unmarked,protection
+roof_protection,target,Kannada,seṟagu,seṟagu,"either end of a piece of cotton or silk cloth used as a garment, the loose end of a garment, that end which is put over the shoulder or head, the ornamental coloured cross stripes near each of the ends; cover, protection, refuge",dedr_new.csv,36529,2796,unmarked,protection
+roof_protection,target,Kannada,saṟaṅgu,saṟaṅgu,"either end of a piece of cotton or silk cloth used as a garment, the loose end of a garment, that end which is put over the shoulder or head, the ornamental coloured cross stripes near each of the ends; cover, protection, refuge",dedr_new.csv,36530,2796,unmarked,protection
+roof_protection,target,Kannada,saṟagu,saṟagu,"either end of a piece of cotton or silk cloth used as a garment, the loose end of a garment, that end which is put over the shoulder or head, the ornamental coloured cross stripes near each of the ends; cover, protection, refuge",dedr_new.csv,36531,2796,unmarked,protection
+roof_protection,target,Kannada,pudugu,pudugu,"to enter, be covered or hidden, hide; insert, hide, shelter",dedr_new.csv,59444,4509,unmarked,shelter
+roof_protection,target,Kannada,moṟe,moṟe,"shelter, refuge",dedr_new.csv,62537,4760,unmarked,shelter
+roof_protection,target,Telugu,aṇḍa,aṇḍa,"nearness, support, assistance, protection, patronage",dedr_new.csv,2185,120,unmarked,protection
+roof_protection,target,Telugu,agu,ã̄gu,"to stop, stay, be suppressed or stopped, refrain; prevent, stop, prohibit, (B also) keep, tend, guard, gather as a flock",dedr_new.csv,4904,340,unmarked,guard
+roof_protection,target,Telugu,edu,ēdu,"to bring up, nourish, cherish, protect",dedr_new.csv,13335,870,unmarked,protect
+roof_protection,target,Telugu,olamu,ōlamu,"a shelter, cover, screen",dedr_new.csv,15295,1015,unmarked,shelter
+roof_protection,target,Telugu,kacu,kācu,"to guard, watch, tend (cattle, etc.), protect, save, nourish, forgive, expect, wait for",dedr_new.csv,20270,1416,unmarked,guard; protect
+roof_protection,target,Telugu,kapu,kāpu,"protection, guarding, keeping, a guard",dedr_new.csv,20273,1416,unmarked,guard; protection
+roof_protection,target,Telugu,kapaḍu,kāpāḍu,"to protect, save, guard",dedr_new.csv,20276,1416,unmarked,guard; protect
+roof_protection,target,Telugu,kavali,kāvali,"guard, guarding, protection, watch, custody",dedr_new.csv,20277,1416,unmarked,guard; protection
+roof_protection,target,Telugu,caṭu,cāṭu,"concealment, cover, shelter, screen",dedr_new.csv,32348,2441,unmarked,shelter
+roof_protection,target,Telugu,paḷemu,pāḷemu,"guard, camp, army. DED 3388",dedr_new.csv,54131,4117,unmarked,guard
+roof_protection,target,Telugu,procu,prōcu,"to nourish, protect, preserve, support",dedr_new.csv,56187,4283,unmarked,protect
+roof_protection,target,Telugu,propu,prōpu,"protection, support",dedr_new.csv,56189,4283,unmarked,protection
+roof_protection,target,Telugu,prapu,prāpu,"support, protection, patronage, refuge",dedr_new.csv,56191,4283,unmarked,protection
+roof_protection,target,Telugu,maṟugu,maṟũgu,"to be concealed or hidden (K. alsomaṟuvu, maruvu); <i>n.</i>concealment, cover, shelter, screen; hidden, secret, unseen",dedr_new.csv,62557,4760,unmarked,shelter
+roof_protection,target,Telugu,maṟuvu,maṟuvu,"concealment, cover, shelter, retreat",dedr_new.csv,62560,4760,unmarked,shelter
+roof_protection,target,Telugu,manucu,manucu,"to protect, maintain, preserve, revive",dedr_new.csv,62907,4778,unmarked,protect
+roof_protection,target,Telugu,manupu,manupu,"to protect, maintain, preserve, revive",dedr_new.csv,62908,4778,unmarked,protect
+roof_protection,target,Telugu,manupu,manupu,"protection, maintenance",dedr_new.csv,62909,4778,unmarked,protection
+roof_protection,picture,Tulu,pore,porè,"roof, ceiling",dedr_new.csv,56307,4294,unmarked,roof
+roof_protection,picture,Tulu,pure,purè,"roof, ceiling",dedr_new.csv,56308,4294,unmarked,roof
+roof_protection,picture,Tulu,maḍu,māḍů,roof,dedr_new.csv,63165,4796,unmarked,roof
+roof_protection,target,Tulu,araike,āraikè,"care of, nourishing, protection",dedr_new.csv,5400,377,unmarked,protection
+roof_protection,target,Tulu,arekti,ārēkti,"care of, nourishing, protection",dedr_new.csv,5401,377,unmarked,protection
+roof_protection,target,Tulu,uppuni,uppuni,"to be, exist, live in; have, possess (with dative of person); help, protect",dedr_new.csv,11073,710,unmarked,protect
+roof_protection,target,Tulu,kapuni,kāpuni,"to watch, guard, keep, wait",dedr_new.csv,20262,1416,unmarked,guard
+roof_protection,target,Tulu,kavalu,kāvalů,"guard, custody, watch, protection",dedr_new.csv,20267,1416,unmarked,guard; protection
+roof_protection,target,Tulu,kapaḍuni,kāpāḍuni,"to protect, preserve",dedr_new.csv,20268,1416,unmarked,protect
+roof_protection,target,Tulu,kapaṭa,kāpāṭa,"act of watching, guard",dedr_new.csv,20269,1416,unmarked,guard
+roof_protection,target,Tulu,saṅkuni,sāṅkuni,"to foster, nourish, nurse, bring up, take care of, protect, shelter",dedr_new.csv,32224,2427,unmarked,protect; shelter
+roof_protection,target,Tulu,salaguni,salaguni,"to nourish, shelter, succour, take care of",dedr_new.csv,36346,2781,unmarked,shelter
+roof_protection,target,Tulu,para,pāra,"guard, custody, keeping",dedr_new.csv,53867,4091,unmarked,guard
+roof_protection,target,Tulu,madepuni,madepuni,"to screen, shelter, hide",dedr_new.csv,62547,4760,unmarked,shelter
+roof_protection,target,Tulu,madepu,madepu,"shade, shelter, retirement",dedr_new.csv,62550,4760,unmarked,shelter
+roof_protection,target,Tulu,mare,marè,"shelter, retreat",dedr_new.csv,62551,4760,unmarked,shelter
+roof_protection,target,Tulu,muccuni,muccuni,"to shut, close, cover, screen, shelter",dedr_new.csv,64995,4915,unmarked,shelter
+roof_protection,picture,Kota,vayr,vayr,roof,dedr_new.csv,70599,5264,unmarked,roof
+roof_protection,target,Toda,maṟ,maṟ,"shelter, refuge",dedr_new.csv,62517,4760,unmarked,shelter
+roof_protection,picture,Gadaba,poypol,poypol,roof,dedr_new.csv,60217,4567,unmarked,roof
+roof_protection,target,Gondi,aḍḍam,aḍḍām,shelter,dedr_new.csv,1776,83,unmarked,shelter
+roof_protection,target,Gondi,addam,addām,shelter,dedr_new.csv,1777,83,unmarked,shelter
+roof_protection,target,Gondi,kep,kēp-,"to guard, watch a field",dedr_new.csv,20283,1416,unmarked,guard
+roof_protection,target,Gondi,kep,kēp-,"to guard, watch a field",dedr_new.csv,20284,1416,unmarked,guard
+roof_protection,target,Gondi,kepana,kēpānā,"to watch, guard, take care of",dedr_new.csv,20285,1416,unmarked,guard
+roof_protection,target,Gondi,kepana,kēpānā,"to watch, guard, take care of",dedr_new.csv,20286,1416,unmarked,guard
+roof_protection,picture,Konda,ṟekam,ṟēkam,roof,dedr_new.csv,8398,528,unmarked,roof
+roof_protection,target,Konda,kap,kāp(u),"protection (of crops, etc.)",dedr_new.csv,20294,1416,unmarked,protection
+roof_protection,picture,Pengo,jegom,jēgom,roof,dedr_new.csv,8399,528,unmarked,roof
+roof_protection,picture,Kui,vega,vega (vegi-),"to roof, thatch; act of thatching, putting on a roof",dedr_new.csv,75045,5532,unmarked,roof
+roof_protection,target,Kui,jopa,jōpa (jōt-),"to watch over, guard, lie in wait for; guard, watch, lookout",dedr_new.csv,37730,2892,unmarked,guard
+roof_protection,picture,Kuwi,vikka,vikka,roof,dedr_new.csv,75052,5532,unmarked,roof
+roof_protection,picture,Kurukh,mesga,mesgā,"roof, esp. thatched roof",dedr_new.csv,75058,5532,unmarked,roof
+roof_protection,picture,Kurukh,mɛsga,mɛsga,roof,20260813-kurux-nepal.csv,179,,unmarked,roof
+roof_protection,picture,Kurukh,mɛsᵊga,mɛsᵊga,roof,20260813-kurux-nepal.csv,180,,unmarked,roof
+roof_protection,picture,Kurukh,mɪsᵊga,mɪsᵊga,roof,20260813-kurux-nepal.csv,181,,unmarked,roof
+roof_protection,picture,Kurukh,mɛsᵊgʌ,mɛsᵊgʌ,roof,20260813-kurux-nepal.csv,182,,unmarked,roof
+roof_protection,picture,Kurukh,tʃʰɛⁱn,tʃʰɛⁱn,roof,20260826-sil-kurux.csv,662,,unmarked,roof
+roof_protection,picture,Kurukh,tʰat,tʰat,roof,20260826-sil-kurux.csv,663,,unmarked,roof
+roof_protection,picture,Kurukh,tʃal,tʃal,roof,20260826-sil-kurux.csv,664,,unmarked,roof
+roof_protection,picture,Kurukh,tʃal,tʃal,roof,20260826-sil-kurux.csv,665,,unmarked,roof
+roof_protection,picture,Kurukh,tʃal,tʃal,roof,20260826-sil-kurux.csv,666,,unmarked,roof
+roof_protection,target,Kurukh,xapna,xāpnā,"to protect, guard, tend, wait, wait for",dedr_new.csv,20304,1416,unmarked,guard; protect
+roof_protection,target,Kurukh,meńjxna,meńjxnā,"to incubate, shelter as the hen shelters her chickens",dedr_new.csv,67617,5055,unmarked,shelter
+roof_protection,picture,Malto,paṛka,paṛka,roof. DED(S) 3597,dedr_new.csv,57557,4385,unmarked,roof
+roof_protection,target,Malto,oḍe,oḍe,"shelter, refuge",dedr_new.csv,14510,969,unmarked,shelter
+roof_protection,target,Malto,oḍye,oḍye,"to screen, shelter",dedr_new.csv,14511,969,unmarked,shelter
+roof_protection,picture,Brahui,bamb,bāmb,n. roof,20260813-ali-kobayashi-brahui.csv,310,,unmarked,roof
+roof_protection,picture,Brahui,catt,catt,n. roof,20260813-ali-kobayashi-brahui.csv,539,,unmarked,roof
+roof_protection,target,Brahui,aḍ,aḍ,"sheltered; shelter, protection",dedr_new.csv,1800,83,unmarked,protection; shelter
+roof_protection,target,Brahui,aṛ,āṛ,shelter (? &lt; IA),dedr_new.csv,1804,83,unmarked,shelter
+roof_protection,target,Brahui,aḍḍ,aḍḍ,n. shelter,20260813-ali-kobayashi-brahui.csv,3,,unmarked,shelter
+roof_protection,target,Brahui,aman,amān,n. safety; protection,20260813-ali-kobayashi-brahui.csv,49,,loan,protection
+roof_protection,target,Brahui,gaṭ,gāṭ,n. guard,20260813-ali-kobayashi-brahui.csv,1001,,loan,guard
+roof_protection,target,Brahui,paṛda,paṛda,n. curtain; protection; eardrum,20260813-ali-kobayashi-brahui.csv,2297,,loan,protection
+roof_protection,target,Brahui,rakk,rakk,n. protection; quarantine,20260813-ali-kobayashi-brahui.csv,2515,,unmarked,protection
+roof_protection,target,Brahui,sipai,sipāī,n. guard; soldier,20260813-ali-kobayashi-brahui.csv,2748,,unmarked,guard
+jar_enemy,picture,Tamil,akaḷam,akaḷam,"jar, large earthen pot, bucket, body of the lute as shaped like a bowl",dedr_new.csv,771,9,unmarked,jar
+jar_enemy,picture,Tamil,kaṉṉal,kaṉṉal,"earthen vessel, waterpot",dedr_new.csv,20220,1415,unmarked,waterpot
+jar_enemy,picture,Tamil,kuṭam,kuṭam,"waterpot, hub of a wheel",dedr_new.csv,23095,1651,unmarked,waterpot
+jar_enemy,picture,Tamil,kuṭaṅkar,kuṭaṅkar,waterpot,dedr_new.csv,23096,1651,unmarked,waterpot
+jar_enemy,picture,Tamil,kuṭantam,kuṭantam,pot,dedr_new.csv,23097,1651,unmarked,pot
+jar_enemy,picture,Tamil,kuṭukkai,kuṭukkai,"coconut or other hard shell used as vessel, pitcher",dedr_new.csv,23099,1651,unmarked,pitcher
+jar_enemy,picture,Tamil,kuṭuvai,kuṭuvai,"vessel with a small narrow mouth, pitcher of an asectic",dedr_new.csv,23101,1651,unmarked,pitcher
+jar_enemy,picture,Tamil,kurici,kur̤ici,"pot, hub of a wheel",dedr_new.csv,24919,1818,unmarked,pot
+jar_enemy,picture,Tamil,taṭa,taṭā,"pot, big pot",dedr_new.csv,39382,3027,unmarked,pot
+jar_enemy,picture,Tamil,tari,tār̤i,"large pan, pot, or vessel with a wide mouth, jar, burial urn",dedr_new.csv,41304,3182,unmarked,jar; pot
+jar_enemy,picture,Tamil,paraṇi,paraṇi,"jewel casket, small box, a kind of jar",dedr_new.csv,52191,3954,unmarked,jar
+jar_enemy,picture,Tamil,monne,monne,a kind of pot,dedr_new.csv,65772,4965,unmarked,pot
+jar_enemy,target,Tamil,ikaloṉ,ikalōṉ,enemy,dedr_new.csv,6587,413,unmarked,enemy
+jar_enemy,target,Tamil,iriñaṉ,iriñaṉ,foe,dedr_new.csv,7510,478,unmarked,foe
+jar_enemy,target,Tamil,etiri,etiri,enemy,dedr_new.csv,12250,795,unmarked,enemy
+jar_enemy,target,Tamil,etalaṉ,ētalaṉ,"foe, enemy",dedr_new.csv,13451,890,unmarked,enemy; foe
+jar_enemy,target,Tamil,etilar,ētilār,"other, strangers, foes, enemies, prostitutes",dedr_new.csv,13453,890,unmarked,foes
+jar_enemy,target,Tamil,eṟṟar,ēṟṟār,"foes, enemies",dedr_new.csv,13643,906,unmarked,foes
+jar_enemy,target,Tamil,oṭṭalaṉ,oṭṭalaṉ,foe,dedr_new.csv,14395,958,unmarked,foe
+jar_enemy,target,Tamil,oṭṭar,oṭṭār,foes,dedr_new.csv,14396,958,unmarked,foes
+jar_enemy,target,Tamil,ceṟunar,ceṟunar,foes,dedr_new.csv,22442,1597,unmarked,foes
+jar_enemy,target,Tamil,ceṟuvar,ceṟuvar,foes,dedr_new.csv,22443,1597,unmarked,foes
+jar_enemy,target,Tamil,ceṟṟar,ceṟṟār,foes,dedr_new.csv,22444,1597,unmarked,foes
+jar_enemy,target,Tamil,ceṟṟor,ceṟṟōr,foes,dedr_new.csv,22445,1597,unmarked,foes
+jar_enemy,target,Tamil,tuṉṉalar,tuṉṉ-alar,"foes, enemies",dedr_new.csv,43774,3367,unmarked,foes
+jar_enemy,target,Tamil,tev,tev,"enmity, hostility, war, enemy",dedr_new.csv,44243,3404,unmarked,enemy
+jar_enemy,target,Tamil,tevvu,tevvu,"enmity, hostility, war, enemy",dedr_new.csv,44244,3404,unmarked,enemy
+jar_enemy,target,Tamil,tevvaṉ,tevvaṉ,enemy,dedr_new.csv,44246,3404,unmarked,enemy
+jar_enemy,target,Tamil,pakai,pakai,"disagreement, hatred, enemy; (-pp-, -tt-) to hate, oppose",dedr_new.csv,50495,3808,unmarked,enemy
+jar_enemy,target,Tamil,pakaiñaṉ,pakaiñaṉ,enemy,dedr_new.csv,50496,3808,unmarked,enemy
+jar_enemy,target,Tamil,pakaivaṉ,pakaivaṉ,enemy,dedr_new.csv,50497,3808,unmarked,enemy
+jar_enemy,target,Tamil,maṟutalai,maṟutalai,"opposite side, opponent's point of view, sense of contrariety, enemy, antagonist; (-pp-, -tt-) to appear on the opposite side, deny, disavow",dedr_new.csv,62740,4765,unmarked,enemy
+jar_enemy,target,Tamil,maṟṟaṉ,māṟṟāṉ,enemy,dedr_new.csv,63591,4834,unmarked,enemy
+jar_enemy,target,Tamil,mevalar,mēvalar,"foes, enemies",dedr_new.csv,68271,5096,unmarked,foes
+jar_enemy,target,Tamil,mevar,mēvār,"foes, enemies",dedr_new.csv,68272,5096,unmarked,foes
+jar_enemy,target,Tamil,veṟṟavaṉ,vēṟṟavaṉ,"stranger, enemy",dedr_new.csv,75216,5548,unmarked,enemy
+jar_enemy,target,Tamil,veṟṟaṉ,vēṟṟāṉ,"stranger, enemy",dedr_new.csv,75217,5548,unmarked,enemy
+jar_enemy,target,Tamil,veṟṟuvaṉ,vēṟṟuvaṉ,"stranger, enemy",dedr_new.csv,75218,5548,unmarked,enemy
+jar_enemy,target,Tamil,veṟṟoṉ,vēṟṟōṉ,"stranger, enemy",dedr_new.csv,75219,5548,unmarked,enemy
+jar_enemy,picture,Malayalam,kalam,kalam,"pot, vessel, ship",dedr_new.csv,18923,1305,unmarked,pot
+jar_enemy,picture,Malayalam,kuṭam,kuṭam,waterpot,dedr_new.csv,23102,1651,unmarked,waterpot
+jar_enemy,picture,Malayalam,caṭṭi,caṭṭi,"pot, pan",dedr_new.csv,30873,2306,unmarked,pot
+jar_enemy,picture,Malayalam,paraṇi,paraṇi,"vase, jar",dedr_new.csv,52192,3954,unmarked,jar
+jar_enemy,target,Malayalam,onnalan,onnalan,an enemy,dedr_new.csv,14909,990,unmarked,enemy
+jar_enemy,target,Malayalam,kuṟṟan,kūṟṟan,"enemy, destroyer",dedr_new.csv,26539,1924,unmarked,enemy
+jar_enemy,target,Malayalam,kuṟṟam,kūṟṟam,"enemy, destroyer",dedr_new.csv,26540,1924,unmarked,enemy
+jar_enemy,target,Malayalam,pakayan,pakayan,enemy,dedr_new.csv,50513,3808,unmarked,enemy
+jar_enemy,picture,Kannada,aḍigera,aḍigera,a pot,dedr_new.csv,1433,75,unmarked,pot
+jar_enemy,picture,Kannada,kala,kala,"pot, vessel",dedr_new.csv,18928,1305,unmarked,pot
+jar_enemy,picture,Kannada,maḍake,maḍake,pot,dedr_new.csv,61241,4651,unmarked,pot
+jar_enemy,picture,Kannada,maḍike,maḍike,pot,dedr_new.csv,61242,4651,unmarked,pot
+jar_enemy,picture,Kannada,mukku,mukku,"a certain vessel, pot, pan or cup",dedr_new.csv,64832,4899,unmarked,pot
+jar_enemy,picture,Kannada,munde,munde,a jar-like brass vessel,dedr_new.csv,65775,4965,unmarked,jar
+jar_enemy,target,Kannada,page,page,"hatred, enmity, enemy",dedr_new.csv,50527,3808,unmarked,enemy
+jar_enemy,target,Kannada,hage,hage,"hatred, enmity, enemy",dedr_new.csv,50528,3808,unmarked,enemy
+jar_enemy,target,Kannada,pagekaṟa,pagekāṟa,enemy,dedr_new.csv,50529,3808,unmarked,enemy
+jar_enemy,target,Kannada,maṟuvasala,maṟuvasala,"antagonist, enemy. DED(S) 3902",dedr_new.csv,62750,4765,unmarked,enemy
+jar_enemy,target,Kannada,maṟumasal,maṟumasal,"antagonist, enemy. DED(S) 3902",dedr_new.csv,62751,4765,unmarked,enemy
+jar_enemy,picture,Telugu,giṇḍi,giṇḍi,"jug, drinking vessel with a spout",dedr_new.csv,21657,1541,unmarked,jug
+jar_enemy,picture,Telugu,cembu,cembu,"goblet, pitcher, ewer",dedr_new.csv,36252,2775,unmarked,pitcher
+jar_enemy,picture,Telugu,boṅki,boṅki,pot. DED 3739,dedr_new.csv,60365,4576,unmarked,pot
+jar_enemy,target,Telugu,ediri,ediri,"opponent, foe",dedr_new.csv,12275,795,unmarked,foe
+jar_enemy,target,Telugu,suḍu,sūḍu,"enmity, pique, spite; an enemy",dedr_new.csv,35771,2722,unmarked,enemy
+jar_enemy,target,Telugu,suḍukaḍu,sūḍukã̄ḍu,an enemy,dedr_new.csv,35772,2722,unmarked,enemy
+jar_enemy,target,Telugu,paga,paga,"enmity, hatred, enemy",dedr_new.csv,50544,3808,unmarked,enemy
+jar_enemy,target,Telugu,pagatuḍu,pagatũḍu,enemy,dedr_new.csv,50545,3808,unmarked,enemy
+jar_enemy,target,Telugu,pagavaḍu,pagavã̄ḍu,enemy,dedr_new.csv,50546,3808,unmarked,enemy
+jar_enemy,target,Telugu,pavaṭuḍu,pavaṭūḍu,enemy,dedr_new.csv,50547,3808,unmarked,enemy
+jar_enemy,target,Telugu,maṟutuḍu,māṟutũḍu,"enemy, foe",dedr_new.csv,63647,4834,unmarked,enemy; foe
+jar_enemy,picture,Tulu,kandelu,kandelů,"pitcher, large pot. DED 1191",dedr_new.csv,20222,1415,unmarked,pitcher
+jar_enemy,picture,Tulu,bariyuni,bariyuni,"to encase a bottle, jar, etc. in a kind of network",dedr_new.csv,70601,5264,unmarked,jar
+jar_enemy,picture,Kota,aṇḍy,aṇḍy,"pot into which cow is milked, bamboo pot used formerly to carry broth to workers in the field",dedr_new.csv,2251,130,unmarked,pot
+jar_enemy,picture,Kota,koṛm,koṛm ( koṛt-),waterpot with small mouth,dedr_new.csv,23106,1651,unmarked,waterpot
+jar_enemy,target,Kota,edyr,edyr,enemy,dedr_new.csv,12254,795,unmarked,enemy
+jar_enemy,target,Kodagu,pageye,pageyë,enemy,dedr_new.csv,50533,3808,unmarked,enemy
+jar_enemy,target,Parji,kayri,kayri,"an enemy, talebearer",dedr_new.csv,15982,1089,unmarked,enemy
+jar_enemy,picture,Gadaba,agle,agle,pot. DED 10,dedr_new.csv,778,9,unmarked,pot
+jar_enemy,picture,Gondi,kuṛvi,kuṛvī,"pitcher (black, for cooking) (<i>Voc.</i> 791)",dedr_new.csv,24745,1797,unmarked,pitcher
+jar_enemy,picture,Gondi,sora,sōra,pot,dedr_new.csv,37693,2886,unmarked,pot
+jar_enemy,picture,Gondi,sora,sōrā,"pitcher (<i>Voc.</i> 3510). DED (S, N) 2355",dedr_new.csv,37694,2886,unmarked,pitcher
+jar_enemy,picture,Gondi,malla,mallā,pitcher for water,dedr_new.csv,62335,4744,unmarked,pitcher
+jar_enemy,picture,Gondi,malla,malla,waterpot (<i>Voc.</i> 2754),dedr_new.csv,62336,4744,unmarked,waterpot
+jar_enemy,target,Gondi,aror,aror,enemy (<i>Voc.</i> 82),dedr_new.csv,4692,325,unmarked,enemy
+jar_enemy,picture,Pengo,ṭanḍi,ṭānḍi,pot,dedr_new.csv,38616,2946,unmarked,pot
+jar_enemy,picture,Kui,kuri,kuri,pot,dedr_new.csv,24746,1797,unmarked,pot
+jar_enemy,picture,Kui,maṭa,maṭa,pot,dedr_new.csv,61244,4651,unmarked,pot
+jar_enemy,picture,Kuwi,ḍoka,ḍōka,pot (Te.kuḍaka &gt; *kḍōka &gt; ḍōka),dedr_new.csv,23123,1651,unmarked,pot
+jar_enemy,picture,Kuwi,ḍoka,ḍoka,pot (Te.kuḍaka &gt; *kḍōka &gt; ḍōka),dedr_new.csv,23124,1651,unmarked,pot
+jar_enemy,picture,Kuwi,dokka,dōkka,pot (Te.kuḍaka &gt; *kḍōka &gt; ḍōka),dedr_new.csv,23125,1651,unmarked,pot
+jar_enemy,picture,Kuwi,kurri,kurri,pot. DEDS 256,dedr_new.csv,24747,1797,unmarked,pot
+jar_enemy,picture,Kuwi,tanḍi,tānḍi,pot,dedr_new.csv,38617,2946,unmarked,pot
+jar_enemy,picture,Kuwi,munta,mūnta,"(F.) water pot of brass, (Isr.) small metal jug, pot, vessel. DED(S) 4068",dedr_new.csv,65781,4965,unmarked,pot
+jar_enemy,picture,Kuwi,muka,muka,"small piece, e.g. meat, cloth, pot, etc",dedr_new.csv,66048,4975,unmarked,pot
+jar_enemy,picture,Malto,meṭa,meṭa,"chatty, pitcher",dedr_new.csv,61245,4651,unmarked,pitcher
+jar_enemy,picture,Malto,kaɽsa,kãɽsa,jar,TGM2017.pdf,683,,unclassified,jar
+jar_enemy,picture,Malto,kaɽsa,kaɽsa,jar,TGM2017.pdf,731,,unclassified,jar
+jar_enemy,picture,Malto,kalsa,kalsa,jar,TGM2017.pdf,739,,unclassified,jar
+jar_enemy,picture,Malto,kohna,kohna,jar,TGM2017.pdf,868,,unclassified,jar
+jar_enemy,picture,Brahui,razan,razān,n. bowl; pot,20260813-ali-kobayashi-brahui.csv,2533,,unmarked,pot
+jar_enemy,target,Brahui,dušman,dušman,n. enemy,20260813-ali-kobayashi-brahui.csv,867,,loan,enemy
+gate_court,picture,Tamil,kaṭai,kaṭai,"end, limit, boundary; lowness, lowest, worst; entrance, gate",dedr_new.csv,16151,1109,unmarked,gate
+gate_court,picture,Tamil,katavam,katavam,door,dedr_new.csv,17336,1187,unmarked,door
+gate_court,picture,Tamil,katavu,katavu,door,dedr_new.csv,17337,1187,unmarked,door
+gate_court,picture,Tamil,taṭam,taṭam,"road, way, path, route, gate, footstep",dedr_new.csv,39352,3024,unmarked,gate
+gate_court,picture,Tamil,taṭai,"taṭai (-v-, -nt-)","to hinder, stop; (-pp-, -tt-) id.; resisting, obstructing, hindrance, obstacle, impediment, objection, coat of mail, guard, watch, door, gate, bund, embankment",dedr_new.csv,39416,3031,unmarked,door; gate
+gate_court,picture,Tamil,putavu,putavu,"door, gate",dedr_new.csv,56052,4274,unmarked,door; gate
+gate_court,picture,Tamil,puta,puta,"door, gate",dedr_new.csv,56053,4274,unmarked,door; gate
+gate_court,picture,Tamil,puta,putā,"door, gate",dedr_new.csv,56055,4274,unmarked,door; gate
+gate_court,picture,Tamil,putavam,putavam,"door, gate",dedr_new.csv,56054,4274,unmarked,door; gate
+gate_court,picture,Tamil,purai,pur̤ai,"hole, tube, entrance, gate, forest path, by-path, narrow path; (-pp-, -tt-) to bore, riddle",dedr_new.csv,56638,4317,unmarked,gate
+gate_court,picture,Tamil,vari,vāri,"income, produce; entrance, door, path",dedr_new.csv,70660,5270,unmarked,door
+gate_court,picture,Tamil,vayil,vāyil,"doorway, entrance, gate, place, king's court",dedr_new.csv,71895,5354,unmarked,gate
+gate_court,picture,Tamil,vayal,vāyal,"doorway, entrance, gate, place, king's court",dedr_new.csv,71896,5354,unmarked,gate
+gate_court,picture,Tamil,vacal,vācal,"doorway, entrance, gate, place, king's court",dedr_new.csv,71897,5354,unmarked,gate
+gate_court,target,Tamil,koyil,kōyil,"palace, temple",dedr_new.csv,29883,2177,unmarked,palace
+gate_court,target,Tamil,nakar,nakar,"house, abode, mansion, temple, palace, town, city",dedr_new.csv,46419,3568,unmarked,palace
+gate_court,target,Tamil,paḷḷi,paḷḷi,"hamlet, herdsman's village, hermitage, temple (esp. of Buddhists and Jains), palace, workshop, sleeping place, school, room",dedr_new.csv,53039,4018,unmarked,palace
+gate_court,target,Tamil,maṇiyam,maṇiyam,"office of the village headman, employed as a revenue subordinate of the Sirkar, for which he holds a māṉiyam or receives payment; superintendence of temples, mutts, palaces, custom-houses, etc",dedr_new.csv,61477,4674,unmarked,palaces
+gate_court,target,Tamil,maḷikai,māḷikai,"palace, temple, mansion, house",dedr_new.csv,63156,4796,unmarked,palace
+gate_court,target,Tamil,vayil,vāyil,"doorway, entrance, gate, place, king's court",dedr_new.csv,71895,5354,unmarked,king's court
+gate_court,target,Tamil,vayal,vāyal,"doorway, entrance, gate, place, king's court",dedr_new.csv,71896,5354,unmarked,king's court
+gate_court,target,Tamil,vacal,vācal,"doorway, entrance, gate, place, king's court",dedr_new.csv,71897,5354,unmarked,king's court
+gate_court,picture,Malayalam,katavu,katavu,"door, door-leaves, corner of a door",dedr_new.csv,17338,1187,unmarked,door
+gate_court,picture,Malayalam,kataku,kataku,"door, door-leaves, corner of a door",dedr_new.csv,17339,1187,unmarked,door
+gate_court,target,Malayalam,aramana,ara-mana,"king's house, palace, court",dedr_new.csv,3037,201,unmarked,palace
+gate_court,target,Malayalam,koyil,kōyil,"palace, temple",dedr_new.csv,29893,2177,unmarked,palace
+gate_court,target,Malayalam,kovil,kōvil,"palace, temple",dedr_new.csv,29894,2177,unmarked,palace
+gate_court,target,Malayalam,koyilakam,kōyilakam,palace,dedr_new.csv,29895,2177,unmarked,palace
+gate_court,target,Malayalam,maṇiyam,maṇiyam,"superintendence of temples, palaces, villages, etc",dedr_new.csv,61479,4674,unmarked,palaces
+gate_court,target,Malayalam,maḷika,māḷika,an upper story; palace,dedr_new.csv,63158,4796,unmarked,palace
+gate_court,target,Malayalam,meṭa,mēṭa,"raised place, tower, upper story, palace",dedr_new.csv,63178,4796,unmarked,palace
+gate_court,picture,Kannada,urvelu,urvēlu,gate with round movable poles,dedr_new.csv,10505,683,unmarked,gate
+gate_court,picture,Kannada,kada,kada,"leaf of a door, door. DED 998",dedr_new.csv,17340,1187,unmarked,door
+gate_court,picture,Kannada,kadavu,kadavu,"leaf of a door, door. DED 998",dedr_new.csv,17341,1187,unmarked,door
+gate_court,picture,Kannada,kadahu,kadahu,"leaf of a door, door. DED 998",dedr_new.csv,17342,1187,unmarked,door
+gate_court,picture,Kannada,paḍi,paḍi,"leaf or panel of a door, a door",dedr_new.csv,51015,3845,unmarked,door
+gate_court,picture,Kannada,pugil,pugil,"entering, door, arrival",dedr_new.csv,55647,4238,unmarked,door
+gate_court,picture,Kannada,bagil,bāgil,"gate, doorway",dedr_new.csv,71906,5354,unmarked,gate
+gate_court,picture,Kannada,bagal,bāgal,"gate, doorway",dedr_new.csv,71907,5354,unmarked,gate
+gate_court,picture,Kannada,bakal,bākal,"gate, doorway",dedr_new.csv,71908,5354,unmarked,gate
+gate_court,picture,Kannada,vakkil,vākkil,"gate, doorway",dedr_new.csv,71909,5354,unmarked,gate
+gate_court,target,Kannada,aramane,ara-mane,"royal dwelling, palace, court, government",dedr_new.csv,3046,201,unmarked,palace
+gate_court,target,Kannada,maṇiya,maṇiya,"superintendence of temples, maths, palaces, custom-houses, etc",dedr_new.csv,61486,4674,unmarked,palaces
+gate_court,target,Kannada,maṇiha,maṇiha,"superintendence of temples, maths, palaces, custom-houses, etc",dedr_new.csv,61487,4674,unmarked,palaces
+gate_court,target,Kannada,maṇeya,maṇeya,"superintendence of temples, maths, palaces, custom-houses, etc",dedr_new.csv,61488,4674,unmarked,palaces
+gate_court,target,Kannada,maṇe,maṇē,"superintendence of temples, maths, palaces, custom-houses, etc",dedr_new.csv,61489,4674,unmarked,palaces
+gate_court,target,Kannada,maḍi,māḍi,"upstair house, palace",dedr_new.csv,63163,4796,unmarked,palace
+gate_court,picture,Telugu,gavanu,gavanu,gate of a fort. DEDS 174,dedr_new.csv,19220,1339,unmarked,gate
+gate_court,picture,Telugu,talupu,talupu,door,dedr_new.csv,40605,3123,unmarked,door
+gate_court,picture,Telugu,vakili,vākili,"door, doorway",dedr_new.csv,71912,5354,unmarked,door
+gate_court,target,Telugu,nagaru,nagaru,palace,dedr_new.csv,46422,3568,unmarked,palace
+gate_court,picture,Tulu,bakilu,bākilů,"door, gate",dedr_new.csv,71910,5354,unmarked,door; gate
+gate_court,picture,Tulu,badhaḷa,bādhaḷa,door,dedr_new.csv,71911,5354,unmarked,door
+gate_court,target,Tulu,aramane,aramane,"palace, royal residence",dedr_new.csv,3050,201,unmarked,palace
+gate_court,target,Tulu,arantaḍe,arantaḍè,"palace, royal residence",dedr_new.csv,3051,201,unmarked,palace
+gate_court,target,Kota,arman,arman,palace,dedr_new.csv,3039,201,unmarked,palace
+gate_court,picture,Toda,oḍy,oḍy,"door, in song-unit",dedr_new.csv,51013,3845,unmarked,door
+gate_court,target,Toda,arman,arman,palace,dedr_new.csv,3041,201,unmarked,palace
+gate_court,picture,Kodagu,paḍi,paḍi,door,dedr_new.csv,51016,3845,unmarked,door
+gate_court,target,Kodagu,aramane,aramane,palace,dedr_new.csv,3047,201,unmarked,palace
+gate_court,picture,Kolami,daṭam,daṭam,door,dedr_new.csv,39529,3036,unmarked,door
+gate_court,picture,Gadaba,val,val,door,dedr_new.csv,70872,5277,unmarked,door
+gate_court,picture,Konda,kerpi,keRpi,door,dedr_new.csv,27493,1980,unmarked,door
+gate_court,picture,Pengo,gespi,gespi,door,dedr_new.csv,27496,1980,unmarked,door
+gate_court,picture,Manda,gehpi,gehpi,door,dedr_new.csv,27498,1980,unmarked,door
+gate_court,target,Kuwi,koṭa,kōṭa,"palace, fort",dedr_new.csv,30127,2207,unmarked,palace
+gate_court,picture,Kurukh,bali,balī,"door, (Hahn) screen made of bamboo mats",dedr_new.csv,70873,5277,unmarked,door
+gate_court,picture,Kurukh,bali,bali,door,20260826-sil-kurux.csv,654,,unmarked,door
+gate_court,picture,Kurukh,bʌli,bʌli,door,20260813-kurux-nepal.csv,183,,unmarked,door
+gate_court,picture,Kurukh,bʌli,bʌli,door,20260813-kurux-nepal.csv,184,,unmarked,door
+gate_court,picture,Kurukh,bʌli,bʌli,door,20260813-kurux-nepal.csv,185,,unmarked,door
+gate_court,picture,Kurukh,bʌli,bʌli,door,20260813-kurux-nepal.csv,186,,unmarked,door
+gate_court,picture,Kurukh,bʌli,bʌli,door,20260813-kurux-nepal.csv,188,,unmarked,door
+gate_court,picture,Kurukh,bəli,bəli,door,20260813-kurux-nepal.csv,187,,unmarked,door
+gate_court,picture,Kurukh,bɛli,bɛli,door,20260826-sil-kurux.csv,653,,unmarked,door
+gate_court,picture,Kurukh,bɛli,bɛli,door,20260826-sil-kurux.csv,655,,unmarked,door
+gate_court,picture,Kurukh,bɛli,bɛli,door,20260826-sil-kurux.csv,656,,unmarked,door
+gate_court,picture,Kurukh,bɛli,bɛli,door,20260826-sil-kurux.csv,657,,unmarked,door
+gate_court,picture,Malto,duwari,duwari,door,TGM2017.pdf,1533,,unclassified,door
+gate_court,picture,Malto,bali,bali,door,TGM2017.pdf,1966,,unclassified,door
+gate_court,target,Malto,rajmahale,raːjmahale,palace,TGM2017.pdf,2372,,unclassified,palace
+gate_court,picture,Brahui,ba,bā,n. mouth; door; gate,20260813-ali-kobayashi-brahui.csv,289,,unmarked,door; gate
+gate_court,picture,Brahui,darga,darga,n. gate,20260813-ali-kobayashi-brahui.csv,727,,loan,gate
+gate_court,picture,Brahui,darvaza,darvāza,n. door,20260813-ali-kobayashi-brahui.csv,731,,loan,door
+gate_court,picture,Brahui,gali,galī,n. door,20260813-ali-kobayashi-brahui.csv,961,,loan,door
+gate_court,target,Brahui,bangula,bangula,n. bungalow; palace,20260813-ali-kobayashi-brahui.csv,245,,loan,palace
+gate_court,target,Brahui,badšai,bādšāī,n. kingdom; palace,20260813-ali-kobayashi-brahui.csv,297,,loan,palace
+gate_court,target,Brahui,darbar,darbār,n. royal court; council,20260813-ali-kobayashi-brahui.csv,726,,loan,royal court
+gate_court,target,Brahui,mahl,mahl,n. palace,20260813-ali-kobayashi-brahui.csv,1890,,loan,palace
+gate_court,target,Brahui,mehl,mehl,n. palace,20260813-ali-kobayashi-brahui.csv,1978,,loan,palace
+gate_support,picture,Tamil,kaṭai,kaṭai,"end, limit, boundary; lowness, lowest, worst; entrance, gate",dedr_new.csv,16151,1109,unmarked,gate
+gate_support,picture,Tamil,katavam,katavam,door,dedr_new.csv,17336,1187,unmarked,door
+gate_support,picture,Tamil,katavu,katavu,door,dedr_new.csv,17337,1187,unmarked,door
+gate_support,picture,Tamil,taṭam,taṭam,"road, way, path, route, gate, footstep",dedr_new.csv,39352,3024,unmarked,gate
+gate_support,picture,Tamil,taṭai,"taṭai (-v-, -nt-)","to hinder, stop; (-pp-, -tt-) id.; resisting, obstructing, hindrance, obstacle, impediment, objection, coat of mail, guard, watch, door, gate, bund, embankment",dedr_new.csv,39416,3031,unmarked,door; gate
+gate_support,picture,Tamil,putavu,putavu,"door, gate",dedr_new.csv,56052,4274,unmarked,door; gate
+gate_support,picture,Tamil,puta,puta,"door, gate",dedr_new.csv,56053,4274,unmarked,door; gate
+gate_support,picture,Tamil,puta,putā,"door, gate",dedr_new.csv,56055,4274,unmarked,door; gate
+gate_support,picture,Tamil,putavam,putavam,"door, gate",dedr_new.csv,56054,4274,unmarked,door; gate
+gate_support,picture,Tamil,purai,pur̤ai,"hole, tube, entrance, gate, forest path, by-path, narrow path; (-pp-, -tt-) to bore, riddle",dedr_new.csv,56638,4317,unmarked,gate
+gate_support,picture,Tamil,vari,vāri,"income, produce; entrance, door, path",dedr_new.csv,70660,5270,unmarked,door
+gate_support,picture,Tamil,vayil,vāyil,"doorway, entrance, gate, place, king's court",dedr_new.csv,71895,5354,unmarked,gate
+gate_support,picture,Tamil,vayal,vāyal,"doorway, entrance, gate, place, king's court",dedr_new.csv,71896,5354,unmarked,gate
+gate_support,picture,Tamil,vacal,vācal,"doorway, entrance, gate, place, king's court",dedr_new.csv,71897,5354,unmarked,gate
+gate_support,target,Tamil,aṭaivu,aṭaivu,"pledge, help, aid, refuge, perching place for birds",dedr_new.csv,1585,79,unmarked,aid
+gate_support,target,Tamil,aṇai,aṇai,"support, prop, protection, help",dedr_new.csv,2222,123,unmarked,support
+gate_support,target,Tamil,aṇtai,aṇtai,support,dedr_new.csv,2223,123,unmarked,support
+gate_support,target,Tamil,aṇam,āṇam,support,dedr_new.csv,5855,408,unmarked,support
+gate_support,target,Tamil,aṇi,āṇi,"support, basis",dedr_new.csv,5856,408,unmarked,support
+gate_support,target,Tamil,utavu,utavu (utavi-),"to give, contribute (as one's mite), help, aid, assist, be of use",dedr_new.csv,9408,609,unmarked,aid
+gate_support,target,Tamil,utavi,utavi,"aid, help, assistance, gift, contribution",dedr_new.csv,9409,609,unmarked,aid; assistance
+gate_support,target,Tamil,uraṉ,uraṉ,"strength of will, support",dedr_new.csv,9847,649,unmarked,support
+gate_support,target,Tamil,uṉṟu,ūṉṟu (ūṉṟi-),"to be fixed, strike root; fix, plant, set firmly in the ground (as a post), lean upon (as a staff, a person), support, press down, bear down with pressure, drive in (as a spear); prop, support",dedr_new.csv,11754,763,unmarked,support
+gate_support,target,Tamil,eṇu,ēṇu,to support,dedr_new.csv,13440,887,unmarked,support
+gate_support,target,Tamil,entu,ēntu (ēnti-),"to stretch out the hands, receive or hold in the hands, hold up, support",dedr_new.csv,13471,894,unmarked,support
+gate_support,target,Tamil,ottacai,ottācai,"aid, help, assistance",dedr_new.csv,14520,972,unmarked,aid; assistance
+gate_support,target,Tamil,kuṭṭu,kūṭṭu (kūṭṭi-),"to unite , join, combine, mingle, add, convoke (an assembly); fellowship, assistance, relationship, throng, illicit intercourse, mixture",dedr_new.csv,26077,1882,unmarked,assistance
+gate_support,target,Tamil,carpu,cārpu,"place, side, help, support, refuge, shelter, attachment, birth, bias, partiality, friendship, approximation, nearness",dedr_new.csv,32500,2460,unmarked,support
+gate_support,target,Tamil,carvu,cārvu,"place, residence, pial, refuge, basis, help, support, means, attachment, vicinity, partiality",dedr_new.csv,32501,2460,unmarked,support
+gate_support,target,Tamil,carttu,cārttu (cārtti-),"to cause to lean, support, join, unite, connect",dedr_new.csv,32503,2460,unmarked,support
+gate_support,target,Tamil,carcci,cārcci,"leaning, uniting, connexion, approach, support",dedr_new.csv,32504,2460,unmarked,support
+gate_support,target,Tamil,cuma,"cuma (-pp-, -nt-)","to become heavy as debt or interest, be burdened; bear, support, carry a burden, take upon oneself, bear in the womb",dedr_new.csv,35085,2677,unmarked,support
+gate_support,target,Tamil,taṅku,tāṅku (tāṅki-),"to uphold, bear up, support, protect, guard, give shelter, endure, bear, assume, wear (as crown), delay, hinder, prevent, resist, ward off; bearing, supporting, support",dedr_new.csv,40961,3153,unmarked,support
+gate_support,target,Tamil,taṅki,tāṅki,"support, prop, defence, one who supports",dedr_new.csv,40963,3153,unmarked,support
+gate_support,target,Tamil,tuṇai,tuṇai,"association, company, help, assistance, support, protection, companion, escort, friend, pair, couple, husband, wife, mate, brother or sister, comparison, similitude, conjugal union; (-v-, -nt-; -pp-, -tt-) to resemble, be like",dedr_new.csv,43006,3308,unmarked,assistance; support
+gate_support,target,Tamil,muṭṭu,muṭṭu (muṭṭi-),"to hinder, be hindered, prevented; hindrance, obstacle, impediment, difficulty as in passing, prop, support",dedr_new.csv,65270,4933,unmarked,support
+gate_support,target,Tamil,tuṇ,tūṇ,"pillar, post, column, mainstay, support",dedr_new.csv,75824,,unmarked,support
+gate_support,target,Tamil,tuṇam,tūṇam,"pillar, post, column, mainstay, support",dedr_new.csv,75825,,unmarked,support
+gate_support,picture,Malayalam,katavu,katavu,"door, door-leaves, corner of a door",dedr_new.csv,17338,1187,unmarked,door
+gate_support,picture,Malayalam,kataku,kataku,"door, door-leaves, corner of a door",dedr_new.csv,17339,1187,unmarked,door
+gate_support,target,Malayalam,aṇa,aṇa,"support, pillow",dedr_new.csv,2224,123,unmarked,support
+gate_support,target,Malayalam,aṇam,āṇam,support,dedr_new.csv,5857,408,unmarked,support
+gate_support,target,Malayalam,uṟappu,uṟappu,"firmness, stay, support, assurance",dedr_new.csv,11196,721,unmarked,support
+gate_support,target,Malayalam,caral,cāral,"leaning against, inclination, side, declivity of hill, support",dedr_new.csv,32512,2460,unmarked,support
+gate_support,target,Malayalam,taṅṅu,tāṅṅu,"support, a vault, staff of a spear",dedr_new.csv,40964,3153,unmarked,support
+gate_support,target,Malayalam,taṅṅuka,tāṅṅuka,"to support, keep, sustain",dedr_new.csv,40965,3153,unmarked,support
+gate_support,target,Malayalam,taṅṅal,tāṅṅal,"support, reservoir",dedr_new.csv,40966,3153,unmarked,support
+gate_support,target,Malayalam,tuṇa,tuṇa,"match, companion, help, assistance, guard, convoy",dedr_new.csv,43014,3308,unmarked,assistance
+gate_support,target,Malayalam,potika,pōtika,"capital of a pillar, prop, support of a king-post",dedr_new.csv,60410,4585,unmarked,support
+gate_support,picture,Kannada,urvelu,urvēlu,gate with round movable poles,dedr_new.csv,10505,683,unmarked,gate
+gate_support,picture,Kannada,kada,kada,"leaf of a door, door. DED 998",dedr_new.csv,17340,1187,unmarked,door
+gate_support,picture,Kannada,kadavu,kadavu,"leaf of a door, door. DED 998",dedr_new.csv,17341,1187,unmarked,door
+gate_support,picture,Kannada,kadahu,kadahu,"leaf of a door, door. DED 998",dedr_new.csv,17342,1187,unmarked,door
+gate_support,picture,Kannada,paḍi,paḍi,"leaf or panel of a door, a door",dedr_new.csv,51015,3845,unmarked,door
+gate_support,picture,Kannada,pugil,pugil,"entering, door, arrival",dedr_new.csv,55647,4238,unmarked,door
+gate_support,picture,Kannada,bagil,bāgil,"gate, doorway",dedr_new.csv,71906,5354,unmarked,gate
+gate_support,picture,Kannada,bagal,bāgal,"gate, doorway",dedr_new.csv,71907,5354,unmarked,gate
+gate_support,picture,Kannada,bakal,bākal,"gate, doorway",dedr_new.csv,71908,5354,unmarked,gate
+gate_support,picture,Kannada,vakkil,vākkil,"gate, doorway",dedr_new.csv,71909,5354,unmarked,gate
+gate_support,target,Kannada,aḍe,aḍe,"the piece of wood on which the five artisans put the article which they happen to operate upon, a support",dedr_new.csv,1849,86,unmarked,support
+gate_support,target,Kannada,aḍa,aḍa,"the piece of wood on which the five artisans put the article which they happen to operate upon, a support",dedr_new.csv,1850,86,unmarked,support
+gate_support,target,Kannada,aḍi,aḍi,"the piece of wood on which the five artisans put the article which they happen to operate upon, a support",dedr_new.csv,1851,86,unmarked,support
+gate_support,target,Kannada,aṇḍe,aṇḍe,"support, prop",dedr_new.csv,2226,123,unmarked,support
+gate_support,target,Kannada,an,ān,"to be upheld, rest on, lean against, recline on, lean, bend, support (as the head), bear, endure, suffer",dedr_new.csv,5858,408,unmarked,support
+gate_support,target,Kannada,anu,ānu,"to be upheld, rest on, lean against, recline on, lean, bend, support (as the head), bear, endure, suffer",dedr_new.csv,5859,408,unmarked,support
+gate_support,target,Kannada,uḍu,ūḍu,a support,dedr_new.csv,11775,763,unmarked,support
+gate_support,target,Kannada,taṅgu,tāṅgu,"to support, keep, sustain, bear up",dedr_new.csv,40970,3153,unmarked,support
+gate_support,target,Kannada,ṭaku,ṭāku,"a support, a vault",dedr_new.csv,40971,3153,unmarked,support
+gate_support,target,Kannada,nera,nera,"being next to, nearness, joining, assistance",dedr_new.csv,49946,3770,unmarked,assistance
+gate_support,target,Kannada,neravu,neravu,"being next to, nearness, joining, assistance",dedr_new.csv,49947,3770,unmarked,assistance
+gate_support,target,Kannada,nerevu,nerevu,"being next to, nearness, joining, assistance",dedr_new.csv,49948,3770,unmarked,assistance
+gate_support,target,Kannada,pore,pore,"to nourish, cherish, support, preserve, invigorate; be nourished or fed; nourishing, invigoration, refreshment",dedr_new.csv,56183,4283,unmarked,support
+gate_support,target,Kannada,poṟ,poṟ (pott-),"to take upon or bear on the head, bear (as a burden), carry, support, hold up, undertake, endure",dedr_new.csv,60192,4565,unmarked,support
+gate_support,target,Kannada,badukisu,badukisu,"to cause to live, support, save from death, raise to life",dedr_new.csv,72157,5372,unmarked,support
+gate_support,target,Kannada,badikisu,badikisu,"to cause to live, support, save from death, raise to life",dedr_new.csv,72158,5372,unmarked,support
+gate_support,picture,Telugu,gavanu,gavanu,gate of a fort. DEDS 174,dedr_new.csv,19220,1339,unmarked,gate
+gate_support,picture,Telugu,talupu,talupu,door,dedr_new.csv,40605,3123,unmarked,door
+gate_support,picture,Telugu,vakili,vākili,"door, doorway",dedr_new.csv,71912,5354,unmarked,door
+gate_support,target,Telugu,aṇḍa,aṇḍa,"nearness, support, assistance, protection, patronage",dedr_new.csv,2185,120,unmarked,assistance; support
+gate_support,target,Telugu,aṇḍa,aṇḍa,support. DED 103,dedr_new.csv,2227,123,unmarked,support
+gate_support,target,Telugu,anincu,ānincu,"to place or lay so as to lean against, lean , support",dedr_new.csv,5868,408,unmarked,support
+gate_support,target,Telugu,anika,ānika,"support, prop, strength",dedr_new.csv,5869,408,unmarked,support
+gate_support,target,Telugu,oṇṭimpu,oṇṭimpu,"convenience, aid, help. DED(S) 818",dedr_new.csv,14516,970,unmarked,aid
+gate_support,target,Telugu,kuduru,kuduru,"to become settled, established, be adjusted or arranged, suit, fit, become calm, become firm, resolute, fixed in opinion, be cured, be set right, terminate successfully; recovery of health, adjustment, fitness, beauty, symmetry, steadiness, a ring of straw, rope, etc., placed under a pot to prevent its rolling over, a support, a rim of stone or other material placed under a mortar to prevent spilling of rice, a garden bed; well-formed, beautiful",dedr_new.csv,23809,1709,unmarked,support
+gate_support,target,Telugu,toḍu,tōḍu,"help, aid, assistance; companion, associate",dedr_new.csv,46274,3563,unmarked,aid; assistance
+gate_support,target,Telugu,procu,prōcu,"to nourish, protect, preserve, support",dedr_new.csv,56187,4283,unmarked,support
+gate_support,target,Telugu,propu,prōpu,"protection, support",dedr_new.csv,56189,4283,unmarked,support
+gate_support,target,Telugu,prapu,prāpu,"support, protection, patronage, refuge",dedr_new.csv,56191,4283,unmarked,support
+gate_support,target,Telugu,pen,pen(u)cu,"to nourish, nurture, foster, support, rear, fatten, increase, extend",dedr_new.csv,58446,4436,unmarked,support
+gate_support,target,Telugu,mocu,mōcu,"to bear, carry, support, (K. also) rest on , lean on",dedr_new.csv,68532,5126,unmarked,support
+gate_support,target,Telugu,moyu,mōyu,"to bear, carry, support, (K. also) rest on , lean on",dedr_new.csv,68533,5126,unmarked,support
+gate_support,target,Telugu,mopu,mōpu,"to place on another as load, lay, rest, support, charge with, (K. also) cause to rest slowly (as a foot on a slippery floor); large bundle, burden, load, severity or aggravation (of diseases), (K. also) responsibility",dedr_new.csv,68534,5126,unmarked,support
+gate_support,picture,Tulu,bakilu,bākilů,"door, gate",dedr_new.csv,71910,5354,unmarked,door; gate
+gate_support,picture,Tulu,badhaḷa,bādhaḷa,door,dedr_new.csv,71911,5354,unmarked,door
+gate_support,target,Tulu,aṭṭe,aṭṭè,"a support, stand",dedr_new.csv,1855,86,unmarked,support
+gate_support,target,Tulu,aṅke,āṅkè,"force, compulsion, power, control, support",dedr_new.csv,4901,340,unmarked,support
+gate_support,target,Tulu,kerpuni,kerpuni,"to prop, support",dedr_new.csv,27756,2012,unmarked,support
+gate_support,target,Tulu,taṅgu,tāṅgů,"a support, prop",dedr_new.csv,40976,3153,unmarked,support
+gate_support,target,Tulu,taṅguni,tāṅguni,"to assist, help, prop, support, sustain",dedr_new.csv,40977,3153,unmarked,support
+gate_support,target,Tulu,taṅgoḷipuni,tāṅgoḷipuni,to support,dedr_new.csv,40978,3153,unmarked,support
+gate_support,target,Tulu,muḍu,mūḍu,support; the east,dedr_new.csv,67301,5035,unmarked,support
+gate_support,target,Kota,odyv,odyv,"aid, help",dedr_new.csv,9416,609,unmarked,aid
+gate_support,picture,Toda,oḍy,oḍy,"door, in song-unit",dedr_new.csv,51013,3845,unmarked,door
+gate_support,target,Toda,wiqfy,wïQfy,"help, aid",dedr_new.csv,9421,609,unmarked,aid
+gate_support,picture,Kodagu,paḍi,paḍi,door,dedr_new.csv,51016,3845,unmarked,door
+gate_support,picture,Kolami,daṭam,daṭam,door,dedr_new.csv,39529,3036,unmarked,door
+gate_support,picture,Gadaba,val,val,door,dedr_new.csv,70872,5277,unmarked,door
+gate_support,target,Gadaba,uta,ūta,support,dedr_new.csv,11799,763,unmarked,support
+gate_support,picture,Konda,kerpi,keRpi,door,dedr_new.csv,27493,1980,unmarked,door
+gate_support,target,Konda,anika,ānika,"support, help, prop",dedr_new.csv,5871,408,unmarked,support
+gate_support,target,Konda,toṛu,tōṛu,"help, company, assistance",dedr_new.csv,46297,3563,unmarked,assistance
+gate_support,picture,Pengo,gespi,gespi,door,dedr_new.csv,27496,1980,unmarked,door
+gate_support,picture,Manda,gehpi,gehpi,door,dedr_new.csv,27498,1980,unmarked,door
+gate_support,target,Kui,aḍa,aḍa (aḍi-),"to be associated with, joined to, united with, associate with, accompany, aid, assist, help; association, assistance, help",dedr_new.csv,1634,79,unmarked,aid; assistance
+gate_support,target,Kuwi,andali,andali,to aid,dedr_new.csv,2191,120,unmarked,aid
+gate_support,picture,Kurukh,bali,balī,"door, (Hahn) screen made of bamboo mats",dedr_new.csv,70873,5277,unmarked,door
+gate_support,picture,Kurukh,bali,bali,door,20260826-sil-kurux.csv,654,,unmarked,door
+gate_support,picture,Kurukh,bʌli,bʌli,door,20260813-kurux-nepal.csv,183,,unmarked,door
+gate_support,picture,Kurukh,bʌli,bʌli,door,20260813-kurux-nepal.csv,184,,unmarked,door
+gate_support,picture,Kurukh,bʌli,bʌli,door,20260813-kurux-nepal.csv,185,,unmarked,door
+gate_support,picture,Kurukh,bʌli,bʌli,door,20260813-kurux-nepal.csv,186,,unmarked,door
+gate_support,picture,Kurukh,bʌli,bʌli,door,20260813-kurux-nepal.csv,188,,unmarked,door
+gate_support,picture,Kurukh,bəli,bəli,door,20260813-kurux-nepal.csv,187,,unmarked,door
+gate_support,picture,Kurukh,bɛli,bɛli,door,20260826-sil-kurux.csv,653,,unmarked,door
+gate_support,picture,Kurukh,bɛli,bɛli,door,20260826-sil-kurux.csv,655,,unmarked,door
+gate_support,picture,Kurukh,bɛli,bɛli,door,20260826-sil-kurux.csv,656,,unmarked,door
+gate_support,picture,Kurukh,bɛli,bɛli,door,20260826-sil-kurux.csv,657,,unmarked,door
+gate_support,target,Kurukh,ordna,ordnā,to support,dedr_new.csv,11204,721,unmarked,support
+gate_support,target,Kurukh,ogrna,ōgrnā,"to be swum across, (tank or stream) supports",dedr_new.csv,15484,1031,unmarked,supports
+gate_support,picture,Malto,duwari,duwari,door,TGM2017.pdf,1533,,unclassified,door
+gate_support,picture,Malto,bali,bali,door,TGM2017.pdf,1966,,unclassified,door
+gate_support,target,Malto,qemḍe,qemḍe,"to carry on the side, support with the arm",dedr_new.csv,21851,1558,unmarked,support
+gate_support,target,Malto,posc,"poːsy-e, poːsc-","to keep, support",TGM2017.pdf,1881,,unclassified,support
+gate_support,target,Malto,posye,"poːsy-e, poːsc-","to keep, support",TGM2017.pdf,1881,,unclassified,support
+gate_support,picture,Brahui,ba,bā,n. mouth; door; gate,20260813-ali-kobayashi-brahui.csv,289,,unmarked,door; gate
+gate_support,picture,Brahui,darga,darga,n. gate,20260813-ali-kobayashi-brahui.csv,727,,loan,gate
+gate_support,picture,Brahui,darvaza,darvāza,n. door,20260813-ali-kobayashi-brahui.csv,731,,loan,door
+gate_support,picture,Brahui,gali,galī,n. door,20260813-ali-kobayashi-brahui.csv,961,,loan,door
+gate_support,target,Brahui,hefing,hēfing,"to raise, lift up, support, carry, tolerate, carry off, lead off",dedr_new.csv,12975,851,unmarked,support
+gate_support,target,Brahui,harfing,harfing,"to raise, lift up, support, carry, tolerate, carry off, lead off",dedr_new.csv,12976,851,unmarked,support
+gate_support,target,Brahui,kumakk,kumakk,n. support,20260813-ali-kobayashi-brahui.csv,1754,,loan,support
+seed_descendants,picture,Tamil,kar,kār̤,"seed, stone, nut, kernel, gravel",dedr_new.csv,21201,1493,unmarked,seed
+seed_descendants,picture,Tamil,paral,paral,"pebble, seed, stone of fruit",dedr_new.csv,52270,3959,unmarked,seed
+seed_descendants,picture,Tamil,vittu,vittu,"seed, semen",dedr_new.csv,72598,5401,unmarked,seed
+seed_descendants,picture,Tamil,viccu,viccu,seed,dedr_new.csv,72599,5401,unmarked,seed
+seed_descendants,picture,Tamil,vitai,"vitai (-pp-, -tt-)","to sow seed, publish, deliver, throw; seed, testicle",dedr_new.csv,72600,5401,unmarked,seed
+seed_descendants,picture,Tamil,viyam,vīyam,seed; rice,dedr_new.csv,76028,,unmarked,seed
+seed_descendants,target,Tamil,umpal,umpal,descendant,dedr_new.csv,9659,639,unmarked,descendant
+seed_descendants,target,Tamil,marukaṉ,marukaṉ,"man's sister's son, woman's brother's son, son-in-law, descendant, scion, member of a clan",dedr_new.csv,61854,4715,unmarked,descendant
+seed_descendants,target,Tamil,marumakaṉ,maru-makaṉ,"man's sister's son, woman's brother's son, son-in-law, descendant, scion, member of a clan",dedr_new.csv,61855,4715,unmarked,descendant
+seed_descendants,target,Tamil,marumaṉ,marumāṉ,"man's sister's son, woman's brother's son, son-in-law, descendant, scion, member of a clan",dedr_new.csv,61856,4715,unmarked,descendant
+seed_descendants,target,Tamil,marapiṉor,marapiṉōr,"descendants, forefathers, kinsfolk, people of one's own caste",dedr_new.csv,61862,4715,unmarked,descendants
+seed_descendants,target,Tamil,vari,var̤i,"way, path, road, origin, source, means, remedy, homage, manner, method, mode, posterity, descendants, race, family, lineage, relative, dependant, series, line, succession, impression, footprint, trace, usage, antiquity, boon, gift; afterwards",dedr_new.csv,71052,5297,unmarked,descendants
+seed_descendants,picture,Malayalam,ari,ari,"grain of rice freed from chaff, seed, grain",dedr_new.csv,3159,215,unmarked,seed
+seed_descendants,picture,Malayalam,miṇṭuka,mīṇṭuka,"to draw out, pluck out the eyes, seeds, from a jackfruit",dedr_new.csv,64040,4857,unmarked,seeds
+seed_descendants,picture,Malayalam,vittu,vittu,"seed, semen",dedr_new.csv,72602,5401,unmarked,seed
+seed_descendants,picture,Malayalam,vitar,vitar,seed,dedr_new.csv,72605,5401,unmarked,seed
+seed_descendants,target,Malayalam,maṟi,maṟi,"offspring, the young of animals, a young deer",dedr_new.csv,62702,4764,unmarked,offspring
+seed_descendants,picture,Kannada,kar,kār̤,"small pebble, gravel, a corn, a single grain, grain, seed",dedr_new.csv,21202,1493,unmarked,seed
+seed_descendants,picture,Kannada,kaḷ,kāḷ,"small pebble, gravel, a corn, a single grain, grain, seed",dedr_new.csv,21203,1493,unmarked,seed
+seed_descendants,picture,Kannada,bittu,bittu,seed,dedr_new.csv,72612,5401,unmarked,seed
+seed_descendants,picture,Kannada,bitta,bitta,seed,dedr_new.csv,72613,5401,unmarked,seed
+seed_descendants,picture,Kannada,birtu,bir̤tu,seed,dedr_new.csv,72614,5401,unmarked,seed
+seed_descendants,picture,Kannada,bede,bede,"seed, sowing",dedr_new.csv,72617,5401,unmarked,seed
+seed_descendants,picture,Kannada,beḷe,beḷe,"to grow as corn, grass, or trees, increase; bear a crop; growing, growth, produce, crop, standing corn, what is to grow, seed, seedlings",dedr_new.csv,73213,5437,unmarked,seed
+seed_descendants,target,Kannada,puṭṭu,puṭṭu,"to arise, originate, come into existence, be born; birth, origin, progeny, family",dedr_new.csv,55950,4264,unmarked,progeny
+seed_descendants,target,Kannada,huṭṭu,huṭṭu,"to arise, originate, come into existence, be born; birth, origin, progeny, family",dedr_new.csv,55951,4264,unmarked,progeny
+seed_descendants,target,Kannada,uṭṭu,uṭṭu,"to arise, originate, come into existence, be born; birth, origin, progeny, family",dedr_new.csv,55952,4264,unmarked,progeny
+seed_descendants,picture,Telugu,ginja,ginja,"a seed, a grain",dedr_new.csv,21486,1523,unmarked,seed
+seed_descendants,picture,Telugu,vittu,vittu,"to sow; seed, testicle",dedr_new.csv,72627,5401,unmarked,seed
+seed_descendants,picture,Telugu,vittanamu,vittanamu,"seed, testicle",dedr_new.csv,72628,5401,unmarked,seed
+seed_descendants,target,Telugu,culu,cūlu,"pregnancy; child, offspring",dedr_new.csv,35846,2733,unmarked,offspring
+seed_descendants,target,Telugu,culi,cūli,"child, offspring",dedr_new.csv,35847,2733,unmarked,offspring
+seed_descendants,picture,Tulu,kayi,kāyi,"unripe fruit, coconut, seed",dedr_new.csv,20890,1459,unmarked,seed
+seed_descendants,picture,Tulu,boḷe,bōḷè,seed of a jackfruit,dedr_new.csv,58543,4444,unmarked,seed
+seed_descendants,picture,Tulu,bittu,bittů,"seed, testicles",dedr_new.csv,72622,5401,unmarked,seed
+seed_descendants,picture,Kota,toyḷ,toyḷ,seed with fleshy covering inside jack-fruit,dedr_new.csv,35569,2704,unmarked,seed
+seed_descendants,picture,Kota,vit,vit,seed,dedr_new.csv,72607,5401,unmarked,seed
+seed_descendants,picture,Toda,pit,pït,seed,dedr_new.csv,72610,5401,unmarked,seed
+seed_descendants,picture,Kodagu,kuru,kuru,seed (esp. of jackfruit),dedr_new.csv,24558,1781,unmarked,seed
+seed_descendants,picture,Kolami,vitanam,vitanam,seed,dedr_new.csv,72630,5401,unmarked,seed
+seed_descendants,picture,Naikri,vitanam,vitanam,seed,dedr_new.csv,72633,5401,unmarked,seed
+seed_descendants,picture,Parji,piḍka,piḍka,"(piḍkel) seed, single grain",dedr_new.csv,54493,4153,unmarked,seed
+seed_descendants,picture,Parji,vittid,vittid ( vittil),"seed, semen",dedr_new.csv,72635,5401,unmarked,seed
+seed_descendants,picture,Gadaba,viti,vīti,seed,dedr_new.csv,72638,5401,unmarked,seed
+seed_descendants,picture,Gondi,peḍe,peḍe,seed,dedr_new.csv,54494,4153,unmarked,seed
+seed_descendants,picture,Gondi,peṛe,peṛe,"(-ku) seed (of orange, etc.), grain (of rice, etc.)",dedr_new.csv,54495,4153,unmarked,seed
+seed_descendants,picture,Gondi,paṛe,paṛe (-k),seed,dedr_new.csv,54496,4153,unmarked,seed
+seed_descendants,picture,Gondi,pane,pane,(-k) seed (of orange) (<i>Voc.</i> 2351),dedr_new.csv,54500,4153,unmarked,seed
+seed_descendants,picture,Gondi,peṇḍu,pēṇḍu,seed,dedr_new.csv,54501,4153,unmarked,seed
+seed_descendants,picture,Gondi,vanji,vanjī,"rice, seed",dedr_new.csv,70613,5265,unmarked,seed
+seed_descendants,picture,Gondi,vijja,vijjā,seed (<i>Voc.</i> 3239),dedr_new.csv,72645,5401,unmarked,seed
+seed_descendants,picture,Gondi,vijja,vijjā,seed (<i>Voc.</i> 3239),dedr_new.csv,72646,5401,unmarked,seed
+seed_descendants,picture,Gondi,vija,vījā,seed (<i>Voc.</i> 3239),dedr_new.csv,72647,5401,unmarked,seed
+seed_descendants,picture,Konda,ginza,ginza,a seed. DED(S) 1276,dedr_new.csv,21487,1523,unmarked,seed
+seed_descendants,picture,Konda,vitu,vitu,seed,dedr_new.csv,72649,5401,unmarked,seed
+seed_descendants,picture,Kui,kau,kāu ( kānga),"fruit, berry, kernel, seed",dedr_new.csv,20909,1459,unmarked,seed
+seed_descendants,picture,Kui,kuḍi,kūḍi,"grain, paddy, seed",dedr_new.csv,26405,1906,unmarked,seed
+seed_descendants,picture,Kuwi,bitza,bitza,seed,dedr_new.csv,72654,5401,unmarked,seed
+seed_descendants,picture,Kuwi,bicca,bicca,seed,dedr_new.csv,72655,5401,unmarked,seed
+seed_descendants,picture,Kuwi,bica,bica,seed,dedr_new.csv,72656,5401,unmarked,seed
+seed_descendants,picture,Kurukh,bia,bia,seed,20260813-kurux-nepal.csv,431,,unmarked,seed
+seed_descendants,picture,Kurukh,bia,bia,seed,20260813-kurux-nepal.csv,432,,unmarked,seed
+seed_descendants,picture,Kurukh,bia,bia,seed,20260813-kurux-nepal.csv,433,,unmarked,seed
+seed_descendants,picture,Kurukh,bihini,bihini,seed,20260813-kurux-nepal.csv,436,,unmarked,seed
+seed_descendants,picture,Kurukh,bihini,bihini,seed,20260826-sil-kurux.csv,254,,unmarked,seed
+seed_descendants,picture,Kurukh,bihini,bihini,seed,20260826-sil-kurux.csv,255,,unmarked,seed
+seed_descendants,picture,Kurukh,bihini,bihini,seed,20260826-sil-kurux.csv,256,,unmarked,seed
+seed_descendants,target,Kurukh,kulas,kūlas,"offspring, descendant",dedr_new.csv,30405,2244,unmarked,descendant; offspring
+seed_descendants,picture,Malto,bici,bíci,"seed (Go., Kuwi, and Malt. words for 'seed' may be &lt; IA.)",dedr_new.csv,72657,5401,unmarked,seed
+seed_descendants,picture,Malto,bici,biːci,seed,TGM2017.pdf,2058,,unclassified,seed
+seed_descendants,target,Malto,ponḍer,ponḍer,"offspring, children",dedr_new.csv,59086,4482,unmarked,offspring
+seed_descendants,picture,Brahui,bijj,bijj,n. seed,20260813-ali-kobayashi-brahui.csv,425,,loan,seed
+seed_descendants,picture,Brahui,gaḍḍa,gaḍḍa,n. seed,20260813-ali-kobayashi-brahui.csv,949,,unmarked,seed
+seed_descendants,target,Brahui,xol,xōl,"womb, offspring, entrails, woof, weft",dedr_new.csv,30407,2244,unmarked,offspring
+seed_descendants,target,Brahui,oliad,oliād,n. offspring (aoliād),20260813-ali-kobayashi-brahui.csv,2253,,loan,offspring
+staff_affection,picture,Tamil,aṭṭu,aṭṭu (aṭṭi-),"to join, stick, paste",dedr_new.csv,1940,96,unmarked,stick
+staff_affection,picture,Tamil,appu,appu (appi-),"to stick with the hand (as sandal paste), plaster with a trowel (as mortar), apply repeatedly (as a fomentation), press against (as in wrestling), thrust in the mouth",dedr_new.csv,2541,157,unmarked,stick
+staff_affection,picture,Tamil,uṟṟu,ūṟṟu,"staff, prop",dedr_new.csv,11757,763,unmarked,staff
+staff_affection,picture,Tamil,oṭṭu,oṭṭu (oṭṭi-),"to stick (as with paste or gum), glue on, betake oneself to, make friends with; patch, piece stuck or fastened on, birdlime, union, friendship",dedr_new.csv,14391,958,unmarked,stick
+staff_affection,picture,Tamil,kari,kar̤i,"rod, staff, stick, handle of tool, peg to keep a yoke in place, lath",dedr_new.csv,19529,1370,unmarked,staff; stick
+staff_affection,picture,Tamil,kucci,kucci,"splinter, peg, stick",dedr_new.csv,22977,1640,unmarked,stick
+staff_affection,picture,Tamil,kuṇiṟu,kuṇiṟu,stick,dedr_new.csv,23574,1684,unmarked,stick
+staff_affection,picture,Tamil,kol,kōl,"stick, staff, branch, arrow",dedr_new.csv,30350,2237,unmarked,staff; stick
+staff_affection,picture,Tamil,ceṅkol,ceṅ-kōl,scepter,dedr_new.csv,35996,2747,unmarked,scepter
+staff_affection,picture,Tamil,taṭi,taṭi,"stick, staff, rod, cane, club, cudgel, bludgeon, a piece as of wood, measuring rod, pestle, bow",dedr_new.csv,39399,3030,unmarked,staff; stick
+staff_affection,picture,Tamil,paṟṟu,paṟṟu (paṟṟi-),"to grasp, seize, catch, hold, receive, adhere to, touch, comprehend; hold (as colour), be kindled, have effect (as drugs), stick, become joined to or welded together (as metals soldered), be fitting, be sufficient; grasp, seizure, acceptance, adherence, affection, friendship, affinity, solder, paste",dedr_new.csv,53290,4034,unmarked,stick
+staff_affection,picture,Tamil,puḷ,puḷ,bird; stick used in the game of tipcat,dedr_new.csv,56660,4319,unmarked,stick
+staff_affection,target,Tamil,aḷi,"aḷi (-v-, -nt-)","to be attached; (-pp-, -tt-) to protect, nourish, be gracious, show favour, create desire; love, grace, desire",dedr_new.csv,4398,301,unmarked,love
+staff_affection,target,Tamil,aṉpu,aṉpu,"love, attachment, friendship, benevolence, devotion, piety",dedr_new.csv,4737,330,unmarked,love
+staff_affection,target,Tamil,aṇi,aṇi,love,dedr_new.csv,4739,330,unmarked,love
+staff_affection,target,Tamil,aṇam,āṇam,"love, friendship, affection",dedr_new.csv,4740,330,unmarked,affection; love
+staff_affection,target,Tamil,aṇu,āṇu,"attachment, affection",dedr_new.csv,4741,330,unmarked,affection
+staff_affection,target,Tamil,arvam,ārvam,"affection, love, desire, hankering, devotion",dedr_new.csv,5426,381,unmarked,affection; love
+staff_affection,target,Tamil,uvakai,uvakai,"joy, gladness, love, desire",dedr_new.csv,8747,558,unmarked,love
+staff_affection,target,Tamil,urimai,urimai,"ownership, that which is owned, claim for right of possession, slave, services of a bondservant, duty, affection, liberty",dedr_new.csv,9951,654,unmarked,affection
+staff_affection,target,Tamil,urittu,urittu,"right, proprietorship, affection",dedr_new.csv,9952,654,unmarked,affection
+staff_affection,target,Tamil,urukkam,urukkam,"melting of heart, tenderness, compassion, love (as to a deity, friend, or child)",dedr_new.csv,10072,661,unmarked,love
+staff_affection,target,Tamil,uruval,ur̤uval,love,dedr_new.csv,10678,691,unmarked,love
+staff_affection,target,Tamil,uṟu,"uṟu (uṟuv-, uṟṟ-)","to be, happen, dwell, be desirable, useful, be joined, come in contact with, touch, love",dedr_new.csv,11042,710,unmarked,love
+staff_affection,target,Tamil,uṟavu,uṟavu,"relationship, friendship, love",dedr_new.csv,11053,710,unmarked,love
+staff_affection,target,Tamil,kaṉivu,kaṉivu,"ripeness, love, compassion",dedr_new.csv,20135,1408,unmarked,love
+staff_affection,target,Tamil,kaṉikaram,kaṉikaram,"affection, love",dedr_new.csv,20136,1408,unmarked,affection; love
+staff_affection,target,Tamil,katal,kātal,"love, affection, lust, desire",dedr_new.csv,20678,1445,unmarked,affection; love
+staff_affection,target,Tamil,katali,"kātali (-pp-, -tt-)","to love, long for; beloved woman, wife, daughter",dedr_new.csv,20682,1445,unmarked,love
+staff_affection,target,Tamil,kataṉmai,kātaṉmai,"affection, desire",dedr_new.csv,20683,1445,unmarked,affection
+staff_affection,target,Tamil,takai,takai,"fitness, suitability, propriety, likeness, resemblance, worthiness, excellence, greatness, superiority, dignity, mercy, grace, love, affection, kindness, beauty, loveliness, goodness, nature, quality, character, fact, event; (-v-, -nt-) to be beautiful, lovely, resemble",dedr_new.csv,39086,3005,unmarked,affection; love
+staff_affection,target,Tamil,taṇ,taṇ,"cold, cool; grace, love",dedr_new.csv,39600,3045,unmarked,love
+staff_affection,target,Tamil,taṭpam,taṭpam,"cold, coolness, fanning cold and other acts necessary for cooling the body, love, mercy",dedr_new.csv,39604,3045,unmarked,love
+staff_affection,target,Tamil,naccu,naccu (nacci-),"to desire, long for, like, love; desire, hankering, liking",dedr_new.csv,46520,3576,unmarked,love
+staff_affection,target,Tamil,nacai,nacai,"desire, eagerness, avarice, love, affection, hope, expectation; (-v-, -nt-) to love, desire",dedr_new.csv,46521,3576,unmarked,affection; love
+staff_affection,target,Tamil,nattu,nattu (natti-),"to desire, long for, hanker after, love",dedr_new.csv,46522,3576,unmarked,love
+staff_affection,target,Tamil,naṇpu,naṇpu,"love, attachment, affection, amity, friendship, relationship",dedr_new.csv,46803,3588,unmarked,affection; love
+staff_affection,target,Tamil,naṭpu,naṭpu,"love, attachment, affection, amity, friendship, relationship",dedr_new.csv,46804,3588,unmarked,affection; love
+staff_affection,target,Tamil,naya,"naya (-pp-, -nt-)","to desire greatly, long for, appreciate, respect, esteem, please, beseech, implore, love, woo, show affection for, be glad, rejoice, be sweet, pleasing, agreeable, be cheap",dedr_new.csv,46987,3602,unmarked,love
+staff_affection,target,Tamil,nayappu,nayappu,"affection, love, desire, delight, pleasure, cheapness",dedr_new.csv,46989,3602,unmarked,affection; love
+staff_affection,target,Tamil,nayam,nayam,"grace, favour, desire, happiness, joy, gladness, goodness, civility, courtesy, love, affection, tenderness, piety, devotion; cheapness, fineness",dedr_new.csv,46990,3602,unmarked,affection; love
+staff_affection,target,Tamil,nayaṉ,nayaṉ,"grace, favour, desire, happiness, joy, gladness, goodness, civility, courtesy, love, affection, tenderness, piety, devotion; cheapness, fineness",dedr_new.csv,46991,3602,unmarked,affection; love
+staff_affection,target,Tamil,ne,nē,"love, compassion, mercy, grace",dedr_new.csv,46993,3602,unmarked,love
+staff_affection,target,Tamil,necam,nēcam,"love, affection, piety, desire as for learning, suitability",dedr_new.csv,46994,3602,unmarked,affection; love
+staff_affection,target,Tamil,neci,nēci,to love,dedr_new.csv,46996,3602,unmarked,love
+staff_affection,target,Tamil,neci,"nēci (-pp-, -tt-)",to love,dedr_new.csv,46997,3602,unmarked,love
+staff_affection,target,Tamil,neyam,nēyam,"love, affection, piety, devotion, good, benefit",dedr_new.csv,46998,3602,unmarked,affection; love
+staff_affection,target,Tamil,niṇaṟu,niṇaṟu,"affection, love, benefit, good (&lt; Te.)",dedr_new.csv,48071,3669,unmarked,affection; love
+staff_affection,target,Tamil,nercci,nērcci,"adaptation, fitness, appropriateness, consent, agreement, harmony, vow, friendliness, amity, love",dedr_new.csv,49923,3770,unmarked,love
+staff_affection,target,Tamil,pacai,pacai,"devotion, love, affection, desire; (-v-, -nt-) to be kind, affectionate",dedr_new.csv,50874,3828,unmarked,affection; love
+staff_affection,target,Tamil,pacaivu,pacaivu,"compassion, kindness, affection",dedr_new.csv,50876,3828,unmarked,affection
+staff_affection,target,Tamil,pari,"pari (-v-, -nt-)","to be affectionate; love, affection",dedr_new.csv,52362,3964,unmarked,affection; love
+staff_affection,target,Tamil,parivu,parivu,"affection, love, devotion, piety, delight, pleasure",dedr_new.csv,52363,3964,unmarked,affection; love
+staff_affection,target,Tamil,paṟṟu,paṟṟu (paṟṟi-),"to grasp, seize, catch, hold, receive, adhere to, touch, comprehend; hold (as colour), be kindled, have effect (as drugs), stick, become joined to or welded together (as metals soldered), be fitting, be sufficient; grasp, seizure, acceptance, adherence, affection, friendship, affinity, solder, paste",dedr_new.csv,53290,4034,unmarked,affection
+staff_affection,target,Tamil,paṟṟutal,paṟṟutal,"love, attachment, devotion",dedr_new.csv,53293,4034,unmarked,love
+staff_affection,target,Tamil,purivu,purivu,"desire, love, attachment",dedr_new.csv,56260,4287,unmarked,love
+staff_affection,target,Tamil,mal,"māl (mālv-, māṉṟ-)","to be confused, perturbed; illusion, delusion, aberration of mind, dullness, stupor, confusion, desire, love, lust",dedr_new.csv,63494,4822,unmarked,love
+staff_affection,target,Tamil,mevu,mēvu (mēvi-),"to join, reach, desire, love, learn, study, level, make even (as the ground), manifest, assume, abide, dwell, be attached, be united, be fitted or joined; desire",dedr_new.csv,68267,5096,unmarked,love
+staff_affection,target,Tamil,yappu,yāppu,"binding, bond, metre, prosody, affection",dedr_new.csv,68651,5149,unmarked,affection
+staff_affection,target,Tamil,vaya,vayā,"desire, great desire, love, affection, morbid longings of pregnant women",dedr_new.csv,70406,5257,unmarked,affection; love
+staff_affection,target,Tamil,virumpu,virumpu (virumpi-),"to wish, desire, long for, covet, love, like, think intensely of",dedr_new.csv,72903,5416,unmarked,love
+staff_affection,target,Tamil,viruppam,viruppam,"desire, liking, love, affection, attachment",dedr_new.csv,72904,5416,unmarked,affection; love
+staff_affection,target,Tamil,viruppu,viruppu,"desire, liking, love, affection, attachment",dedr_new.csv,72905,5416,unmarked,affection; love
+staff_affection,target,Tamil,veḷ,"vēḷ (vēṭp-, vēṭṭ-)","to desire, love; desire, Kāma",dedr_new.csv,74926,5528,unmarked,love
+staff_affection,target,Tamil,virai,"vir̤ai (-v-, -nt-)","to wish, desire, love, be anxious for, covet",dedr_new.csv,74936,5528,unmarked,love
+staff_affection,picture,Malayalam,aṭṭuka,aṭṭuka,"to join, stick, adhere",dedr_new.csv,1942,96,unmarked,stick
+staff_affection,picture,Malayalam,unnukol,ūnnu-kōl,"staff, crutch",dedr_new.csv,11762,763,unmarked,staff
+staff_affection,picture,Malayalam,oṭṭuka,oṭṭuka,"to adhere, stick",dedr_new.csv,14398,958,unmarked,stick
+staff_affection,picture,Malayalam,koṭṭi,kōṭṭi,a stick for play,dedr_new.csv,30102,2205,unmarked,stick
+staff_affection,picture,Malayalam,kol,kōl,"staff, rod, stick, arrow",dedr_new.csv,30351,2237,unmarked,staff; stick
+staff_affection,picture,Malayalam,taṭi,taṭi,"stick, staff",dedr_new.csv,39400,3030,unmarked,staff; stick
+staff_affection,picture,Malayalam,taṟi,taṟi,"post, hedge-stake, stick, cutting, weaver's loom",dedr_new.csv,40788,3140,unmarked,stick
+staff_affection,picture,Malayalam,taṅṅu,tāṅṅu,"support, a vault, staff of a spear",dedr_new.csv,40964,3153,unmarked,staff
+staff_affection,picture,Malayalam,puruka,pūr̤uka,"to be buried, stick in the mire",dedr_new.csv,57464,4376,unmarked,stick
+staff_affection,picture,Malayalam,puṇuka,pūṇuka,"to be buried, stick in the mire",dedr_new.csv,57465,4376,unmarked,stick
+staff_affection,picture,Malayalam,vaṭi,vaṭi,"stick, staff, club of armed brahmans, shaft, stroke",dedr_new.csv,70186,5224,unmarked,staff; stick
+staff_affection,picture,Malayalam,vaḍi,vaɖi,stick,20260911-lindgren.csv,1702,,unmarked,stick
+staff_affection,target,Malayalam,aṇavu,aṇavu,"arrival, closeness, love",dedr_new.csv,2147,120,unmarked,love
+staff_affection,target,Malayalam,arivu,ar̤ivu,"tenderness, love",dedr_new.csv,4102,281,unmarked,love
+staff_affection,target,Malayalam,aḷi,aḷi,"love, affection",dedr_new.csv,4403,301,unmarked,affection; love
+staff_affection,target,Malayalam,anpu,anpu,"love, affection, trust, devotion",dedr_new.csv,4742,330,unmarked,affection; love
+staff_affection,target,Malayalam,ampu,ampu,"love, affection, trust, devotion",dedr_new.csv,4743,330,unmarked,affection; love
+staff_affection,target,Malayalam,inivu,inivu,"sweetness, love, affection",dedr_new.csv,8430,530,unmarked,affection; love
+staff_affection,target,Malayalam,uvakka,uvakka,to love; to exult,dedr_new.csv,8751,558,unmarked,love
+staff_affection,target,Malayalam,uvappu,uvappu,"gladness, love",dedr_new.csv,8752,558,unmarked,love
+staff_affection,target,Malayalam,upavi,upavi,love,dedr_new.csv,8754,558,unmarked,love
+staff_affection,target,Malayalam,ovi,ōvi,love,dedr_new.csv,8755,558,unmarked,love
+staff_affection,target,Malayalam,opi,ōpi,love,dedr_new.csv,8756,558,unmarked,love
+staff_affection,target,Malayalam,upavikka,upavikka,to love,dedr_new.csv,8757,558,unmarked,love
+staff_affection,target,Malayalam,olluka,olluka,"to consent, love, be fit, possible",dedr_new.csv,15125,1006,unmarked,love
+staff_affection,target,Malayalam,kanikaram,kanikaram,"love, kindness",dedr_new.csv,20141,1408,unmarked,love
+staff_affection,target,Malayalam,katal,kātal,"attachment, fondness, affection",dedr_new.csv,20684,1445,unmarked,affection
+staff_affection,target,Malayalam,kuṟuka,kūṟuka,"to love, mind",dedr_new.csv,26284,1897,unmarked,love
+staff_affection,target,Malayalam,kuṟ,kūṟ,love,dedr_new.csv,26285,1897,unmarked,love
+staff_affection,target,Malayalam,kuṟu,kūṟu,love,dedr_new.csv,26286,1897,unmarked,love
+staff_affection,target,Malayalam,cuṟṟam,cuṟṟam,"what is round about, friendship, love",dedr_new.csv,35667,2715,unmarked,love
+staff_affection,target,Malayalam,parivu,parivu,love,dedr_new.csv,52364,3964,unmarked,love
+staff_affection,target,Malayalam,verca,vēr̤ca,"love, affection",dedr_new.csv,74952,5528,unmarked,affection; love
+staff_affection,picture,Kannada,aṇṭu,aṇṭu,"to stick, adhere to; adhesion, that adheres, an impurity, that is sticky, gum, paste, that is viscous",dedr_new.csv,1943,96,unmarked,stick
+staff_affection,picture,Kannada,eñjal,eñjal,"that which in eating is left on the plates, sticks to the mouth or hands, or falls to the ground, that of which a piece is bitten off, i.e. all food or drink which has somehow come in contact with the mouth or hands of the eater and therefore is regarded as impure",dedr_new.csv,12069,780,unmarked,sticks
+staff_affection,picture,Kannada,kaṇ,kaṇ,"joint in reeds, sticks, etc",dedr_new.csv,17032,1160,unmarked,sticks
+staff_affection,picture,Kannada,kaṇe,kaṇe,"stick, arrow",dedr_new.csv,17122,1166,unmarked,stick
+staff_affection,picture,Kannada,kaṇa,kaṇa,"stick, arrow",dedr_new.csv,17123,1166,unmarked,stick
+staff_affection,picture,Kannada,gaṇa,gaṇa,"stick, arrow",dedr_new.csv,17124,1166,unmarked,stick
+staff_affection,picture,Kannada,gar,gar̤,"bamboo rod or stake, bamboo, pole, staff, bamboo pole on which Kollaṭigas or Dombas tumble, churning stick",dedr_new.csv,19538,1370,unmarked,staff
+staff_affection,picture,Kannada,gara,gar̤a,"bamboo rod or stake, bamboo, pole, staff, bamboo pole on which Kollaṭigas or Dombas tumble, churning stick",dedr_new.csv,19539,1370,unmarked,staff
+staff_affection,picture,Kannada,garu,gar̤u,"bamboo rod or stake, bamboo, pole, staff, bamboo pole on which Kollaṭigas or Dombas tumble, churning stick",dedr_new.csv,19540,1370,unmarked,staff
+staff_affection,picture,Kannada,garuvu,gar̤uvu,"bamboo rod or stake, bamboo, pole, staff, bamboo pole on which Kollaṭigas or Dombas tumble, churning stick",dedr_new.csv,19541,1370,unmarked,staff
+staff_affection,picture,Kannada,gare,gar̤e,"bamboo rod or stake, bamboo, pole, staff, bamboo pole on which Kollaṭigas or Dombas tumble, churning stick",dedr_new.csv,19542,1370,unmarked,staff
+staff_affection,picture,Kannada,gaḍe,gaḍe,"bamboo rod or stake, bamboo, pole, staff, bamboo pole on which Kollaṭigas or Dombas tumble, churning stick",dedr_new.csv,19543,1370,unmarked,staff
+staff_affection,picture,Kannada,gaḍi,gaḍi,"bamboo rod or stake, bamboo, pole, staff, bamboo pole on which Kollaṭigas or Dombas tumble, churning stick",dedr_new.csv,19544,1370,unmarked,staff
+staff_affection,picture,Kannada,guṇaku,guṇaku,"stick for beating drums, fiddlestick",dedr_new.csv,23576,1684,unmarked,stick
+staff_affection,picture,Kannada,guṇuku,guṇuku,"stick for beating drums, fiddlestick",dedr_new.csv,23577,1684,unmarked,stick
+staff_affection,picture,Kannada,kuḍupu,kuḍupu,"stick for beating drums, fiddlestick",dedr_new.csv,23578,1684,unmarked,stick
+staff_affection,picture,Kannada,kol,kōl,"stick, staff, arrow",dedr_new.csv,30354,2237,unmarked,staff; stick
+staff_affection,picture,Kannada,kolu,kōlu,"stick, staff, arrow",dedr_new.csv,30355,2237,unmarked,staff; stick
+staff_affection,picture,Kannada,seḷe,seḷe,"twig, small branch, stick, rod, also one for training or punishing children; to cane with a stick",dedr_new.csv,36491,2790,unmarked,stick
+staff_affection,picture,Kannada,ṭaṅke,ṭaṅke,"staff, cudgel, etc. DED 2400",dedr_new.csv,38585,2940,unmarked,staff
+staff_affection,picture,Kannada,ḍaṅke,ḍaṅke,"staff, cudgel, etc. DED 2400",dedr_new.csv,38586,2940,unmarked,staff
+staff_affection,picture,Kannada,ḍaṅgi,ḍaṅgi,"staff, cudgel, etc. DED 2400",dedr_new.csv,38587,2940,unmarked,staff
+staff_affection,picture,Kannada,ḍaṅge,ḍaṅge,"staff, cudgel, etc. DED 2400",dedr_new.csv,38588,2940,unmarked,staff
+staff_affection,picture,Kannada,taḍi,taḍi,"stick, staff, cudgel",dedr_new.csv,39404,3030,unmarked,staff; stick
+staff_affection,picture,Kannada,daḍi,daḍi,"staff, cudgel",dedr_new.csv,39405,3030,unmarked,staff
+staff_affection,picture,Kannada,daṇḍi,daṇḍi,"staff, cudgel",dedr_new.csv,39406,3030,unmarked,staff
+staff_affection,picture,Kannada,dəṇṭu,dəṇṭu,a stick. DED 2459,dedr_new.csv,39408,3030,unmarked,stick
+staff_affection,picture,Kannada,baḍige,baḍige,"stick, staff, cudgel, hammer, mallet",dedr_new.csv,70194,5224,unmarked,staff; stick
+staff_affection,picture,Kannada,biṟ,bīṟ(u),"to throw away, fling, throw as an arrow, stone, stick, etc., give away according to one's inclination or at one's pleasure, spend or bestow profusely, give liberally or magnanimously, spread; spread , become extensive",dedr_new.csv,73575,5463,unmarked,stick
+staff_affection,target,Kannada,aripu,ar̤ipu,"desire, affection",dedr_new.csv,4105,281,unmarked,affection
+staff_affection,target,Kannada,arugu,ar̤ugu,to love,dedr_new.csv,4106,281,unmarked,love
+staff_affection,target,Kannada,arkaṟ,ar̤kaṟ,to love,dedr_new.csv,4107,281,unmarked,love
+staff_affection,target,Kannada,arkaṟ,ar̤kaṟ,"love, affection",dedr_new.csv,4110,281,unmarked,affection; love
+staff_affection,target,Kannada,arti,ar̤ti,"love, desire, a pleasant object",dedr_new.csv,4108,281,unmarked,love
+staff_affection,target,Kannada,arti,arti,"love, desire, a pleasant object",dedr_new.csv,4109,281,unmarked,love
+staff_affection,target,Kannada,akkaṟe,akkaṟe,"love, affection",dedr_new.csv,4111,281,unmarked,affection; love
+staff_affection,target,Kannada,akkaṟa,akkaṟa,"love, affection",dedr_new.csv,4112,281,unmarked,affection; love
+staff_affection,target,Kannada,akkaṟu,akkaṟu,"love, affection",dedr_new.csv,4113,281,unmarked,affection; love
+staff_affection,target,Kannada,akkasa,akkasa,"love, affection",dedr_new.csv,4114,281,unmarked,affection; love
+staff_affection,target,Kannada,aḷipu,aḷipu,"to be addicted to, long for; hankering after, desire, love",dedr_new.csv,4407,301,unmarked,love
+staff_affection,target,Kannada,aḷupu,aḷupu,"to be addicted to, long for; hankering after, desire, love",dedr_new.csv,4408,301,unmarked,love
+staff_affection,target,Kannada,arume,arume,"love, affection, a kiss, a fickle or libidinous state of being",dedr_new.csv,5431,381,unmarked,affection; love
+staff_affection,target,Kannada,arame,arame,"love, affection, a kiss, a fickle or libidinous state of being",dedr_new.csv,5432,381,unmarked,affection; love
+staff_affection,target,Kannada,urugu,ur̤ugu,"to be attached to, be fond of, love",dedr_new.csv,10679,691,unmarked,love
+staff_affection,target,Kannada,urigu,ur̤igu,"to be attached to, be fond of, love",dedr_new.csv,10680,691,unmarked,love
+staff_affection,target,Kannada,urgu,ur̤gu,"to be attached to, be fond of, love",dedr_new.csv,10681,691,unmarked,love
+staff_affection,target,Kannada,urge,ur̤ge,"attachment, love",dedr_new.csv,10683,691,unmarked,love
+staff_affection,target,Kannada,oṟal,oṟal,"to be attached to, love; attachment, love",dedr_new.csv,11068,710,unmarked,love
+staff_affection,target,Kannada,uppu,uppu,"love, esp. doting affection; being, abiding; protection, esp. of a place marked out by lines in a game",dedr_new.csv,11069,710,unmarked,love
+staff_affection,target,Kannada,eṟaka,eṟaka,"love, good will. DED(S) 733",dedr_new.csv,13187,862,unmarked,love
+staff_affection,target,Kannada,eṟuka,eṟuka,"love, good will. DED(S) 733",dedr_new.csv,13188,862,unmarked,love
+staff_affection,target,Kannada,ol,ol,"to be pleased, like, love, desire",dedr_new.csv,15135,1006,unmarked,love
+staff_affection,target,Kannada,olime,olime,"pleasure, love, kindness",dedr_new.csv,15141,1006,unmarked,love
+staff_affection,target,Kannada,olume,olume,"pleasure, love, kindness",dedr_new.csv,15142,1006,unmarked,love
+staff_affection,target,Kannada,olaḍu,ōl-āḍu,"to have affection for, love",dedr_new.csv,15143,1006,unmarked,love
+staff_affection,target,Kannada,olaṭa,ōl-āṭa,"affection, friendship",dedr_new.csv,15144,1006,unmarked,affection
+staff_affection,target,Kannada,karuḷ,karuḷ,"an entrail, the bowels; love",dedr_new.csv,18233,1274,unmarked,love
+staff_affection,target,Kannada,karaḷu,karaḷu,"an entrail, the bowels; love",dedr_new.csv,18234,1274,unmarked,love
+staff_affection,target,Kannada,karḷu,karḷu,"an entrail, the bowels; love",dedr_new.csv,18235,1274,unmarked,love
+staff_affection,target,Kannada,kaḷḷu,kaḷḷu,"an entrail, the bowels; love",dedr_new.csv,18236,1274,unmarked,love
+staff_affection,target,Kannada,kadal,kādal,"affection, love",dedr_new.csv,20687,1445,unmarked,affection; love
+staff_affection,target,Kannada,kadalme,kādalme,"affection, love",dedr_new.csv,20688,1445,unmarked,affection; love
+staff_affection,target,Kannada,kur,kūr,"to mind, be attached to, love",dedr_new.csv,26288,1897,unmarked,love
+staff_affection,target,Kannada,kurpu,kūrpu,love,dedr_new.csv,26291,1897,unmarked,love
+staff_affection,target,Kannada,kurme,kūrme,love,dedr_new.csv,26292,1897,unmarked,love
+staff_affection,target,Kannada,takku,takku,"largeness, greatness, exalted position; love, affection, desire",dedr_new.csv,39101,3005,unmarked,affection; love
+staff_affection,target,Kannada,naccu,naccu,"to confide, trust, confide in, rely on, believe, desire, love; confidence, trust, faith, belief, reliance, longing, desire, love",dedr_new.csv,46525,3576,unmarked,love
+staff_affection,target,Kannada,narcu,narcu,"to confide, trust, confide in, rely on, believe, desire, love; confidence, trust, faith, belief, reliance, longing, desire, love",dedr_new.csv,46526,3576,unmarked,love
+staff_affection,target,Kannada,neccu,neccu,"to confide, trust, confide in, rely on, believe, desire, love; confidence, trust, faith, belief, reliance, longing, desire, love",dedr_new.csv,46527,3576,unmarked,love
+staff_affection,target,Kannada,naṇpu,naṇpu,"friendship, affection, love, favour, confidential relationship, familiarity, intimacy, relationship, delightfulness, charm, pleasantness, agreeability",dedr_new.csv,46829,3588,unmarked,affection; love
+staff_affection,target,Kannada,neṇpu,neṇpu,"friendship, affection, love, favour, confidential relationship, familiarity, intimacy, relationship, delightfulness, charm, pleasantness, agreeability",dedr_new.csv,46830,3588,unmarked,affection; love
+staff_affection,target,Kannada,nanni,nanni,"truth, love, affection (= Ta.naṉṟi, Kitt.)",dedr_new.csv,47196,3610,unmarked,affection; love
+staff_affection,target,Kannada,maṟugu,maṟugu,"to burn, be very hot, be inflamed with passion, love, suffer great pain, be distressed, grieve",dedr_new.csv,62812,4769,unmarked,love
+staff_affection,target,Kannada,maṟagu,maṟagu,"to burn, be very hot, be inflamed with passion, love, suffer great pain, be distressed, grieve",dedr_new.csv,62813,4769,unmarked,love
+staff_affection,picture,Telugu,kaṇika,kaṇika,a stick,dedr_new.csv,17098,1165,unmarked,stick
+staff_affection,picture,Telugu,gaḍa,gaḍa,"pole, staff, rod, stick, stalk, mast",dedr_new.csv,19552,1370,unmarked,staff; stick
+staff_affection,picture,Telugu,kaṟṟa,kaṟṟa,"wood, timber; stick, staff",dedr_new.csv,19861,1389,unmarked,staff; stick
+staff_affection,picture,Telugu,kama,kāma,"stem, stalk, stick, handle (of axe, hoe, umbrella, etc.), shaft",dedr_new.csv,20730,1454,unmarked,stick
+staff_affection,picture,Telugu,koyya,koyya,"stick, rod, staff, ship's mast, wood; wooden",dedr_new.csv,29112,2120,unmarked,staff; stick
+staff_affection,picture,Telugu,kola,kōla,"stick, staff, arrow; long, oblong",dedr_new.csv,30359,2237,unmarked,staff; stick
+staff_affection,target,Telugu,arulu,arulu,"tenderness, affection, fondness",dedr_new.csv,3293,227,unmarked,affection
+staff_affection,target,Telugu,ariti,ariti,"love, affection",dedr_new.csv,5436,381,unmarked,affection; love
+staff_affection,target,Telugu,armili,armili,"fondness, affection, desire",dedr_new.csv,5439,381,unmarked,affection
+staff_affection,target,Telugu,narmili,narmili,"love, affection, desire",dedr_new.csv,5440,381,unmarked,affection; love
+staff_affection,target,Telugu,gomu,gōmu,"love, affection, fondness, cherishing",dedr_new.csv,8767,558,unmarked,affection; love
+staff_affection,target,Telugu,valacu,valacu (neg. gerund ollaka),"to love, wish, desire",dedr_new.csv,15150,1006,unmarked,love
+staff_affection,target,Telugu,valapu,valapu,"love, desire, wish",dedr_new.csv,15154,1006,unmarked,love
+staff_affection,target,Telugu,gadili,gādili,"love, affection; dear, beloved",dedr_new.csv,20692,1445,unmarked,affection; love
+staff_affection,target,Telugu,kurimi,kūrimi,"friendship, love, affection",dedr_new.csv,26293,1897,unmarked,affection; love
+staff_affection,target,Telugu,kurmi,kūrmi,"friendship, love, affection",dedr_new.csv,26294,1897,unmarked,affection; love
+staff_affection,target,Telugu,tagulamu,tagulamu,"attachment, tie, affection, fondness, love, passion, addictedness, connexion, relation, hindrance, obstacle, a fetter",dedr_new.csv,39063,3004,unmarked,affection; love
+staff_affection,target,Telugu,tagulaṭamu,tagulāṭamu,"attachment, tie, affection, fondness, love, passion, addictedness, connexion, relation, hindrance, obstacle, a fetter",dedr_new.csv,39064,3004,unmarked,affection; love
+staff_affection,target,Telugu,tamakamu,tamakamu,"eagerness, impatience, hurry, haste, love, desire",dedr_new.csv,40057,3077,unmarked,love
+staff_affection,target,Telugu,tami,tami,"love, desire. DED 2505",dedr_new.csv,40060,3077,unmarked,love
+staff_affection,target,Telugu,nanucu,nanucu,"to like, love, be fond of",dedr_new.csv,46842,3588,unmarked,love
+staff_affection,target,Telugu,nemmi,nemmi,"love, affection, attachment, happiness, delight, peace of mind",dedr_new.csv,47015,3602,unmarked,affection; love
+staff_affection,target,Telugu,nemmika,nemmika,"love, affection",dedr_new.csv,47016,3602,unmarked,affection; love
+staff_affection,target,Telugu,neyyami,neyyami,"friendship, love, affection, tenderness",dedr_new.csv,47017,3602,unmarked,affection; love
+staff_affection,target,Telugu,neyyamu,neyyamu,"friendship, love, affection, tenderness",dedr_new.csv,47018,3602,unmarked,affection; love
+staff_affection,target,Telugu,nestamu,nēstamu,"friendship, love",dedr_new.csv,47025,3602,unmarked,love
+staff_affection,target,Telugu,nenaru,nenaru,"affection, love, tenderness, pity. DED 3038",dedr_new.csv,48072,3669,unmarked,affection; love
+staff_affection,target,Telugu,perima,perima,"love, affection, DED(S) 3269",dedr_new.csv,52366,3964,unmarked,affection; love
+staff_affection,target,Telugu,maragu,maragu,"to become familiar with, be accustomed to, be addicted or given to, take to, acquire a strong liking or taste for, love, desire, wish, (K. also) learn",dedr_new.csv,62008,4722,unmarked,love
+staff_affection,target,Telugu,maragu,marāgu,"to become familiar with, be accustomed to, be addicted or given to, take to, acquire a strong liking or taste for, love, desire, wish, (K. also) learn",dedr_new.csv,62009,4722,unmarked,love
+staff_affection,target,Telugu,marugu,marugu,"to become familiar with, be accustomed to, be addicted or given to, take to, acquire a strong liking or taste for, love, desire, wish, (K. also) learn",dedr_new.csv,62010,4722,unmarked,love
+staff_affection,target,Telugu,maccika,maccika,"love, affection, caressing, tameness; tame, domesticated",dedr_new.csv,62014,4722,unmarked,affection; love
+staff_affection,target,Telugu,macciga,macciga,"love, affection, caressing, tameness; tame, domesticated",dedr_new.csv,62015,4722,unmarked,affection; love
+staff_affection,target,Telugu,marulu,marulu,"love, passion, desire, lust; an evil spirit",dedr_new.csv,62087,4723,unmarked,love
+staff_affection,target,Telugu,malimi,mālimi,"familiarity, affection, love. DED 3953",dedr_new.csv,63528,4826,unmarked,affection; love
+staff_affection,picture,Tulu,aṇṭuni,aṇṭuni,"to adhere, stick; to paste , attract",dedr_new.csv,1948,96,unmarked,stick
+staff_affection,picture,Tulu,uta,ūta,"weight, burden, staff",dedr_new.csv,11785,763,unmarked,staff
+staff_affection,picture,Tulu,gaṇe,gaṇè,"pole, staff, arrow",dedr_new.csv,17129,1166,unmarked,staff
+staff_affection,picture,Tulu,kolu,kōlů,"stick, staff",dedr_new.csv,30357,2237,unmarked,staff; stick
+staff_affection,picture,Tulu,kolu,kōlu,"stick, staff",dedr_new.csv,30358,2237,unmarked,staff; stick
+staff_affection,picture,Tulu,neluni,nēluni,"to hang, be suspended, swing, vibrate, hang on, stick",dedr_new.csv,38043,2912,unmarked,stick
+staff_affection,picture,Tulu,pattuni,pattuni,"to hold, catch; adhere, stick, be joined",dedr_new.csv,53316,4034,unmarked,stick
+staff_affection,picture,Tulu,baḍu,baḍu,"stick, cudgel",dedr_new.csv,70202,5224,unmarked,stick
+staff_affection,picture,Tulu,baḍu,baɖu,stick,20260911-lindgren.csv,771,,unmarked,stick
+staff_affection,picture,Tulu,baḍu,baɖu,stick,20260911-lindgren.csv,2913,,unmarked,stick
+staff_affection,picture,Tulu,baḍu,baɖu,stick,20260911-lindgren.csv,3665,,unmarked,stick
+staff_affection,picture,Tulu,balipuni,balipuni,"to stick, adhere, hold fast",dedr_new.csv,70917,5284,unmarked,stick
+staff_affection,picture,Tulu,baḍgɛ,baɖgɛ,stick,20260911-lindgren.csv,770,,unmarked,stick
+staff_affection,picture,Tulu,daṇṭɛ,daɳʈɛ,stick,20260911-lindgren.csv,773,,unmarked,stick
+staff_affection,picture,Tulu,baḍige,baɖige,stick,20260911-lindgren.csv,2912,,unmarked,stick
+staff_affection,picture,Tulu,baḍige,baɖige,stick,20260911-lindgren.csv,3664,,unmarked,stick
+staff_affection,picture,Tulu,daṇḍo,daɳɖo,stick,20260911-lindgren.csv,2914,,unmarked,stick
+staff_affection,picture,Tulu,daṇḍo,daɳɖo,stick,20260911-lindgren.csv,3666,,unmarked,stick
+staff_affection,picture,Tulu,kolɯ,kolɯ,stick,20260911-lindgren.csv,3195,,unmarked,stick
+staff_affection,target,Tulu,akkare,akkare,"affection, fondness",dedr_new.csv,4116,281,unmarked,affection
+staff_affection,target,Tulu,dambaḍige,dambaḍigè,"delight, pleasure, love, acquiescence, persuasion",dedr_new.csv,14165,945,unmarked,love
+staff_affection,target,Tulu,olapuni,olapuni,"to love, fondle",dedr_new.csv,15145,1006,unmarked,love
+staff_affection,target,Tulu,olame,olame,"affection, love, kindness",dedr_new.csv,15146,1006,unmarked,affection; love
+staff_affection,target,Tulu,olume,olume,"affection, love, kindness",dedr_new.csv,15147,1006,unmarked,affection; love
+staff_affection,target,Tulu,śeḍavu,śeḍavu,"pride, haughtiness, affection, coquetry. DEDS 435",dedr_new.csv,36101,2755,unmarked,affection
+staff_affection,picture,Kota,oṭ,oṭ- (oṭy-),to stick,dedr_new.csv,14404,958,unmarked,stick
+staff_affection,picture,Kota,tac,tac,"stick, walking stick, hitting stick in tipcat",dedr_new.csv,39402,3030,unmarked,stick
+staff_affection,target,Kota,akm,akm,affection,dedr_new.csv,4103,281,unmarked,affection
+staff_affection,target,Toda,kaf,kaf,"affection, love (filial or of a friend), mercy",dedr_new.csv,19122,1328,unmarked,affection; love
+staff_affection,target,Kodagu,kodi,kodi,"love, desire",dedr_new.csv,28758,2084,unmarked,love
+staff_affection,picture,Kolami,aṭ,aṭ- (aṭt-),"to stick , (child) attaches itself to breast",dedr_new.csv,1959,96,unmarked,stick
+staff_affection,picture,Kolami,aṭip,aṭip- (aṭipt-),"to stick , put (child) to breast",dedr_new.csv,1960,96,unmarked,stick
+staff_affection,picture,Kolami,aṇṭ,aṇṭ-,to stick,dedr_new.csv,1961,96,unmarked,stick
+staff_affection,picture,Kolami,kola,kolā,stick,dedr_new.csv,30362,2237,unmarked,stick
+staff_affection,picture,Kolami,kola,kōla,stick,dedr_new.csv,30363,2237,unmarked,stick
+staff_affection,picture,Naikri,aṭip,aṭip-,to stick,dedr_new.csv,1963,96,unmarked,stick
+staff_affection,picture,Parji,koyya,koyya,"stick, drum-stick, thorn, sting",dedr_new.csv,29114,2120,unmarked,stick
+staff_affection,picture,Parji,cin,cin-,"to stick, adhere (&lt;ciṇ-/ciṇḍ-); <i>caus.</i> cinip- (cinit-)",dedr_new.csv,33209,2516,unmarked,stick
+staff_affection,picture,Parji,cokip,cōkip- (cōkit-),to stick into,dedr_new.csv,37514,2876,unmarked,stick
+staff_affection,picture,Parji,baṛiya,baṛiya,stick,dedr_new.csv,70208,5224,unmarked,stick
+staff_affection,picture,Gadaba,kanve,kanve,stick,dedr_new.csv,17103,1165,unmarked,stick
+staff_affection,picture,Gadaba,kaṛmeṭ,kaṛmeṭ,stick,dedr_new.csv,19557,1370,unmarked,stick
+staff_affection,picture,Gadaba,kanḍven,kanḍven ( kanḍvēl),stick (or all these with 1165 Ko.kaṇk),dedr_new.csv,19558,1370,unmarked,stick
+staff_affection,picture,Gondi,koṭṭeyla,koṭṭēylā,stick. DED 1724,dedr_new.csv,28657,2071,unmarked,stick
+staff_affection,picture,Gondi,kola,kōlā,"(Tr.) a thin twig or stick, esp. for kindling a fire, (W. Ph.) stick, rod, a blade of grass, straw",dedr_new.csv,30367,2237,unmarked,stick
+staff_affection,picture,Gondi,kola,kōlā,"stick, arrow, slate-pencil",dedr_new.csv,30372,2237,unmarked,stick
+staff_affection,picture,Gondi,jirksana,jirksānā,to stick,dedr_new.csv,33046,2498,unmarked,stick
+staff_affection,picture,Gondi,ḍuḍu,ḍuḍu,stick,dedr_new.csv,42952,3304,unmarked,stick
+staff_affection,picture,Gondi,ḍuḍu,ḍuḍu,stick,dedr_new.csv,42953,3304,unmarked,stick
+staff_affection,picture,Gondi,ḍuḍi,ḍūḍi,"stick, cane (<i>Voc.</i> 1568)",dedr_new.csv,42954,3304,unmarked,stick
+staff_affection,picture,Gondi,pacihtana,pacihtānā,to stick (<i>Voc.</i> 2074),dedr_new.csv,50870,3827,unmarked,stick
+staff_affection,picture,Gondi,baḍḍe,baḍḍe,stick (<i>Voc.</i> 2510),dedr_new.csv,70209,5224,unmarked,stick
+staff_affection,picture,Gondi,baḍḍe,baḍḍe,stick (<i>Voc.</i> 2510),dedr_new.csv,70210,5224,unmarked,stick
+staff_affection,picture,Gondi,baḍḍi,baḍḍi,stick (<i>Voc.</i> 2510),dedr_new.csv,70211,5224,unmarked,stick
+staff_affection,picture,Gondi,baḍga,baḍga,stick (<i>Voc.</i> 2510),dedr_new.csv,70212,5224,unmarked,stick
+staff_affection,picture,Gondi,baḍga,baḍga,stick (<i>Voc.</i> 2510),dedr_new.csv,70216,5224,unmarked,stick
+staff_affection,picture,Gondi,baṛga,baṛga,stick (<i>Voc.</i> 2510),dedr_new.csv,70213,5224,unmarked,stick
+staff_affection,picture,Gondi,baṛga,baṛga,stick (<i>Voc.</i> 2510),dedr_new.csv,70214,5224,unmarked,stick
+staff_affection,picture,Gondi,baṛga,baṛga,stick (<i>Voc.</i> 2510),dedr_new.csv,70215,5224,unmarked,stick
+staff_affection,picture,Gondi,baṛiya,baṛiya,stick (<i>Voc.</i> 2510),dedr_new.csv,70217,5224,unmarked,stick
+staff_affection,picture,Gondi,waṛiya,waṛiyā,stick (<i>Voc.</i> 2510),dedr_new.csv,70218,5224,unmarked,stick
+staff_affection,picture,Konda,baḍga,baḍga,stick,dedr_new.csv,70220,5224,unmarked,stick
+staff_affection,picture,Pengo,ḍanj,ḍanj- (ḍanc-),"to stick, adhere",dedr_new.csv,38594,2942,unmarked,stick
+staff_affection,picture,Pengo,baḍge,baḍge,"stick, staff",dedr_new.csv,70221,5224,unmarked,staff; stick
+staff_affection,picture,Manda,ḍenj,ḍenj-,"to stick, adhere",dedr_new.csv,38595,2942,unmarked,stick
+staff_affection,picture,Manda,baḍga,baḍga,stick,dedr_new.csv,70222,5224,unmarked,stick
+staff_affection,picture,Kui,ḍuṛa,ḍūṛa,"stick, staff, rod",dedr_new.csv,42956,3304,unmarked,staff; stick
+staff_affection,picture,Kuwi,kandi,kandi,"(F.) stick (dried), (Isr.) twig, stick",dedr_new.csv,17104,1165,unmarked,stick
+staff_affection,picture,Kuwi,baṛga,baṛga,stick,dedr_new.csv,70223,5224,unmarked,stick
+staff_affection,picture,Kuwi,baṛiya,baṛiya,stick,dedr_new.csv,70224,5224,unmarked,stick
+staff_affection,picture,Kuwi,buṛga,buṛga,"stick, club",dedr_new.csv,70225,5224,unmarked,stick
+staff_affection,target,Kuwi,mrih,mrīh- (-t-),to practise; love,dedr_new.csv,62042,4722,unmarked,love
+staff_affection,picture,Kurukh,assgna,assgnā,"to adhere, stick, hold to or together, attach oneself to, fit, (tongue) to be unable to utter distinctly",dedr_new.csv,1118,43,unmarked,stick
+staff_affection,picture,Kurukh,xerrna,xerrnā (xirryas),"to introduce lengthwise by gradual pushing, insert, stick into or behind",dedr_new.csv,36297,2778,unmarked,stick
+staff_affection,picture,Kurukh,pinn,pinn,stick,dedr_new.csv,55334,4208,unmarked,stick
+staff_affection,picture,Kurukh,ḍʌṇḍa,ɖʌɳɖa,stick,20260813-kurux-nepal.csv,201,,unmarked,stick
+staff_affection,picture,Kurukh,ḍʌṇḍa,ɖʌɳɖa,stick,20260813-kurux-nepal.csv,202,,unmarked,stick
+staff_affection,picture,Kurukh,ḍʌnḍa,ɖʌnɖa,stick,20260813-kurux-nepal.csv,203,,unmarked,stick
+staff_affection,picture,Kurukh,ḍʌnḍa,ɖʌnɖa,stick,20260813-kurux-nepal.csv,204,,unmarked,stick
+staff_affection,picture,Kurukh,ḍʌnḍɑ,ɖʌnɖɑ,stick,20260813-kurux-nepal.csv,205,,unmarked,stick
+staff_affection,picture,Kurukh,ḍʌnḍʌ,ɖʌnɖʌ,stick,20260813-kurux-nepal.csv,206,,unmarked,stick
+staff_affection,target,Kurukh,korɛlag,korɛlag,to love,20260826-sil-kurux.csv,985,,unmarked,love
+staff_affection,target,Kurukh,dularnan,dularnan,to love,20260826-sil-kurux.csv,986,,unmarked,love
+staff_affection,target,Kurukh,bʰalobaʃa,bʰalobaʃa,to love,20260826-sil-kurux.csv,987,,unmarked,love
+staff_affection,picture,Malto,asge,asge,to stick,dedr_new.csv,1120,43,unmarked,stick
+staff_affection,picture,Malto,pinu,pinu,"stick, staff. DEDS 683",dedr_new.csv,55335,4208,unmarked,staff; stick
+staff_affection,picture,Malto,pinu,"pinu, -a",stick,TGM2017.pdf,1790,,unclassified,stick
+staff_affection,picture,Malto,laṭi,laʈi,"staff, stick",TGM2017.pdf,2408,,unclassified,staff; stick
+staff_affection,target,Malto,manye,manye,"to love, marry",dedr_new.csv,61440,4667,unmarked,love
+staff_affection,target,Malto,maṛe,maṛe,"to will, wish, love",dedr_new.csv,62044,4722,unmarked,love
+staff_affection,target,Malto,maṛmene,maṛ-mene,"to be pleased with, love",dedr_new.csv,62045,4722,unmarked,love
+staff_affection,target,Malto,naq,"kelar-naq-e, -naq-",to love,TGM2017.pdf,836,,unclassified,love
+staff_affection,target,Malto,kelarnaqe,"kelar-naq-e, -naq-",to love,TGM2017.pdf,836,,unclassified,love
+staff_affection,target,Malto,try,"dulareːtr-e, -try-",to love,TGM2017.pdf,1537,,unclassified,love
+staff_affection,target,Malto,dularetre,"dulareːtr-e, -try-",to love,TGM2017.pdf,1537,,unclassified,love
+staff_affection,picture,Brahui,halling,"halling (present halē-, imper. haḻẖ, past halk-)","to seize, hold, buy, overtake, detect, tack together (a tear); get caught, stick",dedr_new.csv,4353,296,unmarked,stick
+staff_affection,picture,Brahui,caṛi,caṛī,n. scepter,20260813-ali-kobayashi-brahui.csv,521,,unmarked,scepter
+staff_affection,picture,Brahui,laṭṭ,laṭṭ,n. stick,20260813-ali-kobayashi-brahui.csv,1811,,unmarked,stick
+staff_affection,picture,Brahui,šat,šat,n. cane; horsewhip; stick,20260813-ali-kobayashi-brahui.csv,2851,,unmarked,stick
+staff_affection,target,Brahui,mabatt,mābatt,n. affection,20260813-ali-kobayashi-brahui.csv,1945,,loan,affection
+staff_affection,target,Brahui,mehr,mehr,n. love,20260813-ali-kobayashi-brahui.csv,1980,,loan,love
+cup_ear,picture,Tamil,takari,takar̤i,"bowl of a lamp, plate from which food is eaten",dedr_new.csv,41305,3182,unmarked,bowl
+cup_ear,picture,Tamil,takaḷi,takaḷi,"bowl of a lamp, plate from which food is eaten",dedr_new.csv,41306,3182,unmarked,bowl
+cup_ear,picture,Tamil,mallam,mallam,"cup, porringer, plate",dedr_new.csv,62325,4744,unmarked,cup
+cup_ear,picture,Tamil,toṉṉai,toṉṉai,cup made of plantain or other leaf,dedr_new.csv,75831,,unmarked,cup
+cup_ear,target,Tamil,kaṉṉam,kaṉṉam,"cheek, ear",dedr_new.csv,20212,1413,unmarked,ear
+cup_ear,target,Tamil,katu,kātu,"ear, hole through which thread, hook, pin or shaft is passed (as eye of a needle), ear of a jar serving as a handle",dedr_new.csv,20706,1448,unmarked,ear
+cup_ear,target,Tamil,kurai,kur̤ai,"ear-ring, ear",dedr_new.csv,25084,1823,unmarked,ear
+cup_ear,target,Tamil,cevi,cevi,ear,dedr_new.csv,27321,1977,unmarked,ear
+cup_ear,target,Tamil,keḷvi,kēḷvi,"hearing, question, learning, sound, word, rumour, ear",dedr_new.csv,27795,2017,unmarked,ear
+cup_ear,target,Tamil,keṭpu,kēṭpu,"hearing, question, learning, sound, word, rumour, ear",dedr_new.csv,27796,2017,unmarked,ear
+cup_ear,picture,Malayalam,kiṇṭi,kiṇṭi,"goblet, water-vessel with a snout",dedr_new.csv,21647,1541,unmarked,goblet
+cup_ear,picture,Malayalam,tuta,tūta,"milkpot, cup",dedr_new.csv,44016,3385,unmarked,cup
+cup_ear,picture,Malayalam,malla,malla,"earthen cup, bowl",dedr_new.csv,62327,4744,unmarked,bowl
+cup_ear,picture,Malayalam,mallika,mallika,"earthen cup, bowl",dedr_new.csv,62328,4744,unmarked,bowl
+cup_ear,target,Malayalam,katir,katir,"ear, spike of corn",dedr_new.csv,17421,1194,unmarked,ear
+cup_ear,target,Malayalam,katu,kātu,"ear (more as a member than as organ of hearing), handle of vessel, eye of needle",dedr_new.csv,20707,1448,unmarked,ear
+cup_ear,target,Malayalam,kura,kur̤a,"ear-ring, ear",dedr_new.csv,25085,1823,unmarked,ear
+cup_ear,target,Malayalam,cevi,cevi,"ear, the outer ear",dedr_new.csv,27326,1977,unmarked,ear
+cup_ear,target,Malayalam,ceviṭu,ceviṭu,"ear, chiefly the inner part",dedr_new.csv,27328,1977,unmarked,ear
+cup_ear,target,Malayalam,cekiṭu,cekiṭu,"ear, chiefly the inner part",dedr_new.csv,27329,1977,unmarked,ear
+cup_ear,target,Malayalam,ceppi,ceppi,ear,dedr_new.csv,27333,1977,unmarked,ear
+cup_ear,target,Kannada,kadir,kadir,"spike of corn, ear",dedr_new.csv,17424,1194,unmarked,ear
+cup_ear,target,Kannada,kivi,kivi,ear,dedr_new.csv,27340,1977,unmarked,ear
+cup_ear,target,Kannada,kivi,kivi,ear,20260911-lindgren.csv,1209,,unmarked,ear
+cup_ear,target,Kannada,kimi,kimi,ear,dedr_new.csv,27341,1977,unmarked,ear
+cup_ear,target,Kannada,kemi,kemi,ear,dedr_new.csv,27342,1977,unmarked,ear
+cup_ear,picture,Telugu,ginniya,ginniya,"cup, bowl, goblet",dedr_new.csv,21676,1543,unmarked,bowl; cup; goblet
+cup_ear,picture,Telugu,ginne,ginne,"cup, bowl, goblet",dedr_new.csv,21677,1543,unmarked,bowl; cup; goblet
+cup_ear,picture,Telugu,kuḍaka,kuḍaka,"cup, bowl, scoop, any cup-like thing",dedr_new.csv,23117,1651,unmarked,bowl; cup
+cup_ear,picture,Telugu,kuḍuka,kuḍuka,"cup, bowl, scoop, any cup-like thing",dedr_new.csv,23118,1651,unmarked,bowl; cup
+cup_ear,picture,Telugu,kora,kōra,"cup, tray",dedr_new.csv,30277,2228,unmarked,cup
+cup_ear,picture,Telugu,cembu,cembu,"goblet, pitcher, ewer",dedr_new.csv,36252,2775,unmarked,goblet
+cup_ear,picture,Telugu,arivaṇamu,arivāṇamu,"a kind of dish, bowl, or plate",dedr_new.csv,52409,3971,unmarked,bowl
+cup_ear,picture,Telugu,donne,donne,cup made of leaves,dedr_new.csv,75836,,unmarked,cup
+cup_ear,target,Telugu,cevi,cevi,"ear, the handle of a vessel",dedr_new.csv,27346,1977,unmarked,ear
+cup_ear,target,Telugu,vinu,vīnu,the ear; celebrity,dedr_new.csv,74551,5516,unmarked,ear
+cup_ear,picture,Tulu,giṇḍi,giṇḍi,"goblet, small metal vessel",dedr_new.csv,21653,1541,unmarked,goblet
+cup_ear,picture,Tulu,giṇḍya,giṇḍya,"goblet, small metal vessel",dedr_new.csv,21654,1541,unmarked,goblet
+cup_ear,picture,Tulu,giṇḍye,giṇḍyè,"goblet, small metal vessel",dedr_new.csv,21655,1541,unmarked,goblet
+cup_ear,picture,Tulu,marayi,marāyi,"trough, bowl",dedr_new.csv,61853,4714,unmarked,bowl
+cup_ear,picture,Tulu,donne,donnè,"cup made of plantain leaves, etc",dedr_new.csv,75835,,unmarked,cup
+cup_ear,target,Tulu,kebi,kebi,ear,dedr_new.csv,27344,1977,unmarked,ear
+cup_ear,target,Tulu,kebi,kebi,ear,20260911-lindgren.csv,498,,unmarked,ear
+cup_ear,target,Tulu,kebi,kebi,ear,20260911-lindgren.csv,2639,,unmarked,ear
+cup_ear,target,Tulu,kebi,kebːi,ear,20260911-lindgren.csv,3067,,unmarked,ear
+cup_ear,target,Tulu,kebi,kebi,ear,20260911-lindgren.csv,3383,,unmarked,ear
+cup_ear,target,Tulu,ceraḍu,ceraḍu,ear,dedr_new.csv,27373,1977,unmarked,ear
+cup_ear,target,Tulu,oṇṭi,oɳʈi,ear,20260911-lindgren.csv,499,,unmarked,ear
+cup_ear,target,Kota,keyv,keyv,ear,dedr_new.csv,27337,1977,unmarked,ear
+cup_ear,target,Kota,kev,kev,ear,dedr_new.csv,27338,1977,unmarked,ear
+cup_ear,target,Kota,ten,ten,ear (of any grain),dedr_new.csv,42401,3265,unmarked,ear
+cup_ear,target,Toda,kify,kïfy,ear,dedr_new.csv,27339,1977,unmarked,ear
+cup_ear,target,Kodagu,kadi,kadï,"ear (of paddy, wheat, etc.)",dedr_new.csv,17425,1194,unmarked,ear
+cup_ear,picture,Kolami,koja,kojā,cup,dedr_new.csv,29984,2191,unmarked,cup
+cup_ear,target,Kolami,kev,kev,ear,dedr_new.csv,27349,1977,unmarked,ear
+cup_ear,target,Naikri,kev,kev,ear,dedr_new.csv,27350,1977,unmarked,ear
+cup_ear,target,Naiki,kev,kev ( -ul/-ulgu),ear,dedr_new.csv,27351,1977,unmarked,ear
+cup_ear,picture,Parji,ṭanḍi,ṭanḍi,"small pot, cup",dedr_new.csv,38614,2946,unmarked,cup
+cup_ear,target,Parji,kekol,kekol ( kekocil),ear,dedr_new.csv,27352,1977,unmarked,ear
+cup_ear,picture,Gadaba,gina,gina,"metal pot, cup",dedr_new.csv,21678,1543,unmarked,cup
+cup_ear,target,Gadaba,kekol,kekol ( kekosul),ear,dedr_new.csv,27353,1977,unmarked,ear
+cup_ear,target,Gadaba,kekkol,kekkōl,ear,dedr_new.csv,27354,1977,unmarked,ear
+cup_ear,target,Gondi,kevi,kevi ( kevk),ear (<i>Voc.</i> 848),dedr_new.csv,27355,1977,unmarked,ear
+cup_ear,target,Gondi,kevi,kevi ( kevk),ear (<i>Voc.</i> 848),dedr_new.csv,27356,1977,unmarked,ear
+cup_ear,target,Gondi,kevi,kevi ( kevk),ear (<i>Voc.</i> 848),dedr_new.csv,27357,1977,unmarked,ear
+cup_ear,target,Gondi,kawi,kawī ( kauk),ear (<i>Voc.</i> 848),dedr_new.csv,27358,1977,unmarked,ear
+cup_ear,target,Gondi,kawi,kawī,ear (<i>Voc.</i> 848),dedr_new.csv,27359,1977,unmarked,ear
+cup_ear,target,Gondi,kavvi,kavvī ( kauk/kavk),ear (<i>Voc.</i> 848),dedr_new.csv,27360,1977,unmarked,ear
+cup_ear,target,Gondi,kavi,kavi ( -ŋ),ear (<i>Voc.</i> 848),dedr_new.csv,27361,1977,unmarked,ear
+cup_ear,target,Gondi,kev,kev,ear (<i>Voc.</i> 848),dedr_new.csv,27362,1977,unmarked,ear
+cup_ear,target,Gondi,kev,kev ( kevk),ear (<i>Voc.</i> 848),dedr_new.csv,27364,1977,unmarked,ear
+cup_ear,target,Gondi,kevvu,kevvu ( kevku),ear (<i>Voc.</i> 848),dedr_new.csv,27363,1977,unmarked,ear
+cup_ear,picture,Konda,kala,kala,"leaf-cup, cup",dedr_new.csv,18809,1301,unmarked,cup
+cup_ear,target,Konda,gibi,gibi,ear,dedr_new.csv,27365,1977,unmarked,ear
+cup_ear,target,Konda,kibi,kibi,ear,dedr_new.csv,27366,1977,unmarked,ear
+cup_ear,target,Konda,gitoṇi,gitoṇi,ear,dedr_new.csv,27367,1977,unmarked,ear
+cup_ear,target,Pengo,kitul,kitul,ear,dedr_new.csv,27368,1977,unmarked,ear
+cup_ear,target,Manda,giy,giy ( -ke),ear,dedr_new.csv,27369,1977,unmarked,ear
+cup_ear,target,Kui,kriu,kriu ( krīka),ear,dedr_new.csv,27374,1977,unmarked,ear
+cup_ear,target,Kui,kiru,kiru,ear,dedr_new.csv,27375,1977,unmarked,ear
+cup_ear,picture,Kuwi,maṇḍi,maṇḍi,"plate, bowl",dedr_new.csv,61533,4678,unmarked,bowl
+cup_ear,picture,Kuwi,ṭono,ṭono,cup-like container made of leaves,dedr_new.csv,75847,,unmarked,cup
+cup_ear,target,Kuwi,kiriyu,kiriyū ( kīrka),ear,dedr_new.csv,27377,1977,unmarked,ear
+cup_ear,target,Kuwi,kriyu,kriyu,ear,dedr_new.csv,27378,1977,unmarked,ear
+cup_ear,target,Kuwi,kriyu,kriyũ ( krika),ear,dedr_new.csv,27381,1977,unmarked,ear
+cup_ear,target,Kuwi,kriyyu,krīyyu,ear,dedr_new.csv,27379,1977,unmarked,ear
+cup_ear,target,Kuwi,kiru,kiru,ear,dedr_new.csv,27380,1977,unmarked,ear
+cup_ear,target,Kurukh,xebda,xebdā,ear,dedr_new.csv,27370,1977,unmarked,ear
+cup_ear,target,Kurukh,χɛbda,χɛbda,ear,20260813-kurux-nepal.csv,31,,unmarked,ear
+cup_ear,target,Kurukh,χɛbda,χɛbda,ear,20260813-kurux-nepal.csv,32,,unmarked,ear
+cup_ear,target,Kurukh,χɛbda,χɛbda,ear,20260813-kurux-nepal.csv,34,,unmarked,ear
+cup_ear,target,Kurukh,χɛbᵊda,χɛbᵊda,ear,20260813-kurux-nepal.csv,33,,unmarked,ear
+cup_ear,target,Kurukh,χɛbᵊdɑ,χɛbᵊdɑ,ear,20260813-kurux-nepal.csv,35,,unmarked,ear
+cup_ear,target,Kurukh,χɛbᵊdɑ,χɛbᵊdɑ,ear,20260813-kurux-nepal.csv,36,,unmarked,ear
+cup_ear,target,Kurukh,kʰɛbdɛ,kʰɛbdɛ,ear,20260826-sil-kurux.csv,477,,unmarked,ear
+cup_ear,target,Kurukh,xɛbda,xɛbda,ear,20260826-sil-kurux.csv,478,,unmarked,ear
+cup_ear,target,Kurukh,xɛbda,xɛbda,ear,20260826-sil-kurux.csv,479,,unmarked,ear
+cup_ear,target,Kurukh,xɛbda,xɛbda,ear,20260826-sil-kurux.csv,480,,unmarked,ear
+cup_ear,target,Kurukh,xɛbda,xɛbda,ear,20260826-sil-kurux.csv,481,,unmarked,ear
+cup_ear,target,Malto,qethwu,qethwu,ear,dedr_new.csv,27371,1977,unmarked,ear
+cup_ear,target,Malto,qedwu,qedwu,ear,TGM2017.pdf,619,,unclassified,ear
+cup_ear,target,Malto,qerwu,qerwu,ear,TGM2017.pdf,629,,unclassified,ear
+cup_ear,picture,Brahui,piyala,piyāla,n. cup,20260813-ali-kobayashi-brahui.csv,2429,,loan,cup
+cup_ear,picture,Brahui,razan,razān,n. bowl; pot,20260813-ali-kobayashi-brahui.csv,2533,,unmarked,bowl
+cup_ear,target,Brahui,xaf,xaf,ear,dedr_new.csv,27372,1977,unmarked,ear
+cup_ear,target,Brahui,xaf,xaf,n. ear,20260813-ali-kobayashi-brahui.csv,3237,,unmarked,ear
+cup_true,picture,Tamil,takari,takar̤i,"bowl of a lamp, plate from which food is eaten",dedr_new.csv,41305,3182,unmarked,bowl
+cup_true,picture,Tamil,takaḷi,takaḷi,"bowl of a lamp, plate from which food is eaten",dedr_new.csv,41306,3182,unmarked,bowl
+cup_true,picture,Tamil,mallam,mallam,"cup, porringer, plate",dedr_new.csv,62325,4744,unmarked,cup
+cup_true,picture,Tamil,toṉṉai,toṉṉai,cup made of plantain or other leaf,dedr_new.csv,75831,,unmarked,cup
+cup_true,target,Tamil,uḷḷa,uḷḷa,"who is, which is, true, actual",dedr_new.csv,10763,697,unmarked,true
+cup_true,target,Tamil,uḷḷatu,uḷḷatu,"that which is, truth, soul",dedr_new.csv,10764,697,unmarked,truth
+cup_true,target,Tamil,uḷatu,uḷatu,"that which is, truth, soul",dedr_new.csv,10765,697,unmarked,truth
+cup_true,target,Tamil,uḷamai,uḷamai,"truth, reality",dedr_new.csv,10768,697,unmarked,truth
+cup_true,target,Tamil,uṇmai,uṇmai,"existence, reality, state of being, nature, truth",dedr_new.csv,10770,697,unmarked,truth
+cup_true,target,Tamil,uṟṟatu,uṟṟatu,"that which has happened, event, truth, fact",dedr_new.csv,11043,710,unmarked,truth
+cup_true,target,Tamil,oruṅkal,or̤uṅkal,"being right, correct, orderly",dedr_new.csv,15233,1011,unmarked,correct
+cup_true,target,Tamil,ceyya,ceyya,"correct, perfect, sound",dedr_new.csv,36004,2747,unmarked,correct
+cup_true,target,Tamil,tiṇmai,tiṇmai,"strength, power, robustness, hardness, compactness, firmness, truth, certainty, constancy, heaviness, bulkiness",dedr_new.csv,41680,3222,unmarked,truth
+cup_true,target,Tamil,tiruttu,tiruttu (tirutti-),"to correct, rectify, reform, mend, repair, refit, improve, arrange properly, prepare land for cultivation, etc",dedr_new.csv,42119,3251,unmarked,correct
+cup_true,target,Tamil,tittu,tittu (titti-),"to correct, rectify a mistake",dedr_new.csv,42122,3251,unmarked,correct
+cup_true,target,Tamil,tuymai,tūymai,"purity, cleanness, immaculateness, holiness, truth, salvation, goodness",dedr_new.csv,43385,3338,unmarked,truth
+cup_true,target,Tamil,tumai,tūmai,"purity, cleanness, immaculateness, holiness, truth, salvation, goodness",dedr_new.csv,43386,3338,unmarked,truth
+cup_true,target,Tamil,naṉavu,naṉavu,"wakefulness (opposite tokaṉavu), certainty, truth, reality, daylight",dedr_new.csv,47437,3629,unmarked,truth
+cup_true,target,Tamil,naṉa,naṉā,"wakefulness (opposite tokaṉavu), certainty, truth, reality, daylight",dedr_new.csv,47438,3629,unmarked,truth
+cup_true,target,Tamil,nilaimai,nilaimai,"condition, state (as of affairs), standing posture, firmness, truth, probity",dedr_new.csv,48150,3675,unmarked,truth
+cup_true,target,Tamil,paṭṭaṅku,paṭṭāṅku,"natural state, truth",dedr_new.csv,51119,3853,unmarked,truth
+cup_true,target,Tamil,mey,mey,"truth, reality, soul, consciousness, body (used euphemistically), breast, consonant",dedr_new.csv,67823,5073,unmarked,truth
+cup_true,target,Tamil,meymmai,meymmai,"truth, reality, natural state, existence, signification",dedr_new.csv,67828,5073,unmarked,truth
+cup_true,target,Tamil,meyyaṉ,meyyaṉ,"one who has realized the truth; true, honest, trustworthy, faithful person; brahman; one who speaks the truth; God; son",dedr_new.csv,67829,5073,unmarked,true
+cup_true,target,Tamil,vaṇmai,vaṇmai,"bounty, liberality, quality, nature, beauty, truth, fruitfulness, fertility, abundance, strength, praise, reputation",dedr_new.csv,71146,5304,unmarked,truth
+cup_true,target,Tamil,vay,"vāy (-pp-, -tt-)","to succeed, be gained, happen with certainty, come true, be fit or suitable, excel, surpass, be appropriately situated or formed; truth, excellence",dedr_new.csv,71859,5351,unmarked,truth
+cup_true,target,Tamil,vaymai,vāymai,truth,dedr_new.csv,71861,5351,unmarked,truth
+cup_true,target,Tamil,veḷḷar,veḷḷar,"white men, true, honest men",dedr_new.csv,74082,5496,unmarked,true
+cup_true,target,Tamil,veḷḷiyar,veḷḷiyār,"white men, true, honest men",dedr_new.csv,74083,5496,unmarked,true
+cup_true,picture,Malayalam,kiṇṭi,kiṇṭi,"goblet, water-vessel with a snout",dedr_new.csv,21647,1541,unmarked,goblet
+cup_true,picture,Malayalam,tuta,tūta,"milkpot, cup",dedr_new.csv,44016,3385,unmarked,cup
+cup_true,picture,Malayalam,malla,malla,"earthen cup, bowl",dedr_new.csv,62327,4744,unmarked,bowl
+cup_true,picture,Malayalam,mallika,mallika,"earthen cup, bowl",dedr_new.csv,62328,4744,unmarked,bowl
+cup_true,target,Malayalam,uḷḷa,uḷḷa,"existing, true, real, in or to which there is",dedr_new.csv,10773,697,unmarked,true
+cup_true,target,Malayalam,uṇma,uṇma,"reality, truth",dedr_new.csv,10776,697,unmarked,truth
+cup_true,target,Malayalam,tiruttuka,tiruttuka,"to mend, correct",dedr_new.csv,42123,3251,unmarked,correct
+cup_true,target,Malayalam,nalla,nalla,"good, right, fine, handsome, real, true",dedr_new.csv,47174,3610,unmarked,true
+cup_true,target,Malayalam,ner,nēr,"straightness, direction, truth, justice",dedr_new.csv,49990,3772,unmarked,truth
+cup_true,target,Malayalam,paṭṭaṅṅu,paṭṭāṅṅu,truth,dedr_new.csv,51128,3853,unmarked,truth
+cup_true,target,Malayalam,mey,mey,"body, person; true, truth (e.g.mey-var̤itrue religion)",dedr_new.csv,67830,5073,unmarked,true; truth
+cup_true,target,Malayalam,mai,mai,"body, person; true, truth (e.g.mey-var̤itrue religion)",dedr_new.csv,67831,5073,unmarked,true; truth
+cup_true,target,Malayalam,veḷḷa,veḷḷa,"white colour, white and clean cloth, truth",dedr_new.csv,74108,5496,unmarked,truth
+cup_true,target,Malayalam,veḷḷan,veḷḷan,"a true, honest, pure man",dedr_new.csv,74109,5496,unmarked,true
+cup_true,target,Kannada,tirdu,tirdu,"to make straight or right, correct, rectify mistakes, mend, improve, train, break in; making straight, etc",dedr_new.csv,42129,3251,unmarked,correct
+cup_true,target,Kannada,tiddu,tiddu,"to make straight or right, correct, rectify mistakes, mend, improve, train, break in; making straight, etc",dedr_new.csv,42130,3251,unmarked,correct
+cup_true,target,Kannada,nanni,nanni,"truth, love, affection (= Ta.naṉṟi, Kitt.)",dedr_new.csv,47196,3610,unmarked,truth
+cup_true,target,Kannada,nanasu,nanasu,"truth; truly, certainly. DED 3005",dedr_new.csv,47439,3629,unmarked,truth
+cup_true,target,Kannada,nanesu,nanesu,"truth; truly, certainly. DED 3005",dedr_new.csv,47440,3629,unmarked,truth
+cup_true,target,Kannada,nenasu,nenasu,"truth; truly, certainly. DED 3005",dedr_new.csv,47441,3629,unmarked,truth
+cup_true,target,Kannada,nikkuva,nikkuva,"truth, certainty; truly, certainly",dedr_new.csv,48025,3663,unmarked,truth
+cup_true,target,Kannada,niṭugati,nīṭugāti,"straightness, directness, truth",dedr_new.csv,49472,3739,unmarked,truth
+cup_true,target,Kannada,neṭu,nēṭu,"straightness, directness, truth",dedr_new.csv,49473,3739,unmarked,truth
+cup_true,picture,Telugu,ginniya,ginniya,"cup, bowl, goblet",dedr_new.csv,21676,1543,unmarked,bowl; cup; goblet
+cup_true,picture,Telugu,ginne,ginne,"cup, bowl, goblet",dedr_new.csv,21677,1543,unmarked,bowl; cup; goblet
+cup_true,picture,Telugu,kuḍaka,kuḍaka,"cup, bowl, scoop, any cup-like thing",dedr_new.csv,23117,1651,unmarked,bowl; cup
+cup_true,picture,Telugu,kuḍuka,kuḍuka,"cup, bowl, scoop, any cup-like thing",dedr_new.csv,23118,1651,unmarked,bowl; cup
+cup_true,picture,Telugu,kora,kōra,"cup, tray",dedr_new.csv,30277,2228,unmarked,cup
+cup_true,picture,Telugu,cembu,cembu,"goblet, pitcher, ewer",dedr_new.csv,36252,2775,unmarked,goblet
+cup_true,picture,Telugu,arivaṇamu,arivāṇamu,"a kind of dish, bowl, or plate",dedr_new.csv,52409,3971,unmarked,bowl
+cup_true,picture,Telugu,donne,donne,cup made of leaves,dedr_new.csv,75836,,unmarked,cup
+cup_true,target,Telugu,kala,kala,"existing, true, actual, possessing, having",dedr_new.csv,18798,1300,unmarked,true
+cup_true,target,Telugu,kalateṟagu,kala-teṟãgu,"truth, fact (forteṟãgu, see 3260)",dedr_new.csv,18799,1300,unmarked,truth
+cup_true,target,Telugu,kalarupu,kala-rūpu,"truth, fact (forteṟãgu, see 3260), the real state of things (rūpu&lt; Skt.rūpa-); kalaḍuexists, is possessed, belongs to",dedr_new.csv,18800,1300,unmarked,truth
+cup_true,target,Telugu,savarincu,savarincu,"to adjust, trim, put in order, arrange, correct",dedr_new.csv,31293,2342,unmarked,correct
+cup_true,target,Telugu,savarucu,savarucu,"to adjust, trim, put in order, arrange, correct",dedr_new.csv,31294,2342,unmarked,correct
+cup_true,target,Telugu,diddu,diddu,"to correct, rectify, set right, alter, change; correction, change, alteration",dedr_new.csv,42139,3251,unmarked,correct
+cup_true,target,Telugu,tinna,tinna,"straight, direct, shortest; straightforward, honest, candid; proper, right, correct",dedr_new.csv,42387,3264,unmarked,correct
+cup_true,target,Telugu,nikkamu,nikkamu,"truth, fact, reality, certainty; true, real, certain",dedr_new.csv,48026,3663,unmarked,true; truth
+cup_true,target,Telugu,nikkuvamu,nikkuvamu,"truth, fact, reality, certainty; true, real, certain",dedr_new.csv,48027,3663,unmarked,true; truth
+cup_true,target,Telugu,nikkemu,nikkemu,"truth, fact, reality, certainty; true, real, certain",dedr_new.csv,48028,3663,unmarked,true; truth
+cup_true,target,Telugu,bagu,bāgu,"good, well-being, welfare, sound condition, correctness, profit, advantage, etc.; good, excellent, nice, proper, right, beautiful, sound, correct, faultless, well",dedr_new.csv,71619,5332,unmarked,correct
+cup_true,picture,Tulu,giṇḍi,giṇḍi,"goblet, small metal vessel",dedr_new.csv,21653,1541,unmarked,goblet
+cup_true,picture,Tulu,giṇḍya,giṇḍya,"goblet, small metal vessel",dedr_new.csv,21654,1541,unmarked,goblet
+cup_true,picture,Tulu,giṇḍye,giṇḍyè,"goblet, small metal vessel",dedr_new.csv,21655,1541,unmarked,goblet
+cup_true,picture,Tulu,marayi,marāyi,"trough, bowl",dedr_new.csv,61853,4714,unmarked,bowl
+cup_true,picture,Tulu,donne,donnè,"cup made of plantain leaves, etc",dedr_new.csv,75835,,unmarked,cup
+cup_true,target,Tulu,sahi,sahi,"proper, correct, right",dedr_new.csv,36030,2747,unmarked,correct
+cup_true,target,Tulu,tirduni,tirduni,"to correct, mend, reform, rectify, alter",dedr_new.csv,42134,3251,unmarked,correct
+cup_true,target,Tulu,śirduni,śirduni,"to correct, mend, reform, rectify, alter",dedr_new.csv,42135,3251,unmarked,correct
+cup_true,target,Tulu,tidduni,tidduni,"to correct, mend, reform, rectify, alter",dedr_new.csv,42136,3251,unmarked,correct
+cup_true,target,Tulu,nere,nērè,"straightness; justice, truth; straight, just, true",dedr_new.csv,50005,3772,unmarked,true; truth
+cup_true,target,Tulu,nerta,nerta,"straight, true",dedr_new.csv,50006,3772,unmarked,true
+cup_true,target,Kota,oḍ,oḍ,truth,dedr_new.csv,10782,697,unmarked,truth
+cup_true,target,Kota,nel,nel,truth,dedr_new.csv,48174,3675,unmarked,truth
+cup_true,target,Kota,veḷ,veḷ,"white, true",dedr_new.csv,74123,5496,unmarked,true
+cup_true,target,Kota,veḷv,veḷv,truth,dedr_new.csv,74127,5496,unmarked,truth
+cup_true,target,Toda,tid,tïd- (tïdy-),"to make straight (e.g. stick), correct (someone's character)",dedr_new.csv,42127,3251,unmarked,correct
+cup_true,target,Kodagu,ayni,aynï (? a·ynï),"genuine, true",dedr_new.csv,4799,333,unmarked,true
+cup_true,picture,Kolami,koja,kojā,cup,dedr_new.csv,29984,2191,unmarked,cup
+cup_true,picture,Parji,ṭanḍi,ṭanḍi,"small pot, cup",dedr_new.csv,38614,2946,unmarked,cup
+cup_true,picture,Gadaba,gina,gina,"metal pot, cup",dedr_new.csv,21678,1543,unmarked,cup
+cup_true,picture,Konda,kala,kala,"leaf-cup, cup",dedr_new.csv,18809,1301,unmarked,cup
+cup_true,target,Kui,uje,uje,"truth, accuracy, certainty; true, etc.; truly, etc",dedr_new.csv,9036,,unmarked,true; truth
+cup_true,target,Kui,ujene,ujene,"truth, accuracy, certainty; true, etc.; truly, etc",dedr_new.csv,9037,,unmarked,true; truth
+cup_true,picture,Kuwi,maṇḍi,maṇḍi,"plate, bowl",dedr_new.csv,61533,4678,unmarked,bowl
+cup_true,picture,Kuwi,ṭono,ṭono,cup-like container made of leaves,dedr_new.csv,75847,,unmarked,cup
+cup_true,target,Kurukh,ujgo,ujgō,"uprightness, moral rectitude; straight, upright; (Hahn) straight, right, true, straightforward",dedr_new.csv,9041,,unmarked,true
+cup_true,target,Malto,igjo,igjo,true. DEDS 62,dedr_new.csv,6674,427,unmarked,true
+cup_true,target,Malto,igjo,igjo/igjoho,"true, right, right away",TGM2017.pdf,279,,unclassified,true
+cup_true,target,Malto,ugjo,ugjo,"true, real; truth. DEDS 72",dedr_new.csv,9042,,unmarked,true; truth
+cup_true,target,Malto,igjoho,igjo/igjoho,"true, right, right away",TGM2017.pdf,279,,unclassified,true
+cup_true,picture,Brahui,piyala,piyāla,n. cup,20260813-ali-kobayashi-brahui.csv,2429,,loan,cup
+cup_true,picture,Brahui,razan,razān,n. bowl; pot,20260813-ali-kobayashi-brahui.csv,2533,,unmarked,bowl
+cup_true,target,Brahui,hakikatt,hakīkatt,n. truth,20260813-ali-kobayashi-brahui.csv,1167,,loan,truth
+cup_true,target,Brahui,rast,rāst,n. truth; righteousness,20260813-ali-kobayashi-brahui.csv,2544,,loan,truth
+cup_true,target,Brahui,rastokis,rāstokīs,n. truth,20260813-ali-kobayashi-brahui.csv,2546,,unmarked,truth

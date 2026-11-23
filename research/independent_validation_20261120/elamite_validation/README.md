@@ -1,5 +1,9 @@
 # Elamite–Indus: open rebus discovery and earlier checks
 
+**Current scope: [Elamite terms for unresolved Indus signs](UNREAD_ELAMITE.md), with the recipient language unspecified.** The search identifies 25 sign IDs outside the frozen phonetic key touched by the reviewed rebus directions. Sign 362 is a concrete court candidate: Elamite hi-el/hu-el “gate; royal court” could fill [362] in H-345’s existing proposed “Manager of the [362] house.” Sign 621 offers another institutional candidate; 202 an offspring/descendants candidate. These are hypotheses to test, not established loans or full translations. [Open the actual signs, finds and qualifications](results/unread_elamite.html).
+
+The separate modern-Dravidian portability screen does not answer this loanword question and is retained as a [scope-corrected appendix](PORTABILITY_SCOPE_CORRECTION.md). No surviving Dravidian counterpart is required for the new search.
+
 **New: [unrestricted Elamite rebus discovery](OPEN_REBUS.md)** extends beyond Cúper’s target meanings. It inventories 417 drawings and searches all available lexical targets, with anchors for 24/73 picture nouns. Two priority leads are **roof ku-uk → protection** (recorded polysemy) and **jar pi-ti → enemy piti-r** (same stem after a documented noun-class ending, not identical whole words). Both directions are absent from the inspected older Elamite candidate table. Six weaker directions, all 680 raw witnesses, source traps and dating limits remain visible. These are candidates to validate, not translated inscriptions or evidence identifying the Indus language. [Open the sign illustrations and audit](results/open_rebus.html).
 
 The earlier experiments below answer narrower or different questions and are retained with their limitations.

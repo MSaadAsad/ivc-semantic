@@ -23,7 +23,7 @@ for name,dest in folders:
         if f.is_file() and f.name!='workbook_data.json':
             if f.suffix=='.html':
                 page=f.read_text().replace('../../translation_catalogue/results/','../ivc-translation-catalogue/').replace('../../context_associations/results/','../ivc-context-associations/')
-                if name in {'residue_validation','context_validation','capacity_validation','elamite_validation'}:page=page.replace('href="../README.md"','href="README.md"').replace('href="../SOURCES.md"','href="SOURCES.md"').replace('href="../DIMENSION_TEST.md"','href="DIMENSION_TEST.md"').replace('href="../CONCORDANCE.md"','href="CONCORDANCE.md"').replace('href="../OPEN_REBUS.md"','href="OPEN_REBUS.md"').replace('href="../NEAR_MATCHES.md"','href="NEAR_MATCHES.md"')
+                if name in {'residue_validation','context_validation','capacity_validation','elamite_validation'}:page=page.replace('href="../README.md"','href="README.md"').replace('href="../SOURCES.md"','href="SOURCES.md"').replace('href="../DIMENSION_TEST.md"','href="DIMENSION_TEST.md"').replace('href="../CONCORDANCE.md"','href="CONCORDANCE.md"').replace('href="../OPEN_REBUS.md"','href="OPEN_REBUS.md"').replace('href="../NEAR_MATCHES.md"','href="NEAR_MATCHES.md"').replace('href="../UNREAD_ELAMITE.md"','href="UNREAD_ELAMITE.md"')
                 (dest/f.name).write_text(page)
             else:shutil.copy2(f,dest/f.name)
     readme=(src/'README.md').read_text().replace('../translation_catalogue/README.md','../ivc-translation-catalogue/README.md').replace('../proto_reconstruction/results/','../ivc-proto-reconstruction/').replace('../context_associations/results/','../ivc-context-associations/')
@@ -31,15 +31,15 @@ for name,dest in folders:
     for extra in ['CLUE_FOLLOWUP.md','SCREENSHOT_READINGS.md','PHYSICAL_NEXT_TESTS.md','SAME_CONTEXT_READINGS.md']:
         if (src/extra).exists():
             (dest/extra).write_text((src/extra).read_text().replace('(results/','('))
-    for f in ['SOURCE_README.md','source_corrections.json','SOURCES.md','COLLECTION_PROTOCOL.md','DESIGN.md','DIMENSION_TEST.md','PLAN.md','CONCORDANCE.md','CONCORDANCE_PLAN.md','OPEN_REBUS.md','OPEN_REBUS_PLAN.md','NEAR_MATCHES.md','MEANING_COMPARISON.md']:
+    for f in ['SOURCE_README.md','source_corrections.json','SOURCES.md','COLLECTION_PROTOCOL.md','DESIGN.md','DIMENSION_TEST.md','PLAN.md','CONCORDANCE.md','CONCORDANCE_PLAN.md','OPEN_REBUS.md','OPEN_REBUS_PLAN.md','NEAR_MATCHES.md','MEANING_COMPARISON.md','UNREAD_ELAMITE.md','UNREAD_ELAMITE_PLAN.md','PORTABILITY_SCOPE_CORRECTION.md','COMPARISON_CONTACT_PLAN.md']:
         if (src/f).exists():
-            if f in {'DIMENSION_TEST.md','CONCORDANCE.md','OPEN_REBUS.md','NEAR_MATCHES.md','MEANING_COMPARISON.md'}:(dest/f).write_text((src/f).read_text().replace('(results/','('))
+            if f in {'DIMENSION_TEST.md','CONCORDANCE.md','OPEN_REBUS.md','NEAR_MATCHES.md','MEANING_COMPARISON.md','UNREAD_ELAMITE.md'}:(dest/f).write_text((src/f).read_text().replace('(results/','('))
             else:shutil.copy2(src/f,dest/f)
     if name in {'context_validation','capacity_validation'}:shutil.copy2(src/'run.py',dest/'run.py')
     if name=='capacity_validation':
         for script in ['dimensions.py','illustrate_dimensions.py']:shutil.copy2(src/script,dest/script)
     if name=='elamite_validation':
-        for script in ['run.py','fetch_inputs.py','rival_controls.py','check.py','report.py','concordance.py','concordance_report.py','open_rebus.py','open_rebus_report.py','open_rebus_check.py','open_rebus_browser_check.mjs','near_match_audit.py','meaning_comparison.py']:shutil.copy2(src/script,dest/script)
+        for script in ['run.py','fetch_inputs.py','rival_controls.py','check.py','report.py','concordance.py','concordance_report.py','open_rebus.py','open_rebus_report.py','open_rebus_check.py','open_rebus_browser_check.mjs','near_match_audit.py','meaning_comparison.py','unread_elamite.py','check_unread_elamite.py','portability_contact.py','review_portability_contact.py','check_portability_contact.py','unread_browser_check.mjs']:shutil.copy2(src/script,dest/script)
     if name in {'residue_validation','context_validation','capacity_validation','elamite_validation'}:shutil.copytree(src/'inputs',dest/'inputs',dirs_exist_ok=True)
 books=catout/'original_reading_books';books.mkdir(exist_ok=True)
 for f in list(REPO.glob('READINGS*.md'))+[REPO/'CORPUS.md']:shutil.copy2(f,books/f.name)

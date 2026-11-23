@@ -1,0 +1,14 @@
+{
+  "automatic_exact_directions": 2,
+  "reviewed_shared_directions": 1,
+  "shared_direction": "gate_court",
+  "shared_DEDR_entry": "5354",
+  "shared_language": "Tamil",
+  "same_meaning_normalized_Elamite_Dravidian_form_witnesses": 0,
+  "false_positive_removed": "staff_affection / pa\u1e5f\u1e5fu / DEDR4034: verb stick, not noun staff",
+  "seven_other_directions_status": "No reviewed exact bridge recovered under the fixed semantic heads; not proof of language absence or Elamite uniqueness.",
+  "implication": "Shared metonymy reduces donor specificity. Non-overlap identifies competing meanings to test, not loanwords.",
+  "established_Indus_loanwords": 0,
+  "posterior_language_odds": null,
+  "colab_units": 0
+}

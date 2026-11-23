@@ -1,0 +1,23 @@
+{
+  "frozen_phonetic_key_signs": 163,
+  "sign_inventory_rows": 711,
+  "unresolved_sign_ids": 541,
+  "literal_anchor_rows": 473,
+  "unresolved_signs_with_literal_anchors": 66,
+  "rebus_candidate_rows": 48,
+  "unresolved_signs_with_rebus_candidates": 25,
+  "focus_signs": [
+    "621",
+    "362",
+    "572",
+    "360",
+    "202",
+    "484"
+  ],
+  "occurrence_rows": 348,
+  "recipient_language": "Unspecified; no Dravidian lexical match required.",
+  "established_borrowings": 0,
+  "validated_new_translations": 0,
+  "runtime_seconds": 10.32,
+  "colab_units": 0
+}

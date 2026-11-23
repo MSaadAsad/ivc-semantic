@@ -1,0 +1,15 @@
+# Elamite vocabulary for unresolved Indus signs
+
+23 November 2026, after the user's clarification. The question is whether Elamite terms can supply candidate readings for unresolved Indus signs, potentially as loans into an otherwise unknown Indus language. Modern Dravidian overlap is not a prerequisite and does not define the search. The completed eight-direction Dravidian portability screen answers a narrower, different question; it is not an Indus loanword test.
+
+Scope: signs absent from the frozen163-sign phonetic key, excluding any sign whose canonical allograph is already in that key. Preserve older guesses and sound-free roles; “unresolved” does not mean nobody has previously discussed the sign. Cúper's lang_m2 and Key6A already investigate several of these signs structurally. Reuse those observations with credit; the proposed Elamite lexical values are the extension.
+
+Search the already verified full Elamite lexical entries against all417 existing picture descriptions and their rank-one Lipi crosswalks. Release literal lexical anchors for unresolved signs as an inventory, not automatic decipherments. Apply the eight reviewed Elamite rebus directions to those unresolved signs. Record drawing identity, first-choice noun votes, crosswalk strength, source dates/flags, compounds and actual inscription occurrences. Do not treat a word for one pictured component as a proven reading of a complex sign.
+
+Prioritize source-supported noun meanings and stronger picture/crosswalk evidence. A report display threshold (crosswalk share>=0.75 and at least two first-choice picture votes for that noun) is exploratory and does not make the assignments independent or validated. Keep lower-support candidates in the full inventory. In particular, roof is not the first-choice majority label for the ladder-like M136 drawing; do not silently promote it as a secure roof.
+
+For each candidate show actual existing inscriptions and the blank it could fill, preserving remaining unknowns. Any inserted English gloss is explicitly hypothetical. Existing neighbouring translations are Cúper's proposals; their use for illustration does not assume Dravidian as the recipient language or constitute an Elamite full-text translation. No Elamite case ending, English relation or verb is invented.
+
+Publish corpus counts and immediate neighbours by catalogue as descriptive context, with repeated formulas visible. Do not call the catalogues independent samples or a semantic validation. A loan claim ultimately requires an independently supported sign value and sound, chronological/contact evidence and compatibility with the surrounding Indus system. The same candidate word may also be compatible with a wholly Elamite text; this lexical search alone cannot separate those hypotheses.
+
+No already-assigned jar/house or king/protection values are the target of this extension. Freeze and test candidates on new outcomes before promoting a reading. No new dictionary-family ranking or borrowing direction is inferred. Push results to the existing research branch; report runtime and Colab usage.
