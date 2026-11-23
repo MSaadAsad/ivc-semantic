@@ -71,5 +71,8 @@
   "historical_sound_correspondence_test_run": false,
   "independent_indus_semantic_assignment": false,
   "runtime_seconds": 39.05,
-  "colab_units": 0
+  "colab_units": 0,
+  "current_research_question": "Can Elamite explain Indus inscriptions?",
+  "direct_affinity_scope": "Off target for Elamite\u2013Indus; compares proposed Dravidian forms with Elamite forms.",
+  "rebus_scope": "Restricted test of the existing proposed picture/meaning pairs; not a full Elamite\u2013Indus language test."
 }

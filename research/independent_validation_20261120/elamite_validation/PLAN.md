@@ -29,3 +29,7 @@ No Elamo-Dravidian historical sound-law test is claimed without an independently
 ## Validation
 
 Check source identity/counts, exclusion of named/logographic/damaged entries, exact whole-head semantics, non-reuse of duplicate form/head pairs, known synthetic matches/nonmatches and the two chance baselines. Run locally only if comfortably below the repository's two-minute compute limit; otherwise use the prescribed compute route. Report actual runtime and Colab usage.
+
+## Subsequent scope correction
+
+The user clarified that the objective is Elamite as an Indus language, not Elamite–Dravidian affinity. The direct-form comparison above is therefore off target for the requested objective. Its results are retained as an archive, not presented as an Elamite–IVC test. The rebus component is relevant only to the particular existing meaning-pair assignments, not to every possible Elamite reading. A full direct model must allow Elamite pronunciations and alternative semantic assignments, and predict inscriptions excluded from fitting. Existing repository QAP, grammar-fit and Linear-Elamite sound-transfer work must be credited before proposing an extension. No new numerical analysis was run for this correction.

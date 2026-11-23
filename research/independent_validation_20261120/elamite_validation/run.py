@@ -320,6 +320,9 @@ def main(source_dir):
                    missing_personal_name_file_excluded=True,
                    historical_sound_correspondence_test_run=False,
                    independent_indus_semantic_assignment=False,
+                   current_research_question='Can Elamite explain Indus inscriptions?',
+                   direct_affinity_scope='Off target for Elamite–Indus; compares proposed Dravidian forms with Elamite forms.',
+                   rebus_scope='Restricted test of the existing proposed picture/meaning pairs; not a full Elamite–Indus language test.',
                    runtime_seconds=round(time.monotonic()-started,2),colab_units=0)
     (OUT/'summary.json').write_text(json.dumps(summary,indent=2)+'\n')
     print(json.dumps(summary,indent=2),flush=True)
