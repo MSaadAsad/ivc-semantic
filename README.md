@@ -4,6 +4,8 @@ By Cúper (Yousef) Anas · [Website](https://cuuper22.github.io/ivc/) · [Cite t
 
 ## Independent semantic validation (2026-11-20)
 
+The [western-site context import](research/independent_validation_20261120/context_associations/results/western_sites/western_sites.html) adds 61 published Dholavira source entries and four Bagasra/Shikarpur fastening observations in separate context tables. Fourteen existing Dholavira objects agree on area, grid and depth; their specimen identities remain provisional. No new inscription transcription or confirmed reading is added. Current continuation work stays local while GitHub is off.
+
 The [complete Lothal expansion](research/independent_validation_20261120/context_associations/results/lothal_tables/lothal.html) joins all 93 published sealing records to the corpus and adds 44 physical-use labels to existing texts, including 34 specific supports. It retains missing transcriptions, source uncertainties, repeated dies and three differences from generic old subtype inferences. No new translation or scored 440/690 prediction is claimed.
 
 The [animal/die follow-up](research/independent_validation_20261120/context_associations/results/animal_die_followup.html) recovers actual candidate images and published Lothal seal/impression links. The frozen 923 screen finds zero qualifying new copper-text families; no independently identified contents were recovered for the published matches. This source work does not claim either proposed semantic experiment has run.

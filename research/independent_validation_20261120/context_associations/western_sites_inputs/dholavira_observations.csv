@@ -1,0 +1,62 @@
+source_serial,attachment_category,source_qualification,observation_summary
+1,not_described,not_described,Surface find with no reverse description supplied in this register entry.
+2,cylindrical_vegetal,possible,Cylindrical depression with vegetation traces.
+3,door_handle,possible,Curved attachment interpreted as possibly a door handle; not a proven door fastening.
+4,cylindrical_depression,observed_only,Vertical rounded impression on the lower reverse; upper reverse rough and depressed.
+5,pot_or_door_fixture,ambiguous,Source offers a pot mouth or a door fixture as alternatives.
+6,textile,possible,Container edge and possible coarse textile traces.
+7,featureless,observed_only,Flat reverse without distinctive marks.
+8,cylindrical_parallel_lines,observed_only,Cylindrical fragment with parallel lines around it.
+9,token,source_identification,Source calls this a circular token; curved unmarked reverse.
+10,vegetal,possible,Possible plant-material lines.
+11,unidentified,unidentified,Impressions present but not identifiable.
+12,pot_neck_or_handle,ambiguous,Cylindrical attachment could be a pot neck or wooden handle.
+13,cylindrical_depression,observed_only,Smooth partly preserved vertical rounded depression.
+14,featureless,observed_only,Flat rough reverse.
+15,round_stick,source_inference,Smooth cylindrical stick-like attachment.
+16,cord_or_thread,observed_only,Crossing thread traces on a depressed rough surface.
+17,vertical_depression,observed_only,A single deep vertical depression.
+18,featureless,observed_only,Reverse has no distinctive features; front symbols are not securely identified as script.
+19,damaged,unidentified,Reverse damaged.
+20,too_small,unidentified,Fragment too small for an attachment assessment.
+21,token,source_identification,Source calls this an intact circular token; reverse curved and unmarked.
+22,vegetal,observed_only,Faint grass traces.
+23,cylindrical_depression,unidentified,Possible rounded attachment with no identifiable object type.
+24,cylindrical_depression,possible,Curved reverse possibly from a cylinder.
+25,reed,possible,Vertical smooth rounded depression possibly from a reed.
+26,vertical_depression,observed_only,Deep vertical depression on the damaged reverse.
+27,horizontal_impressions,observed_only,Stepped reverse with horizontal marks of unspecified origin.
+28,cylindrical_depression,observed_only,Vertical rounded depression with other indistinct marks.
+29,unidentified,unidentified,Reverse impressions cannot be defined.
+30,unidentified,unidentified,Reverse impressions unclear.
+31,cord_or_thread,observed_only,Knotted thread impressions.
+32,unidentified,unidentified,Very faint reverse marks.
+33,box,source_inference,Right-angle impression indicates a rectangular or square box attachment.
+34,reed,possible,Two vertical rounded depressions possibly from reeds.
+35,token,possible,Source suggests token or pass; reverse has only a slight depression.
+36,cylindrical_depression,source_inference,Vertical rounded impression suggests a cylindrical attachment.
+37,damaged,unidentified,Most of reverse lost; faint attachment trace remains.
+38,cord_or_thread,source_inference,Crossing lines and a central depression interpreted as thread and knot.
+39,pottery_container,source_inference,A pottery fragment remains embedded in the reverse; source links it to the container.
+40,token,possible,Convex unmarked reverse; source suggests token or pass.
+41,featureless,observed_only,Flat reverse without distinctive marks.
+42,raised_geometric_features,observed_only,Raised rhombus-and-line pattern; front crescents may be fingernail marks rather than writing.
+43,vegetal,observed_only,Curved reverse with vegetation marks.
+44,not_described,not_described,No reverse description supplied in this entry.
+45,textile,observed_only,Textile imprint visible on a flat reverse.
+46,round_stick,possible,Vertical rounded depression may indicate a round stick.
+47,featureless,observed_only,Smooth and rough reverse surfaces without distinctive attachment features.
+48,token,source_identification,Source calls this an intact circular token; unmarked curved reverse.
+49,damaged,unidentified,Reverse damaged.
+50,cylindrical_wood,possible,Curved reverse may have been attached to a wooden cylinder.
+51,cylindrical_depression,source_inference,Rounded reverse with vertical lines suggests a cylindrical attachment.
+52,featureless,observed_only,Undulating reverse without distinctive features.
+53,unidentified,unidentified,Reverse impressions unidentified.
+54,token,source_identification,Source calls this a complete rectangular token; flat smooth reverse.
+55,featureless,observed_only,Smooth curved reverse.
+56,paired_cylindrical_depressions,observed_only,Two horizontal rounded depressions.
+57,reed,observed_only,Reed impressions on reverse.
+58,cord_or_thread,possible,Possible crossing thread impressions; front may be a symbol rather than script.
+59,unidentified,unidentified,Two depressions without a secure interpretation.
+60,vegetal,observed_only,Grass and a stem imprint.
+61,reed,possible,Two rounded vertical impressions probably from reeds; accession duplicates entry52.

@@ -1,0 +1,20 @@
+{
+  "dholavira_source_entries": 61,
+  "dholavira_distinct_accession_strings": 60,
+  "named_other_site_context_records": 4,
+  "existing_dholavira_tag_objects": 69,
+  "existing_dholavira_encoded_faces": 76,
+  "candidate_source_face_links": 22,
+  "source_entries_with_candidates": 21,
+  "existing_objects_with_candidates": 20,
+  "area_grid_depth_candidate_source_entries": 14,
+  "area_grid_depth_candidate_existing_objects": 14,
+  "exact_accession_candidate_links": 0,
+  "newly_verified_specimen_joins": 0,
+  "new_sign_transcriptions": 0,
+  "named_other_site_exact_catalogue_matches": 0,
+  "semantic_validation_tests_run": 0,
+  "independently_identified_contents": 0,
+  "colab_units": 0,
+  "addition": "Published source-context records and explicitly provisional links; no new transcribed inscriptions or confirmed object joins."
+}

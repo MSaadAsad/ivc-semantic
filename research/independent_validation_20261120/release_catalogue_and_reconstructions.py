@@ -28,7 +28,7 @@ for name,dest in folders:
             else:shutil.copy2(f,dest/f.name)
     readme=(src/'README.md').read_text().replace('../translation_catalogue/README.md','../ivc-translation-catalogue/README.md').replace('../proto_reconstruction/results/','../ivc-proto-reconstruction/').replace('../context_associations/results/','../ivc-context-associations/')
     (dest/'README.md').write_text(readme.replace('(results/','('))
-    for extra in ['CLUE_FOLLOWUP.md','SCREENSHOT_READINGS.md','PHYSICAL_NEXT_TESTS.md','SAME_CONTEXT_READINGS.md','LOTHAL_EXPANSION.md','LOTHAL_RESULTS.md']:
+    for extra in ['CLUE_FOLLOWUP.md','SCREENSHOT_READINGS.md','PHYSICAL_NEXT_TESTS.md','SAME_CONTEXT_READINGS.md','LOTHAL_EXPANSION.md','LOTHAL_RESULTS.md','WESTERN_SITES_PLAN.md','WESTERN_SITES_RESULTS.md']:
         if (src/extra).exists():
             (dest/extra).write_text((src/extra).read_text().replace('(results/','('))
     for f in ['SOURCE_README.md','source_corrections.json','SOURCES.md','COLLECTION_PROTOCOL.md','DESIGN.md','DIMENSION_TEST.md','PLAN.md','CONCORDANCE.md','CONCORDANCE_PLAN.md','OPEN_REBUS.md','OPEN_REBUS_PLAN.md','NEAR_MATCHES.md','MEANING_COMPARISON.md','UNREAD_ELAMITE.md','UNREAD_ELAMITE_PLAN.md','PORTABILITY_SCOPE_CORRECTION.md','COMPARISON_CONTACT_PLAN.md','COHERENCE_REVIEW.md']:
@@ -37,9 +37,10 @@ for name,dest in folders:
             else:shutil.copy2(src/f,dest/f)
     if name in {'context_validation','capacity_validation'}:shutil.copy2(src/'run.py',dest/'run.py')
     if name=='context_associations':
-        for script in ['animal_followup_feasibility.py','animal_die_followup.py','lothal_tables.py','lothal_tables_report.py']:
+        for script in ['animal_followup_feasibility.py','animal_die_followup.py','lothal_tables.py','lothal_tables_report.py','western_sites.py','western_sites_extract.py']:
             shutil.copy2(src/script,dest/script)
         shutil.copytree(src/'lothal_inputs',dest/'lothal_inputs',dirs_exist_ok=True)
+        shutil.copytree(src/'western_sites_inputs',dest/'western_sites_inputs',dirs_exist_ok=True)
     if name=='capacity_validation':
         for script in ['dimensions.py','illustrate_dimensions.py']:shutil.copy2(src/script,dest/script)
     if name=='elamite_validation':

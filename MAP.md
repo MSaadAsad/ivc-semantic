@@ -1,3 +1,8 @@
+# Western-site physical context (2026-11-23)
+
+- `measured` Imported 61 Dholavira register entries (60 distinct accession strings) plus four named Bagasra/Shikarpur fastening observations. Existing Dholavira coverage is 69 tag objects / 76 encoded faces. Fourteen objects agree on area, grid and depth; all links remain provisional, with zero verified accession joins, new transcriptions or semantic tests. [Source entries and candidate readings](research/independent_validation_20261120/context_associations/results/western_sites/western_sites.html).
+- `guess` Accession or diagnostic photograph confirmation can connect individual reverse-side observations to current sign sequences. Candidates include a box-backed chief/quarters inscription and textile-backed unresolved 604; attachment traces alone do not supply word meanings or contents.
+
 # Full Lothal physical context (2026-11-23)
 
 - `measured` Full source extraction: 93 sealings / 133 recorded impressions; 68 objects join 86 existing text faces. Added 44 backing/use labels to joined texts (34 specific supports), retaining 25 missing transcriptions. All 93 category/context cells agree with source-image verification. Seven published repeated dies span 43 objects / 56 memberships; six span multiple specific supports. L-125/L-138/L-142 generic subtype inferences differ from published classifications. Neither 440 nor 690 occurs in joined texts, so no fixed semantic prediction ran. [Full dataset and readings](research/independent_validation_20261120/context_associations/results/lothal_tables/lothal.html).
