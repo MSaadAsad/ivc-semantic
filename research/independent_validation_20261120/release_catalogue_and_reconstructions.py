@@ -35,17 +35,18 @@ for name,dest in folders:
             if f=='DIMENSION_TEST.md':(dest/f).write_text((src/f).read_text().replace('(results/','('))
             else:shutil.copy2(src/f,dest/f)
     if name in {'context_validation','capacity_validation'}:shutil.copy2(src/'run.py',dest/'run.py')
-    if name=='capacity_validation':shutil.copy2(src/'dimensions.py',dest/'dimensions.py')
+    if name=='capacity_validation':
+        for script in ['dimensions.py','illustrate_dimensions.py']:shutil.copy2(src/script,dest/script)
     if name in {'residue_validation','context_validation','capacity_validation'}:shutil.copytree(src/'inputs',dest/'inputs',dirs_exist_ok=True)
 books=catout/'original_reading_books';books.mkdir(exist_ok=True)
 for f in list(REPO.glob('READINGS*.md'))+[REPO/'CORPUS.md']:shutil.copy2(f,books/f.name)
 for _,folder in folders:
     with zipfile.ZipFile(folder.with_suffix('.zip'),'w',zipfile.ZIP_DEFLATED) as z:
         for f in folder.rglob('*'):
-            if f.is_file() and f.suffix!='.png' and 'preview' not in f.name and '.inspect.' not in f.name:z.write(f,Path(folder.name)/f.relative_to(folder))
+            if f.is_file() and (f.suffix!='.png' or f.name=='jar_marks_comparison.png') and 'preview' not in f.name and '.inspect.' not in f.name:z.write(f,Path(folder.name)/f.relative_to(folder))
     print(folder.with_suffix('.zip'))
 with zipfile.ZipFile(root/'ivc-research-with-findspots.zip','w',zipfile.ZIP_DEFLATED) as z:
     for _,folder in folders:
         for f in folder.rglob('*'):
-            if f.is_file() and f.suffix!='.png' and 'preview' not in f.name and '.inspect.' not in f.name:z.write(f,Path(folder.name)/f.relative_to(folder))
+            if f.is_file() and (f.suffix!='.png' or f.name=='jar_marks_comparison.png') and 'preview' not in f.name and '.inspect.' not in f.name:z.write(f,Path(folder.name)/f.relative_to(folder))
 print(root/'ivc-research-with-findspots.zip')

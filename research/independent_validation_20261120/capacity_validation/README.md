@@ -10,6 +10,8 @@ The [new dimensional comparison](DIMENSION_TEST.md) tests all three against the 
 
 [Open the length/area/volume report](results/dimensions.html). **Accounts for external cloth lengths or land areas remain untested:** vessel geometry is not the measured subject of that hypothesis. The report retains that distinction, all source cases and every prediction.
 
+[Illustrated chart (PNG)](results/jar_marks_comparison.png) · [Scalable chart (SVG)](results/jar_marks_comparison.svg). The chart puts Kenoyer's published H95 drawing beside its proposed four-mark reading, all four jars' measurements and the count predictions. Redrawn tallies are explicitly schematic, and the original three versus additional jar remain distinguished. It uses the existing results without fitting any new models. Regenerate with `python3 research/independent_validation_20261120/capacity_validation/illustrate_dimensions.py` after the calculations; this optional plotting step needs Matplotlib and Pillow. The source underlay is extracted from the attributed overlay already in the repository, so no source PDF download is required.
+
 ## What was tested
 
 The primary drawing labels the jar **H95-2661/6640-501**, an accession-based candidate for catalogue **H-2263**. The complete existing catalogue reading is **“4”**, sign034. The drawing also includes separate body writing and potter's marks that the rim-only catalogue entry does not transcribe. Its caption instead givesH95-2662; the catalogue unit string differs. All identifiers and discrepancies are retained.
