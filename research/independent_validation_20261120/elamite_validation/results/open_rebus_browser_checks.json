@@ -1,0 +1,20 @@
+[
+  {
+    "name": "desktop",
+    "overflow": false,
+    "rows": 680,
+    "cards": 8,
+    "filtered_rows": 8,
+    "errors": [],
+    "missing": []
+  },
+  {
+    "name": "mobile",
+    "overflow": false,
+    "rows": 680,
+    "cards": 8,
+    "filtered_rows": 8,
+    "errors": [],
+    "missing": []
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "picture_drawings": 417,
+  "pictured_drawings": 320,
+  "picture_noun_types": 73,
+  "covered_picture_nouns": 24,
+  "source_counts": [
+    {
+      "source": "DigitalPasts",
+      "file": "ADJ-EWB-EJSmith.csv",
+      "rows": 581
+    },
+    {
+      "source": "DigitalPasts",
+      "file": "N-EWB-EJSmith.csv",
+      "rows": 4190
+    },
+    {
+      "source": "DigitalPasts",
+      "file": "Other-EWB-EJSmith.csv",
+      "rows": 786
+    },
+    {
+      "source": "DigitalPasts",
+      "file": "Uncalss-EWB-EJSmith.csv",
+      "rows": 927
+    },
+    {
+      "source": "DigitalPasts",
+      "file": "V-EWB-EJSmith.csv",
+      "rows": 1700
+    },
+    {
+      "source": "HinzKoch_existing",
+      "file": "work_data/lang_m/lex/elamite_hinzkoch.tsv",
+      "rows": 2452
+    }
+  ],
+  "eligible_lexical_records": 9754,
+  "eligible_source_rows": 7498,
+  "eligible_conservative_forms": 6106,
+  "eligible_records_unit": "sense records; not independent roots",
+  "candidates": 680,
+  "candidate_channels": {
+    "equal_conservative_form": 164,
+    "one_edit_whole_form": 496,
+    "equal_permissive_key": 14,
+    "equal_nominal_class_stem": 6
+  },
+  "candidate_classification": {
+    "needs_English_translation_review": 52,
+    "German_source_review": 432,
+    "English_gloss_candidate": 153,
+    "same_picture_lexeme_grammar": 3,
+    "uninterpreted_or_error_gloss": 30,
+    "nonliteral_picture_sense_requires_review": 10
+  },
+  "old_candidate_pairs_flagged": 0,
+  "destination_meanings_restricted": false,
+  "uses_dravidian_forms": false,
+  "uses_Cuper_target_meanings_to_select": false,
+  "source_review": "Word forms and glosses are candidates; no new translation assigned.",
+  "english_wordlist_sha256": "be41ad97963bf8dabedd5871d5d691596175269d540956b0f9965a885c2bbab9",
+  "english_wordlist_role": "Review flag only; no candidate is excluded for a failed spelling check.",
+  "runtime_seconds": 3.95,
+  "colab_units": 0
+}

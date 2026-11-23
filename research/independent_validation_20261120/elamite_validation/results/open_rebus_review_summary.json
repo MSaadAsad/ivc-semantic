@@ -1,0 +1,57 @@
+{
+  "non_near_witnesses_reviewed": 184,
+  "near_witnesses_not_promoted": 496,
+  "dispositions": {
+    "discarded_synonym_inflection_or_editorial": 122,
+    "unvalidated_near_spelling": 496,
+    "quarantined_possible_translation_error": 1,
+    "weak_normalization_dependent_lead": 9,
+    "rejected_orthographic_shortening": 8,
+    "retained_lexical_lead": 10,
+    "tentative_source_lead": 6,
+    "rejected_transparent_derivation": 4,
+    "quarantined_conflicting_interpretations": 4,
+    "already_known_semantic_direction": 9,
+    "quarantined_source_and_morphology": 3,
+    "retained_conditional_stem_lead": 2,
+    "rejected_ethnonym_as_picture_word": 3,
+    "recorded_metaphor_low_specificity": 2,
+    "already_known_concept_direction": 1
+  },
+  "retained_semantic_directions": 8,
+  "priority_directions": 2,
+  "older_Elamite_witness_rows": 10,
+  "older_distinct_word_pairs": [
+    [
+      "house",
+      "a-a-in",
+      "a-nu"
+    ],
+    [
+      "house",
+      "a-a-ni",
+      "a-nu"
+    ],
+    [
+      "house",
+      "a-i-in",
+      "a-nu"
+    ],
+    [
+      "jar",
+      "pi-ti",
+      "e-ip-ti"
+    ],
+    [
+      "roof",
+      "ku-uk",
+      "uk-ku-e"
+    ]
+  ],
+  "novelty_scope": "Inspected materialized Elamite candidate table and frozen pair recipes, not first in scholarship.",
+  "occurrence_rows": 3560,
+  "occurrence_role": "Reference only; no semantic or archaeological inference.",
+  "validated_Indus_readings": 0,
+  "language_identification_pvalue": null,
+  "colab_units": 0
+}

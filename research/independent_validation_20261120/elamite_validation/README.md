@@ -1,4 +1,8 @@
-# Elamite–Indus: dataset coverage and restricted rebus check
+# Elamite–Indus: open rebus discovery and earlier checks
+
+**New: [unrestricted Elamite rebus discovery](OPEN_REBUS.md)** extends beyond Cúper’s target meanings. It inventories 417 drawings and searches all available lexical targets, with anchors for 24/73 picture nouns. Two priority leads are **roof ku-uk → protection** (recorded polysemy) and **jar pi-ti → enemy piti-r** (same stem after a documented noun-class ending, not identical whole words). Both directions are absent from the inspected older Elamite candidate table. Six weaker directions, all 680 raw witnesses, source traps and dating limits remain visible. These are candidates to validate, not translated inscriptions or evidence identifying the Indus language. [Open the sign illustrations and audit](results/open_rebus.html).
+
+The earlier experiments below answer narrower or different questions and are retained with their limitations.
 
 **A direct sequence experiment has now been run:** the [Elamite-style written-agreement check](CONCORDANCE.md) fits1,373 distinct Lipi formulas and evaluates183 New formulas absent from Lipi, without any proposed words or meanings. Internal validation selects zero weight for repeating earlier candidate grammatical markers; the selected model adds no gain over its word-free baseline. The graphical-cage representation lacks marked test pairs. This checks two conditional written representations, not all possible Elamite grammar or a full reading model. [Open its results](results/concordance.html).
 

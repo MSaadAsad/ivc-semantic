@@ -1,0 +1,638 @@
+{
+  "man": {
+    "English": [
+      "human",
+      "male",
+      "man",
+      "person"
+    ],
+    "German": [
+      "mann",
+      "mensch"
+    ]
+  },
+  "gate": {
+    "English": [
+      "door",
+      "gate"
+    ],
+    "German": [
+      "tor",
+      "tur"
+    ]
+  },
+  "flag": {
+    "English": [
+      "banner",
+      "flag"
+    ],
+    "German": [
+      "fahne"
+    ]
+  },
+  "bow": {
+    "English": [
+      "bow"
+    ],
+    "German": [
+      "bogen"
+    ]
+  },
+  "bird": {
+    "English": [
+      "bird"
+    ],
+    "German": [
+      "vogel"
+    ]
+  },
+  "jar": {
+    "English": [
+      "jar",
+      "jug",
+      "pitcher",
+      "pot",
+      "waterpot"
+    ],
+    "German": [
+      "gefass",
+      "krug",
+      "topf"
+    ]
+  },
+  "box": {
+    "English": [
+      "box",
+      "casket",
+      "chest",
+      "coffer",
+      "trunk"
+    ],
+    "German": [
+      "kasten",
+      "kiste"
+    ]
+  },
+  "leaf": {
+    "English": [
+      "leaf"
+    ],
+    "German": [
+      "blatt"
+    ]
+  },
+  "comb": {
+    "English": [
+      "comb"
+    ],
+    "German": [
+      "kamm"
+    ]
+  },
+  "rake": {
+    "English": [
+      "rake"
+    ],
+    "German": [
+      "harke",
+      "rechen"
+    ]
+  },
+  "fork": {
+    "English": [
+      "fork",
+      "pitchfork",
+      "trident"
+    ],
+    "German": [
+      "gabel"
+    ]
+  },
+  "arrow": {
+    "English": [
+      "arrow"
+    ],
+    "German": [
+      "pfeil"
+    ]
+  },
+  "staff": {
+    "English": [
+      "rod",
+      "scepter",
+      "sceptre",
+      "staff",
+      "stave",
+      "stick"
+    ],
+    "German": [
+      "stab"
+    ]
+  },
+  "shield": {
+    "English": [
+      "shield"
+    ],
+    "German": [
+      "schild"
+    ]
+  },
+  "cup": {
+    "English": [
+      "bowl",
+      "cup",
+      "goblet"
+    ],
+    "German": [
+      "becher",
+      "schale"
+    ]
+  },
+  "basket": {
+    "English": [
+      "basket"
+    ],
+    "German": [
+      "korb"
+    ]
+  },
+  "tree": {
+    "English": [
+      "tree"
+    ],
+    "German": [
+      "baum"
+    ]
+  },
+  "hill": {
+    "English": [
+      "hill",
+      "mountain"
+    ],
+    "German": [
+      "berg",
+      "hugel"
+    ]
+  },
+  "wheel": {
+    "English": [
+      "wheel"
+    ],
+    "German": [
+      "rad"
+    ]
+  },
+  "goat": {
+    "English": [
+      "goat"
+    ],
+    "German": [
+      "ziege"
+    ]
+  },
+  "deer": {
+    "English": [
+      "antelope",
+      "deer",
+      "stag"
+    ],
+    "German": [
+      "hirsch"
+    ]
+  },
+  "fish": {
+    "English": [
+      "fish"
+    ],
+    "German": [
+      "fisch"
+    ]
+  },
+  "eye": {
+    "English": [
+      "eye"
+    ],
+    "German": [
+      "auge"
+    ]
+  },
+  "insect": {
+    "English": [
+      "insect"
+    ],
+    "German": [
+      "insekt"
+    ]
+  },
+  "pillar": {
+    "English": [
+      "pillar"
+    ],
+    "German": [
+      "pfeiler",
+      "saule"
+    ]
+  },
+  "hook": {
+    "English": [
+      "hook"
+    ],
+    "German": [
+      "haken"
+    ]
+  },
+  "roof": {
+    "English": [
+      "roof"
+    ],
+    "German": [
+      "dach"
+    ]
+  },
+  "ladder": {
+    "English": [
+      "ladder"
+    ],
+    "German": [
+      "leiter"
+    ]
+  },
+  "cross": {
+    "English": [
+      "cross"
+    ],
+    "German": [
+      "kreuz"
+    ]
+  },
+  "spoon": {
+    "English": [
+      "spoon"
+    ],
+    "German": [
+      "loffel"
+    ]
+  },
+  "pin": {
+    "English": [
+      "pin"
+    ],
+    "German": [
+      "nadel",
+      "stift"
+    ]
+  },
+  "axe": {
+    "English": [
+      "axe"
+    ],
+    "German": [
+      "axt",
+      "beil"
+    ]
+  },
+  "tent": {
+    "English": [
+      "tent"
+    ],
+    "German": [
+      "zelt"
+    ]
+  },
+  "stool": {
+    "English": [
+      "stool",
+      "table"
+    ],
+    "German": [
+      "hocker",
+      "schemel",
+      "tisch"
+    ]
+  },
+  "bed": {
+    "English": [
+      "bed"
+    ],
+    "German": [
+      "bett"
+    ]
+  },
+  "loom": {
+    "English": [
+      "loom"
+    ],
+    "German": [
+      "webstuhl"
+    ]
+  },
+  "table": {
+    "English": [
+      "stool",
+      "table"
+    ],
+    "German": [
+      "hocker",
+      "schemel",
+      "tisch"
+    ]
+  },
+  "door": {
+    "English": [
+      "door",
+      "gate"
+    ],
+    "German": [
+      "tor",
+      "tur"
+    ]
+  },
+  "house": {
+    "English": [
+      "house"
+    ],
+    "German": [
+      "haus"
+    ]
+  },
+  "horn": {
+    "English": [
+      "antenna",
+      "feeler",
+      "horn"
+    ],
+    "German": [
+      "horn"
+    ]
+  },
+  "anchor": {
+    "English": [
+      "anchor"
+    ],
+    "German": [
+      "anker"
+    ]
+  },
+  "hourglass": {
+    "English": [
+      "hourglass"
+    ],
+    "German": [
+      "sanduhr"
+    ]
+  },
+  "teeth": {
+    "English": [
+      "teeth",
+      "tooth"
+    ],
+    "German": [
+      "zahn",
+      "zahne"
+    ]
+  },
+  "wing": {
+    "English": [
+      "wing"
+    ],
+    "German": [
+      "flugel"
+    ]
+  },
+  "brick": {
+    "English": [
+      "brick"
+    ],
+    "German": [
+      "ziegel"
+    ]
+  },
+  "window": {
+    "English": [
+      "window"
+    ],
+    "German": [
+      "fenster"
+    ]
+  },
+  "grid": {
+    "English": [
+      "grid"
+    ],
+    "German": [
+      "gitter"
+    ]
+  },
+  "weight": {
+    "English": [
+      "weight"
+    ],
+    "German": [
+      "gewicht"
+    ]
+  },
+  "anvil": {
+    "English": [
+      "anvil"
+    ],
+    "German": [
+      "amboss"
+    ]
+  },
+  "spider": {
+    "English": [
+      "spider"
+    ],
+    "German": [
+      "spinne"
+    ]
+  },
+  "star": {
+    "English": [
+      "star"
+    ],
+    "German": [
+      "stern"
+    ]
+  },
+  "hammer": {
+    "English": [
+      "hammer"
+    ],
+    "German": [
+      "hammer"
+    ]
+  },
+  "seed": {
+    "English": [
+      "seed"
+    ],
+    "German": [
+      "saat",
+      "same"
+    ]
+  },
+  "book": {
+    "English": [
+      "book"
+    ],
+    "German": [
+      "buch"
+    ]
+  },
+  "sun": {
+    "English": [
+      "sun"
+    ],
+    "German": [
+      "sonne"
+    ]
+  },
+  "moon": {
+    "English": [
+      "moon"
+    ],
+    "German": [
+      "mond"
+    ]
+  },
+  "rainbow": {
+    "English": [
+      "rainbow"
+    ],
+    "German": [
+      "regenbogen"
+    ]
+  },
+  "fan": {
+    "English": [
+      "fan"
+    ],
+    "German": [
+      "facher"
+    ]
+  },
+  "harp": {
+    "English": [
+      "harp",
+      "lyre"
+    ],
+    "German": [
+      "harfe",
+      "leier"
+    ]
+  },
+  "arch": {
+    "English": [
+      "arch"
+    ],
+    "German": [
+      "bogen"
+    ]
+  },
+  "cage": {
+    "English": [
+      "cage"
+    ],
+    "German": [
+      "kafig"
+    ]
+  },
+  "bud": {
+    "English": [
+      "bud"
+    ],
+    "German": [
+      "knospe"
+    ]
+  },
+  "heart": {
+    "English": [
+      "heart"
+    ],
+    "German": [
+      "herz"
+    ]
+  },
+  "spade": {
+    "English": [
+      "spade"
+    ],
+    "German": [
+      "spaten"
+    ]
+  },
+  "brush": {
+    "English": [
+      "brush"
+    ],
+    "German": [
+      "burste",
+      "pinsel"
+    ]
+  },
+  "tripod": {
+    "English": [
+      "tripod"
+    ],
+    "German": [
+      "dreifuss"
+    ]
+  },
+  "net": {
+    "English": [
+      "net"
+    ],
+    "German": [
+      "netz"
+    ]
+  },
+  "bead": {
+    "English": [
+      "bead"
+    ],
+    "German": [
+      "perle"
+    ]
+  },
+  "egg": {
+    "English": [
+      "egg"
+    ],
+    "German": [
+      "ei"
+    ]
+  },
+  "spindle": {
+    "English": [
+      "spindle"
+    ],
+    "German": [
+      "spindel"
+    ]
+  },
+  "sail": {
+    "English": [
+      "sail"
+    ],
+    "German": [
+      "segel"
+    ]
+  },
+  "key": {
+    "English": [
+      "key"
+    ],
+    "German": [
+      "schlussel"
+    ]
+  },
+  "dumbbell": {
+    "English": [
+      "dumbbell"
+    ],
+    "German": [
+      "hantel"
+    ]
+  }
+}

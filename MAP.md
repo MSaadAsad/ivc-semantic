@@ -1,3 +1,8 @@
+# Independent continuation: additional Elamite candidates (2026-11-23)
+
+- `measured` The open-target lexical search inventories 417 drawings, covers 24/73 picture nouns and releases 680 raw witnesses. The inspected older Elamite candidate table lacks roof → protection and jar → enemy. These counts do not identify a language. [Results and source review](research/independent_validation_20261120/elamite_validation/OPEN_REBUS.md).
+- `guess` Test roof ku-uk → protection and jar pi-ti → enemy piti-r as alternative sign values. First resolve the picture-word dates and whether the -r noun-class ending would be written; then require predictions for excluded surrounding sequences. No coherent Elamite inscription or independent archaeological validation has yet been obtained from these leads.
+
 # STANDING NOTE (2026-11-19, after Key #6A–#6C: 85.9% / 88.3% Unseen, READINGS_KEY5 & Preprint Audit)
 1. **Sound-free meaning & grammar (`MEANINGS.md`, `FRAMEBOOK.md` v3)**: `FRAME v3` parses **87.14% of all 3,600 intact Lipi faces** (`64.94%` unseen `new texts`), grounding **91.85%** of parsed tokens in measured grammar, metrology (`9.24 L : 37.0 L : 110.9 L : 665.3 L`), and `175` Lipi→New replicated anchors (`Rival-Refit z = +2.05, P = 0.028`).
 2. **FOUR Disjoint Waves of 7-Family Phonetic Identification & 88.3% Unseen Coverage (`jobs/out/key6a_wave4_strike.md`, `key6c_publication_audit.md`, `key5a`, `key4a–d`, `key3a`, `key2a`)**:
