@@ -1,7 +1,7 @@
 # Western-site physical context (2026-11-23)
 
-- `measured` Imported 61 Dholavira register entries (60 distinct accession strings) plus four named Bagasra/Shikarpur fastening observations. Existing Dholavira coverage is 69 tag objects / 76 encoded faces. Fourteen objects agree on area, grid and depth; all links remain provisional, with zero verified accession joins, new transcriptions or semantic tests. [Source entries and candidate readings](research/independent_validation_20261120/context_associations/results/western_sites/western_sites.html).
-- `guess` Accession or diagnostic photograph confirmation can connect individual reverse-side observations to current sign sequences. Candidates include a box-backed chief/quarters inscription and textile-backed unresolved 604; attachment traces alone do not supply word meanings or contents.
+- `measured` Imported 61 Dholavira register entries (60 distinct accession strings) plus four named Bagasra/Shikarpur fastening observations. Existing coverage is 69 tag objects / 76 encoded faces. Completed review of 21 source/object possibilities supports two documentary links using source-labelled signs and findspots: 4608/4156 box attachment and 20502/4292.1 textile contact. Nineteen remain unresolved; no new transcriptions, physical specimen authentication or semantic tests. [Completed image review](research/independent_validation_20261120/context_associations/results/western_sites/identity_review.html).
+- `guess` Use the two documentary links as exploratory archaeological context. A box may carry authority, quantity or contents information; textile contact does not identify cloth contents or assign unresolved 604. Resolve source/catalogue discrepancies before expanding these into linguistic tests.
 
 # Full Lothal physical context (2026-11-23)
 

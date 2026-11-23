@@ -1,253 +1,253 @@
-id,cisi,site,area-section,block-house,room-grid,excavation-idno,time,period,phase,depth,type,text,preservation,complete,horizontal(mm),vertical(mm),thickness(mm)
-126.1,-,Dholavira,--,--,--,341,-,-,-,- -,SEAL:S,+740-760-000-742-013/742-552+,complete,N,21,20,1.5
-127.1,-,Dholavira,--,--,--,345,-,-,-,- -,SEAL:S,+151-892-032+,complete,Y,25,25,1.4
-128.1,-,Dholavira,--,--,--,346,-,-,-,- -,SEAL:S,+156-019+,complete,Y,20,20,1.3
-129.1,-,Dholavira,--,--,--,347,-,-,-,- -,SEAL:S,+093-808+,complete,Y,20,20,1.2
-130.1,-,Dholavira,Bailey-,57 x 54 x 1-,--,348,Period 3B-1,4,-,230 cm,SEAL:S,+244-165/740-879-220-416-803-002-861+,chipped,Y,26.9,26.8,6.8 - 10.3
-131.1,-,Dholavira,--,--,--,349,-,-,-,- -,SEAL:S,+520-460-495+,complete,Y,18,18,8
-132.1,-,Dholavira,--,--,--,358,-,-,-,- -,SEAL:S,+740-416-002-861+,complete,Y,27,26,1.3
-133.1,-,Dholavira,--,--,--,374,-,-,-,- -,SEAL:S,+520-460+,complete,Y,25,25,1.3
-134.1,-,Dholavira,--,--,--,375,-,-,-,- -,SEAL:R,+154-388-717-705+,complete,Y,19,17,9
-135.1,-,Dholavira,--,--,--,376,-,-,-,- -,SEAL:R,+590-407-790-032+,complete,Y,20,11,10
-136.1,-,Dholavira,--,--,--,377,-,-,-,- -,SEAL:R,+390-016-002-861+,complete,Y,34,35,1.5
-137.1,-,Dholavira,--,--,--,378,-,-,-,- -,SEAL:R,+617-142+,complete,Y,22,10,10
-138.1,-,Dholavira,Castle-,XE 22-,--,379,-,-,-,0 -,SEAL:R,+520-033-706-233+,complete,Y,23.6,12.6,4.5 - 8.1
-139.1,-,Dholavira,--,--,--,380,-,-,-,- -,SEAL:R,+740-100-407-590+,complete,Y,27,12,6
-140.1,-,Dholavira,--,--,--,390,-,-,-,- -,TAG,+520-033[,fragment,?,15,17,6
-141.1,-,Dholavira,--,--,--,391,-,-,-,- -,TAG:L,+090-740-000[,fragment,N,35,32,1.5
-142.1,-,Dholavira,--,--,--,392,-,-,-,- -,TAG:L,+740-000+,complete,N,38,39,1.4
-143.1,-,Dholavira,Castle-,57 x 28 x 4-,--,403,-,-,-,- -,TAB:B,+000-400-350-031-002-817+,complete,N,30,12,17.6
-144.1,-,Dholavira,CastleCitadel,-W.Chamber,N.Gate-,-signboard,-,-,-,- -,MISC,+798-821-031-645-850-820-388-611-820+,complete,Y,3000,370,0
-145.1,Dlv-1,Dholavira,--,--,--,-,-,-,-,- -,SEAL:S,+151-382-031-002-861+,complete,Y,20,21,0
-146.1,Dlv-2,Dholavira,--,--,--,-,-,-,-,- -,SEAL:R,]000-002-817+,fragment,N,0,18,6 - 21
-158.1,-,Gola Dhoro (Bagasra),Trench Eh 1-,--,--,BSR 7368,-,Layer 1,-,223  cm,SEAL:S,+236-140-893-861+,complete,Y,14,14,7 - 10
-748.1,-,Dholavira,--,--,--,-,Period 3B-1,4,-,110 cm,TAG,+032+,complete,Y,0,0,0
-924.1,-,Dholavira,Bailey-,--,--,-,Period 3B-1,4,-,196 cm,TAG,]000-630[,fragment,N,0,0,0
-951.1,-,Dholavira,--,35 x 14-,--,DHR-9697,Period 2,2,-,297 cm,SEAL:S,+390-004-002-817+,complete,Y,22,22,0 - 9
-1316.1,-,Dholavira,--,45 x 49 x 4-,--,DHR-14287,-,-,-,425 cm,SEAL:S,+520-920-320-235-175-000-820+,complete,N,41,41,0 - 15
-1576.1,-,Dholavira,--,57 x 51 x 1-,--,DHR-19050,Period 3A,3,-,- -,SEAL:S,+740-590-017+,complete,Y,20,29,0
-2180.1,-,Dholavira,--,58 x 51 x 1-,--,-,-,-,-,- -,SEAL:S,+740-840-416-240-741-500-091+,chipped,Y,32,32,0 - 9
-2489.1,-,Dholavira,--,45 x 59 x 1-,--,DHR-25381,-,-,-,0 -,SEAL:S,+740-390-590-002-817+,complete,Y,20,20,0 - 10
-2942.1,-,Dholavira,--,54 x 58 x 1 3&4-,--,DHR-24795,Period 3B-1,4,F,- -,SEAL:S,+621-740-514+,complete,Y,22,22,0 - 12
-3377.1,-,Dholavira,Middle Town-,--,--,-,-,-,-,42 cm,TAG,]000-220-000-740-000[,fragment,N,0,0,0
-3951.1,-,Dholavira,Castle-,--,--,-,Period 3B-1,4,-,320 cm,TAG,+740-000[,fragment,N,0,0,0
-3952.1,-,Dholavira,Middle Town-,--,--,-,Period 3B-1,4,-,97-110 cm,TAG,+740-220+,complete,Y,0,0,0
-4149.1,-,Dholavira,Castle-,--,--,-,Period 3B/C,4/5,-,0 -,SEAL:S,+520-033-033+,chipped,Y,18.1,18,6 - 10.3
-4150.1,-,Dholavira,Middle Town-,XN 1/4-,--,-,Period 3C-2,5,-,- -,SEAL,+740-760-000-000[,fragment,N,24.6,0,9.9
-4151.1,-,Dholavira,Castle-,XE-21-,--,DHR-460,Period 3C-2,5,-,130 cm,SEAL:S,+455-861-000-000-033+,complete,N,29,28,4 - 13
-4156.1,-,Dholavira,Bailey-,XH 34-,--,-,Period 3B/C,4/5,-,45 cm,TAG,+520-000-002-820+,complete,N,0,0,0
-4156.2,-,Dholavira,Bailey-,XH 34-,--,-,Period 3B/C,4/5,-,45 cm,TAG,+000-000-002-820+,complete,N,0,0,0
-4157.1,-,Dholavira,Middle Town-,55 x 93 x 2-,--,-,Period 3C-2,5,-,32 cm,TAG,+326-000[,fragment,N,0,0,0
-4158.1,-,Dholavira,East Reservoir-,37 x 75 x 3-,--,-,Period 3C-2,5,-,220 cm,TAG,+000-000-000[,fragment,N,0,0,0
-4159.1,-,Dholavira,Middle Town-,56 x 51 x 2-,--,-,Period 3B/C,4/5,-,- -,SEAL:S,+368-005-741-060-920+,complete,Y,25.2,25.4,7.7 - 11.7
-4160.1,-,Dholavira,Outside Middle Town wall-,76 x 4-,--,-,-,-,-,0 -,SEAL:S,+740-000[,fragment,N,0,26.2,7.7 - 17.5
-4161.1,-,Dholavira,Middle TownS.W. corner,--,--,-,-,-,-,0 -,SEAL:R,+064-004-013-740-176+,complete,Y,0,0,0
-4162.1,-,Dholavira,South Reservoir5,48 x 38 x 1+2-,--,-,-,-,-,-800 cm,SEAL:S,+740-760-001-233+,slightly chipped,Y,15.4,15,4.7 - 9
-4163.1,-,Dholavira,-East of Castle,--,--,-,-,-,-,0 -,SEAL:S,+400-125-000+,complete,N,22.2,22.4,7.1 - 12.4
-4164.1,-,Dholavira,Middle Town-,35 x 63 x 4+1-,--,-,Period 1B,1,-,168 cm,SEAL:R,+423-003-001-423-002-031-104+,chipped,Y,28,10.3,4.8 - 8.8
-4165.1,-,Dholavira,Middle Town-,45 x 46 x 2-,--,-,Period 3C-2,5,-,- -,SEAL:S,+740-840-416+,complete,Y,24,23.7,7.8 - 11.8
-4166.1,-,Dholavira,Castle-,47 x 57 x 4-,--,-,-,-,-,-175 cm,TAB:I,+776-440-003-421+,complete,Y,19.2,7.1,2 - 4.2
-4167.1,-,Dholavira,Castle-,--,--,-,-,-,-,0 -,SEAL:R,+520-033-706+,slightly chipped,Y,21.8,14.1,10.2
-4168.1,-,Dholavira,Castle-,XF-22/1-,--,-,-,-,-,120 cm,SEAL:R,+840-527-002-000+,chipped,N,24.6,9.4,7.5 - 7.5
-4169.1,-,Dholavira,Castle-,48 x 42 x 1-,--,-,-,-,-,-11 cm,SEAL,+031-055-000[,fragment,N,0,0,4.8
-4170.1,-,Dholavira,Middle Town-,45 x 13 x 3-,--,-,-,-,-,- -,TAB:I,]000-520-220-032+,fragment,N,0,14.8,13.4
-4171.1,-,Dholavira,Castle-,48 x 92 x 3+4-,--,-,Period 3B-1,4,-,570 cm,SEAL:S,]000-000-000-032-840-000+,chipped,N,29.3,29.3,6.1 - 11.3
-4172.1,-,Dholavira,Castle-,47 x 21 x 2-,--,-,Period 3B-1,4,-,-200 cm,SEAL:S,+090-160+,complete,Y,24.2,23.9,6.7 - 11.5
-4175.1,-,Dholavira,Castle-,47 x 98 x 3-,--,-,-,-,-,- -,SEAL:S,+156-142-741-060-920+,chipped,Y,24.2,24.9,6.7 - 10.8
-4176.1,-,Dholavira,Bailey-,57 x 57 x 2-,--,-,Period 3B-1,4,-,316 cm,SEAL:S,+148-632-031-741-000+,complete,N,23.6,22.6,6.7 - 10.3
-4177.1,-,Dholavira,East Reservoir-,37 x 35 x 1-,--,-,Period 3B-1,4,-,-740 cm,SEAL:S,+520-233-803-060-001-031-905-032-000+,complete,N,0,0,0
-4178.1,-,Dholavira,Middle Town-,46 x 45 x 1+2-,--,-,Period 3B-1,4,-,-220 cm,SEAL:S,+740-000[,chipped,N,24.6,23.6,6.5 - 11.1
-4179.1,-,Dholavira,Bailey-,57 x 60 x 3-,--,-,Period 3B-1,4,-,- -,SEAL:S,]000-032+,fragment,N,0,0,6.7
-4180.1,-,Dholavira,Bailey-,57 x 57 x 2-,--,-,Period 3B-1,4,-,367-482 cm,SEAL:S,+390-006-000[,fragment,N,0,0,6.4
-4181.1,-,Dholavira,Lower Town-,37 x 28x x2+4-,--,-,Period 3B-1,4,-,-475 cm,SEAL:S,+817-130+,complete,Y,24.7,25.2,5.5 - 12.6
-4182.1,-,Dholavira,Castle-,XF-22/4-,--,-,Period 3B-1,4,-,- -,SEAL:S,+740-390-590-231-002-705-530-904+,fragment,Y,28.6,0,6.7 - 8.8
-4183.1,-,Dholavira,Annexe-,48 x 59-,--,-,Period 3B-1,4,-,-675 cm,SEAL:S,+740-798-233-742-175+,complete,Y,33.3,33.3,7.5 - 13.5
-4184.1,-,Dholavira,Middle Town-,45 x 63 x 4-,--,-,Period 3B-1,4,-,- -,SEAL:S,+740-032-840-803+,complete,Y,18.3,18.4,0
-4185.1,-,Dholavira,Lower Town-,25 x 84 x 1-,--,-,Period 3B-1,4,-,- -,SEAL:S,+000-000-000-740-000+,slightly chipped,N,27.4,26.9,14.4 - 16.1
-4186.1,-,Dholavira,Castle-,47 x 9 x 2-,--,-,Period 3B-1,4,-,-247 cm,SEAL,+360-000[,fragment,N,0,18.4,6.8
-4187.1,-,Dholavira,Lower Town-,35 x 63 x 1+4-,--,-,Period 3B-1,4,-,-168 cm,SEAL:S,+231-850+,slightly chipped,Y,18.2,16.8,3.9 - 5.3
-4188.1,-,Dholavira,Bailey-,57 x 57 x 2-,--,-,Period 3B-1,4,-,440 cm,SEAL:S,]000-861[,fragment,N,0,0,10 - 19.8
-4189.1,-,Dholavira,Castle-,47 x 78 x 3-,--,-,Period 3B-1,4,-,-253 cm,SEAL:S,+400-392-631-000+,fragment,N,17.3,0,4.4 - 13
-4190.1,-,Dholavira,Castle-,47 x 88 x 3-,--,-,Period 3B-1,4,-,-297 cm,SEAL:R,+005-408+,complete,Y,18.5,10,0
-4191.1,-,Dholavira,Middle Town-,46 x 44 x 1-,--,-,Period 3B-1,4,-,- -,SEAL,]740-760-382/000-740-220-000[,fragment,N,0,0,8 - 13.5
-4192.1,-,Dholavira,Lower Town-,25 x 9 x 2-,--,-,Period 3B-1,4,-,- -,SEAL:S,+740-000-000-235+,fragment,N,23.7,0,6.8
-4193.1,-,Dholavira,Middle Town-,56 x 55 x 4-,--,-,-,-,-,- -,MISC,]000-820[,fragment,N,0,0,0
-4194.1,-,Dholavira,--,45 x 58 x 1-,--,DHR-20013,-,-,-,250 cm,SEAL:R,+154-806-472-013-220-455-806+,complete,Y,30,7,0
-4195.1,-,Dholavira,--,55 x 52-,--,DHR-16412,-,-,-,- -,SEAL:S,+820-390-590-002-861+,complete,Y,21,21,0 - 10
-4196.1,-,Dholavira,--,25 x 10 x 4-,--,DHR-24475,-,-,-,- -,SEAL:S,+391-002-365-550+,complete,Y,25,25,0 - 12
-4197.1,-,Dholavira,--,35 x 54 x 1-,--,-,-,-,-,- -,SEAL:R,+001-000-000-832-904-002-817+,chipped,N,0,0,0
-4198.1,-,Dholavira,--,--,--,DHR-9094,-,-,-,- -,SEAL:S,+390-550-452-060-690+,complete,Y,20,20,0 - 11
-4199.1,-,Dholavira,--,45 x 42 x 3-,--,DHR-18114,-,-,-,32 cm,SEAL,+220-000[,fragment,N,0,0,0
-4200.1,-,Dholavira,--,47 x 58 x 1-,--,-,-,-,-,- -,TAB:I,+575-031-002-226-231[,chipped,?,0,0,0
-4201.1,-,Dholavira,--,47 x 78 x 3-,--,DHR-25871,-,-,-,- -,SEAL:R,+832-140-013-547+,complete,Y,19,6,0
-4202.1,-,Dholavira,--,55 x 89 x 1-,--,-,-,-,-,80 cm,SEAL:S,+416+,complete,Y,0,0,0
-4203.1,-,Dholavira,Bailey-,57 x 54 x 1-,--,-,Period 3B-1,4,-,- -,SEAL:S,+463-513/390-017-002-463-575+,complete,Y,25.4,25.2,4.6 - 13.4
-4204.1,-,Dholavira,Middle Town-,54 x 77 x 2-,--,-,Period 3B-1,4,-,- -,SEAL,]611-000[,fragment,N,0,0,0
-4205.1,-,Dholavira,Middle Town-,55 x 95 x 1-,--,-,Period 3B-1,4,-,- -,SEAL:S,+740-740-000-742+,complete,N,0,0,0
-4206.1,-,Dholavira,Middle Town-,45 x 53 x 2-,--,-,Period 3B-1,4,-,- -,SEAL,+595-134-000[,fragment,N,0,0,5.9
-4207.1,-,Dholavira,Middle Town-,35 x 53 x 1-,--,-,Period 3B-1,4,-,- -,SEAL:S,]519+,fragment,?,16.9,16.5,4.4 - 8.8
-4208.1,-,Dholavira,Lower Town-,25 x 7+8-,--,-,Period 3B-1,4,-,-10 cm,SEAL:S,+740-176-001-741-703-900-003+,complete,Y,28.1,28.4,9.6
-4209.1,-,Dholavira,Castle-,47 x 84 x 1-,--,-,Period 3B-1,4,-,-325 cm,SEAL:S,+740-384-002-629-279+,complete,Y,19.8,19.5,7.3 - 12.2
-4210.1,-,Dholavira,--,--,--,-,Period 3B-1,4,-,- -,SEAL:S,+520-033-705-235-803[,fragment,?,0,0,5.4
-4211.1,-,Dholavira,Lower Town-,25 x 73 x 3-,--,-,Period 3B-1,4,-,-318 cm,SEAL,+740-100-235-002-817+,fragment,Y,27.2,0,7.9
-4212.1,-,Dholavira,East Reservoir-,37 x 45 x 4-,--,-,Period 3B-1,4,-,800 cm,SEAL:S,+001-111-000+,partly damaged,N,26.7,28.9,8
-4213.1,-,Dholavira,Middle Town-,45 x 53 x 2-,--,-,Period 3B-1,4,-,- -,SEAL:S,+151-740-000[,fragment,N,14.9,0,6 - 10.8
-4214.1,-,Dholavira,Middle Town-,44 x 44 x 2-,--,-,Period 3B-1,4,-,- -,SEAL:S,+000[,fragment,N,15.5,0,3 - 5.1
-4215.1,-,Dholavira,South Reservoir3,48 x 38 x 1+2-,--,-,Period 3B/C,4/5,-,835 cm,SEAL:S,]267-125-000[,fragment,N,0,29,7.4 - 12.2
-4216.1,-,Dholavira,-Castle  south of,38 x 94 x 2-,--,-,Period 3B/C,4/5,-,- -,SEAL:S,+520-000-235+,complete,N,24.5,22.5,3.9 - 11.2
-4217.1,-,Dholavira,Castle-,47 x 16-,--,-,Period 3B/C,4/5,-,0 -,SEAL,]000-000-000-000+,fragment,N,24.1,0,8.8
-4218.1,-,Dholavira,East Reservoir-,37 x 49 x 2-,--,-,Period 3B/C,4/5,-,- -,SEAL:S,]000-350-125-812-033+,fragment,N,0,0,6.2
-4219.1,-,Dholavira,Castle-,37 x 95 x 3-,--,-,Period 3B/C,4/5,-,0 -,SEAL:S,+032-820-000-900+,complete,N,21.5,21.2,7.5 - 12.5
-4220.1,-,Dholavira,East Reservoir-,37 x 39 x 3-,--,-,Period 3B/C,4/5,-,-360 cm,SEAL:S,+520-742-861+,complete,Y,17.6,17.8,0
-4221.1,-,Dholavira,South Reservoir3,48 x 38 x 1+2-,--,-,Period 3B/C,4/5,-,820 cm,SEAL:S,+740-760-234-741-740-590+,complete,Y,23.3,23.1,6.3 - 9.2
-4222.1,-,Dholavira,--,48 x 38 x 1+4-,--,-,Period 3B/C,4/5,-,-750 cm,SEAL:S,]000-615-000[,fragment,N,0,0,4.9 - 10.2
-4223.1,-,Dholavira,Middle Town-,35 x 94 x 3-,--,-,Period 3B/C,4/5,-,0 -,SEAL:S,+031-151+,fragment,Y,22.2,0,4.3
-4224.1,-,Dholavira,Lower Town-,25 x 94 x 1-,--,-,Period 3C-2,5,-,-40 cm,SEAL:S,+740-235-220+,complete,Y,20.7,20.7,6.7 - 13
-4225.1,-,Dholavira,Middle Town-,45 x 94-,--,-,Period 3C-2,5,-,-71 cm,SEAL:S,+156-019+,complete,Y,21.2,21,7.1 - 12.9
-4226.1,-,Dholavira,Middle Town-,44 x 49 x 3-,--,-,Period 3C-2,5,-,- -,SEAL:S,+400-740-920+,complete,Y,21.2,20.3,5.3 - 10.1
-4227.1,-,Dholavira,Middle Town-,55 x 56 x 4-,--,-,Period 3C-2,5,-,- -,SEAL:S,+740-630-098-368-824+,complete,Y,29.4,28.8,6.4 - 13.9
-4228.1,-,Dholavira,Middle Town-,55 x 52-,--,-,Period 3C-2,5,-,- -,SEAL:S,+740-000-000-000-590+,complete,N,24.9,24.9,6 - 9.8
-4229.1,-,Dholavira,East Reservoir-,37 x 35 x 1-,--,-,Period 3C-2,5,-,-280 cm,SEAL:S,+740-390-590-220-463-240-001-820-060+,slightly chipped,Y,24.2,23.9,6 - 11.4
-4230.1,-,Dholavira,Middle Town-,XN 1.4-,--,-,Period 3C-2,5,-,- -,SEAL:S,]000+,fragment,N,34.3,0,9.6 - 14.6
-4231.1,-,Dholavira,Lower Town-,35 x 12 x 3-,--,-,Period 3C-2,5,-,- -,SEAL:S,+000-798-701+,complete,N,28.9,27.2,7 - 11.3
-4232.1,-,Dholavira,Castle-,48 x 1 x 1-,--,-,Period 3C-2,5,-,-20 cm,SEAL:S,+520-235+,complete,Y,24,24,7.7
-4233.1,-,Dholavira,Castle-,A 14/2-,--,-,Period 3C-2,5,-,- -,SEAL:S,+423-003-031-005-130-090-000[,chipped,N,0,27.3,8.3 - 11.8
-4234.1,-,Dholavira,-Outside castle,37 x 85 x 1-,--,-,Period 3C-2,5,-,170 cm,SEAL:S,]000-000-002-820+,fragment,N,31.4,0,7.7
-4235.1,-,Dholavira,Middle Town-,54 x 58 x 2-,--,-,Period 3C-2,5,-,- -,SEAL,]820-066-415+,fragment,?,0,0,16
-4236.1,-,Dholavira,-Outside Bailey,48 x 41 x 1-,--,-,Period 3C-2,5,-,- -,SEAL:S,+740-760-175-220-255+,complete,Y,20.8,20.7,5.9 - 8.3
-4237.1,-,Dholavira,Lower Town-,ZA-12:2-,--,-,Period 3C-2,5,-,-8 cm,SEAL:S,+151-032-388-002-390-705+,fragment,Y,27.6,0,7.1 - 11.2
-4238.1,-,Dholavira,Lower Town-,35 x 54 x 1-,--,-,Period 3C-2,5,-,- -,SEAL:S,]000-000-032+,fragment,N,21.1,20.7,7.6
-4239.1,-,Dholavira,Middle Town-,55 x 66 x 3-,--,-,Period 3C-2,5,-,-25 cm,SEAL:S,+090-095-741-374-132+,slightly chipped,Y,25.2,24.1,7.5 - 10.3
-4240.1,-,Dholavira,Middle Town-,45 x 74-,--,DHR-10616,Period 3C-2,5,-,77 cm,SEAL:S,+151-142+,complete,Y,21,21,0 - 11
-4241.1,-,Dholavira,Bailey-,57 x 57 x 3-,--,-,Period 3C-2,5,-,- -,SEAL,]000-740-798-000[,fragment,N,0,0,9.1
-4242.1,-,Dholavira,Middle Town-,55 x 34 x 1+4-,--,-,Period 3C-2,5,-,87 cm,TAB:I,+004-408+,complete,Y,10.4,8.7,2.1
-4243.1,-,Dholavira,Middle Town-,45 x 13-,--,-,Period 3C-2,5,-,- -,TAB:I,]520-175[,fragment,?,0,0,7
-4244.1,-,Dholavira,Middle Town-,45 x 54 x 1-,--,-,Period 3C-2,5,-,-56 cm,MISC,+033-705-233-235-002-457+,chipped,Y,0,0,23.4
-4244.2,-,Dholavira,Middle Town-,45 x 54 x 1-,--,-,Period 3C-2,5,-,-56 cm,MISC,+233-776+,chipped,Y,0,0,23.4
-4245.1,-,Dholavira,Middle Town-,35 x 73 x 4-,--,-,Period 3C-2,5,-,-48 cm,SEAL:S,+740-798[,fragment,?,0,0,6.5 - 10.6
-4246.1,-,Dholavira,Middle Town-,35 x 73 x 3+4-,--,DHR 48567,Period 3C-2,5,-,-79 cm,SEAL:S,+592+,complete,Y,25.6,25.3,6.2 - 11
-4247.1,-,Dholavira,Lower Town-,35 x 13 x 4-,--,-,Period 3C-2,5,-,- -,SEAL:C,+806-091-001-368-255-000+,slightly chipped,N,0,0,6.3
-4248.1,-,Dholavira,Middle Town-,46 x 62 x 2-,--,-,Period 3C-2,5,-,-105 cm,SEAL:S,+740-000-000[,fragment,N,29.5,27.6,8.3 - 14.3
-4249.1,-,Dholavira,Lower Town-,24 x 7 x 3-,--,-,Period 3C-2,5,-,- -,SEAL:S,+705-000-000+,fragment,N,0,15,4.6
-4250.1,-,Dholavira,Middle TownGreat multipurpose ground,66 x 57 x 1-,--,-,Period 3C-2,5,-,- -,SEAL:S,+520-090-803-564-741-798-892+,fragment,Y,30.2,0,9
-4251.1,-,Dholavira,Middle Town-,46 x 23 x 4-,--,-,Period 3C-2,5,-,- -,SEAL:S,+255-014-000+,complete,N,20.7,20,5.8 - 12.6
-4252.1,-,Dholavira,Middle Town-,55 x 76 x 2-,--,-,Period 3C-2,5,-,0.28 cm,SEAL:S,+740-760-175-002-000[,fragment,N,0,29.2,6.6 - 12.7
-4253.1,-,Dholavira,Middle Town-,45 x 40 x 2-,--,-,Period 3C-2,5?,-,0 -,SEAL:S,]000-572-090+,fragment,N,0,0,12.5 - 20.3
-4254.1,-,Dholavira,Middle Town-,55 x 86 x 4-,--,-,Period 3C-4,5/6,-,- -,SEAL:R,+561-092-625-900+,slightly chipped,Y,18.1,7.1,5.6
-4255.1,-,Dholavira,Middle Town-,ZA 1/1-,--,-,Period 4,6,-,- -,SEAL,+000-740-000[,fragment,N,0,23,17.9
-4256.1,-,Dholavira,Middle Town-,ZA-11x1-,--,-,Period 4,6,-,-27 cm,TAB:I,+236-231-000[,fragment,N,0,15.5,0
-4257.1,-,Dholavira,Castle-,47 x 10 x 2-,--,-,Period 4,6,-,15 cm,SEAL:R,]000-091+,fragment,N,0,21.2,12.8
-4258.1,-,Dholavira,Castle-,47 x 47 x 4-,--,-,Period 4,6,-,- -,TAB:I,+892-033+,complete,Y,27.2,15.1,11
-4259.1,-,Dholavira,Middle Town-,46 x 44 x 2-,--,-,Period 4,6,-,-190 cm,SEAL,]000-625-000+,fragment,N,22.5,0,3.2 - 11.7
-4260.1,-,Dholavira,Middle Town-,46 x 43-,--,-,Period 4,6,-,- -,SEAL:R,+390-016-002-861+,complete,Y,18.7,11.4,7.4
-4261.1,-,Dholavira,Middle Town-,46 x 42-,--,-,Period 4,6,-,- -,TAB:I,]000-625+,fragment,N,0,7.9,5.3 - 5.8
-4262.1,-,Dholavira,Castle-,47 x 46 x 1-,--,-,Period 4,6,-,-70 cm,TAB:I,+400-033[,chipped,?,16.7,10.5,2.7 - 6
-4263.1,-,Dholavira,Middle Town-,45 x 4 x 2-,--,-,Period 4,6,-,- -,SEAL:R,+520-095-000[,fragment,N,0,14.8,7
-4264.1,-,Dholavira,Middle Town-,56 x 54 x 1-,--,-,Period 4,6,-,- -,SEAL:R,]000-590-820-033+,fragment,N,0,8.3,2.6
-4265.1,-,Dholavira,Middle Town-,35 x 63 x 1+4-,--,-,Period 4,6,-,165 cm,SEAL:R,]000-001-740-798-235+,fragment,N,0,13.8,4.2
-4266.1,-,Dholavira,Castle-,58 x 11 x 3-,--,-,Period 4,6,-,-84 to -94 cm,TAB:I,+443[,fragment,?,0,19.5,14.6
-4267.1,-,Dholavira,Middle Town-,65 x 64 x 1-,--,-,Period 4,6,-,-40 cm,TAB:I,+000-000+,complete,N,15.8,8.8,9.8
-4268.1,-,Dholavira,Castle-,58 x 11 x 3-,--,-,Period 4,6,-,- -,SEAL:R,]000-032+,fragment,N,0,16.8,11.4 - 13.1
-4269.1,-,Dholavira,Castle-,47 x 34 x 4-,--,-,Period 4,6,-,50-60 cm,SEAL:R,+422-003+,complete,Y,15.4,10.1,5.7
-4270.1,-,Dholavira,Middle Town-,65 x 54 x 4-,--,-,Period 4,6,-,- -,SEAL:R,]806-002-808+,fragment,?,0,13,11.8
-4271.1,-,Dholavira,Castle-,47 x 68 x 4-,--,-,Period 4,6,-,- -,SEAL:R,+365-820-000[,fragment,N,0,9.7,6.6
-4272.1,-,Dholavira,Annexe-,58 x 19 x 4-,--,DHR-26119,Period 4,6,-,455 cm,SEAL:R,+405-016-002-861+,complete,Y,26,6,0
-4273.1,-,Dholavira,Castle-,47 x 89 x 2-,--,-,Period 4,6,-,.95-119 cm,TAB:I,+000-000[,fragment,N,0,9.3,3.1
-4274.1,-,Dholavira,Castle-,47 x 67-,--,-,Period 4,6,-,50-105 cm,SEAL:R,+832-001-740-176+,complete,Y,21.1,11.4,2.9 - 5.9
-4275.1,-,Dholavira,Middle Town-,45 x 13 x 1-,--,-,Period 4,6,-,- -,SEAL:R,+090[,fragment,?,0,11.8,8.1
-4276.1,-,Dholavira,Middle Town-,35 x 73 x 1-,--,-,Period 4,6,-,26 cm,SEAL:R,]705-090-705+,fragment,?,0,16.4,12.8
-4277.1,-,Dholavira,Middle Town-,35 x 63 x 4-,--,-,Period 4,6,-,- -,SEAL:R,+740-067-900-002-003+,complete,Y,27.3,12,3.5 - 8.2
-4278.1,-,Dholavira,Lower Town-,35 x 63 x 4-,--,-,Period 4,6,-,-6 cm,TAB:I,+390-003[,fragment,?,0,17.4,12.7
-4279.1,-,Dholavira,-North ER embarkment,37 x 34 x 4-,--,-,Period 4,6,-,- -,TAB:I,+033+,complete,Y,0,0,0
-4280.1,-,Dholavira,Castle-,47 x 33 x 2-,--,-,Period 4,6,-,-94 cm,SEAL:R,]000-125-001-742+,fragment,N,0,8.7,2.6 - 6.3
-4281.1,-,Dholavira,Castle-,47 x 66 x 4-,--,-,Period 4,6,-,- -,TAB:I,+032-820-000[,fragment,N,0,12.5,3.6 - 10.8
-4282.1,-,Dholavira,CastleCitadel,47 x 83 x 2-,2 & 3-,-,Period 4,6,-,- -,TAB:I,]031-000-590+,fragment,N,21.3,11.1,1 - 7.2
-4283.1,-,Dholavira,Castle-,47 x 73 x 2-,--,-,Period 4,6,-,- -,TAB:I,]233-630[,fragment,?,0,0,0
-4284.1,-,Dholavira,Castle-,47 x 56-,--,-,Period 4,6,-,- -,SEAL:R,+590-407-790-001-746+,complete,Y,22.2,10.7,2.9 - 7.5
-4285.1,-,Dholavira,Middle Town-,55 x 52-,--,-,Period 4,6,-,- -,SEAL,+000[,fragment,N,0,0,3.1 - 6.4
-4286.1,-,Dholavira,Castle-,47 x 97 x 3-,--,-,Period 4,6,-,5 cm,TAB:I,+153-220-032+,complete,Y,32.5,14.9,4.9 - 16.3
-4287.1,-,Dholavira,Castle-,47 x 79 x 3+4-,--,-,Period 4,6,-,70 to -80 cm,SEAL:S,+740-798-706-061-060-550+,fragment,Y,26.4,0,7.1
-4288.1,-,Dholavira,Middle Town-,35 x 63 x 4-,--,-,Period 4,6,-,63-65 cm,TAG,]000-892-000[,fragment,N,0,0,0
-4289.1,-,Dholavira,Castle-,47 x 9 x 3-,--,-,Period 1C,2,-,10 cm,TAG,+000-000-000-220-240[,fragment,N,0,0,0
-4291.1,-,Dholavira,Castle-,47 x 48 x 1-,--,-,Period 3C-2,5,-,127 cm,TAG,]148-794-220[,fragment,?,0,0,0
-4292.1,-,Dholavira,South Reservoir-,48 x 45 x 4-,--,-,Period 3C-2,5,-,312 cm,TAG,+604[,fragment,?,0,0,0
-4293.1,-,Dholavira,Middle Town-,55 x 60 x 3-,--,-,Period 3C-2,5,-,150 cm,TAG,+032+,complete,Y,0,0,0
-4294.1,-,Dholavira,Lower Town-,25 x 2 x 4-,--,-,Period 3C-2,5,-,48-54 cm,TAG,]806[,fragment,?,0,0,0
-4295.1,-,Dholavira,Castle-,47 x 10 x 1-,--,-,Period 3C-2,5,-,20-25 cm,TAG,]000-000+,fragment,N,0,0,0
-4296.1,-,Dholavira,Middle Town-,35 x 94 x 2-,--,-,Period 3C-2,5,-,60 cm,TAG,]365-000[,fragment,N,0,0,0
-4297.1,-,Dholavira,East ReservoirPromenade to the west of East Reservoir,37 x 44 x 2-,--,-,-,5,-,50 cm,TAG,+740-000[,fragment,N,0,0,0
-4298.1,-,Dholavira,East ReservoirPromenade to the west of East Reservoir,37 x 75-,--,-,-,5,-,60 cm,TAG,]220-000-002-000[,fragment,N,0,0,0
-4299.1,-,Dholavira,CastleTank 1,47 x 98 x 1-,--,-,Period 4,6,-,- -,TAG,+368-900-000-741-000+,complete,N,0,0,0
-4300.1,-,Dholavira,Castle-,47 x 64 x 3-,--,-,Period 4,6,-,38 cm,TAG,]923+,complete,?,0,0,0
-4301.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+136-033+,fragment,Y,0,0,0
-4302.1,-,Dholavira,Lower Town-,35 x 34 x 2-,--,-,Period 3B-1,4,-,252 cm,TAB:B,+740-519-002-900-630+,complete,Y,35,6,0
-4303.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,]706-002-850+,fragment,?,0,0,0
-4304.1,-,Dholavira,--,--,--,DHR-6506,-,-,-,- -,TAG,]000-840-552+,fragment,N,0,0,0
-4304.2,-,Dholavira,--,--,--,DHR-6506,-,-,-,- -,TAG,+000-032-515+,fragment,N,0,0,0
-4305.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+368[,slightly chipped,?,0,0,0
-4306.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+365[,slightly chipped,?,0,0,0
-4307.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+000-000-700-617-740[,fragment,N,0,0,0
-4308.1,-,Dholavira,--,--,--,DHR-2217,-,-,-,- -,TAG,]820+,fragment,?,0,0,0
-4309.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,]817[,fragment,?,0,0,0
-4310.1,-,Dholavira,--,--,--,DHR-2617,-,-,-,- -,TAG,]002-817[,fragment,?,0,0,0
-4311.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,]820+,fragment,?,0,0,0
-4312.1,-,Dholavira,--,--,--,DHR-3557,-,-,-,- -,TAG,]000-229-705-906+,fragment,N,0,0,0
-4313.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,]032-700+,fragment,?,0,0,0
-4314.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+520-000-002-820+,complete,N,0,0,0
-4314.2,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+520-000-002-000+,complete,N,0,0,0
-4316.1,-,Dholavira,Lower Town-,35 x 04-,--,-,Period 3C-2,5,-,- -,SEAL:S,+411+,complete,Y,19.7,19.6,3.9 - 8.1
-4325.1,-,Dholavira,Middle Town-,54 x 58-,--,-,Period 3B-1,4,-,- -,SEAL:S,+520-000-000-000[,complete,N,31.3,31.7,10.4 - 13.4
-4330.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,]000-705-906-550+,fragment,N,0,0,0
-4331.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+090-740-055-000[,fragment,N,0,0,0
-4331.2,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+090-740-000[,fragment,N,0,0,0
-4332.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+090-740-000[,fragment,N,0,0,0
-4332.2,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+000-740-055-000[,fragment,N,0,0,0
-4333.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+740-585-000[,fragment,N,0,0,0
-4335.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG:PC,+000[,fragment,N,0,0,0
-4335.2,-,Dholavira,--,--,--,-,-,-,-,- -,TAG:PC,+740-032-840-220-000[,fragment,N,0,0,0
-4335.3,-,Dholavira,--,--,--,-,-,-,-,- -,TAG:PC,+740-760-000[,fragment,N,0,0,0
-4336.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG:PC,+354-794-892[,fragment,?,0,0,0
-4337.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG:PC,+740[,fragment,?,0,0,0
-4338.1,-,Dholavira,--,--,--,-,Period 3B-1,4,-,- -,TAG,]000-240[,fragment,N,0,0,0
-4339.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+094-033[,fragment,?,0,0,0
-4340.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,]000+,fragment,N,0,0,0
-4341.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,]700-090[,fragment,?,0,0,0
-4342.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,]000-000-700-000[,fragment,N,0,0,0
-4343.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+000-000-000-000[,fragment,N,0,0,0
-4344.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,]240-002-031-000[,fragment,N,0,0,0
-4345.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+000-705-002-861+,fragment,N,0,0,0
-4346.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,]000-032-840-002-000+,fragment,N,0,0,0
-4347.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,]000-803-740-000[,fragment,N,0,0,0
-4348.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,]740-142-000-002-861-390[,fragment,N,0,0,0
-4349.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,]000-100-001-832[,fragment,N,0,0,0
-4350.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+032+,complete,Y,0,0,0
-4351.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+032+,complete,Y,0,0,0
-4352.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+032+,complete,Y,0,0,0
-4353.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+032+,slightly chipped,Y,0,0,0
-4354.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,]000-741-000-000+,fragment,N,0,0,0
-4355.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,]803-000[,fragment,N,0,0,0
-4356.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,]630-000[,fragment,N,0,0,0
-4357.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,]000-032-000[,fragment,N,0,0,0
-4358.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+000-575[,fragment,N,0,0,0
-4359.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+426-000[,fragment,N,0,0,0
-4360.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,]000-317-000+,fragment,N,0,0,0
-5215.1,-,Gola Dhoro (Bagasra),Trench El 15-,--,--,BSR 2037,-,Layer 3,-,100  cm,SEAL:S,+155-005+,complete,Y,18,18,0 - 10
-5216.1,-,Gola Dhoro (Bagasra),Trench Eo 11-,--,--,BSR 6719,-,-,-,66 cm,SEAL:S,+090-740-100-415-240-820-033+,complete,Y,26.6,26.2,0
-5217.1,-,Gola Dhoro (Bagasra),Trench Ea 12-,--,--,BSR 6952,-,-,-,70-75 cm,SEAL:S,+000-000-000+,fragment,N,34.5,0,0
-5218.1,-,Gola Dhoro (Bagasra),Trench Eh 1-,--,--,BSR 7197,-,-,-,26 cm,SEAL:S,+520-070-495-240-060-297-368-632-032+,complete,Y,20.7,22.3,5.6 - 10
-5219.1,-,Gola Dhoro (Bagasra),Trench Ei 14-,--,--,BSR 8288,-,-,-,105 cm,SEAL:S,+292-352-125-741-900-322+,complete,Y,25.3,23.7,7.2 - 10
-5451.1,-,Shikarpur,--,--,--,-,-,-,-,- -,SEAL:S,+335-220-098-921-861+,partly damaged,Y,30,30,0
-5541.1,-,Shikarpur,--,--,--,-,-,-,-,- -,POT:T:p,+002-861-000[,fragment,N,0,0,0
-5543.1,-,Dholavira,--,--,--,-,-,-,-,- -,POT:T:p,+455+,fragment,Y,0,0,0
-5549.1,-,Shikarpur,--,--,--,-,-,-,-,- -,POT:T:p,]820[,fragment,?,0,0,0
-5550.1,-,Shikarpur,--,--,--,-,-,-,-,- -,POT:T:p,]002-920+,fragment,?,0,0,0
-5552.1,-,Shikarpur,--,--,--,-,-,-,-,- -,POT:T:g,]742[,fragment,?,0,0,0
-5553.1,-,Shikarpur,--,--,--,-,-,-,-,- -,POT:T:g,+392-861+,fragment,Y,0,0,0
-5554.1,-,Shikarpur,--,--,--,-,-,-,-,- -,POT:T:g,]000-590[,fragment,?,0,0,0
-5555.1,-,Shikarpur,--,--,--,-,-,-,-,- -,POT:T:g,+740-000[,fragment,N,0,0,0
-5571.1,-,Dholavira,--,--,--,-,-,-,-,- -,SEAL:R,+031-820-104-013-817+,complete,Y,0,0,0
-5579.1,-,Dholavira,--,--,--,DHR-21897,-,-,-,- -,SEAL:R,]231-226-002-031-575+,fragment,?,0,23,0
-5580.1,-,Dholavira,--,--,--,DHR-2395,-,-,-,- -,TAG,]035-171+,fragment,?,0,0,0
-5581.1,-,Dholavira,--,--,--,DHR-2394,-,-,-,- -,TAG,+000+,-,N,0,0,0
-5583.1,-,Dholavira,--,--,--,DHR-488,-,-,-,- -,POT:T:g,]740-081[,fragment,?,0,0,0
-5584.1,-,Dholavira,--,--,--,DHR-3053,-,-,-,- -,TAG,]705-000[,fragment,N,0,0,0
+id,cisi,site,area-section,block-house,room-grid,excavation-idno,time,period,phase,depth,type,text,preservation,complete,horizontal(mm),vertical(mm),thickness(mm),material,color,shape,symbol,sides,condition,signs
+126.1,-,Dholavira,--,--,--,341,-,-,-,- -,SEAL:S,+740-760-000-742-013/742-552+,complete,N,21,20,1.5,Steatite,-,square,Comp,1,Fair,6
+127.1,-,Dholavira,--,--,--,345,-,-,-,- -,SEAL:S,+151-892-032+,complete,Y,25,25,1.4,Steatite,White,square,Bull1:W,1,Good,3
+128.1,-,Dholavira,--,--,--,346,-,-,-,- -,SEAL:S,+156-019+,complete,Y,20,20,1.3,Steatite,-,square,Bull1:S,1,Fair,2
+129.1,-,Dholavira,--,--,--,347,-,-,-,- -,SEAL:S,+093-808+,complete,Y,20,20,1.2,Steatite,-,square,Bull1:J,1,Poor,2
+130.1,-,Dholavira,Bailey-,57 x 54 x 1-,--,348,Period 3B-1,4,-,230 cm,SEAL:S,+244-165/740-879-220-416-803-002-861+,chipped,Y,26.9,26.8,6.8 - 10.3,Steatite,-,square,Bull1:W,1,Fair,9
+131.1,-,Dholavira,--,--,--,349,-,-,-,- -,SEAL:S,+520-460-495+,complete,Y,18,18,8,Steatite,-,square,Bull1:S,1,Good,3
+132.1,-,Dholavira,--,--,--,358,-,-,-,- -,SEAL:S,+740-416-002-861+,complete,Y,27,26,1.3,Steatite,-,square,Tigr,1,Fair,4
+133.1,-,Dholavira,--,--,--,374,-,-,-,- -,SEAL:S,+520-460+,complete,Y,25,25,1.3,Steatite,-,square,None,1,Poor,2
+134.1,-,Dholavira,--,--,--,375,-,-,-,- -,SEAL:R,+154-388-717-705+,complete,Y,19,17,9,Steatite,-,rectangular,None,1,Fine,4
+135.1,-,Dholavira,--,--,--,376,-,-,-,- -,SEAL:R,+590-407-790-032+,complete,Y,20,11,10,Clay,-,rectangular,None,1,Fair,4
+136.1,-,Dholavira,--,--,--,377,-,-,-,- -,SEAL:R,+390-016-002-861+,complete,Y,34,35,1.5,Steatite,-,rectangular,None,1,Good,4
+137.1,-,Dholavira,--,--,--,378,-,-,-,- -,SEAL:R,+617-142+,complete,Y,22,10,10,Steatite,-,rectangular,None,1,Fair,2
+138.1,-,Dholavira,Castle-,XE 22-,--,379,-,-,-,0 -,SEAL:R,+520-033-706-233+,complete,Y,23.6,12.6,4.5 - 8.1,Steatite,Brown,cuboid-convex,None,1,Fine,4
+139.1,-,Dholavira,--,--,--,380,-,-,-,- -,SEAL:R,+740-100-407-590+,complete,Y,27,12,6,Steatite,-,rectangular,None,1,Good,4
+140.1,-,Dholavira,--,--,--,390,-,-,-,- -,TAG,+520-033[,fragment,?,15,17,6,Clay,-,-,None,1,Poor,2
+141.1,-,Dholavira,--,--,--,391,-,-,-,- -,TAG:L,+090-740-000[,fragment,N,35,32,1.5,Clay,-,-,None,1,Poor,2
+142.1,-,Dholavira,--,--,--,392,-,-,-,- -,TAG:L,+740-000+,complete,N,38,39,1.4,Clay,-,-,None,1,Poor,1
+143.1,-,Dholavira,Castle-,57 x 28 x 4-,--,403,-,-,-,- -,TAB:B,+000-400-350-031-002-817+,complete,N,30,12,17.6,Clay,Brown,rectangular,Gavi,1,Fair,5
+144.1,-,Dholavira,CastleCitadel,-W.Chamber,N.Gate-,-signboard,-,-,-,- -,MISC,+798-821-031-645-850-820-388-611-820+,complete,Y,3000,370,0,Gypsum,White,-,None,1,Fair,9
+145.1,Dlv-1,Dholavira,--,--,--,-,-,-,-,- -,SEAL:S,+151-382-031-002-861+,complete,Y,20,21,0,-,-,square,Bull1:J,1,Poor,5
+146.1,Dlv-2,Dholavira,--,--,--,-,-,-,-,- -,SEAL:R,]000-002-817+,fragment,N,0,18,6 - 21,-,-,cuboid-convex,None,1,Poor,2
+158.1,-,Gola Dhoro (Bagasra),Trench Eh 1-,--,--,BSR 7368,-,Layer 1,-,223  cm,SEAL:S,+236-140-893-861+,complete,Y,14,14,7 - 10,-,White,square,Bull1:I,1,Poor,4
+748.1,-,Dholavira,--,--,--,-,Period 3B-1,4,-,110 cm,TAG,+032+,complete,Y,0,0,0,-,Light Red,circular,Bull1,1,Fair,1
+924.1,-,Dholavira,Bailey-,--,--,-,Period 3B-1,4,-,196 cm,TAG,]000-630[,fragment,N,0,0,0,Clay,Red,-,-,1,Poor,1
+951.1,-,Dholavira,--,35 x 14-,--,DHR-9697,Period 2,2,-,297 cm,SEAL:S,+390-004-002-817+,complete,Y,22,22,0 - 9,Steatite,-,square,Bull1:U,1,Good,4
+1316.1,-,Dholavira,--,45 x 49 x 4-,--,DHR-14287,-,-,-,425 cm,SEAL:S,+520-920-320-235-175-000-820+,complete,N,41,41,0 - 15,Steatite,-,square,Bull1:W,1,Fair,6
+1576.1,-,Dholavira,--,57 x 51 x 1-,--,DHR-19050,Period 3A,3,-,- -,SEAL:S,+740-590-017+,complete,Y,20,29,0,Steatite,-,square,Bull1,1,Poor,3
+2180.1,-,Dholavira,--,58 x 51 x 1-,--,-,-,-,-,- -,SEAL:S,+740-840-416-240-741-500-091+,chipped,Y,32,32,0 - 9,Steatite,Brown and White,square,Bull1:V,1,Good,7
+2489.1,-,Dholavira,--,45 x 59 x 1-,--,DHR-25381,-,-,-,0 -,SEAL:S,+740-390-590-002-817+,complete,Y,20,20,0 - 10,Steatite,Brown and White,square,Bull1:V,1,Good,5
+2942.1,-,Dholavira,--,54 x 58 x 1 3&4-,--,DHR-24795,Period 3B-1,4,F,- -,SEAL:S,+621-740-514+,complete,Y,22,22,0 - 12,Steatite,White,square,Bull1:U,1,Fair,3
+3377.1,-,Dholavira,Middle Town-,--,--,-,-,-,-,42 cm,TAG,]000-220-000-740-000[,fragment,N,0,0,0,Clay,Grey,-,-,1,Poor,2
+3951.1,-,Dholavira,Castle-,--,--,-,Period 3B-1,4,-,320 cm,TAG,+740-000[,fragment,N,0,0,0,Clay,Grey,-,-,1,Poor,1
+3952.1,-,Dholavira,Middle Town-,--,--,-,Period 3B-1,4,-,97-110 cm,TAG,+740-220+,complete,Y,0,0,0,-,Red,-,-,1,Poor,2
+4149.1,-,Dholavira,Castle-,--,--,-,Period 3B/C,4/5,-,0 -,SEAL:S,+520-033-033+,chipped,Y,18.1,18,6 - 10.3,-,White,square,Bull1:S,1,Fair,3
+4150.1,-,Dholavira,Middle Town-,XN 1/4-,--,-,Period 3C-2,5,-,- -,SEAL,+740-760-000-000[,fragment,N,24.6,0,9.9,-,-,-,-,1,Poor,2
+4151.1,-,Dholavira,Castle-,XE-21-,--,DHR-460,Period 3C-2,5,-,130 cm,SEAL:S,+455-861-000-000-033+,complete,N,29,28,4 - 13,Steatite,White,square,Bull1,1,Poor,3
+4156.1,-,Dholavira,Bailey-,XH 34-,--,-,Period 3B/C,4/5,-,45 cm,TAG,+520-000-002-820+,complete,N,0,0,0,Clay,Red,-,Bull1,2,Poor,3
+4156.2,-,Dholavira,Bailey-,XH 34-,--,-,Period 3B/C,4/5,-,45 cm,TAG,+000-000-002-820+,complete,N,0,0,0,Clay,Red,-,Bull1,2,Poor,2
+4157.1,-,Dholavira,Middle Town-,55 x 93 x 2-,--,-,Period 3C-2,5,-,32 cm,TAG,+326-000[,fragment,N,0,0,0,Clay,Red,-,Bull1,1,Poor,1
+4158.1,-,Dholavira,East Reservoir-,37 x 75 x 3-,--,-,Period 3C-2,5,-,220 cm,TAG,+000-000-000[,fragment,N,0,0,0,Clay,Red,-,-,1,Poor,0
+4159.1,-,Dholavira,Middle Town-,56 x 51 x 2-,--,-,Period 3B/C,4/5,-,- -,SEAL:S,+368-005-741-060-920+,complete,Y,25.2,25.4,7.7 - 11.7,-,White,square,Bull1:J,1,Good,5
+4160.1,-,Dholavira,Outside Middle Town wall-,76 x 4-,--,-,-,-,-,0 -,SEAL:S,+740-000[,fragment,N,0,26.2,7.7 - 17.5,Steatite,Grey,-,Bull1,1,Fair,1
+4161.1,-,Dholavira,Middle TownS.W. corner,--,--,-,-,-,-,0 -,SEAL:R,+064-004-013-740-176+,complete,Y,0,0,0,-,-,rectangular,None,1,Good,6
+4162.1,-,Dholavira,South Reservoir5,48 x 38 x 1+2-,--,-,-,-,-,-800 cm,SEAL:S,+740-760-001-233+,slightly chipped,Y,15.4,15,4.7 - 9,Steatite,White,square,Bull1,1,Fair,4
+4163.1,-,Dholavira,-East of Castle,--,--,-,-,-,-,0 -,SEAL:S,+400-125-000+,complete,N,22.2,22.4,7.1 - 12.4,Steatite,White,square,Bull1:W,1,Poor,2
+4164.1,-,Dholavira,Middle Town-,35 x 63 x 4+1-,--,-,Period 1B,1,-,168 cm,SEAL:R,+423-003-001-423-002-031-104+,chipped,Y,28,10.3,4.8 - 8.8,Steatite,White,rectangular,None,1,Fair,7
+4165.1,-,Dholavira,Middle Town-,45 x 46 x 2-,--,-,Period 3C-2,5,-,- -,SEAL:S,+740-840-416+,complete,Y,24,23.7,7.8 - 11.8,Steatite,White,square,Bull1:V,1,Fair,3
+4166.1,-,Dholavira,Castle-,47 x 57 x 4-,--,-,-,-,-,-175 cm,TAB:I,+776-440-003-421+,complete,Y,19.2,7.1,2 - 4.2,-,White,rectangular,None,1,Good,4
+4167.1,-,Dholavira,Castle-,--,--,-,-,-,-,0 -,SEAL:R,+520-033-706+,slightly chipped,Y,21.8,14.1,10.2,Steatite,Black,rectangular,None,1,Good,3
+4168.1,-,Dholavira,Castle-,XF-22/1-,--,-,-,-,-,120 cm,SEAL:R,+840-527-002-000+,chipped,N,24.6,9.4,7.5 - 7.5,-,White,rectangular,None,1,Fair,3
+4169.1,-,Dholavira,Castle-,48 x 42 x 1-,--,-,-,-,-,-11 cm,SEAL,+031-055-000[,fragment,N,0,0,4.8,Steatite,White,-,-,1,Poor,2
+4170.1,-,Dholavira,Middle Town-,45 x 13 x 3-,--,-,-,-,-,- -,TAB:I,]000-520-220-032+,fragment,N,0,14.8,13.4,-,Blue,-,None,1,Good,3
+4171.1,-,Dholavira,Castle-,48 x 92 x 3+4-,--,-,Period 3B-1,4,-,570 cm,SEAL:S,]000-000-000-032-840-000+,chipped,N,29.3,29.3,6.1 - 11.3,-,White,square,Bull1,1,Poor,2
+4172.1,-,Dholavira,Castle-,47 x 21 x 2-,--,-,Period 3B-1,4,-,-200 cm,SEAL:S,+090-160+,complete,Y,24.2,23.9,6.7 - 11.5,-,White,square,Bull1:W,1,Poor,2
+4175.1,-,Dholavira,Castle-,47 x 98 x 3-,--,-,-,-,-,- -,SEAL:S,+156-142-741-060-920+,chipped,Y,24.2,24.9,6.7 - 10.8,-,White,square,Bull1:W,1,Good,5
+4176.1,-,Dholavira,Bailey-,57 x 57 x 2-,--,-,Period 3B-1,4,-,316 cm,SEAL:S,+148-632-031-741-000+,complete,N,23.6,22.6,6.7 - 10.3,-,White,rectangular,Bull1:W,1,Fair,4
+4177.1,-,Dholavira,East Reservoir-,37 x 35 x 1-,--,-,Period 3B-1,4,-,-740 cm,SEAL:S,+520-233-803-060-001-031-905-032-000+,complete,N,0,0,0,-,White,square,Bull1,1,Poor,8
+4178.1,-,Dholavira,Middle Town-,46 x 45 x 1+2-,--,-,Period 3B-1,4,-,-220 cm,SEAL:S,+740-000[,chipped,N,24.6,23.6,6.5 - 11.1,-,White,square,Bull1,1,Poor,1
+4179.1,-,Dholavira,Bailey-,57 x 60 x 3-,--,-,Period 3B-1,4,-,- -,SEAL:S,]000-032+,fragment,N,0,0,6.7,Steatite,White,-,Bull1,1,Poor,1
+4180.1,-,Dholavira,Bailey-,57 x 57 x 2-,--,-,Period 3B-1,4,-,367-482 cm,SEAL:S,+390-006-000[,fragment,N,0,0,6.4,-,White,-,Bull1,1,Poor,2
+4181.1,-,Dholavira,Lower Town-,37 x 28x x2+4-,--,-,Period 3B-1,4,-,-475 cm,SEAL:S,+817-130+,complete,Y,24.7,25.2,5.5 - 12.6,-,White,square,Bull1:W,1,Poor,2
+4182.1,-,Dholavira,Castle-,XF-22/4-,--,-,Period 3B-1,4,-,- -,SEAL:S,+740-390-590-231-002-705-530-904+,fragment,Y,28.6,0,6.7 - 8.8,-,White,-,Bull1,1,Fair,8
+4183.1,-,Dholavira,Annexe-,48 x 59-,--,-,Period 3B-1,4,-,-675 cm,SEAL:S,+740-798-233-742-175+,complete,Y,33.3,33.3,7.5 - 13.5,Steatite,White,square,Bull1,1,Poor,5
+4184.1,-,Dholavira,Middle Town-,45 x 63 x 4-,--,-,Period 3B-1,4,-,- -,SEAL:S,+740-032-840-803+,complete,Y,18.3,18.4,0,-,-,square,Bull1,1,Fair,4
+4185.1,-,Dholavira,Lower Town-,25 x 84 x 1-,--,-,Period 3B-1,4,-,- -,SEAL:S,+000-000-000-740-000+,slightly chipped,N,27.4,26.9,14.4 - 16.1,-,-,square,Rhin,1,Poor,1
+4186.1,-,Dholavira,Castle-,47 x 9 x 2-,--,-,Period 3B-1,4,-,-247 cm,SEAL,+360-000[,fragment,N,0,18.4,6.8,Kaolinite,White,rectangular,None,1,Poor,1
+4187.1,-,Dholavira,Lower Town-,35 x 63 x 1+4-,--,-,Period 3B-1,4,-,-168 cm,SEAL:S,+231-850+,slightly chipped,Y,18.2,16.8,3.9 - 5.3,Steatite,Brown,square,None,1,Poor,2
+4188.1,-,Dholavira,Bailey-,57 x 57 x 2-,--,-,Period 3B-1,4,-,440 cm,SEAL:S,]000-861[,fragment,N,0,0,10 - 19.8,-,Brown,-,-,1,Poor,1
+4189.1,-,Dholavira,Castle-,47 x 78 x 3-,--,-,Period 3B-1,4,-,-253 cm,SEAL:S,+400-392-631-000+,fragment,N,17.3,0,4.4 - 13,-,White,square,-,1,Poor,3
+4190.1,-,Dholavira,Castle-,47 x 88 x 3-,--,-,Period 3B-1,4,-,-297 cm,SEAL:R,+005-408+,complete,Y,18.5,10,0,-,White,rectangular,None,1,Good,2
+4191.1,-,Dholavira,Middle Town-,46 x 44 x 1-,--,-,Period 3B-1,4,-,- -,SEAL,]740-760-382/000-740-220-000[,fragment,N,0,0,8 - 13.5,-,White,-,-,1,Poor,5
+4192.1,-,Dholavira,Lower Town-,25 x 9 x 2-,--,-,Period 3B-1,4,-,- -,SEAL:S,+740-000-000-235+,fragment,N,23.7,0,6.8,Steatite,White,square,-,1,Poor,2
+4193.1,-,Dholavira,Middle Town-,56 x 55 x 4-,--,-,-,-,-,- -,MISC,]000-820[,fragment,N,0,0,0,-,Brown,-,-,1,Poor,1
+4194.1,-,Dholavira,--,45 x 58 x 1-,--,DHR-20013,-,-,-,250 cm,SEAL:R,+154-806-472-013-220-455-806+,complete,Y,30,7,0,-,White,rectangular,None,1,Good,7
+4195.1,-,Dholavira,--,55 x 52-,--,DHR-16412,-,-,-,- -,SEAL:S,+820-390-590-002-861+,complete,Y,21,21,0 - 10,Steatite,Brown,square,Bull1:V,1,Good,5
+4196.1,-,Dholavira,--,25 x 10 x 4-,--,DHR-24475,-,-,-,- -,SEAL:S,+391-002-365-550+,complete,Y,25,25,0 - 12,Steatite,-,square,Bull1:J,1,Poor,4
+4197.1,-,Dholavira,--,35 x 54 x 1-,--,-,-,-,-,- -,SEAL:R,+001-000-000-832-904-002-817+,chipped,N,0,0,0,-,Brown,rectangular,None,1,Good,5
+4198.1,-,Dholavira,--,--,--,DHR-9094,-,-,-,- -,SEAL:S,+390-550-452-060-690+,complete,Y,20,20,0 - 11,Steatite,Brown on Blue,square,Bull1:V,1,Good,5
+4199.1,-,Dholavira,--,45 x 42 x 3-,--,DHR-18114,-,-,-,32 cm,SEAL,+220-000[,fragment,N,0,0,0,Steatite,-,-,-,1,Poor,1
+4200.1,-,Dholavira,--,47 x 58 x 1-,--,-,-,-,-,- -,TAB:I,+575-031-002-226-231[,chipped,?,0,0,0,-,-,rectangular,None,1,Fair,5
+4201.1,-,Dholavira,--,47 x 78 x 3-,--,DHR-25871,-,-,-,- -,SEAL:R,+832-140-013-547+,complete,Y,19,6,0,Steatite,White,cuboid-convex,None,1,Good,5
+4202.1,-,Dholavira,--,55 x 89 x 1-,--,-,-,-,-,80 cm,SEAL:S,+416+,complete,Y,0,0,0,-,White,square,Bull2,1,Poor,1
+4203.1,-,Dholavira,Bailey-,57 x 54 x 1-,--,-,Period 3B-1,4,-,- -,SEAL:S,+463-513/390-017-002-463-575+,complete,Y,25.4,25.2,4.6 - 13.4,-,White,square,Bull1:I,1,Fair,7
+4204.1,-,Dholavira,Middle Town-,54 x 77 x 2-,--,-,Period 3B-1,4,-,- -,SEAL,]611-000[,fragment,N,0,0,0,-,White,-,-,1,Poor,1
+4205.1,-,Dholavira,Middle Town-,55 x 95 x 1-,--,-,Period 3B-1,4,-,- -,SEAL:S,+740-740-000-742+,complete,N,0,0,0,Steatite,White,square,Elep,1,Poor,3
+4206.1,-,Dholavira,Middle Town-,45 x 53 x 2-,--,-,Period 3B-1,4,-,- -,SEAL,+595-134-000[,fragment,N,0,0,5.9,Steatite,White,-,-,1,Poor,2
+4207.1,-,Dholavira,Middle Town-,35 x 53 x 1-,--,-,Period 3B-1,4,-,- -,SEAL:S,]519+,fragment,?,16.9,16.5,4.4 - 8.8,Steatite,White,square,Bull2,1,Poor,1
+4208.1,-,Dholavira,Lower Town-,25 x 7+8-,--,-,Period 3B-1,4,-,-10 cm,SEAL:S,+740-176-001-741-703-900-003+,complete,Y,28.1,28.4,9.6,Steatite,White,square,Gaur,1,Fair,7
+4209.1,-,Dholavira,Castle-,47 x 84 x 1-,--,-,Period 3B-1,4,-,-325 cm,SEAL:S,+740-384-002-629-279+,complete,Y,19.8,19.5,7.3 - 12.2,Steatite,White,square,Gaur,1,Fair,5
+4210.1,-,Dholavira,--,--,--,-,Period 3B-1,4,-,- -,SEAL:S,+520-033-705-235-803[,fragment,?,0,0,5.4,Steatite,White,-,-,1,Fair,5
+4211.1,-,Dholavira,Lower Town-,25 x 73 x 3-,--,-,Period 3B-1,4,-,-318 cm,SEAL,+740-100-235-002-817+,fragment,Y,27.2,0,7.9,-,White,-,-,1,Poor,5
+4212.1,-,Dholavira,East Reservoir-,37 x 45 x 4-,--,-,Period 3B-1,4,-,800 cm,SEAL:S,+001-111-000+,partly damaged,N,26.7,28.9,8,Steatite,Light Brown,square,Unknown,1,Fair,2
+4213.1,-,Dholavira,Middle Town-,45 x 53 x 2-,--,-,Period 3B-1,4,-,- -,SEAL:S,+151-740-000[,fragment,N,14.9,0,6 - 10.8,Steatite,White,square,?,1,Poor,2
+4214.1,-,Dholavira,Middle Town-,44 x 44 x 2-,--,-,Period 3B-1,4,-,- -,SEAL:S,+000[,fragment,N,15.5,0,3 - 5.1,Steatite,White,square,Goat,1,Poor,0
+4215.1,-,Dholavira,South Reservoir3,48 x 38 x 1+2-,--,-,Period 3B/C,4/5,-,835 cm,SEAL:S,]267-125-000[,fragment,N,0,29,7.4 - 12.2,Steatite,White,square,Bull1:U,1,Poor,2
+4216.1,-,Dholavira,-Castle  south of,38 x 94 x 2-,--,-,Period 3B/C,4/5,-,- -,SEAL:S,+520-000-235+,complete,N,24.5,22.5,3.9 - 11.2,-,-,square,None,1,Poor,2
+4217.1,-,Dholavira,Castle-,47 x 16-,--,-,Period 3B/C,4/5,-,0 -,SEAL,]000-000-000-000+,fragment,N,24.1,0,8.8,-,White,-,-,1,Poor,0
+4218.1,-,Dholavira,East Reservoir-,37 x 49 x 2-,--,-,Period 3B/C,4/5,-,- -,SEAL:S,]000-350-125-812-033+,fragment,N,0,0,6.2,Steatite,White,-,Bull1,1,Fair,4
+4219.1,-,Dholavira,Castle-,37 x 95 x 3-,--,-,Period 3B/C,4/5,-,0 -,SEAL:S,+032-820-000-900+,complete,N,21.5,21.2,7.5 - 12.5,-,White,square,Bull1:J,1,Poor,3
+4220.1,-,Dholavira,East Reservoir-,37 x 39 x 3-,--,-,Period 3B/C,4/5,-,-360 cm,SEAL:S,+520-742-861+,complete,Y,17.6,17.8,0,Steatite,Black,square,Bull1,1,Fair,3
+4221.1,-,Dholavira,South Reservoir3,48 x 38 x 1+2-,--,-,Period 3B/C,4/5,-,820 cm,SEAL:S,+740-760-234-741-740-590+,complete,Y,23.3,23.1,6.3 - 9.2,Steatite,White,square,Bull1:U,1,Fair,6
+4222.1,-,Dholavira,--,48 x 38 x 1+4-,--,-,Period 3B/C,4/5,-,-750 cm,SEAL:S,]000-615-000[,fragment,N,0,0,4.9 - 10.2,Steatite,White,-,-,1,Poor,1
+4223.1,-,Dholavira,Middle Town-,35 x 94 x 3-,--,-,Period 3B/C,4/5,-,0 -,SEAL:S,+031-151+,fragment,Y,22.2,0,4.3,Steatite,White,-,Elep,1,Poor,2
+4224.1,-,Dholavira,Lower Town-,25 x 94 x 1-,--,-,Period 3C-2,5,-,-40 cm,SEAL:S,+740-235-220+,complete,Y,20.7,20.7,6.7 - 13,-,White,square,Bull1,1,Poor,3
+4225.1,-,Dholavira,Middle Town-,45 x 94-,--,-,Period 3C-2,5,-,-71 cm,SEAL:S,+156-019+,complete,Y,21.2,21,7.1 - 12.9,Steatite,White,square,Bull1:S,1,Good,2
+4226.1,-,Dholavira,Middle Town-,44 x 49 x 3-,--,-,Period 3C-2,5,-,- -,SEAL:S,+400-740-920+,complete,Y,21.2,20.3,5.3 - 10.1,Steatite,White,square,Bull1,1,Poor,3
+4227.1,-,Dholavira,Middle Town-,55 x 56 x 4-,--,-,Period 3C-2,5,-,- -,SEAL:S,+740-630-098-368-824+,complete,Y,29.4,28.8,6.4 - 13.9,-,Light Brown,square,Bull1,1,Poor,5
+4228.1,-,Dholavira,Middle Town-,55 x 52-,--,-,Period 3C-2,5,-,- -,SEAL:S,+740-000-000-000-590+,complete,N,24.9,24.9,6 - 9.8,Steatite,White,square,Bull1,1,Poor,2
+4229.1,-,Dholavira,East Reservoir-,37 x 35 x 1-,--,-,Period 3C-2,5,-,-280 cm,SEAL:S,+740-390-590-220-463-240-001-820-060+,slightly chipped,Y,24.2,23.9,6 - 11.4,Steatite,White,square,Bull1:V,1,Fair,9
+4230.1,-,Dholavira,Middle Town-,XN 1.4-,--,-,Period 3C-2,5,-,- -,SEAL:S,]000+,fragment,N,34.3,0,9.6 - 14.6,-,White,square,Bull1:J,1,Poor,0
+4231.1,-,Dholavira,Lower Town-,35 x 12 x 3-,--,-,Period 3C-2,5,-,- -,SEAL:S,+000-798-701+,complete,N,28.9,27.2,7 - 11.3,-,-,square,Bull1:S,1,Poor,2
+4232.1,-,Dholavira,Castle-,48 x 1 x 1-,--,-,Period 3C-2,5,-,-20 cm,SEAL:S,+520-235+,complete,Y,24,24,7.7,-,White,square,Bull1:J,1,Fair,2
+4233.1,-,Dholavira,Castle-,A 14/2-,--,-,Period 3C-2,5,-,- -,SEAL:S,+423-003-031-005-130-090-000[,chipped,N,0,27.3,8.3 - 11.8,-,White,square,Bull1,1,Fair,6
+4234.1,-,Dholavira,-Outside castle,37 x 85 x 1-,--,-,Period 3C-2,5,-,170 cm,SEAL:S,]000-000-002-820+,fragment,N,31.4,0,7.7,-,White,-,Bull1,1,Poor,2
+4235.1,-,Dholavira,Middle Town-,54 x 58 x 2-,--,-,Period 3C-2,5,-,- -,SEAL,]820-066-415+,fragment,?,0,0,16,Steatite,Blue White,-,-,1,Poor,3
+4236.1,-,Dholavira,-Outside Bailey,48 x 41 x 1-,--,-,Period 3C-2,5,-,- -,SEAL:S,+740-760-175-220-255+,complete,Y,20.8,20.7,5.9 - 8.3,-,Light Brown,square,Bull1:S,1,Fair,5
+4237.1,-,Dholavira,Lower Town-,ZA-12:2-,--,-,Period 3C-2,5,-,-8 cm,SEAL:S,+151-032-388-002-390-705+,fragment,Y,27.6,0,7.1 - 11.2,-,White,square,Bull1:I,1,Fair,6
+4238.1,-,Dholavira,Lower Town-,35 x 54 x 1-,--,-,Period 3C-2,5,-,- -,SEAL:S,]000-000-032+,fragment,N,21.1,20.7,7.6,Steatite,White,square,Bull1,1,Poor,1
+4239.1,-,Dholavira,Middle Town-,55 x 66 x 3-,--,-,Period 3C-2,5,-,-25 cm,SEAL:S,+090-095-741-374-132+,slightly chipped,Y,25.2,24.1,7.5 - 10.3,Steatite,White,square,Bull1:I,1,Poor,5
+4240.1,-,Dholavira,Middle Town-,45 x 74-,--,DHR-10616,Period 3C-2,5,-,77 cm,SEAL:S,+151-142+,complete,Y,21,21,0 - 11,Steatite,Light Brown,square,Bull1:I,1,Good,2
+4241.1,-,Dholavira,Bailey-,57 x 57 x 3-,--,-,Period 3C-2,5,-,- -,SEAL,]000-740-798-000[,fragment,N,0,0,9.1,Steatite,White,-,-,1,Fair,2
+4242.1,-,Dholavira,Middle Town-,55 x 34 x 1+4-,--,-,Period 3C-2,5,-,87 cm,TAB:I,+004-408+,complete,Y,10.4,8.7,2.1,-,Blue,rectangular,None,1,Good,2
+4243.1,-,Dholavira,Middle Town-,45 x 13-,--,-,Period 3C-2,5,-,- -,TAB:I,]520-175[,fragment,?,0,0,7,-,Light Brown,-,None,1,Poor,2
+4244.1,-,Dholavira,Middle Town-,45 x 54 x 1-,--,-,Period 3C-2,5,-,-56 cm,MISC,+033-705-233-235-002-457+,chipped,Y,0,0,23.4,Steatite,Brown,-,-,1,Poor,6
+4244.2,-,Dholavira,Middle Town-,45 x 54 x 1-,--,-,Period 3C-2,5,-,-56 cm,MISC,+233-776+,chipped,Y,0,0,23.4,Steatite,Brown,-,-,1,Poor,2
+4245.1,-,Dholavira,Middle Town-,35 x 73 x 4-,--,-,Period 3C-2,5,-,-48 cm,SEAL:S,+740-798[,fragment,?,0,0,6.5 - 10.6,-,White,square,-,1,Fair,2
+4246.1,-,Dholavira,Middle Town-,35 x 73 x 3+4-,--,DHR 48567,Period 3C-2,5,-,-79 cm,SEAL:S,+592+,complete,Y,25.6,25.3,6.2 - 11,-,-,square,Zebu,1,Fair,1
+4247.1,-,Dholavira,Lower Town-,35 x 13 x 4-,--,-,Period 3C-2,5,-,- -,SEAL:C,+806-091-001-368-255-000+,slightly chipped,N,0,0,6.3,Steatite,-,circular,Gaur,1,Poor,5
+4248.1,-,Dholavira,Middle Town-,46 x 62 x 2-,--,-,Period 3C-2,5,-,-105 cm,SEAL:S,+740-000-000[,fragment,N,29.5,27.6,8.3 - 14.3,-,White,-,-,1,Poor,1
+4249.1,-,Dholavira,Lower Town-,24 x 7 x 3-,--,-,Period 3C-2,5,-,- -,SEAL:S,+705-000-000+,fragment,N,0,15,4.6,Steatite,White,square,Gaur,1,Poor,1
+4250.1,-,Dholavira,Middle TownGreat multipurpose ground,66 x 57 x 1-,--,-,Period 3C-2,5,-,- -,SEAL:S,+520-090-803-564-741-798-892+,fragment,Y,30.2,0,9,-,White,square,-,1,Fair,7
+4251.1,-,Dholavira,Middle Town-,46 x 23 x 4-,--,-,Period 3C-2,5,-,- -,SEAL:S,+255-014-000+,complete,N,20.7,20,5.8 - 12.6,-,White,square,-,1,Poor,2
+4252.1,-,Dholavira,Middle Town-,55 x 76 x 2-,--,-,Period 3C-2,5,-,0.28 cm,SEAL:S,+740-760-175-002-000[,fragment,N,0,29.2,6.6 - 12.7,-,White,square,Bull1:V,1,Fair,4
+4253.1,-,Dholavira,Middle Town-,45 x 40 x 2-,--,-,Period 3C-2,5?,-,0 -,SEAL:S,]000-572-090+,fragment,N,0,0,12.5 - 20.3,Steatite,White,-,Bull1,1,Fair,2
+4254.1,-,Dholavira,Middle Town-,55 x 86 x 4-,--,-,Period 3C-4,5/6,-,- -,SEAL:R,+561-092-625-900+,slightly chipped,Y,18.1,7.1,5.6,Steatite,White,prism,None,1,Fair,4
+4255.1,-,Dholavira,Middle Town-,ZA 1/1-,--,-,Period 4,6,-,- -,SEAL,+000-740-000[,fragment,N,0,23,17.9,-,-,rectangular,None,1,Poor,1
+4256.1,-,Dholavira,Middle Town-,ZA-11x1-,--,-,Period 4,6,-,-27 cm,TAB:I,+236-231-000[,fragment,N,0,15.5,0,-,White,rectangular,None,1,Poor,2
+4257.1,-,Dholavira,Castle-,47 x 10 x 2-,--,-,Period 4,6,-,15 cm,SEAL:R,]000-091+,fragment,N,0,21.2,12.8,-,-,rectangular,None,1,Poor,1
+4258.1,-,Dholavira,Castle-,47 x 47 x 4-,--,-,Period 4,6,-,- -,TAB:I,+892-033+,complete,Y,27.2,15.1,11,-,-,rectangular,None,1,Poor,2
+4259.1,-,Dholavira,Middle Town-,46 x 44 x 2-,--,-,Period 4,6,-,-190 cm,SEAL,]000-625-000+,fragment,N,22.5,0,3.2 - 11.7,-,-,-,-,1,Poor,1
+4260.1,-,Dholavira,Middle Town-,46 x 43-,--,-,Period 4,6,-,- -,SEAL:R,+390-016-002-861+,complete,Y,18.7,11.4,7.4,-,-,rectangular,None,1,Fair,4
+4261.1,-,Dholavira,Middle Town-,46 x 42-,--,-,Period 4,6,-,- -,TAB:I,]000-625+,fragment,N,0,7.9,5.3 - 5.8,-,-,rectangular,None,1,Poor,1
+4262.1,-,Dholavira,Castle-,47 x 46 x 1-,--,-,Period 4,6,-,-70 cm,TAB:I,+400-033[,chipped,?,16.7,10.5,2.7 - 6,-,-,rectangular,None,1,Poor,2
+4263.1,-,Dholavira,Middle Town-,45 x 4 x 2-,--,-,Period 4,6,-,- -,SEAL:R,+520-095-000[,fragment,N,0,14.8,7,-,-,rectangular,None,1,Poor,2
+4264.1,-,Dholavira,Middle Town-,56 x 54 x 1-,--,-,Period 4,6,-,- -,SEAL:R,]000-590-820-033+,fragment,N,0,8.3,2.6,Steatite,White,rectangular,None,1,Fair,3
+4265.1,-,Dholavira,Middle Town-,35 x 63 x 1+4-,--,-,Period 4,6,-,165 cm,SEAL:R,]000-001-740-798-235+,fragment,N,0,13.8,4.2,Steatite,White,rectangular,None,1,Fair,4
+4266.1,-,Dholavira,Castle-,58 x 11 x 3-,--,-,Period 4,6,-,-84 to -94 cm,TAB:I,+443[,fragment,?,0,19.5,14.6,-,-,cuboid-convex,None,1,Poor,1
+4267.1,-,Dholavira,Middle Town-,65 x 64 x 1-,--,-,Period 4,6,-,-40 cm,TAB:I,+000-000+,complete,N,15.8,8.8,9.8,-,-,rectangular,None,1,Poor,0
+4268.1,-,Dholavira,Castle-,58 x 11 x 3-,--,-,Period 4,6,-,- -,SEAL:R,]000-032+,fragment,N,0,16.8,11.4 - 13.1,-,White,rectangular,None,1,Poor,1
+4269.1,-,Dholavira,Castle-,47 x 34 x 4-,--,-,Period 4,6,-,50-60 cm,SEAL:R,+422-003+,complete,Y,15.4,10.1,5.7,Steatite,Yellow-Brown,rectangular,None,1,Good,2
+4270.1,-,Dholavira,Middle Town-,65 x 54 x 4-,--,-,Period 4,6,-,- -,SEAL:R,]806-002-808+,fragment,?,0,13,11.8,-,-,rectangular,None,1,Poor,3
+4271.1,-,Dholavira,Castle-,47 x 68 x 4-,--,-,Period 4,6,-,- -,SEAL:R,+365-820-000[,fragment,N,0,9.7,6.6,-,-,rectangular,None,1,Poor,2
+4272.1,-,Dholavira,Annexe-,58 x 19 x 4-,--,DHR-26119,Period 4,6,-,455 cm,SEAL:R,+405-016-002-861+,complete,Y,26,6,0,Steatite,White,cuboid-convex,None,1,Good,4
+4273.1,-,Dholavira,Castle-,47 x 89 x 2-,--,-,Period 4,6,-,.95-119 cm,TAB:I,+000-000[,fragment,N,0,9.3,3.1,-,-,rectangular,None,1,Poor,0
+4274.1,-,Dholavira,Castle-,47 x 67-,--,-,Period 4,6,-,50-105 cm,SEAL:R,+832-001-740-176+,complete,Y,21.1,11.4,2.9 - 5.9,-,-,rectangular,None,1,Fair,4
+4275.1,-,Dholavira,Middle Town-,45 x 13 x 1-,--,-,Period 4,6,-,- -,SEAL:R,+090[,fragment,?,0,11.8,8.1,-,-,rectangular,None,1,Poor,1
+4276.1,-,Dholavira,Middle Town-,35 x 73 x 1-,--,-,Period 4,6,-,26 cm,SEAL:R,]705-090-705+,fragment,?,0,16.4,12.8,-,White,rectangular,None,1,Poor,3
+4277.1,-,Dholavira,Middle Town-,35 x 63 x 4-,--,-,Period 4,6,-,- -,SEAL:R,+740-067-900-002-003+,complete,Y,27.3,12,3.5 - 8.2,-,-,rectangular,None,1,Poor,5
+4278.1,-,Dholavira,Lower Town-,35 x 63 x 4-,--,-,Period 4,6,-,-6 cm,TAB:I,+390-003[,fragment,?,0,17.4,12.7,-,-,rectangular,None,1,Poor,2
+4279.1,-,Dholavira,-North ER embarkment,37 x 34 x 4-,--,-,Period 4,6,-,- -,TAB:I,+033+,complete,Y,0,0,0,-,White,rectangular,None,1,Poor,1
+4280.1,-,Dholavira,Castle-,47 x 33 x 2-,--,-,Period 4,6,-,-94 cm,SEAL:R,]000-125-001-742+,fragment,N,0,8.7,2.6 - 6.3,-,White,rectangular,None,1,Fair,3
+4281.1,-,Dholavira,Castle-,47 x 66 x 4-,--,-,Period 4,6,-,- -,TAB:I,+032-820-000[,fragment,N,0,12.5,3.6 - 10.8,-,White,rectangular,None,1,Poor,2
+4282.1,-,Dholavira,CastleCitadel,47 x 83 x 2-,2 & 3-,-,Period 4,6,-,- -,TAB:I,]031-000-590+,fragment,N,21.3,11.1,1 - 7.2,-,-,rectangular,None,1,Poor,2
+4283.1,-,Dholavira,Castle-,47 x 73 x 2-,--,-,Period 4,6,-,- -,TAB:I,]233-630[,fragment,?,0,0,0,-,-,rectangular,None,1,Poor,2
+4284.1,-,Dholavira,Castle-,47 x 56-,--,-,Period 4,6,-,- -,SEAL:R,+590-407-790-001-746+,complete,Y,22.2,10.7,2.9 - 7.5,-,White,rectangular,None,1,Fair,5
+4285.1,-,Dholavira,Middle Town-,55 x 52-,--,-,Period 4,6,-,- -,SEAL,+000[,fragment,N,0,0,3.1 - 6.4,-,White,-,-,1,Poor,0
+4286.1,-,Dholavira,Castle-,47 x 97 x 3-,--,-,Period 4,6,-,5 cm,TAB:I,+153-220-032+,complete,Y,32.5,14.9,4.9 - 16.3,-,White,rectangular,None,1,Fair,3
+4287.1,-,Dholavira,Castle-,47 x 79 x 3+4-,--,-,Period 4,6,-,70 to -80 cm,SEAL:S,+740-798-706-061-060-550+,fragment,Y,26.4,0,7.1,Steatite,White,-,-,1,Fair,6
+4288.1,-,Dholavira,Middle Town-,35 x 63 x 4-,--,-,Period 4,6,-,63-65 cm,TAG,]000-892-000[,fragment,N,0,0,0,Clay,Red,-,-,1,Fair,1
+4289.1,-,Dholavira,Castle-,47 x 9 x 3-,--,-,Period 1C,2,-,10 cm,TAG,+000-000-000-220-240[,fragment,N,0,0,0,Clay,Red,-,-,1,Poor,2
+4291.1,-,Dholavira,Castle-,47 x 48 x 1-,--,-,Period 3C-2,5,-,127 cm,TAG,]148-794-220[,fragment,?,0,0,0,-,Red,-,-,1,Fair,3
+4292.1,-,Dholavira,South Reservoir-,48 x 45 x 4-,--,-,Period 3C-2,5,-,312 cm,TAG,+604[,fragment,?,0,0,0,-,Grey,-,-,1,Good,1
+4293.1,-,Dholavira,Middle Town-,55 x 60 x 3-,--,-,Period 3C-2,5,-,150 cm,TAG,+032+,complete,Y,0,0,0,-,Light Red,-,Bull1,1,Fair,1
+4294.1,-,Dholavira,Lower Town-,25 x 2 x 4-,--,-,Period 3C-2,5,-,48-54 cm,TAG,]806[,fragment,?,0,0,0,-,Light Grey,-,-,1,Fair,1
+4295.1,-,Dholavira,Castle-,47 x 10 x 1-,--,-,Period 3C-2,5,-,20-25 cm,TAG,]000-000+,fragment,N,0,0,0,-,Grey,-,-,1,Poor,0
+4296.1,-,Dholavira,Middle Town-,35 x 94 x 2-,--,-,Period 3C-2,5,-,60 cm,TAG,]365-000[,fragment,N,0,0,0,-,Red,-,-,1,Fair,1
+4297.1,-,Dholavira,East ReservoirPromenade to the west of East Reservoir,37 x 44 x 2-,--,-,-,5,-,50 cm,TAG,+740-000[,fragment,N,0,0,0,-,Grey,-,-,1,Good,1
+4298.1,-,Dholavira,East ReservoirPromenade to the west of East Reservoir,37 x 75-,--,-,-,5,-,60 cm,TAG,]220-000-002-000[,fragment,N,0,0,0,-,Red,-,-,1,Poor,2
+4299.1,-,Dholavira,CastleTank 1,47 x 98 x 1-,--,-,Period 4,6,-,- -,TAG,+368-900-000-741-000+,complete,N,0,0,0,-,Red,square,Bull1,1,Poor,3
+4300.1,-,Dholavira,Castle-,47 x 64 x 3-,--,-,Period 4,6,-,38 cm,TAG,]923+,complete,?,0,0,0,-,Red,circular,-,1,Fair,1
+4301.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+136-033+,fragment,Y,0,0,0,-,-,circular,-,1,Poor,2
+4302.1,-,Dholavira,Lower Town-,35 x 34 x 2-,--,-,Period 3B-1,4,-,252 cm,TAB:B,+740-519-002-900-630+,complete,Y,35,6,0,Terracotta,Red,cuboid-convex,Scene,1,Good,5
+4303.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,]706-002-850+,fragment,?,0,0,0,-,Red,square,Bull1,1,Poor,3
+4304.1,-,Dholavira,--,--,--,DHR-6506,-,-,-,- -,TAG,]000-840-552+,fragment,N,0,0,0,terracotta,-,-,None,2,Fair,2
+4304.2,-,Dholavira,--,--,--,DHR-6506,-,-,-,- -,TAG,+000-032-515+,fragment,N,0,0,0,terracotta,-,-,None,2,Fair,2
+4305.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+368[,slightly chipped,?,0,0,0,-,-,-,-,1,Fair,1
+4306.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+365[,slightly chipped,?,0,0,0,-,-,-,-,1,Poor,1
+4307.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+000-000-700-617-740[,fragment,N,0,0,0,-,-,-,-,1,Poor,3
+4308.1,-,Dholavira,--,--,--,DHR-2217,-,-,-,- -,TAG,]820+,fragment,?,0,0,0,terracotta,-,-,Bull1,1,Fair,1
+4309.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,]817[,fragment,?,0,0,0,-,-,-,-,1,Poor,1
+4310.1,-,Dholavira,--,--,--,DHR-2617,-,-,-,- -,TAG,]002-817[,fragment,?,0,0,0,terracotta,-,-,-,1,Fair,2
+4311.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,]820+,fragment,?,0,0,0,-,-,-,Bull1,1,Good,1
+4312.1,-,Dholavira,--,--,--,DHR-3557,-,-,-,- -,TAG,]000-229-705-906+,fragment,N,0,0,0,terracotta,-,-,Bull1,1,Poor,3
+4313.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,]032-700+,fragment,?,0,0,0,-,-,-,-,1,Poor,2
+4314.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+520-000-002-820+,complete,N,0,0,0,-,-,-,Bull1,1,Poor,3
+4314.2,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+520-000-002-000+,complete,N,0,0,0,-,-,-,Bull1,1,Poor,2
+4316.1,-,Dholavira,Lower Town-,35 x 04-,--,-,Period 3C-2,5,-,- -,SEAL:S,+411+,complete,Y,19.7,19.6,3.9 - 8.1,-,-,square,Comp,1,Fair,1
+4325.1,-,Dholavira,Middle Town-,54 x 58-,--,-,Period 3B-1,4,-,- -,SEAL:S,+520-000-000-000[,complete,N,31.3,31.7,10.4 - 13.4,-,White,square,Bull1,1,Poor,1
+4330.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,]000-705-906-550+,fragment,N,0,0,0,-,-,-,-,1,Poor,3
+4331.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+090-740-055-000[,fragment,N,0,0,0,-,-,rectangular,-,2,Poor,3
+4331.2,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+090-740-000[,fragment,N,0,0,0,-,-,rectangular,-,2,Poor,2
+4332.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+090-740-000[,fragment,N,0,0,0,-,-,-,-,2,Poor,2
+4332.2,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+000-740-055-000[,fragment,N,0,0,0,-,-,-,-,2,Poor,2
+4333.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+740-585-000[,fragment,N,0,0,0,-,-,-,-,1,Poor,2
+4335.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG:PC,+000[,fragment,N,0,0,0,-,-,-,-,3,Fair,0
+4335.2,-,Dholavira,--,--,--,-,-,-,-,- -,TAG:PC,+740-032-840-220-000[,fragment,N,0,0,0,-,-,-,-,3,Fair,4
+4335.3,-,Dholavira,--,--,--,-,-,-,-,- -,TAG:PC,+740-760-000[,fragment,N,0,0,0,-,-,-,-,3,Fair,2
+4336.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG:PC,+354-794-892[,fragment,?,0,0,0,-,-,-,-,1,Poor,3
+4337.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG:PC,+740[,fragment,?,0,0,0,-,-,-,-,1,Poor,1
+4338.1,-,Dholavira,--,--,--,-,Period 3B-1,4,-,- -,TAG,]000-240[,fragment,N,0,0,0,Clay,-,-,-,1,Fair,1
+4339.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+094-033[,fragment,?,0,0,0,Clay,-,-,-,1,Poor,2
+4340.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,]000+,fragment,N,0,0,0,Clay,-,-,-,1,Poor,0
+4341.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,]700-090[,fragment,?,0,0,0,Clay,-,-,-,1,Poor,2
+4342.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,]000-000-700-000[,fragment,N,0,0,0,Clay,-,-,-,1,Poor,1
+4343.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+000-000-000-000[,fragment,N,0,0,0,Clay,-,-,-,1,Poor,0
+4344.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,]240-002-031-000[,fragment,N,0,0,0,Clay,-,-,-,1,Fair,3
+4345.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+000-705-002-861+,fragment,N,0,0,0,Clay,-,square,Bull1,1,Fair,3
+4346.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,]000-032-840-002-000+,fragment,N,0,0,0,Clay,-,-,Bull1,1,Poor,3
+4347.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,]000-803-740-000[,fragment,N,0,0,0,Clay,Red,-,-,1,Poor,2
+4348.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,]740-142-000-002-861-390[,fragment,N,0,0,0,Clay,-,-,-,1,Poor,5
+4349.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,]000-100-001-832[,fragment,N,0,0,0,Clay,-,-,-,1,Poor,3
+4350.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+032+,complete,Y,0,0,0,Terracotta,-,circular,Bull1,1,Poor,1
+4351.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+032+,complete,Y,0,0,0,Terracotta,-,circular,Bull1,1,Fair,1
+4352.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+032+,complete,Y,0,0,0,Terracotta,-,circular,Bull1,1,Poor,1
+4353.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+032+,slightly chipped,Y,0,0,0,Terracotta,-,-,Bull1,1,Poor,1
+4354.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,]000-741-000-000+,fragment,N,0,0,0,Terracotta,-,-,Bull1,1,Poor,1
+4355.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,]803-000[,fragment,N,0,0,0,Clay,-,-,-,1,Poor,1
+4356.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,]630-000[,fragment,N,0,0,0,Clay,-,-,-,1,Poor,1
+4357.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,]000-032-000[,fragment,N,0,0,0,Clay,-,-,-,1,Poor,1
+4358.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+000-575[,fragment,N,0,0,0,Clay,-,-,-,1,Poor,1
+4359.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,+426-000[,fragment,N,0,0,0,Clay,-,-,-,1,Fair,1
+4360.1,-,Dholavira,--,--,--,-,-,-,-,- -,TAG,]000-317-000+,fragment,N,0,0,0,Clay,-,-,?,1,Poor,1
+5215.1,-,Gola Dhoro (Bagasra),Trench El 15-,--,--,BSR 2037,-,Layer 3,-,100  cm,SEAL:S,+155-005+,complete,Y,18,18,0 - 10,-,White,square,Bull1:L,1,Good,2
+5216.1,-,Gola Dhoro (Bagasra),Trench Eo 11-,--,--,BSR 6719,-,-,-,66 cm,SEAL:S,+090-740-100-415-240-820-033+,complete,Y,26.6,26.2,0,-,Yellow-Gray,square,Bull1:S,1,Poor,7
+5217.1,-,Gola Dhoro (Bagasra),Trench Ea 12-,--,--,BSR 6952,-,-,-,70-75 cm,SEAL:S,+000-000-000+,fragment,N,34.5,0,0,-,-,-,Bull1,1,Poor,0
+5218.1,-,Gola Dhoro (Bagasra),Trench Eh 1-,--,--,BSR 7197,-,-,-,26 cm,SEAL:S,+520-070-495-240-060-297-368-632-032+,complete,Y,20.7,22.3,5.6 - 10,-,-,square,Bull1:I,1,Good,9
+5219.1,-,Gola Dhoro (Bagasra),Trench Ei 14-,--,--,BSR 8288,-,-,-,105 cm,SEAL:S,+292-352-125-741-900-322+,complete,Y,25.3,23.7,7.2 - 10,-,Yellow-Gray,square,Bull1:I,1,Poor,6
+5451.1,-,Shikarpur,--,--,--,-,-,-,-,- -,SEAL:S,+335-220-098-921-861+,partly damaged,Y,30,30,0,Steatite,-,-,Rhin,1,Good,5
+5541.1,-,Shikarpur,--,--,--,-,-,-,-,- -,POT:T:p,+002-861-000[,fragment,N,0,0,0,Clay,Black,-,-,1,Fair,2
+5543.1,-,Dholavira,--,--,--,-,-,-,-,- -,POT:T:p,+455+,fragment,Y,0,0,0,Ceramic,Black,-,-,1,Poor,1
+5549.1,-,Shikarpur,--,--,--,-,-,-,-,- -,POT:T:p,]820[,fragment,?,0,0,0,Ceramic,-,-,-,1,Poor,1
+5550.1,-,Shikarpur,--,--,--,-,-,-,-,- -,POT:T:p,]002-920+,fragment,?,0,0,0,Ceramic,-,-,-,1,Poor,2
+5552.1,-,Shikarpur,--,--,--,-,-,-,-,- -,POT:T:g,]742[,fragment,?,0,0,0,Clay,-,-,-,1,Poor,1
+5553.1,-,Shikarpur,--,--,--,-,-,-,-,- -,POT:T:g,+392-861+,fragment,Y,0,0,0,Clay,-,-,None,1,Poor,2
+5554.1,-,Shikarpur,--,--,--,-,-,-,-,- -,POT:T:g,]000-590[,fragment,?,0,0,0,Clay,-,-,-,1,Poor,1
+5555.1,-,Shikarpur,--,--,--,-,-,-,-,- -,POT:T:g,+740-000[,fragment,N,0,0,0,Clay,-,-,-,1,Poor,1
+5571.1,-,Dholavira,--,--,--,-,-,-,-,- -,SEAL:R,+031-820-104-013-817+,complete,Y,0,0,0,-,Grey,-,None,1,Good,5
+5579.1,-,Dholavira,--,--,--,DHR-21897,-,-,-,- -,SEAL:R,]231-226-002-031-575+,fragment,?,0,23,0,Steatite,-,cuboid-convex,None,1,Good,5
+5580.1,-,Dholavira,--,--,--,DHR-2395,-,-,-,- -,TAG,]035-171+,fragment,?,0,0,0,terracotta,-,-,Bull,1,Fair,2
+5581.1,-,Dholavira,--,--,--,DHR-2394,-,-,-,- -,TAG,+000+,-,N,0,0,0,terracotta,-,-,-,1,Poor,0
+5583.1,-,Dholavira,--,--,--,DHR-488,-,-,-,- -,POT:T:g,]740-081[,fragment,?,0,0,0,terracotta,Red,-,-,1,Poor,2
+5584.1,-,Dholavira,--,--,--,DHR-3053,-,-,-,- -,TAG,]705-000[,fragment,N,0,0,0,terracotta,-,-,-,1,Poor,1

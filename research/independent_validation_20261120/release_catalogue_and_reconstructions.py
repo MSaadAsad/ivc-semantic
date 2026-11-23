@@ -37,7 +37,7 @@ for name,dest in folders:
             else:shutil.copy2(src/f,dest/f)
     if name in {'context_validation','capacity_validation'}:shutil.copy2(src/'run.py',dest/'run.py')
     if name=='context_associations':
-        for script in ['animal_followup_feasibility.py','animal_die_followup.py','lothal_tables.py','lothal_tables_report.py','western_sites.py','western_sites_extract.py']:
+        for script in ['animal_followup_feasibility.py','animal_die_followup.py','lothal_tables.py','lothal_tables_report.py','western_sites.py','western_sites_extract.py','western_sites_identity.py']:
             shutil.copy2(src/script,dest/script)
         shutil.copytree(src/'lothal_inputs',dest/'lothal_inputs',dirs_exist_ok=True)
         shutil.copytree(src/'western_sites_inputs',dest/'western_sites_inputs',dirs_exist_ok=True)
@@ -51,10 +51,10 @@ for f in list(REPO.glob('READINGS*.md'))+[REPO/'CORPUS.md']:shutil.copy2(f,books
 for _,folder in folders:
     with zipfile.ZipFile(folder.with_suffix('.zip'),'w',zipfile.ZIP_DEFLATED) as z:
         for f in folder.rglob('*'):
-            if f.is_file() and (f.suffix!='.png' or f.name in {'jar_marks_comparison.png','open_rebus_priority.png','table-30.png','table-40.png','table-44.png'}) and 'preview' not in f.name and '.inspect.' not in f.name:z.write(f,Path(folder.name)/f.relative_to(folder))
+            if f.is_file() and (f.suffix!='.png' or f.name in {'jar_marks_comparison.png','open_rebus_priority.png','table-30.png','table-40.png','table-44.png','4608_published_signs.png'}) and 'preview' not in f.name and '.inspect.' not in f.name:z.write(f,Path(folder.name)/f.relative_to(folder))
     print(folder.with_suffix('.zip'))
 with zipfile.ZipFile(root/'ivc-research-with-findspots.zip','w',zipfile.ZIP_DEFLATED) as z:
     for _,folder in folders:
         for f in folder.rglob('*'):
-            if f.is_file() and (f.suffix!='.png' or f.name in {'jar_marks_comparison.png','open_rebus_priority.png','table-30.png','table-40.png','table-44.png'}) and 'preview' not in f.name and '.inspect.' not in f.name:z.write(f,Path(folder.name)/f.relative_to(folder))
+            if f.is_file() and (f.suffix!='.png' or f.name in {'jar_marks_comparison.png','open_rebus_priority.png','table-30.png','table-40.png','table-44.png','4608_published_signs.png'}) and 'preview' not in f.name and '.inspect.' not in f.name:z.write(f,Path(folder.name)/f.relative_to(folder))
 print(root/'ivc-research-with-findspots.zip')

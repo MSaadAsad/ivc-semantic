@@ -16,5 +16,8 @@
   "semantic_validation_tests_run": 0,
   "independently_identified_contents": 0,
   "colab_units": 0,
-  "addition": "Published source-context records and explicitly provisional links; no new transcribed inscriptions or confirmed object joins."
+  "accepted_documentary_context_objects": 2,
+  "accepted_documentary_context_faces": 3,
+  "unresolved_source_object_pairs": 19,
+  "addition": "Published source-context records, two supported documentary context links, and unresolved alternatives. No new transcriptions or independently authenticated physical specimens."
 }

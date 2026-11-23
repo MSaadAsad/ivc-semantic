@@ -69,7 +69,7 @@ def extract(cache, metadata):
     with metadata.open() as f:
         old=list(csv.DictReader(f))
     selected=[r for r in old if r['site'] in {'Dholavira','Gola Dhoro (Bagasra)','Shikarpur'}]
-    fields=['id','cisi','site','area-section','block-house','room-grid','excavation-idno','time','period','phase','depth','type','text','preservation','complete','horizontal(mm)','vertical(mm)','thickness(mm)']
+    fields=['id','cisi','site','area-section','block-house','room-grid','excavation-idno','time','period','phase','depth','type','text','preservation','complete','horizontal(mm)','vertical(mm)','thickness(mm)','material','color','shape','symbol','sides','condition','signs']
     write('existing_catalogue_subset.csv',[{k:r[k] for k in fields} for r in selected])
     print(json.dumps(dict(source_entries=len(source),distinct_accessions=len({r['accession'] for r in source}),existing_metadata_faces=len(selected)),indent=2))
 
