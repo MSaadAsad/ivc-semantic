@@ -1,0 +1,117 @@
+{
+  "primary_objects": 4,
+  "original_selected_objects": 3,
+  "conditional_extra_objects": 2,
+  "uncertain_readings_excluded": 2,
+  "primary_models": 3,
+  "primary_folds": 12,
+  "all_scope_folds": 69,
+  "primary_score": "root mean squared log-count prediction error",
+  "primary_winner": "circular_section_area",
+  "winner_by_scope": {
+    "primary_four": "circular_section_area",
+    "original_three_selected": "interior_volume",
+    "mixed_stroke_five_conditional": "circular_section_area",
+    "photo_scale_six_conditional": "interior_volume",
+    "known_height_three": "diameter_length"
+  },
+  "primary_scores": [
+    {
+      "scope": "primary_four",
+      "model": "diameter_length",
+      "n": 4,
+      "log_rmse": 0.26006102380211354,
+      "mean_absolute_count_error": 0.9837828499008688,
+      "mean_absolute_percentage_count_error": 22.095314832003115
+    },
+    {
+      "scope": "primary_four",
+      "model": "circular_section_area",
+      "n": 4,
+      "log_rmse": 0.21709897724012323,
+      "mean_absolute_count_error": 0.8996925589524123,
+      "mean_absolute_percentage_count_error": 19.980575168551738
+    },
+    {
+      "scope": "primary_four",
+      "model": "interior_volume",
+      "n": 4,
+      "log_rmse": 0.3439886432860819,
+      "mean_absolute_count_error": 1.3295643498487633,
+      "mean_absolute_percentage_count_error": 27.697914254539043
+    }
+  ],
+  "h95_predictions": [
+    {
+      "scope": "primary_four",
+      "model": "diameter_length",
+      "target": "H95-2661",
+      "train_ids": "H-372|H-371|H-370",
+      "actual_count": 4,
+      "actual_quantity": 58.0,
+      "fitted_quantity_per_mark": 15.1644252979226,
+      "predicted_count": 3.824741054179318,
+      "predicted_quantity_from_actual_count": 60.6577011916904,
+      "absolute_count_error": 0.17525894582068213,
+      "absolute_percentage_count_error": 4.381473645517053,
+      "log_count_error": -0.04480359438679477
+    },
+    {
+      "scope": "primary_four",
+      "model": "circular_section_area",
+      "target": "H95-2661",
+      "train_ids": "H-372|H-371|H-370",
+      "actual_count": 4,
+      "actual_quantity": 2642.079421669016,
+      "fitted_quantity_per_mark": 905.4517417729502,
+      "predicted_count": 2.9179682359388956,
+      "predicted_quantity_from_actual_count": 3621.8069670918007,
+      "absolute_count_error": 1.0820317640611044,
+      "absolute_percentage_count_error": 27.050794101527607,
+      "log_count_error": -0.3154067966375251
+    },
+    {
+      "scope": "primary_four",
+      "model": "interior_volume",
+      "target": "H95-2661",
+      "train_ids": "H-372|H-371|H-370",
+      "actual_count": 4,
+      "actual_quantity": 88.90136720072964,
+      "fitted_quantity_per_mark": 40.32499105965232,
+      "predicted_count": 2.2046221180611996,
+      "predicted_quantity_from_actual_count": 161.29996423860928,
+      "absolute_count_error": 1.7953778819388004,
+      "absolute_percentage_count_error": 44.88444704847001,
+      "log_count_error": -0.5957382419363939
+    }
+  ],
+  "primary_constant_baseline": {
+    "n": 4,
+    "log_rmse": 0.44502957068242377,
+    "mean_absolute_count_error": 1.997864875433782,
+    "mean_absolute_percentage_count_error": 44.209443690453234
+  },
+  "quantity_per_mark_ranges": {
+    "diameter_length": [
+      11.942857142857141,
+      20.466666666666665
+    ],
+    "circular_section_area": [
+      660.519855417254,
+      986.9732200272812
+    ],
+    "interior_volume": [
+      22.22534180018241,
+      40.542857142857144
+    ]
+  },
+  "stress_scenarios": 6561,
+  "stress_winner_counts": {
+    "circular_section_area": 6561
+  },
+  "stress_counts_are_probabilities": false,
+  "external_cloth_or_land_account_tests_run": 0,
+  "external_account_unit_identified": false,
+  "significance_tests_run": 0,
+  "conclusion": "Vessel section-area fits the four-case panel better than capacity, while width best predicts H95. Results depend on scope and do not identify the dimension of an external account or a language."
+}

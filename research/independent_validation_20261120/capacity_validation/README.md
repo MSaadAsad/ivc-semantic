@@ -4,6 +4,12 @@
 
 [Open the illustrated report](results/capacity.html). [Prediction/geometry comparison](results/h95_capacity_comparison.svg). [Source drawing and trace](results/h95_profile_overlay.svg).
 
+## Could the marks describe length or area?
+
+The [new dimensional comparison](DIMENSION_TEST.md) tests all three against the same four jars, learning a common unit from the other jars before predicting each omitted count. Average count errors are **20% for widest cross-section area, 22% for width and 28% for capacity**, versus44% when ignoring geometry. Width predicts3.82 marks for the additional four-mark H95 jar; area predicts2.92 and volume2.20. The original selected three instead favor volume, and including two conditional objects can reverse the preference. This is an exploratory alternative, not an identified ancient unit or a new translation.
+
+[Open the length/area/volume report](results/dimensions.html). **Accounts for external cloth lengths or land areas remain untested:** vessel geometry is not the measured subject of that hypothesis. The report retains that distinction, all source cases and every prediction.
+
 ## What was tested
 
 The primary drawing labels the jar **H95-2661/6640-501**, an accession-based candidate for catalogue **H-2263**. The complete existing catalogue reading is **“4”**, sign034. The drawing also includes separate body writing and potter's marks that the rim-only catalogue entry does not transcribe. Its caption instead givesH95-2662; the catalogue unit string differs. All identifiers and discrepancies are retained.

@@ -22,7 +22,7 @@ for name,dest in folders:
         if f.is_file() and f.name!='workbook_data.json':
             if f.suffix=='.html':
                 page=f.read_text().replace('../../translation_catalogue/results/','../ivc-translation-catalogue/').replace('../../context_associations/results/','../ivc-context-associations/')
-                if name in {'residue_validation','context_validation','capacity_validation'}:page=page.replace('href="../README.md"','href="README.md"').replace('href="../SOURCES.md"','href="SOURCES.md"')
+                if name in {'residue_validation','context_validation','capacity_validation'}:page=page.replace('href="../README.md"','href="README.md"').replace('href="../SOURCES.md"','href="SOURCES.md"').replace('href="../DIMENSION_TEST.md"','href="DIMENSION_TEST.md"')
                 (dest/f.name).write_text(page)
             else:shutil.copy2(f,dest/f.name)
     readme=(src/'README.md').read_text().replace('../translation_catalogue/README.md','../ivc-translation-catalogue/README.md').replace('../proto_reconstruction/results/','../ivc-proto-reconstruction/').replace('../context_associations/results/','../ivc-context-associations/')
@@ -30,9 +30,12 @@ for name,dest in folders:
     for extra in ['CLUE_FOLLOWUP.md','SCREENSHOT_READINGS.md','PHYSICAL_NEXT_TESTS.md','SAME_CONTEXT_READINGS.md']:
         if (src/extra).exists():
             (dest/extra).write_text((src/extra).read_text().replace('(results/','('))
-    for f in ['SOURCE_README.md','source_corrections.json','SOURCES.md','COLLECTION_PROTOCOL.md','DESIGN.md']:
-        if (src/f).exists():shutil.copy2(src/f,dest/f)
+    for f in ['SOURCE_README.md','source_corrections.json','SOURCES.md','COLLECTION_PROTOCOL.md','DESIGN.md','DIMENSION_TEST.md']:
+        if (src/f).exists():
+            if f=='DIMENSION_TEST.md':(dest/f).write_text((src/f).read_text().replace('(results/','('))
+            else:shutil.copy2(src/f,dest/f)
     if name in {'context_validation','capacity_validation'}:shutil.copy2(src/'run.py',dest/'run.py')
+    if name=='capacity_validation':shutil.copy2(src/'dimensions.py',dest/'dimensions.py')
     if name in {'residue_validation','context_validation','capacity_validation'}:shutil.copytree(src/'inputs',dest/'inputs',dirs_exist_ok=True)
 books=catout/'original_reading_books';books.mkdir(exist_ok=True)
 for f in list(REPO.glob('READINGS*.md'))+[REPO/'CORPUS.md']:shutil.copy2(f,books/f.name)

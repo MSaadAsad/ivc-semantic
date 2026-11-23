@@ -1,0 +1,9 @@
+source_vessel_id,maximum_external_diameter_cm,external_height_cm,count,count_class,absolute_scale,primary_four_case,source_locator,qualification
+H-372,61.4,,3,clear_source_count,reported_dimension,True,Fuls2012 sec3.1 Table1,Only diameter used. Flattened table leaves position of64cm ambiguous; do not fill external height. Original selected volume-calibration jar.
+H-371,85.6,91.4,6,clear_source_count,reported_dimension,True,Fuls2012 sec3.1 Table1,Internal height74cm is distinct from exterior91.4cm. Source table not visually verified. Original selected calibration jar.
+H-370,83.6,86.4,7,clear_source_count,reported_dimension,True,Fuls2012 sec3.1 Table1,Internal height85cm distinct from exterior86.4cm; excavation identifier conflict retained in original source inventory.
+H95-2661,58,71,4,clear_source_count,labelled_profile_and_reported_dimension,True,Fuls2012 sec3.2; KenoyerFig7.2,"Use58cm external diameter for comparability, not the inner-profile diameter. Main capacity comes from the released88.90L trace."
+MD-1374,69,73,6,mixed_strokes_assumed_equivalent,reported_profile,False,Fuls2012 sec3.3; DalesKenoyer1986 pp240-241,Three vertical/three oblique marks assumed equivalent only in extended analysis; no catalogue join and no newly recovered primary section.
+K-90,64,54,2,clear_source_count,unlabelled_photo_scale,False,Fuls2012 sec3.4; CISI1987 p319,All dimensions and capacity conditional on the assumed photo scale; excluded from primary analysis.
+MD-63-3,42,67,1?,uncertain_numeric_interpretation,reported_small_profile,False,Fuls2012 sec3.3; MackayLXIII:3,Excluded: current proposed text is not an established numerical capacity inscription.
+MD-63-6,46,62,1?,uncertain_numeric_interpretation,reported_small_profile,False,Fuls2012 sec3.3; MackayLXIII:6,Excluded: current proposed text is not an established numerical capacity inscription.

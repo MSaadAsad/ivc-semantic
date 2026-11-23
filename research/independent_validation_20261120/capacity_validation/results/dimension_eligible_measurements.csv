@@ -1,0 +1,7 @@
+id,count,diameter_cm,height_cm,volume_l,primary,count_class,scale,source
+H-372,3,61.4,,121.0,True,clear_source_count,reported_dimension,Fuls2012 sec3.1 Table1
+H-371,6,85.6,91.4,240.6,True,clear_source_count,reported_dimension,Fuls2012 sec3.1 Table1
+H-370,7,83.6,86.4,283.8,True,clear_source_count,reported_dimension,Fuls2012 sec3.1 Table1
+H95-2661,4,58.0,71.0,88.90136720072964,True,clear_source_count,labelled_profile_and_reported_dimension,Fuls2012 sec3.2; KenoyerFig7.2
+MD-1374,6,69.0,73.0,138.8,False,mixed_strokes_assumed_equivalent,reported_profile,Fuls2012 sec3.3; DalesKenoyer1986 pp240-241
+K-90,2,64.0,54.0,103.0,False,clear_source_count,unlabelled_photo_scale,Fuls2012 sec3.4; CISI1987 p319
