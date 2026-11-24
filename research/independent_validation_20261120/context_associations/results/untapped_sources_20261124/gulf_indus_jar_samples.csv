@@ -1,0 +1,33 @@
+Sample_ID,Site_name,Sherd_or_other_analysis_number,Context_or_ID,Square,Additional_contextual_info,Cultural_period,Period,Rim_base_body,Individual_BSJ,Vessel_Notes,Lipid_concentration,d13C16,d13C18,bigdelta,Cumulative interpretation
+HIA47AE,Hili 8,A0047,600 UF23,,,UAN,IIf,Body,,,145.9,-23.7,-25.2,-1.4,Degraded animal fats (ruminant adipose)
+HIA74AE,Hili 8,A0074,2499 UF742,,,UAN,IIf,Body,,,81.6,-25.9,-26.3,-0.4,Degraded animal fats (ruminant adipose/non-ruminant)
+HIA802AE,Hili 8,A0802,750 UF59,,,Wadi Suq,III,Body,,,223.3,,,,Plant oil
+HIA1064AE,Hili 8,A1064,119,,,UAN,IIf,Body,,,149.5,,,,Plant oil
+BAT05AE,Bat,201061-002,SS,,Activity area outside of SS Structure 12 — context C14 dated to 2204-2026 calBC,UAN,Late UaN,Rim,,Black-slipped jar rim frag,24.8,,,,Degraded animal fats
+BAT14AE,Bat,131804-004,SS House (rockfall),,"From activity area associated with Settlement Slope Structure 1, just east of the building — C14 dated to 2470-2315 calBC",UAN,Mid UaN 1/2,Body,,Black-slipped jar body frag,59,-25.4,-26.7,-1.3,Degraded animal fats (ruminant adipose)
+K4.280,Kalba 4,280,2/004,,,UAN,,Body,,internal and external blk slip,31.7,-28.4,-28,0.5,Degraded animal fats (non-ruminant)
+K4.316,Kalba 4,316,22/026,,,UAN,,Body,,internal and external blk brown slip,37.9,,,,Degraded animal fats
+K4.495,Kalba 4,495,22/110,,,UAN,,Body,,internal and external blk slip,23.9,-28.9,-29.1,-0.3,Degraded animal fats (ruminant adipose/non-ruminant)
+K4.646,Kalba 4,646,23/052,,,UAN,,Base,,moulded base,52.2,-20.9,-21.38,-0.5,Degraded animal fats (marine?)
+K4.681,Kalba 4,681,32/054,,,UAN,,Body,,no slip,69.5,-27.1,-27.8,-0.7,Degraded animal fats (ruminant adipose)
+K4.828,Kalba 4,828,53/159,,,UAN,,Body,,internal and external blk slip,21.6,,,,Degraded animal fats
+K4.830,Kalba 4,830,53/160,,,UAN,,Body,,internal and external blk slip,28.1,,,,Degraded animal fats
+SLT01,Salut ST1,,207,,,UAN,,Rim,BSJ 1,MR-IN (BSJ),85.2,-27.1,-26.1,0.97,Degraded animal fats (non-ruminant) + plant product?
+SLT02,Salut ST1,,207,,,UAN,,Between body and funnel,ND,MR-IN (BSJ),22.9,-28.8,-29.3,-0.5,Degraded animal fats (ruminant adipose/non-ruminant) + plant product?
+SLT03,Salut ST1,,207,,,UAN,,Between body and funnel,BSJ 2,MR-IN (BSJ),6.6,,,,Degraded animal fats
+SLT04,Salut ST1,,207,,,UAN,,Body-top,BSJ 2,MR-IN (BSJ),18.3,,,,Degraded animal fats
+SLT05,Salut ST1,,207,,,UAN,,Body,BSJ 2,MR-IN (BSJ),20,,,,Degraded animal fats
+SLT08,Salut ST1,,207,,,UAN,,Body,BSJ 2,MR-IN (BSJ),35.9,,,,Not interpretable
+SLT09,Salut ST1,,207,,,UAN,,Body,BSJ 2,MR-IN (BSJ),18.4,-28.7,-29.2,-0.4,Degraded animal fats (ruminant adipose/non-ruminant)
+SLT10,Salut ST1,,207,,,UAN,,Body,ND,MR-IN (BSJ),5.7,,,,Not interpretable
+SLT38,Salut ST1,,207,,,UAN,,Body,BSJ 3,MR-IN (BSJ),30.9,,,,Degraded animal fats
+SLT59,Salut ST1,,330,,,UAN,,Between body and funnel,ND,,50.8,,,,Degraded animal fats
+SLT60,Salut ST1,,330,,,UAN,,Body,BSJ 3,,35.5,,,,Degraded animal fats
+SLT62,Salut ST1,,330,,,UAN,,Body,BSJ 2,MR-IN (BSJ),25.9,-28.1,-27.8,0.3,Degraded animal fats (non-ruminant)
+SLT63,Salut ST1,,330,,,UAN,,Body,BSJ 3,MR-IN (BSJ),59.5,-22.9,-26.4,-3.5,Degraded animal fats (dairy)
+SLT70,Salut ST1,,330,,,UAN,,Body,ND,MR-IN (BSJ),57.1,,,,Degraded animal fats
+SLT73,Salut ST1,,330,,,UAN,,Body,BSJ 4,MR-IN (BSJ),20.1,-26.5,-27.7,-1.2,Degraded animal fats (ruminant adipose) + plant product?
+SLT74,Salut ST1,,330,,,UAN,,Rim,BSJ 2,MR-IN (BSJ),21.9,-29.03,-29.05,-0.02,Degraded animal fats (ruminant adipose) + plant product?
+SLT78,Salut ST1,,330,,,UAN,,Base - funnel,BSJ 5,MR-IN (BSJ),65.4,,,,Degraded animal fats + plant product?
+SLT79,Salut ST1,,330,,,UAN,,Base - funnel,BSJ 5,MR-IN (BSJ),50,-26.56,-27.5,-0.9,Degraded animal fats (ruminant adipose) + plant product?
+DH7.8.AE,Dahwa 7,29,S:42:R4,F2,,UAN,,Rim,,Micaceous Red ware,21.7,,,,Degraded animal fats

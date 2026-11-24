@@ -1,5 +1,7 @@
 # Diary
 
+- 2026-11-24: Searched excavation reports and chemical data for additional marked pottery. Transcribed ten Bagasra contexts and extracted the 32 Indus sherds from the Arabian residue study. Found no verified inscription–residue match. Recorded Rakhigarhi, Kalba, Kalibangan and Tepe Yahya coverage. Colab units 0.
+
 - 2026-11-23: Recovered Vinod’s Dholavira pottery plate in the journal reprint. Reviewed nine illustrated groups, six with photos, against the two existing Lipi pottery faces and other ceramic candidates. No secure accession/sign join or storage-jar quantity trial. Preserved the source-reported stamped goblet and a graphic resemblance to 540 separately. Colab units 0.
 
 - 2026-11-23: Screened the CISI plates for all 31 Lothal objects with multiple impressions in Frenez 2020 (71 recorded impressions). Aligned L-190 catalogue A3 to Lipi 2112.1 by the long manager formula. Reviewed one source-supported partial order on L-211 and one tentative quantity-before-house case on L-198. Zero secure role comparisons. Colab units 0.

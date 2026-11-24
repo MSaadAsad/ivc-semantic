@@ -4,6 +4,8 @@ By Cúper (Yousef) Anas · [Website](https://cuuper22.github.io/ivc/) · [Cite t
 
 ## Independent semantic validation (2026-11-20)
 
+The [excavation and residue data search](research/independent_validation_20261120/context_associations/results/untapped_sources_20261124/REPORT.md) adds ten marked Bagasra jar-fragment records with excavation contexts and 32 residue-tested Indus jar sherd records from southeastern Arabia. No specimen links a usable Indus reading to a measured residue. The report records the Kalba and Rakhigarhi leads and their source limits.
+
 The [Dholavira pottery figure review](research/independent_validation_20261120/context_associations/results/dholavira_pottery/REPORT.md) inventories nine illustrated groups, including six with photographs, and compares them with the two existing pottery faces. A stamped goblet near-base mark and an unassigned bow-tie drawing are leads. No illustrated object supplies all the information needed for a storage-jar quantity test.
 
 The [Lothal stamp-order review](research/independent_validation_20261120/context_associations/results/lothal_stamp_order/REPORT.md) examines the original plates for all 31 objects with multiple impressions in the 2020 register. The proposed manager inscription on L-190 is printed panel A3 and numeric face 2112.1. L-211 supports a partial order between two proposed house labels. The possible quantity-before-house order on L-198 remains unresolved.

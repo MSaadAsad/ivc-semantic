@@ -1,3 +1,8 @@
+# Marked jars and residue data (2026-11-24)
+
+- `measured` Imported ten marked Bagasra black-slipped jar fragments from Table 4. The existing six Bagasra faces are seals. A separate source supplies 32 sampled Indus sherds from five Arabian sites, including plant oils at Hili 8 and dairy at Salūt-ST1. No verified inscription–residue specimen join. [Source audit and data](research/independent_validation_20261120/context_associations/results/untapped_sources_20261124/REPORT.md).
+- `guess` Compare independently coded sign sequences on the same vessel form across sites. The published Kalba rim at 53.161 and residue specimens from 53/159 and 53/160 are distinct contexts with no established vessel link.
+
 # Dholavira pottery inscriptions (2026-11-23)
 
 - `measured` Vinod’s pottery plate shows nine illustrated groups, six with photos and drawings, compared with two existing Lipi pottery faces. No secure join or eligible storage-jar quantity trial. [Plate and panel review](research/independent_validation_20261120/context_associations/results/dholavira_pottery/REPORT.md).
