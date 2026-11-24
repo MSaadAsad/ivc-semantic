@@ -1,3 +1,8 @@
+# Physical stamp order at Lothal (2026-11-23)
+
+- `measured` Original plates reviewed for all 31 objects with multiple impressions in Frenez 2020. The L-190 manager formula is CISI A3 and Lipi face 2112.1. L-211 supports a partial order between two proposed house stamps. Zero secure name–quantity comparisons. [Plate evidence and outcomes](research/independent_validation_20261120/context_associations/results/lothal_stamp_order/REPORT.md).
+- `guess` L-198 may put the putative quantity first. A surface scan or raking-light images of the junction could distinguish overlap direction from a break and establish whether the candidate merits a role comparison.
+
 # Spatial sign placement and exact text parallels (2026-11-23)
 
 - `measured` Exact-insertion search across 3,267 eligible overlapping catalogue rows / 1,870 numerical sequences finds no match for six primary longer-remainder anchors. Expanded review supports M-1904's six-stroke/trident scene layout against four photographed inline counterparts (H-71, M-178, M-822, M-1365): one count pattern. B-10/M-1200 seven-count and K-26 leaf/jar comparisons remain unresolved. No held-out trial or established meaning. [Photographs, meanings and source decisions](research/independent_validation_20261120/context_associations/results/spatial_substitution/spatial_substitution.html).

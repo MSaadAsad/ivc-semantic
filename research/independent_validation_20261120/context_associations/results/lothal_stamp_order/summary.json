@@ -1,0 +1,16 @@
+{
+  "sealing_objects_reviewed": 31,
+  "published_impressions_on_reviewed_objects": 71,
+  "physical_assessments": {
+    "possible_contact": 23,
+    "published_overlap_direction_open": 1,
+    "provisional_direction": 1,
+    "unresolved_contact": 4,
+    "separate_surfaces": 1,
+    "source_supported_partial_order": 1
+  },
+  "objects_with_supported_panel_ordinal_mismatch": [
+    "L-190"
+  ],
+  "secure_name_quantity_order_comparisons": 0
+}
