@@ -2,6 +2,8 @@
 
 24 November 2026. Follow-up to the [source audit](REPORT.md).
 
+The [reading tests](READING_TESTS.md) recover the Bagasra drawings from Lindstrom and compare their visible signs with the existing key and catalogue.
+
 ## Rakhigarhi lead ingot
 
 Nath, Law and Garge publish a photograph of the complete plano-convex lead ingot and separate detail photographs of the marks on both faces. They assayed the same object. Table 3 gives the ratios ²⁰⁸Pb/²⁰⁷Pb **2.4677**, ²⁰⁷Pb/²⁰⁶Pb **0.84747**, and ²⁰⁷Pb/²⁰⁴Pb **15.682**. The authors place it within the isotope field for southern Balochistan lead ores. The specimen is from RGR-2. RGR 424 is a small prism-shaped lead object from RGR-4 shown separately in Fig. 13. The excavation draft's Appendix 3, Fig. 14, reproduces the same ingot images and assay. A 1998–99 preliminary excavation article describes a plano-convex inscribed lead ingot among that season's finds. [Materials study, Fig. 12 and Table 3](https://heritageuniversityofkerala.com/JournalPDF/Volume2/74-100.pdf#page=14) · [1998–99 excavation account, p. 49](https://ignca.gov.in/Asi_data/85200.pdf) · [Excavation draft](https://rarebooksocietyofindia.org/book_archive/196174216674_10153813006761675.pdf).

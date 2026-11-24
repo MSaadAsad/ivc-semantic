@@ -4,6 +4,8 @@ By Cúper (Yousef) Anas · [Website](https://cuuper22.github.io/ivc/) · [Cite t
 
 ## Independent semantic validation (2026-11-20)
 
+The [new-object reading tests](research/independent_validation_20261120/context_associations/results/untapped_sources_20261124/READING_TESTS.md) recover the Bagasra sherd drawings in Lindstrom's dissertation. BSR J101 shows a six-spoked wheel and two strokes, which give “two quarter-shares” under the current key and have a whole-text counterpart at Harappa. A Sorath bowl has a conditional four-cloth parallel. The Rakhigarhi ingot has a plain-fish candidate.
+
 The [marked-object follow-up](research/independent_validation_20261120/context_associations/results/untapped_sources_20261124/FOLLOWUP.md) documents both photographed faces of a Rakhigarhi lead ingot and its independent isotope assay. It adds all 163 draft Rakhigarhi pottery-mark contexts, checks three illustrated Kalba fragments against the residue sample register, and finds one one-stroke parallel for the Bagasra sequence at Mohenjo-daro.
 
 The [excavation and residue data search](research/independent_validation_20261120/context_associations/results/untapped_sources_20261124/REPORT.md) adds ten marked Bagasra jar-fragment records with excavation contexts and 32 residue-tested Indus jar sherd records from southeastern Arabia. No specimen links a usable Indus reading to a measured residue. The report records the Kalba and Rakhigarhi leads and their source limits.

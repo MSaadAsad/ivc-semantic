@@ -1,3 +1,9 @@
+# Readings from Bagasra plates and Rakhigarhi (2026-11-24)
+
+- `measured` Matched Lindstrom's illustrated J101 to Ajithprasad's Phase II black-slipped jar context. Six-spoked 820 and two strokes are separately visible. The known Lipi order is 111 forward uses and one reverse across stroke-height variants. H-1882 is a whole two-sign parallel. [Images, contexts and comparisons](research/independent_validation_20261120/context_associations/results/untapped_sources_20261124/READING_TESTS.md).
+- `guess` Read J101 as “two quarter-shares” under Key 6A. The source provides no measured quantity. BSR 6606 has four strokes and a candidate M169-type branch, with full known comparators read “four woven-cloths” and “four new-cloths” depending on variant.
+- `measured` No seven-sign window matches the Rakhigarhi bone's reported three/three/one repeat counts in either catalogue. On the assayed lead ingot, the top fish outline is compatible with 220. Adjacent cuts and bottom marks still lack a complete reading.
+
 # Marked pottery and Rakhigarhi ingot follow-up (2026-11-24)
 
 - `measured` Recovered both photographed faces of the RGR-2 lead ingot and its published isotope assays. The metal is consistent with southern Balochistan ore. No recorded lead face appears in the working material field. The excavation draft's Q-19/4 specimen is a candidate join. [Photos and source comparison](research/independent_validation_20261120/context_associations/results/untapped_sources_20261124/FOLLOWUP.md).
