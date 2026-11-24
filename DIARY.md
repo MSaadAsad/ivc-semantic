@@ -1,5 +1,7 @@
 # Diary
 
+- 2026-11-24: Transcribed all 89 inscribed sherd contexts, located two still unillustrated specimens with at least two signs, and compared the Phase II Eo2 clay sealing with four catalogue seal photographs. Recovered museum context for the 6606 bowl and the likely Eo2 sealing accession. No new sign sequence. Colab units 0.
+
 - 2026-11-24: Recovered and inspected the Bagasra jar drawings and additional marked sherd figures in Lindstrom 2013. J101 wheel plus two strokes matches the known quarter-share formula under Key 6A. Screened the Sorath bowl's four-plus-branch reading, inspected L-222, checked the assayed lead ingot's plain-fish candidate and ran the Rakhigarhi bone repetition search. Colab units 0.
 
 - 2026-11-24: Reviewed both faces and the assay of the Rakhigarhi lead ingot. Imported the 163-row RGR-1 pottery register, checked three Kalba contexts against its seven tested fragments, and screened J1's reported marks against Lipi. Recorded Mackay's explicit LVII:36–42 rim cross-reference and discrepancy with LVII:35. Colab units 0.

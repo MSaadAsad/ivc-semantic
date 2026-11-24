@@ -1,3 +1,9 @@
+# Bagasra sherd register and Eo2 clay sealing (2026-11-24)
+
+- `measured` Transcribed 89 individually registered post-firing inscribed sherds. Six of eight listed with at least two signs already have reviewed images. The remaining two are MSU 7400 and 7078. [Register and source comparison](research/independent_validation_20261120/context_associations/results/untapped_sources_20261124/BAGASRA_EXTENSION.md).
+- `measured` The published Phase II Eo2 clay sealing has six reported signs on two lines, a unicorn and a thread trace. Three complete seals in the group photograph have single-line inscriptions.
+- `guess` The Eo2 sealing is likely museum entry 343702. The scan leaves the signs unresolved. The Eo11 spindle whorl is from a different layer than the “four cloths” bowl.
+
 # Readings from Bagasra plates and Rakhigarhi (2026-11-24)
 
 - `measured` Matched Lindstrom's illustrated J101 to Ajithprasad's Phase II black-slipped jar context. Six-spoked 820 and two strokes are separately visible. The known Lipi order is 111 forward uses and one reverse across stroke-height variants. H-1882 is a whole two-sign parallel. [Images, contexts and comparisons](research/independent_validation_20261120/context_associations/results/untapped_sources_20261124/READING_TESTS.md).
