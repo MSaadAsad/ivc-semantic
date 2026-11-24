@@ -4,6 +4,8 @@ By Cúper (Yousef) Anas · [Website](https://cuuper22.github.io/ivc/) · [Cite t
 
 ## Independent semantic validation (2026-11-20)
 
+The [Dholavira pottery figure review](research/independent_validation_20261120/context_associations/results/dholavira_pottery/REPORT.md) inventories nine illustrated groups, including six with photographs, and compares them with the two existing pottery faces. A stamped goblet near-base mark and an unassigned bow-tie drawing are leads. No illustrated object supplies all the information needed for a storage-jar quantity test.
+
 The [Lothal stamp-order review](research/independent_validation_20261120/context_associations/results/lothal_stamp_order/REPORT.md) examines the original plates for all 31 objects with multiple impressions in the 2020 register. The proposed manager inscription on L-190 is printed panel A3 and numeric face 2112.1. L-211 supports a partial order between two proposed house labels. The possible quantity-before-house order on L-198 remains unresolved.
 
 The [spatial substitution search](research/independent_validation_20261120/context_associations/results/spatial_substitution/spatial_substitution.html) compares published animal-facing glyphs against exact text counterparts. Four photographed objects put six strokes and a trident together in text, paralleling M-1904's separated scene arrangement. Its tentative whole-design gloss is “six [cloth?]” under the unchanged sign-390 key; cloth is not independently identified. The six primary longer-remainder anchors have no match, and the seven-stroke and leaf/jar leads remain unresolved. No held-out prediction or language validation is claimed.

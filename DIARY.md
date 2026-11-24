@@ -1,5 +1,7 @@
 # Diary
 
+- 2026-11-23: Recovered Vinod’s Dholavira pottery plate in the journal reprint. Reviewed nine illustrated groups, six with photos, against the two existing Lipi pottery faces and other ceramic candidates. No secure accession/sign join or storage-jar quantity trial. Preserved the source-reported stamped goblet and a graphic resemblance to 540 separately. Colab units 0.
+
 - 2026-11-23: Screened the CISI plates for all 31 Lothal objects with multiple impressions in Frenez 2020 (71 recorded impressions). Aligned L-190 catalogue A3 to Lipi 2112.1 by the long manager formula. Reviewed one source-supported partial order on L-211 and one tentative quantity-before-house case on L-198. Zero secure role comparisons. Colab units 0.
 
 - 2026-11-23: Ran frozen exact-remainder spatial search on all33 illustrated layouts plus19 workbook alternatives, searching3,267 eligible overlapping rows/1,870 numerical sequences with original Mahadevan uncertainty flags. Six primary longer anchors have no match. Expanded image review supports four inline counterparts for M-1904's six-stroke/trident arrangement, one short pattern; conditional “six [cloth?]” uses unchanged390 and preserves old003-003/S390. Seven-count M-1200 photo is unresolved; K-26 lacks verified target imagery. Credited prior copper/animal tests and existing field codes; no blind prediction, established cloth meaning or language result. All local; Colab units:0.

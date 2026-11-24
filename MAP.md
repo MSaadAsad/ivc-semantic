@@ -1,3 +1,8 @@
+# Dholavira pottery inscriptions (2026-11-23)
+
+- `measured` Vinod’s pottery plate shows nine illustrated groups, six with photos and drawings, compared with two existing Lipi pottery faces. No secure join or eligible storage-jar quantity trial. [Plate and panel review](research/independent_validation_20261120/context_associations/results/dholavira_pottery/REPORT.md).
+- `guess` The near-base goblet stamp could add a pre-firing comparison if its accession and marks can be confirmed. Recover illustrated sherds’ form and firing records before inferring capacity from the bow-tie drawing or the stroke clusters.
+
 # Physical stamp order at Lothal (2026-11-23)
 
 - `measured` Original plates reviewed for all 31 objects with multiple impressions in Frenez 2020. The L-190 manager formula is CISI A3 and Lipi face 2112.1. L-211 supports a partial order between two proposed house stamps. Zero secure name–quantity comparisons. [Plate evidence and outcomes](research/independent_validation_20261120/context_associations/results/lothal_stamp_order/REPORT.md).
