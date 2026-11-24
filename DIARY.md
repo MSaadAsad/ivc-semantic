@@ -1,5 +1,7 @@
 # Diary
 
+- 2026-11-24: Reviewed both faces and the assay of the Rakhigarhi lead ingot. Imported the 163-row RGR-1 pottery register, checked three Kalba contexts against its seven tested fragments, and screened J1's reported marks against Lipi. Recorded Mackay's explicit LVII:36–42 rim cross-reference and discrepancy with LVII:35. Colab units 0.
+
 - 2026-11-24: Searched excavation reports and chemical data for additional marked pottery. Transcribed ten Bagasra contexts and extracted the 32 Indus sherds from the Arabian residue study. Found no verified inscription–residue match. Recorded Rakhigarhi, Kalba, Kalibangan and Tepe Yahya coverage. Colab units 0.
 
 - 2026-11-23: Recovered Vinod’s Dholavira pottery plate in the journal reprint. Reviewed nine illustrated groups, six with photos, against the two existing Lipi pottery faces and other ceramic candidates. No secure accession/sign join or storage-jar quantity trial. Preserved the source-reported stamped goblet and a graphic resemblance to 540 separately. Colab units 0.

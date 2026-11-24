@@ -4,6 +4,8 @@ By Cúper (Yousef) Anas · [Website](https://cuuper22.github.io/ivc/) · [Cite t
 
 ## Independent semantic validation (2026-11-20)
 
+The [marked-object follow-up](research/independent_validation_20261120/context_associations/results/untapped_sources_20261124/FOLLOWUP.md) documents both photographed faces of a Rakhigarhi lead ingot and its independent isotope assay. It adds all 163 draft Rakhigarhi pottery-mark contexts, checks three illustrated Kalba fragments against the residue sample register, and finds one one-stroke parallel for the Bagasra sequence at Mohenjo-daro.
+
 The [excavation and residue data search](research/independent_validation_20261120/context_associations/results/untapped_sources_20261124/REPORT.md) adds ten marked Bagasra jar-fragment records with excavation contexts and 32 residue-tested Indus jar sherd records from southeastern Arabia. No specimen links a usable Indus reading to a measured residue. The report records the Kalba and Rakhigarhi leads and their source limits.
 
 The [Dholavira pottery figure review](research/independent_validation_20261120/context_associations/results/dholavira_pottery/REPORT.md) inventories nine illustrated groups, including six with photographs, and compares them with the two existing pottery faces. A stamped goblet near-base mark and an unassigned bow-tie drawing are leads. No illustrated object supplies all the information needed for a storage-jar quantity test.

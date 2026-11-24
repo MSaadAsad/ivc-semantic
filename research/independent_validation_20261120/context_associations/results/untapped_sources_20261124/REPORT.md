@@ -2,6 +2,8 @@
 
 24 November 2026. Compared with the local continuation through `24c673e` and the upstream reports and scripts present in that checkout. Catalogue counts use the city and object-type fields in [all_inscriptions.csv](../../../translation_catalogue/results/all_inscriptions.csv). Claims about coverage apply to the inspected material.
 
+The [first follow-up](FOLLOWUP.md) recovers a photographed and assayed lead ingot and digitizes the Rakhigarhi pottery table. It tests the Bagasra description against the catalogue and compares all three documented Kalba marks with residue sample contexts.
+
 ## Bagasra black-slipped jars
 
 Imported [all ten mark-bearing fragments from Table 4](bagasra_marked_jars.csv), each with an accession, trench, layer, depth and phase. The working catalogue has six Bagasra faces, all seals (BSR 7368, 2037, 6719, 6952, 7197 and 8288). Prior work covers Bagasra seals and a fastening impression. Searches of the local reports and scripts for the jar paper, author and distinctive accessions did not find an import of this marked series. These are ten added **object records with published markings**. The figure is linked. Its image file could not be retrieved for independent sign coding in this pass. [Ajithprasad 2013, pp. 187–191, Tables 3–4 and Figures 13–14](https://www.researchgate.net/publication/333220424_The_Cultural_and_Stratigraphic_Context_of_the_Harappan_Black_Slipped_Jar_at_Bagasra_Gujarat), [Figure 13](https://www.researchgate.net/figure/Graffiti-on-the-black-slipped-jars-from-Bagasra_fig7_333220424).

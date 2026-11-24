@@ -1,3 +1,9 @@
+# Marked pottery and Rakhigarhi ingot follow-up (2026-11-24)
+
+- `measured` Recovered both photographed faces of the RGR-2 lead ingot and its published isotope assays. The metal is consistent with southern Balochistan ore. No recorded lead face appears in the working material field. The excavation draft's Q-19/4 specimen is a candidate join. [Photos and source comparison](research/independent_validation_20261120/context_associations/results/untapped_sources_20261124/FOLLOWUP.md).
+- `measured` The Bagasra J1 description yields zero contiguous matches among 5,679 Lipi faces with two strokes. The one-stroke rescue yields M-2061. Three illustrated Kalba loci match none of the seven tested Kalba contexts. Extracted all 163 Rakhigarhi pottery records, 152 marked after firing.
+- `guess` Compare the ingot's fish-like outline against 220 and its alternatives before applying any proposed metal or title reading. The source images establish use on lead while the inscription's meaning remains open.
+
 # Marked jars and residue data (2026-11-24)
 
 - `measured` Imported ten marked Bagasra black-slipped jar fragments from Table 4. The existing six Bagasra faces are seals. A separate source supplies 32 sampled Indus sherds from five Arabian sites, including plant oils at Hili 8 and dairy at Salūt-ST1. No verified inscription–residue specimen join. [Source audit and data](research/independent_validation_20261120/context_associations/results/untapped_sources_20261124/REPORT.md).
